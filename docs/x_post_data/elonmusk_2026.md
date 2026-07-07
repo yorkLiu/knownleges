@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 945 条推文
+> 📊 推文存档 - 共 948 条推文
 
 ---
 
@@ -92,6 +92,34 @@ AI+Optimus will enable universal excellent healthcare that is better than anyone
 <img src="/images/elonmusk/amplify_video_thumb_2074165891353186304_img_MpC8u4WxAWHsW87d.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2074339319779569908#m)
+
+---
+
+## 2026-07-07 11:57:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Voice just got a major upgrade SpaceXAI released 21 new flagship voices for Grok, joining the original five All of them are multilingual and available now through: • Realtime Voice Agent API • Text-to-Speech API • Grok Voice Agent Builder This is not just “more voices” SpaceXAI is building a full voice layer for AI agents: Support agents, characters, commentary, advertising, education, wellness, customer service Every voice is designed for a different use case, with support for 25+ languages The original Grok voices - Ara, Eve, Leo, Rex, and Sal....also got upgraded with better pacing, phrasing, emphasis, and naturalness And builders can now create custom voice agents directly inside the SpaceXAI console
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFy2pMidOx5cPWWmPdhWHKHMg4OyLfAAKKD2sbmMRgVqjbZLf4DgcvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2074342047138603500#m)
+
+---
+
+## 2026-07-07 12:50:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2074219919143550977_img_6KcwZujEW2wzhyLT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074355329517629776#m)
 
 ---
 
@@ -268,6 +296,18 @@ RT by @elonmusk: My husband and I are honored and thrilled to participate in the
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFvGpLzKiAlrIWl3U3tlypwFgCqkHLAAJkEmsbmMRYVnz3nfFDapujAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Gwynne_Shotwell/status/2074064376810614926#m)
+
+---
+
+## 2026-07-06 19:18:38
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: The entire “White Supremacy” narrative was a Democrat and Legacy Media creation. From 2010-2020: LA Times: 9749% New York Times: 2969% Washington Post: 6778% Wall Street Journal: 1691% None of it was organic. It was all manufactured. All to push anti-white racism and divide.
+
+[查看原文](https://nitter.net/C_3C_3/status/2074090643412971542#m)
 
 ---
 
