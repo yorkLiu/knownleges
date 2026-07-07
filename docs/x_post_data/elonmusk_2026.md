@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 951 条推文
+> 📊 推文存档 - 共 960 条推文
 
 ---
 
@@ -160,6 +160,140 @@ Grok Imagine update
 <img src="/images/elonmusk/amplify_video_thumb_2074303594329985024_img_9Vq3OhEltkuLNAs6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2074378653501128833#m)
+
+---
+
+## 2026-07-07 14:41:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Image
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF6mpNIoIEbw-ttHDoX811Dgcyi2fYAALDDmsbmMRoVhnSC7UzTZlSAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheAliceSmith/status/2074383315566477551#m)
+
+---
+
+## 2026-07-07 15:23:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9 landing confirmed
+
+<img src="/images/elonmusk/amplify_video_thumb_2074393474854498305_img_D5mNsLlk7Ofr7k7S.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2074393818850357568#m)
+
+---
+
+## 2026-07-07 19:59:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 𝕏 was the 6th most visited website in the world last month. 𝕏 also recorded the highest month-over-month growth among the top 10 websites, rising +4.66%. With 4.39 billion visits, 𝕏 also beat Reddit and TikTok.
+
+<img src="/images/elonmusk/amplify_video_thumb_2074463047142551553_img_P99x952YdRQEqR5j.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2074463213010456679#m)
+
+---
+
+## 2026-07-07 21:33:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 2023: “Twitter rebrand to X is destined to fail.” 2026: “Fastest-growing website among the top 20 in the world.”
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF5WpNIm-nUanqmlNjpuGvc8liGxaCAAK-DmsbmMRoVlhsxqB0O7XRAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF5mpNInODTXjLCqoZ8nJnZaq0m6PuAAK_DmsbmMRoVk0UROFV2GeyAQADAgADeAADPAQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/KatieMiller/status/2074487080160301064#m)
+
+---
+
+## 2026-07-07 23:05:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+𝕏 had the highest monthly growth of any top 10 site in June
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF7mpNIpAyBwWqMxJcwiafYw4AAaUdfwACxw5rG5jEaFZJt7nWu5ez0QEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074510011099754802#m)
+
+---
+
+## 2026-07-07 23:44:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Falcon delivers 81 satellites to orbit
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF62pNIoYx6MvSVrOjw6oilfJvrpGfAALEDmsbmMRoVnzDG6wB3J4iAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF7GpNIoomaWNJCFME6cCAAAGT5Ru9-gACxQ5rG5jEaFYDTVBHzEY_KgEAAwIAA3kAAzwE.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF7WpNIowLYBA2HHcUQ5nxoS9f_gM0AALGDmsbmMRoVv1wh1DHu-ZkAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074519858381799592#m)
+
+---
+
+## 2026-07-07 23:47:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’re gonna need a bigger rocket! (Starship)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF52pNInfUau6mUdW-FaU447T44M2GAALADmsbmMRoVvSlJRlMXRCuAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF6GpNInoM6sj-F-KilMGXyN-Cw50AA8EOaxuYxGhWz6178ZrC_MIBAAMCAAN5AAM8BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF6WpNIn5XBjh0ddidFV9NpJtDRoqtAALCDmsbmMRoVog_1isSdnqYAQADAgADeQADPAQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074520690326196556#m)
+
+---
+
+## 2026-07-07 23:50:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Why did the media push this lie so hard?
+
+[查看原文](https://nitter.net/elonmusk/status/2074521451474895265#m)
+
+---
+
+## 2026-07-07 23:51:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2074383634744721409_img_j1BBVsdk7OSYe_fU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074521679179526572#m)
 
 ---
 
