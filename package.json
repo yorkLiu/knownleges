@@ -1,0 +1,29 @@
+{
+ "name": "knownleges",
+ "version": "1.0.0",
+ "type": "module",
+ "description": "> 精选推文与洞察 · 自动同步更新",
+  "main": "index.js",
+"scripts": {
+  "dev": "vitepress dev docs --host 0.0.0.0 --port 5173",
+  "build": "vitepress build docs",
+  "preview": "vitepress preview docs",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorkLiu/knownleges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yorkLiu/knownleges/issues"
+  },
+  "homepage": "https://github.com/yorkLiu/knownleges#readme",
+  "dependencies": {
+    "markdown-it": "^14.2.0",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.34"
+  }
+}

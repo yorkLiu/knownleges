@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "JonathanDi3614",
+      "rss_feed_url": "https://rss.app/r/feed/tIewxv8AKFSfm56t",
+      "feishu_doc_token": "ZdIxdBXI4oaSYyxxMBcc1aH9nnb",
+      "notification_chat_id": "oc_84564299721c33f1eb964aa00fac91b1"
+    },
+    {
+      "username": "xiaomustock",
+      "rss_feed_url": "https://rss.app/r/feed/FhD9cblDoGKPLHfg",
+      "feishu_doc_token": "ZdIxdBXI4oaSYyxxMBcc1aH9nnb",
+      "notification_chat_id": "oc_84564299721c33f1eb964aa00fac91b1"
+    }
+  ]
+}

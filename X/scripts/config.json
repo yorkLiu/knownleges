@@ -1,0 +1,17 @@
+{
+ "target_users": {
+ "JonathanDi3614": "A 股第一猛庄",
+ "xiaomustock": "川沐｜Trumoo🐮",
+ "elonmusk": "Elon Musk",
+ "karpathy": "Andrej Karpathy",
+ "aleabitoreddit": "Serenity | The famous @Reddit WSB Trader", 
+  "dianzhuXS":"點燭先生",
+  "Mimiwftt":"Mistery"
+ },
+ "output_dir": "/data/hermes/workspace/knownleges/data/x_data",
+ "provider": "nitter",
+ "rss_base_url": "https://nitter.net",
+ "max_tweets_per_user": 20,
+ "timezone": "GMT+08:00",
+ "timezone_offset": 8
+}

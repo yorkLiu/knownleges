@@ -1,0 +1,78 @@
+{
+ "type": "excalidraw",
+ "version": 2,
+ "source": "hermes-agent-knownleges-logo",
+ "elements": [
+  {
+   "type": "rectangle",
+   "id": "book",
+   "x": 50,
+   "y": 50,
+   "width": 180,
+   "height": 140,
+   "roundness": {"type": 3},
+   "backgroundColor": "#a5d8ff",
+   "fillStyle": "solid",
+   "strokeWidth": 2,
+   "strokeColor": "#1e1e1e"
+  },
+  {
+   "type": "rectangle",
+   "id": "book-spine",
+   "x": 110,
+   "y": 50,
+   "width": 20,
+   "height": 140,
+   "backgroundColor": "#d0bfff",
+   "fillStyle": "solid",
+   "strokeWidth": 0
+  },
+  {
+   "type": "text",
+   "id": "book-text",
+   "x": 100,
+   "y": 80,
+   "width": 140,
+   "height": 25,
+   "text": "K",
+   "fontSize": 40,
+   "fontFamily": 1,
+   "strokeColor": "#ffffff",
+   "textAlign": "center",
+   "verticalAlign": "middle",
+   "containerId": "book",
+   "originalText": "K",
+   "autoResize": true,
+   "fontWeight": "bold"
+  },
+  {
+   "type": "text",
+   "id": "title",
+   "x": 50,
+   "y": 210,
+   "text": "knownleges",
+   "fontSize": 24,
+   "fontFamily": 1,
+   "strokeColor": "#1e1e1e",
+   "originalText": "knownleges",
+   "autoResize": true,
+   "fontWeight": "bold"
+  },
+  {
+   "type": "text",
+   "id": "subtitle",
+   "x": 50,
+   "y": 240,
+   "text": "Wiki",
+   "fontSize": 16,
+   "fontFamily": 1,
+   "strokeColor": "#666666",
+   "originalText": "Wiki",
+   "autoResize": true
+  }
+ ],
+ "appState": {
+   "viewBackgroundColor": "#ffffff",
+   "gridSize": 20
+ }
+}

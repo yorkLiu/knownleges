@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect x="50" y="50" width="180" height="140" rx="10" fill="#a5d8ff" stroke="#1e1e1e" stroke-width="2"/>
+  <rect x="110" y="50" width="20" height="140" fill="#d0bfff"/>
+  <text x="140" y="115" font-size="40" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="sans-serif">K</text>
+  <text x="140" y="230" font-size="24" font-weight="bold" fill="#1e1e1e" text-anchor="middle" font-family="sans-serif">knownleges</text>
+  <text x="140" y="260" font-size="16" fill="#666666" text-anchor="middle" font-family="sans-serif">Wiki</text>
+</svg>

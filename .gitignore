@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+
+# 超大数据文件（单文件超过 GitHub 100MB 限制）
+data/x_data/Mimiwftt/
+
+# VitePress 构建产物（不要提交）
+docs/.vitepress/dist/
+
+# 自动提交日志
+.git-auto-commit.log
+.last_commit_hash
+
+# 临时文件
+*.log
+.DS_Store
+
