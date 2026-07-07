@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 182 条推文
+> 📊 推文存档 - 共 183 条推文
 
 ---
 
@@ -38,6 +38,18 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzWpMn6F7OcCDXkQcTzmJ7Vcz2jv-AALlD2sbmMRgVpItbUL48fPhAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/xiaomustock/status/2074380020429226196#m)
+
+---
+
+## 2026-07-07 14:30:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韩国股市涨熔断的时候坚决不买， 跌停熔断韩国人都吓死了抓紧买
+
+[查看原文](https://nitter.net/xiaomustock/status/2074380412240228648#m)
 
 ---
 

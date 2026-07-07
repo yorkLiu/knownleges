@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 147 条推文
+> 📊 推文存档 - 共 148 条推文
 
 ---
 
@@ -36,6 +36,26 @@ tags: ["2026"]
 <img src="/images/dianzhuXS/card_img_2073741127371616257_Ztsn06FE3Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/dianzhuXS/status/2074302695088025985#m)
+
+---
+
+## 2026-07-07 15:05:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+懶得打字了 發幾張截圖 準就說準 別控制😮‍💨
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF0GpMpuvPWa-zqWVJ5N-3S9_i9eiSAAIJEGsbmMRgVgiKheXFkk0fAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF0WpMpu9eECVrZtrh6Qs99kscLM2vAAIKEGsbmMRgVksPRLffg9VKAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF0mpMpvQXiCDVO8qvUFVfiJ1eJMACAAILEGsbmMRgVhWQ82q0A_8dAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF02pMpvdu6vkXn_HPPg2yc0yoG0TnAAIMEGsbmMRgVsmNau3fZe6jAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2074389300960190472#m)
 
 ---
 

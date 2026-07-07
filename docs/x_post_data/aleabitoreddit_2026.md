@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 254 条推文
+> 📊 推文存档 - 共 255 条推文
 
 ---
 
@@ -48,6 +48,20 @@ Was a sad few months for $RDDT. But glad it's finally back above $200. Reddit wa
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFwmpMHJhZgHNC8obfRrBl8Q_hrmdQAALWDmsbmMRgVuBR2OHN1sllAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074240512593481955#m)
+
+---
+
+## 2026-07-07 14:32:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Trump: “You have a couple of guys who went short. Those poor ******* they’re in big trouble. They’re being wiped out. The short guys. I never liked short guys because they’re betting against the country”.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFz2pMpuZlpxJ2J5CTqce4rM8q3JPYAAIIEGsbmMRgVq89h6otz6s9AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074381029146837207#m)
 
 ---
 
