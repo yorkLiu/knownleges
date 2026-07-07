@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 258 条推文
+> 📊 推文存档 - 共 259 条推文
 
 ---
 
@@ -104,6 +104,18 @@ Raymond James initiated coverage of $SPCX with “Strong Buy”. Giving it a $80
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF42pM7440Wa6VRkmipvEyqD4I0oTzAALlEGsbmMRgVgUBROGNBqpXAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074466925263061100#m)
+
+---
+
+## 2026-07-07 22:03:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just putting it out there: If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... Which are all down -4% to -10%+ today so far. Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074494514061017508#m)
 
 ---
 
