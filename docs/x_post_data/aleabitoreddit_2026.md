@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 261 条推文
+> 📊 推文存档 - 共 262 条推文
 
 ---
 
@@ -36,6 +36,20 @@ How is the US so far behind? Xinhua: China's output of humanoids are expected to
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF8mpNP3w_1ZmJQzjDtSM9JkMM9EkZAAIlD2sbmMRoVrXXsqjmkglQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074548850996707412#m)
+
+---
+
+## 2026-07-08 02:56:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing: Spokesperson: "Meta is still hungry for even more computing power. It is still moving forward with plans for expensive new data centers and recently inked major computing deals with $CRVW, Google, $ORCL, and others." Just dropped that in with the Meta Muse announcement, and evenn threw in the "expensive" framing with DCs to signal capex. But little late given we're likely seeing a lot of margin liquidation cascades and heavy losses from media framing earlier.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF82pNTgVJ_zGylb5tAfk0vlnskAVVAAIwD2sbmMRoVs1FpM7TDlZmAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074568161299771394#m)
 
 ---
 
