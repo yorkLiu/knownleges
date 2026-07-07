@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 256 条推文
+> 📊 推文存档 - 共 257 条推文
 
 ---
 
@@ -78,6 +78,18 @@ One of the dumbest thematic selloffs I’ve seen to to date off: - $META compute
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF4WpMvLUVtDpy-YtEDdZ71SFAgxoiAAJMEGsbmMRgVo4VPuZTC2hbAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074405723816304743#m)
+
+---
+
+## 2026-07-07 16:54:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Be Samsung at $1.24T: > market: we don’t think you can keep hiking memory prices > proceeds to hikes dram by 20% > releases earnings > most profitable company in the world beating $NVDA and $AAPL > operating profits growing 1803% Y/Y market: sells off Samsung -7%
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074416685843612031#m)
 
 ---
 

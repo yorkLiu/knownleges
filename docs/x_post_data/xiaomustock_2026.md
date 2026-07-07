@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 184 条推文
+> 📊 推文存档 - 共 185 条推文
 
 ---
 
@@ -64,6 +64,18 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF2GpMtWnWZ2hW3O0lSuJ3Y8KxgHlcAAI0EGsbmMRgVprOkcbJrBwVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/xiaomustock/status/2074402565207503360#m)
+
+---
+
+## 2026-07-07 16:58:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awareness Partners 三方合计70亿美金
+
+[查看原文](https://nitter.net/xiaomustock/status/2074417712261169223#m)
 
 ---
 
