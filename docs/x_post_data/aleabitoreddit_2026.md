@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 255 条推文
+> 📊 推文存档 - 共 256 条推文
 
 ---
 
@@ -62,6 +62,22 @@ Trump: “You have a couple of guys who went short. Those poor ******* they’re
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFz2pMpuZlpxJ2J5CTqce4rM8q3JPYAAIIEGsbmMRgVq89h6otz6s9AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074381029146837207#m)
+
+---
+
+## 2026-07-07 16:10:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+One of the dumbest thematic selloffs I’ve seen to to date off: - $META compute news that’s not new - CPO delay report 1, that got refuted by $NVDA - CPO delay report 2, that got refuted by $NVDA High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF4GpMvLHHmhR6HoCIXF-Kx-DSdKzyAAJLEGsbmMRgVjNLH1AdRzdzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF4WpMvLUVtDpy-YtEDdZ71SFAgxoiAAJMEGsbmMRgVo4VPuZTC2hbAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074405723816304743#m)
 
 ---
 
