@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 199 条推文
+> 📊 推文存档 - 共 200 条推文
 
 ---
 
@@ -34,6 +34,24 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF9WpNcl0y_0qcui2rHTO66XyJTcY9AAJSD2sbmMRoVgja-uQoIrY8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074601805905092983#m)
+
+---
+
+## 2026-07-08 06:48:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【市场观点｜4000点失守后的应对策略】 昨日上证指数正式跌破4000点整数关口，这是一个重要的心理关口，也是短期多空力量转换的重要观察位。 如果指数3个交易日内无法重新站上4000点，说明短期空头占据主动，建议重仓投资者及时做好仓位管理，将整体仓位控制在五成以下。在趋势重新转强之前，不建议频繁参与短线交易，尤其避免逆势博弈。（昨天尾盘低吸的可以趁今天修复做个短期高抛，这个位置暂时不能确定中线底部，只是短期冰点） 虽然中长期依然期待指数最终向上突破，但前提是必须有效突破4177点压力位。只有突破并站稳4177，上方4258点前高才有望被重新挑战，市场才可能真正进入新一轮突破行情。在此之前，大盘仍应按照震荡调整思路看待，而不是盲目乐观。 在5月27日语音复盘中，我曾提示大家重点关注一种可能性——扩展型平台（Expanded Flat）调整结构。这种浪型的特点是： 前期高点附近反复震荡； 跌破重要支撑，向下寻找新的低点； 完成调整后，再启动一轮更强的上涨，并有机会突破前高。 按照目前的结构来看，4000点失守只是调整的开始，而3794点则是下一道关键支撑位。 如果3794也被有效跌破，那么指数大概率将继续向3700点附近寻找中期支撑区域。3700附近既是前期平台支撑，也是波浪理论中4浪调整较为合理的目标区域。 需要强调的是，3700附近并不意味着行情结束，而更可能是中期调整完成的重要观察区间。 如果能够在该区域形成止跌信号，后续仍有望重新发起对4258点的突破，并开启新的上涨阶段。 当前阶段，最重要的不是预测市场，而是做好风险控制。 跌破4000点后，应以仓位管理应对风险，而不是重仓硬扛。 高位科技、AI等前期涨幅较大的热门板块，需要重点防范补跌风险。 在指数重新站稳4000点并突破4177点之前，以控制回撤、耐心等待趋势明朗为主。 交易永远是先控制风险，再等待机会。守住本金，才能在下一轮突破行情中拥有充足的参与能力。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF9mpNiCxH1OYkuhBHMeiTGumW7FlmAAJdD2sbmMRoVoH505ARz5fBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF92pNiDCcDfsKBECMe4SIttmujV7sAAJeD2sbmMRoVg_tn3sbJWSnAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-GpNiDNhX6JV3BPvk5_ZJv1RBG0zAAJfD2sbmMRoVhqg64mX1H-kAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074626688479326239#m)
 
 ---
 
