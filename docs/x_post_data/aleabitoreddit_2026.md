@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 260 条推文
+> 📊 推文存档 - 共 261 条推文
 
 ---
 
@@ -22,6 +22,20 @@ This is the average visual TA bro, takes a 50% 50% coinflip: If it goes the othe
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF72pNMPT8BPLZ1siX8Qzhue29T-s_AAITD2sbmMRoVoWILQGZisF8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074533565505876218#m)
+
+---
+
+## 2026-07-08 01:39:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+How is the US so far behind? Xinhua: China's output of humanoids are expected to hit 100,000+ this year. Even Morgan Stanley originally projected 14,000 for 2026... Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. Cause this disparity between US vs. China mass production is getting ridiculous... But it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF8mpNP3w_1ZmJQzjDtSM9JkMM9EkZAAIlD2sbmMRoVrXXsqjmkglQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074548850996707412#m)
 
 ---
 
