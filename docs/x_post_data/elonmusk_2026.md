@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 962 条推文
+> 📊 推文存档 - 共 964 条推文
 
 ---
 
@@ -48,6 +48,22 @@ RT by @elonmusk: DRIVE-BY MEDIA: Most Americans believe that black women are pri
 RT by @elonmusk: If you want to start a startup, don't learn "entrepreneurship." Learn how to build things. The hard part of startups is not "entrepreneurship" but product: to know what to build, and to be able to build it.
 
 [查看原文](https://nitter.net/paulg/status/2074184773480726854#m)
+
+---
+
+## 2026-07-07 03:18:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Image
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF8GpNODjHyvxaMJV6M8gy4uq6bF_2AAIZD2sbmMRoVtJBAocOG1iAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF8WpNODwmIZXu7MUl5-5hNtng1J06AAIaD2sbmMRoVhuM_z_zuyJ7AQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/IterIntellectus/status/2074211370464153863#m)
 
 ---
 
@@ -232,6 +248,20 @@ RT by @elonmusk: 2023: “Twitter rebrand to X is destined to fail.” 2026: “
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF5mpNInODTXjLCqoZ8nJnZaq0m6PuAAK_DmsbmMRoVk0UROFV2GeyAQADAgADeAADPAQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/KatieMiller/status/2074487080160301064#m)
+
+---
+
+## 2026-07-07 22:40:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Americans have had enough of the bottom 2% of society ruining our lives “I'm gonna be so blunt. Because of the ghetto-ass activities that happened in Newport Beach — we are now going to see next year a more secure minimum confined prison in the area because of these f*cking parasites that should be locked up in a cage — This bottom 2% people of society cause all of our problems. I know you don't want to hear it. I know it might be mean, but they do. And if we just threw them all in jail, put them in mental asylums where they all belong, all of our problems would go away — but tax the rich, the billionaires. No, Elon Musk isn't taking a sh*t outside of a 7-Eleven and stealing sh*t” I agree with every word. Our society and way of life is being ruined by the bottom 2% of society. We don’t have to live like this, these people should not get to destroy our lives and be parasites off the system The bottom 1% are leaching the welfare system causing astronomical taxes, then these same people cause chaos all throughout society
+
+<img src="/images/elonmusk/amplify_video_thumb_2074382591617335296_img_Wq5psYgfEwl454Y3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/WallStreetApes/status/2074503704842293282#m)
 
 ---
 
