@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 200 条推文
+> 📊 推文存档 - 共 204 条推文
 
 ---
 
@@ -52,6 +52,58 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-GpNiDNhX6JV3BPvk5_ZJv1RBG0zAAJfD2sbmMRoVhqg64mX1H-kAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074626688479326239#m)
+
+---
+
+## 2026-07-08 07:02:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【市场复盘｜大盘仍处于寻底筑底阶段】 从目前的盘面来看，自5月14日大盘见顶以来，传统板块与高位科技板块已经走出了明显的K型分化。 一方面，以AI、算力等为代表的高位科技方向，在资金推动下不断走出局部强势行情，反复拉升、吸引市场关注；另一方面，传统权重及大多数行业却持续走弱，导致上证指数始终维持震荡整理，并没有与科技板块形成同步上涨。 出现这种分化的核心原因在于：市场始终处于存量资金博弈阶段，而非增量资金推动的普涨行情。 高位科技的上涨，本质上是在不断吸引场内资金流入，形成对传统板块的”抽血效应”，并没有真正带来新的资金增量。因此，指数虽然局部活跃，但整体赚钱效应并未明显改善。 接下来，市场最大的看点就是：如何吸引增量资金重新进场。 增量资金不会因为情绪而持续追高，更看重的是风险收益比和价格优势。无论是高位科技，还是传统蓝筹，只有当价格回到具有足够性价比的区间，才能重新激发场外资金的做多意愿。 基于这一逻辑，后续市场仍需警惕两方面的风险： 高位科技板块存在补跌压力。 一旦前期涨幅较大的科技股出现集中兑现，将对市场情绪和指数形成拖累。 传统板块即使出现反弹，也更可能是对压力位的修复。 如果无法放量突破，上方仍有较大的套牢盘压力，不排除再次回落，形成双底甚至多重底的走势，以时间换空间完成筹码交换。（早就反复提示过没有持续性是需要低吸建仓） 因此，我对未来一段时间的判断仍然是：大盘大概率处于寻底、筑底的过程中，而不是快速开启新一轮主升行情。 在趋势尚未明确之前，最重要的不是预测最低点，而是做好风险管理。控制仓位，保留现金，不要在充满不确定性的市场环境中重仓博弈。 等待市场完成筑底、增量资金回流、指数重新形成向上趋势后，再积极提高仓位，往往比在震荡过程中反复追涨杀跌更有胜率。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-mpNj3ODCxhogHN0n6I74Ej-wCUSAAJlD2sbmMRoVstjeUrFUfW3AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074630283316678676#m)
+
+---
+
+## 2026-07-08 07:06:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+短期以仓位管理控制风险，观察大于操作。 新手先学习，再交易；追涨者先反思，再进场。 市场拼的是策略、纪律和执行力，而不是情绪和抱怨。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074631266386006283#m)
+
+---
+
+## 2026-07-08 07:13:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+那种一会儿满仓追涨，一会儿空仓杀跌的，请慢慢退出我的视野。 别评论，别留言。先学习。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074632830064500785#m)
+
+---
+
+## 2026-07-08 07:18:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+目前，美股及日韩股市均处于高位震荡阶段，风险正在逐步累积。不排除未来因某个突发事件（黑天鹅）成为导火索，引发全球市场情绪共振，出现一轮快速释放风险的急跌行情。 市场往往只有在风险充分释放、筹码重新回到具有吸引力的价格区间后，才能真正吸引增量资金进场。对于机构资金而言，决定是否布局的核心不是情绪，而是价格和性价比。 因此，未来即便出现快速下跌，也未必是坏事。风险充分释放之后，廉价筹码的出现，反而更有利于增量资金入场，为下一轮上涨行情积蓄力量。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-WpNj29vTulBklvKwOIN061hI__lAAJkD2sbmMRoViaZxyvXrqmHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074634226880880947#m)
 
 ---
 
