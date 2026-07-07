@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 173 条推文
+> 📊 推文存档 - 共 180 条推文
 
 ---
 
@@ -254,6 +254,108 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF12pMriqJdnBKp3mGtsWHuSBAkRQDAAIsEGsbmMRgVppwLpHjUBKtAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074395731570630858#m)
+
+---
+
+## 2026-07-07 15:34:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+继续拿华友钴业举例说明： 他从31下跌到19.82见打底之前，也有过这样的突兀量大阳，你们可以去复盘。 千万不要被下跌途中的突兀量大阳诱多追进去。 横盘筑底，放量突破250日线才能开始长期做多。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF32pMtYl_q4D-E3Rn8AnJlP2uvam4AAI7EGsbmMRgVkMxvFxJMs5cAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF12pMriqJdnBKp3mGtsWHuSBAkRQDAAIsEGsbmMRgVppwLpHjUBKtAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074396540467314886#m)
+
+---
+
+## 2026-07-07 15:35:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+所有下跌趋势的个股，日线级别250日线之上才可以做多。否则就不要碰。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF3mpMtYVvtAGwMNEAAWqGUNtvRaicpAACOhBrG5jEYFZWYtqyBBpewAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF32pMtYl_q4D-E3Rn8AnJlP2uvam4AAI7EGsbmMRgVkMxvFxJMs5cAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074396812753154555#m)
+
+---
+
+## 2026-07-07 15:43:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+炒股第一课就是普通散户尽量只选择250日线之上的均线多头排列的个股操作。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074398975202066855#m)
+
+---
+
+## 2026-07-07 15:44:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新股民喜欢追涨的可以看看
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF22pMtXuPRk6jjAznEx1eEN6Lgd-uAAI3EGsbmMRgVjHxj3bXJn7RAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF3GpMtX4zWG0pRsNcsFy6bSSi7mDLAAI4EGsbmMRgVjGlPVDb1MPxAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF3WpMtYI1ZCkQ1XLp5d-jRRZU_cgTAAI5EGsbmMRgVpkzto75JiMgAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074399090386059415#m)
+
+---
+
+## 2026-07-07 15:56:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新股民一定要学会复盘。 与其天天问别人买什么、什么时候买，不如自己花时间去研究。找100只历史大牛股，把它们启动前的走势、上涨过程、见顶信号都认真看一遍。 看多了你就会发现，真正的大牛股都有共性；见顶的时候，也都有迹可循。 市场最好的老师，就是历史走势。别那么懒，别天天等着别人喂饭。投资这条路，最终能帮你的，只有你自己。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074402161576890460#m)
+
+---
+
+## 2026-07-07 15:59:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哈哈哈。猪模块。笑死我了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF2mpMtXeBsO-I6EN9Wh2gO3X41RwmAAI2EGsbmMRgVvxPmuXGJ55jAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074402812268834848#m)
+
+---
+
+## 2026-07-07 16:01:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+晚安💤
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF2WpMtXMF1HYwIXKXTGp7x0Gqcqy7AAI1EGsbmMRgVm6eCqqo0IXKAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074403506858143804#m)
 
 ---
 

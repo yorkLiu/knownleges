@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 183 条推文
+> 📊 推文存档 - 共 184 条推文
 
 ---
 
@@ -50,6 +50,20 @@ tags: ["2026"]
 韩国股市涨熔断的时候坚决不买， 跌停熔断韩国人都吓死了抓紧买
 
 [查看原文](https://nitter.net/xiaomustock/status/2074380412240228648#m)
+
+---
+
+## 2026-07-07 15:58:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+牛市之中各个都是股神，买了不动你比股神还像股神，觉得自己顺极了，跌的时候才能知道自己啥逼样，天天恨不得自己是未成年。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF2GpMtWnWZ2hW3O0lSuJ3Y8KxgHlcAAI0EGsbmMRgVprOkcbJrBwVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074402565207503360#m)
 
 ---
 
