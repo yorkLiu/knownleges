@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 262 条推文
+> 📊 推文存档 - 共 263 条推文
 
 ---
 
@@ -50,6 +50,20 @@ Just Bloomberg and $META doing damage control after crashing the market with Met
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF82pNTgVJ_zGylb5tAfk0vlnskAVVAAIwD2sbmMRoVs1FpM7TDlZmAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074568161299771394#m)
+
+---
+
+## 2026-07-08 03:49:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out. Since there were warnings that: Sensors could be disabled or exploited remotely, given Hesai firmware update disabled lidar units on February 29 (as evidence). By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF9GpNXI188pueQyGle0X8p2R-pKxBAAJCD2sbmMRoVk7ltZ2UTxqJAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074581698604593367#m)
 
 ---
 
