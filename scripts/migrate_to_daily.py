@@ -151,7 +151,8 @@ def save_daily_files(username, tweets, user_dir):
                 if tags_str:
                     f.write(f"{tags_str}\n\n")
                 
-                f.write(f"**内容**:\n\n{tweet['content']}\n\n")
+    content_cleaned = re.sub(r'<img[^>]+>', '', tweet['content'])
+    f.write(f"**内容**:\n\n{content_cleaned}\n\n")
                 
                 # Write local images
                 for img_path in tweet.get('local_images', []):

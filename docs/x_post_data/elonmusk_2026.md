@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 948 条推文
+> 📊 推文存档 - 共 950 条推文
 
 ---
 
@@ -22,6 +22,18 @@ RT by @elonmusk: DRIVE-BY MEDIA: Most Americans believe that black women are pri
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFyGpMXjhQ2iOypaj1MJVCLc8zRwdgAAIPD2sbmMRgVriH5aauK5NZAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/amuse/status/2074163347222593786#m)
+
+---
+
+## 2026-07-07 01:32:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: If you want to start a startup, don't learn "entrepreneurship." Learn how to build things. The hard part of startups is not "entrepreneurship" but product: to know what to build, and to be able to build it.
+
+[查看原文](https://nitter.net/paulg/status/2074184773480726854#m)
 
 ---
 
@@ -120,6 +132,20 @@ Video
 <img src="/images/elonmusk/amplify_video_thumb_2074219919143550977_img_6KcwZujEW2wzhyLT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2074355329517629776#m)
+
+---
+
+## 2026-07-07 14:23:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine update
+
+<img src="/images/elonmusk/amplify_video_thumb_2074303594329985024_img_9Vq3OhEltkuLNAs6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074378653501128833#m)
 
 ---
 

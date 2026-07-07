@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 181 条推文
+> 📊 推文存档 - 共 182 条推文
 
 ---
 
@@ -22,6 +22,22 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFv2pL8PzY-TNyNdcvGMNxtmQZGbqbAAKEEmsbmMRYVljuJ544yjKOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/xiaomustock/status/2074192239459467536#m)
+
+---
+
+## 2026-07-07 14:28:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天应该是跌到位了， 美光跌到了918美金， 海力士跌到了1400美金左右。 跌的这些后上车跟风存储的人都折磨的 绝望离场就是新的开始。 美股韩股的特点股价涨幅得跟财报匹配
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzGpMn534-p24Fg0lYGomjM3OiHEPAALkD2sbmMRgVh5w4fr0aWrGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzWpMn6F7OcCDXkQcTzmJ7Vcz2jv-AALlD2sbmMRgVpItbUL48fPhAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074380020429226196#m)
 
 ---
 

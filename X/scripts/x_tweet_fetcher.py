@@ -390,19 +390,35 @@ def format_entry(entry):
     return block
 
 def prepend_to_file(file_path, new_entries_formatted):
-    """Prepend new formatted entries to the file (newest first)."""
+    """Prepend new formatted entries to the file (newest first) with deduplication."""
     if file_path.exists():
-        with open(file_path, 'r') as f:
+        with open(file_path, 'r', encoding='utf-8') as f:
             existing = f.read()
     else:
         existing = ''
-    
-    # Prepend new entries
-    new_content = ''.join(new_entries_formatted) + existing
-    
-    with open(file_path, 'w') as f:
+
+    # De-dup: extract existing status IDs to avoid exponential growth on re-runs
+    existing_links = set(re.findall(r'status/(\d+)', existing))
+
+    unique_new_entries = []
+    for entry in new_entries_formatted:
+        link_match = re.search(r'status/(\d+)', entry)
+        if link_match:
+            status_id = link_match.group(1)
+            if status_id not in existing_links:
+                unique_new_entries.append(entry)
+                existing_links.add(status_id)
+        else:
+            unique_new_entries.append(entry)
+
+    if not unique_new_entries:
+        return
+
+    new_content = ''.join(unique_new_entries) + existing
+
+    with open(file_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
-    logger.info(f"Wrote {len(new_entries_formatted)} new entries to {file_path}")
+    logger.info(f"Wrote {len(unique_new_entries)} new entries to {file_path}")
 
 def run_lark_cli(args):
     """Run lark-cli with given arguments and capture output."""

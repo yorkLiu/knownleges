@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 163 条推文
+> 📊 推文存档 - 共 168 条推文
 
 ---
 
@@ -118,6 +118,70 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFx2pMVtMmd_eqHIOO2ZmCaAN5PHYrAAIED2sbmMRgVnXGFFMkyxduAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074295706836459941#m)
+
+---
+
+## 2026-07-07 14:09:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+高低切是一个漫长的过程，高位震荡+低位震荡。不用过度操作。不要做短线。底部的拿住就好。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074375289162105167#m)
+
+---
+
+## 2026-07-07 14:13:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天一早就说过这里适合观察👀，不适合操作。会承压下跌。等待底部形态出现再做加仓。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFgWpLCAhtbyZovD5b6mpTX-6HwG1MAAKiD2sb9e9YVg_0dYjMbjurAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074376193621815763#m)
+
+---
+
+## 2026-07-07 14:17:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+之前我都把逻辑策略聊过很多了，不要每天都想操作！你们可以选择出门睡觉，送外卖！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074377361706176876#m)
+
+---
+
+## 2026-07-07 14:24:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+强势股与弱势股的交易逻辑。 多看看，稳住心态！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074378918736613521#m)
+
+---
+
+## 2026-07-07 14:30:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+仓位不重的今天尾盘低吸
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzmpMn62uXcfC9hFDxRaMowbasFLqAALmD2sbmMRgVt6qKb4h7hmkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074380529768845455#m)
 
 ---
 
