@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 218 条推文
+> 📊 推文存档 - 共 220 条推文
 
 ---
 
@@ -300,6 +300,34 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 也不单单是这个因素，众诚上方还有套牢，宿迁上方干净，该拉升的后期都会拉升，短期洗的节奏轻重就不好说了。
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074707973977567392#m)
+
+---
+
+## 2026-07-08 12:31:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🤣🤣🤣🤣🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGBmpN2BzYUmAukGWnVOqrE-525PpRAAIbEmsb_fRwVpXKDeW7He9tAQADAgADbQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074712929774260497#m)
+
+---
+
+## 2026-07-08 12:48:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+该说的说完了，别再问了，再问可就不客气了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGBWpN2Bj_JB47iGac_4RpKOnZG7d5AAIaEmsb_fRwVqoUvqTmemmFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074717262502928822#m)
 
 ---
 
