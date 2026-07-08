@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 973 条推文
+> 📊 推文存档 - 共 976 条推文
+
+---
+
+## 2026-07-09 00:13:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Correct
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJmpOfzVdDY4ZTjuEJ8sn2ypBtvXtAAI2EGsb_fR4VqFP31ODkYLvAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074889665119740341#m)
+
+---
+
+## 2026-07-09 00:30:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: We will continue to make refinements to the Grok Build harness and the 1.5T foundation model almost every day in response to user requests. The 2T model will finish training this month and be available to customers next month.
+
+[查看原文](https://nitter.net/elonmusk/status/2074893922812252354#m)
 
 ---
 
@@ -19,7 +45,7 @@ tags: ["2026"]
 
 Great point
 
-<img src="/images/elonmusk/amplify_video_thumb_2074297121122004992_img_gy8FAsKIYQTLHChg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074523879075115285#m)
 
@@ -33,7 +59,7 @@ Great point
 
 RT @IterIntellectus:
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF8GpNODjHyvxaMJV6M8gy4uq6bF_2AAIZD2sbmMRoVtJBAocOG1iAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074534239496736970#m)
 
@@ -47,7 +73,7 @@ RT @IterIntellectus:
 
 RT by @elonmusk: With full autonomy and maximized ride-hailing, Cybercab is projected to nearly halve emissions per mile compared to Model 3 + Model Y Also, a personal car sits parked ~95% of the time. Cybercab keeps driving, doing the work of several cars. This means fewer cars needed, more people moved, less emissions overall
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGCWpN9SkO21b45tMAAWoAAXGHmOZJpRQAAkkSaxv99HBWepwrNxrecFQBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Tesla/status/2074541754527920453#m)
 
@@ -61,7 +87,7 @@ RT by @elonmusk: With full autonomy and maximized ride-hailing, Cybercab is proj
 
 RT by @elonmusk: Read if you want to understand why medias are demonizing Elon
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGDGpN9TYfBMhQAAGHVakCPiev92zXSwACTBJrG_30cFYGl5XcwmJwcAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/brivael/status/2074590080144924779#m)
 
@@ -75,7 +101,7 @@ RT by @elonmusk: Read if you want to understand why medias are demonizing Elon
 
 RT by @elonmusk: SpaceX says over 90% of its future market is AI, not space. @DMaguireARK, ACA breaks down what that means: orbital data centers, a potential $28.5 trillion Total Addressable Market (TAM), and why Starship is the only vehicle that can get there.
 
-<img src="/images/elonmusk/amplify_video_thumb_2074587229511426048_img_NY02cFjy5mG0N4ya.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/ARKInvest/status/2074594301493874896#m)
 
@@ -89,7 +115,7 @@ RT by @elonmusk: SpaceX says over 90% of its future market is AI, not space. @DM
 
 RT by @elonmusk: With just one year in orbit, the first FireSat satellite has already spotted wildfires invisible to existing satellites. After a successful launch early this morning, 3 more satellites joined the constellation, bringing us one step closer to our ultimate goal of near real-time wildfire updates every 20 minutes. Thanks to @EarthFireAll @MuonSpace @MooreFound @BezosEarthFund for the partnership, & @SpaceX for the ride up!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGCmpN9S098gS0mo_yvWhnSviXWmtYAAJKEmsb_fRwVqoiWM9HQEBRAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/sundarpichai/status/2074649108414107727#m)
 
@@ -103,7 +129,7 @@ RT by @elonmusk: With just one year in orbit, the first FireSat satellite has al
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2071934765486227456_img_dSPxhlg5Fuq-Wisk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074738585727590547#m)
 
@@ -117,7 +143,7 @@ Video
 
 America, the Beautiful
 
-<img src="/images/elonmusk/amplify_video_thumb_2074586724491984896_img_zjcxx1gbcOM_zJSD.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074739056697610504#m)
 
@@ -132,6 +158,18 @@ America, the Beautiful
 Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.
 
 [查看原文](https://nitter.net/elonmusk/status/2074740539874775163#m)
+
+---
+
+## 2026-07-08 14:59:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Has been my regular work horse for weeks. Impressive indeed.
+
+[查看原文](https://nitter.net/yunta_tsai/status/2074750291229159794#m)
 
 ---
 
