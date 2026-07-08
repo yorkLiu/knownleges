@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 989 条推文
+> 📊 推文存档 - 共 1001 条推文
 
 ---
 
@@ -115,6 +115,20 @@ RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for c
 
 ---
 
+## 2026-07-09 01:57:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOGpOz0DK40mEqB_zpevZkM4tI6VsAAKFEGsb_fR4Vq3mmrIAAViZEQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceXAI/status/2074915723487678904#m)
+
+---
+
 ## 2026-07-09 01:59:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -137,7 +151,7 @@ RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class 
 
 RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it now
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGLWpOshgAAWV-ELRozMfLVUjv8rxy-AACcxBrG_30eFZSTw7y5e8yFgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/XFreeze/status/2074919573611237883#m)
 
@@ -151,7 +165,7 @@ RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it 
 
 RT by @elonmusk: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Gang Inquiry" report. "The genesis of the rape gangs was this multicultural invasion of Europe. They wanted open borders." "We've estimated a minimum of a quarter million rapes have taken place. It's probably much, much more." "A lot of these girls were impregnated and forced to convert to Islam." "These are properly organized gangs who are grooming and abusing young girls, as young as ten, and then literally trafficking them around the country." "There's a cultural difference of opinion between an open high-trust Christian view of women and the Islamic view of women." "They're predominantly from Pakistan and from one part called Mirpur. There are some from Bangladesh, Somalia, and Eritrea. There are other Muslim countries that perpetrate some of this and of course there are white people who perpetrate rape as well, but nothing on the scale of this." "The state knows this is happening, but they don't want to admit that their multicultural experiment has failed. They don't want to be called racist. People are frightened to be accused of effectively being biased and white due to all of the woke DEI rubbish that has permeated the whole of British society." @joerogan @RupertLowe10 Full interview below ↓
 
-<img src="/images/elonmusk/amplify_video_thumb_2074929135013777408_img_qeixETGak8HXDyY3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/KanekoaTheGreat/status/2074931504921350242#m)
 
@@ -191,9 +205,149 @@ Try out Grok 4.5 in Vercel!
 
 Artificial Analysis assessment
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGLGpOshVyX51yAAGAYgbReX0S3ibengACchBrG_30eFaZtjLPCjJ5WgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074948489792860456#m)
+
+---
+
+## 2026-07-09 04:35:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok groks engineering. Next month’s release will be another step-change improvement, as we close the loop on solving real-world engineering problems at Tesla, SpaceX, Neuralink and Boring Company.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOGpOz0DK40mEqB_zpevZkM4tI6VsAAKFEGsb_fR4Vq3mmrIAAViZEQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074955486441492823#m)
+
+---
+
+## 2026-07-09 04:39:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok will be able to call Imagine as a tool in agentic mode for image/video generation. As Imagine keeps improving, this will be amazing for game developers!
+
+<img src="/images/elonmusk/amplify_video_thumb_2074919661129605120_img_Em-Tmql0K4WOCLQH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074956673630793891#m)
+
+---
+
+## 2026-07-09 04:41:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok 4.5 in Grok Build cost $2.49 per task while Fable 5 in Claude Code cost $11.80 and GPT-5.5 in Codex $5.07. This is driven by relatively low token pricing and the model using far fewer tokens than comparable models (1.9M average tokens used per task), significantly less than Fable 5 in Claude Code (7.2M) and GPT-5.5 in Codex (6.2M)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNmpOzznb9jBapLfbElhYVI7i9YlbAAKDEGsb_fR4Vub3NqbTftOsAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArtificialAnlys/status/2074956948831924402#m)
+
+---
+
+## 2026-07-09 04:44:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 brings frontier performance across coding and knowledge work
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNWpOzzbiQZRtc3yPZDSXRiQCctbLAAKCEGsb_fR4VqVQj_9l-n3CAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/milichab/status/2074957763101475263#m)
+
+---
+
+## 2026-07-09 05:08:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 context window will upgrade to 1M probably by next week
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNWpOzzbiQZRtc3yPZDSXRiQCctbLAAKCEGsb_fR4VqVQj_9l-n3CAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074963933199282491#m)
+
+---
+
+## 2026-07-09 05:09:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 true usefulness is excellent
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGN2pOzzxkVU6YlSd_z3Y0kkIXmIchAAKEEGsb_fR4VhxOPN39kbkAAQEAAwIAA3kAAzwE.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074964196052107336#m)
+
+---
+
+## 2026-07-09 05:30:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the GB300 hardware. Doubling or more of the current speed is probably achievable.
+
+[查看原文](https://nitter.net/elonmusk/status/2074969374843154500#m)
+
+---
+
+## 2026-07-09 05:34:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Rate of improvement is accelerating. Users should notice a meaningful improvement in the usefulness of the Grok Build harness with our V9 foundation model (aka Grok 4.5) every week.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGMmpOzyx9lUua5Dv2t0VrTHEIX6GNAAJ_EGsb_fR4VsOI0eVC24xTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGM2pOzy_gBkBFtN43LgKuA47ezv32AAKAEGsb_fR4VlMi9TXGGBJrAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNGpOzzIN1CKxMLItgo5VqXwk_tIAA4EQaxv99HhWcYiZRCpYrBcBAAMCAAN4AAM8BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074970378682724661#m)
+
+---
+
+## 2026-07-09 05:37:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Rate of improvement is 🚀🚀
+
+[查看原文](https://nitter.net/elonmusk/status/2074971034218860963#m)
+
+---
+
+## 2026-07-09 05:40:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok has always been very strong on law
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGMGpOzyTY5gtfirdb15uoVREWIWxoAAJ9EGsb_fR4VhCOf5PBaf-_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074971866662359519#m)
 
 ---
 
@@ -341,11 +495,25 @@ RT by @elonmusk: Has been my regular work horse for weeks. Impressive indeed.
 
 RT by @elonmusk: There was literally a Bolshevik takeover of the Smithsonian. Democrats can never be allowed to take power again.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGKWpOjcehRb6lxG3av0ZahQbGmfLFAAJaEGsb_fR4VjMj00otWwzVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGKmpOjcuID_AqHqwYz_EOmz3i-DvzAAJbEGsb_fR4VhaLeAU4lS2PAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
 
 [查看原文](https://nitter.net/Oilfield_Rando/status/2074794247170019539#m)
+
+---
+
+## 2026-07-08 22:20:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Tesla Cybertruck’s bulletproof body helped protect a toddler, an infant, and neighbors during a shooting. Cybertruck became a real-life shelter during a chaotic 4th of July neighborhood party. • Owner says guns were drawn after an altercation • Cybertruck sheltered a toddler, an infant & neighbors until police arrived • Earlier, the truck was even powering the block party • “You hope you never need that kind of protection, but in that moment, I was very glad it was there.” Source: FB/Cybertruck Owners Only
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGMWpOzymMQjG3n0j6QCDX5jK0KXn3AAJ-EGsb_fR4VruK5LIBdKkOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2074861235292782835#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 268 条推文
+> 📊 推文存档 - 共 269 条推文
 
 ---
 
@@ -31,9 +31,27 @@ Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” wh
 
 $META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute”as overbuilding and cutting capex.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGLmpOwJ2_R_CtSqAGYrzgoVf-o6vCAAJ4EGsb_fR4VtYncwUsI_8pAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074965761345642660#m)
+
+---
+
+## 2026-07-09 06:08:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5. That’s much more cost efficient as well… Kinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth among US companies recently) Never doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOWpOz0QV2lMSqzQGswzvD_p1-iX_AAKGEGsb_fR4ViV3X9pIrjOaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOmpOz0fqLePdZ6Ga6M1L2jH_6RTlAAKHEGsb_fR4Vt5RGDwljgABbAEAAwIAA3kAAzwE.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGO2pOz0nKIrwbmimPf7mjUgnuRkhBAAKIEGsb_fR4VtERubMDaqZmAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074979055410266452#m)
 
 ---
 
