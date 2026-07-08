@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 221 条推文
+> 📊 推文存档 - 共 222 条推文
 
 ---
 
@@ -344,6 +344,18 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFmmpLJU0r_aimbRidEkccxsmZKhhkAAL5D2sb9e9YVvQ0W9PujS-2AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074720927032734165#m)
+
+---
+
+## 2026-07-08 13:48:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+科创50最舒服的上车点1730-1726附近
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074732407815840216#m)
 
 ---
 
