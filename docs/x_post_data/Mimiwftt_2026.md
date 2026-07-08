@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 222 条推文
+> 📊 推文存档 - 共 224 条推文
 
 ---
 
@@ -356,6 +356,32 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 科创50最舒服的上车点1730-1726附近
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074732407815840216#m)
+
+---
+
+## 2026-07-08 15:49:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+美日韩已经不值得出镜了吗？
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGEGpOA7ZOSy8fyKOD0-LbfuricP-UAAJxEmsb_fRwVi1bTc8AAdpt4QEAAwIAA3gAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074762714141049164#m)
+
+---
+
+## 2026-07-08 15:57:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新股民一定要明白一个规律： 真正的上涨，往往没有铺天盖地的消息，也没有所谓的”确定信号”，而是在市场中悄无声息地一路上涨、涨不停，不停涨。 等到利好消息满天飞、人人都在讨论时，股价往往已经涨了一大段，甚至可能进入兑现阶段。 股市是资金博弈的市场，消息有时只是情绪催化剂，而不是买卖依据。面对各种消息，不要盲目相信，也不要盲目否定，学会独立思考，顺势而为，比追消息更重要。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074764807283359946#m)
 
 ---
 

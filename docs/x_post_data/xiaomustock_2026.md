@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 189 条推文
+> 📊 推文存档 - 共 190 条推文
 
 ---
 
@@ -36,6 +36,20 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGDWpN_GjLnIdpCEvkB47JxDYfUKVaAAJgEmsb_fRwVhoc806OJ9NjAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/xiaomustock/status/2074755083942891862#m)
+
+---
+
+## 2026-07-08 15:40:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韩国为了不让港股这个2x吸走资金， 疯狂发行了十几个2倍做多etf， 全部破发， 韩国人大多数都上杠杆买的杠杆etf😂 本来是韩国人的狂欢， 现在韩国股民集体亏麻了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGD2pOA62vQzuKxg7kZmqbTdrNwcg5AAJwEmsb_fRwViolHlUAARdItAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074760420427260054#m)
 
 ---
 
