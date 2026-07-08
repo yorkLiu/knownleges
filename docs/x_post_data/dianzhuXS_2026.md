@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 151 条推文
+> 📊 推文存档 - 共 152 条推文
 
 ---
 
@@ -46,6 +46,20 @@ tags: ["2026"]
 要不試試白天直播，聊聊「風災」，看看油管卡頓不卡頓？
 
 [查看原文](https://nitter.net/dianzhuXS/status/2074664796302241896#m)
+
+---
+
+## 2026-07-08 10:05:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+聊聊【風災不是罪有應得】https://www.youtube.com/live/AcoAwN22g0A?si=S5ZxnGnD3Z5zX_nG
+
+<img src="/images/dianzhuXS/card_img_2074676069442224128__epmHbsc3Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2074676224413339736#m)
 
 ---
 
