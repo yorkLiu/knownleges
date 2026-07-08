@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 204 条推文
+> 📊 推文存档 - 共 207 条推文
 
 ---
 
@@ -104,6 +104,48 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-WpNj29vTulBklvKwOIN061hI__lAAJkD2sbmMRoViaZxyvXrqmHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074634226880880947#m)
+
+---
+
+## 2026-07-08 07:36:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+股市里，真正让普通散户赚钱且体感最舒适的，只有单边趋势行情。其余大部分时间，少交易、控仓位、耐心等待，比频繁操作更重要。 看不懂的行情的，就更不要跟风跟票，死都不知道怎么死的！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_WpNlr2-qecgBIg7wxlkX1ICWU9nAALMEWsb_fRwVnBqnF_zK6pWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074638758486663358#m)
+
+---
+
+## 2026-07-08 07:44:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天喝喝茶，看看书，聊聊闲天。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_GpNlrm796SbJn_KD5XPfX4CdMARAALLEWsb_fRwVqdnGO7JRT4yAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074640656027562019#m)
+
+---
+
+## 2026-07-08 07:55:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+刚刷到大霄老师的暗语，应当是谨慎全球同步回落了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-2pNlrTspKuEGKCXEkUMmcebxAckAALKEWsb_fRwVsgHlTtdUhe4AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074643618711867677#m)
 
 ---
 
