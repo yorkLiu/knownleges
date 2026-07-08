@@ -72,6 +72,12 @@ for md_path in md_files:
             new_blocks.append(block)
             continue
 
+        # Check if this block already has an <img> for this tweet to prevent duplication on re-runs
+        existing_img_for_tweet = re.search(r'<img[^>]+alt="配图"[^>]*>', block)
+        if existing_img_for_tweet:
+            new_blocks.append(block)
+            continue
+
         img_rel = f"/images/{username}/{img_file}"
         img_tag = f'\n<img src="{img_rel}" alt="配图" style="max-width:100%;border-radius:8px;margin:12px 0;">\n'
 

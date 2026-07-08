@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 181 条推文
+> 📊 推文存档 - 共 183 条推文
 
 ---
 
@@ -313,7 +313,7 @@ R to @Mimiwftt: 比如近期的人形机器人。早起买入的还能有收益�
 
 其实我一直压着你们不要追！5月份回来提示可以找机会埋伏机器人，等涨起来再追的确不合时宜。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFJGpHOoxkGEt9GqplZ9Ne0YkJ4OA2AAKCEGsbg2VBVhGTumVzPjEfAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074774295855899056#m)
 
@@ -339,9 +339,9 @@ R to @Mimiwftt: 比如近期的人形机器人。早起买入的还能有收益�
 
 迷茫的，追涨的，大周期趋势向下抄底被套的，认真读读吧！尽量做到知行合一。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE9mpGPEDxPKVZgG_yo-nMBA2hF8cmAALFEGsbg2U5VjulqoFtf1VvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE92pGPERoc8lmpxMXWhgS2bel-G1cAALGEGsbg2U5VjbV1c1iCRnSAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074778376951488819#m)
 
@@ -355,11 +355,11 @@ R to @Mimiwftt: 比如近期的人形机器人。早起买入的还能有收益�
 
 反弹到压力位很多人会侥幸，觉得会不会再涨一下就解套了，只要你犹豫一下，立刻会被打回原形。25块附近高抛是对的。 尤其是做下跌趋势中的解套，不能心存侥幸。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGFWpOEknIuiZx8xg_tE_nOkDEnRBmAAKsEmsb_fRwVnvwaYG2hFAIAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE-mpGPEzY54AWfjBxNhxuUFhDPiq0AALJEGsbg2U5VnG9S8BnAY--AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE-2pGPE8moaz8Ajf8n2LB8Y-UiXqmAALKEGsbg2U5VsISJNG6S-YRAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074779105065927142#m)
 
@@ -373,9 +373,43 @@ R to @Mimiwftt: 比如近期的人形机器人。早起买入的还能有收益�
 
 6/29也算是提醒到位了。都是过眼云烟。以后都别问个股了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGFGpOEkRI9sk2bWIG0F7_n35XIDeTAAKrEmsb_fRwVoBoDrNv8-wnAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074780170356146590#m)
+
+---
+
+## 2026-07-08 17:01:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新粉丝看一下，26/2月给大家的提醒
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGF2pOGYNs6LH0EHOQ_vOS2raTxWKpAAK3Emsb_fRwVtF2bfD7ZJR0AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGGGpOGYd2x_4owjf-uzlU2-xioN_2AAK4Emsb_fRwVigQqRPSXNarAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGGWpOGYzEgjWZJYCHz94XJfmUP9b0AAK5Emsb_fRwVmg15pBY1923AQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGGmpOGZDhVevKcDR8MTjHYzJHzdeEAAK6Emsb_fRwVqMEFpFz5AIMAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074780962769207676#m)
+
+---
+
+## 2026-07-08 17:18:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+其实我在语音复盘中已经多次提到，对于连续两个季度收阳，且前一个季度涨幅接近或超过翻倍的标的，一般不建议继续参与。尤其是在下一个季度开盘阶段，由于股价与均线的“乖离率”过大，往往存在较大的回落修正概率。 不过，这并不意味着其大周期已经见顶。从目前的走势来看，月线仍然运行在MA5月线之上，整体中期趋势尚未被破坏。当前股价也已经回踩至前期平台支撑区域，在支撑有效的前提下，短期可以期待一波技术性反弹。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGFmpOGX-yLRi40txePlEMWgxyhKrnAAK2Emsb_fRwVkeLJRE6eUrOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074785185313562861#m)
 
 ---
 

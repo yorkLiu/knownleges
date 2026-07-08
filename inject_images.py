@@ -94,6 +94,10 @@ for src_md in sorted(XDATA_DIR.glob("*.md")):
         tweet_id = ids[0][1]
         img_tag  = img_map.get(tweet_id)
         if img_tag:
+            # Skip if this block already has an <img> tag (prevents duplication on re-runs)
+            if '<img ' in block:
+                new_blocks.append(block)
+                continue
             lines = block.split('\n')
             new_lines = []
             done = False

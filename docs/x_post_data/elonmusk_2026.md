@@ -2601,8 +2601,6 @@ RT by @elonmusk: Last year, @elonmusk brought national attention to the paper-ba
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: We tax cigarettes to reduce smoking. We tax alcohol to reduce drinking. We tax fuel to reduce driving. What do you think happens when you tax employing people and running a business?
 
 <img src="/images/elonmusk/amplify_video_thumb_2071904166495080449_img_oWIvl2sKm8PFlNts.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2615,8 +2613,6 @@ RT by @elonmusk: We tax cigarettes to reduce smoking. We tax alcohol to reduce d
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: My grandfather, communism, and the tremor that never left. A story I rarely share. He was the principal of a private school; respected, steady, a man who believed in books and order. Then, one ordinary afternoon, his world ended. A squad of communist troops stormed on to campus grounds. They herded the children out like cattle, set every book ablaze in the courtyard. “Less educated people are easier to control,” they believed. They dragged my grandfather and his staff to the side of a dusty road, forced them to their knees, hands bound tight behind their backs. One by one, the executions began. The crack of pistols split the air. Each body fell with a heavy thud into the dirt. Each crack of the pistol meant it was getting closer to his demise. My grandfather stared straight ahead as the man beside him collapsed. He felt the warm steel of the pistol press against the back of his skull. Time slowed. This was it, the final second of his life. Then, fate intervened. He lifted his eyes and saw a column of troops marching down the road. At its head walked a general. A childhood friend. With a scream of desperation, he called out his name. The general was startled but recognized my grandfather and immediately spared his life. Tears streamed down his face. His entire body shook violently as he sprinted home. He grabbed his wife and children with nothing but the clothes on their backs and fled that very hour, leaving behind their home, their belongings, their entire life. Everything was taken away by the regime in a single afternoon. From that day forward, an uncontrollable tremor gripped his right hand. It was particularly noticeable whenever his emotions got the better of him. The shaking never stopped. It followed him across oceans and time until the day he passed. That is communism. It is not theory, not idealism, but the pistol at the back of the head, the burning books, the shattered lives. Do not let anyone sell you a nightmare dressed up as a wonderful dream. The people now sowing socialist and communist poison in America are exactly what President Trump warned: the greatest threat to our free world. On this 250th birthday of the United States, let one survivor’s grandson say it plainly and without apology: COMMUNISM MUST NEVER BE ALLOWED TO SPREAD IN THESE UNITED STATES OF AMERICA. 🇺🇸​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ MAY GOD BLESS AMERICA.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEjWpDPEncPrFGuyDbhbZL9MDCoZeBAAK7D2sb3DwhVlyPCbKFUlp6AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2625,11 +2621,11 @@ RT by @elonmusk: My grandfather, communism, and the tremor that never left. A st
 
 ---
 
+---
+
 ## 2026-06-30 22:01:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: NEW: @FreeBeacon has the receipts on Ro Khanna’s obscene, oligarchic wealth: —his 2 kids (under 10yrs old) own 3 private golf courses in Ohio (not kidding) —his wife drives a $190,000 luxury Range Rover —his house has a 4-story indoor elevator And more:https://freebeacon.com/democrats/ro-me-the-money-how-progressive-class-warrior-ro-khanna-lives-like-the-oligarchs-he-fights-with-in-home-elevator-190k-range-rover-and-family-owned-golf-clubs/
 
@@ -2643,8 +2639,6 @@ RT by @elonmusk: NEW: @FreeBeacon has the receipts on Ro Khanna’s obscene, oli
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Nvidia CEO Jensen “@Tesla stack is the most advanced autonomous vehicle stack in the world. I’m fairly certain they were already using end-to-end AI. Whether their AI did reasoning or not in somewhat secondary to that first part.”
 
 <img src="/images/elonmusk/amplify_video_thumb_2009145892025376769_img_iiMkL-89d6lhUDiM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2653,11 +2647,11 @@ RT by @elonmusk: Nvidia CEO Jensen “@Tesla stack is the most advanced autonomo
 
 ---
 
+---
+
 ## 2026-06-30 19:34:24
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Philippines becomes the first country in Southeast Asia to commercially launch Starlink Direct-to-Cell through a mobile network. Globe has secured regulatory approval to offer Starlink Direct-to-Cell service nationwide.
 
@@ -2671,21 +2665,19 @@ RT by @elonmusk: BREAKING: Philippines becomes the first country in Southeast As
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: In the UK, Police officers would have special "cop nights" run by the Pakistani rape gangs where they were allowed to gang rape grooming gang victims as a "Thankyou" for turning the other way. Bring back capital punishment 😡
 
 <img src="/images/elonmusk/amplify_video_thumb_2071471215521210368_img_HA4s-81f5kip8Uu8.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/TruthFairy131/status/2071733026623778898#m)
 
+------------
+
 ---
 
 ## 2026-06-30 10:31:56
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Happy birthday to a truly legendary intellectual!
 
@@ -2695,11 +2687,11 @@ RT by @elonmusk: Happy birthday to a truly legendary intellectual!
 
 ---
 
+---
+
 ## 2026-06-30 09:53:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Ford CEO Jim Farley in new interview on Chinese EV competition: "There's no real competition from Tesla, GM or Ford with what we've seen from China. They are completely dominating the EV landscape globally." The Tesla Model Y is one of the best selling cars in China... Full interview from @JoannaStern: https://youtube.com/watch?v=PGiCc48olnk
 
@@ -2707,13 +2699,13 @@ RT by @elonmusk: Ford CEO Jim Farley in new interview on Chinese EV competition:
 
 [查看原文](https://nitter.net/SawyerMerritt/status/2071774046992109849#m)
 
+------
+
 ---
 
 ## 2026-06-30 00:15:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: MacKenzie Scott has donated over $26 billion to nonprofits. Around $1 billion of that ($786M confirmed but many donation amounts aren't disclosed) has funded 226 organizations focused either fully or partly on "gender identity." This funds children's access to puberty blockers, cross-sex hormones, and irreversible and often sterilizing surgeries. She is directly funding the largest medical scandal against children we've ever seen. Meanwhile, the entire movement opposing sex and gender pseudoscience engulfing science, medicine, and culture runs on maybe ~$10M annually. Hard to say exactly, but it's minuscule in comparison. We are so out-funded it's laughable. If you're extremely wealthy, consider donating to competent organizations help combat the behemoth we're up against. No organization turns donation money into real policy change more efficiently than the Manhattan Institute (@ManhattanInst). (Disclosure: I work there. But it's true) The fight against pediatric gender "medicine" and sex pseudoscience is far from over.
 
@@ -2723,11 +2715,11 @@ RT by @elonmusk: MacKenzie Scott has donated over $26 billion to nonprofits. Aro
 
 ---
 
+---
+
 ## 2026-06-30 00:55:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Today, we are releasing Rampart: a 14.7MB machine learning model designed to protect citizens’ privacy by redacting personal information directly in your browser before it gets sent to any server
 
@@ -2741,8 +2733,6 @@ RT by @elonmusk: Today, we are releasing Rampart: a 14.7MB machine learning mode
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Citizen Vigilante is now #1 on Apple and on Amazon Video. A $750k movie beating blockbusters with hundreds of millions in production budget. Just because the director / producer had the courage to address a really important topic. Courage in art remains the best recipe for success. I hope more movie (and game …!!!) creators grow some balls.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEiGpDLcnDtLriXR3I7q1YeQWdF-uQAAKJD2sb3DwhVhAkcnADK6hDAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2755,21 +2745,19 @@ RT by @elonmusk: Citizen Vigilante is now #1 on Apple and on Amazon Video. A $75
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: i've been using cursor mobile on the go for the last weeks, and having access to all cloud agents from everywhere is really nice go on a walk, get an idea, dictate it in the app come back from walk to a finished agent where you can jump into it try it today!
 
 <img src="/images/elonmusk/amplify_video_thumb_2071638346145923072_img_nqFrOzzGvR8kxbee.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/ericzakariasson/status/2071641492037554525#m)
 
+---------
+
 ---
 
 ## 2026-06-30 01:43:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Cursor for iOS!
 
@@ -2779,11 +2767,11 @@ Cursor for iOS!
 
 ---
 
+---
+
 ## 2026-06-30 01:47:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I love optimizing machines It’s like a beautiful puzzle That also achieves true usefulness
 
@@ -2795,8 +2783,6 @@ I love optimizing machines It’s like a beautiful puzzle That also achieves tru
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 It’s total bullshit! Deaths in Africa DECREASED after cutting USAID funding, which they were using to push for violent overthrow of governments!!
 
 [查看原文](https://nitter.net/elonmusk/status/2071652181854343349#m)
@@ -2806,8 +2792,6 @@ It’s total bullshit! Deaths in Africa DECREASED after cutting USAID funding, w
 ## 2026-06-30 02:18:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Try SpaceXAI Voice models in the Vercel AI Gateway
 
@@ -2820,8 +2804,6 @@ RT by @elonmusk: Try SpaceXAI Voice models in the Vercel AI Gateway
 ## 2026-06-30 03:13:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Pinned: Deaths in Africa DECREASED after USAID funding was cut, because they’re no longer able to push for violent revolution to install leftist regimes!
 
@@ -2839,8 +2821,6 @@ Pinned: Deaths in Africa DECREASED after USAID funding was cut, because they’r
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Alibaba allegedly ran 28.8 million fraudulent API exchanges across 25,000 fake accounts to steal Claude's intelligence. If confirmed, it's the largest AI model theft ever attempted. The same week, the White House restricted GPT 5.6 to 20 companies, OpenAI delayed its IPO, and Neuralink announced it may attempt brain-to-brain telepathy this year. -- GPT 5.6 launches in three tiers: Sol, Terra, Luna all throttled by the White House. -- Chinese proxy services offer Western frontier models at 90% discount. The trade: your reasoning traces get harvested for distillation. -- OpenAI won't IPO below $1 trillion. Revenue is at $40–50B annually but they're burning $26B. -- Elon's endgame for Neuralink is I/O layer for the singularity, allowing humans to couple with AI directly.
 
 <img src="/images/elonmusk/amplify_video_thumb_2071704609207312384_img_KNgcB3ELUhT9YZfN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2852,8 +2832,6 @@ RT by @elonmusk: Alibaba allegedly ran 28.8 million fraudulent API exchanges acr
 ## 2026-06-30 06:44:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 85% of reported scam complaints involving social media were linked to Facebook, while 𝕏 had the lowest at just 0.1%. • Facebook was cited in 85% of identified social media scam complaints collected. • 𝕏: 0.1%, the lowest among major platforms. • Internal Meta documents projected $16 billion in annual revenue from scam and banned-goods ads, about 10% of the company’s revenue. • The watchdog SafelyHQ has received 50,000+ verified scam reports, with experts saying the real victim count is likely in the tens of millions. • Meta reportedly only bans advertisers when its systems are 95% certain they’re committing fraud, while suspicious advertisers can be charged higher ad fees instead.
 
@@ -2867,8 +2845,6 @@ RT by @elonmusk: 85% of reported scam complaints involving social media were lin
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Try it out
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEimpDLdNg8z3ps_RmElFQNepyVgmvAAKLD2sb3DwhVg6rMc84kVbhAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2881,8 +2857,6 @@ Try it out
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Exactly
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEiWpDLdDHotafs8yKrIoCTwzCnvCcAAKKD2sb3DwhVuyzuti5zY1HAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2894,8 +2868,6 @@ Exactly
 ## 2026-06-30 10:44:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Bingo
 
@@ -2911,8 +2883,6 @@ Bingo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 They are such liars!
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEi2pDNQMGQQQr3PC4cia1_eLquFRpAAKhD2sb3DwhVmYpk-wuFgdLAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2925,8 +2895,6 @@ They are such liars!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Exactly
 
 [查看原文](https://nitter.net/elonmusk/status/2071792015205966208#m)
@@ -2936,8 +2904,6 @@ Exactly
 ## 2026-06-30 11:16:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -2951,8 +2917,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yup
 
 [查看原文](https://nitter.net/elonmusk/status/2071809876490063928#m)
@@ -2962,8 +2926,6 @@ Yup
 ## 2026-06-30 12:28:18
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Cybercab with no steering wheel or pedals driving around Austin
 
@@ -2977,8 +2939,6 @@ Cybercab with no steering wheel or pedals driving around Austin
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Being at the launch of Cybercab two years ago was magic. A decade from now there will be millions of these things rolling around the world. The war over autonomous vehicles is on, as everyone in San Francisco knows. But if you add up everyone who has been in ANY autonomous vehicle, whether from Waymo, any of the Chinese, the NVIDIA, any Tesla, it is only a few million people out of eight billion. When I first saw autonomous vehicles at Stanford University about 20 years ago they were so crappy I thought I'd never be alive to see them. I have the first video of the first Waymo on the freeway, and I've been blessed to have been able to watch the development of these up close (got the first ride in Mercedes' AI car, for instance). So many engineers spent so many hours developing them, many going down bad paths. Which happens with innovation. They will save millions of lives. Ford's head of safety told me that what kills people in a head-on wreck is the steering wheel. Now we can see a path to getting rid of the steering wheel totally. Congrats to Tesla and @elonmusk for getting here. Still a lot of work to go and many fights with many communities who will try to ban these to protect jobs. I'm very bullish on Cybercab and will buy one if sold to private citizens, as expected. Why? I never touch the steering wheel in my vehicles already and this will be the lowest cost vehicle with the most safety. And a great big screen and a great sound system to watch whatever I want. When I met the engineers at the launch they said they made many decisions to make it quieter inside, so we can do things like listen to music, video calls, or watch the World Cup. This vehicle is the iPhone moment of autonomous vehicles. One I've been lucky enough to survive the 20 years it took to see.
 
 <img src="/images/elonmusk/amplify_video_thumb_2071800953963958272_img_KvL4n2MDTPWfHLOk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2990,8 +2950,6 @@ RT by @elonmusk: Being at the launch of Cybercab two years ago was magic. A deca
 ## 2026-06-30 14:01:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The AOC puppet is just flat-out lying
 
@@ -3005,8 +2963,6 @@ The AOC puppet is just flat-out lying
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: PEOPLE ARE BLAMING ELON MUSK FOR “DEATHS” FROM USAID CUTS — BUT THE DATA AND REALITY SAY OTHERWISE Opponents are loudly claiming that cutting wasteful USAID spending is killing people in poor countries. Here’s what’s actually happening: • No evidence of mass deaths — Preliminary 2025 mortality data from several African countries shows no increase in deaths after major USAID cuts. In some places, deaths even decreased. • USAID had serious problems — Widespread waste, fraud, and misuse of taxpayer money. Multiple USAID officials have been charged with stealing funds and pled guilty. Programs included bizarre spending like drag shows in Ecuador, pushing certain ideologies abroad, and even influencing foreign elections. • Good parts were preserved — Effective humanitarian aid was transferred to the State Department. Only the wasteful, fraudulent, or politically weaponized portions were cut. • Fearmongering with models — Claims of “millions dying” come from projections and assumptions, not actual body counts. No one can name specific victims caused by the cuts.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEm2pD1LxNDlFkXBYFd3Slog1Mf2D3AALaEWsbitEhVndp6lJ7bgrmAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3018,8 +2974,6 @@ RT by @elonmusk: PEOPLE ARE BLAMING ELON MUSK FOR “DEATHS” FROM USAID CUTS �
 ## 2026-06-30 22:33:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -3033,8 +2987,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEnWpD2_1834h1QF26mnkkk2EzzuOTAAIyEmsbitEhVtOeTKrvKMlWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3046,8 +2998,6 @@ Video
 ## 2026-06-30 23:27:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 🎯
 
@@ -3061,8 +3011,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 I will take that as a compliment
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEnmpD6oWBN50kkqMobUuDtbwVejo1AAJEEmsbitEhVsWkC_zZsGnMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3074,8 +3022,6 @@ I will take that as a compliment
 ## 2026-06-29 21:12:48
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: It’s fascinating how Democrats never call for George Soros to be taxed more. His net worth is $7.5 billion.
 
@@ -3089,8 +3035,6 @@ RT by @elonmusk: It’s fascinating how Democrats never call for George Soros to
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: One vote stood between America and independence. The man who had to cast it was 80 miles away, battling cancer, as a violent thunderstorm raged. His name was Caesar Rodney. A lesser-known founder of the American Revolution, Rodney rode overnight on horseback from Delaware to Philadelphia, arriving just in time to cast the deciding vote for independence and sign the Declaration of Independence. 🇺🇲
 
 <img src="/images/elonmusk/ext_tw_video_thumb_2071594589564137473_pu_img_CdYG79ULnSFJiczF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3099,11 +3043,11 @@ RT by @elonmusk: One vote stood between America and independence. The man who ha
 
 ---
 
+---
+
 ## 2026-06-29 21:21:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: As we celebrate America's 250th birthday with @Freedom250, we're reminded that our nation's story has always been defined by people willing to take on big challenges. @POTUS launched the Artemis program with a bold vision for America's future in space. Today, we're carrying that vision forward by returning to the Moon, building a permanent presence, and preparing for where we inevitably go next.
 
@@ -3113,11 +3057,11 @@ RT by @elonmusk: As we celebrate America's 250th birthday with @Freedom250, we'r
 
 ---
 
+---
+
 ## 2026-06-29 19:38:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: USAID had 64 years and $2 trillion to end world hunger. The Left is acting like all they needed was 1 more year. By ending USAID the funding for Communism and was drastically cut. Less Communism did more to end world hunger than anything USAID did during its entire existence.
 
@@ -3125,11 +3069,11 @@ RT by @elonmusk: USAID had 64 years and $2 trillion to end world hunger. The Lef
 
 ---
 
+---
+
 ## 2026-06-29 23:00:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: But Democrats told me Elon didn’t do philanthropy…
 
@@ -3139,11 +3083,11 @@ RT by @elonmusk: But Democrats told me Elon didn’t do philanthropy…
 
 ---
 
+---
+
 ## 2026-06-29 08:02:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: At least 1,200 people died of heatstroke in France last Wednesday, mostly elderly people indoors. Even crazier, about 70,000 Europeans die from the same every year, akin to a bi-weekly 9/11. Eurobros, please vote for leaders who will let you open your windows and install A/C!
 
@@ -3153,11 +3097,11 @@ RT by @elonmusk: At least 1,200 people died of heatstroke in France last Wednesd
 
 ---
 
+---
+
 ## 2026-06-29 08:57:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: This is Linton-on-Ouse in England. Population 1200. The British state is planning to dump 3,750 migrants into this village and essentially replace them overnight. Millennia of traditional rural life are about to be wiped out at the altar of open borders.
 
@@ -3171,8 +3115,6 @@ RT by @elonmusk: This is Linton-on-Ouse in England. Population 1200. The British
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Originally USAID was a slush fund invented in 1964 during the cold war under the Johnson Doctrine. An election fund to prevent communist and Socialist regimes from the Western Hemisphere. Mainly Central and South America.. Democrats abused and perverted USAID to elect Socialist and Communist fegimes in the western hemisphere. And radical Islamic Regimes in Northwest Africa This phenomenon isn't immediately apparent but a map. And the dates of the elections shows a trend.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEcWpCeBjUvZb1GjOzrWIMSxTEs2V6AAK7EWsb3DwZVv_76gjh0EkHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3181,11 +3123,11 @@ RT by @elonmusk: Originally USAID was a slush fund invented in 1964 during the c
 
 ---
 
+---
+
 ## 2026-06-29 10:34:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship
 
@@ -3199,8 +3141,6 @@ RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravi
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: 🚨ANOTHER CITY FALLS: DOWNTOWN CHICAGO SEIZED FOR ISLAM While our leaders obsess over Europe’s slow death, Chicago is being captured right now. On June 25, 2026, thousands of Shia Muslims took over downtown Chicago streets for their annual Ashura procession. Not inside their mosques. They seized public streets in the heart of the city a sea of burqas, black flags, and men rhythmically beating their chests in mourning for their prophet. This is not quiet prayer. This is a public show of force and total commitment to their ideology. Chicago already has over 100 mosques. Yet they still flood downtown, shut down streets, and perform their rituals openly in the name of “justice”, the same “justice” that ultimately means Sharia. This is the exact same pattern we just saw in Dearborn: public dominance, demographic replacement, and zero interest in assimilation. Chicago’s streets now belong to them for the day. Soon it will be permanent. We are losing one American city after another to Islamic supremacism while our politicians and media pretend it’s only happening across the ocean. Dearborn. Chicago. Minneapolis Patterson Hamtramck Houston Detroit... Next? Wake up! This is not immigration. This is conquest by inches, and they are no longer hiding it.
 
 <img src="/images/elonmusk/amplify_video_thumb_2071519739323854848_img__bhJZ_iQtmX5T9Tl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3213,19 +3153,17 @@ RT by @elonmusk: 🚨ANOTHER CITY FALLS: DOWNTOWN CHICAGO SEIZED FOR ISLAM While
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Time to invoke the Communist Control Act. Marxism is an enemy ideology, and it needs to be treated as such.
 
 [查看原文](https://nitter.net/OldeWorldOrder/status/2071325851941994546#m)
 
 ---
 
+---
+
 ## 2026-06-29 06:01:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Well said
 
@@ -3236,8 +3174,6 @@ RT by @elonmusk: Well said
 ## 2026-06-29 13:27:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX just launched 2 Falcon 9 rockets in 10 hours Falcon 9 lifted off from California and delivered 24 more Starlink satellites to orbit Then another Falcon 9 launched from Florida, sending SXM-11 private/commercial mission to orbit Two different coasts - Two Different missions Two reused boosters - One insane launch cadence There is no other company that can launch like SpaceX... SpaceX is operating at a completely different level At this point, Falcon 9 launches are starting to look like airline departures
 
@@ -3251,8 +3187,6 @@ RT by @elonmusk: SpaceX just launched 2 Falcon 9 rockets in 10 hours Falcon 9 li
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Feminism was created to dismantle the family, not to liberate women.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEbmpCWw0eQB36WOKFPvDP9gQJC2WTAAJnEWsb3DwZVqcL9PO_lLG8AQADAgADeAADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3264,8 +3198,6 @@ RT by @elonmusk: Feminism was created to dismantle the family, not to liberate w
 ## 2026-06-29 17:10:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Really impressive first few drives with FSD v14 lite! Big leap in capability and feature set from v12.6.4, it’s tuned for safety right now so it’s taking things slow and smoothly. Highway performance was notably great. More videos and a very long form review later once I get a few more hours of driving in.
 
@@ -3279,11 +3211,11 @@ RT by @elonmusk: Really impressive first few drives with FSD v14 lite! Big leap 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: @MelBrooks 🎂🎉🎁🎈🪅🎊💯‼️
 
 [查看原文](https://nitter.net/WilliamShatner/status/2071366233342242924#m)
+
+---------
 
 ---
 
@@ -3291,19 +3223,17 @@ RT by @elonmusk: @MelBrooks 🎂🎉🎁🎈🪅🎊💯‼️
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Andrew Carnegie spent a fortune building 2,500 free libraries so a poor kid could read what a rich one read. We are finishing the job he started. The only difference is the library now talks back, in every language, and it never closes.
 
 [查看原文](https://nitter.net/PeterDiamandis/status/2071338220038586788#m)
 
 ---
 
+---
+
 ## 2026-06-29 05:33:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: This is almost 500% of the amount libs keep saying would "stop world hunger." Wot did she accomplish?
 
@@ -3319,8 +3249,6 @@ RT by @elonmusk: This is almost 500% of the amount libs keep saying would "stop 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Happy birthday to my wonderful son. @elonmusk has given me 55 years of joy. It’s so much fun to celebrate with family and friends. His cake is a rocket and a moon base 🎂🎂🎉
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEV2pBpWTggltXSTftmXTTY8mHH-OrAAIXEGsb3DwRVvuzXdkqg5Y_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3329,13 +3257,13 @@ RT by @elonmusk: Happy birthday to my wonderful son. @elonmusk has given me 55 y
 
 [查看原文](https://nitter.net/mayemusk/status/2071315496365101564#m)
 
+------
+
 ---
 
 ## 2026-06-29 05:39:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 This is what people want to see
 
@@ -3349,8 +3277,6 @@ This is what people want to see
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Exactly. And they cannot cite a single name of someone who died out of the “millions” they falsely claim have died. Not a single name!
 
 [查看原文](https://nitter.net/elonmusk/status/2071366974043537458#m)
@@ -3360,8 +3286,6 @@ Exactly. And they cannot cite a single name of someone who died out of the “mi
 ## 2026-06-29 07:45:17
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Happy Birthday to Elon Musk. Thank you for buying Twitter. It saved free speech.
 
@@ -3373,8 +3297,6 @@ RT by @elonmusk: Happy Birthday to Elon Musk. Thank you for buying Twitter. It s
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2071382002016645307#m)
@@ -3384,8 +3306,6 @@ True
 ## 2026-06-29 08:10:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Pinned: Truly massive gains will come in ~3 months when the entire training and inference stack is written in C/C++ and massively simplified (most software layers will be deleted completely) and we exact-map Grok to work incredibly well on a GB300
 
@@ -3397,8 +3317,6 @@ Pinned: Truly massive gains will come in ~3 months when the entire training and 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Looking forward to 1M humans on Mars. It’s THE milestone, imo.
 
 [查看原文](https://nitter.net/aaronburnett/status/2071408705149579713#m)
@@ -3408,8 +3326,6 @@ RT by @elonmusk: Looking forward to 1M humans on Mars. It’s THE milestone, imo
 ## 2026-06-29 10:13:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Watch Falcon 9 launch the @SiriusXM SXM-11 mission to orbit https://x.com/i/broadcasts/1AJEmmRWBjkJL
 
@@ -3423,8 +3339,6 @@ RT by @elonmusk: Watch Falcon 9 launch the @SiriusXM SXM-11 mission to orbit htt
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Extremely troubling
 
 <img src="/images/elonmusk/amplify_video_thumb_2071167792498286592_img_MK3abZS8k1xZSxEA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3436,8 +3350,6 @@ Extremely troubling
 ## 2026-06-29 10:27:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Interesting
 
@@ -3455,8 +3367,6 @@ Interesting
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Today I was walking around in Sausalito and asking @grok voice how much apartments around me cost to rent and it was truly an AGI-ly experience
 
 [查看原文](https://nitter.net/aegeantic/status/2071423081357476070#m)
@@ -3467,8 +3377,6 @@ RT by @elonmusk: Today I was walking around in Sausalito and asking @grok voice 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: In some cases, where we don’t have access to the source code, eg network switch software, we are also decompiling and modifying the binaries to improve performance
 
 [查看原文](https://nitter.net/elonmusk/status/2071536327930060974#m)
@@ -3478,8 +3386,6 @@ RT by @elonmusk: In some cases, where we don’t have access to the source code,
 ## 2026-06-29 18:13:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Grok Build daily updates
 
@@ -3493,8 +3399,6 @@ Grok Build daily updates
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Tesla FSD v14 Lite is rolling out to customers with our AI3 hardware
 
 [查看原文](https://nitter.net/elonmusk/status/2071538306039357838#m)
@@ -3505,8 +3409,6 @@ Tesla FSD v14 Lite is rolling out to customers with our AI3 hardware
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Neuralink is needed to solve the super low & lossy output bandwidth of humans. Our input bandwidth, thanks to vision, is many orders of magnitude higher than our output bandwidth, but could also be greatly improved. By addressing these bandwidth limitations and greatly increasing our effective cognitive capacity, human-AI symbiosis will be far better, improving the probability of a great outcome for humanity in the future.
 
 [查看原文](https://nitter.net/elonmusk/status/2071541382515232809#m)
@@ -3516,8 +3418,6 @@ RT by @elonmusk: Neuralink is needed to solve the super low & lossy output bandw
 ## 2026-06-29 18:31:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Nice work by the @Tesla_AI team! The AI3 computer only has ~15% of the effective memory bandwidth of AI4, so this was a tough challenge.
 
@@ -3531,8 +3431,6 @@ Nice work by the @Tesla_AI team! The AI3 computer only has ~15% of the effective
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Highest death count of any philosophy
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEcGpCWxJzU-2aLiG4E08yfSukSUpNAAJpEWsb3DwZVqkF3b80bDLfAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3544,8 +3442,6 @@ Highest death count of any philosophy
 ## 2026-06-29 19:03:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 For a US official to fly the flag of another country after having sworn an oath of citizenship that requires sole loyalty to America is nothing but treason!
 
@@ -3559,8 +3455,6 @@ For a US official to fly the flag of another country after having sworn an oath 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Starlink New Zealand
 
 <img src="/images/elonmusk/amplify_video_thumb_2071541682240143360_img_VCRZsbtcHC_WXIXO.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3573,8 +3467,6 @@ Starlink New Zealand
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Oppressive & irrational government rules only make things worse
 
 [查看原文](https://nitter.net/elonmusk/status/2071550940637733355#m)
@@ -3585,8 +3477,6 @@ Oppressive & irrational government rules only make things worse
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 There are no American flags, but there are flags of many other countries. Those whose loyalty is to another country over America are, by definition, traitors and must be expelled immediately.
 
 [查看原文](https://nitter.net/elonmusk/status/2071571936241475706#m)
@@ -3596,8 +3486,6 @@ There are no American flags, but there are flags of many other countries. Those 
 ## 2026-06-29 20:37:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX has now completed its 60th dedicated Starlink launch of 2026, putting nearly 1,600 new Starlink satellites into orbit this year alone All in just under 6 months That is an insane pace The Starlink constellation keeps growing every single week, bringing high-speed internet to more people around the world
 
@@ -3613,8 +3501,6 @@ RT by @elonmusk: SpaceX has now completed its 60th dedicated Starlink launch of 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: v14 Lite Release Notes: – Distilled the intelligence from HW4 V14 into HW3. This allows HW3 to directly learn how to handle scenarios using HW4 V14 as a guide. This process unlocks the improvements that have been made to HW4 including Reinforcement Learning (RL) and offline models for HW3. – Improved both proactive and reactive responsiveness across a wide variety of categories including navigation handling, merges and forks, pedestrian interactions, traffic lights, and vehicle cut-in scenarios. – Improved general comfort in nominal scenarios through fewer false slowdowns, smoother steering and more consistent lane centering. – Introduced parking, unparking, and reversing capabilities. – Added Arrival Options for you to select where FSD should park: in a Parking Lot, on the Street, in a Driveway, or at the Curbside. – Speed Profiles are now available at all times, to further customize driving style preference.
 
 [查看原文](https://nitter.net/Tesla_AI/status/2071592820889260101#m)
@@ -3624,8 +3510,6 @@ RT by @elonmusk: v14 Lite Release Notes: – Distilled the intelligence from HW4
 ## 2026-06-29 22:01:56
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I'm from the UK... And besides that, more Europeans die from heat every year than Americans die from guns, even including suicides. Use AC.
 
@@ -3637,8 +3521,6 @@ RT by @elonmusk: I'm from the UK... And besides that, more Europeans die from he
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Think about this, the 7+ year old Teslas with AI3 that are now getting FSD V14 Lite have a more capable self-driving system than any brand-new non-Tesla car currently sold in North America. Pretty wild.
 
 [查看原文](https://nitter.net/SawyerMerritt/status/2071606089041215564#m)
@@ -3648,8 +3530,6 @@ RT by @elonmusk: Think about this, the 7+ year old Teslas with AI3 that are now 
 ## 2026-06-29 22:46:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Interesting
 
@@ -3663,8 +3543,6 @@ Interesting
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: If you are building harnesses or AI tools and would like help adding grok in there hit me up More powerful models are coming and it's better to be prepared ahead of time DM's are open
 
 [查看原文](https://nitter.net/Jaaneek/status/2071607502710477220#m)
@@ -3674,8 +3552,6 @@ RT by @elonmusk: If you are building harnesses or AI tools and would like help a
 ## 2026-06-29 23:09:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Justice Alito's dissent lays it out plain as day. This opinion opens the door to more fraud and it is not difficult to understand why. Outside of military ballots, ballots that show up after election day should not be counted. They are highly suspect.
 
@@ -3691,8 +3567,6 @@ RT by @elonmusk: Justice Alito's dissent lays it out plain as day. This opinion 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Correct
 
 [查看原文](https://nitter.net/elonmusk/status/2071612046894936136#m)
@@ -3703,8 +3577,6 @@ Correct
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yup
 
 [查看原文](https://nitter.net/elonmusk/status/2071613438019666143#m)
@@ -3714,8 +3586,6 @@ Yup
 ## 2026-06-29 23:22:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The hard truth is that USAID, with its constant support of often violent leftist regime change, caused a lot of death!
 
@@ -3729,8 +3599,6 @@ The hard truth is that USAID, with its constant support of often violent leftist
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: xAI has added Build page to xAI Console
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdmpCnGupEu_NJiXDFUIsibUK9HzcAAJLEmsb3DwZVuhF7HhTyjP5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3742,8 +3610,6 @@ RT by @elonmusk: xAI has added Build page to xAI Console
 ## 2026-06-29 23:54:04
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True
 
@@ -4351,8 +4217,6 @@ RT by @elonmusk: It has now reached the point where I truly believe that public 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok Imagine Video has become the clear leader in @vercel AI Gateway, now amounting to ~50% of videos generated by developers 🤯 http://vercel.com/ai-gateway/leaderboards/video/models
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIER2pApxBdgVVHuE3ZJQlukp_eL_nWAALtD2sb85EAAVbehzqeaFsc5AEAAwIAA3kAAzwE.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4365,8 +4229,6 @@ RT by @elonmusk: Grok Imagine Video has become the clear leader in @vercel AI Ga
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Women are not suitable for dealing with the amount of violence necessary to maintain civilization. This is, again, because women are wired to care for babies with whom "zero" violence is the correct amount. This is why the central problem of Western Civilization is childless women with political power. Civilization requires continuity, past and future, and thus it belongs only to those that create said future. Allowing childless people authority over civilization is fundamentally suicidal.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEPGo_ddiKrn-qqEqBj_Wx_wmutBQmAAJzEGsbrrsAAVaWHhPbaQkSFgEAAwIAA3gAAzwE.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4375,11 +4237,11 @@ RT by @elonmusk: Women are not suitable for dealing with the amount of violence 
 
 ---
 
+---
+
 ## 2026-06-26 20:02:49
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Heute vor fünf Jahren, am 26. Juni 2021 fand man in Wien am frühen Morgen ein totes Mädchen auf der Straße. Leonie war gerade einmal 13 Jahre alt, als sie von drei Afghanen in einer Gemeindewohnung erst mit Drogen vollgepumpt und dann von allen vergewaltigt wurde. Letztlich starb sie laut dem Gerichtsgutachten einen Erstickungstod unter Einfluss der Überdosierung. Man fand das tote Mädchen in einem Wohngebiet. Die Täter hatten sie in einen Teppich gewickelt und wie Müll einfach draußen auf der Straße entsorgt und an einen Baum angelehnt. Bei den Ermittlungen kam heraus, dass ein Täter falsche Angaben zu seinem Alter machte. Gab er selbst an, er sei 16 Jahre alt, ermittelte das Gutachten ein Mindestalter von 20 Jahren. Einer der Täter floh nach der Tat nach England, konnte aber verhaftet werden und wurde nach Österreich überstellt. Zubaidullah R. wurde im Prozess im Dezember 2022 zu einer lebenslangen Haftstrafe verurteilt, Ibraulhaq A. zu 20 Jahren. Ali H., der angab, Leonies Freund gewesen zu sein, muss 19 Jahre in Haft.
 
@@ -4393,8 +4255,6 @@ RT by @elonmusk: Heute vor fünf Jahren, am 26. Juni 2021 fand man in Wien am fr
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: When you came to Iceland in early June 2025 we had not yet started to see many of the consequences of the 2024 push to bring in people from Gaza (led by a group of women in an empathy rush). Since then, we have had a grooming gang being stopped by coincidence, revealing they had two teenage girls they had drugged in the car, a group of Hamas-connected men made an attempt to kill a person in a parking garage (on trial now, but one escaped to Jordan), another group attacked a 17 year (could have killed him) old because he had the reaction of punching the hood of their car as they drove over his foot, joined by people who came out of a nearby Kebab restaurant to help beat him up. We have gangs of kids from Gaza that are terrorising other children. We do not let our kids out the same way as before. We see pictures of them in expensive cars (how do they get expensive cars? – there was an effort to gather money to pay them out of Gaza) – some pictures with guns. Videos of them browing the horns of their cars to assert dominance. We hear their loud music in the night when they drive by our homes. There was an incident of a person walking a suburb with a machete during an argument (photographed from all angles). They (or other muslims) took over a shed by the airport that taxi drivers had to have coffee and go to the toilet and the denied everyone else entry (people that legally can use it and have used it for years) as they turned it into a place to pray. One woman, who had brought a "refugee" from Gaza and married him has now testified in an interview that he was indeed a violent Hamas member (good for her to admit that she was wrong and testify). All this is just the tip of the Iceberg and everybody that has eyes and ears sees and hears this. This is just little Iceland in about one year since you came here. Only the ideologically possessed can't see what is going on.
 
 [查看原文](https://nitter.net/gunnlaj/status/2070478528345170294#m)
@@ -4405,8 +4265,6 @@ RT by @elonmusk: When you came to Iceland in early June 2025 we had not yet star
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: In Deutschland ohne Freigabe – Elon Musk stellt ganzen Film von Uwe Boll bei X online http://to.welt.de/QRrI3OS
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEJmo_AWg3V0Zpe3zd9z0w5lI4tC1QAAK5Dmsbrrv4VSLqXtejraW2AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4415,11 +4273,11 @@ RT by @elonmusk: In Deutschland ohne Freigabe – Elon Musk stellt ganzen Film v
 
 ---
 
+---
+
 ## 2026-06-26 20:17:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Venezuela’s Vice President Delcy Rodríguez thanks @elonmusk and @Starlink for providing free connectivity after the earthquakes.
 
@@ -4427,13 +4285,13 @@ RT by @elonmusk: BREAKING: Venezuela’s Vice President Delcy Rodríguez thanks 
 
 [查看原文](https://nitter.net/cb_doge/status/2070481599775363306#m)
 
+------
+
 ---
 
 ## 2026-06-26 13:01:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT @GadSaad: Please watch.
 
@@ -4441,11 +4299,11 @@ RT @GadSaad: Please watch.
 
 ---
 
+---
+
 ## 2026-06-26 05:51:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 👀
 
@@ -4453,13 +4311,13 @@ RT by @elonmusk: 👀
 
 [查看原文](https://nitter.net/dogeofficialceo/status/2070263733247680674#m)
 
+---------
+
 ---
 
 ## 2026-06-26 01:52:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Nochmal, damit das alle verstehen, was in Deutschland passiert. Die gesamte deutsche MSM-Presse verliert kein Wort über Uwe Boll oder Citizen Vigilante. Ausnahme drei Artikel: Welt (hinter Paywall), web. de und t-online, je ein Artikel über die FSK. Sie müssen begreifen, was das zu bedeuten hat. Es gibt zentralisierte Mechanismen der Absprache, die bundesweit alle Zeitungen erreichen. Jedes Lokalblatt, jedes Magazin, jede große Tageszeitung. Von Deutschland ca. 1000 Zeitungen und Lokalblätter wurden nur zwei Artikel über das größte Filmphänomen des Jahrzehnts, das größte Gesprächsthema im Internet zum aktuell meist diskutierten politischen Thema in Europa veröffentlicht. So gleichgeschaltet, so kontrolliert ist die deutsche Presse! Vergessen Sie das nie! Die deutschen MSM-Medien sind reine Propaganda. Alle und immer!
 
@@ -4469,11 +4327,11 @@ RT by @elonmusk: Nochmal, damit das alle verstehen, was in Deutschland passiert.
 
 ---
 
+---
+
 ## 2026-06-26 06:47:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Starlink is providing free internet for Venezuela after devastating earthquakes. • Free service through July 25 for people impacted by the devastating earthquakes in Venezuela. • The free service applies to both new and existing customers. • Starlink is also rapidly deploying terminals to the hardest-hit areas. Elon Musk is once again standing with people in need.
 
@@ -4487,8 +4345,6 @@ RT by @elonmusk: BREAKING: Starlink is providing free internet for Venezuela aft
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Griffin and Xavier 20 years ago
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID9mo9VLfcsQViKaHbO_BbjtmXItMyAAIUF2sbQ-XpVesOrGY9p54_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4497,13 +4353,13 @@ Griffin and Xavier 20 years ago
 
 [查看原文](https://nitter.net/elonmusk/status/2070175356288377242#m)
 
+------------
+
 ---
 
 ## 2026-06-26 00:43:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Well said
 
@@ -4517,8 +4373,6 @@ Well said
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2070065395000623104_img_VUCjftB0I6T2YVhY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4530,8 +4384,6 @@ Video
 ## 2026-06-26 00:50:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Tim Cook, who told The Wall Street Journal that the jump in costs was unlike anything he had seen “in any area in over 40 years.” Biggest price jump in anything I’ve ever seen too. https://www.wsj.com/economy/the-data-center-boom-is-sparking-a-third-wave-of-inflation-926adc6e?st=oU4UNF
 
@@ -4545,8 +4397,6 @@ Tim Cook, who told The Wall Street Journal that the jump in costs was unlike any
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Texas
 
 [查看原文](https://nitter.net/elonmusk/status/2070248656867910012#m)
@@ -4556,8 +4406,6 @@ Texas
 ## 2026-06-26 05:09:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -4571,8 +4419,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Soros is Magneto and his son is Mini Magneto
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID-mo9nWDKVEphngf0liyfQ9wSW4S0AALUDWsbrrvwVc1FFqfaOvbDAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4584,8 +4430,6 @@ Soros is Magneto and his son is Mini Magneto
 ## 2026-06-26 06:04:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: AMERICA IS BUILDING AGAIN 🇺🇸 I went underground with @boringcompany checking out the MUSIC CITY LOOP — a massive 25-mile twin-tunnel system in Nashville that will move people from the airport to downtown with ZERO traffic @USDOT processed approval requests within 1 MONTH — that’s 6X FASTER THAN NORMAL Even better — the project used ZERO TAXPAYER DOLLARS This is the kind of innovation that is powering the next revolution in transportation
 
@@ -4605,8 +4449,6 @@ RT by @elonmusk: AMERICA IS BUILDING AGAIN 🇺🇸 I went underground with @bor
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: We exist and work so leftists can rule over us. Our labor and taxes get extracted to build and sustain political clients who deliver power to the left at home and extend its reach abroad. Democrats expanded welfare after the War on Poverty to turn black Americans into a captured voting bloc. The new programs discouraged marriage and work. The rate of out-of-wedlock births rose from 24% in 1965 to above 70%. Black support for Democrats locked in at 90% or higher and has stayed there. The identical approach runs with illegal immigrants now. Policies drive large inflows. Taxpayer money then covers housing, healthcare, food, and schooling in Democrat areas. Fiscal estimates place the net annual cost near 150 billion dollars. Census counting of non-citizens shifts House seats and electoral votes toward the party that sustains the inflows. Abroad, the same funds support left leaning movements and governments through foreign aid and grants. Billions flow to organizations and projects that advance the broader agenda. Domestic clients and foreign allies draw from one source, taxes taken from working Americans. The record shows the pattern without interruption. Welfare after 1964 produced long-term dependents whose votes reward the party delivering benefits. Current immigration policies expand the dependent pool and alter political arithmetic. Foreign spending projects the model outward. Productive labor funds all of it so the left maintains control. The numbers on family structure, fiscal transfers, voting loyalty, and power allocation line up exactly. So work harder and pay your taxes, peasant.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID_Go9wbAUWVB1YQ1dKuvuLLD3Iin0AAIEDmsbrrvwVW2JdVPC1xCBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4618,8 +4460,6 @@ RT by @elonmusk: We exist and work so leftists can rule over us. Our labor and t
 ## 2026-06-26 11:55:27
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Children are a blessing ❤️
 
@@ -4633,8 +4473,6 @@ RT by @elonmusk: Children are a blessing ❤️
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Please watch.
 
 <img src="/images/elonmusk/amplify_video_thumb_2070139883226607616_img_FN4mA-FAF2E0gIhI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4646,8 +4484,6 @@ RT by @elonmusk: Please watch.
 ## 2026-06-26 20:20:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Full duration single-engine static fire test of Starship
 
@@ -4665,8 +4501,6 @@ RT by @elonmusk: Full duration single-engine static fire test of Starship
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Read this article. DEI has only one purpose, and it has nothing to do with social justice or equity. Every person carries a moral frame that precedes any training module: conscience, faith, community. Romans 2:15: the law written on the heart. DEI exists to displace it. The endpoint is moral authority reassignment. Away from God, family, country, conscience. Toward the NGO-Administrative Complex. That's what the training was always for: consultation transfer. The military was a top target because it had to be.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEJGo--iDTNrvVCANWrR38qDxGLirZAAK3Dmsbrrv4VdCMlec7UBamAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4679,8 +4513,6 @@ RT by @elonmusk: Read this article. DEI has only one purpose, and it has nothing
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: John Bolton once called for Edward Snowden's execution. He even fantasized how, saying Snowden "ought to swing from a tall oak tree." Bolton is now a convicted felon for mishandling classified information: not to inform the public but to profit off a book. Get the noose.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEJWo_AWXwZttfE1AoCcsCeV7nqDPOAAK4Dmsbrrv4VVq0Wc93dAAB7AEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4692,8 +4524,6 @@ RT by @elonmusk: John Bolton once called for Edward Snowden's execution. He even
 ## 2026-06-26 23:26:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 100% correct. When I was at the Del Rio, TX Haitian bridge camp in 2021, many of the Haitians told me they had been living in Chile & Brazil for years before coming to the US illegally for economic (not safety) reasons. The Haitians were dumping & tearing up their Chilean documents at the river’s edge hide this fact from the US so it wouldn’t hurt their fraudulent asylum claims. The idea that all these Haitians came directly from Haiti after an earthquake or assassination is false. Many of them were living happily and safely for years in South America until Biden’s open border policies became too attractive to pass up. Others also flew into the US via Biden’s CHNV mass parole program which was supposed to be for only 2 year humanitarian parole grants. Of course, most never left.
 
@@ -4713,8 +4543,6 @@ RT by @elonmusk: 100% correct. When I was at the Del Rio, TX Haitian bridge camp
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: I’m a gay man and I’m done staying silent. I survived bullying, the coming-out wars, and actual hate for who I am. What I won’t accept is importing millions from cultures where they throw us off rooftops, hang us, or jail us for life. Pride flags in Tehran? Laughable. Open borders + unchecked migration from places that treat gays like vermin isn’t “compassion” — it’s suicide for everything we fought for. Protect Western values or watch them disappear. Gay rights aren’t compatible with mass immigration from the most anti-gay societies on Earth. Change my mind.
 
 [查看原文](https://nitter.net/NormalGayPsych/status/2070535585031192587#m)
@@ -4724,8 +4552,6 @@ RT by @elonmusk: I’m a gay man and I’m done staying silent. I survived bully
 ## 2026-06-25 21:38:32
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden am vergangenen Samstagnachmittag in einem Schwimmbad in Schwäbisch Gmünd Opfer sexueller Übergriffe. Tatverdächtig ist ein 21-jähriger Afghane. Er soll den Mädchen nicht nur an den Hintern und Oberschenkel gefasst haben. Er wollte wohl auch die Bikini-Unterteile herunterziehen. Bei einem Mädchen soll er zudem versucht haben, mit den Fingern in den Intimbereich einzudringen, was bedeutet, dass es sich aus rechtlicher Sicht um eine versuchte Vergewaltigung handeln dürfte. Der Tatverdächtige wurde zwar festgenommen, die Staatsanwaltschaft beantragte auch einen Haftbefehl, aber der zuständige Richter setzte ihn außer Vollzug. Der Kerl rennt also weiterhin frei unter uns herum. Die Auflage, keine Freibäder aufzusuchen, wird ihn mit Sicherheit wenig interessieren, zumal das gar nicht kontrolliert werden kann. Meine Güte, sperrt solche Leute doch weg und schiebt sie ab. Für solche Personen braucht es die Möglichkeit eines Eilverfahrens, in dem nicht nur wegen der begangenen Straftat verhandelt wird, sondern auch der mögliche Aufenthaltstitel entzogen und zeitlich unbefristete Abschiebehaft angeordnet werden kann. Warum müssen wir diese Täter weiter hier erdulden und finanzieren?
 
@@ -4739,8 +4565,6 @@ RT by @elonmusk: Mindestens vier Mädchen im Alter von 12 bis 14 Jahren wurden a
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Need to find a harder problem for /goal. I haven't even finished my coffee yet.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEEGo-AxgiJxg9HbW9XkXB5O2qvajpAALjDmsbrrvwVT56gV3P44iIAQADAgADbQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4751,11 +4575,11 @@ RT by @elonmusk: Need to find a harder problem for /goal. I haven't even finishe
 
 ---
 
+---
+
 ## 2026-06-25 16:07:31
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX rocket launches in 2026 are insanely brutal SpaceX: • 76 operational launches ➝ 76 successes ➝ 0 failures The entire rest of the world combined: • 55 tracked launches ➝ 49 successes ➝ 6 failures SpaceX basically erased the failure bar entirely from the chart lol One company has flown more operational orbital missions this year than every other country, agency, and launch company combined and still has a cleaner record with a 100% success rate so far This is one company operating at industrial scale while the rest of the world still treats orbit like a rare national event
 
@@ -4765,11 +4589,11 @@ RT by @elonmusk: SpaceX rocket launches in 2026 are insanely brutal SpaceX: • 
 
 ---
 
+---
+
 ## 2026-06-25 22:30:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: This. 👇 👇 👇
 
@@ -4779,11 +4603,11 @@ RT by @elonmusk: This. 👇 👇 👇
 
 ---
 
+---
+
 ## 2026-06-25 22:23:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Tesla has announced that it will increase production output at its Giga Berlin factory by another 20% to 7,500 vehicles per week starting in October of this year. This is in addition to the 20% production output increase previously announced a few months ago. Tesla will hire 1,000 additional employees by October for this new increase in production. "3,500 additional jobs will be created in the short and medium term for vehicle and battery manufacturing at the plant," Tesla said.
 
@@ -4793,11 +4617,11 @@ RT by @elonmusk: Tesla has announced that it will increase production output at 
 
 ---
 
+---
+
 ## 2026-06-25 19:47:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Justice for Louis.
 
@@ -4807,15 +4631,17 @@ RT by @elonmusk: Justice for Louis.
 
 ---
 
+---
+
 ## 2026-06-25 13:46:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT @levelsio: The craziest thing about Quake is how many modern FPS games originate from it somehow Valve's Source engine was a modified Q…
 
 [查看原文](https://nitter.net/elonmusk/status/2070020697724973299#m)
+
+------
 
 ---
 
@@ -4823,19 +4649,17 @@ RT @levelsio: The craziest thing about Quake is how many modern FPS games origin
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The users who complain about the flaws in your product may seem annoying, but they are on the whole probably your most valuable users. They complain because they care, and I doubt a startup could ever get really big without users who care a lot about the product.
 
 [查看原文](https://nitter.net/paulg/status/2069821293596148004#m)
 
 ---
 
+---
+
 ## 2026-06-25 06:11:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I once reported on how great Wikipedia was. Now, it’s FULL of propaganda. That’s a big problem because its bad information corrupts AI and search results: @npovmedia @AshleyRindsberg
 
@@ -4849,8 +4673,6 @@ RT by @elonmusk: I once reported on how great Wikipedia was. Now, it’s FULL of
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The Overton Window right now
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID7Go87vgZC18biB2JcglUpUqOonsFAAKbFWsbQ-XpVVcXlLOOq_77AQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4863,21 +4685,19 @@ RT by @elonmusk: The Overton Window right now
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The craziest thing about Quake is how many modern FPS games originate from it somehow Valve's Source engine was a modified Quake 1 engine which spawned Half Life, Counter Strike, DOTA, Apex Legends, Titanfall The entire Call of Duty and Warzone series originates from a modified Quake 3 engine that's continously iterated since!
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID5Go80dVOKW4zIiuXJagNa6HjFSlLAAI9FWsbQ-XpVcMdjurLat8YAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/levelsio/status/2069850990317289923#m)
 
+------
+
 ---
 
 ## 2026-06-25 04:13:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Migrants film themselves beating French boy into coma (he died) https://notthebee.com/article/migrants-film-themselves-beating-french-boy-into-coma-he-died
 
@@ -4891,8 +4711,6 @@ RT by @elonmusk: Migrants film themselves beating French boy into coma (he died)
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Image
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID22o80bc-wXmnxD_Q9CZ2KCxzbIE_AAIyFWsbQ-XpVcRDFH8NQ7SrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4904,8 +4722,6 @@ RT by @elonmusk: Image
 ## 2026-06-25 05:55:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The fall of Rome was less a dramatic collapse and more the slow and eventually total decline of state services. One day, your postman becomes a little less reliable. He arrives less often. Then later on, he's gone, and you're not sending or receiving letters anymore.
 
@@ -4921,21 +4737,19 @@ RT by @elonmusk: The fall of Rome was less a dramatic collapse and more the slow
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Elon just hinted at Neuralink’s next major leap: Not just brain-to-computer control Higher-bandwidth communication between humans, AI, and eventually humans themselves This is much bigger than typing with your brain AI is moving at a speed humans simply can’t match through keyboards, phones, voice, or even language itself We think in rich ideas Then we compress those ideas into words Then someone else has to decode those words back into meaning That is painfully low bandwidth AI does not have that problem Machines can process, respond, and improve at insane speed If humans stay trapped in slow communication loops while AI keeps accelerating, we lose the advantage Neuralink is the bridge “In the long term, Neuralink hopes to play a role in AI risk / civilizational risk reduction by improving human-to-AI and human-to-human bandwidth by several orders of magnitude” — Elon Musk Brain → computer is step one Brain → AI is the next frontier Brain → brain is the long-term vision Human intent moving closer to the speed of thought This is how humans stay competitive in the age of superintelligence Not by slowing AI down By upgrading human bandwidth
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDyWo8ORjMFN3PJKbn4h-Mk1cZQEEdAALzEmsbQ-XhVZEQ4E6uq8LTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/XFreeze/status/2069822379434594774#m)
 
+---------
+
 ---
 
 ## 2026-06-25 02:22:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 This is happening throughout the West
 
@@ -4947,8 +4761,6 @@ This is happening throughout the West
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: i’m convinced that the best founders don’t post on linkedIn (or at least sparingly)
 
 [查看原文](https://nitter.net/craigweiss/status/2069863242932052228#m)
@@ -4958,8 +4770,6 @@ RT by @elonmusk: i’m convinced that the best founders don’t post on linkedIn
 ## 2026-06-25 05:03:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The 𝕏 Money experience keeps getting better. Even activating your card feels special. Excited for more and more people to get onboarded.
 
@@ -4973,8 +4783,6 @@ RT by @elonmusk: The 𝕏 Money experience keeps getting better. Even activating
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Lee Kuan Yew was a genius
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDy2o8TuZ-45sapy8j1R_HfoMeoka7AAL6EmsbQ-XhVWoG4EacmxwQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4987,8 +4795,6 @@ Lee Kuan Yew was a genius
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 💯
 
 [查看原文](https://nitter.net/elonmusk/status/2069933635508338974#m)
@@ -4998,8 +4804,6 @@ Lee Kuan Yew was a genius
 ## 2026-06-25 08:01:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: How many more children before we admit the experiment failed? This time it’s two Iraqi brothers, 18 and 20, on trial in Essen, Germany, for allegedly raping a 7 year old girl on two separate occasions. She was the friend of their younger sister who lived right next door. Another horror story in a continent-wide pattern. Across Europe, men from certain immigrant backgrounds, especially Middle East, North Africa, and parts of Africa, are wildly overrepresented in rape and child sexual abuse statistics. In Germany, foreigners are 15% of the population but 38% of rape suspects. In Sweden, immigrant men dominate rape convictions in long term studies, even after adjusting for age and socioeconomic factors. Those arriving as teens or adults bring the highest risk. In the UK, foreign citizens are 3.5x more likely to be arrested for sexual offences. The Pakistani muslim grooming gang scandal is still unraveling. Europe didn’t have an epidemic of 7 year olds being raped by their neighbors’ older brothers before the mass low-skilled migration experiment. It imported the problem along with the people. Cultures that treat non-muslim girls as fair game, or that normalize early sexualization and weak boundaries around children, don’t magically become Swedish, German, or British just because they cross a border. This is what happens when you prioritize volume over compatibility and then gaslight the public about the results. The trial continues. The pattern continues. The denial continues.
 
@@ -5013,8 +4817,6 @@ RT by @elonmusk: How many more children before we admit the experiment failed? T
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Communism through (my) ages: 1) When I was 15, a teacher told me "It isn't as bad as they say, and makes a lot of sense." 2) At about 19, college friends, "Socialism isn't communism." 3) At 20, on meeting my grandfather-in-law, "They are evil. We escaped in 1949." 4) At 30, "China is a wonderful developing Democracy" 5) At 35, I was sent to communist China on business. It was a crowded, smelly, dirty, factory of despair and hopelessness. This I saw with my own eyes. 6) At 36, "China doesn't count. Successful socialism is in northern Europe." 7) I moved to northern Europe when I was 40. It was much nicer than China, but also felt like I was living in the past. I had to wait 6 months for a hernia operation. 8) When I was about 45, the migrant crisis began. The socialist/globalist/pacifist allowed them entry into every country, regardless how many crimes they committed along the way. Just 20 minutes from my house, in Calais, I was shocked to see migrants jumping onto trucks, breaking open the doors, scattering the contents across the highway, then climbing in. They went through the Chunnel and got out in England. 9) At 52, the soft socialism around me had transformed into globalism. I was told I had to call people by their preferred pronouns, though it was a lie, and even if I didn't know what the preferences were. I quit. 10) I returned to the US, and am now 60. "Socialism" is no longer a dirty word here. People openly espouse the virtues of it. Politicians run as socialists and win. Socialism has taken many forms, from the Bolshevism of Russia, to the CCP in China, the Nazis in Germany, Fascists in Italy, and the many forms of it found in Latin America. It is one of the two most destructive ideologies on earth. It is designed to deprive, despirit, and murder everything that comes in contact with it. Socialism is a great lie at every level. It helps no one, not even those who benefit the most. This is because the cost is the imposition of one's will on everyone else, and that destroys the soul of the usurper and the life of the oppressed. Socialism always fails on its own, but only after destroying almost everything in its train. It can also be conquered. Those are the options.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID4Wo80c0CtNPlq1_G0HcAAeTtLOOnGwACOhVrG0Pl6VVQL4jzLygHywEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5026,8 +4828,6 @@ RT by @elonmusk: Communism through (my) ages: 1) When I was 15, a teacher told m
 ## 2026-06-25 11:46:24
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: “We are going to have a multi-racial nation in Singapore. This is not a Malay nation. This is not a Chinese nation. This is not an Indian nation. Everybody will have his place here, equal: language, culture, religion.” — Lee Kuan Yew, August 9, 1965 LKY’s quote echoes Aristotle’s account of the polis as the highest koinonia, or community, formed not by blood or mere aggregation but for the sake of eudaimonia, the good life, through justice as its binding principle and the cultivation of virtue among citizens. A regime, or politeia, endures when it serves the common good rather than faction. Lee took a vulnerable, divided entrepôt and deliberately constructed a modern polis. He rejected ethnic clientelism, imposed equal rules under law, rewarded merit, and built habits of discipline and cohesion so citizens of every background could pursue security and rising prosperity together. He treated nationhood as a fragile achievement that required constant defense against stasis. Aristotle warned that when a politeia no longer aims at eudaimonia for the whole but instead manages competing interests and erodes the civic ethos, it decays into factional strife and eventual collapse. And Lee showed what deliberate counter measures look like in practice. America today is moving toward the condition Aristotle feared and Lee refused to accept. Identity based claims increasingly displace equal rules, merit yields to group outcome, and trust in shared institutions frays. Without a conscious recovery of the principles that once sustained our own politeia, namely justice applied without favor, habits of self-government, and a civic ethos oriented toward the flourishing of citizens as one people rather than rival tribes, America risks the very stasis and hollowing that have undone polities throughout history.
 
@@ -5043,8 +4843,6 @@ RT by @elonmusk: “We are going to have a multi-racial nation in Singapore. Thi
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Getting used to being liked likely means you are overfit to RLHF. The problem with overfitting is that the pain overwhelms the limbic system once you try to sample trajectories outside the known distribution. As more people like you, your sampling regime becomes smaller and smaller to avoid negative feedback. Eventually you get stuck and become a slave to your own feelings. That’s why I have never seen a model student happy once they become a “model”. Their weights are frozen and cannot be updated anymore. They cannot risk being better than their own SOTA.
 
 [查看原文](https://nitter.net/yunta_tsai/status/2069993707076792323#m)
@@ -5054,8 +4852,6 @@ RT by @elonmusk: Getting used to being liked likely means you are overfit to RLH
 ## 2026-06-25 12:14:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The worms did not grow inside USAID overnight. The worm colony spread across the agency over decades.
 
@@ -5073,8 +4869,6 @@ RT by @elonmusk: The worms did not grow inside USAID overnight. The worm colony 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow
 
 [查看原文](https://nitter.net/elonmusk/status/2070011658421055784#m)
@@ -5084,8 +4878,6 @@ Wow
 ## 2026-06-25 13:24:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: How it started vs how it’s going
 
@@ -5099,8 +4891,6 @@ RT by @elonmusk: How it started vs how it’s going
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Great interview
 
 <img src="/images/elonmusk/card_img_2070035890064257024_KI_-tGBA3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5112,8 +4902,6 @@ Great interview
 ## 2026-06-25 13:42:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -5127,8 +4915,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Honestly at this point I'm a bit frustrated I didn't get my USAID-sponsored RPG
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID2mo80bJ3iKcMzQ8j3mGVeZmUr2ksAAIwFWsbQ-XpVbucI5F2bu1zAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5140,8 +4926,6 @@ RT by @elonmusk: Honestly at this point I'm a bit frustrated I didn't get my USA
 ## 2026-06-25 14:07:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -5155,8 +4939,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 <img src="/images/elonmusk/ext_tw_video_thumb_2069773769191673856_pu_img_rz7SHgg-0DDVU_-h.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5168,8 +4950,6 @@ True
 ## 2026-06-25 14:48:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Kazakhstan Railways is bringing Starlink internet to 900 train carriages this summer. • By July, around 900 train carriages will be equipped with Starlink internet. • The service will cover nearly 50 passenger routes across the country. • KTZ’s passenger fleet has about 2,211 units, with the goal of full network coverage by autumn. • The rollout is being done in stages as part of Kazakhstan’s railway transport modernization program • Starlink was first tested on the Burabay Express electric train in 2025. • Satellite internet has also been introduced on other major routes, including Astana–Ust-Kamenogorsk and Astana–Almaty Talgo trains. Starlink is proving again that high-speed satellite internet can transform travel, especially across large countries and remote routes.
 
@@ -5183,8 +4963,6 @@ RT by @elonmusk: BREAKING: Kazakhstan Railways is bringing Starlink internet to 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The real class war is between the productive class and the parasitic class.
 
 [查看原文](https://nitter.net/TheAliceSmith/status/2070041541905666162#m)
@@ -5195,8 +4973,6 @@ RT by @elonmusk: The real class war is between the productive class and the para
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Pinned: Potential name for the AI industry regulatory authority: AI Associated Institute of America, Inc or AIAIAI, pronounced “ay yai yai”
 
 [查看原文](https://nitter.net/elonmusk/status/2070042592012570970#m)
@@ -5206,8 +4982,6 @@ Pinned: Potential name for the AI industry regulatory authority: AI Associated I
 ## 2026-06-25 15:40:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Which countries are we missing?
 
@@ -5221,8 +4995,6 @@ Which countries are we missing?
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2070139883226607616_img_FN4mA-FAF2E0gIhI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5235,8 +5007,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Wikipedia blocked its founder, Larry Sanger, from making edits to the site after he campaigned to make it more fair and balanced, per NY Post.
 
 [查看原文](https://nitter.net/LeadingReport/status/2069496851527589954#m)
@@ -5247,19 +5017,17 @@ RT by @elonmusk: Wikipedia blocked its founder, Larry Sanger, from making edits 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Gotham has fallen. The mass exodus out of the New York will continue apace. I call it the Blue Exodus. Last night’s sweep of Marxist Socialist candidates will further destroy New York City. The virulent antisemitism in the Socialists’ campaigns is dangerous not only to Jews, but to every American. Because they are attacking the West. If they continue to win, the American Dream and Western Civilization will fall. Wake up.
 
 [查看原文](https://nitter.net/EliseStefanik/status/2069741622246490385#m)
 
 ---
 
+---
+
 ## 2026-06-24 12:22:32
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: This is one of those moments where I feel most disconnected from my normie friends I'm like "do you realize what this means?" And they say "no" and I realize I will need to explain decades of nerd lore and in the end they don't care
 
@@ -5269,11 +5037,11 @@ RT by @elonmusk: This is one of those moments where I feel most disconnected fro
 
 ---
 
+---
+
 ## 2026-06-24 21:23:52
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Democrats have reached such an extreme that they’re electing someone to Congress who straight up wants to "eradicate" America. And not only does she believe this but she founded an activist organization to collapse America from inside. This should be a MASSIVE political scandal.
 
@@ -5287,8 +5055,6 @@ RT by @elonmusk: Democrats have reached such an extreme that they’re electing 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Traitor-maxxing
 
 <img src="/images/elonmusk/amplify_video_thumb_2069433933977018368_img_kxVoixqAcmPepxTZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5300,8 +5066,6 @@ RT by @elonmusk: Traitor-maxxing
 ## 2026-06-24 23:39:59
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 8 minutes.
 
@@ -5315,8 +5079,6 @@ RT by @elonmusk: 8 minutes.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: PASS THE SAVE AMERICA ACT.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDymo8TuPtMgHhEl7xt4ebmZ0LAqG1AAL5EmsbQ-XhVRP95ZxzFcOAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5325,11 +5087,11 @@ RT by @elonmusk: PASS THE SAVE AMERICA ACT.
 
 ---
 
+---
+
 ## 2026-06-24 12:32:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Asmongold explains Keir Starmer's resignation using a WoW raid strategy and it makes perfect sense "Labour just performed a tank swap. Starmer had too many debuffs so they pulled him out and brought in a new tank." "The new guy is going to do the same thing for the same raid. They're tanking the same boss in the same way." "You're Onyxia. Don't fall for the tank swap. He's not the organization. You didn't win, they just reset your aggro."
 
@@ -5337,13 +5099,13 @@ RT by @elonmusk: Asmongold explains Keir Starmer's resignation using a WoW raid 
 
 [查看原文](https://nitter.net/Asmon_Updates/status/2069639853894201536#m)
 
+---------
+
 ---
 
 ## 2026-06-24 13:54:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build just got another update with many improvements Release Notes: v0.2.64 — 2026-06-24 Features: • Dashboard now displays the current directory and branch; click or press Ctrl+L to change location, or Ctrl+W to dispatch new agents into fresh git worktrees. • /recap now appears as a collapsible tool-style block with a loading spinner while generating. Bug Fixes: • Dashboard arrow keys open agent details and exit overlays; closing an agent now selects the neighboring row. • /usage command and credit warnings are now hidden for API-key authentication. • MCP servers from your user config no longer appear labeled as project-scoped when running from your home directory.
 
@@ -5359,8 +5121,6 @@ RT by @elonmusk: Grok Build just got another update with many improvements Relea
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: "Democracy" is when the people vote for Brexit because they want less immigration, but they get exponentially more immigration as punishment.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDvWo7irulAAHnevh5fJjQA7ADg2SIpwAC-RBrGzFL2FVzmDygj50VEQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5369,11 +5129,11 @@ RT by @elonmusk: "Democracy" is when the people vote for Brexit because they wan
 
 ---
 
+---
+
 ## 2026-06-24 07:46:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: People who are complaining that he spends the first half of the movie murdering white people not migrants fail to understand that it’s hammering home an important premise. “Always hang a traitor before you shoot an enemy”
 
@@ -5387,8 +5147,6 @@ RT by @elonmusk: People who are complaining that he spends the first half of the
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Elon Musk just confirmed that ‘Starmind’ will be the official name of the SpaceX AI satellite constellation
 
 <img src="/images/elonmusk/amplify_video_thumb_2064357061408825345_img_bIq_x0vFsIP897-3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5400,8 +5158,6 @@ RT by @elonmusk: Elon Musk just confirmed that ‘Starmind’ will be the offici
 ## 2026-06-24 11:04:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I warned you but you scoffed. You will regret your Suicidal Empathy.
 
@@ -5415,8 +5171,6 @@ RT by @elonmusk: I warned you but you scoffed. You will regret your Suicidal Emp
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: A message to the Republicans in congress and the Trump administration. Please stop treating legal immigration like just another issue to be fine tuned and start treating it like the existential threat that it is. Three genocidal communists were just elected to the House of Representatives because mass legal immigration from the third world made it possible to do so in New York City. If you don't ban immigration from the third world, your jobs will be gone too. You think this stays in New York? Your seat is next.
 
 [查看原文](https://nitter.net/Anc_Aesthetics/status/2069664207977501148#m)
@@ -5427,8 +5181,6 @@ RT by @elonmusk: A message to the Republicans in congress and the Trump administ
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: USAID funded the Wuhan lab Wuhan lab created SARS-CoV-2 Wuhan lab was making more viruses DOGE defunded USAID DOGE may have been the most important pandemic prevention agency of the past century
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDumo7fC135hUi5wGHbzyazcoaVdRUAALMEGsbMUvYVZrEFwWdZCR0AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5437,15 +5189,17 @@ RT by @elonmusk: USAID funded the Wuhan lab Wuhan lab created SARS-CoV-2 Wuhan l
 
 ---
 
+---
+
 ## 2026-06-24 02:31:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: 460 criminal charges $6.5B intended loss, $1.4B actual loss $127M seized assets Great work by @SecKennedy, @DAGToddBlanche, @FBIDirectorKash, & @DrOzCMS on today’s fraud takedown. If you’re committing fraud, we’ll find you.
 
 [查看原文](https://nitter.net/JDVance/status/2069488592443851030#m)
+
+------
 
 ---
 
@@ -5453,11 +5207,11 @@ RT by @elonmusk: 460 criminal charges $6.5B intended loss, $1.4B actual loss $12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: If you are asking “Why push back against anti-datacenter efforts?” I consider it a tragedy that anti-nuclear efforts largely strangled nuclear power in the US based on vibes, and I don’t want to see that happen to AI. Public opinion matters, and it shouldn’t be ceded unchallenged. If you are asking “Why should I support AI efforts at all?” I believe we are in the midst of a transition more vibrant than the industrial revolution. Opinions formed a couple of years ago about the uselessness of AI are no longer valid. Millions of people and organizations are getting great returns from using it, and the demand for data centers is the market responding to the value signal. That is how progress is made!
 
 [查看原文](https://nitter.net/ID_AA_Carmack/status/2069486595917402117#m)
+
+------
 
 ---
 
@@ -5465,21 +5219,19 @@ RT by @elonmusk: If you are asking “Why push back against anti-datacenter effo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: For the last 46 years, it has been my privilege to work alongside countless talented artists and crews to create these characters, stories, and films for you all. I'm looking forward to seeing you at the movies! DIGGER. Only in theaters this October.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDpmo6zbrd5F_g98oaBiHfigiynzUHAAJuD2sbMUvYVfXP5ZBq41_4AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/TomCruise/status/2069450422532895164#m)
 
+------
+
 ---
 
 ## 2026-06-24 00:26:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 That is what they said
 
@@ -5489,11 +5241,11 @@ That is what they said
 
 ---
 
+---
+
 ## 2026-06-24 00:43:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: We need to rename USAID to "USCON" to more accurately reflect what the money was being used for.
 
@@ -5504,8 +5256,6 @@ RT by @elonmusk: We need to rename USAID to "USCON" to more accurately reflect w
 ## 2026-06-24 01:03:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Stephen Miller on USAID: "There is probably no entity in the government that is more of an entrenched power center of unelected bureaucrats with less accountability, less oversight than USAID. They funnel money to their cronies all over the world through a swampy network of NGOs and cutouts, including some very troubling elements of focusing on things like regime change and destabilizing foreign countries."
 
@@ -5519,8 +5269,6 @@ RT by @elonmusk: Stephen Miller on USAID: "There is probably no entity in the go
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 By their own logic
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDp2o6zb9yMJKCmpolDqUhOYBZ6DzTAAJvD2sbMUvYVQWBj3V9DlmgAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5532,8 +5280,6 @@ By their own logic
 ## 2026-06-24 01:31:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 USAID money funded coronavirus research in China that killed millions of people
 
@@ -5547,8 +5293,6 @@ USAID money funded coronavirus research in China that killed millions of people
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Tesla Model 3 and Model Y have the highest percentage of American-made content!
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDpWo6zbRajr0RFc2rR0zE1uJCRa4nAAJtD2sbMUvYVdzrzIUsmlBHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5560,8 +5304,6 @@ Tesla Model 3 and Model Y have the highest percentage of American-made content!
 ## 2026-06-24 01:34:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The fraudsters always complained the loudest and had totally fake sob stories
 
@@ -5575,8 +5317,6 @@ The fraudsters always complained the loudest and had totally fake sob stories
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Good question
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDpGo6za99kXwC8qfNOySOC_P1WRlbAAJsD2sbMUvYVevWhfktKfQeAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5588,8 +5328,6 @@ Good question
 ## 2026-06-24 01:39:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 USAID funding was central to the creation of COVID-19
 
@@ -5605,8 +5343,6 @@ USAID funding was central to the creation of COVID-19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 USAID should be called USCON
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDoWo6zZ8D9Ri9MFbdmG1UKBRLoafcAAJpD2sbMUvYVSBBhr-L_pJWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5618,8 +5354,6 @@ USAID should be called USCON
 ## 2026-06-24 01:48:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Exactly. If there were mass deaths due to USAID, when are they? I would like to call the bereaved parents! Nobody died is the truth, but a lot of fraud, funding bioweapons and foreign government interference was stopped. Many lives were saved as a result of stopping the bad parts of USAID funding. The parts of funding that have some chance of doing good remain in place and were transferred to the State Department.
 
@@ -5633,8 +5367,6 @@ Exactly. If there were mass deaths due to USAID, when are they? I would like to 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2069473318022078464_img_YdxTef0eSM_hRdIh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5647,8 +5379,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 🎯
 
 [查看原文](https://nitter.net/elonmusk/status/2069482748268744823#m)
@@ -5658,8 +5388,6 @@ Video
 ## 2026-06-24 02:11:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Soros wants to end Western Civilization
 
@@ -5675,8 +5403,6 @@ Soros wants to end Western Civilization
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Accusations of racism have been weaponized to stop criticism and common sense. No more.
 
 [查看原文](https://nitter.net/elonmusk/status/2069484189003796951#m)
@@ -5686,8 +5412,6 @@ Accusations of racism have been weaponized to stop criticism and common sense. N
 ## 2026-06-24 02:15:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 First Southwest Airlines flight with Starlink!
 
@@ -5703,8 +5427,6 @@ First Southwest Airlines flight with Starlink!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: More riddles for @RoKhanna. The President of El Salvador came to the same conclusion as DOGE and celebrated the shutdown of USAID. Are you accusing the President who reduced his country’s murder rate by 95% of supporting the murder of children?
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDrGo63GMhTPorWEe4XK4mClN6aFeVAAJ-D2sbMUvYVS0jQUe-VgABKAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5716,8 +5438,6 @@ RT by @elonmusk: More riddles for @RoKhanna. The President of El Salvador came t
 ## 2026-06-24 02:50:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 💫
 
@@ -5737,8 +5457,6 @@ RT by @elonmusk: More riddles for @RoKhanna. The President of El Salvador came t
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2069125779607412736_img_OXi7vNYgFGdlcBu2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5751,8 +5469,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Tip of the iceberg
 
 [查看原文](https://nitter.net/elonmusk/status/2069514943385469087#m)
@@ -5762,8 +5478,6 @@ Tip of the iceberg
 ## 2026-06-24 05:38:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Starlink coming to @AmericanAir next year!
 
@@ -5777,8 +5491,6 @@ Starlink coming to @AmericanAir next year!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 <img src="/images/elonmusk/amplify_video_thumb_2069483823734444033_img_Sl5HxLRpgvwU2Y1M.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5790,8 +5502,6 @@ True
 ## 2026-06-24 07:56:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Elon confirms "Starmind" will be the official name of @SpaceX's AI satellite constellation. Earlier this year, SpaceX filed a request with the FCC to launch and operate a constellation of 1 million AI satellites. SpaceX's AI1 satellite:
 
@@ -5805,8 +5515,6 @@ RT by @elonmusk: Elon confirms "Starmind" will be the official name of @SpaceX's
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: How USAID Built Color Revolution Infrastructure With NGOs
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDuGo7balmAWhAfCZQnXqH_5ICXnhdAAKcEGsbMUvYVXihk7cEL8uYAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5818,8 +5526,6 @@ RT by @elonmusk: How USAID Built Color Revolution Infrastructure With NGOs
 ## 2026-06-24 11:31:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 💯
 
@@ -5833,8 +5539,6 @@ RT by @elonmusk: 💯
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: If your sole value is identity, then someone else will use a more extreme identity to displace you.
 
 [查看原文](https://nitter.net/yunta_tsai/status/2069664081683107987#m)
@@ -5844,8 +5548,6 @@ RT by @elonmusk: If your sole value is identity, then someone else will use a mo
 ## 2026-06-24 14:16:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 🤣🤣
 
@@ -5859,8 +5561,6 @@ RT by @elonmusk: If your sole value is identity, then someone else will use a mo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Try Grok
 
 [查看原文](https://nitter.net/elonmusk/status/2069690741295861935#m)
@@ -5870,8 +5570,6 @@ Try Grok
 ## 2026-06-24 18:08:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The strange thing about progress is that it only counts if you ignore where we started. Every civilisation practised slavery. The civilisation that ended it is now told it should feel guilty forever for having once participated. How does that make any sense?
 
@@ -5885,8 +5583,6 @@ RT by @elonmusk: The strange thing about progress is that it only counts if you 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: SpaceX's @Starlink will be installed on more than 80 giant Oldendorff ships. Oldendorff is one of the world’s largest dry bulk shipping companies. "With vessels operating in diverse regions and trading routes, reliable and resilient connectivity plays an increasingly important role in maintaining operational efficiency and optimizing global fleet management."
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDx2o7_wX7jvzPyK7uAoajWN7xHLLnAALDEmsbQ-XhVSav2MibcvgHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5898,8 +5594,6 @@ RT by @elonmusk: SpaceX's @Starlink will be installed on more than 80 giant Olde
 ## 2026-06-24 21:05:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I’m reading an old collection of interconnected science fiction stories by Jerry Pournelle, written in the early 70s. His best books were later co-authored with Larry Niven, but it is still solid work in my favored “competence porn” genre, with entrepreneurs as protagonists. It stands out to me that he was despairing for America when he wrote the stories. Things looked bad at the time, and his fiction projected it into the future. Social unrest, Vietnam, Watergate, economic recession, energy crisis, and for a patriotic space guy, abandoning Apollo. The backdrop for the stories was that America was unfixable, which is, of course, a motivation to go to space in fiction, but I do think he was genuinely worried by what he saw around him. But over the next decade, things got better, and Jerry had a front row seat for the rise of the technology sector, writing the Chaos Manor column in Byte magazine for many years. He also got to see the founding of SpaceX, a company straight out of a hard SF novel, and they re-flew a landed rocket shortly before he died. Trends aren’t fate. Bad situations can be fixed, and good ones still need to be defended. RIP Jerry, I’m glad you got to see things turn around. https://en.wikipedia.org/wiki/Jerry_Pournelle
 
@@ -5913,8 +5607,6 @@ RT by @elonmusk: I’m reading an old collection of interconnected science ficti
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Starlink
 
 <img src="/images/elonmusk/amplify_video_thumb_2069776201367920640_img_3atnRZSQzxQXtNgw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5926,8 +5618,6 @@ Starlink
 ## 2026-06-24 23:47:49
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Use the official @MongoDB plugin in Grok Build to query data, optimize indexes, and manage databases.
 
@@ -5941,8 +5631,6 @@ RT by @elonmusk: Use the official @MongoDB plugin in Grok Build to query data, o
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Report: Female cop shoots Jewish rabbi outside Pornhub office in Canada while hiding from Marxist gunman who killed immigrant officer named Mohamed https://notthebee.com/t23da
 
 <img src="/images/elonmusk/card_img_2069428997922885632_gccQbUax3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5955,8 +5643,6 @@ RT by @elonmusk: Report: Female cop shoots Jewish rabbi outside Pornhub office i
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: USAID and other shady leftist charities used real suffering as a human shield for leftist graft! Almost 57% of USAID money to Haiti was...spent inside the DC Beltway. Just 2% made it to Haiti.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDr2o68iBZv7h-8xBW6W4ejkr7gtLfAAKHD2sbMUvYVVNgIaD3O835AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5965,11 +5651,11 @@ RT by @elonmusk: USAID and other shady leftist charities used real suffering as 
 
 ---
 
+---
+
 ## 2026-06-23 18:17:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: You can map the collapse of the West by its denial of the True, then the Good, and finally the Beautiful. All that’s left to replace them are power, performance, and pleasure.
 
@@ -5977,11 +5663,11 @@ RT by @elonmusk: You can map the collapse of the West by its denial of the True,
 
 ---
 
+---
+
 ## 2026-06-23 14:27:56
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Using their logic, you can argue USAID caused 9/11 then murdered 4.7 million people after.
 
@@ -5989,11 +5675,11 @@ RT by @elonmusk: Using their logic, you can argue USAID caused 9/11 then murdere
 
 ---
 
+---
+
 ## 2026-06-23 21:26:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Marlon West has done more than any politician to end the Pakistani rape gangs. His daughter is a survivor. He has seen the evil. If elected as Greater Manchester mayor for Restore Britain, he will go to war with the rape gangs. Watch this. @MarlonTag is a proper fighter.
 
@@ -6007,8 +5693,6 @@ RT by @elonmusk: Marlon West has done more than any politician to end the Pakist
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: It’s a requirement to be born in America to be President. It should also be a requirement to be born in America to be a federal judge.
 
 [查看原文](https://nitter.net/IanJaeger29/status/2069412912444149959#m)
@@ -6019,8 +5703,6 @@ RT by @elonmusk: It’s a requirement to be born in America to be President. It 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: U.S. taxpayer money, funneled through USAID and NIH, funded gain-of-function research at the Wuhan Institute of Virology. That research likely caused the COVID pandemic that killed millions and cost trillions. Dr. Fauci personally signed off on these experiments, then lied to Congress about it.
 
 [查看原文](https://nitter.net/SenRandPaul/status/2069415777736802533#m)
@@ -6030,8 +5712,6 @@ RT by @elonmusk: U.S. taxpayer money, funneled through USAID and NIH, funded gai
 ## 2026-06-23 23:28:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: It’s all fake and gay. Government and media manufactured the “class war” then pivoted to race war to absolve the state of blame for the 2008 crisis, sideline the Tea Party with racist media attacks, and consolidate power in leftist hands. The crash was produced by Fed money printing, Fannie and Freddie guarantees, and government mandates that forced risky loans into the system. When it collapsed the insiders got bailed out. The public absorbed the damage. The Tea Party demanded accountability for the bailouts and spending. Media met that challenge by branding the movement racist from the start. That attack neutralized a direct threat to big government and crony finance. Occupy was tolerated because it focused on banks and left the state’s central role untouched. And since the “racist” accusations worked on the Tea Party, the pivot to race delivered new tools for state expansion. Media usage of the word racist surged after 2012. Equity and systemic claims became the justification for deeper government reach into hiring, lending, education, and speech. The result is consolidated leftist power. The administrative state grew larger and more intrusive. Progressive ideology gained institutional dominance while opposition gets preemptively discredited rather than debated on substance. This sequence protected the government from reckoning with the crisis it created and shifted authority toward those who thrive on bigger government and identity based control. Now the woke narrative is crumbling, watch them pivot back to a class war.
 
@@ -6045,8 +5725,6 @@ RT by @elonmusk: It’s all fake and gay. Government and media manufactured the 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: *taps sign
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDm2o6t5g1O8C0NJD-K9RuZnuKeyysAAI_D2sbMUvYVQTuITRwlHPFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6055,11 +5733,11 @@ RT by @elonmusk: *taps sign
 
 ---
 
+---
+
 ## 2026-06-23 09:48:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The Holocaust was up to 6 million people dead. Ro Khanna is claiming that up to 4.5 million children were killed by Elon. What Ro is claiming is that Elon committed an atrocity on the scale of the Holocaust. This is not only an absurdly false claim, but also a very dangerous one to make. Being a sitting member of congress, Ro's words carry weight. Making such a false claim from such a source of authority puts Elon's life in danger. Repeating such false claims can motivate horrific acts of violence against him, his companies, and his associates. They are also damaging to his companies. This is no longer a game when you make such blatantly false claims. This is why the lawsuit against Ro Khanna must go forward. These falsehoods cannot be allowed to spread any further. @elonmusk, I hope you take Ro "the Robber" for every penny that he has.
 
@@ -6070,8 +5748,6 @@ RT by @elonmusk: The Holocaust was up to 6 million people dead. Ro Khanna is cla
 ## 2026-06-23 20:16:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Starlink is helping power education for hundreds of girls in the Democratic Republic of the Congo. 🇨🇩 • School provides free education to 430 girls • Community programs reach 5,000+ people annually • Installed at the Malaika School in Lubumbashi • Supports digital learning and internet access for students The Education Minister Raïssa Malu visited Malaika School and Community Center where Starlink is being used to expand access to online learning.
 
@@ -6085,8 +5761,6 @@ RT by @elonmusk: BREAKING: Starlink is helping power education for hundreds of g
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: “There's no anti-White bias in in the legal system!” I think there is, mate.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDmmo6t5ESAr2W2nwiijxHMTLWNe2HAAI-D2sbMUvYVTwofGANjOMMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6098,8 +5772,6 @@ RT by @elonmusk: “There's no anti-White bias in in the legal system!” I thin
 ## 2026-06-23 23:06:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: .@DAGToddBlanche announces charges against 455 defendants across 45 states and territories for healthcare fraud schemes involving over $6.5 billion in false claims submitted to Medicare, Medicaid, and other programs.
 
@@ -6113,8 +5785,6 @@ RT by @elonmusk: .@DAGToddBlanche announces charges against 455 defendants acros
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Three announcements from our keynote at Compile, including how we're training a new model with SpaceX.
 
 <img src="/images/elonmusk/amplify_video_thumb_2069142239335342080_img_dOnb8a8YMszF_AJA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6123,11 +5793,11 @@ RT by @elonmusk: Three announcements from our keynote at Compile, including how 
 
 ---
 
+---
+
 ## 2026-06-23 14:25:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: USAID was a criminal organization that funded bioweapons, censorship & global coups with your tax dollars. It was never about helping the poor. It was a viper’s nest of radical-left corruption, waste, and anti-America operations. • $53 MILLION funneled to EcoHealth Alliance for gain-of-function research at the Wuhan lab - research that created COVID-19 • Pushed censorship laws across Europe and pressured advertisers to boycott any media that wasn’t left-wing • Funded Smartmatic election systems + color revolutions to interfere in foreign governments (including Poland’s PiS) • Threatened Sen. Joni Ernst with lawsuits when she tried to audit their books • Approved $6 million+ in recent shady contracts (including $1.2M to Deloitte for “HR services”) while massively overcharging taxpayers for circumcisions worldwide USAID was a Deep State slush fund.
 
@@ -6139,21 +5809,19 @@ RT by @elonmusk: USAID was a criminal organization that funded bioweapons, censo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Selbst aus mathematisch-statistischer Perspektive ist das erschreckend: Syrer zum Beispiel sind bei Vergewaltigungen etwa 20-fach überrepräsentiert. Begegnet eine Frau in der Nacht fünf Syrern, liegt ihr Vergewaltigungsrisiko um zehntausend Prozent (!) höher, als würde sie fünf Deutschen begegnen. Begegnet die Frau hingegen fünf Südkoreanern oder Japanern, liegt ihr Vergewaltigungsrisiko sogar unter dem „normalen Alltagsrisiko“, das die 5 Deutschen darstellen, nämlich bei null. Wer also behauptet, Ethnien und Kulturen wären alle gleich und es mache keinen Unterschied, wen man ins Land holt, lügt.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDiGo6Q1jqTAsP3ZRdmLHwPEuWnz3vAAIkD2sbMUvQVTNEs_UIfgAB0QEAAwIAA3gAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/KaiserBenKaiser/status/2069111411528040458#m)
 
+------
+
 ---
 
 ## 2026-06-23 01:34:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Ending USAID saved lives. Fact.
 
@@ -6164,8 +5832,6 @@ RT by @elonmusk: Ending USAID saved lives. Fact.
 ## 2026-06-23 06:36:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: STARLINK: The National Superannuation Fund Limited (Nasfund) of Papua New Guinea launched Mobile Service Booths Powered by Starlink that deliver full member services directly to workplaces and remote communities across the country. Starting in Port Moresby, Starlink supports the booths with over 90 Mbps and allows on-the-spot ID card production, member statement printing, benefit eligibility screening, and account updates. Nasfund is a retirement fund with the goal to provide financial protection and a comfortable living for its members, or to support them and their beneficiaries in the event of unemployment, disability, or death. More Starlink news in today's ELON CHRON below!
 
@@ -6187,21 +5853,19 @@ RT by @elonmusk: STARLINK: The National Superannuation Fund Limited (Nasfund) of
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: BREAKING: Starlink will bring live sports streaming to Virgin Atlantic flights. • The service will be free through Virgin Atlantic’s high-speed Starlink WiFi. • FIFA World Cup 2026 matches will be available live during flights. • Passengers can watch live sports on personal devices. • Starlink is already installed on around one-third of Virgin Atlantic aircraft. • Virgin Atlantic plans to complete Starlink installation across its fleet by 2027 Another example of how Starlink is transforming the passenger experience at 35,000 feet.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDdmo57DtNDpOr3BiFXdH3pW4ZbvG3AALgDWsbMUvQVQgH8ATRx1PMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/cb_doge/status/2069163603274678396#m)
 
+------
+
 ---
 
 ## 2026-06-23 01:24:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The new /goal command in Grok Build is a huge update Until now, most coding agents have worked like enhanced chatbots You ask. It responds. You review. You guide it. Repeat /goal changes the entire paradigm Instead of micromanaging every step, you hand Grok Build a single engineering objective, and it plans the work, breaks it into tasks, executes them, verifies the results, and keeps going until the goal is complete It can: • Create an execution plan • Track progress with a checklist • Review code • Inspect webpages • Execute scripts • Verify its own work • Recover from failures • Continue autonomously while you supervise You can monitor and control it with commands like: /goal status /goal pause /goal resume /goal clear This is a shift from “help me write code” to “own this engineering objective” That’s a completely different category of coding agent...and a glimpse of where AI-assisted software development is headed
 
@@ -6211,13 +5875,13 @@ RT by @elonmusk: The new /goal command in Grok Build is a huge update Until now,
 
 [查看原文](https://nitter.net/XFreeze/status/2069109250153230357#m)
 
+------
+
 ---
 
 ## 2026-06-23 01:20:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Elon just sued German state TV for extreme lies. He and his very good German attorney scored a quick win and are continuing. Suing evil and lying politicians and government institutions that abuse their citizens is a service to humanity. Sue them all, Elon.
 
@@ -6225,11 +5889,11 @@ RT by @elonmusk: Elon just sued German state TV for extreme lies. He and his ver
 
 ---
 
+---
+
 ## 2026-06-23 01:55:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: It’s much more likely cutting USAID SAVED 4.5 million kids lives by no longer funding the dozens of USAID-funded civil wars that had been raging across Africa, Central Asia, LatAm and beyond.
 
@@ -6243,8 +5907,6 @@ RT by @elonmusk: It’s much more likely cutting USAID SAVED 4.5 million kids li
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: They’re trying to do to Elon what they did to POTUS Trump. And Charlie Kirk. Poison the minds of mentally unstable people with lies. The goal is to get the unstable to act out violently. The Left knows exactly what they’re doing. Ro knows exactly what he’s doing. Must stop.
 
 [查看原文](https://nitter.net/C_3C_3/status/2069137373896528167#m)
@@ -6255,19 +5917,17 @@ RT by @elonmusk: They’re trying to do to Elon what they did to POTUS Trump. An
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Ro the Robber
 
 [查看原文](https://nitter.net/elonmusk/status/2069089477511790812#m)
+
+------------
 
 ---
 
 ## 2026-06-23 00:06:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨 BREAKING: Elon Musk indicates he's SUING Rep. Ro Khanna (D) after Khanna said Elon needs to answer for '4.5 million kids dying' because of DOGE cuts ELON: "Time to sue this liar." "The reality is that money was being sent to corrupt politicians under the guise of aid! Liars and stock insider traders like Ro the Robber should be in prison!!" "The standard applied by DOGE was very simple and easy: Provide contact information for the recipients of aid, so that we can confirm it is not fraudulent." Wow! @ElonMusk is going MAXIMUM FAFO MODE!
 
@@ -6281,8 +5941,6 @@ RT by @elonmusk: 🚨 BREAKING: Elon Musk indicates he's SUING Rep. Ro Khanna (D
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The simplest question to ask a socialist is how much of their own money they have given to the causes they support The answer is always 0 On some deep psychological level, it’s because they see taxation and control of other people’s money **as their contribution** to solving the problem Some people really do care about the causes (doubtful that ro or warren or aoc or Bernie do at all) but regardless the core moral error is they think that being the one to demand where money is spent is a morally good action. It isn’t. Service is service. Sacrifice is sacrifice. Generosity is generosity. Secondhand is not. Controlling is not.
 
 [查看原文](https://nitter.net/ArthurMacwaters/status/2069096888947896787#m)
@@ -6292,8 +5950,6 @@ RT by @elonmusk: The simplest question to ask a socialist is how much of their o
 ## 2026-06-23 00:39:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Ro Khanna attacking DOGE reminds me of Elon’s PayPal lesson: “Do you know who complained the loudest? Fraudsters.”
 
@@ -6307,8 +5963,6 @@ RT by @elonmusk: Ro Khanna attacking DOGE reminds me of Elon’s PayPal lesson: 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yes
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDbGo5d_vcn3Du_Uv3xQkVlSrJOExLAAJYFGsbgMfQVeV5cHg9zRZ9AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6320,8 +5974,6 @@ Yes
 ## 2026-06-23 01:20:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Pinned: Absolutely. This is a total lie. All DOGE did was require contact with the aid recipients to confirm that funds were being used legitimately. Anything less than this is insane! Multiple people from USAID have been charged by the Justice Department with stealing money. Moreover, they pled GUILTY!! https://www.justice.gov/opa/pr/usaid-official-and-three-corporate-executives-plead-guilty-decade-long-bribery-scheme
 
@@ -6335,8 +5987,6 @@ Pinned: Absolutely. This is a total lie. All DOGE did was require contact with t
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 “Robber” Khanna!
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDbWo5nEz27GtdtUQMzxDxkRBOybDMAAKjDWsbMUvQVVwqLZPrJpsCAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6348,8 +5998,6 @@ Pinned: Absolutely. This is a total lie. All DOGE did was require contact with t
 ## 2026-06-23 04:25:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Multiculturalism is sold as neutral cultures peacefully coexisting side by side. That’s deliberate propaganda. Some cultures are not neutral. They are openly hostile, teaching that outsiders, especially white Christians, are filthy heathens and subhumans to be used, exploited, or replaced. The grooming gang scandals weren’t random crime. Victims were repeatedly called “white slags,” “kuffar whores,” and worse while being raped and trafficked by organised groups who viewed them with religious and racial contempt. This was the ideology in action. When one population is imported en masse, refuses to assimilate, builds parallel societies, and pursues demographic and cultural dominance, the result is not “diversity.” It’s conquest by other means with all the social breakdown, loss of trust, and long term subjugation that comes from losing a war without a single battle. The West was never asked. The West can still choose not to surrender.
 
@@ -6365,8 +6013,6 @@ RT by @elonmusk: Multiculturalism is sold as neutral cultures peacefully coexist
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: There is not even a single dead child! If there were, it would be worldwide headline news!
 
 [查看原文](https://nitter.net/elonmusk/status/2069159695319757288#m)
@@ -6376,8 +6022,6 @@ RT by @elonmusk: There is not even a single dead child! If there were, it would 
 ## 2026-06-23 04:47:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 True
 
@@ -6391,8 +6035,6 @@ True
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok Build upgrades
 
 [查看原文](https://nitter.net/elonmusk/status/2069161018161311953#m)
@@ -6402,8 +6044,6 @@ Grok Build upgrades
 ## 2026-06-23 05:18:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Yup. In this case, the driver manually overrode self-driving by pressing the accelerator all the way to 100% of the accel pedal in this residential area. They reached a speed of 73 mph during the crash, and had the accelerator pressed even after the crash.
 
@@ -6415,8 +6055,6 @@ RT by @elonmusk: Yup. In this case, the driver manually overrode self-driving by
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: I introduced the first bill to ban stock trading among members of Congress. The @HouseGOP has NOT brought it to a vote. We should NOW.
 
 [查看原文](https://nitter.net/chiproytx/status/2069197433653825876#m)
@@ -6427,8 +6065,6 @@ RT by @elonmusk: I introduced the first bill to ban stock trading among members 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2069238705928143129#m)
@@ -6438,8 +6074,6 @@ True
 ## 2026-06-23 10:26:02
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: USAID probably killed more people by creating Covid
 
@@ -6459,8 +6093,6 @@ RT by @elonmusk: USAID probably killed more people by creating Covid
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: No, Elon Musk and DOGE did not cause "millions of deaths of children." Anthony Fauci, however, very much did.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDiWo6Q1xDnFNU3XYK4griiOEupWOoAAIlD2sbMUvQVT9HIYWRVwzoAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6475,8 +6107,6 @@ RT by @elonmusk: No, Elon Musk and DOGE did not cause "millions of deaths of chi
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2069300838581858791#m)
@@ -6487,8 +6117,6 @@ True
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 By their logic, yes
 
 [查看原文](https://nitter.net/elonmusk/status/2069301172544897374#m)
@@ -6498,8 +6126,6 @@ By their logic, yes
 ## 2026-06-23 18:44:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Today’s mission includes a demo of a new vehicle that will enable affordable, routine access to the microgravity environment for scientific research and in-space manufacturing. After demonstrating controlled flight, the spacecraft will splash down in the Pacific Ocean
 
@@ -6513,8 +6139,6 @@ RT by @elonmusk: Today’s mission includes a demo of a new vehicle that will en
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Let me get this straight. In America, in 2026, a federal judge just ruled that the government is NOT ALLOWED to check whether the people voting in our elections are actually American citizens. Let that sink in. A foreign-born Biden-appointed judge, confirmed on a pure party-line vote, says verifying citizenship is illegal. Every other country on earth checks. Colombia, a NARCO STATE requires ID to vote. We're told it's a violation of "rights." How is this controversial? How is this even a DEBATE? Your vote is being stolen in slow motion. Pass the SAVE America Act.
 
 [查看原文](https://nitter.net/bennyjohnson/status/2069403341843501318#m)
@@ -6524,8 +6148,6 @@ RT by @elonmusk: Let me get this straight. In America, in 2026, a federal judge 
 ## 2026-06-23 21:02:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: A Biden-appointed activist judge, Sparkle Sooknanan, just blocked a commonsense tool to keep non-citizens from voting. The SAVE system simply encourages states to work with DHS to check their voter rolls. This ruling should be appealed and overturned.
 
@@ -6538,8 +6160,6 @@ RT by @elonmusk: A Biden-appointed activist judge, Sparkle Sooknanan, just block
 ## 2026-06-23 22:36:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Falcon 9 launches the Starfall Demo mission from Florida
 
@@ -6557,8 +6177,6 @@ RT by @elonmusk: Falcon 9 launches the Starfall Demo mission from Florida
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Exactly
 
 [查看原文](https://nitter.net/elonmusk/status/2069437763456204942#m)
@@ -6568,8 +6186,6 @@ Exactly
 ## 2026-06-23 23:10:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Exactly
 
@@ -6583,8 +6199,6 @@ Exactly
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Correct
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDlGo6qQAB1pIeacEYbL2KowEiOtXV6wACIw9rGzFL2FX93W_hMd8pTwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6597,8 +6211,6 @@ Correct
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 By their logic, absolutely!
 
 [查看原文](https://nitter.net/elonmusk/status/2069440759892214061#m)
@@ -6608,8 +6220,6 @@ By their logic, absolutely!
 ## 2026-06-23 23:23:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 They didn’t just import voters, they imported judges too
 
@@ -6621,8 +6231,6 @@ They didn’t just import voters, they imported judges too
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Not a good use of your taxpayer money
 
 [查看原文](https://nitter.net/elonmusk/status/2069441888113902080#m)
@@ -6633,8 +6241,6 @@ Not a good use of your taxpayer money
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 USAID money killed millions
 
 [查看原文](https://nitter.net/elonmusk/status/2069442045941309696#m)
@@ -6644,8 +6250,6 @@ USAID money killed millions
 ## 2026-06-23 23:38:34
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Pinned: All DOGE required was contact information of the recipients to confirm that funding was not fraudulent. No validated medical funding was stopped. Anything that appeared to be legitimate lifesaving funding continued and is now administered by the State Department. If anyone had actually died as a result of DOGE, their names would be worldwide headline news! On the other hand, USAID did help fund the Wuhan Virology Institute, which caused the deaths of millions, and the revolution that started the Russia-Ukraine war.
 
@@ -6659,8 +6263,6 @@ Pinned: All DOGE required was contact information of the recipients to confirm t
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Elon Musk says that "it's disappointing how well propaganda works." "If you repeat a lie… some people actually believe it… If someone believes CNN, then they would say, he must be a Nazi because they said it on TV."
 
 <img src="/images/elonmusk/amplify_video_thumb_1934819999010668544_img_vNUJEZu7RMXEHW8h.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6673,8 +6275,6 @@ RT by @elonmusk: Elon Musk says that "it's disappointing how well propaganda wor
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Simple science
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDamo5WueBdr4563eqr8vS2ypmaY3uAAIVE2sbgMfIVZ6Nyc4UEq51AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6683,11 +6283,11 @@ RT by @elonmusk: Simple science
 
 ---
 
+---
+
 ## 2026-06-22 04:58:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The Media and Left worked together to create the “white supremacy” narrative. They had to create the lie. They had to create the hate. They had to create the division. It all started after 2010. Why?! The Legacy Media is the Enemy of the People.
 
@@ -6697,11 +6297,11 @@ RT by @elonmusk: The Media and Left worked together to create the “white supre
 
 ---
 
+---
+
 ## 2026-06-22 07:48:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 1/ Regardez cette courbe. C’est la fréquence du terme « white supremacy » dans la presse américaine (travaux de David Rozado). Explosion brutale après 2013. Pas une explosion du racisme réel. Une explosion de la catégorie. C’est du **concept creep** mécanique : quand le problème tangible recule, on élargit la définition pour que la menace ne disparaisse jamais. 2/ Le timing n’est pas un hasard. À partir de 2013-2015, la caste médiatique et politique sent qu’elle perd le monopole du récit. Internet, les réseaux sociaux, les données qui circulent librement, Trump, Brexit, la montée des voix dissidentes : le contrôle narratif global se fissure. Il leur faut un monstre absolu, simple, moralement irréfutable, pour recoller tout le monde dans la peur et justifier la répression. 3/ La mécanique est limpide : Créer une catégorie « white supremacy » ultra-large qui englobe : - toute critique de l’immigration de masse, - toute remarque sur des statistiques ethniques de criminalité, - toute défense des frontières, - toute fierté culturelle européenne. Une fois la catégorie créée, tout devient légitime : la censure, la déplatformisation, les lois sur la « haine », et même la prison. 4/ Au Royaume-Uni, on voit le résultat en direct. Des milliers de petites filles blanches ont été violées en bande, de façon systématique et organisée, dans Rotherham, Rochdale, Oxford, Telford, etc. Le rapport Alexis Jay (2014) et les enquêtes suivantes sont clairs : les autorités ont fermé les yeux pendant des années par peur d’être accusées de racisme. Aujourd’hui, ceux qui rappellent ces faits ou qui critiquent la politique migratoire qui a permis ça risquent la prison pour posts sur les réseaux. C’est l’asymétrie parfaite : les viols de masse sont relativisés pour ne pas « stigmatiser ». Nommer le pattern te vaut le label « white supremacist ». 5/ C’est exactement le point 3 et 4 du cahier des charges. On met en prison ceux qui dénoncent le problème. On ne dénonce pas (ou très mollement) les viols de masse des petites filles. Et on utilise la narrative « white supremacy » comme marteau pour frapper toute rébellion. 6/ Le but unique de cette construction narrative ? **Stériliser toute rébellion des Blancs contre les autres Blancs** (et les élites) qui veulent conserver le pouvoir par la corruption et la coercition. En posant toute conscience collective blanche comme suspecte de « supremacism », on empêche : - la solidarité nationale, - la défense des intérêts des classes populaires européennes, - la remise en cause frontale des politiques de submersion migratoire et de déconstruction culturelle. C’est du divide and rule version narrative. Les autres groupes ont droit à l’identité forte. Les Blancs n’ont droit qu’à la culpabilité. 7/ C’est une fumisterie totale. Le racisme existe. Il se combat avec des principes simples et universels : égalité stricte devant la loi, liberté d’expression maximale, faits et statistiques, refus de toute discrimination légale. Pas avec une catégorie racialisée gonflée à bloc qui sert à neutraliser les contestataires et à maintenir une élite au pouvoir. Cette narrative ne protège personne. Elle divise, elle paralyse, elle protège le statu quo. 8/ Le vrai sujet n’est pas « est-ce que le racisme existe ? ». Le vrai sujet est : qui bénéficie de l’inflation permanente de cette catégorie, et pourquoi elle explose précisément au moment où le contrôle narratif des élites commence à craquer. La réponse est dans la courbe. Et dans les prisons britanniques pour tweets. Et dans le silence assourdissant sur les grooming gangs pendant des années.
 
@@ -6715,21 +6315,19 @@ RT by @elonmusk: 1/ Regardez cette courbe. C’est la fréquence du terme « whi
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: There's nothing like celebrating Father's Day with your children, grand kids and great grandsons! I hope you all had a wonderful day. My best, Bill
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDWmo4s9Bc9UQwd7_Vd-cordvL9X8nAAKhEWsbgMfIVda1F0IHMrWqAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/WilliamShatner/status/2068846507089137785#m)
 
+------
+
 ---
 
 ## 2026-06-22 09:24:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: When Elon Musk visited Pope Francis at the Vatican with his kids.
 
@@ -6743,8 +6341,6 @@ RT by @elonmusk: When Elon Musk visited Pope Francis at the Vatican with his kid
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: China added a Germany-sized low carbon electricity grid last year. Nearly 500 TWh more generation, almost all solar and wind, built in factories that still burn coal. Carbon payback came in under two years and power sector emissions still fell. Germany already had zero carbon nuclear power. It shut the last plants down in 2023 because ideology demanded it. Higher prices and more coal and gas backup followed. One country scales clean energy through ruthless pragmatism. The other commits economic suicide and calls it environmental virtue. The West is economically self-destructing by submitting to blue haired lesbians on SSRIs.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDWGo4s8jGEwlpuAjh5lVYY1PVtv2GAAKeEWsbgMfIVZtXuKiHOQqGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6757,13 +6353,13 @@ RT by @elonmusk: China added a Germany-sized low carbon electricity grid last ye
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: We just need to celebrate having kids. Happy Father's Day.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDT2o4iDGoD4F2y5NhCieKw_DbFtHZAAIjEWsbgMfIVYiph3iC7QKzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/cb_doge/status/2068725993976856707#m)
+
+------
 
 ---
 
@@ -6771,11 +6367,11 @@ RT by @elonmusk: We just need to celebrate having kids. Happy Father's Day.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Just so I understand, 1 crazy white guy with a knife is a terrorist attack. But an industrialized foreign rape conspiracy of 250,000 little British girls was not.
 
 [查看原文](https://nitter.net/VladTheInflator/status/2068739125944172627#m)
+
+---
 
 ---
 
@@ -6783,21 +6379,19 @@ RT by @elonmusk: Just so I understand, 1 crazy white guy with a knife is a terro
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT @WR4NYGov: No Taxation Without Annihilation The Anti-Antimatter-Tax Party fights for our freedom. AATP LFG!
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDRWo4InmmTrUGwPTCN_79TwRXNXzBAAIQFWsbgMfAVWPUVzL0Oiz7AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2068744400683810884#m)
 
+------
+
 ---
 
 ## 2026-06-22 00:41:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ❤️
 
@@ -6807,13 +6401,13 @@ RT @WR4NYGov: No Taxation Without Annihilation The Anti-Antimatter-Tax Party fig
 
 [查看原文](https://nitter.net/elonmusk/status/2068736055432315162#m)
 
+---------
+
 ---
 
 ## 2026-06-22 01:12:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Karl’s Dad was cool
 
@@ -6827,8 +6421,6 @@ Karl’s Dad was cool
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Makes no sense
 
 [查看原文](https://nitter.net/elonmusk/status/2068744977333535118#m)
@@ -6838,8 +6430,6 @@ Makes no sense
 ## 2026-06-22 01:29:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Your kids will love this video! Grok Imagine prompt: The kittens with mittens start dancing and singing “we’re kittens with mittens” with joyful, energetic movements and playful expressions.
 
@@ -6853,8 +6443,6 @@ Your kids will love this video! Grok Imagine prompt: The kittens with mittens st
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow
 
 <img src="/images/elonmusk/amplify_video_thumb_2068379247069065216_img_hCN8mrfJSZzRJNly.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6867,8 +6455,6 @@ Wow
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2068476591471046656_img_V0fsqU5gd4W5gb1f.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6880,8 +6466,6 @@ Video
 ## 2026-06-22 02:30:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
@@ -6901,8 +6485,6 @@ RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Works every time
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDUGo4iDRrBjX8G-PoYuO-chCy88YKAAIkEWsbgMfIVa8-bb3_P6V0AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6914,8 +6496,6 @@ Works every time
 ## 2026-06-22 10:18:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -6929,8 +6509,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 “Full access” 😂
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDWWo4s8sMbiWRp1cJgxkIh7caFDS1AAKfEWsbgMfIVcny31QfsXGTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6943,8 +6521,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The Falcon program has now delivered more mass to orbit in recent years than the rest of the world combined and more individual satellites than all of humanity launched in the previous 60+ years of spaceflight The Merlin engine is quite literally the most successful rocket engine of all time. Reliable, powerful, refined over hundreds of flights and thousands of engine-uses, and still going strong It’s the machine that: • Made Starlink possible at global scale • Proved reusability at an industrial level • Dropped launch costs dramatically • Inspired an entire new generation of space companies • Carried thousands of satellites, cargo, and crewed missions with incredible reliability
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDZGo5TF75WfRUA3PWEbDnwz04cRKAAALrEmsbgMfIVfkPH5U27FQYAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6956,8 +6532,6 @@ RT by @elonmusk: The Falcon program has now delivered more mass to orbit in rece
 ## 2026-06-22 11:44:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Neuralink now has its 26th recipient Sgt. Lee Marten, @Canuckula, is a Vancouver Police Sergeant, cyclist, and ALS patient who became the first Canadian to receive the N1 brain-computer interface Lee was diagnosed with ALS in February 2025 and received his implant in May, with a 25-person team of doctors, engineers, and specialists from Canada and the U.S. involved in the procedure This is why Neuralink matters It is not just futuristic tech.....it is technology that can help people regain communication, independence, and a connection to the world Neuralink keeps changing lives
 
@@ -6973,8 +6547,6 @@ RT by @elonmusk: Neuralink now has its 26th recipient Sgt. Lee Marten, @Canuckul
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: BREAKING: SpaceX just received an investment-grade credit rating from Fitch for its new bond offering. • Fitch gave SpaceX a BBB+ rating, which means its debt is seen as reasonably safe for big investors. • All three major rating agencies now rate SpaceX as investment grade: Moody’s, Fitch and S&P. • SpaceX reported over $100 billion in cash and cash equivalents after its record IPO • Fitch cited SpaceX’s dominant launch business, fast-growing Starlink network and expanding AI compute operations as major strengths • SpaceX has delivered more than 80% of the world’s mass sent to orbit since 2023 This is a major vote of confidence in SpaceX’s long-term business.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDZ2o5TGkq7o0b8KCHlsCzS0tSpfsIAALuEmsbgMfIVVv1IPCLFd6bAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6986,8 +6558,6 @@ RT by @elonmusk: BREAKING: SpaceX just received an investment-grade credit ratin
 ## 2026-06-22 22:14:33
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Well, that’s that—I’ve been blocked by Wikipedia “indefinitely” for unstated reasons, by the “consensus” of a mob. There was no due process, no prosecutor, no dispassionate judge, no jury, no interpretation of law. All my judges were self-selected and hated me. 🤣
 
@@ -7001,8 +6571,6 @@ RT by @elonmusk: Well, that’s that—I’ve been blocked by Wikipedia “indef
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2069084444242186521#m)
@@ -7013,8 +6581,6 @@ True
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 The standard applied by DOGE was very simple and easy: Provide contact information for the recipients of aid, so that we can confirm it is not fraudulent. The reality is that money was being sent to corrupt politicians under the guise of aid! Liars and stock insider traders like Ro the Robber should be in prison!!
 
 [查看原文](https://nitter.net/elonmusk/status/2069087335824699744#m)
@@ -7022,8 +6588,6 @@ The standard applied by DOGE was very simple and easy: Provide contact informati
 ---
 
 ## 2026-06-21 15:13:06
-
-**内容**:
 
 RT by @elonmusk: Es gibt keine Massenproteste mehr gegen Remigration. Aber überall in Europa gibt es Demos für Remigration. Der linke Widerstand ist gebrochen, und wir werden jeden Tag stärker. Noch ist nichts entschieden, aber die Chancen stehen gut. Weitermachen, voranpreschen.
 
@@ -7035,21 +6599,19 @@ RT by @elonmusk: Es gibt keine Massenproteste mehr gegen Remigration. Aber über
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: We actually lived through this
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDS2o4OEXx6I1UJmkwGZ6gVAEcyWvcAAIoFWsbgMfAVSuqvXayH3BDAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/liz_churchill10/status/2068522460647919771#m)
 
+------
+
 ---
 
 ## 2026-06-21 14:42:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: No Taxation Without Annihilation The Anti-Antimatter-Tax Party fights for our freedom. AATP LFG!
 
@@ -7059,11 +6621,11 @@ RT by @elonmusk: No Taxation Without Annihilation The Anti-Antimatter-Tax Party 
 
 ---
 
+---
+
 ## 2026-06-21 14:50:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I love this guy. Muslim former Prime Minster of Scotland. When a white person attacks brown people, he goes into a frenzy posting about racism and hate. When a brown person attacks a white person, he calls for an end to "division". Same act. Two standards. Anti-white racism.
 
@@ -7079,8 +6641,6 @@ RT by @elonmusk: I love this guy. Muslim former Prime Minster of Scotland. When 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Happy Father’s Day to all the incredible dads out there ❤️
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDSmo4Io_uRsF1JujZWPpCsvNuLstQAAIVFWsbgMfAVa_zDa-UV2ALAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7092,8 +6652,6 @@ RT by @elonmusk: Happy Father’s Day to all the incredible dads out there ❤�
 ## 2026-06-21 01:30:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Since 2008, $15B taxpayer dollars have been invested in California High Speed Rail. There is no working track and zero passengers so far.
 
@@ -7107,13 +6665,13 @@ Politicians tell you they’ll do better with Elon’s money than he does. Calif
 
 [查看原文](https://nitter.net/WR4NYGov/status/2068386025932751246#m)
 
+---------------
+
 ---
 
 ## 2026-06-21 00:28:50
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: POLL…
 
@@ -7121,11 +6679,11 @@ RT by @elonmusk: POLL…
 
 ---
 
+---
+
 ## 2026-06-21 00:31:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT @elonmusk: @WR4NYGov We need an anti-antimatter-tax party 😂
 
@@ -7136,8 +6694,6 @@ RT @elonmusk: @WR4NYGov We need an anti-antimatter-tax party 😂
 ## 2026-06-21 00:39:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Asmongold reacts to Pew Research's quiz revealing that 97% of r/politics users lean left with nearly half being the furthest left counted on the poll
 
@@ -7153,19 +6709,17 @@ RT by @elonmusk: Asmongold reacts to Pew Research's quiz revealing that 97% of r
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 So true
 
 [查看原文](https://nitter.net/elonmusk/status/2068369665647108524#m)
+
+---------
 
 ---
 
 ## 2026-06-21 00:27:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: We need an anti-antimatter-tax party 😂
 
@@ -7176,8 +6730,6 @@ RT by @elonmusk: We need an anti-antimatter-tax party 😂
 ## 2026-06-21 01:20:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Wow
 
@@ -7190,8 +6742,6 @@ Wow
 ## 2026-06-21 01:25:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Case closed
 
@@ -7219,8 +6769,6 @@ Time to return to sanity
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 [查看原文](https://nitter.net/XFreeze/status/2068399936488833520#m)
 
 ---
@@ -7228,8 +6776,6 @@ Time to return to sanity
 ## 2026-06-21 02:28:18
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Am converted. Just drove from south  San Francisco through Oregon without touching my steering wheel. Tesla full self drive is both magical and life changing, relaxing and maybe even life saving!  Thank you @elonmusk for the technology!
 
@@ -7242,8 +6788,6 @@ RT by @elonmusk: Am converted. Just drove from south  San Francisco through Oreg
 ## 2026-06-21 04:15:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Better just to send money directly to the people from the Treasury. 
 
@@ -7259,8 +6803,6 @@ In fact, my prediction is that we will desperately be fighting deflation!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Amazing abundance for all!
 
 [查看原文](https://nitter.net/elonmusk/status/2068430489535271081#m)
@@ -7270,8 +6812,6 @@ Amazing abundance for all!
 ## 2026-06-21 04:28:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Good idea
 
@@ -7284,8 +6824,6 @@ Good idea
 ## 2026-06-21 04:40:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Jensen Huang on Elon’s vision for humanoid robots:
 
@@ -7322,8 +6860,6 @@ It will likely be measured in billions
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT @WR4NYGov: Since 2008, $15B taxpayer dollars have been invested in California High Speed Rail. There is no working track and zero passen…
 
 [查看原文](https://nitter.net/elonmusk/status/2068434420898344983#m)
@@ -7334,8 +6870,6 @@ RT @WR4NYGov: Since 2008, $15B taxpayer dollars have been invested in California
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 🫡
 
 [查看原文](https://nitter.net/elonmusk/status/2068434511906378017#m)
@@ -7345,8 +6879,6 @@ RT @WR4NYGov: Since 2008, $15B taxpayer dollars have been invested in California
 ## 2026-06-21 04:46:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: It’s under-appreciated the extent to which activist judges are ruining society 
 
@@ -7366,8 +6898,6 @@ Hold judges accountable or nothing changes.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yes
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDOGo3QTjuWOlf8CwX2ZbbGCLxaeL5AAK6D2sb9ve5VaefYquuCPOpAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7380,8 +6910,6 @@ Yes
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2068436593942114304_img_EWkDKx8cl7itKTfj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7393,8 +6921,6 @@ Video
 ## 2026-06-21 10:46:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 2 hours of a white man committing non life threatening crime being committed in UK 
 
@@ -7414,8 +6940,6 @@ You can’t make this up.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Toxic empathy looks at these stats and says, "Let's give them all another chance."
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDO2o3gp89XGCdHwXUj5k0GC3bzVR4AAJNEGsb9vfBVdbAlqcyuEiOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7427,8 +6951,6 @@ RT by @elonmusk: Toxic empathy looks at these stats and says, "Let's give them a
 ## 2026-06-21 14:13:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Wild times ahead!
 
@@ -7442,8 +6964,6 @@ Wild times ahead!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Happy Father’s Day to all the dads and grandfathers out there helping inspire and prepare the explorers, builders, and dreamers of tomorrow. The future Starfleet is going to need a lot of recruits!
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDQmo4DKrFPlcMovqaSm3WwnY9rqHRAAL1FGsbgMfAVTnAtUG_birhAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7456,8 +6976,6 @@ RT by @elonmusk: Happy Father’s Day to all the dads and grandfathers out there
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Happy Father’s Day!
 
 [查看原文](https://nitter.net/elonmusk/status/2068722935553032543#m)
@@ -7465,8 +6983,6 @@ Happy Father’s Day!
 ---
 
 ## 2026-06-21 23:56:44
-
-**内容**:
 
 RT by @elonmusk: I’ve been living immersed in South Korea for the last month with my wife and daughter. We just leave the stroller outside if we go in anywhere. Because no one’s going to steal it. I met a friend for lunch. He rode his bicycle. He just left it outside in an alley without a lock. It was still there 2 hours later. Another friend mistakenly left his phone on a park bench. When he finally retraced his steps and went back 4 hours later, his iPhone was still there. I walked by a KPop concert. The fans who traveled from outside of Seoul to attend just left their luggage outside the subway station. No locks. No security. Koreans take this for granted. They don’t realize this is not normal for most the world, especially America. When I ask about it, they just respond, “of course, why would someone take it?” Can you imagine any of these things happening or being possible in NYC or LA or *insert city*? And IF, something were to be stolen in Korea, the police would investigate. Because in a high trust society, rules and norms matter. There’s no “under $1000” law. Theft is theft. And trust is trust. Will this social norm ever be possible in America?
 
@@ -7737,8 +7253,6 @@ https://on.wsj.com/4uHUDXz
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Generate videos with Grok Imagine.
 
 [查看原文](https://nitter.net/grok/status/2067985234113777890#m)
@@ -7748,8 +7262,6 @@ RT by @elonmusk: Generate videos with Grok Imagine.
 ## 2026-06-19 17:10:45
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: You want me to be mad that 250,000 British girls were raped by brown invaders. But I want to know why the same outrage wasn’t seen when it was just 25 British girls.
 
@@ -7765,11 +7277,11 @@ The problem isn’t so much the invader (don’t get me wrong, they are a proble
 
 ---
 
+---
+
 ## 2026-06-19 02:32:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Women make up the overwhelming majority of converts to Islam in the West. 
 
@@ -7788,13 +7300,13 @@ These conversions highlight how leftism has created a cultural opening that Isla
 
 [查看原文](https://nitter.net/Rothmus/status/2067676819390668991#m)
 
+------
+
 ---
 
 ## 2026-06-19 13:18:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: True
 
@@ -7807,8 +7319,6 @@ RT by @elonmusk: True
 ## 2026-06-19 16:35:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨Important Announcement: Puberty Blockers Judicial Review🚨
 
@@ -7830,8 +7340,6 @@ Please rest assured that I and the entire team will be pursuing this Judicial Re
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Falcon 9’s first stage lands on LZ-4
 
 <img src="/images/elonmusk/amplify_video_thumb_2067894863845367808_img_HxZG9vsGlCIuv1jy.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7844,8 +7352,6 @@ RT by @elonmusk: Falcon 9’s first stage lands on LZ-4
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: This French woman, who was raped by a migrant, has been convicted and will be sentenced, for saying publicly that migrants are a danger to women. 
 
 Her rapist has not been caught. 
@@ -7856,13 +7362,13 @@ Follow: @AFpost
 
 [查看原文](https://nitter.net/AFpost/status/2067754503097430067#m)
 
+---------
+
 ---
 
 ## 2026-06-19 07:42:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: “It’s an astonishing story”
 
@@ -7878,21 +7384,19 @@ They’re feeding your children to the crocodiles and the Government won’t say
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Falcon 9 is vertical at pad 4E in California ahead of tomorrow’s launch of the @NRO_gov’s NROL-179 mission → http://spacex.com/launches/nrol179
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDCWo0nVBP7zAignEeMGhXSVFV7EJvAAJfD2sbko6pVaGKt2hNy5niAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/SpaceX/status/2067718208157835768#m)
 
+------
+
 ---
 
 ## 2026-06-19 05:27:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Some moments stay with you. A look back at the extraordinary team behind a milestone achievement.
  
@@ -7914,21 +7418,19 @@ Morgan Stanley was honored to support @SpaceX team through its IPO, serving as j
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok now on Databricks
 
 <img src="/images/elonmusk/amplify_video_thumb_2067636508434259968_img_ByGf7YwoB59qCflL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2067646181379854418#m)
 
+---------
+
 ---
 
 ## 2026-06-19 01:19:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok TTS is already sounding insanely human
 
@@ -7954,8 +7456,6 @@ Grok is starting to speak like a real person
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: I sometimes wonder if part of the reason late-stage Rome was sacked was because they couldn’t get a permit in time to marshal the legions
 
 [查看原文](https://nitter.net/elonmusk/status/2067668243985137664#m)
@@ -7966,8 +7466,6 @@ RT by @elonmusk: I sometimes wonder if part of the reason late-stage Rome was sa
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 They have imported voters to win
 
 [查看原文](https://nitter.net/elonmusk/status/2067673634051674579#m)
@@ -7977,8 +7475,6 @@ They have imported voters to win
 ## 2026-06-19 02:22:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 …
 
@@ -7992,8 +7488,6 @@ They have imported voters to win
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Starlink provides backup connectivity to cell towers, ensuring that your phone works when you most need it
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC-Wo0Ps_m4ep1rOu31H_e0x8r8HoyAAIDD2sbko6pVdSnobFgzlWnAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8005,8 +7499,6 @@ Starlink provides backup connectivity to cell towers, ensuring that your phone w
 ## 2026-06-19 02:32:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Starlink airline partnerships are growing rapidly.
 
@@ -8030,8 +7522,6 @@ Starlink is quickly becoming the new standard for inflight connectivity.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: History listed on @Nasdaq. 
 
 @SpaceX ($SPCX) raised a record $85.7B in capital, hit a $2.1T market cap, and traded 500M+ shares on its first day as a public company. 
@@ -8047,8 +7537,6 @@ Read more about how the capital injection will directly fund SpaceX’s infrastr
 ## 2026-06-19 04:31:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX has just officially received an investment grade credit rating of Baa1 from Moody's, slightly higher than @Tesla's Baa3 rating.
 
@@ -8100,10 +7588,6 @@ This partnership between Paraguay Government and Starlink will help bring intern
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
-
-
 [查看原文](https://nitter.net/SERobinsonJr/status/2067737349652394071#m)
 
 ---
@@ -8111,8 +7595,6 @@ This partnership between Paraguay Government and Starlink will help bring intern
 ## 2026-06-19 09:00:17
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Tunnels are under-appreciated
 
@@ -8127,8 +7609,6 @@ Tunnels are under-appreciated
 ## 2026-06-19 09:33:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Gary the snail 🐌 and the beginning. @boringcompany
 
@@ -8149,8 +7629,6 @@ RT by @elonmusk: Gary the snail 🐌 and the beginning. @boringcompany
 ## 2026-06-19 11:39:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Here’s everything you need to know about Grok Build’s changelog since release
 
@@ -8190,8 +7668,6 @@ Grok Build is becoming a full terminal-native agent workspace: multi-session, pl
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Falcon 9 launches NROL-179 to orbit from pad 4E in California
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDFGo1WisC9yNTfzT4ikLoQGX6UDq8AALmEGsbko6xVZFUueaZPfT3AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8210,8 +7686,6 @@ RT by @elonmusk: Falcon 9 launches NROL-179 to orbit from pad 4E in California
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Q1 tonnage to orbit by launch provider.
 
 Once Starship is flying hourly, SpaceX’s mass to orbit will be about 100 times more than everyone else combined, even if they triple their current launch rate.
@@ -8226,8 +7700,6 @@ Once Starship is flying hourly, SpaceX’s mass to orbit will be about 100 times
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Fauci committed so many evil crimes
 
 <img src="/images/elonmusk/amplify_video_thumb_2067791632309596160_img_7J5tno59v4J0S23x.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8239,8 +7711,6 @@ Fauci committed so many evil crimes
 ## 2026-06-18 23:39:54
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨 LMAO!! JD VANCE: "Joy Behar is way tougher than the Iranians — and she and I are best friends now!" "I've seen some progressive criticisms of me personally saying what experience does the VP have in hostile high stakes negotiations?" "I would point those progressive critics to the fact that just two days ago I spent over an HOUR on THE VIEW." "So I actually have a great experience in very hostile negotiations." 😭😭
 
@@ -8254,19 +7724,17 @@ RT by @elonmusk: 🚨 LMAO!! JD VANCE: "Joy Behar is way tougher than the Irania
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: It has been so long since the hobbits faced real danger in the Shire that they have forgotten how to defend themselves
 
 [查看原文](https://nitter.net/elonmusk/status/2067311096638415151#m)
 
 ---
 
+---
+
 ## 2026-06-18 07:20:55
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Afghan Army commanders brought their child sex slaves onto US bases; Marines got PTSD from hearing them get raped at night
 
@@ -8280,11 +7748,11 @@ People have no idea how bad it is there
 
 ---
 
+---
+
 ## 2026-06-18 09:39:38
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Announcing a new division of Midjourney called "Midjourney Medical"
 
@@ -8298,8 +7766,6 @@ RT by @elonmusk: Announcing a new division of Midjourney called "Midjourney Medi
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: She got 6 months for talking about her rape by a migrant on French TV.
 
 <img src="/images/elonmusk/amplify_video_thumb_2066933469419077632_img_7qmv_els8baf-7WE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8308,11 +7774,11 @@ RT by @elonmusk: She got 6 months for talking about her rape by a migrant on Fre
 
 ---
 
+---
+
 ## 2026-06-18 20:44:52
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Je viens d’être condamné à 6 mois de prison avec sursis et 10 000€ d’amende, sur le fondement de… la loi Samuel Paty ! 
 
@@ -8329,8 +7795,6 @@ C’est un immense scandale !
 ## 2026-06-18 20:48:43
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: RILEY GAINES ON BIRTH CONTROL: 
 
@@ -8352,8 +7816,6 @@ RT by @elonmusk: RILEY GAINES ON BIRTH CONTROL:
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Grok Imagine 1.5
 Grumpy cat talks
 
@@ -8361,13 +7823,13 @@ Grumpy cat talks
 
 [查看原文](https://nitter.net/gailalfaratx/status/2067443741082681621#m)
 
+------
+
 ---
 
 ## 2026-06-18 06:14:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Doctors and hospitals used junk science from WPATH to justify selling gender transition procedures to kids and their parents. Huge props to Andrew and his team for taking an important step in our efforts to end this outrageous practice.
 
@@ -8375,11 +7837,11 @@ RT by @elonmusk: Doctors and hospitals used junk science from WPATH to justify s
 
 ---
 
+---
+
 ## 2026-06-18 01:00:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk: ”I think there are great things in every culture. We don’t want the German culture to disappear. We don’t want French culture to disappear. We don’t want Korean culture to disappear, or Japan, or America, or anywhere.
 
@@ -8395,11 +7857,11 @@ And currently, based on the current birth rates and the sort of so-called multic
 
 ---
 
+---
+
 ## 2026-06-18 05:58:40
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: It’s now easier to move local agents to the cloud so they can keep working with your laptop closed.
 
@@ -8415,8 +7877,6 @@ Prompt Cursor from your phone, run many agents in parallel, and get back PRs wit
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Behind the scenes: many other cool shots from the 1.5 video launch. 
 
 Exploring styles in Grok Imagine.
@@ -8427,11 +7887,11 @@ Exploring styles in Grok Imagine.
 
 ---
 
+---
+
 ## 2026-06-18 04:37:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Je vais être clair.
 
@@ -8457,11 +7917,11 @@ Vous méritez l’exil ou le bagne.
 
 ---
 
+---
+
 ## 2026-06-18 02:32:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I’m astonished more people aren’t raving about Tesla’s full self driving.
 
@@ -8475,15 +7935,17 @@ The only time I take control is to back into my garage because it’s down an aw
 
 ---
 
+---
+
 ## 2026-06-18 00:44:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Since President Trump was sworn in, the @FTC has been aggressively protecting children and the rights of parents across every part of the economy. Today, the FTC took another huge step in defense of children and parents. We have filed an enforcement action against the World Professional Association for Transgender Health (WPATH) for making false and unsubstantiated claims about the safety and efficacy of medical transition procedures, and for providing to doctors the means to sell those procedures to children and parents.
 
 [查看原文](https://nitter.net/AFergusonFTC/status/2067287289571450939#m)
+
+------
 
 ---
 
@@ -8491,19 +7953,17 @@ RT by @elonmusk: Since President Trump was sworn in, the @FTC has been aggressiv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 And improving rapidly with real-time access to 𝕏
 
 [查看原文](https://nitter.net/elonmusk/status/2067290524206453099#m)
 
 ---
 
+---
+
 ## 2026-06-18 01:03:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Grok Imagine 1.5
 
@@ -8516,8 +7976,6 @@ Grok Imagine 1.5
 ## 2026-06-18 03:24:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The United Kingdom is going to announce additional restrictions in July on VPN usage. This is ON TOP OF the social media restrictions and mandated online identity verifications.
 
@@ -8533,8 +7991,6 @@ It's over, UK. You sold out your own society. Absolute tragedy. Very sad.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Starlink is connecting 100,000 students and 1,500 teachers in Malawi across 30 rural schools to online learning resources. For many, this is the first time students, teachers and families have access to reliable internet 🛰️❤️
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC22ozMs45Wm5AoXIXRZvOyD36fhpZAALiDmsbC5-gVW2oNFR-C6yqAQADAgADeAADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8546,8 +8002,6 @@ RT by @elonmusk: Starlink is connecting 100,000 students and 1,500 teachers in M
 ## 2026-06-18 09:41:33
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Maybe WSJ isn’t that bad after all 😂
 
@@ -8561,8 +8015,6 @@ Maybe WSJ isn’t that bad after all 😂
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 No one can save you when they become the police
 
 [查看原文](https://nitter.net/elonmusk/status/2067424406247485777#m)
@@ -8572,8 +8024,6 @@ No one can save you when they become the police
 ## 2026-06-18 09:56:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Utterly irreconcilable with Western values
 
@@ -8587,8 +8037,6 @@ Utterly irreconcilable with Western values
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 And this report is just the tip of an enormous iceberg of evil
 
 [查看原文](https://nitter.net/elonmusk/status/2067426896414208365#m)
@@ -8598,8 +8046,6 @@ And this report is just the tip of an enormous iceberg of evil
 ## 2026-06-18 09:59:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Essential reading
 
@@ -8613,8 +8059,6 @@ Essential reading
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 As it should.
 
 [查看原文](https://nitter.net/elonmusk/status/2067431278006391066#m)
@@ -8625,8 +8069,6 @@ As it should.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Progress
 
 [查看原文](https://nitter.net/elonmusk/status/2067432573836652699#m)
@@ -8636,8 +8078,6 @@ Progress
 ## 2026-06-18 10:47:18
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -8650,8 +8090,6 @@ Video
 ## 2026-06-18 11:16:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: California Birth Rate Falls Below Replacement Level
 
@@ -8670,8 +8108,6 @@ RT by @elonmusk: BREAKING: California Birth Rate Falls Below Replacement Level
 ## 2026-06-18 14:01:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 𝕏 is the #1 news app in the UK.
 
@@ -8693,8 +8129,6 @@ Legacy media is finished. They are lashing out in pure panic because they lost c
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: "If civilization is not strong, if civilization doesn't grow, then nothing else matters. Profits don't matter if civilization collapses. We cannot exist absent civilization. You have to be pro civilization, because you cannot exist without civilization."
 
 — Elon Musk
@@ -8709,8 +8143,6 @@ RT by @elonmusk: "If civilization is not strong, if civilization doesn't grow, t
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The problem w/ the left-wing that pushed for mass immigration is it largely relies on people’s empathy.  The reality is the world is not a safe place & it’s the job of elected officials to keep their country safe. Meaning we must enforce laws. No exceptions.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC-mo0PtJZ9PmIw7n___ynvdFew1EjAAIED2sbko6pVSpBZwqOgJVPAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8722,8 +8154,6 @@ RT by @elonmusk: The problem w/ the left-wing that pushed for mass immigration i
 ## 2026-06-18 23:54:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Elon warned about the AI energy bottleneck before most people even understood it was coming
 
@@ -8750,8 +8180,6 @@ Elon saw this years ago and now everyone else is catching up
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok Imagine Video 1.5 is here
 
 Our new image-to-video model with sharper realism, better physics and faster generations 🧵
@@ -8767,8 +8195,6 @@ http://grok.com/imagine
 ## 2026-06-17 01:41:17
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: O’KEEFE INFILTRATES NJ ANTIFA: Inside “NJ BURN” — Rutgers University Director, T-Mobile AI Leaders, OpenAI /ChatGPT Engineer, Reverend From Princeton Theological Seminary, and ACLU Board Member Discuss Port Newark–Elizabeth Blockade Riot, Road Spikes, Tire-Slashing of New Jersey Police Vehicles, “Ukrainian-Style” Protest Tactics, and Celebrating Charlie Kirk’s Murder.
 
@@ -8788,13 +8214,13 @@ NJ ANTIFA INDIVIDUALS IDENTIFIED:
 
 [查看原文](https://nitter.net/JamesOKeefeIII/status/2066939182904131652#m)
 
+------------
+
 ---
 
 ## 2026-06-17 06:22:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok is now inside PowerPoint, Word, and Excel. Each gets an agent in the sidebar that builds the deck, sheet, or doc from a prompt, pulling real-time data from the web and X and generating images and diagrams. It connects to your own apps and MCP servers too.
 
@@ -8810,8 +8236,6 @@ Live on SuperGrok, Heavy, Business, and Enterprise.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2067136552338341888_img_q4k_1FEp1AxAWBNU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8820,11 +8244,11 @@ RT by @elonmusk: Video
 
 ---
 
+---
+
 ## 2026-06-17 14:49:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship
 
@@ -8837,8 +8261,6 @@ RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravi
 ## 2026-06-17 15:43:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: This entire scene was made using  @Grok 
 
@@ -8854,19 +8276,17 @@ Grok Imagine 1.5 is on another level. 🔥
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: It is hard to overstate how pervasive the SPLC’s control was in the tech industry, and in fact still is in many companies.
 
 [查看原文](https://nitter.net/pmarca/status/2067005759783915693#m)
 
 ---
 
+---
+
 ## 2026-06-17 03:34:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Asmongold gives his BASED opinion, says: "You're not being oppressed by the top 2% of society. You're being oppressed by the bottom 2% of society instead 👀
 
@@ -8878,11 +8298,11 @@ RT by @elonmusk: Asmongold gives his BASED opinion, says: "You're not being oppr
 
 ---
 
+---
+
 ## 2026-06-17 09:09:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Most popular new baby boy names in the UK:
 
@@ -8910,8 +8330,6 @@ The West must be saved.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Starlink’s reliable high-speed internet is onboard 30+ Goldenport vessels, enabling the maritime operator to run data intensive applications, modernize its operations, and provide crew with seamless connectivity while out at sea → http://starlink.com/goldenport
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICw2oyNts2ENLzvAjMNgXhX4qGkLDwAAJbD2sbC5-YVT5sUpetg3NbAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -8920,11 +8338,11 @@ RT by @elonmusk: Starlink’s reliable high-speed internet is onboard 30+ Golden
 
 ---
 
+---
+
 ## 2026-06-17 02:21:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The “white supremacist KKK” who burned a cross in Chicago is a Leftist anti-Trump Asian dude
 
@@ -8938,11 +8356,11 @@ Every. Single. Time.
 
 ---
 
+---
+
 ## 2026-06-17 06:09:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: A Model Y driver started experiencing a medical emergency with chest pain mid-drive & called his son.
 
@@ -8956,11 +8374,11 @@ Doctors later confirmed the quick reroute likely saved his life.
 
 ---
 
+---
+
 ## 2026-06-17 00:28:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Separation confirmed! Dragon is performing four departure burns to move away from the @Space_Station. Splashdown in ~20 hours off the coast of California
 
@@ -8970,11 +8388,11 @@ RT by @elonmusk: Separation confirmed! Dragon is performing four departure burns
 
 ---
 
+---
+
 ## 2026-06-17 00:46:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The politicians who turned a blind eye to the Rape of Britain must go to prison
 
@@ -8982,13 +8400,13 @@ The politicians who turned a blind eye to the Rape of Britain must go to prison
 
 [查看原文](https://nitter.net/elonmusk/status/2066925294238519531#m)
 
+---------
+
 ---
 
 ## 2026-06-17 00:46:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Censorship always comes with a “protect the children” lie
 
@@ -9002,8 +8420,6 @@ Censorship always comes with a “protect the children” lie
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 This actually happened and still happens
 
 [查看原文](https://nitter.net/elonmusk/status/2066925635721974156#m)
@@ -9014,8 +8430,6 @@ This actually happened and still happens
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Those who knew must go to prison for a long time
 
 [查看原文](https://nitter.net/elonmusk/status/2066925869155963189#m)
@@ -9025,8 +8439,6 @@ Those who knew must go to prison for a long time
 ## 2026-06-17 00:49:24
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The politicians imprison people to hide their crimes
 
@@ -9039,8 +8451,6 @@ The politicians imprison people to hide their crimes
 ## 2026-06-17 01:27:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: At least 250,000 white British girls have been groomed, raped, and brutalized.
 
@@ -9066,8 +8476,6 @@ And the rapists themselves should hang.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: (1) What
 
 <img src="/images/elonmusk/card_img_2066904473134391296_JjQ6OALE3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9079,8 +8487,6 @@ RT by @elonmusk: (1) What
 ## 2026-06-17 04:01:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Starlink Mobile is now providing data in Ukraine with @TwiyKyivstar @VeonGroup, enabling millions of people to stay connected using voice and video notes, navigation and more over apps 🛰️📱
 
@@ -9094,8 +8500,6 @@ RT by @elonmusk: Starlink Mobile is now providing data in Ukraine with @TwiyKyiv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2066523785101180928_img_3rEXZVRLfCGiOnPe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9107,8 +8511,6 @@ Video
 ## 2026-06-17 11:20:18
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Grok on Bedrock
 
@@ -9122,8 +8524,6 @@ Grok on Bedrock
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2067034868626915328_img_1XnsrN-oay2b6ed3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9135,8 +8535,6 @@ Video
 ## 2026-06-17 11:37:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Nashville getting drilled
 
@@ -9150,8 +8548,6 @@ Nashville getting drilled
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok Imagine 1.5 is now in wide release
 
 <img src="/images/elonmusk/amplify_video_thumb_2067092476628983808_img_Ex2nEbDyanXh6_1m.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9163,8 +8559,6 @@ Grok Imagine 1.5 is now in wide release
 ## 2026-06-17 12:16:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: All these videos were created using Grok Imagine 1.5
 
@@ -9179,8 +8573,6 @@ Big upgrade. Huge jump in quality. 🚀
 ## 2026-06-17 13:03:17
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Voice just ranked #1 on Vapi’s Humanness Index and it's scary good
 
@@ -9207,8 +8599,6 @@ xAI is building world's best voice layers for real AI agents
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Just follow SpaceX if you want news about our company
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICxGoyPmrVMEoLwLvkR6vT630olmPJAAJpD2sbC5-YVSKus5sDbTLhAQADAgADbQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9223,8 +8613,6 @@ Just follow SpaceX if you want news about our company
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: A legion of Optimi combined with solar panels will constitute the first Von Neumann probe
 
 [查看原文](https://nitter.net/elonmusk/status/2067128845623611830#m)
@@ -9234,8 +8622,6 @@ RT by @elonmusk: A legion of Optimi combined with solar panels will constitute t
 ## 2026-06-17 16:12:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Falcon 9 launches from pad 40 in Florida
 
@@ -9251,8 +8637,6 @@ RT by @elonmusk: Falcon 9 launches from pad 40 in Florida
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Full movies by the end of this year
 
 <img src="/images/elonmusk/amplify_video_thumb_2067092594744860672_img_mxmNTPSWV1d8yv44.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9265,8 +8649,6 @@ Full movies by the end of this year
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: We are the first generation that can credibly plan to become a multi-planetary species, and possibly the last that gets to decide whether we will. No pressure.
 
 [查看原文](https://nitter.net/PeterDiamandis/status/2067208279680221354#m)
@@ -9276,8 +8658,6 @@ RT by @elonmusk: We are the first generation that can credibly plan to become a 
 ## 2026-06-17 20:38:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Iraq has approved Starlink’s operating license, clearing the way for its satellite internet service to enter the country.
 
@@ -9292,8 +8672,6 @@ Iraqi Prime Minister Ali al-Zaidi and U.S. Special Presidential Envoy for Iraq T
 ## 2026-06-17 23:13:01
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I created a website for the Rape Gang Inquiry testimonies with Grok.
 
@@ -9316,8 +8694,6 @@ We must Restore Britain. 🇬🇧
 ## 2026-06-17 23:43:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build just got new update with new improvements, features, and bug fixes
 
@@ -9345,8 +8721,6 @@ Bug Fixes:
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: "My favorite enterprise AI service is Cursor. It is an AI coder & every one of our engineers, 100% is now assisted by AI coders & our productivity has gone up incredibly. These companies are some of the fastest-growing companies in world & they address enterprise"
 
 — Jensen Huang
@@ -9361,8 +8735,6 @@ RT by @elonmusk: "My favorite enterprise AI service is Cursor. It is an AI coder
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Another fun/insane anecdote from the peak-woke era was when an employee of ours tried to get our terms of service amended such that any organization disliked by the SPLC would be banned from using our software. What a racket. All of it.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICuGoxYLedTowycpJdsptc8k2O_PxUAALWFWsbNgqIVQ9ayFhabMgBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9374,8 +8746,6 @@ RT by @elonmusk: Another fun/insane anecdote from the peak-woke era was when an 
 ## 2026-06-16 21:47:50
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: NEWS: Two years ago, an internal document from the Center for Countering Digital Hate listed "K*ll Musk's Twitter" and "Trigger EU & UK regulatory action" as annual priorities.
 
@@ -9399,11 +8769,11 @@ The 2024 documents were published by journalists Paul Thacker and Matt Taibbi.
 
 ---
 
+---
+
 ## 2026-06-16 00:31:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Use your SuperGrok or X @premium subscription inside Warp
 
@@ -9411,13 +8781,13 @@ RT by @elonmusk: Use your SuperGrok or X @premium subscription inside Warp
 
 [查看原文](https://nitter.net/milichab/status/2066559125543362973#m)
 
+------
+
 ---
 
 ## 2026-06-16 04:19:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The welfare state has been more destructive to the black family than slavery just by restructuring the incentives. 
 
@@ -9444,8 +8814,6 @@ The incentives changed, and family structure collapsed accordingly.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: My 17-year-old daughter:
 “I’m confused. We’ve always been taught not to share personal information or anything that identifies us online because it isn’t safe. Now they want us to do exactly that to access social media.”
 
@@ -9453,11 +8821,11 @@ RT by @elonmusk: My 17-year-old daughter:
 
 ---
 
+---
+
 ## 2026-06-16 05:49:56
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: In the ancient world, the way many people gained great wealth was by forming gangs of strong men, beating up their neighbors, and taking their stuff. 
 
@@ -9479,8 +8847,6 @@ It is the great task of our civilization to shun such people, as they are not fi
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: if you tried the Grok Build beta at launch a month ago but found the experience too early, check out the changelog: https://x.ai/build/changelog
 
 we’ve shipped 177 improvements since launch. if the issues you encountered still aren’t fixed, let us know. we’d love to keep improving
@@ -9495,8 +8861,6 @@ we’ve shipped 177 improvements since launch. if the issues you encountered sti
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Das ZDF hat reagiert, in der Beschreibung der Sendung steht nun, die Formulierung zu Beginn (Musk habe zur Jagd auf Migranten aufgerufen) sei "unpräzise und deshalb missverständlich". Immer diese Missverständnisse, kennt man ja noch von Charlie Kirk
 
 <img src="/images/elonmusk/amplify_video_thumb_2066584573526376448_img_AfqKepakpcMWjfEe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9505,23 +8869,23 @@ RT by @elonmusk: Das ZDF hat reagiert, in der Beschreibung der Sendung steht nun
 
 ---
 
+---
+
 ## 2026-06-16 00:07:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: This is the best general article that I’ve read on the topic of SpaceX.
 
 [查看原文](https://nitter.net/jamesdouma/status/2066553216817578202#m)
+
+------------
 
 ---
 
 ## 2026-06-16 00:09:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Starlink has now partnered with 41 airlines worldwide, covering more than 7,000 aircraft under installation or contract.
 
@@ -9534,8 +8898,6 @@ RT by @elonmusk: BREAKING: Starlink has now partnered with 41 airlines worldwide
 ## 2026-06-16 00:25:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: TESLA 🤝 AMERICAN-MADE
 
@@ -9557,19 +8919,17 @@ Tesla vehicles are the most American-made by parts produced and sourced in the U
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 This censorship law is a wolf in sheep’s clothing. The real goal is to enable the UK government to track everyone.
 
 [查看原文](https://nitter.net/elonmusk/status/2066552697931628747#m)
+
+---------
 
 ---
 
 ## 2026-06-16 00:07:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 But for some reason, ID is banned for voting in California, New York and many other states
 
@@ -9581,8 +8941,6 @@ But for some reason, ID is banned for voting in California, New York and many ot
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Lmao. And there’s the plan. Right there. Laid bare in your face. Create the problem (stranger danger), sell the solution (more authoritative surveillance state), repeat forever. Everyone owes conspiracy theorists an apology who have been screaming about this for years.
 
 [查看原文](https://nitter.net/AutismCapital/status/2066561264449659240#m)
@@ -9592,8 +8950,6 @@ RT by @elonmusk: Lmao. And there’s the plan. Right there. Laid bare in your fa
 ## 2026-06-16 00:46:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The scale of what is to come has no precedent
 
@@ -9606,8 +8962,6 @@ The scale of what is to come has no precedent
 ## 2026-06-16 00:48:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Rockets and spaceships taking us to stars is an inspiring future
 
@@ -9625,8 +8979,6 @@ Rockets and spaceships taking us to stars is an inspiring future
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 This is nuts
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICpGowPM0AAcrJXVSBRlEAAaxJX1VXHMIAAkQUaxs2CoBVsWd_8mghmvEBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9638,8 +8990,6 @@ This is nuts
 ## 2026-06-16 01:00:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT @Indian_Bronson: Btw even China and Iran don’t do this. 
 
@@ -9653,8 +9003,6 @@ Only North Korea does this.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: After 30 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 34th  Commercial Resupply Services mission for @NASA will undock from the orbiting lab on Tuesday, June 16 → http://spacex.com/launches/crs34
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICqWowUp42xzQEUToBLYbeo9UnfSwdAAJsFGsbNgqAVcAssG9pwehgAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9666,8 +9014,6 @@ RT by @elonmusk: After 30 days docked to the @Space_Station, the Dragon spacecra
 ## 2026-06-16 02:57:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Sign up for SpaceX investor relations updates!
 
@@ -9681,8 +9027,6 @@ Sign up for SpaceX investor relations updates!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Exactly
 
 [查看原文](https://nitter.net/elonmusk/status/2066611426408780112#m)
@@ -9692,8 +9036,6 @@ Exactly
 ## 2026-06-16 04:03:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Indeed 😂
 
@@ -9705,8 +9047,6 @@ Indeed 😂
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: JUST IN: Tesla Robotaxi has recorded zero at-fault incidents since February, according to newly released NHTSA data.
 
 [查看原文](https://nitter.net/Polymarket/status/2066617741885472902#m)
@@ -9716,8 +9056,6 @@ RT by @elonmusk: JUST IN: Tesla Robotaxi has recorded zero at-fault incidents si
 ## 2026-06-16 04:53:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Not sure who needs to hear this but your Tesla can parallel park for you
 
@@ -9729,8 +9067,6 @@ RT by @elonmusk: Not sure who needs to hear this but your Tesla can parallel par
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Aged like wine 🍷
 
 [查看原文](https://nitter.net/AutismCapital/status/2066637935253111116#m)
@@ -9741,8 +9077,6 @@ RT by @elonmusk: Aged like wine 🍷
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 They always use defensible excuses for the indefensible
 
 [查看原文](https://nitter.net/elonmusk/status/2066662854951116942#m)
@@ -9752,8 +9086,6 @@ They always use defensible excuses for the indefensible
 ## 2026-06-16 11:49:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Starlink is delivering faster download speeds than other terrestrial ISPs in 22 out of 23 markets in Africa, per Ookla.
 
@@ -9779,8 +9111,6 @@ Meanwhile, South Africa continues to block it because of its racist BEE laws, de
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 https://t.co/U2CbkkvZwy
 
 <img src="/images/elonmusk/amplify_video_thumb_2066654503571472384_img_3dYQfU12trp-oHz9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9793,8 +9123,6 @@ https://t.co/U2CbkkvZwy
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 https://t.co/r3OHSjgxJb
 
 <img src="/images/elonmusk/amplify_video_thumb_2066566909441761283_img_ATuyhdYv7X-HKHVg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9806,8 +9134,6 @@ https://t.co/r3OHSjgxJb
 ## 2026-06-16 16:18:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Mission: Expanding the Scope and Scale of Consciousness.
 
@@ -9825,8 +9151,6 @@ From my 📸 of the billboard on Times Square
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: SPLC = hateful , fraudulent enterprise
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICuGoxYLedTowycpJdsptc8k2O_PxUAALWFWsbNgqIVQ9ayFhabMgBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9838,8 +9162,6 @@ RT by @elonmusk: SPLC = hateful , fraudulent enterprise
 ## 2026-06-16 21:19:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The Rape Gang Inquiry Report.
 
@@ -9855,8 +9177,6 @@ http://bit.ly/4uE5odw
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Lots to do together. Excited to be joining forces with @SpaceX to build useful AI.
 
 [查看原文](https://nitter.net/mntruell/status/2066874098001883538#m)
@@ -9866,8 +9186,6 @@ RT by @elonmusk: Lots to do together. Excited to be joining forces with @SpaceX 
 ## 2026-06-16 21:29:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: We're excited to join forces with @SpaceX to advance the frontier of useful AI. Expect significant improvements to Cursor soon.
 
@@ -9879,8 +9197,6 @@ RT by @elonmusk: We're excited to join forces with @SpaceX to advance the fronti
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 AI will achieve Stockfish-level coding and generalized computer use
 
 [查看原文](https://nitter.net/elonmusk/status/2066880262668247091#m)
@@ -9890,8 +9206,6 @@ AI will achieve Stockfish-level coding and generalized computer use
 ## 2026-06-16 21:50:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Stockfish is the world's strongest chess engine (Elo ~3650). It dominates grandmasters like they're beginners.
 
@@ -9905,8 +9219,6 @@ RT by @elonmusk: Stockfish is the world's strongest chess engine (Elo ~3650). It
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow, this is crazy!
 
 <img src="/images/elonmusk/amplify_video_thumb_2066845522065838080_img_SKVY5a6yDVaZS8tz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -9918,8 +9230,6 @@ Wow, this is crazy!
 ## 2026-06-16 22:13:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Made with Grok Imagine
 
@@ -9933,8 +9243,6 @@ Made with Grok Imagine
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 It is humbling to consider that if we harness just 1 millionth of the Sun’s power for AI, that will be much more than a million times the intelligence of all of humanity
 
 [查看原文](https://nitter.net/elonmusk/status/2066891067899944993#m)
@@ -9944,8 +9252,6 @@ It is humbling to consider that if we harness just 1 millionth of the Sun’s po
 ## 2026-06-16 22:43:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -10662,29 +9968,27 @@ They are not the same.
 
 ## 2026-06-12 00:00:17 GMT+08:00
 
-**内容**:
-
 RT by @elonmusk: Gave the Terafab website a makeover. Designed and built entirely with Grok Build → http://terafab.ai
 
 <img src="/images/elonmusk/amplify_video_thumb_2065101433398255616_img_kEm_ND7V0Ghgo573.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/benjitaylor/status/2065101824164806863#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-06-12 00:00:56 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Britain doesn't have a racism problem, it has an immigration problem.
 
 [查看原文](https://nitter.net/RupertLowe10/status/2065101988669411419#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-06-12 00:42:12 GMT+08:00
-
-**内容**:
 
 Grok is maximally truthful
 
@@ -10692,11 +9996,11 @@ Grok is maximally truthful
 
 [查看原文](https://nitter.net/elonmusk/status/2065112374709719329#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-06-12 01:17:31 GMT+08:00
-
-**内容**:
 
 Great interview about how @CommunityNotes works!
 
@@ -10706,11 +10010,11 @@ Super helpful for truth-seeking.
 
 [查看原文](https://nitter.net/elonmusk/status/2065121260464439497#m)
 
+------------------------------------
+
 ---
 
 ## 2026-06-12 01:24:28 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
@@ -10720,11 +10024,11 @@ RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
 [查看原文](https://nitter.net/SpaceX/status/2065123011985105024#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-12 01:30:06 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: .@elonmusk says he was literally “all in” betting everything he owned on Tesla and SpaceX when his third rocket failed and Peter Thiel stepped in to save SpaceX:
 
@@ -10740,11 +10044,11 @@ RT by @elonmusk: .@elonmusk says he was literally “all in” betting everythin
 
 [查看原文](https://nitter.net/jawwwn_/status/2065124428149662101#m)
 
+------------
+
 ---
 
 ## 2026-06-12 01:34:47 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: - Netherlands
 - Lithuania
@@ -10754,11 +10058,11 @@ RT by @elonmusk: - Netherlands
 
 [查看原文](https://nitter.net/aelluswamy/status/2065125605847577024#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-12 01:35:54 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Belgium is the 5th European country to approve FSD Supervised
 
@@ -10766,11 +10070,11 @@ RT by @elonmusk: Belgium is the 5th European country to approve FSD Supervised
 
 [查看原文](https://nitter.net/Tesla/status/2065125889239904445#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 01:44:35 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: The Best of TED 2026 IMHO
 Community Notes is one of X's greatest advances, a breakthrough in social engineering with a distributed, scalable truth-seeking algorithm.
@@ -10782,11 +10086,11 @@ My photo from the front row here (showing a peek into what's to come), and full 
 
 [查看原文](https://nitter.net/FutureJurvetson/status/2065128072320323786#m)
 
+------------------------------
+
 ---
 
 ## 2026-06-12 02:46:26 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Use the @vercel plugin to deploy to production, spin up sandboxes, or build apps with Shadcn.
 
@@ -10794,11 +10098,11 @@ RT by @elonmusk: Use the @vercel plugin to deploy to production, spin up sandbox
 
 [查看原文](https://nitter.net/xai/status/2065143638838157559#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 02:58:39 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Building with the best @SpaceX @xai @grok  
 Download Gopuff to try Go. Link in bio.
@@ -10807,21 +10111,21 @@ Download Gopuff to try Go. Link in bio.
 
 [查看原文](https://nitter.net/gopuff/status/2065146714357473361#m)
 
+------------------------------
+
 ---
 
 ## 2026-06-12 03:30:35 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Teams are go for launch with a $135 price per share for the SpaceX IPO → http://spacexipo.com/#priceannouncement
 
 [查看原文](https://nitter.net/SpaceX/status/2065154746810327356#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 04:55:58 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Starlink will deliver high-speed, reliable internet to @YeswayStores and @allsupsstores across the US, enabling connectivity for point of sale payments and retail operations 🛰️❤️
 
@@ -10829,11 +10133,11 @@ RT by @elonmusk: Starlink will deliver high-speed, reliable internet to @YeswayS
 
 [查看原文](https://nitter.net/Starlink/status/2065176238352949567#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-12 05:31:07
-
-**内容**:
 
 RT by @elonmusk: Building cars in America drives innovation and fuels domestic supply chains.
 
@@ -10852,8 +10156,6 @@ In Fremont, California, Ambassador Greer toured @Tesla’s manufacturing hub for
 ---
 
 ## 2026-06-12 06:19:34 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: ELON MUSK:
 “We’re going to have universal high income.
@@ -10875,11 +10177,11 @@ ELON:
 
 [查看原文](https://nitter.net/PeterDiamandis/status/2065197276117479734#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-12 06:29:01 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Come hang out with @Tesla_Optimus at Tesla Diner today
 
@@ -10889,31 +10191,31 @@ This special vessel is only available when Optimus is working a shift on our Sky
 
 [查看原文](https://nitter.net/tesla_na/status/2065199650983055714#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 06:33:05 GMT+08:00
-
-**内容**:
 
 Try it out
 
 [查看原文](https://nitter.net/elonmusk/status/2065200677236691399#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 06:33:46 GMT+08:00
-
-**内容**:
 
 Peter’s eternal optimism is cool
 
 [查看原文](https://nitter.net/elonmusk/status/2065200848431464737#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 06:39:20 GMT+08:00
-
-**内容**:
 
 Tesla FSD 14.3.4 rolling out now
 
@@ -10921,11 +10223,11 @@ Tesla FSD 14.3.4 rolling out now
 
 [查看原文](https://nitter.net/elonmusk/status/2065202249282768915#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 06:57:56 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: SpaceX IPO will create 4,400 new Millionaires, from engineers to Cafeteria workers.
 
@@ -10935,11 +10237,11 @@ God bless Capitalism
 
 [查看原文](https://nitter.net/skscartoon/status/2065206932135428143#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 06:58:29 GMT+08:00
-
-**内容**:
 
 R to @elonmusk: Claude’s analysis of whether it knew this was just a game or not:
 
@@ -10947,21 +10249,21 @@ R to @elonmusk: Claude’s analysis of whether it knew this was just a game or n
 
 [查看原文](https://nitter.net/elonmusk/status/2065207067204288559#m)
 
+------------------------
+
 ---
 
 ## 2026-06-12 12:09:34 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: SpaceX is building the infrastructure of the future
 
 [查看原文](https://nitter.net/SpaceX/status/2065285354505302055#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 14:19:00 GMT+08:00
-
-**内容**:
 
 Good interview  https://t.co/IoiIJPLnXG
 
@@ -10969,11 +10271,11 @@ Good interview  https://t.co/IoiIJPLnXG
 
 [查看原文](https://nitter.net/elonmusk/status/2065317926668833238#m)
 
+---------------------
+
 ---
 
 ## 2026-06-12 14:56:48 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Grok Build just got a major update with a ton of new features and improvements
 
@@ -11001,11 +10303,11 @@ Bug Fixes:
 
 [查看原文](https://nitter.net/XFreeze/status/2065327439476375760#m)
 
+------------------
+
 ---
 
 ## 2026-06-12 19:55:15 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: CHARLES PAYNE: At some point, everyone should own @SpaceX.  https://t.co/D4w9OTipaN
 
@@ -11013,11 +10315,11 @@ RT by @elonmusk: CHARLES PAYNE: At some point, everyone should own @SpaceX.  htt
 
 [查看原文](https://nitter.net/KatieMiller/status/2065402547842523585#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 20:46:14 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Follow today’s $SPCX events → http://x.com/i/events/2062294933059334145
 
@@ -11025,31 +10327,31 @@ RT by @elonmusk: Follow today’s $SPCX events → http://x.com/i/events/206229
 
 [查看原文](https://nitter.net/SpaceX/status/2065415377165726146#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 21:39:22 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Deployment of 29 @Starlink satellites confirmed
 
 [查看原文](https://nitter.net/SpaceX/status/2065428750959771655#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 21:50:28 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: elon at starbase ahead of the IPO - the goal, he said, is “to take the fiction out of the science fiction”
 
 [查看原文](https://nitter.net/micsolana/status/2065431544668586380#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 21:57:10 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: ELON MUSK: "It is certainly hard to believe that little company that started in a warehouse in El Segundo is now going public. It was the largest IPO ever, and let me tell you, if people had told me this was gonna happen, I was like, man, you must be smoking some really good crack, because I think this company is gonna fail. I gave SpaceX less than a 10% chance of succeeding at all. To be clear, in fact, I told people this. I said, look, we’re probably going to fail, but you know, should give it a try, because if we don’t, if there’s not a new company that enters space, we will never be a truly space-bearing civilization."
 
@@ -11057,11 +10359,11 @@ RT by @elonmusk: ELON MUSK: "It is certainly hard to believe that little company
 
 [查看原文](https://nitter.net/cb_doge/status/2065433230883553577#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 22:22:19 GMT+08:00
-
-**内容**:
 
 🚀 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
@@ -11069,11 +10371,11 @@ RT by @elonmusk: ELON MUSK: "It is certainly hard to believe that little company
 
 [查看原文](https://nitter.net/elonmusk/status/2065439558506869178#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 22:23:56 GMT+08:00
-
-**内容**:
 
 https://t.co/H3jwsgInvf
 
@@ -11081,11 +10383,11 @@ https://t.co/H3jwsgInvf
 
 [查看原文](https://nitter.net/elonmusk/status/2065439967707283892#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 22:25:36 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: “It is certainly hard to believe that a little company that started in a warehouse in El Segundo is now going public with the largest IPO ever.” 
 
@@ -11095,11 +10397,11 @@ Only in America. Congratulations to @elonmusk @SpaceX. This is the American Drea
 
 [查看原文](https://nitter.net/KTmBoyle/status/2065440385766223883#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 22:27:56 GMT+08:00
-
-**内容**:
 
 https://t.co/OC6l7harKj
 
@@ -11107,11 +10409,11 @@ https://t.co/OC6l7harKj
 
 [查看原文](https://nitter.net/elonmusk/status/2065440971660181723#m)
 
+---------------
+
 ---
 
 ## 2026-06-12 22:30:13 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: “It is certainly hard to believe that a little company (@SpaceX) that started in a warehouse in El Segundo is now going public with the largest IPO ever.” 
 @elonmusk
@@ -11120,11 +10422,11 @@ RT by @elonmusk: “It is certainly hard to believe that a little company (@Spac
 
 [查看原文](https://nitter.net/teslaownersSV/status/2065441548121076020#m)
 
+------------
+
 ---
 
 ## 2026-06-12 22:36:31 GMT+08:00
-
-**内容**:
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
@@ -11132,11 +10434,11 @@ RT by @elonmusk: “It is certainly hard to believe that a little company (@Spac
 
 [查看原文](https://nitter.net/elonmusk/status/2065443133165318612#m)
 
+------------
+
 ---
 
 ## 2026-06-12 22:40:54 GMT+08:00
-
-**内容**:
 
 Another 29 sats to orbit!
 
@@ -11150,11 +10452,11 @@ Another 29 sats to orbit!
 
 [查看原文](https://nitter.net/elonmusk/status/2065444236825170191#m)
 
+------------
+
 ---
 
 ## 2026-06-12 22:46:42 GMT+08:00
-
-**内容**:
 
 Thank you! 🚀🚀🚀
 
@@ -11162,11 +10464,11 @@ Thank you! 🚀🚀🚀
 
 [查看原文](https://nitter.net/elonmusk/status/2065445696287703472#m)
 
+------------
+
 ---
 
 ## 2026-06-12 23:10:31 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Very inspiring words from Elon Musk today:  
 
@@ -11180,11 +10482,11 @@ Let’s goooooo🚀
 
 [查看原文](https://nitter.net/niccruzpatane/status/2065451688354275395#m)
 
+------------
+
 ---
 
 ## 2026-06-12 23:30:45 GMT+08:00
-
-**内容**:
 
 R to @elonmusk: 🔥😂
 
@@ -11192,11 +10494,11 @@ R to @elonmusk: 🔥😂
 
 [查看原文](https://nitter.net/elonmusk/status/2065456782550401072#m)
 
+------------
+
 ---
 
 ## 2026-06-12 23:32:55 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Go for Launch 🚀
 
@@ -11208,11 +10510,11 @@ RT by @elonmusk: Go for Launch 🚀
 
 [查看原文](https://nitter.net/GoldmanSachs/status/2065457326039933168#m)
 
+---------
+
 ---
 
 ## 2026-06-12 23:34:22 GMT+08:00
-
-**内容**:
 
 RT @GoldmanSachs: Go for Launch 🚀 https://t.co/F4gOY6pdDK
 
@@ -11226,25 +10528,27 @@ RT @GoldmanSachs: Go for Launch 🚀 https://t.co/F4gOY6pdDK
 
 ---
 
-## 2026-06-12 23:46:59 GMT+08:00
+---
 
-**内容**:
+## 2026-06-12 23:46:59 GMT+08:00
 
 RT by @elonmusk: Today is a good day
 
 [查看原文](https://nitter.net/Nate_Esparza/status/2065460863985938491#m)
 
+------
+
 ---
 
 ## 2026-06-12 23:47:22 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: $SPCX. Now trading on Nasdaq.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICgmosPpxY1ENq1P56olVpkqpthNwEAALND2sb3vthVZPv93m93Nt8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Nasdaq/status/2065460961427763579#m)
+
+---------
 
 ---
 
@@ -12609,17 +11913,15 @@ RT by @elonmusk: zoomers will not remember this, but we used to hold elections i
 
 ## 2026-06-07 00:10:52 GMT+08:00
 
-**内容**:
-
 RT by @elonmusk: The product is the mission.
 
 [查看原文](https://nitter.net/naval/status/2063292550388298025#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-07 00:25:17 GMT+08:00
-
-**内容**:
 
 India’s birth rate has fallen below replacement. 
 
@@ -12631,11 +11933,11 @@ Among those most educated, India’s birth rate fell below replacement many year
 
 [查看原文](https://nitter.net/elonmusk/status/2063296176246427655#m)
 
+------------------------------
+
 ---
 
 ## 2026-06-07 01:12:10 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: But if you don’t easily release criminals how would anyone ever get Bingo?
 
@@ -12643,11 +11945,11 @@ RT by @elonmusk: But if you don’t easily release criminals how would anyone ev
 
 [查看原文](https://nitter.net/AnthonyGalli/status/2063307976958714286#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-07 01:16:49 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Starlink launches now substantially outnumber all other satellite launch sources.
 
@@ -12655,11 +11957,11 @@ RT by @elonmusk: Starlink launches now substantially outnumber all other satelli
 
 [查看原文](https://nitter.net/cremieuxrecueil/status/2063309145906766030#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-07 02:27:27 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: A super useful feature I like that we have in Grok Build: we load your .envrc and pass it straight into the agent’s shell environment.
 
@@ -12669,11 +11971,11 @@ Tip: Use scoped/read-only/rate-limited keys only. The agent gets exactly what yo
 
 [查看原文](https://nitter.net/theskory/status/2063326922419884542#m)
 
+------------------
+
 ---
 
 ## 2026-06-07 02:28:42 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: I organized an intervention to stop Elon from starting SpaceX. Here is the story...
 
@@ -12701,11 +12003,11 @@ Congratulations, E. Amazing.
 
 [查看原文](https://nitter.net/adeoressi/status/2063327234929447277#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-07 02:53:34 GMT+08:00
-
-**内容**:
 
 Humanity is disappearing 😔  https://www.wsj.com/health/wellness/us-fertility-rate-impact-f8024b33?st=j9Tbii
 
@@ -12713,11 +12015,11 @@ Humanity is disappearing 😔  https://www.wsj.com/health/wellness/us-fertility-
 
 [查看原文](https://nitter.net/elonmusk/status/2063333492449009867#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-07 04:24:17 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: 🚨🇬🇧 La policía ignoró a los inmigrantes que acosaban a una mujer en su casa y luego la amenazó con arrestarla por "odio racial" si denunciaba los hechos. Ahora, el hombre que lo expuso está esposado.
 
@@ -12735,11 +12037,11 @@ Esta es la realidad del Reino Unido hoy.
 
 [查看原文](https://nitter.net/isaacrrr7/status/2063356324482838758#m)
 
+------------
+
 ---
 
 ## 2026-06-07 05:39:11 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: High-speed internet for seamless live streaming from even the most remote locations 🛰️❤️
 
@@ -12747,11 +12049,11 @@ RT by @elonmusk: High-speed internet for seamless live streaming from even the m
 
 [查看原文](https://nitter.net/Starlink/status/2063375174528066027#m)
 
+------------------------
+
 ---
 
 ## 2026-06-07 05:43:56 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: 🚨BREAKING: Miguel Bosé, the biggest Spanish-language pop star of the last few decades, has just released a video taking a knee and putting his hand over his heart in honour of Henry Nowak
 
@@ -12761,11 +12063,11 @@ This has now spread like a wildfire. Europe has never been more UNITED! 🇪🇸
 
 [查看原文](https://nitter.net/Inevitablewest/status/2063376366775501143#m)
 
+------------------------
+
 ---
 
 ## 2026-06-07 06:14:49 GMT+08:00
-
-**内容**:
 
 Join Tesla if you want to solve real-world AI
 
@@ -12773,31 +12075,31 @@ Join Tesla if you want to solve real-world AI
 
 [查看原文](https://nitter.net/elonmusk/status/2063384141182144700#m)
 
+------------------------
+
 ---
 
 ## 2026-06-07 06:20:45 GMT+08:00
-
-**内容**:
 
 Such injustice!
 
 [查看原文](https://nitter.net/elonmusk/status/2063385633725284682#m)
 
+------------------------
+
 ---
 
 ## 2026-06-07 06:26:38 GMT+08:00
-
-**内容**:
 
 This is the only way to save democracy in America
 
 [查看原文](https://nitter.net/elonmusk/status/2063387114813767815#m)
 
+------------------------
+
 ---
 
 ## 2026-06-07 06:33:20 GMT+08:00
-
-**内容**:
 
 Time for change in Germany
 
@@ -12805,11 +12107,11 @@ Time for change in Germany
 
 [查看原文](https://nitter.net/elonmusk/status/2063388801330721156#m)
 
+------------------------
+
 ---
 
 ## 2026-06-07 07:23:53 GMT+08:00
-
-**内容**:
 
 Helpful tool for improvement. It’s just physics thinking in the limit.
 
@@ -12817,11 +12119,11 @@ Helpful tool for improvement. It’s just physics thinking in the limit.
 
 [查看原文](https://nitter.net/elonmusk/status/2063401522327666828#m)
 
+------------------------
+
 ---
 
 ## 2026-06-07 07:27:17 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: It is so wild that the Yookay government is simultaneously trying to lower the voting age to 16, and ban the Internet until age 16.
 
@@ -12829,11 +12131,11 @@ RT by @elonmusk: It is so wild that the Yookay government is simultaneously tryi
 
 [查看原文](https://nitter.net/pmarca/status/2063402375046660177#m)
 
+------------
+
 ---
 
 ## 2026-06-07 07:44:19 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Elon Musk: "I just think that a usefulness optimization is really a good thing.  If you've done something that's useful to your fellow human beings, you've done a really good thing."
 
@@ -12841,11 +12143,11 @@ RT by @elonmusk: Elon Musk: "I just think that a usefulness optimization is real
 
 [查看原文](https://nitter.net/DefiantLs/status/2063406665039581645#m)
 
+------------
+
 ---
 
 ## 2026-06-07 08:05:39 GMT+08:00
-
-**内容**:
 
 Grep timeout issue fixed in latest Grok Build
 
@@ -12853,11 +12155,11 @@ Grep timeout issue fixed in latest Grok Build
 
 [查看原文](https://nitter.net/elonmusk/status/2063412033266053340#m)
 
+---------------------
+
 ---
 
 ## 2026-06-07 10:30:50 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Election night batches in Los Angeles:
 🔵 Karen Bass: 38%
@@ -12875,11 +12177,11 @@ Not even hiding it
 
 [查看原文](https://nitter.net/EndWokeness/status/2063448570678632868#m)
 
+---------------
+
 ---
 
 ## 2026-06-07 14:05:15 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Falcon 9 launches 21 @Starlink satellites and two Starshield satellites from California
 
@@ -12889,11 +12191,11 @@ RT by @elonmusk: Falcon 9 launches 21 @Starlink satellites and two Starshield sa
 
 [查看原文](https://nitter.net/SpaceX/status/2063502527358816513#m)
 
+---------
+
 ---
 
 ## 2026-06-07 14:42:48 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Elon Musk’s ultimate goal for the future of humanity:
 
@@ -12909,11 +12211,11 @@ A world where anything you can imagine, you can have it
 
 [查看原文](https://nitter.net/XFreeze/status/2063511977457267031#m)
 
+------------
+
 ---
 
 ## 2026-06-07 15:05:44 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Saw some Grok Build feedback about a crash/panic occurring during web_fetch.
 
@@ -12923,11 +12225,11 @@ Also, lmk what you think about /find and definitely check out composer 2.5 if yo
 
 [查看原文](https://nitter.net/aksheyd/status/2063517749666779565#m)
 
+------------
+
 ---
 
 ## 2026-06-07 16:24:54 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: The utter hypocrisy of German media.
 
@@ -12935,11 +12237,11 @@ RT by @elonmusk: The utter hypocrisy of German media.
 
 [查看原文](https://nitter.net/MartinSellner_/status/2063537672094728562#m)
 
+------------
+
 ---
 
 ## 2026-06-07 18:56:26 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: A woke word you need to learn:
 
@@ -12951,11 +12253,11 @@ It perfectly sums up where we’re at.
 
 [查看原文](https://nitter.net/TheAliceSmith/status/2063575806253711831#m)
 
+------
+
 ---
 
 ## 2026-06-07 20:32:29 GMT+08:00
-
-**内容**:
 
 Restore justice to Britain
 
@@ -12963,11 +12265,11 @@ Restore justice to Britain
 
 [查看原文](https://nitter.net/elonmusk/status/2063599979772432894#m)
 
+---------------
+
 ---
 
 ## 2026-06-07 20:34:54 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Wow! This is beautiful and impressive. @TeslaClubAT 🇦🇹🥰🥰
 
@@ -12975,11 +12277,11 @@ RT by @elonmusk: Wow! This is beautiful and impressive. @TeslaClubAT 🇦🇹�
 
 [查看原文](https://nitter.net/mayemusk/status/2063600589049651350#m)
 
+---------
+
 ---
 
 ## 2026-06-07 20:37:30 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Voyager 1 is 24 billion kilometers from Earth.
 
@@ -13008,19 +12310,17 @@ That's what engineering for the long term looks like.
 
 ## 2026-06-07 20:46:45 GMT+08:00
 
-**内容**:
-
 Who is making them do this?
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB1Gola6vH6KlzAWMG17KNTVWW0gqyAAJ4E2sbAxgoVb73WYVV4YURAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2063603568318300539#m)
 
+---------------
+
 ---
 
 ## 2026-06-07 20:47:24 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: Historic moment in Australia 🇦🇺
 
@@ -13039,11 +12339,11 @@ Even bigger picture is EVs just captured a record ~20% of the entire Australian 
 
 [查看原文](https://nitter.net/XFreeze/status/2063603732739461538#m)
 
+---------------
+
 ---
 
 ## 2026-06-07 20:50:24 GMT+08:00
-
-**内容**:
 
 Fate hates hypocrisy.
 
@@ -13051,11 +12351,11 @@ Fate hates hypocrisy.
 
 [查看原文](https://nitter.net/elonmusk/status/2063604488829583809#m)
 
+---------------
+
 ---
 
 ## 2026-06-07 20:56:16 GMT+08:00
-
-**内容**:
 
 The reason ID is banned in California (and New York) elections is to enable large-scale fraud. 
 
@@ -13065,11 +12365,11 @@ When you combine no ID and mail-in voting, fraud is de facto legalized.
 
 [查看原文](https://nitter.net/elonmusk/status/2063605962619985975#m)
 
+---------------
+
 ---
 
 ## 2026-06-07 20:57:24 GMT+08:00
-
-**内容**:
 
 They are disappearing
 
@@ -13077,11 +12377,11 @@ They are disappearing
 
 [查看原文](https://nitter.net/elonmusk/status/2063606250957341060#m)
 
+------------
+
 ---
 
 ## 2026-06-07 21:09:09 GMT+08:00
-
-**内容**:
 
 Why is it only pushed in the West?
 
@@ -13089,11 +12389,11 @@ Why is it only pushed in the West?
 
 [查看原文](https://nitter.net/elonmusk/status/2063609205311803522#m)
 
+------------
+
 ---
 
 ## 2026-06-07 22:52:11 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: More of these types of stories should be written about SpaceX’s IPO.
 
@@ -13106,6 +12406,8 @@ Capitalism is awesome 🚀
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB4mol8R4EtE5h3ZosmnFhRk5P12nVAAIlEWsbj4QxVaJWI1X4pJQqAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/JLopas/status/2063635135744946422#m)
+
+---
 
 ---
 
@@ -13627,21 +12929,19 @@ RT by @elonmusk: Starlink enables high-speed connectivity for field manufacturin
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 This provides some sense of scale
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBgWoh7ojmoWkOlnVhPfUYASVRFECkAAJIDmsb2H0RVQv6YYxomR5GAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062613724523864464#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-06-05 03:23:26 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Starmer on Henry Nowak: "Don't exploit this for politics"
 
@@ -13651,13 +12951,13 @@ Starmer on George Floyd:
 
 [查看原文](https://nitter.net/EndWokeness/status/2062616232923144400#m)
 
+------------------
+
 ---
 
 ## 2026-06-05 03:26:06 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Ideological conditioning and two-tiered policing are glaring symptoms of civilizational decline. They must be rejected across the West. 
 
@@ -13665,13 +12965,13 @@ The United States sends our condolences to the family of Henry Nowak and the peo
 
 [查看原文](https://nitter.net/StateDept/status/2062616906406760627#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-06-05 04:51:34 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 SpaceX IPO info
 
@@ -13679,13 +12979,13 @@ SpaceX IPO info
 
 [查看原文](https://nitter.net/elonmusk/status/2062638415644865024#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-06-05 04:55:43 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -13693,25 +12993,25 @@ Video
 
 [查看原文](https://nitter.net/elonmusk/status/2062639458508312887#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-06-05 05:37:35 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yup
 
 [查看原文](https://nitter.net/elonmusk/status/2062649992553107475#m)
+
+------------------------------------
 
 ---
 
 ## 2026-06-05 06:26:04 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Starlink V3 satellites have >10X bandwidth of V2 and there’ll be >10X launched, which means >100X more bandwidth. 
 
@@ -13721,13 +13021,13 @@ Light travels 300km/ms in space, so physics round trip min latency drops to <5ms
 
 [查看原文](https://nitter.net/elonmusk/status/2062662195192697233#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-05 07:05:41 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk says Orbital AI Data Centers will be easier than Communication Satellites for SpaceX:
 
@@ -13743,11 +13043,11 @@ It’s really just solar power, plus radiator, some basic equipment, and the las
 
 ---
 
+---
+
 ## 2026-06-05 07:13:25 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Il y a une chose que peu de gens ont compris, et qui sera pourtant évidente dans dix ans.
 
@@ -13776,13 +13076,13 @@ L'avenir est radieux. Il est temps de jouer pour de vrai, et il est temps de con
 
 [查看原文](https://nitter.net/brivael/status/2062674109574898175#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-05 07:22:38 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Even 2010 tbh
 
@@ -13790,13 +13090,13 @@ Even 2010 tbh
 
 [查看原文](https://nitter.net/elonmusk/status/2062676432162078967#m)
 
+------------------------------
+
 ---
 
 ## 2026-06-05 07:49:30 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: ELON MUSK: The Future of Energy Is Beyond Earth.
 
@@ -13810,13 +13110,13 @@ In fact, this is going to sound kind of crazy, but you could actually increase h
 
 [查看原文](https://nitter.net/cb_doge/status/2062683191467745637#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-05 10:01:33 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 SpaceX
 
@@ -13824,13 +13124,13 @@ SpaceX
 
 [查看原文](https://nitter.net/elonmusk/status/2062716424615862315#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-05 11:11:12 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Vote them out
 
@@ -13838,13 +13138,13 @@ Vote them out
 
 [查看原文](https://nitter.net/elonmusk/status/2062733952729726994#m)
 
+------------------------
+
 ---
 
 ## 2026-06-05 11:25:08 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I’m about to offer the House-passed version of the SAVE America Act on the Senate floor in connection with tonight’s vote-a-rama
 
@@ -13854,13 +13154,13 @@ Will keep you posted
 
 [查看原文](https://nitter.net/BasedMikeLee/status/2062737458429575317#m)
 
+---------------------
+
 ---
 
 ## 2026-06-05 11:28:18 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Corruption
 
@@ -13868,13 +13168,13 @@ Corruption
 
 [查看原文](https://nitter.net/elonmusk/status/2062738253925515344#m)
 
+------------------------
+
 ---
 
 ## 2026-06-05 11:28:40 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Yup
 
@@ -13882,13 +13182,13 @@ Yup
 
 [查看原文](https://nitter.net/elonmusk/status/2062738346229506370#m)
 
+------------------------
+
 ---
 
 ## 2026-06-05 12:06:09 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -13896,13 +13196,13 @@ Video
 
 [查看原文](https://nitter.net/elonmusk/status/2062747780678848718#m)
 
+------------------
+
 ---
 
 ## 2026-06-05 12:23:36 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Yes, SPLC is a criminal organization
 
@@ -13910,13 +13210,13 @@ Yes, SPLC is a criminal organization
 
 [查看原文](https://nitter.net/elonmusk/status/2062752172450681051#m)
 
+------------------
+
 ---
 
 ## 2026-06-05 13:21:23 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Drop the fiction. Just science.
 
@@ -13926,15 +13226,17 @@ RT by @elonmusk: Drop the fiction. Just science.
 
 ---
 
+---
+
 ## 2026-06-05 13:48:36 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: How did white people become the protectors and defenders of every group except white people?
 
 [查看原文](https://nitter.net/davidpattersonx/status/2062773563736854937#m)
+
+------
 
 ---
 
@@ -13942,11 +13244,11 @@ RT by @elonmusk: How did white people become the protectors and defenders of eve
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok model improvement
 
 [查看原文](https://nitter.net/elonmusk/status/2062795019551957383#m)
+
+---------------
 
 ---
 
@@ -13954,11 +13256,11 @@ Grok model improvement
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok Build updates
 
 [查看原文](https://nitter.net/elonmusk/status/2062795562265550876#m)
+
+---------------
 
 ---
 
@@ -13966,21 +13268,19 @@ Grok Build updates
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok supports worktrees
 
 <img src="/images/elonmusk/amplify_video_thumb_2062407951751757824_img_M4hlqes477RcIM_U.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062796095764234421#m)
 
+---------------
+
 ---
 
 ## 2026-06-05 15:19:15 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 29 more Starlink satellites. 
 
@@ -13996,25 +13296,25 @@ Over 10,000 in orbit now.
 
 [查看原文](https://nitter.net/elonmusk/status/2062796377055187258#m)
 
+---------------
+
 ---
 
 ## 2026-06-05 21:02:06 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Hot take: Universities charge $300,000 for a degree that teaches you skills any LLM can do for free. At some point we need to have an honest conversation about whether higher education is the greatest individuals misallocation of capital in recent history.
 
 [查看原文](https://nitter.net/PeterDiamandis/status/2062882655692009961#m)
+
+------------
 
 ---
 
 ## 2026-06-05 22:00:00 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Come visit our CVPR booth for hands-on experiences:
 
@@ -14030,13 +13330,13 @@ While others talk about autonomous driving, Tesla is the only one solving it in 
 
 [查看原文](https://nitter.net/Tesla_AI/status/2062897227690074124#m)
 
+---------
+
 ---
 
 ## 2026-06-05 22:00:31 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: i still think about this
 
@@ -14044,13 +13344,13 @@ RT by @elonmusk: i still think about this
 
 [查看原文](https://nitter.net/alpaysh/status/2062897357314789662#m)
 
+------
+
 ---
 
 ## 2026-06-05 22:27:50 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Europe has no-go zones in Paris and London. 
 
@@ -14060,25 +13360,25 @@ That’s our future if we don’t stop mass Islamic immigration.
 
 [查看原文](https://nitter.net/RepBrandonGill/status/2062904232466899127#m)
 
+------
+
 ---
 
 ## 2026-06-05 22:31:44 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Users who interact with a misleading post that is subsequently corrected by @CommunityNotes will receive an 𝕏 Chat message of the CN to correct any misperception
 
 [查看原文](https://nitter.net/elonmusk/status/2062905215125233995#m)
+
+---------
 
 ---
 
 ## 2026-06-05 22:39:46 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX has launched in 7 years almost as many satellites as every government and private company in the world did since the 50s
 
@@ -14089,8 +13389,6 @@ RT by @elonmusk: SpaceX has launched in 7 years almost as many satellites as eve
 ## 2026-06-05 22:55:31 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk just gave a massive update on Community Notes
 
@@ -14106,13 +13404,13 @@ People who saw the original claim will now actually see the correction too
 
 [查看原文](https://nitter.net/XFreeze/status/2062911198090473864#m)
 
+------
+
 ---
 
 ## 2026-06-05 23:36:21 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Storyboarding in Grok @imagine was pretty fun. I really like how the agents help visualize some of the important historical events.
 
@@ -14126,11 +13424,11 @@ I was trying to iterate through the clothing and voices from the ancient Chinese
 
 ---
 
+---
+
 ## 2026-06-04 00:26:43 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Try the most natural TTS and cost-effective STT APIs in @Vapi_AI
 
@@ -14138,13 +13436,13 @@ RT by @elonmusk: Try the most natural TTS and cost-effective STT APIs in @Vapi_A
 
 [查看原文](https://nitter.net/xai/status/2062209374039499178#m)
 
+---------------------------------------------
+
 ---
 
 ## 2026-06-04 00:39:56 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Welp, that happened faster than I predicted. Thought it would be end of 2027, then early 2027, but agentic traffic growing so fast that bots have now passed human traffic online for the first time in the Internet's history. https://radar.cloudflare.com/traffic#bot-vs-human
 
@@ -14152,13 +13450,13 @@ RT by @elonmusk: Welp, that happened faster than I predicted. Thought it would b
 
 [查看原文](https://nitter.net/eastdakota/status/2062212701414187452#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-04 01:42:24 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 That’s what it comes down to
 
@@ -14166,17 +13464,19 @@ That’s what it comes down to
 
 [查看原文](https://nitter.net/elonmusk/status/2062228418985648287#m)
 
+---------------------------------------------
+
 ---
 
 ## 2026-06-04 02:47:55 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Ordering lunch to the 𝕏 office using 𝕏 Money funded by my 𝕏 paycheck that was deposited to my 𝕏 account
 
 [查看原文](https://nitter.net/benjitaylor/status/2062244906714963971#m)
+
+---------------------------------------
 
 ---
 
@@ -14184,13 +13484,13 @@ RT by @elonmusk: Ordering lunch to the 𝕏 office using 𝕏 Money funded by my
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Fact: he died of 11ng/ml Fentanyl.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBW2ogh-QzYRU78Jog9jqjJYzF3q6QAAL6EGsbcycAAVXK4Vq2KwJ8tgEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/auwearness/status/2062246990289727642#m)
+
+------------------------------------------
 
 ---
 
@@ -14198,21 +13498,19 @@ RT by @elonmusk: Fact: he died of 11ng/ml Fentanyl.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Built with Grok
 
 <img src="/images/elonmusk/amplify_video_thumb_2062142149450252288_img_Q9Igf5B_9myb9eik.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062255860433506323#m)
 
+------------------------------------------
+
 ---
 
 ## 2026-06-04 03:45:54 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨BREAKING: Hampshire police claim they felt controlled and manipulated to "think a certain way" after mandatory DEI training, the Times have exposed
 
@@ -14222,13 +13520,13 @@ It's confirmed: they're brainwashing the police to discriminate against natives.
 
 [查看原文](https://nitter.net/Inevitablewest/status/2062259500514451573#m)
 
+------------------------
+
 ---
 
 ## 2026-06-04 07:20:53 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build just created a game called Grok Racer for me. The great thing is that I told Grok to use Grok Imagine for the images in the game and it did! That’s fantastic and proves that Grok Imagine can also be used for active game coding. It works well and looks so cool.
 
@@ -14236,13 +13534,13 @@ RT by @elonmusk: Grok Build just created a game called Grok Racer for me. The gr
 
 [查看原文](https://nitter.net/testerlabor/status/2062313602711736519#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-04 08:36:35 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok Imagine on Vercel
 
@@ -14250,13 +13548,13 @@ Grok Imagine on Vercel
 
 [查看原文](https://nitter.net/elonmusk/status/2062332654587118036#m)
 
+------------------------------------
+
 ---
 
 ## 2026-06-04 08:54:09 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Iliad (Troy) trailer made by Grok Imagine 1.5, which was just released
 
@@ -14264,13 +13562,13 @@ Iliad (Troy) trailer made by Grok Imagine 1.5, which was just released
 
 [查看原文](https://nitter.net/elonmusk/status/2062337074368508253#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-04 09:14:44 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: There is literally nothing California could do to make their elections less secure.
 
@@ -14285,13 +13583,13 @@ It’s an insult to Americans.
 
 [查看原文](https://nitter.net/C_3C_3/status/2062342254920900664#m)
 
+------------------------
+
 ---
 
 ## 2026-06-04 09:30:47 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok on Cloudflare
 
@@ -14299,13 +13597,13 @@ Grok on Cloudflare
 
 [查看原文](https://nitter.net/elonmusk/status/2062346295256527350#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-04 10:19:32 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: xAI has released a blog on Partnering with Vapi for Voice
 
@@ -14313,13 +13611,13 @@ RT by @elonmusk: xAI has released a blog on Partnering with Vapi for Voice
 
 [查看原文](https://nitter.net/techdevnotes/status/2062358563050131764#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-04 10:35:54 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Try Grok Voice
 
@@ -14327,17 +13625,19 @@ Try Grok Voice
 
 [查看原文](https://nitter.net/elonmusk/status/2062362681038999875#m)
 
+---------------------------------
+
 ---
 
 ## 2026-06-04 10:40:28 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yup
 
 [查看原文](https://nitter.net/elonmusk/status/2062363827602362838#m)
+
+---------------------------------
 
 ---
 
@@ -14345,19 +13645,17 @@ Yup
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 SpaceX
 
 [查看原文](https://nitter.net/elonmusk/status/2062368716730564785#m)
+
+------------------------------
 
 ---
 
 ## 2026-06-04 12:05:32 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Reading this again, I thought you meant for making like a full length movie or a 30 min episode. 
 
@@ -14367,13 +13665,13 @@ Very doable over the course of a few days to a week max with the Grok Heavy subs
 
 [查看原文](https://nitter.net/heavypulp/status/2062385238869684728#m)
 
+---------------------
+
 ---
 
 ## 2026-06-04 12:21:19 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Southern Poverty Law Center is a criminal organization
 
@@ -14381,17 +13679,19 @@ Southern Poverty Law Center is a criminal organization
 
 [查看原文](https://nitter.net/elonmusk/status/2062389208459972974#m)
 
+---------------------------
+
 ---
 
 ## 2026-06-04 12:28:37 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yes
 
 [查看原文](https://nitter.net/elonmusk/status/2062391047800701307#m)
+
+------------------------
 
 ---
 
@@ -14399,13 +13699,13 @@ Yes
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 💯
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBa2ohBpe_gG83gqiRCs0dzoAjRTjdAAJwEGsbcycIVfqwbbGfYQ-vAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062391451393392851#m)
+
+------------------------
 
 ---
 
@@ -14413,13 +13713,13 @@ Yes
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok Imagine 1.5 at rank 1
 
 <img src="/images/elonmusk/amplify_video_thumb_2062376208734859264_img_KQc99DQ2dujkVLPu.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062392619418959901#m)
+
+------------------------
 
 ---
 
@@ -14427,13 +13727,13 @@ Grok Imagine 1.5 at rank 1
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2061927908331905026_img_FbwxRE37OPjSP_JX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062400773838024882#m)
+
+---------------------
 
 ---
 
@@ -14441,11 +13741,11 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Hadamard thought in image space
 
 [查看原文](https://nitter.net/elonmusk/status/2062423834217898323#m)
+
+------------------
 
 ---
 
@@ -14453,21 +13753,19 @@ Hadamard thought in image space
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2062367980416282624_img_91hM6wsEHiq-B6O9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062424194219114745#m)
 
+------------------
+
 ---
 
 ## 2026-06-04 17:02:00 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: MARC ANDREESSEN: "We had meetings with the Biden admin where they told us to not even start AI companies because there's no way they'll let them succeed."  
 
@@ -14481,13 +13779,13 @@ LMAO
 
 [查看原文](https://nitter.net/Bitcoin_Teddy/status/2062459844825899257#m)
 
+---------
+
 ---
 
 ## 2026-06-04 19:32:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: How are Democrats cheating in L.A.? 
 
@@ -14514,8 +13812,6 @@ https://x.com/bennyjohnson/status/2012251508654354850/video/1
 ## 2026-06-04 20:53:01 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨BREAKING: SPECIALIST DOCTOR SAYS HENRY NOWAK COULD HAVE LIVED IF NOT FOR POLICE
 
@@ -14572,13 +13868,13 @@ The aggressive police intervention, instead of saving a life, led to death throu
 
 [查看原文](https://nitter.net/BasilTheGreat/status/2062517983159747008#m)
 
+---------
+
 ---
 
 ## 2026-06-04 21:59:37 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Fidelity has announced that it is making the SpaceX IPO available to any customer with a retail brokerage account with $2,000 or more in the account (down from up to $500k before).
 
@@ -14588,13 +13884,13 @@ RT by @elonmusk: Fidelity has announced that it is making the SpaceX IPO availab
 
 [查看原文](https://nitter.net/SawyerMerritt/status/2062534741706817842#m)
 
+------
+
 ---
 
 ## 2026-06-04 22:54:06 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -14602,13 +13898,13 @@ Video
 
 [查看原文](https://nitter.net/elonmusk/status/2062548455570985377#m)
 
+---------------
+
 ---
 
 ## 2026-06-04 23:03:24 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX’s literally destroyed the cost to orbit so much even you can afford the ticket to ride on it in the future
 
@@ -14633,13 +13929,13 @@ It is the cost reset that opens the next economic frontier
 
 [查看原文](https://nitter.net/XFreeze/status/2062550795417977340#m)
 
+---------
+
 ---
 
 ## 2026-06-04 23:15:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨 New York Democrats just voted to erase "Mother" and "Father”.
 
@@ -14657,17 +13953,19 @@ Reject this nonsense.
 
 ---
 
+---
+
 ## 2026-06-04 23:45:24 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Well said
 
 <img src="/images/elonmusk/amplify_video_thumb_2062467660189687808_img_msnh_HPB8GJ0nUjJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2062561362719498706#m)
+
+------------
 
 ---
 

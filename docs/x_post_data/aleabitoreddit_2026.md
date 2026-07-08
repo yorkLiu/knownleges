@@ -1473,8 +1473,6 @@ Nancy Pelosi just disclosed: - $1 million - $5 million of $INTC March 2027 calls
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow, $TSEM up 10%+ today. Good times, should have made this one of my largest positions in hindsight back in March. Foundries like $GFS and $INTC have been going brrr lately.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDcGo5wKZHEFeV134SL4aCgrxpUpx0AAKrDWsbMUvQVSGyzPgN9DXOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1483,13 +1481,13 @@ Wow, $TSEM up 10%+ today. Good times, should have made this one of my largest po
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2069188398825566318#m)
 
+------------------------------------
+
 ---
 
 ## 2026-06-23 08:21:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I wonder how it feels to miss out on the AI supercycle run… With photonics, memory, and even Neoclouds like $NBIS. Because you’re busy bagholding into the endless $6,000,000,000 active ATMs with $IREN.
 
@@ -1505,8 +1503,6 @@ I wonder how it feels to miss out on the AI supercycle run… With photonics, me
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I actually think OE Solutions ($138080.KQ ) makes the most sense as an acquisition target by a large downstream player. Since it’s now trading at a stupid ~$215M MC for scarce EML/CW laser IP. A Source Photonics / Suzhou Dongshan Precision type acquisition might add a lot more value to another company that wants to vertically integrate. Given there’s a lot of expensive R&D and capex required to scale their fabs and buildout ahead + it’s a small optical player. (Disclosure: I do own positions) Just floating the idea out there to other companies.
 
 <img src="/images/aleabitoreddit/card_img_2067939443076710401_GW1SQ-Vs3Fformat3Djpg26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1518,8 +1514,6 @@ I actually think OE Solutions ($138080.KQ ) makes the most sense as an acquisiti
 ## 2026-06-23 10:27:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Best time to long CXL for memory pooling was 4 months ago. $ALAB up 276% from $117 -> $440 $MRVL up 291% from $79 -> $309
 
@@ -1535,8 +1529,6 @@ Best time to long CXL for memory pooling was 4 months ago. $ALAB up 276% from $1
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 IMO photonics theme + CW laser chokepoint is goated. It's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now. Because $NVDA caused EML bottlenecks, and forced architectural changes. We're literally seeing the same thing today with CW lasers + 1.6T/CPO shifts with Nvidia signing LTAs everywhere. Now, $AMD + other CSPs are hunting for remaining scraps with large LTAs for CW lasers + optical components. GS Research's ~9-10x $154B optical TAM in 2028 and near $0 -> $91B CPO TAM in just 2 1/2 years. Don't just magically disappear from a month of trading volatility. $AAOI sitting at ~$13B, $SIVE sitting at ~$3B, and other CW laser players look strategically very valuable. And next year I think we'll look back and say "Why didn't I learn my lesson the first time with EML from Nvidia and pick up CW laser adjacent names!" Then there's likely gonna be some new mini trend 1-2 years from now like microled or quantum dot and we're gonna see the same thing repeat. Think Sumitomo's projections with CW laser share + silicon photonics being majority / dominant architecture should be correct. I'm personally just focusing on that bottleneck as you've seen with $SOI, $TSEM, $SIVE, and others.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2069258326505140653#m)
@@ -1546,8 +1538,6 @@ IMO photonics theme + CW laser chokepoint is goated. It's legit like markets hav
 ## 2026-06-23 12:10:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Bank of America looks like the malicious equivalent of Bernstein/Jim Cramer to retail. - said $KOSPI / $EWY was an extreme bubble, compared it to Silver crash back in March, causing retail to sell positions. The index proceeded to close to double and hit ATHs since that call. - saying “BoA expects 3 rate hikes in 2026”, Close to 0% chance on derivative markets and causes retail panic. While Trump administration calling for rate cuts. Absolutely harmful behavior from a US bank publishing this garbage to retail investors.
 
@@ -1560,8 +1550,6 @@ Bank of America looks like the malicious equivalent of Bernstein/Jim Cramer to r
 ## 2026-06-23 14:11:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 There’s nothing like BoFA giving BS extreme bear predictions. To clear all the Korean leveraged traders a 2nd time this year. Korean markets are less resilient when it’s built on Aespa, Salmon skincare, and SK Hynix/Samsung memory names ig.
 
@@ -1577,8 +1565,6 @@ There’s nothing like BoFA giving BS extreme bear predictions. To clear all the
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $XFAB upgraded to outperform with a PT of €12.8 by Bernstein, up from €5. Okay I forgive you Bernstein for Kioxia and Intel. I still think that’s just reactive PTs off automotive recovery, SiC/power semi ramp up. And undershooting potential a lot… If markets price in the possibility of xfab moving to HVM. On their silicon photonics foundry w/ photonixfab / Nvidia + LIGENTEC for TFLN on SOI. Regardless I’m bullish too on XFAB and curious where it heads.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDi2o6bt7ZGWqkpjBOs0LIu52xpT7BAALXD2sbMUvQVYFsuwqX1ohnAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1593,8 +1579,6 @@ $XFAB upgraded to outperform with a PT of €12.8 by Bernstein, up from €5. Ok
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $SIVE + Aeva likely coded from the new PR today and SIVE + Apple. For Sivers lasers powering robotics / physical AI. -> Sivers lasers powering Boston Dynamics Atlas via. LG Innotek for robotics -> Nvidia Hyperion ecosystem w/ Sivers lasers for physical AI. Are possible paths with Aeva. Apple likely using Sivers also reiterated from the newer webpage￼: “Optical sensing modules for wearables” from biometric and health monitoring. They just can’t namedrop partners due to confidentiality, but consumer sensing is probably the biggest tell. Physical AI and mass consumer production with Apple would be very material to revenue.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDjGo6diKxQgxIThDNhTCuWE84pnDZAALvD2sbMUvQVTR5XUn4_QLVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1608,8 +1592,6 @@ $SIVE + Aeva likely coded from the new PR today and SIVE + Apple. For Sivers las
 ## 2026-06-23 20:38:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Nothing is more stupid than Bloomberg copying BofA playbook with KOSPI back in March. And framing Taiwan’s $TSM ~23.6x forward p/e and $NVDA upstream supply chain as a “bubble”. Then using the words going into “debt” instead of “margin” + comparing Taiwan’s market to the .com bubble. Crap like this is why retail trust in media has dropped off a cliff in the past few years.
 
@@ -1627,8 +1609,6 @@ Nothing is more stupid than Bloomberg copying BofA playbook with KOSPI back in M
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM. Since we got a massive drop off BS narratives like 3 rate hikes off no newly material macroeconomic data (which comes out Thursday). If institutions really believed 3 rate hike sellside garbage that BofA put out: They would profit off it with CME/prediction markets. Which are still projecting 74% no rate hike in July. But they don't. So they're feeding retail investors garbage.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2069422448345518346#m)
@@ -1638,8 +1618,6 @@ Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to 
 ## 2026-06-23 22:39:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS Foundry. "The «Fab4Micro» in Erfurt is a key project for the technological sovereignty of Germany and Europe, explained Thuringia’s head of government." The production start is planned in 2028 (finanzen). With Europe's new CHIPS ACT 2 as a concurrent fundamental tailwind.
 
@@ -1652,8 +1630,6 @@ Today, $XFAB (1.23B MC) receives €127.4 million from CHIPS ACT for their MEMS 
 ## 2026-06-23 23:42:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Curious if anyone's portfolio is green after today's fun day. $KORU: -32.06% $SOXL: -22.98% $IQE: -13.58% $DRAM: -12.6% $AXTI: -12.57% $FLNC: -12.5% $AAOI: -11.2% $SIVE: -11.7% $TSEM: -10.24% $SNDK: -12.5% $MU: -11.8% Sk Hynix: -12.35% Samsung: -9.6% $MRVL: -8.3% $LITE: -7.6% $SOI -7.15% $TSM: -6.1% $AMD: -6.04% Feels like anything high-beta or semis had a steep drop.
 
