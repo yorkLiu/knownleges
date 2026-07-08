@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 183 条推文
+> 📊 推文存档 - 共 184 条推文
 
 ---
 
@@ -387,13 +387,13 @@ R to @Mimiwftt: 比如近期的人形机器人。早起买入的还能有收益�
 
 新粉丝看一下，26/2月给大家的提醒
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGF2pOGYNs6LH0EHOQ_vOS2raTxWKpAAK3Emsb_fRwVtF2bfD7ZJR0AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGGGpOGYd2x_4owjf-uzlU2-xioN_2AAK4Emsb_fRwVigQqRPSXNarAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGGWpOGYzEgjWZJYCHz94XJfmUP9b0AAK5Emsb_fRwVmg15pBY1923AQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGGmpOGZDhVevKcDR8MTjHYzJHzdeEAAK6Emsb_fRwVqMEFpFz5AIMAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074780962769207676#m)
 
@@ -407,9 +407,23 @@ R to @Mimiwftt: 比如近期的人形机器人。早起买入的还能有收益�
 
 其实我在语音复盘中已经多次提到，对于连续两个季度收阳，且前一个季度涨幅接近或超过翻倍的标的，一般不建议继续参与。尤其是在下一个季度开盘阶段，由于股价与均线的“乖离率”过大，往往存在较大的回落修正概率。 不过，这并不意味着其大周期已经见顶。从目前的走势来看，月线仍然运行在MA5月线之上，整体中期趋势尚未被破坏。当前股价也已经回踩至前期平台支撑区域，在支撑有效的前提下，短期可以期待一波技术性反弹。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGFmpOGX-yLRi40txePlEMWgxyhKrnAAK2Emsb_fRwVkeLJRE6eUrOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074785185313562861#m)
+
+---
+
+## 2026-07-08 18:14:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+晚安💤休息休息脑子🧠
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGImpOKCHcJh512iE4yVrHskm0IdJBAAIbD2sb_fR4Vp4FCza5kYWqAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074799199988965847#m)
 
 ---
 

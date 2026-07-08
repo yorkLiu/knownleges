@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 264 条推文
+> 📊 推文存档 - 共 265 条推文
 
 ---
 
@@ -75,9 +75,23 @@ Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expa
 
 Trump: Memorandum of Understanding with Iran “is over” “It’s a waste of time dealing with them,” Trump said at the NATO summit. Always an exciting time with markets.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGE2pOEjwnW4WKoJiI_pBZPR0JqDmrAAKqEmsb_fRwVv8n7z4E2aA_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074776109074583565#m)
+
+---
+
+## 2026-07-08 18:14:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Trump: “Spain is a terrible partner in NATO. They don't participate. They don't pay. Cut off all trade with Spain” Tbh no clue what’s going on anymore…
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGIWpOKBXusM2WCGtwbBSzPXOXsnSlAAIaD2sb_fR4VluMPkAH3IOTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074799339680202869#m)
 
 ---
 
