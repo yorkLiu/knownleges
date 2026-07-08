@@ -2,7 +2,6 @@
 node_modules/
 
 # 超大数据文件（单文件超过 GitHub 100MB 限制）
-data/x_data/Mimiwftt/
 
 # VitePress 构建产物（不要提交）
 docs/.vitepress/dist/

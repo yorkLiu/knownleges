@@ -18,7 +18,7 @@ title: 推文数据
 || [@karpathy](./karpathy_2026.md) | 28 |   | 14 | [查看](./karpathy_2026.md) |
 || [@aleabitoreddit](./aleabitoreddit_2026.md) | 263 | ✅ | 405 | [查看](./aleabitoreddit_2026.md) |
 || [@dianzhuXS](./dianzhuXS_2026.md) | 152 | ✅ | 210 | [查看](./dianzhuXS_2026.md) |
-|| [@Mimiwftt](./Mimiwftt_2026.md) | 224 | ✅ | 193 | [查看](./Mimiwftt_2026.md) |
+|| [@Mimiwftt](./Mimiwftt_2026.md) | 176 | ✅ | 164 | [查看](./Mimiwftt_2026.md) |
 ---
 
 ## 📅 [日期归档](./tags/index.md)
