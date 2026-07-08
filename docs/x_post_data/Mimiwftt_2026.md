@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 208 条推文
+> 📊 推文存档 - 共 209 条推文
 
 ---
 
@@ -158,6 +158,26 @@ tags: ["2026"]
 弱势方向在6月底差不多有一些已经见了历史大底的不用过于担心，无非是继续回落低吸。绝不能追涨。 强势股高位一旦走弱绝不能低吸，最好等强势扭转，否则仅仅是下跌的开始。
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074652179995169081#m)
+
+---
+
+## 2026-07-08 09:31:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天是上涨趋势线破位，看看这两天能不能收复！ 不能收复的话，下面的缺口附近支撑，如果缺口也撑不住，那就要去最下面一条紫色线。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_mpNrIBKGTJG1NBvcvp4uXZ_7zKXAALlEWsb_fRwVsc4bHN_fiH6AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF9mpNiCxH1OYkuhBHMeiTGumW7FlmAAJdD2sbmMRoVoH505ARz5fBAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF92pNiDCcDfsKBECMe4SIttmujV7sAAJeD2sbmMRoVg_tn3sbJWSnAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-GpNiDNhX6JV3BPvk5_ZJv1RBG0zAAJfD2sbmMRoVhqg64mX1H-kAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074667642758308206#m)
 
 ---
 
