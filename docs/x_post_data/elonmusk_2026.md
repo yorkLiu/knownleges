@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 982 条推文
+> 📊 推文存档 - 共 986 条推文
 
 ---
 
@@ -69,7 +69,7 @@ RT by @elonmusk: Critical feedback is always appreciated
 
 Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive. We are closing the loop on real-world usefulness, not benchmarks. Hardcore engineers at Tesla & SpaceX find Grok 4.5 genuinely useful, which is what actually matters.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGKGpOjcJNKRx1D8tzk3SBycbLsq81AAJZEGsb_fR4VqiIu7F0FjUfAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074911038286295049#m)
 
@@ -95,9 +95,63 @@ We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat m
 
 R to @elonmusk: Image
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJ2pOjb8fY0IyuhUNYKp1QkxUXaulAAJYEGsb_fR4Vhg4JmNDcMbjAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074912266961527141#m)
+
+---
+
+## 2026-07-09 01:57:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency. https://x.ai/news/grok-4-5
+
+<img src="/images/elonmusk/amplify_video_thumb_2074912187391610880_img_BliQqOpmregZ5fSo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceXAI/status/2074915721684086811#m)
+
+---
+
+## 2026-07-09 01:59:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class model that's fast and low cost. It's a significant step up over any model we've developed so far, including Composer 2.5, and has become the daily driver for many on our team. First of many releases. More soon.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGK2pOqtAzvP8T3yjaFxMUMdLUQMJuAAJuEGsb_fR4VujVO0qIojgvAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mntruell/status/2074916251743457787#m)
+
+---
+
+## 2026-07-09 03:01:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try out Grok 4.5 in Cursor!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGK2pOqtAzvP8T3yjaFxMUMdLUQMJuAAJuEGsb_fR4VujVO0qIojgvAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074931787533328622#m)
+
+---
+
+## 2026-07-09 03:02:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try out Grok 4.5 in Vercel!
+
+[查看原文](https://nitter.net/elonmusk/status/2074932046632267901#m)
 
 ---
 
