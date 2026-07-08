@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 192 条推文
+> 📊 推文存档 - 共 194 条推文
 
 ---
 
@@ -77,15 +77,43 @@ tags: ["2026"]
 
 这是正主@Gate @jheioff 查一下这个盗币怎么做到的， 我本以为有了谷歌验证已经是天下无敌， 查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGHWpOKAOjftoU5xyyyEMl92byTmnzAAIWD2sb_fR4VsjdzRnXt-wwAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGHmpOKAiDfBNQbdAmfncHR2JHYOFfAAIXD2sb_fR4VhlCgjR2giFwAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGH2pOKAxR3pUNiTCU4InRP55pgYy9AAIYD2sb_fR4VqEeWNCVAa15AQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGIGpOKA_jzIsgDkYm9jukE7Z_elDsAAIZD2sb_fR4Vgst91CbWnDOAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
+
+
 
 [查看原文](https://nitter.net/xiaomustock/status/2074796670551031899#m)
+
+---
+
+## 2026-07-08 21:49:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+活过来了，终于反弹了，韩股总不可能天天熔断吧。 AI总不可能不搞了吧。 机器人和agent都是半吊子智障阶段。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJWpOWuQxJDMGqIVoDgKEpYMUT1wiAAL8D2sb_fR4Vg6ueQABnmqFmgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074853384906264662#m)
+
+---
+
+## 2026-07-08 21:50:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+明天看来海公公要硬起来了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJGpOWuDC_vykQdZAsldX6ZrEeSPdAAL7D2sb_fR4Voxk1n_-Yh6_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074853711529275399#m)
 
 ---
 
