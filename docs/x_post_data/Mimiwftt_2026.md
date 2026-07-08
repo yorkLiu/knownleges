@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 176 条推文
+> 📊 推文存档 - 共 181 条推文
 
 ---
 
@@ -19,7 +19,7 @@ tags: ["2026"]
 
 股市里，真正让普通散户赚钱且体感最舒适的，只有单边趋势行情。其余大部分时间，少交易、控仓位、耐心等待，比频繁操作更重要。 看不懂的行情的，就更不要跟风跟票，死都不知道怎么死的！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_WpNlr2-qecgBIg7wxlkX1ICWU9nAALMEWsb_fRwVnBqnF_zK6pWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074638758486663358#m)
 
@@ -33,7 +33,7 @@ tags: ["2026"]
 
 今天喝喝茶，看看书，聊聊闲天。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_GpNlrm796SbJn_KD5XPfX4CdMARAALLEWsb_fRwVqdnGO7JRT4yAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074640656027562019#m)
 
@@ -47,7 +47,7 @@ tags: ["2026"]
 
 刚刷到大霄老师的暗语，应当是谨慎全球同步回落了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-2pNlrTspKuEGKCXEkUMmcebxAckAALKEWsb_fRwVsgHlTtdUhe4AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074643618711867677#m)
 
@@ -73,13 +73,13 @@ tags: ["2026"]
 
 昨天是上涨趋势线破位，看看这两天能不能收复！ 不能收复的话，下面的缺口附近支撑，如果缺口也撑不住，那就要去最下面一条紫色线。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_mpNrIBKGTJG1NBvcvp4uXZ_7zKXAALlEWsb_fRwVsc4bHN_fiH6AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF9mpNiCxH1OYkuhBHMeiTGumW7FlmAAJdD2sbmMRoVoH505ARz5fBAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF92pNiDCcDfsKBECMe4SIttmujV7sAAJeD2sbmMRoVg_tn3sbJWSnAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-GpNiDNhX6JV3BPvk5_ZJv1RBG0zAAJfD2sbmMRoVhqg64mX1H-kAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074667642758308206#m)
 
@@ -93,9 +93,9 @@ tags: ["2026"]
 
 银行拉冒烟了
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_2pNs8RtBcXXVL7YsRwXuiy-pb90AALtEWsb_fRwVjdvROTCfQGHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF1WpMpv6vT0yf6rkKvNx7pVL7CVeYAAIOEGsbmMRgVsIBHUumKIkYAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074674088711487821#m)
 
@@ -109,7 +109,7 @@ tags: ["2026"]
 
 闷声发大财不好吗
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGAmpNyZiDd8s4GjFivhrc7cuxCIKZAAIHEmsb_fRwViX6k8986B7BAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074696466527117726#m)
 
@@ -123,9 +123,9 @@ tags: ["2026"]
 
 6/28，恒科我给你们按摩的还算舒服吧？
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGAAFqTcmQ7JmG-5L2QPbffh84UguL3AACBRJrG_30cFbSsIvpZBZqiwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGAWpNyZSF9HvbSltEWfcNnqjviUoUAAIGEmsb_fRwVgNQve8wNyakAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074700353459896392#m)
 
@@ -139,7 +139,7 @@ tags: ["2026"]
 
 人形机器人板块的问题不大，和有色板块类似，只要没有有效突破前期高点，就会受到上方套牢盘的压制，向上突破的阻力较大，短期内较难快速走出突破单边上涨行情。因此，操作上建议以低吸潜伏为主，避免盲目追涨，耐心等待突破确认后再考虑加仓。 AI中下游的长期逻辑没有改变，依然是星辰大海。今天IT设备板块率先走强，也再次印证了资金对AI产业链的持续关注。未来，无论是AI应用还是其他细分方向，都有望复制AI硬件的主升走势。策略上，坚持低吸布局，不追涨。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGBGpN0NfWad3XiIb2-SWBA2gFozmmAAISEmsb_fRwVoPR5i81YMv5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074703447623127164#m)
 
@@ -153,7 +153,7 @@ tags: ["2026"]
 
 中报业绩行情通常持续性有限，很多机构都会提前埋伏，等业绩落地、利好兑现后便借机兑现收益，因此追高往往性价比不高。 更好的策略是，如果公司基本面优秀，并且看好三季报业绩能够延续高增长，那么就耐心等待股价回踩关键支撑位再分批低吸，而不是在业绩兑现阶段去给机构“接盘”。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGA2pN0NJVDm23Xb_5nUVfngw-usSaAAIREmsb_fRwVrafhqyzWVSMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074704182502912374#m)
 
@@ -191,7 +191,7 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 
 🤣🤣🤣🤣🤣🤣
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGBmpN2BzYUmAukGWnVOqrE-525PpRAAIbEmsb_fRwVpXKDeW7He9tAQADAgADbQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074712929774260497#m)
 
@@ -205,7 +205,7 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 
 该说的说完了，别再问了，再问可就不客气了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGBWpN2Bj_JB47iGac_4RpKOnZG7d5AAIaEmsb_fRwVqoUvqTmemmFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074717262502928822#m)
 
@@ -219,9 +219,9 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 
 诱多一波再砸！2065附近跳空缺口。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGB2pN32Ax_vG5UdP2IdFgSlHYh-3sAAIfEmsb_fRwVlEPeff1gb3EAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFmmpLJU0r_aimbRidEkccxsmZKhhkAAL5D2sb9e9YVvQ0W9PujS-2AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074720927032734165#m)
 
@@ -247,7 +247,7 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 
 美日韩已经不值得出镜了吗？
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGEGpOA7ZOSy8fyKOD0-LbfuricP-UAAJxEmsb_fRwVi1bTc8AAdpt4QEAAwIAA3gAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074762714141049164#m)
 
@@ -297,11 +297,85 @@ R to @Mimiwftt: 比如近期的人形机器人。早起买入的还能有收益�
 
 锂矿不能算低位啊！去年不是涨了一波了。 低位是已经跌回到去年4/7，大盘3040位置的老登。 锂矿属于中登，今天中登都是大跌，还有人形机器人。 250日线防守吧。破位就得先出来。因为月线有点儿丑。已经拐头向下了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGEWpOCvakHlin7h0sIl9nEcpnCZIKAAKMEmsb_fRwVvVm-lOA-C3uAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGEmpOCvry6gqkSiLO62DL67dRxXP7AAKNEmsb_fRwViS9UsOjtMwdAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074771650269315116#m)
+
+---
+
+## 2026-07-08 16:35:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+其实我一直压着你们不要追！5月份回来提示可以找机会埋伏机器人，等涨起来再追的确不合时宜。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFJGpHOoxkGEt9GqplZ9Ne0YkJ4OA2AAKCEGsbg2VBVhGTumVzPjEfAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074774295855899056#m)
+
+---
+
+## 2026-07-08 16:41:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+6/30，提示了大家这两周都是选股时间，观察时间，并不是交易时间。 耐心等待寻底筑底，主线清晰后再动手。 喝喝茶，跑跑网约车，送送外卖，赚点钱留着见底后补仓啊！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074775896645607934#m)
+
+---
+
+## 2026-07-08 16:51:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+迷茫的，追涨的，大周期趋势向下抄底被套的，认真读读吧！尽量做到知行合一。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE9mpGPEDxPKVZgG_yo-nMBA2hF8cmAALFEGsbg2U5VjulqoFtf1VvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE92pGPERoc8lmpxMXWhgS2bel-G1cAALGEGsbg2U5VjbV1c1iCRnSAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074778376951488819#m)
+
+---
+
+## 2026-07-08 16:54:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+反弹到压力位很多人会侥幸，觉得会不会再涨一下就解套了，只要你犹豫一下，立刻会被打回原形。25块附近高抛是对的。 尤其是做下跌趋势中的解套，不能心存侥幸。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGFWpOEknIuiZx8xg_tE_nOkDEnRBmAAKsEmsb_fRwVnvwaYG2hFAIAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE-mpGPEzY54AWfjBxNhxuUFhDPiq0AALJEGsbg2U5VnG9S8BnAY--AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE-2pGPE8moaz8Ajf8n2LB8Y-UiXqmAALKEGsbg2U5VsISJNG6S-YRAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074779105065927142#m)
+
+---
+
+## 2026-07-08 16:58:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+6/29也算是提醒到位了。都是过眼云烟。以后都别问个股了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGFGpOEkRI9sk2bWIG0F7_n35XIDeTAAKrEmsb_fRwVoBoDrNv8-wnAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074780170356146590#m)
 
 ---
 
@@ -1405,6 +1479,8 @@ RT by @Mimiwftt: @Mimiwftt 写了一个简洁的国内用户开通 X Premium 的
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073224985687281934#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-07-04 10:24:05
@@ -1419,6 +1495,8 @@ RT by @Mimiwftt: @Mimiwftt 写了一个简洁的国内用户开通 X Premium 的
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073231341471310122#m)
 
+---------------------------------------
+
 ---
 
 ## 2026-07-04 10:33:37
@@ -1432,6 +1510,8 @@ RT by @Mimiwftt: @Mimiwftt 写了一个简洁的国内用户开通 X Premium 的
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFSmpIekuA2d0VIvAQ0zh_YEB2rw6NAAK9EGsbC1FIVvKbVFz6B7jOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073233739837321249#m)
+
+------------------------------------
 
 ---
 
@@ -1473,6 +1553,8 @@ RT by @Mimiwftt: @Mimiwftt 写了一个简洁的国内用户开通 X Premium 的
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073242237371310272#m)
 
+------------------------------------
+
 ---
 
 ## 2026-07-04 11:12:15
@@ -1488,6 +1570,8 @@ RT by @Mimiwftt: @Mimiwftt 写了一个简洁的国内用户开通 X Premium 的
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFSWpIekcTJaf7kIlNivam0K1LzIbPAAK8EGsbC1FIVohk57HkcYPDAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073243465102885318#m)
+
+------------------------------------
 
 ---
 
@@ -1526,6 +1610,8 @@ R to @Mimiwftt: 不是让你们现在去宿迁哈。别傻了吧唧的。
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFS2pIkBKIFDfHqmZGGbEuhDlFyFS5AALWEGsbC1FIVpSXA4iiWy1VAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073265006289015083#m)
+
+------------------------------
 
 ---
 
@@ -1577,6 +1663,8 @@ R to @Mimiwftt: 转发扩散，让所以人不要相信任何打着我旗号收�
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073274411734782235#m)
 
+---------------------------
+
 ---
 
 ## 2026-07-04 13:28:21
@@ -1614,6 +1702,8 @@ R to @Mimiwftt: 转发扩散，让所以人不要相信任何打着我旗号收�
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFT2pIyjSlnhaF5dWhw5sd66H5AAHLqgACRRFrGwtRSFavdhTwdHPLTgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073322050295681217#m)
+
+---------------------
 
 ---
 
@@ -1665,6 +1755,8 @@ R to @Mimiwftt: 转发扩散，让所以人不要相信任何打着我旗号收�
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073342315025031492#m)
 
+---------------
+
 ---
 
 ## 2026-07-04 18:08:33
@@ -1680,6 +1772,8 @@ R to @Mimiwftt: 转发扩散，让所以人不要相信任何打着我旗号收�
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFVWpI4Ar6tRVJWd34SpsUZpI3RGdlAAJiEWsbC1FIVgxmOIRd9g8BAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073348227936686344#m)
+
+------------
 
 ---
 
@@ -1709,6 +1803,8 @@ R to @Mimiwftt: 没必要扎堆，选择自己喜欢玩儿即可。盈亏自负�
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073352860948140393#m)
 
+------------
+
 ---
 
 ## 2026-07-04 18:40:00
@@ -1723,6 +1819,8 @@ R to @Mimiwftt: 没必要扎堆，选择自己喜欢玩儿即可。盈亏自负�
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073356145151144285#m)
 
+---------
+
 ---
 
 ## 2026-07-04 18:54:47
@@ -1736,6 +1834,8 @@ R to @Mimiwftt: 没必要扎堆，选择自己喜欢玩儿即可。盈亏自负�
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFWGpI7oIH10ErA_ClhEA_FqSX13sNAAJ-EWsbC1FIVlu4FnylGHWfAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2073359864785768951#m)
+
+------
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 263 条推文
+> 📊 推文存档 - 共 264 条推文
 
 ---
 
@@ -19,7 +19,7 @@ tags: ["2026"]
 
 This is the average visual TA bro, takes a 50% 50% coinflip: If it goes the other way, they say "ABC Pattern Invalidated", should have known... If they get the coinflip right, they promote their $40/month chart. -> People drawing swiggly lines over KOSPI mean nothing where it heads. When it's primarily Samsung/SK Hynix and forward operating income growth from DRAM/NAND. -> The swiggly drawing over $SIVE, $AEHR, and others mean nothing. When it's primarily hyperscaler suppliers, thematic premiums, and volume ramp orders determining valuations. Then if something randomly goes from $1 to $60 like $AXTI, they claim they spotted it with their "Golden Egg Dragon Candle", while ignoring anything with InP substrate and otpical demand. There's rare times like these where it's a massive sector drop all together. But now the TA bros are showing up everywhere saying here's a $40 course on how they predicted it with swiggly lines.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF72pNMPT8BPLZ1siX8Qzhue29T-s_AAITD2sbmMRoVoWILQGZisF8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074533565505876218#m)
 
@@ -33,7 +33,7 @@ This is the average visual TA bro, takes a 50% 50% coinflip: If it goes the othe
 
 How is the US so far behind? Xinhua: China's output of humanoids are expected to hit 100,000+ this year. Even Morgan Stanley originally projected 14,000 for 2026... Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. Cause this disparity between US vs. China mass production is getting ridiculous... But it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF8mpNP3w_1ZmJQzjDtSM9JkMM9EkZAAIlD2sbmMRoVrXXsqjmkglQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074548850996707412#m)
 
@@ -47,7 +47,7 @@ How is the US so far behind? Xinhua: China's output of humanoids are expected to
 
 Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing: Spokesperson: "Meta is still hungry for even more computing power. It is still moving forward with plans for expensive new data centers and recently inked major computing deals with $CRVW, Google, $ORCL, and others." Just dropped that in with the Meta Muse announcement, and evenn threw in the "expensive" framing with DCs to signal capex. But little late given we're likely seeing a lot of margin liquidation cascades and heavy losses from media framing earlier.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF82pNTgVJ_zGylb5tAfk0vlnskAVVAAIwD2sbmMRoVs1FpM7TDlZmAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074568161299771394#m)
 
@@ -61,9 +61,23 @@ Just Bloomberg and $META doing damage control after crashing the market with Met
 
 Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out. Since there were warnings that: Sensors could be disabled or exploited remotely, given Hesai firmware update disabled lidar units on February 29 (as evidence). By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF9GpNXI188pueQyGle0X8p2R-pKxBAAJCD2sbmMRoVk7ltZ2UTxqJAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074581698604593367#m)
+
+---
+
+## 2026-07-08 16:42:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Trump: Memorandum of Understanding with Iran “is over” “It’s a waste of time dealing with them,” Trump said at the NATO summit. Always an exciting time with markets.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGE2pOEjwnW4WKoJiI_pBZPR0JqDmrAAKqEmsb_fRwVv8n7z4E2aA_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074776109074583565#m)
 
 ---
 
