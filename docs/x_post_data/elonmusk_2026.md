@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 986 条推文
+> 📊 推文存档 - 共 989 条推文
 
 ---
 
@@ -109,7 +109,7 @@ R to @elonmusk: Image
 
 RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency. https://x.ai/news/grok-4-5
 
-<img src="/images/elonmusk/amplify_video_thumb_2074912187391610880_img_BliQqOpmregZ5fSo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/SpaceXAI/status/2074915721684086811#m)
 
@@ -123,9 +123,37 @@ RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for c
 
 RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class model that's fast and low cost. It's a significant step up over any model we've developed so far, including Composer 2.5, and has become the daily driver for many on our team. First of many releases. More soon.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGK2pOqtAzvP8T3yjaFxMUMdLUQMJuAAJuEGsb_fR4VujVO0qIojgvAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/mntruell/status/2074916251743457787#m)
+
+---
+
+## 2026-07-09 02:12:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it now
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGLWpOshgAAWV-ELRozMfLVUjv8rxy-AACcxBrG_30eFZSTw7y5e8yFgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2074919573611237883#m)
+
+---
+
+## 2026-07-09 02:59:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Gang Inquiry" report. "The genesis of the rape gangs was this multicultural invasion of Europe. They wanted open borders." "We've estimated a minimum of a quarter million rapes have taken place. It's probably much, much more." "A lot of these girls were impregnated and forced to convert to Islam." "These are properly organized gangs who are grooming and abusing young girls, as young as ten, and then literally trafficking them around the country." "There's a cultural difference of opinion between an open high-trust Christian view of women and the Islamic view of women." "They're predominantly from Pakistan and from one part called Mirpur. There are some from Bangladesh, Somalia, and Eritrea. There are other Muslim countries that perpetrate some of this and of course there are white people who perpetrate rape as well, but nothing on the scale of this." "The state knows this is happening, but they don't want to admit that their multicultural experiment has failed. They don't want to be called racist. People are frightened to be accused of effectively being biased and white due to all of the woke DEI rubbish that has permeated the whole of British society." @joerogan @RupertLowe10 Full interview below ↓
+
+<img src="/images/elonmusk/amplify_video_thumb_2074929135013777408_img_qeixETGak8HXDyY3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/KanekoaTheGreat/status/2074931504921350242#m)
 
 ---
 
@@ -137,7 +165,7 @@ RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class 
 
 Try out Grok 4.5 in Cursor!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGK2pOqtAzvP8T3yjaFxMUMdLUQMJuAAJuEGsb_fR4VujVO0qIojgvAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074931787533328622#m)
 
@@ -152,6 +180,20 @@ Try out Grok 4.5 in Cursor!
 Try out Grok 4.5 in Vercel!
 
 [查看原文](https://nitter.net/elonmusk/status/2074932046632267901#m)
+
+---
+
+## 2026-07-09 04:07:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Artificial Analysis assessment
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGLGpOshVyX51yAAGAYgbReX0S3ibengACchBrG_30eFaZtjLPCjJ5WgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074948489792860456#m)
 
 ---
 
