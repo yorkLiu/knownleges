@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 212 条推文
+> 📊 推文存档 - 共 218 条推文
 
 ---
 
@@ -224,6 +224,82 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGAWpNyZSF9HvbSltEWfcNnqjviUoUAAIGEmsb_fRwVgNQve8wNyakAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074700353459896392#m)
+
+---
+
+## 2026-07-08 11:53:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+人形机器人板块的问题不大，和有色板块类似，只要没有有效突破前期高点，就会受到上方套牢盘的压制，向上突破的阻力较大，短期内较难快速走出突破单边上涨行情。因此，操作上建议以低吸潜伏为主，避免盲目追涨，耐心等待突破确认后再考虑加仓。 AI中下游的长期逻辑没有改变，依然是星辰大海。今天IT设备板块率先走强，也再次印证了资金对AI产业链的持续关注。未来，无论是AI应用还是其他细分方向，都有望复制AI硬件的主升走势。策略上，坚持低吸布局，不追涨。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGBGpN0NfWad3XiIb2-SWBA2gFozmmAAISEmsb_fRwVoPR5i81YMv5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074703447623127164#m)
+
+---
+
+## 2026-07-08 11:56:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+中报业绩行情通常持续性有限，很多机构都会提前埋伏，等业绩落地、利好兑现后便借机兑现收益，因此追高往往性价比不高。 更好的策略是，如果公司基本面优秀，并且看好三季报业绩能够延续高增长，那么就耐心等待股价回踩关键支撑位再分批低吸，而不是在业绩兑现阶段去给机构“接盘”。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGA2pN0NJVDm23Xb_5nUVfngw-usSaAAIREmsb_fRwVrafhqyzWVSMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074704182502912374#m)
+
+---
+
+## 2026-07-08 11:59:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧，这里大涨的时候可不能追。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074705018402541805#m)
+
+---
+
+## 2026-07-08 12:08:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+如果以后还想持续赚钱，就尽量不要到处提及我分享过的个股。你赚到钱可以自己默默开心，但没必要四处展示，因为一旦传播开来，跟风追进去的人只会越来越多，最终反而容易打乱节奏。虽然不会影响中长期趋势，但短期会洗到你怀疑人生。 其实这一点我自己也一直在反思，所以以后我也不会再频繁展示个股了。 我希望我的每一位粉丝，都能变得越来越有城府，耐得住回撤，守得住仓位，扛得住下跌，也享受得了财富。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074707104556777623#m)
+
+---
+
+## 2026-07-08 12:09:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+以后不再公开给你们策略了。有能力的自己做，没能力的先学习。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074707330432942475#m)
+
+---
+
+## 2026-07-08 12:11:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+也不单单是这个因素，众诚上方还有套牢，宿迁上方干净，该拉升的后期都会拉升，短期洗的节奏轻重就不好说了。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074707973977567392#m)
 
 ---
 
