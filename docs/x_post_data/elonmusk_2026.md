@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 976 条推文
+> 📊 推文存档 - 共 982 条推文
 
 ---
 
@@ -19,7 +19,7 @@ tags: ["2026"]
 
 Correct
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJmpOfzVdDY4ZTjuEJ8sn2ypBtvXtAAI2EGsb_fR4VqFP31ODkYLvAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/elonmusk/status/2074889665119740341#m)
 
@@ -34,6 +34,70 @@ Correct
 R to @elonmusk: We will continue to make refinements to the Grok Build harness and the 1.5T foundation model almost every day in response to user requests. The 2T model will finish training this month and be available to customers next month.
 
 [查看原文](https://nitter.net/elonmusk/status/2074893922812252354#m)
+
+---
+
+## 2026-07-09 01:31:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+An inspiring vision of the future is needed
+
+[查看原文](https://nitter.net/elonmusk/status/2074909335914762458#m)
+
+---
+
+## 2026-07-09 01:33:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Critical feedback is always appreciated
+
+[查看原文](https://nitter.net/elonmusk/status/2074909712663921122#m)
+
+---
+
+## 2026-07-09 01:38:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive. We are closing the loop on real-world usefulness, not benchmarks. Hardcore engineers at Tesla & SpaceX find Grok 4.5 genuinely useful, which is what actually matters.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGKGpOjcJNKRx1D8tzk3SBycbLsq81AAJZEGsb_fR4VqiIu7F0FjUfAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074911038286295049#m)
+
+---
+
+## 2026-07-09 01:42:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat message if a post you interacted with is corrected
+
+[查看原文](https://nitter.net/elonmusk/status/2074912099554201969#m)
+
+---
+
+## 2026-07-09 01:43:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: Image
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJ2pOjb8fY0IyuhUNYKp1QkxUXaulAAJYEGsb_fR4Vhg4JmNDcMbjAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074912266961527141#m)
 
 ---
 
@@ -170,6 +234,22 @@ Based on strong positive feedback from customers in our beta test program, @Spac
 RT by @elonmusk: Has been my regular work horse for weeks. Impressive indeed.
 
 [查看原文](https://nitter.net/yunta_tsai/status/2074750291229159794#m)
+
+---
+
+## 2026-07-08 17:54:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: There was literally a Bolshevik takeover of the Smithsonian. Democrats can never be allowed to take power again.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGKWpOjcehRb6lxG3av0ZahQbGmfLFAAJaEGsb_fR4VjMj00otWwzVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGKmpOjcuID_AqHqwYz_EOmz3i-DvzAAJbEGsb_fR4VhaLeAU4lS2PAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Oilfield_Rando/status/2074794247170019539#m)
 
 ---
 
