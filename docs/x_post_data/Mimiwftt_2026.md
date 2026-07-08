@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 220 条推文
+> 📊 推文存档 - 共 221 条推文
 
 ---
 
@@ -328,6 +328,22 @@ R to @Mimiwftt: 不会直接V起来的。没参与的等回落，或者做右侧
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGBWpN2Bj_JB47iGac_4RpKOnZG7d5AAIaEmsb_fRwVqoUvqTmemmFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074717262502928822#m)
+
+---
+
+## 2026-07-08 13:03:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+诱多一波再砸！2065附近跳空缺口。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGB2pN32Ax_vG5UdP2IdFgSlHYh-3sAAIfEmsb_fRwVlEPeff1gb3EAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFmmpLJU0r_aimbRidEkccxsmZKhhkAAL5D2sb9e9YVvQ0W9PujS-2AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074720927032734165#m)
 
 ---
 
