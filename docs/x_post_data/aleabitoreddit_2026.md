@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 265 条推文
+> 📊 推文存档 - 共 266 条推文
 
 ---
 
@@ -89,9 +89,23 @@ Trump: Memorandum of Understanding with Iran “is over” “It’s a waste of 
 
 Trump: “Spain is a terrible partner in NATO. They don't participate. They don't pay. Cut off all trade with Spain” Tbh no clue what’s going on anymore…
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGIWpOKBXusM2WCGtwbBSzPXOXsnSlAAIaD2sb_fR4VluMPkAH3IOTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074799339680202869#m)
+
+---
+
+## 2026-07-08 20:49:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Blue Origin reportedly raising $10B at a $130B valuation per NYT. Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. If SpaceX and Blue Origin is able to set such high valuations.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGI2pOTFmrQopNPTU-CHDSStd0bIA-AALTD2sb_fR4VqIp8aCA8BHDAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2074838397341065516#m)
 
 ---
 
