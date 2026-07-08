@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 149 条推文
+> 📊 推文存档 - 共 150 条推文
 
 ---
 
@@ -22,6 +22,18 @@ tags: ["2026"]
 <img src="/images/dianzhuXS/amplify_video_thumb_2074633657911001088_img_6-GMyOUpTlqPilER.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/dianzhuXS/status/2074634310297301396#m)
+
+---
+
+## 2026-07-08 08:28:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+事實證明～ 牆人的意識關係網，會像「粘痰」一樣，把所有與之產生交集的人事物，牢牢的粘在災難之中。 所以，聰明人早就佈局【遠離牆人】
+
+[查看原文](https://nitter.net/dianzhuXS/status/2074651750741815483#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 207 条推文
+> 📊 推文存档 - 共 208 条推文
 
 ---
 
@@ -146,6 +146,18 @@ tags: ["2026"]
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-2pNlrTspKuEGKCXEkUMmcebxAckAALKEWsb_fRwVsgHlTtdUhe4AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/Mimiwftt/status/2074643618711867677#m)
+
+---
+
+## 2026-07-08 08:29:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+弱势方向在6月底差不多有一些已经见了历史大底的不用过于担心，无非是继续回落低吸。绝不能追涨。 强势股高位一旦走弱绝不能低吸，最好等强势扭转，否则仅仅是下跌的开始。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2074652179995169081#m)
 
 ---
 
