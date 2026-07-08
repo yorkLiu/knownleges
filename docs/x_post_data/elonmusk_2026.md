@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 965 条推文
+> 📊 推文存档 - 共 973 条推文
 
 ---
 
@@ -39,9 +39,105 @@ RT @IterIntellectus:
 
 ---
 
-## 2026-07-07 00:07:32
+## 2026-07-08 01:11:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: With full autonomy and maximized ride-hailing, Cybercab is projected to nearly halve emissions per mile compared to Model 3 + Model Y Also, a personal car sits parked ~95% of the time. Cybercab keeps driving, doing the work of several cars. This means fewer cars needed, more people moved, less emissions overall
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGCWpN9SkO21b45tMAAWoAAXGHmOZJpRQAAkkSaxv99HBWepwrNxrecFQBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Tesla/status/2074541754527920453#m)
+
+---
+
+## 2026-07-08 04:23:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Read if you want to understand why medias are demonizing Elon
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGDGpN9TYfBMhQAAGHVakCPiev92zXSwACTBJrG_30cFYGl5XcwmJwcAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/brivael/status/2074590080144924779#m)
+
+---
+
+## 2026-07-08 04:40:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX says over 90% of its future market is AI, not space. @DMaguireARK, ACA breaks down what that means: orbital data centers, a potential $28.5 trillion Total Addressable Market (TAM), and why Starship is the only vehicle that can get there.
+
+<img src="/images/elonmusk/amplify_video_thumb_2074587229511426048_img_NY02cFjy5mG0N4ya.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ARKInvest/status/2074594301493874896#m)
+
+---
+
+## 2026-07-08 08:17:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: With just one year in orbit, the first FireSat satellite has already spotted wildfires invisible to existing satellites. After a successful launch early this morning, 3 more satellites joined the constellation, bringing us one step closer to our ultimate goal of near real-time wildfire updates every 20 minutes. Thanks to @EarthFireAll @MuonSpace @MooreFound @BezosEarthFund for the partnership, & @SpaceX for the ride up!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGCmpN9S098gS0mo_yvWhnSviXWmtYAAJKEmsb_fRwVqoiWM9HQEBRAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/sundarpichai/status/2074649108414107727#m)
+
+---
+
+## 2026-07-08 14:13:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2071934765486227456_img_dSPxhlg5Fuq-Wisk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074738585727590547#m)
+
+---
+
+## 2026-07-08 14:15:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+America, the Beautiful
+
+<img src="/images/elonmusk/amplify_video_thumb_2074586724491984896_img_zjcxx1gbcOM_zJSD.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2074739056697610504#m)
+
+---
+
+## 2026-07-08 14:21:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.
+
+[查看原文](https://nitter.net/elonmusk/status/2074740539874775163#m)
+
+---
+
+## 2026-07-07 00:07:32
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -55,7 +151,7 @@ RT by @elonmusk: DRIVE-BY MEDIA: Most Americans believe that black women are pri
 
 ## 2026-07-07 01:32:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -67,7 +163,7 @@ RT by @elonmusk: If you want to start a startup, don't learn "entrepreneurship."
 
 ## 2026-07-07 03:18:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -83,7 +179,7 @@ RT by @elonmusk: Image
 
 ## 2026-07-07 03:29:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -97,7 +193,7 @@ RT by @elonmusk: We are now @SpaceXAI.
 
 ## 2026-07-07 05:27:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -111,7 +207,7 @@ RT by @elonmusk: Our 17th Transporter rideshare mission is targeted to launch to
 
 ## 2026-07-07 07:06:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -125,7 +221,7 @@ RT by @elonmusk: Grok Imagine ❤️
 
 ## 2026-07-07 09:31:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -139,7 +235,7 @@ Video
 
 ## 2026-07-07 11:45:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -153,7 +249,7 @@ True
 
 ## 2026-07-07 11:46:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -167,7 +263,7 @@ AI+Optimus will enable universal excellent healthcare that is better than anyone
 
 ## 2026-07-07 11:57:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -181,7 +277,7 @@ RT by @elonmusk: Grok Voice just got a major upgrade SpaceXAI released 21 new fl
 
 ## 2026-07-07 12:50:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -195,7 +291,7 @@ Video
 
 ## 2026-07-07 14:23:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -209,7 +305,7 @@ Grok Imagine update
 
 ## 2026-07-07 14:41:37
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -223,7 +319,7 @@ RT by @elonmusk: Image
 
 ## 2026-07-07 15:23:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -237,7 +333,7 @@ RT by @elonmusk: Falcon 9 landing confirmed
 
 ## 2026-07-07 19:59:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -251,7 +347,7 @@ RT by @elonmusk: 𝕏 was the 6th most visited website in the world last month. 
 
 ## 2026-07-07 21:33:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -267,7 +363,7 @@ RT by @elonmusk: 2023: “Twitter rebrand to X is destined to fail.” 2026: “
 
 ## 2026-07-07 22:40:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -281,7 +377,7 @@ RT by @elonmusk: Americans have had enough of the bottom 2% of society ruining o
 
 ## 2026-07-07 23:05:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -293,9 +389,23 @@ RT by @elonmusk: Americans have had enough of the bottom 2% of society ruining o
 
 ---
 
+## 2026-07-07 23:27:44
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: The Woke Mind Virus in the UK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGC2pN9TEyBOaWBHVVqe3NZXgKINyAAAJLEmsb_fRwVmUCTfhlPEHAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheRabbitHole/status/2074515717731598473#m)
+
+---
+
 ## 2026-07-07 23:44:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -313,7 +423,7 @@ Falcon delivers 81 satellites to orbit
 
 ## 2026-07-07 23:47:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -331,7 +441,7 @@ We’re gonna need a bigger rocket! (Starship)
 
 ## 2026-07-07 23:50:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -343,7 +453,7 @@ Why did the media push this lie so hard?
 
 ## 2026-07-07 23:51:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +467,7 @@ Video
 
 ## 2026-07-07 23:58:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
