@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 269 条推文
+> 📊 推文存档 - 共 270 条推文
 
 ---
 
@@ -18,6 +18,8 @@ tags: ["2026"]
 **内容**:
 
 Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. And they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes. I see it as long term ownership over: - the next hyperscaler with $NBIS, projecting $7-9B ARR Q4 - 40% of the InP supply chain with $AXTI - leader of the next optical shift with $SIVE with CW DFB lasers - leader of US humanoids with $CCXI inside a future trillion dollar theme And so on… At cheaper valuations. While I might do things like lowering margin or hedging with my own portfolio, I’m personally not panicking when something drops if the thesis didn’t change. NFA and obviously depends on people’s investing timeframes: Since a crash would be life changing for people that depend on investing for rent or tuition. (Which is why I personally think others should do their own DD and choose longs in line with their own risk profile) But my personal goal is maximizing exposure to the next-gen supercycles before they hit. I think institutions think the same way as well, which is why there’s a lot of induced volatility along the way to maximize their exposure. If a thesis ends up correct, the valuation should be reflected in the long run.
+
+
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074951295027568736#m)
 
@@ -31,10 +33,6 @@ Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” wh
 
 $META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute”as overbuilding and cutting capex.
 
-
-
-[查看原文](https://nitter.net/aleabitoreddit/status/2074965761345642660#m)
-
 ---
 
 ## 2026-07-09 06:08:52
@@ -45,13 +43,21 @@ $META to build a new $10B DC in Canada to expand AI capacity. So much for the me
 
 Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5. That’s much more cost efficient as well… Kinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth among US companies recently) Never doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOWpOz0QV2lMSqzQGswzvD_p1-iX_AAKGEGsb_fR4ViV3X9pIrjOaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOmpOz0fqLePdZ6Ga6M1L2jH_6RTlAAKHEGsb_fR4Vt5RGDwljgABbAEAAwIAA3kAAzwE.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-09 20:46:14
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGO2pOz0nKIrwbmimPf7mjUgnuRkhBAAKIEGsb_fR4VtERubMDaqZmAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2074979055410266452#m)
+**内容**:
+
+Nothing like an internal $META memo getting published. Showing AI ramping as usual: - LTAs signed with Samsung and $SNDK for memory - LTAs signed with Sumitomo Electric for fiber optics - Expected to deploy 7GW compute infra this year, and doubling in 2027. - as much as $145B capex spend this year “It plans to launch a chip about every six months through 2027”
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGcmpPnEEt8BZeU2WEmPpLXYKGK9HVAAJ5EmsbWkeBVjBsVVza4vJmAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGc2pPnEXouR7Gadcro-ARbWFYQP6dAAJ6EmsbWkeBVtsGq2-xRszeAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2075199849507762279#m)
 
 ---
 
