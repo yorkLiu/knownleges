@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 217 条推文
+> 📊 推文存档 - 共 219 条推文
 
 ---
 
@@ -289,10 +289,6 @@ Winner Winner Chicken Dinner
 
 提前说不要去追了哈。已经在走加速了⏩
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGcWpPhodRUf5cRyKhNQ1iNoCbeCbKAALGEmsb_fSAVhssV80ctG69AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075156997239157229#m)
-
 ---
 
 ## 2026-07-09 18:03:18
@@ -302,12 +298,6 @@ Winner Winner Chicken Dinner
 **内容**:
 
 我跟她说过，正如我4月1日说的一模一样。 但她应该没买🤣🤣🤣🤣🤣🤣🤣
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGb2pPhoB5Qlu3Es8QmG54WfxVUe8PAALEEmsb_fSAVsNl_4kXVdXhAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGcGpPhoSwGxUSc0jsTx5NHCm1LNigAALFEmsb_fSAVgmrW1xsL4sZAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075158849041113092#m)
 
 ---
 
@@ -319,8 +309,6 @@ Winner Winner Chicken Dinner
 
 你知道人形机器人消息面出来后为什么会大跌吗？ 因为不能“装逼”了。🤣🤣🤣🤣🤣
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075161643424886843#m)
-
 ---
 
 ## 2026-07-09 18:20:39
@@ -330,8 +318,6 @@ Winner Winner Chicken Dinner
 **内容**:
 
 R to @Mimiwftt: 包括我对大盘，板块，以及一些逻辑分析，都是需要用时间去验证的，不要只看了1-2天就来判断。
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075163213092843570#m)
 
 ---
 
@@ -343,12 +329,6 @@ R to @Mimiwftt: 包括我对大盘，板块，以及一些逻辑分析，都是�
 
 4/1当她否认我的东岳我就不想再多说话了。🤣 然后她很自信地选了一个当天大涨的东方电气跟我说不错，你们就知道我姑姑的水平了吧。🤣 老股民很多时候保留的都是亏钱模式，我跟她交流过，但是岁数大了真的很难改正。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGbWpPhnmSqHnHe5w9FobsNQSgs4TFAALCEmsb_fSAVoZMUwfjw4ODAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGbmpPhn3LMXyAFXkNhjFBFw89OLufAALDEmsb_fSAVjMzG677nyWGAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075165621994889486#m)
-
 ---
 
 ## 2026-07-09 19:28:13
@@ -359,9 +339,45 @@ R to @Mimiwftt: 包括我对大盘，板块，以及一些逻辑分析，都是�
 
 晚安💤
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGbGpPhnaXZ5BieIfToxEhGDtEqysIAALBEmsb_fSAVhnbb4N-4cwzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075180216692232544#m)
+## 2026-07-09 22:16:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @Mimiwftt: 一共8页，评论还有4页
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ll0281820461169/status/2075222583042359642#m)
+
+---
+
+## 2026-07-09 23:46:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @Mimiwftt: 一共6张
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGiGpQAf43rpeZZEkFOWBvd7dJsATcAAIvE2sbWkeBVtMJqvj_5Oq2AQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGiWpQAgM_TAYxEPKm4Q9DGH6M4-WpAAIxE2sbWkeBVpHyEDNCCLJ_AQADAgADeQADPAQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGimpQAgeW7a8Vk2HGHsQxQjnO8w88AAIyE2sbWkeBVgbxk3S8ohByAQADAgADeQADPAQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGi2pQAguErWwrFV9aNoquJb2oeSadAAIzE2sbWkeBVs8CRhqMN1beAQADAgADeQADPAQ.png" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/gdouble_iloveu/status/2075245328706699554#m)
 
 ---
 
