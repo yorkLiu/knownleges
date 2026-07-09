@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 164 条推文
+> 📊 推文存档 - 共 165 条推文
 
 ---
 
@@ -129,15 +129,27 @@ AI雖好，但還是得看誰用 目前它還只是個工具而已 嗯哼，畫�
 
 脆上小辯論 對方還是有搜資料能力的 所以多說了兩句 您就說精不精彩就完事了
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdGpPo4eQeqoiQB3G3kOqPD8Ctja4AAKMEmsbWkeBViQhEbGBH-bLAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdWpPo4s06_YbeE3j88qBgoIbsE6jAAKNEmsbWkeBVqw68XI45ybXAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-09 21:36:42
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdmpPo44emGQjnxYZ-V4_GyTPyC77AAKOEmsbWkeBVvchh96k5o9MAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGd2pPo5Li9UvpSlmrzJ5-mTy2N6sFAAKPEmsbWkeBVqfAKbZSBnkDAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075206947712958753#m)
+對方已瘋🤭🤭🤭
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGeWpPqs46XxlC-QGTjOaoQi38lo_6AAKdEmsbWkeBVhqF-BzfAriHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdGpPo4eQeqoiQB3G3kOqPD8Ctja4AAKMEmsbWkeBViQhEbGBH-bLAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdWpPo4s06_YbeE3j88qBgoIbsE6jAAKNEmsbWkeBVqw68XI45ybXAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdmpPo44emGQjnxYZ-V4_GyTPyC77AAKOEmsbWkeBVvchh96k5o9MAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGd2pPo5Li9UvpSlmrzJ5-mTy2N6sFAAKPEmsbWkeBVqfAKbZSBnkDAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075212552393678888#m)
 
 ---
 
