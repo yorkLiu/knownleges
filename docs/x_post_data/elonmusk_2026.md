@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1045 条推文
+> 📊 推文存档 - 共 1047 条推文
+
+---
+
+## 2026-07-10 00:16:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: The 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week Next model: The 2T foundation model is expected to finish training this month and become available to customers next month Grok Build: The harness is getting refinements almost every day based on user feedback. New features, fixes, and workflow improvements are landing at ridiculous speed Inference: SpaceXAI is working on internally developed C/C++ inference mapped directly to GB300 hardware, which could double speed or more Agentic Imagine: Grok will be able to call Imagine as a tool in agentic mode for image and video generation That is going to be huge for game developers, designers, builders, and anyone creating interactive worlds But the biggest thing is this: Grok is being built for real-world engineering Grok 4.5 early beta access was given to Tesla and SpaceX engineers, with feedback coming from real engineering teams solving real-world problems Next month’s release is expected to be another massive step-change improvement as SpaceXAI closes the loop on real-world engineering problems at Tesla, SpaceX, Neuralink, and Boring Company And from now through the end of 2026, Elon said a new from-scratch foundation model is expected to ship every month
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGhmpP7DHeM3ibYs2hTD85WKuOVlTBAAIdE2sbWkeBVuB-BFSf_8dUAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2075252689529983026#m)
 
 ---
 
@@ -39,10 +53,6 @@ California has legalized election fraud
 
 Consistent with the simulation hypothesis. Like a video game, objects are randomly generated, with positional certainty only when observed.
 
-<img src="/images/elonmusk/amplify_video_thumb_2075070950643499008_img_y6uKSPxJdCYEFMLN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075259819154341957#m)
-
 ---
 
 ## 2026-07-10 00:49:42
@@ -53,15 +63,19 @@ Consistent with the simulation hypothesis. Like a video game, objects are random
 
 Image
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGgGpP3aajZrcHGiDa0DKUViC8n2mEAAINE2sbWkeBVsyoyuBdv7QoAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGgWpP3aljHcrS9mELHg-cXIlCIy5YAAIOE2sbWkeBVjuCC5IdOZ4LAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 02:18:03
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGgmpP3a3Q1k_1BBhdnBulZmyveMj2AAIPE2sbWkeBVu2g3Wz2rouhAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGg2pP3bG53Zz_YLStpkYZCGtgwk49AAIQE2sbWkeBVpKcY-ci95zkAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/elonmusk/status/2075261123264164276#m)
+Try @Grok 4.5!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGhWpP7C5DB0aQogxkGmqJaxwckWqzAAIcE2sbWkeBVrdmMbv_CFaFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075283356439257417#m)
 
 ---
 
