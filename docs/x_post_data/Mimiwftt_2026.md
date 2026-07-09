@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 211 条推文
+> 📊 推文存档 - 共 217 条推文
 
 ---
 
@@ -279,11 +279,89 @@ Winner Winner Chicken Dinner
 
 盘后一大堆新能源的消息面。看来想给新能源回回血。 今天看到天赐盘后中报同比业绩大增，但Q2环比有所下降短期谨慎观察250日线支撑的有效性。前期高位走掉的，暂时先不要进。再观察观察。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGampPb0KNzmw_49vGFdrTm5rMbCBNAAKIEmsb_fSAVsGHMxf4QnjnAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGa2pPb0Yh6pqFrzBip0lZHtkzUANgAAKJEmsb_fSAVqLtF6-zeg69AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-09 17:55:57
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075146818661621771#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+提前说不要去追了哈。已经在走加速了⏩
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGcWpPhodRUf5cRyKhNQ1iNoCbeCbKAALGEmsb_fSAVhssV80ctG69AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075156997239157229#m)
+
+---
+
+## 2026-07-09 18:03:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我跟她说过，正如我4月1日说的一模一样。 但她应该没买🤣🤣🤣🤣🤣🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGb2pPhoB5Qlu3Es8QmG54WfxVUe8PAALEEmsb_fSAVsNl_4kXVdXhAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGcGpPhoSwGxUSc0jsTx5NHCm1LNigAALFEmsb_fSAVgmrW1xsL4sZAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075158849041113092#m)
+
+---
+
+## 2026-07-09 18:14:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你知道人形机器人消息面出来后为什么会大跌吗？ 因为不能“装逼”了。🤣🤣🤣🤣🤣
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075161643424886843#m)
+
+---
+
+## 2026-07-09 18:20:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: 包括我对大盘，板块，以及一些逻辑分析，都是需要用时间去验证的，不要只看了1-2天就来判断。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075163213092843570#m)
+
+---
+
+## 2026-07-09 18:30:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+4/1当她否认我的东岳我就不想再多说话了。🤣 然后她很自信地选了一个当天大涨的东方电气跟我说不错，你们就知道我姑姑的水平了吧。🤣 老股民很多时候保留的都是亏钱模式，我跟她交流过，但是岁数大了真的很难改正。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGbWpPhnmSqHnHe5w9FobsNQSgs4TFAALCEmsb_fSAVoZMUwfjw4ODAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGbmpPhn3LMXyAFXkNhjFBFw89OLufAALDEmsb_fSAVjMzG677nyWGAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075165621994889486#m)
+
+---
+
+## 2026-07-09 19:28:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+晚安💤
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGbGpPhnaXZ5BieIfToxEhGDtEqysIAALBEmsb_fSAVhnbb4N-4cwzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075180216692232544#m)
 
 ---
 
