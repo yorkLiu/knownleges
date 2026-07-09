@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 163 条推文
+> 📊 推文存档 - 共 164 条推文
 
 ---
 
@@ -119,7 +119,25 @@ AI雖好，但還是得看誰用 目前它還只是個工具而已 嗯哼，畫�
 
 【神棍說兩句幹貨】 中國的「國」字是「張冠李戴」。這個字至少唐朝時，在『開元占經』中通「過」。上古行周天三百六，以十二為節律週期，一過（國）為三十度。 後世，開國皇帝稍微懂一點，不是文盲的，都沒有稱自己的社稷為「國」的。大秦，大漢，大唐，大宋，大明，大清⋯⋯沒有說秦國，漢國，唐國，宋國，明國的，清朝末年才有說「大清國」的，來大家討論下，是不是這個理兒？
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075157253905428646#m)
+---
+
+## 2026-07-09 21:14:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+脆上小辯論 對方還是有搜資料能力的 所以多說了兩句 您就說精不精彩就完事了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdGpPo4eQeqoiQB3G3kOqPD8Ctja4AAKMEmsbWkeBViQhEbGBH-bLAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdWpPo4s06_YbeE3j88qBgoIbsE6jAAKNEmsbWkeBVqw68XI45ybXAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGdmpPo44emGQjnxYZ-V4_GyTPyC77AAKOEmsbWkeBVvchh96k5o9MAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGd2pPo5Li9UvpSlmrzJ5-mTy2N6sFAAKPEmsbWkeBVqfAKbZSBnkDAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075206947712958753#m)
 
 ---
 
