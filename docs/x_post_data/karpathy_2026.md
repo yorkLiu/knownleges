@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @karpathy
 
-> 📊 推文存档 - 共 28 条推文
+> 📊 推文存档 - 共 29 条推文
+
+---
+
+## 2026-07-09 05:47:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust
+
+<img src="/images/karpathy/card_img_2074973592610361344_qFZWff4P3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/jarredsumner/status/2074973674332123157#m)
 
 ---
 
