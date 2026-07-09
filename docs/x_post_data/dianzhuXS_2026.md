@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 154 条推文
+> 📊 推文存档 - 共 155 条推文
 
 ---
 
@@ -29,9 +29,19 @@ tags: ["2026"]
 
 【今天的發帖就是明天的合訂本】 嗯，還是記錄一下「神準」 以後來看發帖時間點 謝謝大家的支持 給看的懂的牆人說一句 別跟著共產黨自掘墳墓 【懺悔敬畏天地，人不能無底線】
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGPmpPAgdHDRGbjUwD6thHdMmJbFSrAAK9EGsb_fR4Vu4LAAEbBd5PjAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075027990413795779#m)
+## 2026-07-09 10:10:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+跟其他災區比 青島還算輕的呢
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2075039730992119808_img_5r56hydDfugoxr5n.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075039796318330942#m)
 
 ---
 
