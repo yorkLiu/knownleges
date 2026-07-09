@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 153 条推文
+> 📊 推文存档 - 共 154 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 大家休息 不用點讚 不用評論 我純自己記錄一下「神準」 留個驗證的時間點
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGPWpO-sHGXYBqe3r2NIV8lncS1z0UAAKqEGsb_fR4VoD-XDD76oHAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075025681839534439#m)
+## 2026-07-09 09:23:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【今天的發帖就是明天的合訂本】 嗯，還是記錄一下「神準」 以後來看發帖時間點 謝謝大家的支持 給看的懂的牆人說一句 別跟著共產黨自掘墳墓 【懺悔敬畏天地，人不能無底線】
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGPmpPAgdHDRGbjUwD6thHdMmJbFSrAAK9EGsb_fR4Vu4LAAEbBd5PjAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075027990413795779#m)
 
 ---
 
@@ -33,7 +43,7 @@ tags: ["2026"]
 
 風災後的中國湖北 境外勢力化作颱風滲透了 美國太壞了 日本太壞了 一定要「抓特務」
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2074633657911001088_img_6-GMyOUpTlqPilER.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/dianzhuXS/status/2074634310297301396#m)
 
@@ -71,7 +81,7 @@ tags: ["2026"]
 
 聊聊【風災不是罪有應得】https://www.youtube.com/live/AcoAwN22g0A?si=S5ZxnGnD3Z5zX_nG
 
-<img src="/images/dianzhuXS/card_img_2074676069442224128__epmHbsc3Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
 
 [查看原文](https://nitter.net/dianzhuXS/status/2074676224413339736#m)
 

@@ -395,8 +395,9 @@ def parse_existing_tweets(content, username):
         # Extract content (strip any embedded <img> tags to prevent duplication on re-runs)
         content_match = re.search(r'\*\*内容\*\*:\s*\n\n(.+?)(?=\n\n\*\*图片\*\*:|$)', tweet_body, re.DOTALL)
         tweet_content = content_match.group(1).strip() if content_match else ""
-        # Remove any <img> tags that leaked into content from previous runs
+        # Remove any <img> tags or [查看原文] links that leaked into content from previous runs
         tweet_content = re.sub(r'<img[^>]+>', '', tweet_content)
+        tweet_content = re.sub(r'\[查看原文\]\([^)]+\)', '', tweet_content)
         
         # 提取链接
         link_match = re.search(r'\[查看原文\]\(([^)]+)\)', tweet_body)
