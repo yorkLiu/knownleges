@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 200 条推文
+> 📊 推文存档 - 共 201 条推文
 
 ---
 
@@ -169,9 +169,17 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 
 有色方向没有走出突破行情，今天甚至于已经破位了。趁反弹出。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGTWpPNPJ4k-95o-NpwaoEMhWzrsq6AAKqEWsb_fSAVrkpLJKK7xz4AQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075089638323331312#m)
+## 2026-07-09 13:36:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+证券和医药今天都回踩到支撑了。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075091605904925038#m)
 
 ---
 
