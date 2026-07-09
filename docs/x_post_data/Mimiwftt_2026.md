@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 205 条推文
+> 📊 推文存档 - 共 208 条推文
 
 ---
 
@@ -189,8 +189,6 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 
 如果想要持续性，大盘先要站稳5日线。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075099854460834213#m)
-
 ---
 
 ## 2026-07-09 14:14:41
@@ -200,8 +198,6 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 **内容**:
 
 机会是给到的，但是短期谨慎做“双头”
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075101312862326954#m)
 
 ---
 
@@ -213,8 +209,6 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 
 现在就是在上演7/2我讲的事情。 要有定力。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075101556723339725#m)
-
 ---
 
 ## 2026-07-09 14:19:59
@@ -225,7 +219,49 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 
 为什么是2周，因为长鑫还要上市！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075102646915215595#m)
+---
+
+## 2026-07-09 14:44:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这一波反弹不少人回血了吧？还需要盘后语音按摩吗？
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGWGpPSts8nECFYPk5sFAJPnvs24faAALtEWsb_fSAVnHnseN5rTFBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGRWpPLaAJW9nwwP4X-1ARBgLno4GFAAIOEWsb_fSAVolMXAN78DdOAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGRmpPLaT7UJENm5pD-_TQuQQXqhe6AAIPEWsb_fSAVjyi3sMj1SjOAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGR2pPLai1YiG7MQj9SIJ6ggkPoX-ZAAIQEWsb_fSAVuh-RaB8DbkaAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075108791323152600#m)
+
+---
+
+## 2026-07-09 15:01:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+等我一会儿。马上到家
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075113027947626616#m)
+
+---
+
+## 2026-07-09 15:07:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1nxnRRQYWowxO
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075114512768987211#m)
 
 ---
 

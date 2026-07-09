@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1001 条推文
+> 📊 推文存档 - 共 1016 条推文
 
 ---
 
@@ -18,6 +18,8 @@ tags: ["2026"]
 **内容**:
 
 Correct
+
+
 
 
 
@@ -33,8 +35,6 @@ Correct
 
 R to @elonmusk: We will continue to make refinements to the Grok Build harness and the 1.5T foundation model almost every day in response to user requests. The 2T model will finish training this month and be available to customers next month.
 
-[查看原文](https://nitter.net/elonmusk/status/2074893922812252354#m)
-
 ---
 
 ## 2026-07-09 01:31:50
@@ -44,8 +44,6 @@ R to @elonmusk: We will continue to make refinements to the Grok Build harness a
 **内容**:
 
 An inspiring vision of the future is needed
-
-[查看原文](https://nitter.net/elonmusk/status/2074909335914762458#m)
 
 ---
 
@@ -57,8 +55,6 @@ An inspiring vision of the future is needed
 
 RT by @elonmusk: Critical feedback is always appreciated
 
-[查看原文](https://nitter.net/elonmusk/status/2074909712663921122#m)
-
 ---
 
 ## 2026-07-09 01:38:36
@@ -68,10 +64,6 @@ RT by @elonmusk: Critical feedback is always appreciated
 **内容**:
 
 Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive. We are closing the loop on real-world usefulness, not benchmarks. Hardcore engineers at Tesla & SpaceX find Grok 4.5 genuinely useful, which is what actually matters.
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2074911038286295049#m)
 
 ---
 
@@ -83,8 +75,6 @@ Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but 
 
 We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat message if a post you interacted with is corrected
 
-[查看原文](https://nitter.net/elonmusk/status/2074912099554201969#m)
-
 ---
 
 ## 2026-07-09 01:43:29
@@ -94,10 +84,6 @@ We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat m
 **内容**:
 
 R to @elonmusk: Image
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2074912266961527141#m)
 
 ---
 
@@ -109,10 +95,6 @@ R to @elonmusk: Image
 
 RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency. https://x.ai/news/grok-4-5
 
-
-
-[查看原文](https://nitter.net/SpaceXAI/status/2074915721684086811#m)
-
 ---
 
 ## 2026-07-09 01:57:13
@@ -123,9 +105,25 @@ RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for c
 
 RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOGpOz0DK40mEqB_zpevZkM4tI6VsAAKFEGsb_fR4Vq3mmrIAAViZEQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SpaceXAI/status/2074915723487678904#m)
+## 2026-07-09 01:58:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Smart pet technology company Fi has just launched the world's first dog collar with @Starlink. Basically, you’ll know exactly where your dog is at all times anywhere in the U.S. It’s $199 + $189/year membership for new customers, and just a $299 flat fee for existing members. More info: • Up to 5 days of battery life: Operate multiple days on a single charge, supporting extended trips and remote exploration. • T-Satellite with Starlink GPS: Track a dog's location nearly anywhere in the US, including areas entirely without cellular coverage. • Dual Band High-accuracy GPS: Deliver precise location data continuously, whether connected via satellite, LTE, Wi-Fi, or Bluetooth. • Automatic switching: Seamlessly connect to LTE when available and to T-Satellite with Starlink when cellular networks are out of reach — with no action required from the owner. • Real-time location updates: Deliver accurate, continuous location data whether the dog is in a city park or miles from the nearest cell tower. • Fi Callback: A proprietary training system based on sound and vibration that uses no static electric shock to bring dogs back to their owners on command. • Fully waterproof: Tested in salt water and IP68/66K-rated
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGUmpPSrhBDF_pkp0hFc_Lj4GF-NkaAALnEWsb_fSAVl4o15V124fUAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGU2pPSr2ktAABwQtiAaq1kY8vhf2F7QAC6BFrG_30gFbjmuK41USiXgEAAwIAA3kAAzwE.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGVGpPSsHSTVdeFva5boVAjEBnhDVrAALpEWsb_fSAVu7Td8gqEYXxAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGVWpPSsXylH97Nt-pU3ETQJiy9G-KAALqEWsb_fSAVrhgwZhcLY00AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2074916149872005452#m)
 
 ---
 
@@ -137,10 +135,6 @@ RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in larg
 
 RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class model that's fast and low cost. It's a significant step up over any model we've developed so far, including Composer 2.5, and has become the daily driver for many on our team. First of many releases. More soon.
 
-
-
-[查看原文](https://nitter.net/mntruell/status/2074916251743457787#m)
-
 ---
 
 ## 2026-07-09 02:12:31
@@ -150,10 +144,6 @@ RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class 
 **内容**:
 
 RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it now
-
-
-
-[查看原文](https://nitter.net/XFreeze/status/2074919573611237883#m)
 
 ---
 
@@ -165,10 +155,6 @@ RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it 
 
 RT by @elonmusk: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Gang Inquiry" report. "The genesis of the rape gangs was this multicultural invasion of Europe. They wanted open borders." "We've estimated a minimum of a quarter million rapes have taken place. It's probably much, much more." "A lot of these girls were impregnated and forced to convert to Islam." "These are properly organized gangs who are grooming and abusing young girls, as young as ten, and then literally trafficking them around the country." "There's a cultural difference of opinion between an open high-trust Christian view of women and the Islamic view of women." "They're predominantly from Pakistan and from one part called Mirpur. There are some from Bangladesh, Somalia, and Eritrea. There are other Muslim countries that perpetrate some of this and of course there are white people who perpetrate rape as well, but nothing on the scale of this." "The state knows this is happening, but they don't want to admit that their multicultural experiment has failed. They don't want to be called racist. People are frightened to be accused of effectively being biased and white due to all of the woke DEI rubbish that has permeated the whole of British society." @joerogan @RupertLowe10 Full interview below ↓
 
-
-
-[查看原文](https://nitter.net/KanekoaTheGreat/status/2074931504921350242#m)
-
 ---
 
 ## 2026-07-09 03:01:03
@@ -178,10 +164,6 @@ RT by @elonmusk: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Ga
 **内容**:
 
 Try out Grok 4.5 in Cursor!
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2074931787533328622#m)
 
 ---
 
@@ -193,7 +175,21 @@ Try out Grok 4.5 in Cursor!
 
 Try out Grok 4.5 in Vercel!
 
-[查看原文](https://nitter.net/elonmusk/status/2074932046632267901#m)
+---
+
+## 2026-07-09 03:47:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Wow… within 5 minutes my kids built this game called the Tesla City with Grok 4.5. It’s a simple Tesla arcade game in SF where: 1/ You can choose a Tesla (3 / Y / S / X / Cybertruck / Roadster / Semi / Cybercab) 2/ Give robotaxi rides - pickup and drop people off for $ 3/ Can upgrade your car with the $ (buy new weapons, etc.) 4/ Fight gas cars with blasters, homing missiles, EMP & plasma, as they try to attack you to prevent you from completing Robotaxi rides. GROK 4.5 is next level! 🔥
+
+<img src="/images/elonmusk/amplify_video_thumb_2074942428537348096_img_sluUAEq-qAsEaWH2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2074923442949001216_img_vsoLqWraftsscrZg.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Teslaconomics/status/2074943415528366521#m)
 
 ---
 
@@ -205,10 +201,6 @@ Try out Grok 4.5 in Vercel!
 
 Artificial Analysis assessment
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2074948489792860456#m)
-
 ---
 
 ## 2026-07-09 04:35:13
@@ -219,9 +211,19 @@ Artificial Analysis assessment
 
 Grok groks engineering. Next month’s release will be another step-change improvement, as we close the loop on solving real-world engineering problems at Tesla, SpaceX, Neuralink and Boring Company.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGOGpOz0DK40mEqB_zpevZkM4tI6VsAAKFEGsb_fR4Vq3mmrIAAViZEQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2074955486441492823#m)
+## 2026-07-09 04:35:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 is actually insane. I'm one step closer to launching my new 3D Home Plan Builder. Powered by Grok 4.5 and Grok Imagine. 🚀 Grok 4.5 just crushed it: designed the entire 2D + 3D plan inside the app in under 1 minute at a fraction of the cost of Opus. Launching tomorrow! 🔥
+
+<img src="/images/elonmusk/amplify_video_thumb_2074955165283844096_img_tnSgTLovs7zuAzbo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Daniel_Farinax/status/2074955539566764054#m)
 
 ---
 
@@ -233,10 +235,6 @@ Grok groks engineering. Next month’s release will be another step-change impro
 
 Grok will be able to call Imagine as a tool in agentic mode for image/video generation. As Imagine keeps improving, this will be amazing for game developers!
 
-<img src="/images/elonmusk/amplify_video_thumb_2074919661129605120_img_Em-Tmql0K4WOCLQH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2074956673630793891#m)
-
 ---
 
 ## 2026-07-09 04:41:02
@@ -246,10 +244,6 @@ Grok will be able to call Imagine as a tool in agentic mode for image/video gene
 **内容**:
 
 RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok 4.5 in Grok Build cost $2.49 per task while Fable 5 in Claude Code cost $11.80 and GPT-5.5 in Codex $5.07. This is driven by relatively low token pricing and the model using far fewer tokens than comparable models (1.9M average tokens used per task), significantly less than Fable 5 in Claude Code (7.2M) and GPT-5.5 in Codex (6.2M)
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNmpOzznb9jBapLfbElhYVI7i9YlbAAKDEGsb_fR4Vub3NqbTftOsAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ArtificialAnlys/status/2074956948831924402#m)
 
 ---
 
@@ -261,10 +255,6 @@ RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok
 
 RT by @elonmusk: Grok 4.5 brings frontier performance across coding and knowledge work
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNWpOzzbiQZRtc3yPZDSXRiQCctbLAAKCEGsb_fR4VqVQj_9l-n3CAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/milichab/status/2074957763101475263#m)
-
 ---
 
 ## 2026-07-09 05:08:47
@@ -274,10 +264,6 @@ RT by @elonmusk: Grok 4.5 brings frontier performance across coding and knowledg
 **内容**:
 
 Grok 4.5 context window will upgrade to 1M probably by next week
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNWpOzzbiQZRtc3yPZDSXRiQCctbLAAKCEGsb_fR4VqVQj_9l-n3CAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2074963933199282491#m)
 
 ---
 
@@ -289,10 +275,6 @@ Grok 4.5 context window will upgrade to 1M probably by next week
 
 Grok 4.5 true usefulness is excellent
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGN2pOzzxkVU6YlSd_z3Y0kkIXmIchAAKEEGsb_fR4VhxOPN39kbkAAQEAAwIAA3kAAzwE.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2074964196052107336#m)
-
 ---
 
 ## 2026-07-09 05:30:24
@@ -302,8 +284,6 @@ Grok 4.5 true usefulness is excellent
 **内容**:
 
 Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the GB300 hardware. Doubling or more of the current speed is probably achievable.
-
-[查看原文](https://nitter.net/elonmusk/status/2074969374843154500#m)
 
 ---
 
@@ -315,13 +295,19 @@ Grok 4.5 is not yet using our internally developed C/C++ inference software that
 
 Rate of improvement is accelerating. Users should notice a meaningful improvement in the usefulness of the Grok Build harness with our V9 foundation model (aka Grok 4.5) every week.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGMmpOzyx9lUua5Dv2t0VrTHEIX6GNAAJ_EGsb_fR4VsOI0eVC24xTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGM2pOzy_gBkBFtN43LgKuA47ezv32AAKAEGsb_fR4VlMi9TXGGBJrAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-09 05:36:19
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGNGpOzzIN1CKxMLItgo5VqXwk_tIAA4EQaxv99HhWcYiZRCpYrBcBAAMCAAN4AAM8BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/elonmusk/status/2074970378682724661#m)
+**内容**:
+
+RT by @elonmusk: .@Starcloud_ CEO @PhilipJohnston: "Buy SpaceX stock." "It's like owning the railroads." " The SpaceX IPO is going to be viewed historically as the most undervalued IPO of all time." "They will tear through $10 trillion certainly within the next couple of years, and then have almost unlimited TAM for what they're building." "I'm not like regulated by anybody. So I'm going to tell people, 'Just buy SpaceX stock.' I think it's a great stock to buy." "They own what will be by far the most cost-effective launch vehicle, and that opens up every industry in space that will be possible beyond that: asteroid mining, lunar resource mining, all of the comms businesses that are going to be built. Everything else is going to have to go through SpaceX." "It's like owning the railroads. Lots of businesses will be built on top of it, like our business will be built on top of it." "The railroads are a great business to own." @elonmusk
+
+<img src="/images/elonmusk/amplify_video_thumb_2074970672804311040_img_m-rwgyp6s3VS4WX9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/sourceryy/status/2074970863464825038#m)
 
 ---
 
@@ -333,8 +319,6 @@ Rate of improvement is accelerating. Users should notice a meaningful improvemen
 
 Rate of improvement is 🚀🚀
 
-[查看原文](https://nitter.net/elonmusk/status/2074971034218860963#m)
-
 ---
 
 ## 2026-07-09 05:40:18
@@ -345,19 +329,153 @@ Rate of improvement is 🚀🚀
 
 Grok has always been very strong on law
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGMGpOzyTY5gtfirdb15uoVREWIWxoAAJ9EGsb_fR4VhCOf5PBaf-_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2074971866662359519#m)
-
 ---
 
-## 2026-07-08 00:00:10
+## 2026-07-09 05:46:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
+RT by @elonmusk: Wow amazing Grok Imagine 😍
+
+<img src="/images/elonmusk/ext_tw_video_thumb_2074973406542409728_pu_img_SFUOzdPCc9D3pw5w.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2074973423864824192#m)
+
+---
+
+## 2026-07-09 06:08:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 NVL72 systems and purpose-built for coding, agentic tasks, and knowledge work. This is what happens when world-class AI infrastructure meets world-class AI research.
+
+<img src="/images/elonmusk/amplify_video_thumb_2074912187391610880_img_BliQqOpmregZ5fSo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nvidia/status/2074979063106843131#m)
+
+---
+
+## 2026-07-09 06:47:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: WOW! GROK 4.5 PRICES ARE NEAR OPEN SOURCE HOSTED PRICES! This will move many that have token cost fatigue in corporations. But that is only half the story: it is ~4.2 more efficient using far less times per turn.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGUGpPSrCDIvf0W4JfStXxp8pz9aemAALlEWsb_fSAVuomGSq6uhpVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BrianRoemmele/status/2074988667748422057#m)
+
+---
+
+## 2026-07-09 07:08:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Calling all exceptional civil and electrical engineers! The SpaceX Cape Starship team needs help building and scaling the worlds most advanced launch pads. If you want to join the greatest team on Earth and help us on our journey to the Moon and Mars, check out the opportunities linked below https://boards.greenhouse.io/spacex/jobs/8609445002?gh_jid=8609445002 https://boards.greenhouse.io/spacex/jobs/8564730002?gh_jid=8564730002
+
+<img src="/images/elonmusk/card_img_2072644543317409793_rXfwreFJ3Fformat3Dpng26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TurkeyBeaver/status/2074994100122902602#m)
+
+---
+
+## 2026-07-09 10:11:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my honest first impression (non affiliated neutral view point): 1. grok build is a very good harness firstmate stretches harness capabilities to their limits, and i've been testing it with claude code, codex, opencode, pi and grok build so far, grok build and claude code are the only two harnesses that can automatically wake up when the background polling process finishes codex hard fails on this kind of background polling task, with no escape hatch. opencode and pi can both do it with custom plugins, but not out of the box grok build also feels really clean, smooth, and transparent. you can see what background tasks are running, what hooks got triggered at what step, context window, token usage etc all out of the box and somehow the UI does not feel cluttered at all 2. grok 4.5 is a very good model i've been using opus 4.8 as my primary firstmate, and today i did a full switch to grok 4.5. so far i don't think anything degraded, while token throughput is a lot faster, although time-to-first-byte for each response seems long - i wonder if prompt caching is done properly or no 3. the quota that comes with X premium is quite generous, and there's no session level limit so overall i'm quite pleased by this and plan to switch a lot of my tasks to grok. the landscape just got a lot more interesting...
+
+[查看原文](https://nitter.net/kunchenguid/status/2075040067257868788#m)
+
+---
+
+## 2026-07-09 14:42:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool that Grok 4.5 is #1 in some respects, even with respect to Fable 5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGV2pPStEjK6klbO1q2_6MFAZsDCEUAALsEWsb_fSAVlS9yCQ5Nn6RAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075108230754116018#m)
+
+---
+
+## 2026-07-09 14:44:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Neat
+
+<img src="/images/elonmusk/amplify_video_thumb_2075042831635537920_img_g2SdYGWExyzu8TQ1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075108735807074792#m)
+
+---
+
+## 2026-07-09 14:52:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://nitter.net/elonmusk/status/2075110841179902145#m)
+
+---
+
+## 2026-07-09 14:56:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is making progress
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGUWpPSrQft8L3uoitiPtNqDcL9PaaAALmEWsb_fSAVnA5-BtiuYtHAQADAgADeAADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075111931682148855#m)
+
+---
+
+## 2026-07-09 15:01:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+<img src="/images/elonmusk/amplify_video_thumb_2075063963151130624_img_K3GJjJtJ-Ymt-u1a.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075113099175014559#m)
+
+---
+
+## 2026-07-08 00:00:10
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
 Great point
+
+
 
 
 
@@ -367,153 +485,125 @@ Great point
 
 ## 2026-07-08 00:41:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT @IterIntellectus:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2074534239496736970#m)
-
 ---
 
 ## 2026-07-08 01:11:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: With full autonomy and maximized ride-hailing, Cybercab is projected to nearly halve emissions per mile compared to Model 3 + Model Y Also, a personal car sits parked ~95% of the time. Cybercab keeps driving, doing the work of several cars. This means fewer cars needed, more people moved, less emissions overall
 
-
-
-[查看原文](https://nitter.net/Tesla/status/2074541754527920453#m)
-
 ---
 
 ## 2026-07-08 04:23:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Read if you want to understand why medias are demonizing Elon
 
-
-
-[查看原文](https://nitter.net/brivael/status/2074590080144924779#m)
-
 ---
 
 ## 2026-07-08 04:40:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: SpaceX says over 90% of its future market is AI, not space. @DMaguireARK, ACA breaks down what that means: orbital data centers, a potential $28.5 trillion Total Addressable Market (TAM), and why Starship is the only vehicle that can get there.
 
-
-
-[查看原文](https://nitter.net/ARKInvest/status/2074594301493874896#m)
-
 ---
 
 ## 2026-07-08 08:17:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: With just one year in orbit, the first FireSat satellite has already spotted wildfires invisible to existing satellites. After a successful launch early this morning, 3 more satellites joined the constellation, bringing us one step closer to our ultimate goal of near real-time wildfire updates every 20 minutes. Thanks to @EarthFireAll @MuonSpace @MooreFound @BezosEarthFund for the partnership, & @SpaceX for the ride up!
 
-
-
-[查看原文](https://nitter.net/sundarpichai/status/2074649108414107727#m)
-
 ---
 
 ## 2026-07-08 14:13:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Video
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2074738585727590547#m)
-
 ---
 
 ## 2026-07-08 14:15:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 America, the Beautiful
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2074739056697610504#m)
-
 ---
 
 ## 2026-07-08 14:21:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.
 
-[查看原文](https://nitter.net/elonmusk/status/2074740539874775163#m)
-
 ---
 
 ## 2026-07-08 14:59:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Has been my regular work horse for weeks. Impressive indeed.
 
-[查看原文](https://nitter.net/yunta_tsai/status/2074750291229159794#m)
-
 ---
 
 ## 2026-07-08 17:54:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: There was literally a Bolshevik takeover of the Smithsonian. Democrats can never be allowed to take power again.
 
+---
 
+## 2026-07-08 19:29:23
 
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
+**内容**:
 
-[查看原文](https://nitter.net/Oilfield_Rando/status/2074794247170019539#m)
+RT by @elonmusk: BREAKING: SpaceX’s Starship just got another lunar customer. Japan’s ispace will use SpaceX’s Starship for Moon cargo missions. • ispace signed an agreement with SpaceX to secure 500 kg of payload capacity on Starship. • First mission is targeted to launch as early as 2030 through ispace’s new Lunar Access Integration service. • The service is designed to make it easier for companies, governments, and research organizations to send payloads to the Moon. • Customers can fly payloads ranging from a few kilograms up to 500 kg on shared Starship missions. “We are very pleased to be able to offer the new Lunar Access Integration service utilizing Starship’s payload space… High-capacity, relatively low-cost lunar transport… is essential to realizing the sustainable lunar economy that ispace aims to create.” — ispace Founder & CEO Takeshi Hakamada
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGVmpPSso6MET8QCIk4W7BDIrAgO1jAALrEWsb_fSAVoQLSzpz43r2AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2074818124675981542#m)
 
 ---
 
 ## 2026-07-08 22:20:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: BREAKING: Tesla Cybertruck’s bulletproof body helped protect a toddler, an infant, and neighbors during a shooting. Cybertruck became a real-life shelter during a chaotic 4th of July neighborhood party. • Owner says guns were drawn after an altercation • Cybertruck sheltered a toddler, an infant & neighbors until police arrived • Earlier, the truck was even powering the block party • “You hope you never need that kind of protection, but in that moment, I was very glad it was there.” Source: FB/Cybertruck Owners Only
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGMWpOzymMQjG3n0j6QCDX5jK0KXn3AAJ-EGsb_fR4VruK5LIBdKkOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2074861235292782835#m)
 
 ---
 
