@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 195 条推文
+> 📊 推文存档 - 共 199 条推文
 
 ---
 
@@ -109,10 +109,6 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 
 电力板块这几条线画了有一年了。 绿色线上做多，线下空仓。 紫色线上突破行情，目前明显是突破失败， 我们讲过，如果想做突破行情，就是突破压力回踩不破支撑才能做多，跌破支撑要卖要卖要卖！ 为什么很多人跌破紫色线不卖？反而一直拿着抗跌？技术没有实效，是大部分人无法做到知行合一！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGRGpPJmMPlfniGjih1Nh6OVVJoKDyAAIJEWsb_fSAVjEaUUyPuyWvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075070548737221066#m)
-
 ---
 
 ## 2026-07-09 12:16:25
@@ -123,11 +119,61 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 
 “小周期服从大周期”这一原则，主要适用于已经形成趋势行情之后的市场运行阶段。而实际上，大周期本身也是由小周期一步步演化而来的。在市场尚未形成明确趋势、仍处于震荡阶段时，仅凭小周期走势并不能准确推演出大周期未来的运行方向。 如果打开季线来看，目前整体仍处于大周期的上涨趋势之中，只是小周期暂时表现为震荡整理。因此，在这种情况下，应将小周期震荡理解为大周期上涨过程中的阶段性调整，而不是轻易判断大周期趋势已经发生改变。 目前大盘大周期上升趋势还没有改变。有变化的时候我会说。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGQmpPJl00MQay6uz9BBjrc1wltLZDAAIHEWsb_fSAVpAxjnKHsNf6AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGQ2pPJmCPiJUIgOtfGohysGv0JWMnAAIIEWsb_fSAVkTP1WgJr6jLAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-09 12:32:10
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075071553046499835#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有时候我觉得自己的推文是写给股市新手看的，但后来发现，太过于崭新的新股民其实很难理解，因为很多基础术语他们都还没建立认知，更别说理解背后的逻辑了。 所以，我一直认为，新股民最好的选择不是急着做个股，而是先买宽基指数，把更多时间花在学习市场运行规律和建立交易体系上。 尤其是2026—2027年，我认为市场将进入高位博弈阶段，机会和风险并存，并不是一个适合大多数投资者随意参与个股交易的环境。 相比之下，2024年9月是降息周期的重要拐点，市场确定性最高，因此2025年也是近几年相对最好交易的一年。而2026—2027年，更可能是资金相互博弈、容易出现“发套行情”的阶段，赚钱和亏钱都会变得更加容易，交易难度也会明显提升。 如果还没有形成自己的交易体系，也没有足够的风险控制能力，真的不要轻易参与个股交易。市场永远都有机会，错过一段行情，远比在自己看不懂的行情里亏钱要好。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075075515074179107#m)
+
+---
+
+## 2026-07-09 12:55:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+等着长鑫上市后，7月下旬左右
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGSGpPLa3KzAlq7_PKuacPZqBeyuPAAAIREWsb_fSAVq9A37Hgp2HKAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075081299921125797#m)
+
+---
+
+## 2026-07-09 12:57:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天收盘后开space聊两句。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075081788066836976#m)
+
+---
+
+## 2026-07-09 13:10:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+3938.88，250日线附近开启了快速拉升，先看一个小波段反弹。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGRWpPLaAJW9nwwP4X-1ARBgLno4GFAAIOEWsb_fSAVolMXAN78DdOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGRmpPLaT7UJENm5pD-_TQuQQXqhe6AAIPEWsb_fSAVjyi3sMj1SjOAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGR2pPLai1YiG7MQj9SIJ6ggkPoX-ZAAIQEWsb_fSAVuh-RaB8DbkaAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075085160526282874#m)
 
 ---
 
