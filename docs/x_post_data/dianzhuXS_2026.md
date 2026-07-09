@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 161 条推文
+> 📊 推文存档 - 共 162 条推文
 
 ---
 
@@ -99,15 +99,17 @@ AI雖好，但還是得看誰用 目前它還只是個工具而已 嗯哼，畫�
 
 次次都「迴旋鏢🪃」 次次不長記性 也是醉了 咱們要引以為戒 大盧直播時反覆提醒過 不管是哪裡鬧自然災害 都不要幸災樂禍 即使是中國，朝鮮，伊朗，俄羅斯 我們也只是冷眼旁觀即可 不捐款也不要鼓掌叫好 同情憐憫是共情 幸災樂禍也是共情 不與「傻精」有任何糾纏 遠離「人禍區」即是趨吉避凶 謹記‼️
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGSWpPNONHRbDHpyv-VNznL_O1a0h3AAKmEWsb_fSAVmxCk2Kc__Y1AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGSmpPNOez1zYKB7bc-MDy7MZXYLw3AAKnEWsb_fSAVtBGBnotNyhbAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-09 17:48:58
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGS2pPNOsj1IHBVZGC9b7WB-6VIEKqAAKoEWsb_fSAVgp6eOdr420FAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGTGpPNO_Ou9pxaoO-Q7qHHmq8T-IcAAKpEWsb_fSAVqG3J4UhxBCuAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075087592777982013#m)
+【神棍說兩句幹貨】 中國的「國」字是「張冠李戴」。這個字至少唐朝時，在『開元占經』中通「過」。上古行周天三百六，以十二為節律週期，一過（國）為三十度。 後世，開國皇帝稍微懂一點，不是文盲的，都沒有稱自己的社稷為「國」的。來大家討論下⋯⋯
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075155241524510840#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 210 条推文
+> 📊 推文存档 - 共 211 条推文
 
 ---
 
@@ -269,9 +269,21 @@ RT by @Mimiwftt: 我用夸克网盘给你分享了「MI姐 20260709.mp3」，点
 
 Winner Winner Chicken Dinner
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGaWpPZ_74Xtv6F397xp3xTU3EexlPAAJqEmsb_fSAVra4SESBYCIAAQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075139945916956779#m)
+## 2026-07-09 17:15:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+盘后一大堆新能源的消息面。看来想给新能源回回血。 今天看到天赐盘后中报同比业绩大增，但Q2环比有所下降短期谨慎观察250日线支撑的有效性。前期高位走掉的，暂时先不要进。再观察观察。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGampPb0KNzmw_49vGFdrTm5rMbCBNAAKIEmsb_fSAVsGHMxf4QnjnAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGa2pPb0Yh6pqFrzBip0lZHtkzUANgAAKJEmsb_fSAVqLtF6-zeg69AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075146818661621771#m)
 
 ---
 
