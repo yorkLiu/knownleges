@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 39 条推文
+> 📊 推文存档 - 共 40 条推文
+
+---
+
+## 2026-07-10 01:35:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A股的科技股，过去向来是一阵风。没有市值标杆，靠的是情绪和风口，归根结底——缺业绩。 今日操作：三维 但这一轮，不一样了。 从工业富联、中际旭创，到兆易创新，一年赚上百亿已成常态。而长鑫，一年能赚千亿——把整个A股科技板块的含金量，拉高了一个等级。 长鑫这次上市，不仅仅是另一家巨头挂牌。它真正在做的事，是把A股科技市值的天花板，直接顶开。如果长鑫给到5万亿市值，那中芯、旭创、富联的2万亿还高吗？寒武纪、海光1万亿还高吗？ 这就是标杆的意义——有了它，科技资产的估值逻辑，会被重新书写。 当然，国内科技多数仍是周期性行业。行业上行时一切好说，低估期怎么定价，才是真正的考验。但在那之前，市场已经先一步给出了答案。 龙头先站住，后排才能有方向。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGhGpP5On0aQEEh6--IuQe3OGfLOQUAAIYE2sbWkeBVtUtcbwFTOttAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2075272694002835753#m)
 
 ---
 
