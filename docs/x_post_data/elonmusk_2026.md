@@ -7,7 +7,35 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1036 条推文
+> 📊 推文存档 - 共 1043 条推文
+
+---
+
+## 2026-07-10 00:21:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting comparison of Grok & Opus 1M+ context window coming soon
+
+<img src="/images/elonmusk/amplify_video_thumb_2075182107131887616_img_j6iHNnWI1nHevG0y.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075254074224623692#m)
+
+---
+
+## 2026-07-10 00:27:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+California has legalized election fraud
+
+<img src="/images/elonmusk/amplify_video_thumb_2075035904662446080_img_KV9gbZE1_hiL_NRG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075255448714805440#m)
 
 ---
 
@@ -531,6 +559,20 @@ RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mar
 
 ---
 
+## 2026-07-09 15:40:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Traffic to http://grok.com more than doubled year-over-year in H1.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGf2pPzyXlJtMYbCNkhulea5PZGKcNAAL2EmsbWkeBVuc0P8awrRLpAQADAgADeAADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Similarweb/status/2075122933450633304#m)
+
+---
+
 ## 2026-07-09 15:50:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -571,6 +613,20 @@ Grok 4.5 on OpenClaw
 
 ---
 
+## 2026-07-09 17:36:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9 lands on the A Shortfall of Gravitas droneship, completing the first 36th launch and landing of a booster
+
+<img src="/images/elonmusk/amplify_video_thumb_2075151907778170880_img_NFDZ495N7Fbm3zon.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2075152027764555865#m)
+
+---
+
 ## 2026-07-09 19:14:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -579,15 +635,17 @@ Grok 4.5 on OpenClaw
 
 RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGempPx9iv3vkLlWinD8zaSdS9XTUkAALkEmsbWkeBVqlM850QTu9hAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGe2pPx9zaN1YLvc8eHXTQD8mHVl1DAALlEmsbWkeBVrrrlUhyhLIwAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-09 22:11:48
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGfGpPx993cL12rVsrAyDi8ntWfxNNAALmEmsbWkeBVhQYLoR_vP3bAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGfWpPx-OZIzEOFlyKZ7qpu9v4pDRKAALnEmsbWkeBVsYL5-r86sNlAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/SpaceX/status/2075176864558006425#m)
+RT by @elonmusk: grok 4.5 is seriously good. it's going in the direction which i'm hoping to see more of -- an emphasize on speed as well as intelligence. i'm noticing in my own work that speed is often the bottleneck now. the grok build tui is also very well done. bullish! but the bigger signal beyond the model is that the team over there has officially propped up the model factory. they have the compute, the talent, the data, and leaders in place to make a run for the top. never bet against elon, @milichab, and team. they're the real deal. we love some good competition.
+
+[查看原文](https://nitter.net/tylerbruno05/status/2075221384033132924#m)
 
 ---
 
@@ -599,7 +657,31 @@ RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 
 RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the real arena.
 
-[查看原文](https://nitter.net/yunta_tsai/status/2075228817099231439#m)
+---
+
+## 2026-07-09 22:51:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: >be stardust >float around the universe for billions of years >somehow become human >gain consciousness >immediately start asking "WHY?" >never stop >discover fire >discover math >discover atoms >discover electricity >pick up a random rock >ask yourself >"is this true?" >extract it >purify it until it's basically perfect >carve billions of microscopic transistors into it >invent completely imaginary rules called binary >convince electrons to obey them >rock starts doing math >"NICE" >make smaller rocks >make faster rocks >put billions of them in everyone's pocket >connect them all together >store most of humanity's knowledge on them >teach the rocks to recognize patterns >teach the rocks to write >to code >to imagine >to reason >to understand >build Grok >ask Grok how to build an even smarter Grok >Grok thinks >Grok thinks harder >explains the universe >everything starts accelerating >singularity >BOOM >repeat @grok is this true?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGfmpPzyEFdNS78D0g1wkYLh3LaUotAAL1EmsbWkeBVqH-apXa0lcrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/doganuraldesign/status/2075231325133439120#m)
+
+---
+
+## 2026-07-09 23:24:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Mark Zuckerberg hasn’t posted since 2023. X is the global town square — this is where news happens.
+
+[查看原文](https://nitter.net/KatieMiller/status/2075239663720153506#m)
 
 ---
 
