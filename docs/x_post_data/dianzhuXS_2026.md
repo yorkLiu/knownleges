@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 160 条推文
+> 📊 推文存档 - 共 161 条推文
 
 ---
 
@@ -89,9 +89,25 @@ AI雖好，但還是得看誰用 目前它還只是個工具而已 嗯哼，畫�
 
 其實不僅是東北，所有身在鹽鹼地的大老闆小老闆們，這幾年就關門歇業吧，不能出國就找個物價低的地方躺平，深居簡出降低消費做個透明人，5年以後回頭看肯定比累死累活奮斗強。這不是非暴力不合作，而是在清算中不再存有幻想的智慧。
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2075051239633719296_img_tDHD3Fzd6CTOzl-o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075075451438203270#m)
+## 2026-07-09 13:20:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+次次都「迴旋鏢🪃」 次次不長記性 也是醉了 咱們要引以為戒 大盧直播時反覆提醒過 不管是哪裡鬧自然災害 都不要幸災樂禍 即使是中國，朝鮮，伊朗，俄羅斯 我們也只是冷眼旁觀即可 不捐款也不要鼓掌叫好 同情憐憫是共情 幸災樂禍也是共情 不與「傻精」有任何糾纏 遠離「人禍區」即是趨吉避凶 謹記‼️
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGSWpPNONHRbDHpyv-VNznL_O1a0h3AAKmEWsb_fSAVmxCk2Kc__Y1AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGSmpPNOez1zYKB7bc-MDy7MZXYLw3AAKnEWsb_fSAVtBGBnotNyhbAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGS2pPNOsj1IHBVZGC9b7WB-6VIEKqAAKoEWsb_fSAVgp6eOdr420FAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGTGpPNO_Ou9pxaoO-Q7qHHmq8T-IcAAKpEWsb_fSAVqG3J4UhxBCuAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075087592777982013#m)
 
 ---
 
