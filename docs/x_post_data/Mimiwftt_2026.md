@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 201 条推文
+> 📊 推文存档 - 共 205 条推文
 
 ---
 
@@ -179,7 +179,53 @@ X上无非就是两类人：一类是创造流量、吸引流量的人；另一�
 
 证券和医药今天都回踩到支撑了。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075091605904925038#m)
+---
+
+## 2026-07-09 14:08:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+如果想要持续性，大盘先要站稳5日线。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075099854460834213#m)
+
+---
+
+## 2026-07-09 14:14:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+机会是给到的，但是短期谨慎做“双头”
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075101312862326954#m)
+
+---
+
+## 2026-07-09 14:15:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+现在就是在上演7/2我讲的事情。 要有定力。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075101556723339725#m)
+
+---
+
+## 2026-07-09 14:19:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+为什么是2周，因为长鑫还要上市！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075102646915215595#m)
 
 ---
 
