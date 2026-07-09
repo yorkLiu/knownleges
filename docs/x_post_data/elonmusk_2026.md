@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1047 条推文
+> 📊 推文存档 - 共 1049 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: The 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week Next model: The 2T foundation model is expected to finish training this month and become available to customers next month Grok Build: The harness is getting refinements almost every day based on user feedback. New features, fixes, and workflow improvements are landing at ridiculous speed Inference: SpaceXAI is working on internally developed C/C++ inference mapped directly to GB300 hardware, which could double speed or more Agentic Imagine: Grok will be able to call Imagine as a tool in agentic mode for image and video generation That is going to be huge for game developers, designers, builders, and anyone creating interactive worlds But the biggest thing is this: Grok is being built for real-world engineering Grok 4.5 early beta access was given to Tesla and SpaceX engineers, with feedback coming from real engineering teams solving real-world problems Next month’s release is expected to be another massive step-change improvement as SpaceXAI closes the loop on real-world engineering problems at Tesla, SpaceX, Neuralink, and Boring Company And from now through the end of 2026, Elon said a new from-scratch foundation model is expected to ship every month
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGhmpP7DHeM3ibYs2hTD85WKuOVlTBAAIdE2sbWkeBVuB-BFSf_8dUAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2075252689529983026#m)
 
 ---
 
@@ -65,6 +61,20 @@ Image
 
 ---
 
+## 2026-07-10 01:26:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 is dominating the latest AI leaderboards Claims the #1 spot: • #1 on AutomationBench-AA • #1 on Terminal-Bench v2 • #1 on Harvey Legal Agent Benchmark • #1 on SWE Marathon • #1 on SWE-Atlas-QnA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGmWpQNOcFkZnIFpprpWb_gq-2Gz8SAAIsEGsbWkeJVrvOqro9ZWi-AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2075270300196012263#m)
+
+---
+
 ## 2026-07-10 02:18:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -73,9 +83,25 @@ Image
 
 Try @Grok 4.5!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGhWpP7C5DB0aQogxkGmqJaxwckWqzAAIcE2sbWkeBVrdmMbv_CFaFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075283356439257417#m)
+## 2026-07-10 06:56:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead of Flight 13
+
+<img src="/images/elonmusk/amplify_video_thumb_2075352847126827008_img_pfDHd_IqzaNCQYXg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGlmpQNNvR47Wt0yDQxCajVjsxPZ-zAAIpEGsbWkeJVktWMnAHI-biAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGl2pQNN_GEA9bB4pVzeU83U8tU-pIAAIqEGsbWkeJVnRN28Gg6sOgAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGmGpQNOOzKcAZQZvYOiNPupwXaSrmAAIrEGsbWkeJVmd53VyKoE1fAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2075353490713432440#m)
 
 ---
 
