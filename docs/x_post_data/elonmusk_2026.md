@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1034 条推文
+> 📊 推文存档 - 共 1036 条推文
 
 ---
 
@@ -109,10 +109,6 @@ RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in larg
 
 RT by @elonmusk: Try Grok 4.5 in the API, Grok Build, and Cursor
 
-<img src="/images/elonmusk/amplify_video_thumb_2074912187391610880_img_BliQqOpmregZ5fSo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/milichab/status/2074916029848027636#m)
-
 ---
 
 ## 2026-07-09 01:58:54
@@ -193,10 +189,6 @@ RT by @elonmusk: Wow… within 5 minutes my kids built this game called the Tesl
 
 RT by @elonmusk: Grok 4.5 is pretty good at building websites. Just made a beautiful website about black holes. Check this out:
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGaGpPYLBAxnSenMQS-vD0cIKK1MuiAAJAEmsb_fSAVkAhi1yoBePAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/doganuraldesign/status/2074946774284882393#m)
-
 ---
 
 ## 2026-07-09 04:07:25
@@ -267,10 +259,6 @@ RT by @elonmusk: Grok 4.5 brings frontier performance across coding and knowledg
 
 RT by @elonmusk: Grok 4.5 delivering Fable level performance at like 1/17th the cost! 😮 @elonmusk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGYmpPYJou0upT3CH5mCljtQbpDKJvAAI6Emsb_fSAVt6Ht8o2AiwZAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/DrewPavlou/status/2074959672982073572#m)
-
 ---
 
 ## 2026-07-09 05:08:47
@@ -300,10 +288,6 @@ Grok 4.5 true usefulness is excellent
 **内容**:
 
 RT by @elonmusk: How it feels to use Grok 4.5 😎
-
-<img src="/images/elonmusk/amplify_video_thumb_2074964335219142656_img_wzVxEqLbeJ3Q-YAw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/iam_smx/status/2074966046625194202#m)
 
 ---
 
@@ -405,10 +389,6 @@ RT by @elonmusk: Calling all exceptional civil and electrical engineers! The Spa
 
 RT by @elonmusk: Grok Build mogs Claude Code & Codex TUIs i can't lie. Not to mention the perf of Grok 4.5... It's not even a competition at this point. Good shit xAI team
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGZGpPYKS4pq_NhVy1kA3l8sbHRONdAAI8Emsb_fSAVmTHmVau-pv8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/grimcodes/status/2075036803023909196#m)
-
 ---
 
 ## 2026-07-09 10:11:19
@@ -429,12 +409,6 @@ RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my 
 
 RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGXmpPYIsRXGsEiUuPPLK2vukeF9RkAAI2Emsb_fSAVlpKxKNnAAFjVAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGX2pPYI4Jvwt8xu_1H4Mt811sjFh2AAI3Emsb_fSAVukyqOMfBcTAAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/grok/status/2075052834324955511#m)
-
 ---
 
 ## 2026-07-09 13:21:35
@@ -444,8 +418,6 @@ RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
 **内容**:
 
 RT by @elonmusk: I appreciate the many xAI and Cursor engineers who dedicated their time to addressing feedback from Tesla. I remember meeting Andrew a few weeks after he was hired and telling him that I needed a better client for my work to solve real-world engineering. Grok Build was not even a thing back then. It was a very primitive client with lots of rough edges but had a lot of potential. When building something from scratch, the only limit is imagination armed with first principles. We encountered many unique use cases to solve diverse workflows, and the teams took prompt feedback and addressed it quickly—to the point that it became an indispensable tool. Now when my teams need to ask questions, instead of jumping through hoops with various backends or plugins or skills, Grok 4.5 can directly deliver deep insights with minimal setup. You can tell the teams love the product like parents love their children when receiving the feedback. At this very moment, they are still doing excellent customer service. Thank you, Grok Build team, for helping us be more productive. Looking forward to what comes next.
-
-[查看原文](https://nitter.net/yunta_tsai/status/2075087949386109050#m)
 
 ---
 
@@ -507,12 +479,6 @@ Cool
 
 RT by @elonmusk: Impressive Intelligence vs. Cost for Grok 4.5 I think given terafab + the Tesla FSD team's expertise in making very efficient AI models, this advantage will only continue to compound
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGZWpPYKdm8c2AsIyKlHxp8wLP42SmAAI9Emsb_fSAVr89TmuQ2NFdAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGZmpPYKrPKgpON3e-RR_q2MwG8be9AAI-Emsb_fSAVsEDcgWh9_0SAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ArthurMacwaters/status/2075113237331525995#m)
-
 ---
 
 ## 2026-07-09 15:06:48
@@ -522,10 +488,6 @@ RT by @elonmusk: Impressive Intelligence vs. Cost for Grok 4.5 I think given ter
 **内容**:
 
 Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGZ2pPYK3bSLHah2HqqNR-iqDHE8ppAAI_Emsb_fSAVhwtBoTXMdNlAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075114431462207817#m)
 
 ---
 
@@ -537,10 +499,6 @@ Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_1957032127066714112_img_OT0T-TSmH_poW8RL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075116747342925967#m)
-
 ---
 
 ## 2026-07-09 15:18:22
@@ -550,10 +508,6 @@ Video
 **内容**:
 
 The Moon and Mars
-
-<img src="/images/elonmusk/amplify_video_thumb_2074977141104549889_img_VvFOPO3t_VzEBuSq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075117340836962713#m)
 
 ---
 
@@ -565,10 +519,6 @@ The Moon and Mars
 
 Grok 4.5 is also rank 1 in SWE marathon
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGY2pPYJ2XTXipC4_Klz1CkZ5Vdx3GAAI7Emsb_fSAVvy1Yk3c9__UAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075117841733353498#m)
-
 ---
 
 ## 2026-07-09 15:23:14
@@ -578,16 +528,6 @@ Grok 4.5 is also rank 1 in SWE marathon
 **内容**:
 
 RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mars are necessary steps to this
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGWWpPYHke_hGVMe3ImrOoRRXgeUa1AAIxEmsb_fSAVpesEjm5srpyAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGWmpPYH07yGV3EyXWyHkx3itG7oDGAAIyEmsb_fSAViee4dikGnRpAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGW2pPYIFfCcs7BH0safiC-7uP_lTgAAIzEmsb_fSAVkWbof8-YnqUAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGXGpPYIXM64Nc3Nrh9ixnFFdEbRhJAAI0Emsb_fSAVruNG5e5KsN7AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ArthurMacwaters/status/2075118564995145860#m)
 
 ---
 
@@ -599,10 +539,6 @@ RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mar
 
 Try out Grok 4.5!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGYWpPYJdfHZQLHktk4gQ-Z7GsRsBfAAI5Emsb_fSAVoUqrp7xQGPHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075125320521310589#m)
-
 ---
 
 ## 2026-07-09 16:07:05
@@ -612,10 +548,6 @@ Try out Grok 4.5!
 **内容**:
 
 RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysis Ahead of GPT-5.5 xhigh, Claude Fable 5 and Claude 4.8 (max)
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGYGpPYJKkje6_YFExNAO0ScTuZMtlAAI4Emsb_fSAVrHgGNTvrxwtAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2075129600850678033#m)
 
 ---
 
@@ -627,10 +559,6 @@ RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysi
 
 Good review of Grok 4.5
 
-<img src="/images/elonmusk/amplify_video_thumb_2075088103967256576_img_s7PEOoCwWQomVvZz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075130137817825315#m)
-
 ---
 
 ## 2026-07-09 16:34:34
@@ -641,9 +569,37 @@ Good review of Grok 4.5
 
 Grok 4.5 on OpenClaw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGXWpPYIdMby1D1kOar75jGgHR_ja7AAI1Emsb_fSAVpSiASGpZRjvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075136517144535171#m)
+## 2026-07-09 19:14:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGempPx9iv3vkLlWinD8zaSdS9XTUkAALkEmsbWkeBVqlM850QTu9hAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGe2pPx9zaN1YLvc8eHXTQD8mHVl1DAALlEmsbWkeBVrrrlUhyhLIwAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGfGpPx993cL12rVsrAyDi8ntWfxNNAALmEmsbWkeBVhQYLoR_vP3bAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGfWpPx-OZIzEOFlyKZ7qpu9v4pDRKAALnEmsbWkeBVsYL5-r86sNlAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2075176864558006425#m)
+
+---
+
+## 2026-07-09 22:41:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the real arena.
+
+[查看原文](https://nitter.net/yunta_tsai/status/2075228817099231439#m)
 
 ---
 
