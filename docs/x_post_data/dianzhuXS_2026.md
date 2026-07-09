@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 155 条推文
+> 📊 推文存档 - 共 158 条推文
 
 ---
 
@@ -39,9 +39,43 @@ tags: ["2026"]
 
 跟其他災區比 青島還算輕的呢
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2075039730992119808_img_5r56hydDfugoxr5n.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075039796318330942#m)
+## 2026-07-09 10:38:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大家覺得什麼時間 再油管真人出鏡直播比較合適？ 等留言
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075046832745705829#m)
+
+---
+
+## 2026-07-09 10:51:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+AI雖好，但還是得看誰用 目前它還只是個工具而已 嗯哼，畫～意境
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGP2pPEI5hB95MX_wh6PjuzqKGHmVEAAL0EGsb_fR4VnR-XuYaq0oyAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075050073810215061#m)
+
+---
+
+## 2026-07-09 11:03:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+受眾都是牆內精緻利己就很正常 還有一位，先不提名了 白宮坐向都分不清 不照樣講玄學嗎？ 四中全會拿下兩百斤 擁躉集體瘋逼 還AI二創收費算命⋯⋯ 這就是傻逼共振的常態 傻逼就是壞逼的財富 物以類聚人以群分 正常人類遠離就好
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075053306293170301#m)
 
 ---
 
