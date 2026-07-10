@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1070 条推文
+> 📊 推文存档 - 共 1075 条推文
 
 ---
 
@@ -98,10 +98,6 @@ RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI ch
 **内容**:
 
 RT by @elonmusk: Built from scratch by Grok 4.5 + Grok Build in UE5.8: a cyberpunk L-corner street with neon facades, rain, signs, and crowds walking through the scene. End-to-end, the run took 10.75M tokens, 36.5 minutes, and only ~$12.4 at API pricing. What impressed me most is not just the final render, but the process: the coding agent built it in many small steps, saved 30+ map checkpoints, verified the scene, and iteratively fixed issues autonomously. Congrats to the @SpaceXAI team for building such an impressive coding model and harness. This feels like a real step toward agentic 3D world creation. @elonmusk @milichab @skcd42 @yunta_tsai #UnrealEngine
-
-<img src="/images/elonmusk/amplify_video_thumb_2075329395037020160_img_ODBQ9UQbKoTdJFr7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/simworld_ai/status/2075329449000886582#m)
 
 ---
 
@@ -253,10 +249,6 @@ Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity any
 
 RT by @elonmusk: I fell for a lot of progressive nonsense, and hard. I was literally trans. But two things I can honestly say I never fell for were 1. alternative ways of knowing. Science obviously works, and it’s hard to even coherently describe an alternative. What, you aren’t taking in data or trying to parse it without contradiction? What are you even talking about? I was a new atheist technocratic progressive, and thought the extent to which other groups failed at scientific thinking was a result of disadvantage, but never that scientific thinking itself was bad. Same with everything on that smithsonian chart (being on time etc) 2. Strong anti-hereditarianism. I believed racial average differences were due to discrimination (to the extent I thought about the issue at all, which was infrequently) but the belief that *all* human cognitive differences, even within groups, are due to upbringing was always just facially absurd. There exists such a thing as a smart person, and there are aspects of it that clearly aren’t about education. They talk faster. They’re funnier. They learn *new* concepts faster. Their questions are sharper. It’s textural. It’s visceral. I didn’t know anything about psychometrics or the hereditarian debate at this point. It’s just obvious if you’ve met three humans and are honest.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuWpQoenequssIgO9b1CHFJZNS9iVAAJ7EWsbWkeJVrw3Tb8s_At6AQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ArtemisConsort/status/2075456984661598385#m)
-
 ---
 
 ## 2026-07-10 15:14:39
@@ -267,9 +259,19 @@ RT by @elonmusk: I fell for a lot of progressive nonsense, and hard. I was liter
 
 Grok Build gets better every day and we love hearing user feedback for improvements
 
-<img src="/images/elonmusk/amplify_video_thumb_2075325769639919617_img_fUKI03Te8SDrwXd1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075478792273842370#m)
+## 2026-07-10 15:21:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: GAVIN BAKER: “Tesla and Elon have done more to decarbonize the world than all environmental activists combined.”
+
+<img src="/images/elonmusk/amplify_video_thumb_2075480100649287680_img_7EKHi7iNVkSJ14YK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheChiefNerd/status/2075480598617927810#m)
 
 ---
 
@@ -281,10 +283,6 @@ Grok Build gets better every day and we love hearing user feedback for improveme
 
 Grok Imagine
 
-<img src="/images/elonmusk/ext_tw_video_thumb_2075430304928399360_pu_img_amND-5zgQXAbdubn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075482008440930315#m)
-
 ---
 
 ## 2026-07-10 15:33:41
@@ -295,9 +293,33 @@ Grok Imagine
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2075252508683853824_img_NATwG-MFlhgDKPUB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075483584102600841#m)
+## 2026-07-10 15:47:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Model comparison
+
+<img src="/images/elonmusk/card_img_2072923291824836608_xE1KGzI33Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075487063848206727#m)
+
+---
+
+## 2026-07-10 16:06:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+<img src="/images/elonmusk/amplify_video_thumb_2075072499495407616_img_d7luC8hYn207X4Rr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075491921540034689#m)
 
 ---
 
@@ -691,6 +713,20 @@ RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my 
 
 ---
 
+## 2026-07-09 10:39:36
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceXAI's Grok 4.5 takes the #1 spot on AutomationBench-AA with a score of 51%, ahead of Claude Fable 5 (49%) and Claude Opus 4.8 (48%) at roughly a quarter of their cost per task - the first model to complete more than half of workflow objectives without breaking any business rules AutomationBench-AA, our independent leaderboard for @zapier’s AutomationBench, tests whether AI agents can automate real SaaS workflows while adhering to business rules. The test set is private to prevent contamination. Models complete 657 tasks across 40 simulated app environments including Gmail, Google Sheets, Slack, Salesforce, and HubSpot, and the headline score is the share of objectives completed without violating any guardrails. Key takeaways: ➤ Grok 4.5 completes more objectives than any other model: It completes 79.9% of task objectives and strictly passes 21.9% of tasks. This is the highest we’ve measured on both outcomes, exceeding Claude Fable 5’s 73.3% objective completion and Claude Opus 4.8’s 19.3% of fully-completed tasks ➤ Grok 4.5 pushes out the Pareto frontier of score vs. cost per task: At $0.34 per task, it is both cheaper and higher-scoring than every other leading model - Claude Fable 5 ($1.35 per task), Claude Opus 4.8 ($1.46), GPT-5.5 (xhigh, $1.28), and Gemini 3.5 Flash (high, $0.49) ➤ It is extremely token-efficient: Grok 4.5 uses ~8k output tokens per task, the fewest of any leading model - less than a quarter of Claude Opus 4.8 (32k) and a third of Gemini 3.5 Flash (24k). Its total token usage of 0.44M per task is among the lowest on the leaderboard. Low cost is driven by this efficiency as well as low token pricing ➤ Grok 4.5 uses fewer turns with many parallel tool use: Grok 4.5 resolves tasks in ~16 turns, fewer than GPT-5.5 (xhigh, 25) and less than half of Gemini 3.5 Flash (high, 35), while making the most tool calls per task of any leading model (52.5). It batches 3.3 tool calls per turn, compared to ~2.5 for Claude Opus 4.8 and ~2.0 for GPT-5.5 (xhigh) ➤ Guardrails still get broken: Grok 4.5 triggers 0.63 violations per task, above Claude Opus 4.8 (0.55) and Gemini 3.5 Flash (0.46). At 13.0 objectives completed per violation, it trails Gemini 3.5 Flash (15.0) and Claude Opus 4.8 (13.5) ➤ Its strongest lead is in the hardest domain: Grok 4.5 completes 71% of Finance objectives, the domain with the lowest average score, ahead of Claude Fable 5 (64%) and Claude Opus 4.8 (62%) Congratulations to @SpaceXAI and @elonmusk on topping the leaderboard!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGV2pPStEjK6klbO1q2_6MFAZsDCEUAALsEWsb_fSAVlS9yCQ5Nn6RAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArtificialAnlys/status/2075047187525034114#m)
+
+---
+
 ## 2026-07-09 11:02:02
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
@@ -708,6 +744,18 @@ RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
 **内容**:
 
 RT by @elonmusk: I appreciate the many xAI and Cursor engineers who dedicated their time to addressing feedback from Tesla. I remember meeting Andrew a few weeks after he was hired and telling him that I needed a better client for my work to solve real-world engineering. Grok Build was not even a thing back then. It was a very primitive client with lots of rough edges but had a lot of potential. When building something from scratch, the only limit is imagination armed with first principles. We encountered many unique use cases to solve diverse workflows, and the teams took prompt feedback and addressed it quickly—to the point that it became an indispensable tool. Now when my teams need to ask questions, instead of jumping through hoops with various backends or plugins or skills, Grok 4.5 can directly deliver deep insights with minimal setup. You can tell the teams love the product like parents love their children when receiving the feedback. At this very moment, they are still doing excellent customer service. Thank you, Grok Build team, for helping us be more productive. Looking forward to what comes next.
+
+---
+
+## 2026-07-09 14:12:05
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: i tried tesla full self driving over the weekend. it’s magical. can’t believe it got that good without it being a bigger deal.
+
+[查看原文](https://nitter.net/benhylak/status/2075100660903879045#m)
 
 ---
 
@@ -898,10 +946,6 @@ RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 **内容**:
 
 RT by @elonmusk: Socialists imagine a class struggle. In their made-up fantasy the CEO is in competition with low level workers, the wealthy entrepreneur is stealing from the underpaid nurse. In reality, workers do not compete vertically they compete horizontally. Entrepreneurs compete with entrepreneurs. Investors outbid each other. CEOs are benchmarked against other CEOs. Nurses are hired from a pool of nurses. Etc. The CEOs pay has no correlation to the entry level workers. The Football star on £300K a week isn’t linked to the person selling drinks in the stadium. A biotech entrepreneur raising VC capital isn’t paid relative to a cleaner. What is linked is the demand and supply dynamic of each role. If a company places an ad for a qualified truck driver and 150 people apply for the role, then the company knows it does not need to increase wages for that role. If the company has an open role for months, it is forced to look at the compensation package. Same for a CEO. A board representing shareholders would like to hire a CEO for a lot less if they could. Their dream scenario would be to hire a CEO who brings in institutional investors, attracts top executives, drives innovation and growth, keeps margins steady and is a good public face for the business even under pressure. It turns out there aren’t a lot of these people looking for work and if you want one you have to pay more than other companies are offering. The class struggle isn’t vertical it’s horizontal. CEOs are in competition with CEOs. Retail workers are in competition with retail workers. Demand and supply dynamics set the price. Sure you can say that a CEO want’s profitability and would like wages to be lower BUT it’s not up to the CEO - demand and supply tension sets the price of workers. An Airline like RyanAir would like free pilots if they could get them but they can’t… so they pay the market rate. The reason incomes are rising at the top and falling at the bottom is not class warfare. It’s technology and globalisation. Technology makes basic jobs simple, remote or fully automated. At the same time tech makes executive roles more leveraged, more important and more valuable. A CEO used to run a smaller organisation. Today a CEO who’s 2% better on a $5B company is generating $100M more. Seems sensible to try and pay a few million to get $100M. Globalisation has put workers from all over the world in completion with each other - downward pressure on wages. Globalisation has given CEOs more market opportunities to explore - upside opportunity to unlock. The rich are not very interested in buying houses that poor people own. The poor are not buying up the homes the rich want. They are separate groups living separate lives. Try finding the genuinely rich people whose strategy is to hoard normal residential homes - it barely exists as a thing. About 85% of landlords are people who own 1-4 properties. Super-landlords (100+ properties) are 0.2% of landlords and own a tiny fraction of the 30M homes in the UK… and they’re heavily taxed. Class warfare isn’t real. It’s an imagined war in the minds of socialists. Demand and supply dynamics are real. To the degree it is measured in class, it’s a horizontal competition not a vertical one.
-
-<img src="/images/elonmusk/amplify_video_thumb_2074816266238410752_img_KYCa0V4syGmSEDsA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/DanielPriestley/status/2075182431574143075#m)
 
 ---
 
