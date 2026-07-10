@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 201 条推文
+> 📊 推文存档 - 共 202 条推文
 
 ---
 
@@ -59,11 +59,21 @@ tags: ["2026"]
 
 gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清素颜视频音频外泄了， 现在AI换脸真可以实现以假乱真， 隐私在这个AI时代异常重要， 再发展下去基本上一套操作下来能突破你所有安全防线。太吓人了这次这事。 被盗资金已经被转移到洗钱地址。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGw2pQ6oMnVyaSAvOpUm7J0RzYr8aTAAJIEmsbWkeJVjwK5j2VsrQQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGHWpOKAOjftoU5xyyyEMl92byTmnzAAIWD2sb_fR4VsjdzRnXt-wwAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 23:02:43
 
-[查看原文](https://nitter.net/xiaomustock/status/2075554820401037509#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+去年真是满大街的好机会， 当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐， 去年的股票能预期业绩涨十倍股价也能十倍， 现阶段大部分AI红利涨幅被吃完了， 预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。 只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxmpRDtm3cQv0e1itBFrp0DA8-NmbAAKIEmsbWkeJViUvsHeUg1SXAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGx2pRDtzdQ9uAv5NAi5XCny6ksqBYAAKJEmsbWkeJVhOkJy5NqIGBAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2075596586986754131#m)
 
 ---
 
