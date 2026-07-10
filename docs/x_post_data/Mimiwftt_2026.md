@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 234 条推文
+> 📊 推文存档 - 共 236 条推文
 
 ---
 
@@ -119,10 +119,6 @@ Pinned: 【中长线投资策略——以价值为锚，以时间为友】 建�
 
 医药今天大幅拉升
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGsmpQWU2Ifa7FtcCjOGMDB1LYYkihAAK0EGsbWkeJVqBQyhN5imrYAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075399639705215127#m)
-
 ---
 
 ## 2026-07-10 10:02:55
@@ -132,10 +128,6 @@ Pinned: 【中长线投资策略——以价值为锚，以时间为友】 建�
 **内容**:
 
 别追，机会早就给过了，而且说过不是短线。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGsWpQWUvfmvX-5KHK3Jlzn5bMRNTBAAKzEGsbWkeJVr0JZOYooyy2AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075400344960631011#m)
 
 ---
 
@@ -147,18 +139,6 @@ Pinned: 【中长线投资策略——以价值为锚，以时间为友】 建�
 
 看过昨天复盘的就知道我提到的跌不下去的了，AI应用相关的下游。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGsGpQWUdrLbzeDU9nFxVqPjHltT2xAAKyEGsbWkeJVvWYJN7VsUFrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075401740485337141#m)
-
 ---
 
 ## 2026-07-10 10:12:27
@@ -168,12 +148,6 @@ Pinned: 【中长线投资策略——以价值为锚，以时间为友】 建�
 **内容**:
 
 哈哈哈，我想低调一下的。提醒你们别追！追涨被套不关我事🤷‍♀️
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGrmpQWUH1i-R7Zk0WPjg3fEXyJjZOAAKvEGsbWkeJVn1lkcMXTNtTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGr2pQWUQW4Tb867gn53jmjSF-4BgkAAKxEGsbWkeJVusmRCM7unjyAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075402740159889659#m)
 
 ---
 
@@ -185,9 +159,33 @@ Pinned: 【中长线投资策略——以价值为锚，以时间为友】 建�
 
 满眼大涨的都是医药！今天没有低吸点！昨天是机会。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGrWpQWT2iCWDRoz2z99VGw0AWBGhaAAKuEGsbWkeJVvJkUDlwC-4pAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075403522259177525#m)
+## 2026-07-10 11:04:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大盘能否持续向上主要观察成交量的配合，否则随时会冲高回落。 提前过周末去了！ 戒网48小时！ 你们周末多看看我曾经的推文，不要问个股，想说的时候我会说。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGs2pQZ7ucbj33WqY4xKBb_qbU7gwFAALiEGsbWkeJVvlzSEaqM3JXAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075415789717643571#m)
+
+---
+
+## 2026-07-10 11:18:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/Mimiwftt/amplify_video_thumb_2075419325691990016_img_QVuhZF9qgUATwKoL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075419389017690235#m)
 
 ---
 
