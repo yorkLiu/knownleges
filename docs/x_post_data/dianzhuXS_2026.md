@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 170 条推文
+> 📊 推文存档 - 共 171 条推文
 
 ---
 
@@ -59,7 +59,19 @@ tags: ["2026"]
 
 誰說中國影視行業不行了？ 拜託是民營影視不行了 不提別的 現在牆內的災區 就堪比「橫店」 「演員」聚集 只不過入行多了政審而已 😅😅😅
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075504850377564408#m)
+---
+
+## 2026-07-10 19:09:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+隨著「巴威去日本」的詛咒和昨天「颱風閉眼消散」的意淫，都被殘酷的現實打臉後，牆內「精緻利己」群體又開始寄希望於「台灣的護國神山撕裂巴威」當中國的「風盾」😮‍💨 大盧必須再出一句「驚人語」沖一下肺管子，颱風巴威「風眼」如果不登陸台灣，就是外圍擦邊而過呢？你們還能有什麼「精神勝利法」？ 本來自然災害來了，全人類都應該互相幫忙，人到難處拉一把，大家都搭把手，也就過去了。唯有鹽鹼地最奇葩，各種詛咒別人，輸出仇恨和愚昧。嗯，咱就等著看，這幫玩意啥時候能長記性！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGvmpQ1LkktQXCXWSxqE0X_hDIiC0kAAIEEmsbWkeJVsrjGLqVmk5pAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075538016849043555#m)
 
 ---
 
