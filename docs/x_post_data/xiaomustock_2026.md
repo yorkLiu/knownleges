@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 197 条推文
+> 📊 推文存档 - 共 198 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 海公公真垃圾呐，美股一个adr搞得价格纹丝不动。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGqmpQWS1FIwWzPVdSbMcJD6iiWaUIAAKrEGsbWkeJVuEO3_AAAU_afQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2075404931784376696#m)
+## 2026-07-10 12:56:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+国内可回收火箭成功了，卧槽，牛逼炸了。 @elonmusk
+
+<img src="/images/xiaomustock/amplify_video_thumb_2075444011431784448_img_Bu0LTeTgKs2Tkbld.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2075444072588927151#m)
 
 ---
 
