@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 272 条推文
+> 📊 推文存档 - 共 273 条推文
 
 ---
 
@@ -29,9 +29,17 @@ Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 
 
 "China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly." Elon's comment: "For now" Meanwhile, 1X today posts a video of the most advanced humanoid hand. Looks like the inflection point for American humanoid programs is here? Both technologically with players like 1X and with mass production with $TSLA? I'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. But I'm proud to see American robotics as a whole go brrrr.
 
-<img src="/images/aleabitoreddit/amplify_video_thumb_2075302057356234752_img_dPdGy8ELJ6n1eRAI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2075302956581449892#m)
+## 2026-07-10 16:23:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yep, it’s interesting to witness retail capitulation. After we got Bloomberg Meta compute article cleared up by their internal memo. And the 2 reports on delays were denied by Nvidia. Both of which caused the selloff in the first place... So Photonics / Nvidia’s roadmap hasn’t fundamentally changed: $LITE is still completely sold out for the next 2 years and likely into 2029. $SIVE is about to volume ramp with GlobalFoundries, Jabil, Poet, Ayar, and other hyperscaler suppliers. $TSM COUPE and their TW suppliers from Shunsin to Foci aren’t randomly disappearing into the void. $AAOI and their $471m/month h2 2027 revenue projections haven’t changed. $IQE and their epiwafer contracts with Macom and Tower Semi haven’t disappeared. $AXTI ownership of 40% of the InP substrate supply chains haven’t suddenly disappeared. As with any theme from Rocketlab + Space sector 50% drop back in 2025. Or Nebius + Neocloud 50% drop entering 2026. Or the Samsung/SK Hynix crash from Iran War LNG/Helium/Oil fears few months ago. Volatility from indiscriminate thematic selloffs isn’t typically representative of individual company fundamentals. Retail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops. And institutions are probably placing limit orders to capitalize on that. Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2075496116481884524#m)
 
 ---
 

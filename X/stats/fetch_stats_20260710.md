@@ -1,6 +1,6 @@
 # X/Twitter 推文抓取统计报告
 
-**日期**: 2026-07-10 08:11:09 GMT+08:00**
+**日期**: 2026-07-10 08:42:09 GMT+08:00**
 
 ## 总体统计
 
@@ -17,9 +17,9 @@
 | @JonathanDi3614 | 20 | 0 | 20 |
 | @xiaomustock | 20 | 0 | 20 |
 | @karpathy | 20 | 0 | 20 |
-| @aleabitoreddit | 17 | 0 | 17 |
+| @aleabitoreddit | 17 | 1 | 16 |
 | @dianzhuXS | 14 | 0 | 14 |
-| @Mimiwftt | 20 | 1 | 19 |
+| @Mimiwftt | 20 | 0 | 20 |
 
 ## 说明
 
