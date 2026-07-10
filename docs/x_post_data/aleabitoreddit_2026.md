@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 276 条推文
+> 📊 推文存档 - 共 277 条推文
+
+---
+
+## 2026-07-11 00:01:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Sk Hynix is now trading under $SKHYV! It's now up an insane 16%. I wonder how Sk Hynix over in Korea is going to react on Monday.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGy2pRHWjU-O6bI12cud97LOl4UIltAAKhEmsbWkeJVugBFDoHZIsJAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxWpRB5ZUbu1-ThABE9uOarwKGwcYAAJ5EmsbWkeJVsm9qOkf_QPWAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2075611260771852590#m)
 
 ---
 

@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1078 条推文
+> 📊 推文存档 - 共 1080 条推文
+
+---
+
+## 2026-07-11 00:03:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is closing the loop on real-world use cases
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGympRHWKjZbuVST3XcTXeOrD05sOpAAKgEmsbWkeJVlkcBA8FcwNGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075611819872223385#m)
 
 ---
 
@@ -319,8 +333,6 @@ Model comparison
 
 Grok 4.5 has the best real-world ROI
 
-[查看原文](https://nitter.net/elonmusk/status/2075606415264080104#m)
-
 ---
 
 ## 2026-07-10 23:42:38
@@ -330,10 +342,6 @@ Grok 4.5 has the best real-world ROI
 **内容**:
 
 Try @grok
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGyWpRFiLL-Rqz6TrTwKS9p2VZnLydAAKVEmsbWkeJVjm3UihZUjYaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075606632629752137#m)
 
 ---
 
@@ -345,9 +353,19 @@ Try @grok
 
 Grok Build
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGyGpRFh7R7_ZexzLmPSUtMbLLcGdpAAKUEmsbWkeJVqtT5GE9js1UAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075607754429854036#m)
+## 2026-07-10 23:48:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+<img src="/images/elonmusk/amplify_video_thumb_2075571297392754688_img_228g2-j_Z1KsMHqc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075608188376772644#m)
 
 ---
 
