@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1057 条推文
+> 📊 推文存档 - 共 1059 条推文
 
 ---
 
@@ -89,18 +89,6 @@ Try @Grok 4.5!
 
 RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI chip vendor agnostic. System architecture supports compute modules from any provider. • 150 kW peak compute payload • 120 kW average compute payload • 70 kW per ton • Wingspan: 70 meters • Deployed height: 20 meters • 110 m² deployable liquid radiator • Redundant pumping loops • Integrated micrometeoroid shielding • 150 kW solar array • 250 W/m² • High-speed laser links interconnect satellites and beam AI results back to Earth through Starlink. Low-latency, high-bandwidth connection • SpaceX-manufactured solar technology from Bastrop, Texas
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGoGpQPC3E9XIpO7AYOyB0KArVjh9pAAI5EGsbWkeJVhT2zm5kypSFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGoWpQPDC4tdgd_3zK5nTKHt1oNji7AAI6EGsbWkeJVuQGsDQDhDt-AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGompQPDLoPnUoGjWttJQzoxDkTgvIAAI7EGsbWkeJVvv7OQyJeWG3AQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGo2pQPDb-N1RM-Jz0HcQgbamPexZ-AAI8EGsbWkeJVmUAAQfqpMzyYAEAAwIAA3kAAzwE.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2075325999244304384_img_ZrzeRasYWyFAPZAv.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2075327054942232713#m)
-
 ---
 
 ## 2026-07-10 06:19:30
@@ -111,9 +99,23 @@ RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI ch
 
 RT by @elonmusk: The Cape Gigabay is getting closer to being ready for Starship! Teams recently installed the 420-ton crane – which we’ll use to break over and move Starships and Super Heavy boosters preparing for flight. One step closer to the Moon and Mars 🚀🚀🚀
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGnWpQPCCDrH8undUo2h57D07DVm6aAAI1EGsbWkeJVvyqnT2UWI9CAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/TurkeyBeaver/status/2075344118734012687#m)
+## 2026-07-10 06:32:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok is a frontier model.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGp2pQSqaZzoLbhqccRr6U2qh5C-p_AAJ1EGsbWkeJVvo_ZA5NS0MzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGqGpQSqqZflGgcgHKvlsj_ic9nLRSAAJ2EGsbWkeJVtNpfMwbTBANAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGqWpQSq6iceJFWvC0x8-paJTza8zUAAJ3EGsbWkeJVvc-W96jKPLkAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teortaxesTex/status/2075347335412953265#m)
 
 ---
 
@@ -135,10 +137,6 @@ RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead
 
 Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation
 
-<img src="/images/elonmusk/card_img_2074867269042151424_PsIkFx5t3Fformat3Djpg26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075367885438890134#m)
-
 ---
 
 ## 2026-07-10 07:55:45
@@ -148,10 +146,6 @@ Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation
 **内容**:
 
 Grok 4.5
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGnmpQPCVRsBH5DcXMM5LuoJO8-lr8AAI2EGsbWkeJVki8UbFBuIzNAQADAgADeAADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075368342014099576#m)
 
 ---
 
@@ -163,8 +157,6 @@ Grok 4.5
 
 Grok doesn’t give up
 
-[查看原文](https://nitter.net/elonmusk/status/2075370255971447176#m)
-
 ---
 
 ## 2026-07-10 08:08:32
@@ -174,10 +166,6 @@ Grok doesn’t give up
 **内容**:
 
 Grok gaming
-
-<img src="/images/elonmusk/amplify_video_thumb_2075348661194899456_img_RuTXAN_m1psK2zaM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075371558588055670#m)
 
 ---
 
@@ -189,11 +177,23 @@ Grok gaming
 
 Grok Build improves almost every day
 
-<img src="/images/elonmusk/amplify_video_thumb_2075259204403892224_img_zGwaUUX7Yk0dgNAp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/elonmusk/amplify_video_thumb_2075259242282663936_img_3Tk7Hv6PPPK5TOiI.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 09:10:59
 
-[查看原文](https://nitter.net/elonmusk/status/2075372185158377948#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok only gets better from here
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGp2pQSqaZzoLbhqccRr6U2qh5C-p_AAJ1EGsbWkeJVvo_ZA5NS0MzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGqGpQSqqZflGgcgHKvlsj_ic9nLRSAAJ2EGsbWkeJVtNpfMwbTBANAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGqWpQSq6iceJFWvC0x8-paJTza8zUAAJ3EGsbWkeJVvc-W96jKPLkAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075387273797853612#m)
 
 ---
 
