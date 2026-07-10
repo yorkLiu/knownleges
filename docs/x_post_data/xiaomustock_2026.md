@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 200 条推文
+> 📊 推文存档 - 共 201 条推文
 
 ---
 
@@ -49,9 +49,21 @@ tags: ["2026"]
 
 密切关注峰哥操作 割肉暴涨， 梭哈暴跌， 希望他今天就割肉，周一暴涨成全大家
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuGpQod89CKyV-0vR6krAMgsWG7diAAJ6EWsbWkeJVsTMejW3cKe7AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2075474657634095577#m)
+## 2026-07-10 20:16:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清素颜视频音频外泄了， 现在AI换脸真可以实现以假乱真， 隐私在这个AI时代异常重要， 再发展下去基本上一套操作下来能突破你所有安全防线。太吓人了这次这事。 被盗资金已经被转移到洗钱地址。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGw2pQ6oMnVyaSAvOpUm7J0RzYr8aTAAJIEmsbWkeJVjwK5j2VsrQQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGHWpOKAOjftoU5xyyyEMl92byTmnzAAIWD2sb_fR4VsjdzRnXt-wwAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2075554820401037509#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 171 条推文
+> 📊 推文存档 - 共 172 条推文
 
 ---
 
@@ -69,9 +69,19 @@ tags: ["2026"]
 
 隨著「巴威去日本」的詛咒和昨天「颱風閉眼消散」的意淫，都被殘酷的現實打臉後，牆內「精緻利己」群體又開始寄希望於「台灣的護國神山撕裂巴威」當中國的「風盾」😮‍💨 大盧必須再出一句「驚人語」沖一下肺管子，颱風巴威「風眼」如果不登陸台灣，就是外圍擦邊而過呢？你們還能有什麼「精神勝利法」？ 本來自然災害來了，全人類都應該互相幫忙，人到難處拉一把，大家都搭把手，也就過去了。唯有鹽鹼地最奇葩，各種詛咒別人，輸出仇恨和愚昧。嗯，咱就等著看，這幫玩意啥時候能長記性！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGvmpQ1LkktQXCXWSxqE0X_hDIiC0kAAIEEmsbWkeJVsrjGLqVmk5pAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075538016849043555#m)
+## 2026-07-10 20:26:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+赤馬紅羊 | 後半年，日本真的要擰成一股繩了 第二解 (上) https://youtu.be/psaejYkmjW0
+
+<img src="/images/dianzhuXS/card_img_2075557194716864513_dmzT4Ylh3Fformat3Djpg26name3D600x314" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075557206406406634#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 274 条推文
+> 📊 推文存档 - 共 275 条推文
 
 ---
 
@@ -49,13 +49,19 @@ Yep, it’s interesting to witness retail capitulation. After we got Bloomberg M
 
 The "Mythical Golden Egg Dragon Candle" predicted the $SIVE rally today. If you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. Do you guys think it's time I should sell courses on TA?
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGv2pQ2_3oMI5It_EWpoYPrQfY1rYlAAIiEmsbWkeJViIUoz6VObMrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGwGpQ3AEn80oRgxxkSgoJKNzAmzYMAAIkEmsbWkeJVvmy3JaT7aWRAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 20:27:45
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGwGpQ3AEn80oRgxxkSgoJKNzAmzYMAAIkEmsbWkeJVvmy3JaT7aWRAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2075539824589860866#m)
+**内容**:
+
+Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. Pairing with Highlanders, a Japanese robotics company. - Agility $CCXI x Foxconn, Toyota - Apptronik x $JBL, Mercedes - Highlanders x Mitsubishi - Figure × BMW - Boston Dynamics x Hyundai (subsidiaries) - Optimus x Tesla (Internal) - Rainbow Robotics x Samsung (subsidiaries) Idk if it's just me of there's a lot of patterns with humanoid companies playing buddy-buddy up with a major auto player/manufacturer. If they're not already vertically integrated by one already. Then the Chinese players like UBTech/AgiBot/Unitree don't seem to care and work with a wide variety of auto players in China. Curious how this trend plays out...
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxGpQ6on8jp5vJgLL9Szc6ZT7szcOAAJJEmsbWkeJVgABDvGzY1F3SAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2075557588159058076#m)
 
 ---
 
