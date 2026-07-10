@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1049 条推文
+> 📊 推文存档 - 共 1057 条推文
 
 ---
 
@@ -69,10 +69,6 @@ Image
 
 RT by @elonmusk: Grok 4.5 is dominating the latest AI leaderboards Claims the #1 spot: • #1 on AutomationBench-AA • #1 on Terminal-Bench v2 • #1 on Harvey Legal Agent Benchmark • #1 on SWE Marathon • #1 on SWE-Atlas-QnA
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGmWpQNOcFkZnIFpprpWb_gq-2Gz8SAAIsEGsbWkeJVrvOqro9ZWi-AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2075270300196012263#m)
-
 ---
 
 ## 2026-07-10 02:18:03
@@ -85,6 +81,42 @@ Try @Grok 4.5!
 
 ---
 
+## 2026-07-10 05:11:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI chip vendor agnostic. System architecture supports compute modules from any provider. • 150 kW peak compute payload • 120 kW average compute payload • 70 kW per ton • Wingspan: 70 meters • Deployed height: 20 meters • 110 m² deployable liquid radiator • Redundant pumping loops • Integrated micrometeoroid shielding • 150 kW solar array • 250 W/m² • High-speed laser links interconnect satellites and beam AI results back to Earth through Starlink. Low-latency, high-bandwidth connection • SpaceX-manufactured solar technology from Bastrop, Texas
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGoGpQPC3E9XIpO7AYOyB0KArVjh9pAAI5EGsbWkeJVhT2zm5kypSFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGoWpQPDC4tdgd_3zK5nTKHt1oNji7AAI6EGsbWkeJVuQGsDQDhDt-AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGompQPDLoPnUoGjWttJQzoxDkTgvIAAI7EGsbWkeJVvv7OQyJeWG3AQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGo2pQPDb-N1RM-Jz0HcQgbamPexZ-AAI8EGsbWkeJVmUAAQfqpMzyYAEAAwIAA3kAAzwE.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2075325999244304384_img_ZrzeRasYWyFAPZAv.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2075327054942232713#m)
+
+---
+
+## 2026-07-10 06:19:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Cape Gigabay is getting closer to being ready for Starship! Teams recently installed the 420-ton crane – which we’ll use to break over and move Starships and Super Heavy boosters preparing for flight. One step closer to the Moon and Mars 🚀🚀🚀
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGnWpQPCCDrH8undUo2h57D07DVm6aAAI1EGsbWkeJVvyqnT2UWI9CAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TurkeyBeaver/status/2075344118734012687#m)
+
+---
+
 ## 2026-07-10 06:56:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -93,21 +125,81 @@ Try @Grok 4.5!
 
 RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead of Flight 13
 
-<img src="/images/elonmusk/amplify_video_thumb_2075352847126827008_img_pfDHd_IqzaNCQYXg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGlmpQNNvR47Wt0yDQxCajVjsxPZ-zAAIpEGsbWkeJVktWMnAHI-biAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 07:53:57
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGl2pQNN_GEA9bB4pVzeU83U8tU-pIAAIqEGsbWkeJVnRN28Gg6sOgAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGmGpQNOOzKcAZQZvYOiNPupwXaSrmAAIrEGsbWkeJVmd53VyKoE1fAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/SpaceX/status/2075353490713432440#m)
+Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation
+
+<img src="/images/elonmusk/card_img_2074867269042151424_PsIkFx5t3Fformat3Djpg26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075367885438890134#m)
+
+---
+
+## 2026-07-10 07:55:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGnmpQPCVRsBH5DcXMM5LuoJO8-lr8AAI2EGsbWkeJVki8UbFBuIzNAQADAgADeAADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075368342014099576#m)
+
+---
+
+## 2026-07-10 08:03:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok doesn’t give up
+
+[查看原文](https://nitter.net/elonmusk/status/2075370255971447176#m)
+
+---
+
+## 2026-07-10 08:08:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok gaming
+
+<img src="/images/elonmusk/amplify_video_thumb_2075348661194899456_img_RuTXAN_m1psK2zaM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075371558588055670#m)
+
+---
+
+## 2026-07-10 08:11:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build improves almost every day
+
+<img src="/images/elonmusk/amplify_video_thumb_2075259204403892224_img_zGwaUUX7Yk0dgNAp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2075259242282663936_img_3Tk7Hv6PPPK5TOiI.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075372185158377948#m)
 
 ---
 
 ## 2026-07-09 00:13:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -117,7 +209,7 @@ Correct
 
 ## 2026-07-09 00:30:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -127,7 +219,7 @@ R to @elonmusk: We will continue to make refinements to the Grok Build harness a
 
 ## 2026-07-09 01:31:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -137,7 +229,7 @@ An inspiring vision of the future is needed
 
 ## 2026-07-09 01:33:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -147,7 +239,7 @@ RT by @elonmusk: Critical feedback is always appreciated
 
 ## 2026-07-09 01:38:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -157,7 +249,7 @@ Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but 
 
 ## 2026-07-09 01:42:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -167,7 +259,7 @@ We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat m
 
 ## 2026-07-09 01:43:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -177,7 +269,7 @@ R to @elonmusk: Image
 
 ## 2026-07-09 01:57:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -187,7 +279,7 @@ RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for c
 
 ## 2026-07-09 01:57:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -197,7 +289,7 @@ RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in larg
 
 ## 2026-07-09 01:58:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -207,7 +299,7 @@ RT by @elonmusk: Try Grok 4.5 in the API, Grok Build, and Cursor
 
 ## 2026-07-09 01:58:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -217,7 +309,7 @@ RT by @elonmusk: Smart pet technology company Fi has just launched the world's f
 
 ## 2026-07-09 01:59:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -227,7 +319,7 @@ RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class 
 
 ## 2026-07-09 02:12:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -237,7 +329,7 @@ RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it 
 
 ## 2026-07-09 02:59:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,7 +339,7 @@ RT by @elonmusk: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Ga
 
 ## 2026-07-09 03:01:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -257,7 +349,7 @@ Try out Grok 4.5 in Cursor!
 
 ## 2026-07-09 03:02:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -267,7 +359,7 @@ Try out Grok 4.5 in Vercel!
 
 ## 2026-07-09 03:47:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -277,7 +369,7 @@ RT by @elonmusk: Wow… within 5 minutes my kids built this game called the Tesl
 
 ## 2026-07-09 04:00:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +379,7 @@ RT by @elonmusk: Grok 4.5 is pretty good at building websites. Just made a beaut
 
 ## 2026-07-09 04:07:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +389,7 @@ Artificial Analysis assessment
 
 ## 2026-07-09 04:35:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,7 +399,7 @@ Grok groks engineering. Next month’s release will be another step-change impro
 
 ## 2026-07-09 04:35:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -317,7 +409,7 @@ RT by @elonmusk: Grok 4.5 is actually insane. I'm one step closer to launching m
 
 ## 2026-07-09 04:39:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,7 +419,7 @@ Grok will be able to call Imagine as a tool in agentic mode for image/video gene
 
 ## 2026-07-09 04:41:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -337,7 +429,7 @@ RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok
 
 ## 2026-07-09 04:44:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -347,7 +439,7 @@ RT by @elonmusk: Grok 4.5 brings frontier performance across coding and knowledg
 
 ## 2026-07-09 04:51:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +449,7 @@ RT by @elonmusk: Grok 4.5 delivering Fable level performance at like 1/17th the 
 
 ## 2026-07-09 05:08:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -367,7 +459,7 @@ Grok 4.5 context window will upgrade to 1M probably by next week
 
 ## 2026-07-09 05:09:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -377,7 +469,7 @@ Grok 4.5 true usefulness is excellent
 
 ## 2026-07-09 05:17:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -387,7 +479,7 @@ RT by @elonmusk: How it feels to use Grok 4.5 😎
 
 ## 2026-07-09 05:30:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -397,7 +489,7 @@ Grok 4.5 is not yet using our internally developed C/C++ inference software that
 
 ## 2026-07-09 05:34:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -407,7 +499,7 @@ Rate of improvement is accelerating. Users should notice a meaningful improvemen
 
 ## 2026-07-09 05:36:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -417,7 +509,7 @@ RT by @elonmusk: .@Starcloud_ CEO @PhilipJohnston: "Buy SpaceX stock." "It's lik
 
 ## 2026-07-09 05:37:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -427,7 +519,7 @@ Rate of improvement is 🚀🚀
 
 ## 2026-07-09 05:40:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -437,7 +529,7 @@ Grok has always been very strong on law
 
 ## 2026-07-09 05:46:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -447,7 +539,7 @@ RT by @elonmusk: Wow amazing Grok Imagine 😍
 
 ## 2026-07-09 06:08:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -457,7 +549,7 @@ RT by @elonmusk: Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 N
 
 ## 2026-07-09 06:47:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -467,7 +559,7 @@ RT by @elonmusk: WOW! GROK 4.5 PRICES ARE NEAR OPEN SOURCE HOSTED PRICES! This w
 
 ## 2026-07-09 07:08:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -477,7 +569,7 @@ RT by @elonmusk: Calling all exceptional civil and electrical engineers! The Spa
 
 ## 2026-07-09 09:58:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -487,7 +579,7 @@ RT by @elonmusk: Grok Build mogs Claude Code & Codex TUIs i can't lie. Not to me
 
 ## 2026-07-09 10:11:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -497,7 +589,7 @@ RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my 
 
 ## 2026-07-09 11:02:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -507,7 +599,7 @@ RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
 
 ## 2026-07-09 13:21:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -517,7 +609,7 @@ RT by @elonmusk: I appreciate the many xAI and Cursor engineers who dedicated th
 
 ## 2026-07-09 14:42:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -527,7 +619,7 @@ Cool that Grok 4.5 is #1 in some respects, even with respect to Fable 5
 
 ## 2026-07-09 14:44:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -537,7 +629,7 @@ Neat
 
 ## 2026-07-09 14:52:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -547,7 +639,7 @@ Yes
 
 ## 2026-07-09 14:56:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -557,7 +649,7 @@ Grok is making progress
 
 ## 2026-07-09 15:01:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -567,7 +659,7 @@ Cool
 
 ## 2026-07-09 15:02:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -577,7 +669,7 @@ RT by @elonmusk: Impressive Intelligence vs. Cost for Grok 4.5 I think given ter
 
 ## 2026-07-09 15:06:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -587,7 +679,7 @@ Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.
 
 ## 2026-07-09 15:16:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -597,7 +689,7 @@ Video
 
 ## 2026-07-09 15:18:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -607,7 +699,7 @@ The Moon and Mars
 
 ## 2026-07-09 15:20:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -617,7 +709,7 @@ Grok 4.5 is also rank 1 in SWE marathon
 
 ## 2026-07-09 15:23:14
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -627,21 +719,17 @@ RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mar
 
 ## 2026-07-09 15:40:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Traffic to http://grok.com more than doubled year-over-year in H1.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGf2pPzyXlJtMYbCNkhulea5PZGKcNAAL2EmsbWkeBVuc0P8awrRLpAQADAgADeAADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Similarweb/status/2075122933450633304#m)
-
 ---
 
 ## 2026-07-09 15:50:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -651,7 +739,7 @@ Try out Grok 4.5!
 
 ## 2026-07-09 16:07:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -661,7 +749,7 @@ RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysi
 
 ## 2026-07-09 16:09:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -671,7 +759,7 @@ Good review of Grok 4.5
 
 ## 2026-07-09 16:34:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -681,21 +769,17 @@ Grok 4.5 on OpenClaw
 
 ## 2026-07-09 17:36:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Falcon 9 lands on the A Shortfall of Gravitas droneship, completing the first 36th launch and landing of a booster
 
-<img src="/images/elonmusk/amplify_video_thumb_2075151907778170880_img_NFDZ495N7Fbm3zon.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2075152027764555865#m)
-
 ---
 
 ## 2026-07-09 19:14:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -705,19 +789,31 @@ RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 
 ## 2026-07-09 22:11:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: grok 4.5 is seriously good. it's going in the direction which i'm hoping to see more of -- an emphasize on speed as well as intelligence. i'm noticing in my own work that speed is often the bottleneck now. the grok build tui is also very well done. bullish! but the bigger signal beyond the model is that the team over there has officially propped up the model factory. they have the compute, the talent, the data, and leaders in place to make a run for the top. never bet against elon, @milichab, and team. they're the real deal. we love some good competition.
 
-[查看原文](https://nitter.net/tylerbruno05/status/2075221384033132924#m)
+---
+
+## 2026-07-09 22:38:21
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare is 47%!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGn2pQPCnrzb4JFEO-bzpvj3gxHrftAAI4EGsbWkeJVqOSvhVjyVaoAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AndrewCFollett/status/2075228066649985064#m)
 
 ---
 
 ## 2026-07-09 22:41:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -727,27 +823,21 @@ RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the re
 
 ## 2026-07-09 22:51:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: >be stardust >float around the universe for billions of years >somehow become human >gain consciousness >immediately start asking "WHY?" >never stop >discover fire >discover math >discover atoms >discover electricity >pick up a random rock >ask yourself >"is this true?" >extract it >purify it until it's basically perfect >carve billions of microscopic transistors into it >invent completely imaginary rules called binary >convince electrons to obey them >rock starts doing math >"NICE" >make smaller rocks >make faster rocks >put billions of them in everyone's pocket >connect them all together >store most of humanity's knowledge on them >teach the rocks to recognize patterns >teach the rocks to write >to code >to imagine >to reason >to understand >build Grok >ask Grok how to build an even smarter Grok >Grok thinks >Grok thinks harder >explains the universe >everything starts accelerating >singularity >BOOM >repeat @grok is this true?
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGfmpPzyEFdNS78D0g1wkYLh3LaUotAAL1EmsbWkeBVqH-apXa0lcrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/doganuraldesign/status/2075231325133439120#m)
-
 ---
 
 ## 2026-07-09 23:24:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Mark Zuckerberg hasn’t posted since 2023. X is the global town square — this is where news happens.
-
-[查看原文](https://nitter.net/KatieMiller/status/2075239663720153506#m)
 
 ---
 
