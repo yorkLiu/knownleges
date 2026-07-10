@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 40 条推文
+> 📊 推文存档 - 共 41 条推文
 
 ---
 
@@ -19,9 +19,21 @@ tags: ["2026"]
 
 A股的科技股，过去向来是一阵风。没有市值标杆，靠的是情绪和风口，归根结底——缺业绩。 今日操作：三维 但这一轮，不一样了。 从工业富联、中际旭创，到兆易创新，一年赚上百亿已成常态。而长鑫，一年能赚千亿——把整个A股科技板块的含金量，拉高了一个等级。 长鑫这次上市，不仅仅是另一家巨头挂牌。它真正在做的事，是把A股科技市值的天花板，直接顶开。如果长鑫给到5万亿市值，那中芯、旭创、富联的2万亿还高吗？寒武纪、海光1万亿还高吗？ 这就是标杆的意义——有了它，科技资产的估值逻辑，会被重新书写。 当然，国内科技多数仍是周期性行业。行业上行时一切好说，低估期怎么定价，才是真正的考验。但在那之前，市场已经先一步给出了答案。 龙头先站住，后排才能有方向。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGhGpP5On0aQEEh6--IuQe3OGfLOQUAAIYE2sbWkeBVtUtcbwFTOttAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/JonathanDi3614/status/2075272694002835753#m)
+## 2026-07-10 15:03:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+午后成交量放大，指数却在往下走。 今日调仓 盘中航天、机器人方向受消息催化拉升，但没有先手的，建议别追。为什么？二季报出不来业绩，纯事件驱动，持续性很难撑住。 量能节奏上，今天成交额可能冲到3.4万亿左右——放得有点快了。手里有加速且处于压力位的，适当减一减；还在低位的，保持定力，别被盘面带偏。 再看资金流向。今天没有继续主攻主线方向，反而流入了一些低位板块，但只是轮动，不是切换。主线一休息，指数就难以为继——这个现象，量化的因素占了大头。人力在速度上拼不过量化。 怎么办？ 只有一个笨办法：坚守一个方向。无论其他方向涨得多热闹，都不眼馋。追来追去，最后发现还是原地踏步。量化赚的是波动的钱，散户能赚的，是认知和耐心的钱。别说自己跑不过量化——你根本不需要跑过它，你只需要比大多数追涨杀跌的人多拿一会儿。方向对了，剩下的交给时间。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGtmpQodjdHZf_D2sqfpGrbqYBT9HzAAJ4EWsbWkeJVgZbNXUzVO1JAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGt2pQodwTZD_gqmJUMxse8ienGyFPAAJ5EWsbWkeJVjSb05NQSSsgAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2075475989753422183#m)
 
 ---
 

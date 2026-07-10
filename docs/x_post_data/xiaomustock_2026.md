@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 199 条推文
+> 📊 推文存档 - 共 200 条推文
 
 ---
 
@@ -39,9 +39,19 @@ tags: ["2026"]
 
 航天的一次性耗材用件产业链归零， 卫星的产业链用量发射量暴增。
 
-<img src="/images/xiaomustock/amplify_video_thumb_2075444011431784448_img_Bu0LTeTgKs2Tkbld.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2075457587223650310#m)
+## 2026-07-10 14:58:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+密切关注峰哥操作 割肉暴涨， 梭哈暴跌， 希望他今天就割肉，周一暴涨成全大家
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuGpQod89CKyV-0vR6krAMgsWG7diAAJ6EWsbWkeJVsTMejW3cKe7AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2075474657634095577#m)
 
 ---
 

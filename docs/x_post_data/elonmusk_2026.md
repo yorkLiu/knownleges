@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1064 条推文
+> 📊 推文存档 - 共 1070 条推文
 
 ---
 
@@ -88,6 +88,20 @@ Try @Grok 4.5!
 **内容**:
 
 RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI chip vendor agnostic. System architecture supports compute modules from any provider. • 150 kW peak compute payload • 120 kW average compute payload • 70 kW per ton • Wingspan: 70 meters • Deployed height: 20 meters • 110 m² deployable liquid radiator • Redundant pumping loops • Integrated micrometeoroid shielding • 150 kW solar array • 250 W/m² • High-speed laser links interconnect satellites and beam AI results back to Earth through Starlink. Low-latency, high-bandwidth connection • SpaceX-manufactured solar technology from Bastrop, Texas
+
+---
+
+## 2026-07-10 05:21:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Built from scratch by Grok 4.5 + Grok Build in UE5.8: a cyberpunk L-corner street with neon facades, rain, signs, and crowds walking through the scene. End-to-end, the run took 10.75M tokens, 36.5 minutes, and only ~$12.4 at API pricing. What impressed me most is not just the final render, but the process: the coding agent built it in many small steps, saved 30+ map checkpoints, verified the scene, and iteratively fixed issues autonomously. Congrats to the @SpaceXAI team for building such an impressive coding model and harness. This feels like a real step toward agentic 3D world creation. @elonmusk @milichab @skcd42 @yunta_tsai #UnrealEngine
+
+<img src="/images/elonmusk/amplify_video_thumb_2075329395037020160_img_ODBQ9UQbKoTdJFr7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/simworld_ai/status/2075329449000886582#m)
 
 ---
 
@@ -199,10 +213,6 @@ RT by @elonmusk: GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK New data fro
 
 RT by @elonmusk: Fable 5 vs Grok 4.5 vs GPT 5.5 We put three top-tier models to build a same game challenge. Used Command Code /design, and the exact same prompt. Result: Grok 4.5 genuinely plays like a polished mobile game. Fable 5 and GPT 5.5 feel too fast. Everything feels rushed, lacks finish. Ranking based on DX & Features: → Grok 4.5: 9/10 → Fable 5: 7.5/10 → GPT 5.5: 7/10
 
-<img src="/images/elonmusk/amplify_video_thumb_2075384521944653824_img_A4NmnRXrc4Xe-VfJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/CommandCodeAI/status/2075384621202878547#m)
-
 ---
 
 ## 2026-07-10 09:10:59
@@ -232,6 +242,62 @@ Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity any
 **内容**:
 
 𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases. This post by Mark Zuckerberg already received over 12 million views for free!
+
+---
+
+## 2026-07-10 13:47:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I fell for a lot of progressive nonsense, and hard. I was literally trans. But two things I can honestly say I never fell for were 1. alternative ways of knowing. Science obviously works, and it’s hard to even coherently describe an alternative. What, you aren’t taking in data or trying to parse it without contradiction? What are you even talking about? I was a new atheist technocratic progressive, and thought the extent to which other groups failed at scientific thinking was a result of disadvantage, but never that scientific thinking itself was bad. Same with everything on that smithsonian chart (being on time etc) 2. Strong anti-hereditarianism. I believed racial average differences were due to discrimination (to the extent I thought about the issue at all, which was infrequently) but the belief that *all* human cognitive differences, even within groups, are due to upbringing was always just facially absurd. There exists such a thing as a smart person, and there are aspects of it that clearly aren’t about education. They talk faster. They’re funnier. They learn *new* concepts faster. Their questions are sharper. It’s textural. It’s visceral. I didn’t know anything about psychometrics or the hereditarian debate at this point. It’s just obvious if you’ve met three humans and are honest.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuWpQoenequssIgO9b1CHFJZNS9iVAAJ7EWsbWkeJVrw3Tb8s_At6AQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArtemisConsort/status/2075456984661598385#m)
+
+---
+
+## 2026-07-10 15:14:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build gets better every day and we love hearing user feedback for improvements
+
+<img src="/images/elonmusk/amplify_video_thumb_2075325769639919617_img_fUKI03Te8SDrwXd1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075478792273842370#m)
+
+---
+
+## 2026-07-10 15:27:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/ext_tw_video_thumb_2075430304928399360_pu_img_amND-5zgQXAbdubn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075482008440930315#m)
+
+---
+
+## 2026-07-10 15:33:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2075252508683853824_img_NATwG-MFlhgDKPUB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075483584102600841#m)
 
 ---
 
@@ -825,6 +891,20 @@ RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 
 ---
 
+## 2026-07-09 19:37:01
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Socialists imagine a class struggle. In their made-up fantasy the CEO is in competition with low level workers, the wealthy entrepreneur is stealing from the underpaid nurse. In reality, workers do not compete vertically they compete horizontally. Entrepreneurs compete with entrepreneurs. Investors outbid each other. CEOs are benchmarked against other CEOs. Nurses are hired from a pool of nurses. Etc. The CEOs pay has no correlation to the entry level workers. The Football star on £300K a week isn’t linked to the person selling drinks in the stadium. A biotech entrepreneur raising VC capital isn’t paid relative to a cleaner. What is linked is the demand and supply dynamic of each role. If a company places an ad for a qualified truck driver and 150 people apply for the role, then the company knows it does not need to increase wages for that role. If the company has an open role for months, it is forced to look at the compensation package. Same for a CEO. A board representing shareholders would like to hire a CEO for a lot less if they could. Their dream scenario would be to hire a CEO who brings in institutional investors, attracts top executives, drives innovation and growth, keeps margins steady and is a good public face for the business even under pressure. It turns out there aren’t a lot of these people looking for work and if you want one you have to pay more than other companies are offering. The class struggle isn’t vertical it’s horizontal. CEOs are in competition with CEOs. Retail workers are in competition with retail workers. Demand and supply dynamics set the price. Sure you can say that a CEO want’s profitability and would like wages to be lower BUT it’s not up to the CEO - demand and supply tension sets the price of workers. An Airline like RyanAir would like free pilots if they could get them but they can’t… so they pay the market rate. The reason incomes are rising at the top and falling at the bottom is not class warfare. It’s technology and globalisation. Technology makes basic jobs simple, remote or fully automated. At the same time tech makes executive roles more leveraged, more important and more valuable. A CEO used to run a smaller organisation. Today a CEO who’s 2% better on a $5B company is generating $100M more. Seems sensible to try and pay a few million to get $100M. Globalisation has put workers from all over the world in completion with each other - downward pressure on wages. Globalisation has given CEOs more market opportunities to explore - upside opportunity to unlock. The rich are not very interested in buying houses that poor people own. The poor are not buying up the homes the rich want. They are separate groups living separate lives. Try finding the genuinely rich people whose strategy is to hoard normal residential homes - it barely exists as a thing. About 85% of landlords are people who own 1-4 properties. Super-landlords (100+ properties) are 0.2% of landlords and own a tiny fraction of the 30M homes in the UK… and they’re heavily taxed. Class warfare isn’t real. It’s an imagined war in the minds of socialists. Demand and supply dynamics are real. To the degree it is measured in class, it’s a horizontal competition not a vertical one.
+
+<img src="/images/elonmusk/amplify_video_thumb_2074816266238410752_img_KYCa0V4syGmSEDsA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/DanielPriestley/status/2075182431574143075#m)
+
+---
+
 ## 2026-07-09 22:11:48
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
@@ -842,10 +922,6 @@ RT by @elonmusk: grok 4.5 is seriously good. it's going in the direction which i
 **内容**:
 
 RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare is 47%!
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGn2pQPCnrzb4JFEO-bzpvj3gxHrftAAI4EGsbWkeJVqOSvhVjyVaoAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AndrewCFollett/status/2075228066649985064#m)
 
 ---
 
