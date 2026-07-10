@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 245 条推文
+> 📊 推文存档 - 共 246 条推文
 
 ---
 
@@ -259,12 +259,6 @@ mi姐“晚安”，mi姐“戒网”，是本世纪最大谎言
 
 大盘依然收在上涨趋势线之下，只有站上趋势线，才能积极做多，昨天复盘的建议就是持股不动，倘若今天开盘追的，收盘时的体感一定会很差。未来还有一周左右的多空博弈时间，观察资金的流向。不要去赌1-2天的行情。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGu2pQt7Efn6vu_y9lE4Mik6EFkVIhAAK5EWsbWkeJVldvRTSNoo6zAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF_mpNrIBKGTJG1NBvcvp4uXZ_7zKXAALlEWsb_fRwVsc4bHN_fiH6AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075501335794057409#m)
-
 ---
 
 ## 2026-07-10 16:57:39
@@ -275,9 +269,19 @@ mi姐“晚安”，mi姐“戒网”，是本世纪最大谎言
 
 昨天还在喊“半导体”yyds的，今天就老实了吧！ 今天这根放量下跌，说明这个位置已经有明显的资金出逃迹象。从周线来看，趋势也明显转弱，呈现出“不创新高、创新低”的弱势特征。 在这种情况下，最理想的走势并不是继续拉升，而是在当前位置进行约5、6个月的高位震荡，充分完成筹码换手和压力消化后，再选择新的方向。否则，如果没有足够的时间换空间，后续走势大概率仍将承压。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGumpQt60AAd2ef3O9qm0NKSsfSMJ8hQACuBFrG1pHiVZiXmlOWby9ewEAAwIAA3gAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075504714528243816#m)
+## 2026-07-10 17:15:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哈哈哈哈哈
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGvGpQvu0qrAxq64rZRk58Iy-EgVPDAALMEWsbWkeJVodybS3zhgwBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075509255642452328#m)
 
 ---
 
