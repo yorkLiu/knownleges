@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1075 条推文
+> 📊 推文存档 - 共 1078 条推文
 
 ---
 
@@ -269,10 +269,6 @@ Grok Build gets better every day and we love hearing user feedback for improveme
 
 RT by @elonmusk: GAVIN BAKER: “Tesla and Elon have done more to decarbonize the world than all environmental activists combined.”
 
-<img src="/images/elonmusk/amplify_video_thumb_2075480100649287680_img_7EKHi7iNVkSJ14YK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/TheChiefNerd/status/2075480598617927810#m)
-
 ---
 
 ## 2026-07-10 15:27:26
@@ -303,10 +299,6 @@ Video
 
 Model comparison
 
-<img src="/images/elonmusk/card_img_2072923291824836608_xE1KGzI33Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075487063848206727#m)
-
 ---
 
 ## 2026-07-10 16:06:49
@@ -317,9 +309,45 @@ Model comparison
 
 😂
 
-<img src="/images/elonmusk/amplify_video_thumb_2075072499495407616_img_d7luC8hYn207X4Rr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075491921540034689#m)
+## 2026-07-10 23:41:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 has the best real-world ROI
+
+[查看原文](https://nitter.net/elonmusk/status/2075606415264080104#m)
+
+---
+
+## 2026-07-10 23:42:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try @grok
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGyWpRFiLL-Rqz6TrTwKS9p2VZnLydAAKVEmsbWkeJVjm3UihZUjYaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075606632629752137#m)
+
+---
+
+## 2026-07-10 23:47:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGyGpRFh7R7_ZexzLmPSUtMbLLcGdpAAKUEmsbWkeJVqtT5GE9js1UAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075607754429854036#m)
 
 ---
 

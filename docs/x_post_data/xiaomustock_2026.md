@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 202 条推文
+> 📊 推文存档 - 共 203 条推文
 
 ---
 
@@ -69,11 +69,17 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 去年真是满大街的好机会， 当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐， 去年的股票能预期业绩涨十倍股价也能十倍， 现阶段大部分AI红利涨幅被吃完了， 预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。 只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxmpRDtm3cQv0e1itBFrp0DA8-NmbAAKIEmsbWkeJViUvsHeUg1SXAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGx2pRDtzdQ9uAv5NAi5XCny6ksqBYAAKJEmsbWkeJVhOkJy5NqIGBAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 23:20:34
 
-[查看原文](https://nitter.net/xiaomustock/status/2075596586986754131#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+对于国内来说，可回收火箭搞卫星通信优势不大，但是商业航天搞全球火箭物流速运，优势极大，高速传输。全球公海上搞一堆火箭接收平台。 满世界火箭发快递。 全球物流的极速传递，国人有机会这么干。 只要每公斤的单价卷到足够低的时候就是物流模式变革之日。
+
+[查看原文](https://nitter.net/xiaomustock/status/2075601078062879107#m)
 
 ---
 
