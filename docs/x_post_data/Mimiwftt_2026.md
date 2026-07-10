@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 229 条推文
+> 📊 推文存档 - 共 234 条推文
 
 ---
 
@@ -109,15 +109,85 @@ Pinned: 【中长线投资策略——以价值为锚，以时间为友】 建�
 
 3月份我还在退网，当时已经让课代表把我对恒科的策略同步到了 X。一直关注我的朋友应该都知道，当时我的核心观点并不是去预测最低点，而是给出应对市场的交易思路。 如果本身有成熟的交易体系，完全可以结合我的提示，选择高抛低吸；如果更偏稳健，则可以控制仓位，采取逢低定投的方式参与。 就目前来看，恒科已经完成了底部低估值的阶段性修复，但我认为这并不意味着真正的趋势反转已经确立。虽然指数已经回到4800点附近，但整体仍然属于左侧区间，趋势尚未得到确认。 因此，对于此前没有参与、现在才准备进场的投资者，我更倾向于建议选择右侧交易，而不是盲目追高。等指数有效突破250日均线，并形成明确的趋势反转信号后，再考虑逐步增加仓位，会是风险收益比更合理的选择。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGmmpQNO6iOVkXdYTMC9BM5qkyYMCZAAItEGsbWkeJVmOQUwIhqAyXAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGm2pQNPFJI5fPLsylzSoscvre3_CgAAIuEGsbWkeJVjdkpML-WyelAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 10:00:07
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGnGpQNPQjfOy4M3P-1r6Sq1KgfF6TAAIvEGsbWkeJVqr33p-AOUHzAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGAWpNyZSF9HvbSltEWfcNnqjviUoUAAIGEmsb_fRwVgNQve8wNyakAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075365204507156896#m)
+医药今天大幅拉升
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGsmpQWU2Ifa7FtcCjOGMDB1LYYkihAAK0EGsbWkeJVqBQyhN5imrYAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075399639705215127#m)
+
+---
+
+## 2026-07-10 10:02:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+别追，机会早就给过了，而且说过不是短线。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGsWpQWUvfmvX-5KHK3Jlzn5bMRNTBAAKzEGsbWkeJVr0JZOYooyy2AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075400344960631011#m)
+
+---
+
+## 2026-07-10 10:08:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看过昨天复盘的就知道我提到的跌不下去的了，AI应用相关的下游。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGsGpQWUdrLbzeDU9nFxVqPjHltT2xAAKyEGsbWkeJVvWYJN7VsUFrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075401740485337141#m)
+
+---
+
+## 2026-07-10 10:12:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哈哈哈，我想低调一下的。提醒你们别追！追涨被套不关我事🤷‍♀️
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGrmpQWUH1i-R7Zk0WPjg3fEXyJjZOAAKvEGsbWkeJVn1lkcMXTNtTAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGr2pQWUQW4Tb867gn53jmjSF-4BgkAAKxEGsbWkeJVusmRCM7unjyAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075402740159889659#m)
+
+---
+
+## 2026-07-10 10:15:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+满眼大涨的都是医药！今天没有低吸点！昨天是机会。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGrWpQWT2iCWDRoz2z99VGw0AWBGhaAAKuEGsbWkeJVvJkUDlwC-4pAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075403522259177525#m)
 
 ---
 
