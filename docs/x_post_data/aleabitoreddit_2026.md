@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 275 条推文
+> 📊 推文存档 - 共 276 条推文
 
 ---
 
@@ -59,9 +59,19 @@ The "Mythical Golden Egg Dragon Candle" predicted the $SIVE rally today. If you 
 
 Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. Pairing with Highlanders, a Japanese robotics company. - Agility $CCXI x Foxconn, Toyota - Apptronik x $JBL, Mercedes - Highlanders x Mitsubishi - Figure × BMW - Boston Dynamics x Hyundai (subsidiaries) - Optimus x Tesla (Internal) - Rainbow Robotics x Samsung (subsidiaries) Idk if it's just me of there's a lot of patterns with humanoid companies playing buddy-buddy up with a major auto player/manufacturer. If they're not already vertically integrated by one already. Then the Chinese players like UBTech/AgiBot/Unitree don't seem to care and work with a wide variety of auto players in China. Curious how this trend plays out...
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxGpQ6on8jp5vJgLL9Szc6ZT7szcOAAJJEmsbWkeJVgABDvGzY1F3SAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2075557588159058076#m)
+## 2026-07-10 22:38:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing. Is because they can do degen option calls instead of individual stock purchases.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxWpRB5ZUbu1-ThABE9uOarwKGwcYAAJ5EmsbWkeJVsm9qOkf_QPWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2075590371531493729#m)
 
 ---
 
