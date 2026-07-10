@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 277 条推文
+> 📊 推文存档 - 共 278 条推文
 
 ---
 
@@ -19,11 +19,19 @@ tags: ["2026"]
 
 Sk Hynix is now trading under $SKHYV! It's now up an insane 16%. I wonder how Sk Hynix over in Korea is going to react on Monday.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGy2pRHWjU-O6bI12cud97LOl4UIltAAKhEmsbWkeJVugBFDoHZIsJAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxWpRB5ZUbu1-ThABE9uOarwKGwcYAAJ5EmsbWkeJVsm9qOkf_QPWAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-11 01:31:39
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2075611260771852590#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Rosenblatt on recent optical sector weakness from $AAOI to $LITE: "Stocks in the Optical sector have traded poorly for the last 1-2 months" due to CPO delay reports and China capacity scares. "We think short sellers... do not actually strongly believe in the thesis." Multiple short sellers told them they will likely close their positions... late July and early August. Further, they say they plan to buy Optical stocks in 2027 for the scale up CPO opportunity. Hilarious report on laser weakness, read is very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector, but seems like institutions want entry points, just a bit later on.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGzGpRMzG3ZnaPHfT56zMEM2gxRmOYAAIjE2sbWkeRVgfRi7-38ZI8AQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2075634064518955297#m)
 
 ---
 
