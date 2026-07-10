@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 238 条推文
+> 📊 推文存档 - 共 241 条推文
 
 ---
 
@@ -199,7 +199,43 @@ Video
 
 R to @Mimiwftt: 太空光伏看反弹，位置看复盘文字。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075455582635782583#m)
+---
+
+## 2026-07-10 14:01:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+继续领悟之前的这段文字吧。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075460392621609234#m)
+
+---
+
+## 2026-07-10 14:13:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+交易如此，人生亦然。不刻意迎合，不内耗自己，顺势而行，自有从容。
+
+<img src="/images/Mimiwftt/amplify_video_thumb_2075463309902696448_img_FKnkWca3g2Q2TKYW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075463398008201568#m)
+
+---
+
+## 2026-07-10 14:18:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: “你甚至都不需要有翅膀” 通俗些：风来了猪都能上天🤣🤣🤣
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075464645587116138#m)
 
 ---
 
