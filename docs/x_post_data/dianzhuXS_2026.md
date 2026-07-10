@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 167 条推文
+> 📊 推文存档 - 共 169 条推文
 
 ---
 
@@ -29,13 +29,37 @@ tags: ["2026"]
 
 中國大陸的報導，純屬文字遊戲「報喜不報憂」。 所謂的「昨晚減弱」其實是新風眼替換舊風眼的短暫交替，或者說昨晚減弱勉強是事實，但今日凌晨又增量了，怎麼不直接說？用一堆專業術語忽悠傻子。「央氣」最終預測是又內部劃線「颱風不能過17級」了？200斤指明的方向？ 正常人類再聽大盧說一遍「敬畏天地」，今日午時～申時再看第四次風眼置換有沒有成功，這才是關鍵！但對中國大陸來說即使第四次風眼置換沒成功，也是風災可免水災難逃。另今日恰逢每月例行拜懺法會，為台灣祈福消災💪
 
+---
+
+## 2026-07-10 08:37:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+中國大陸的報導，純屬文字遊戲「報喜不報憂」。 所謂的「昨晚減弱」其實是新風眼替換舊風眼的短暫交替，或者說昨晚減弱勉強是事實，但今日凌晨又增量了，怎麼不直接說？用一堆專業術語忽悠傻子。「央氣」最終預測是又內部劃線「颱風不能到17級」了？200斤指明的方向？ 正常人類再聽大盧說一遍「敬畏天地」，今日午時～申時再看第四次風眼置換有沒有成功，這才是關鍵！但對中國大陸來說即使第四次風眼置換沒成功，也是風災可免水災難逃。另今日恰逢每月例行拜懺法會，為台灣祈福消災💪
+
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGpGpQPD3609LstO-pBhMQusqmfSeDAAI9EGsbWkeJVhPMp2ZOYAU3AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGpWpQPEEn2w801b_nE7ll4aF1bEBMAAI-EGsbWkeJVjTo6mJamdUuAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGlWpQLZeXkG5rCcfQnNiRT6lIJhp_AAIZEGsbWkeJVjv9_OfyvDP5AQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075369719276896756#m)
+[查看原文](https://nitter.net/dianzhuXS/status/2075378870086488145#m)
+
+---
+
+## 2026-07-10 08:44:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+什麼叫風眼？ 一目了然 另外別再跟我曬 「中國大陸沿海萬里無雲」 那正是雲層已經被颱風能的現象 現在越是大晴天 過兩天風越大雨越大 實話難聽，愛聽不聽
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGpmpQQ2OXDzQsTy6aqgfbPmtmNnHtAAJbEGsbWkeJVgR8HujqUpLkAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075380673419022667#m)
 
 ---
 
