@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 251 条推文
+> 📊 推文存档 - 共 253 条推文
 
 ---
 
@@ -329,9 +329,33 @@ mi姐“晚安”，mi姐“戒网”，是本世纪最大谎言
 
 晚安💤
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGvWpQxjKkRyB9qv3j9wc5UOz_Wfk-AALhEWsbWkeJVln4kqv73SBwAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075523907566940652#m)
+## 2026-07-10 19:47:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哈哈哈。每天要笑死在网上。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGwmpQ40IzSR9Rs6n50SzybbuQUTiKAAIyEmsbWkeJVm7F_EykNCvlAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075547463898042877#m)
+
+---
+
+## 2026-07-10 20:04:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+正如我中午提示的：今天市场明显属于放量分歧，并非单纯的增量资金推动，因此指数走出了冲高回落的走势。 三市成交额达3.41万亿元，较前一交易日增加4784亿元。上证指数盘中一度站上4000点，最高触及4074点，随后在获利盘兑现和高位抛压释放下回落，最终收于3996点。 虽然指数收跌，但市场整体情绪并不差，全市场上涨3772家、下跌1678家，涨幅中位数1.23%，赚钱效应依然存在，说明本轮调整更多是权重股回落和资金高位换手，而非市场整体走弱。 整体来看，4000点作为重要的心理和技术压力位，放量回落更偏向于一次健康的换手，而不是恐慌性出逃。后续重点关注指数能否守住3950—3980点支撑区间，以及成交额能否继续维持高位。若资金活跃度不减、市场承接良好，指数仍有望蓄势后再次挑战4000点上方。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGs2pQZ7ucbj33WqY4xKBb_qbU7gwFAALiEGsbWkeJVvlzSEaqM3JXAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075551778259742825#m)
 
 ---
 
