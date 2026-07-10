@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1062 条推文
+> 📊 推文存档 - 共 1063 条推文
 
 ---
 
@@ -129,10 +129,6 @@ RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead
 
 RT by @elonmusk: Wally Funk waited 60 years to get to space, and no one ever earned it more. She trained with the Mercury 13 in 1961, out-tested the men, and was told no anyway. She never stopped flying — 19,600 hours, thousands of students, a lifetime of firsts. Five years ago this month, I had the honor of flying with her on New Shepard's first crewed flight. At 82, she was fearless, joyful, and asking to go again before we’d even landed. Her dream took six decades, but it came true. Dreams have no expiration date. Godspeed, Wally.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGq2pQWTI2ULEU992E-WrjO_vEB9B8AAKsEGsbWkeJVoAWxyDpo8giAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JeffBezos/status/2075363502441865592#m)
-
 ---
 
 ## 2026-07-10 07:53:57
@@ -193,10 +189,6 @@ Grok Build improves almost every day
 
 RT by @elonmusk: GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK New data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks. On their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy): • Grok 4.5: 29% mean pass rate • GPT 5.5: 22% • Claude Opus 4.8: 21% Grok 4.5 showed particularly strong gains in demanding areas like legal work, education, healthcare, and QA analysis. This lines up with xAI’s focus on building models that excel at practical, agentic work rather than just synthetic benchmarks. While general intelligence leaderboards still see tight competition at the very top, Grok 4.5 is delivering some of the strongest results on actual professional deliverables right now.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGrGpQWTfriCg5fBbhqcMM4qRf5Az4AAKtEGsbWkeJVr6icaXT1Qv_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2075375036916187560#m)
-
 ---
 
 ## 2026-07-10 09:10:59
@@ -217,9 +209,17 @@ Grok only gets better from here
 
 Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world
 
-<img src="/images/elonmusk/card_img_2074666862106079232_AqKLrTb93Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075402626284368071#m)
+## 2026-07-10 10:16:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases. This post by Mark Zuckerberg already received over 12 million views for free!
+
+[查看原文](https://nitter.net/elonmusk/status/2075403875410928124#m)
 
 ---
 
