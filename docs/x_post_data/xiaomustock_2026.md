@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 198 条推文
+> 📊 推文存档 - 共 199 条推文
 
 ---
 
@@ -29,9 +29,19 @@ tags: ["2026"]
 
 国内可回收火箭成功了，卧槽，牛逼炸了。 @elonmusk
 
+---
+
+## 2026-07-10 13:50:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+航天的一次性耗材用件产业链归零， 卫星的产业链用量发射量暴增。
+
 <img src="/images/xiaomustock/amplify_video_thumb_2075444011431784448_img_Bu0LTeTgKs2Tkbld.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/xiaomustock/status/2075444072588927151#m)
+[查看原文](https://nitter.net/xiaomustock/status/2075457587223650310#m)
 
 ---
 

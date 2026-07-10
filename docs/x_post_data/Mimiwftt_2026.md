@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 237 条推文
+> 📊 推文存档 - 共 238 条推文
 
 ---
 
@@ -189,19 +189,17 @@ Video
 
 昨天复盘提到见底的航天航空也是午后商业航天消息利好消息带领军工方向集体暴涨。 如果盘面没有见底，消息面带不起来这么大面积的涨停。 尤其还有很多跟商业航天无关的航空装备和船舶制造。 消息面是催化剂，行业板块见底是基础。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGtGpQhMv-qgABNNvE6aMafQKzhyfVKwACLRFrG1pHiVYmzrb5I_Yp_gEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGtWpQhM8oc0vUdJfyXXUQp9hdje7yAAIuEWsbWkeJVjLa2hkq4Mj9AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-10 13:42:25
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+R to @Mimiwftt: 太空光伏看反弹，位置看复盘文字。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075452317487546731#m)
+[查看原文](https://nitter.net/Mimiwftt/status/2075455582635782583#m)
 
 ---
 
