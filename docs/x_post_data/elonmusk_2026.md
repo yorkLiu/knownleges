@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1063 条推文
+> 📊 推文存档 - 共 1064 条推文
 
 ---
 
@@ -191,6 +191,20 @@ RT by @elonmusk: GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK New data fro
 
 ---
 
+## 2026-07-10 09:00:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Fable 5 vs Grok 4.5 vs GPT 5.5 We put three top-tier models to build a same game challenge. Used Command Code /design, and the exact same prompt. Result: Grok 4.5 genuinely plays like a polished mobile game. Fable 5 and GPT 5.5 feel too fast. Everything feels rushed, lacks finish. Ranking based on DX & Features: → Grok 4.5: 9/10 → Fable 5: 7.5/10 → GPT 5.5: 7/10
+
+<img src="/images/elonmusk/amplify_video_thumb_2075384521944653824_img_A4NmnRXrc4Xe-VfJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/CommandCodeAI/status/2075384621202878547#m)
+
+---
+
 ## 2026-07-10 09:10:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -218,8 +232,6 @@ Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity any
 **内容**:
 
 𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases. This post by Mark Zuckerberg already received over 12 million views for free!
-
-[查看原文](https://nitter.net/elonmusk/status/2075403875410928124#m)
 
 ---
 
