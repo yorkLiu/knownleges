@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 276 条推文
+> 📊 推文存档 - 共 279 条推文
 
 ---
 
@@ -219,8 +219,6 @@ R to @Mimiwftt: 所以不要开超市，1-2只股票即可，用仓位管理控�
 
 R to @Mimiwftt: 我身边没有“纯跟票”的人，都是学习悟道的年轻人。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075859328523964911#m)
-
 ---
 
 ## 2026-07-11 16:43:20
@@ -230,24 +228,6 @@ R to @Mimiwftt: 我身边没有“纯跟票”的人，都是学习悟道的年�
 **内容**:
 
 你们自己去复盘就知道了。这些耳熟能详的热门方向，基本都是跟随大盘在1—2月见顶后，一路回落、持续调整。 如果放在一个大周期来看，单边上涨之后出现相应幅度的回踩，本就是市场运行的正常规律。很多人在高位追涨，随后一路承受回撤，这才是被套的根本原因。 市场没有错，涨跌自有其规律。真正的问题在于，看不懂市场、不愿学习，只是一味抱怨。如此循环下去，不仅无法提高认知，更难以走出因无知而不断重复犯错的困境。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG4mpSBe_1GYtmgFHqeQ8AAQS3Lwj2iwAC6w5rGw7tkVaQMUKsgrwCqAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG42pSBfOWaWuD8KFMWh4dXNMTJUq7AALsDmsbDu2RVtCXi79iGI5wAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG5GpSBfehiQonhmSw65AclvquI8BpAALtDmsbDu2RVgNU1iiXcIyYAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG5WpSBfuaxuPRlVd-GycRjTrdScHcAALuDmsbDu2RVuoBBfG7fGBIAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG3WpR_qoU8y7U9U6ewZO6mZyD5kQUAALcDmsbDu2RVqh_Zf1RLtauAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG3mpR_q68Bj56OTC8yh0ELp0D8RbOAALdDmsbDu2RVmbaXYKA-MOOAQADAgADeQADPAQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG32pR_rJYnHiVez8rdqu7l_J5wjpYAALeDmsbDu2RVh60kDeZOBekAQADAgADeQADPAQ.jpg" alt="图片 7" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG4GpR_rW3qbaHRYI2MA_JZISFtwYgAALfDmsbDu2RVk5h9bvURxsmAQADAgADeQADPAQ.jpg" alt="图片 8" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075863499364847853#m)
 
 ---
 
@@ -259,7 +239,45 @@ R to @Mimiwftt: 我身边没有“纯跟票”的人，都是学习悟道的年�
 
 我公开内容难道还不够香吗？我哪儿有那么多精力照顾到所有人啊！🤣🤣🤣
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075863763434233867#m)
+---
+
+## 2026-07-11 16:54:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你们再去回看我这一段对话！再对照这半年走过来的行情。2季度大部分板块（除了硬科技半岛，通信，元器件主升）都在持续下跌。 明确指出中线买点要在2季度里找。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG6GpSDTptR9hVnlzYlRSCgMrbHqT9AAL9DmsbDu2RVhVHTgmwI7GaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075866378511565065#m)
+
+---
+
+## 2026-07-11 17:00:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+会买的是徒弟，会卖的是师父，会空仓的是祖师爷。 股市交易3年入门，10年走下来大概才能形成稳定盈利。 现在的你要么低头努力学习，要么销户好好上班，远离交易市场！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075867819145830681#m)
+
+---
+
+## 2026-07-11 17:25:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+晚安💤
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG52pSDTfzbmW3fltKOs11ZqtaWYV5AAL8DmsbDu2RVow3AAEq7lIXFgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075874077353636071#m)
 
 ---
 
