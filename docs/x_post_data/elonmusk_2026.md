@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1107 条推文
+> 📊 推文存档 - 共 1110 条推文
 
 ---
 
@@ -229,12 +229,6 @@ Falcon Rising
 
 RT by @elonmusk: The Anglo-Scottish Enlightenment – the real antidote to Rousseau and Voltaire The French Enlightenment and the Anglo-Scottish Enlightenment happened simultaneously, in the same century, reading the same books, arguing about the same questions. They reached completely opposite conclusions. One produced the Declaration of Independence and the American Constitution. The other produced the guillotine. This is the most important civilizational fork in modern history. 1. The French Enlightenment begins with the assumption that human beings can be improved by reason – that if you strip away the corrupting institutions of Church, tradition, and inherited authority, the natural goodness underneath will organize itself into a just society. This sounds like progress. It is a fantasy with a body count. Every attempt to implement it has required, at some point, a Committee of Public Safety to handle the people who turned out not to be naturally good enough. 2. The Anglo-Scottish Enlightenment begins with the opposite assumption: human beings are what they are, not what they could be if properly enlightened. Hume grounds morality in human nature as it actually operates – sympathy, habit, sentiment, the slow accumulation of social trust. Smith shows that self-interest, properly channeled, produces collective benefit without a planner. Neither man is building a utopia. Both are building with the actual material available. 3. Burke is the direct refutation, written in real time. He published Reflections on the Revolution in France in 1790 – before the Terror, predicting it precisely – because he understood that institutions are not obstacles to human flourishing, they are its precondition. They contain accumulated wisdom — the knowledge of the dead — that cannot be recovered once destroyed. Pull society apart to improve it and you don’t get the General Will. You get Robespierre. 4. The American founders read Burke, Hume, Smith, and Montesquieu – the Frenchman who looked at England and understood what France was missing. They built a system that takes human nature as given — self-interested, power-hungry, tribal — and constructs institutions to contain those tendencies rather than assume they disappear once the right people are in charge. Checks and balances are not a design flaw. They are what you build when you don’t believe in philosopher-kings. 5. 1776 versus 1789. Same Enlightenment, same century, same vocabulary of liberty and reason. One produces a constitutional republic that has survived two and a half centuries of stress, civil war, and upheaval. The other produces, in sequence: the Terror, Napoleon, 1848, the Commune, and eventually — via Marx, who was a Frenchman in spirit if not in birth — the entire catastrophe of the twentieth century. The difference was not intelligence or intention. It was the starting assumption about human nature. Get that wrong and everything that follows is wrong with it. 6. The guillotine is not the Revolution’s failure. It is its logical conclusion. If man is naturally good and the system is corrupt, then whoever seizes the system in the name of natural goodness is licensed to do anything. The General Will cannot be wrong. Those who resist it are not opponents – they are enemies of nature itself. 7. The real antidote to Rousseau and Voltaire was never a better French philosopher. It was a different civilizational tradition – one that builds with human beings as they are; that treats inherited institutions as repositories of wisdom rather than obstacles to progress; that distributes power rather than concentrating it in whoever currently claims to know the General Will. That tradition was built in Edinburgh, London, and Philadelphia. It is currently under sustained assault — from exactly the same ideas, in exactly the same form, with exactly the same confidence — that Burke watched demolish France in 1789. He was right then. He is right now.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG6mpSIwABZc1pzo7pdVHCCBtR-PEx8AACGQ9rGw7tkVbeMOk9ICV-WwEAAwIAA3gAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG62pSIwTO7SNQllyCiVp8F6_Gi_aLAAIaD2sbDu2RVgexXicbKl7bAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Kristof_Poland/status/2075864669151998341#m)
-
 ---
 
 ## 2026-07-11 18:12:10
@@ -244,10 +238,6 @@ RT by @elonmusk: The Anglo-Scottish Enlightenment – the real antidote to Rouss
 **内容**:
 
 Nuanced
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG7GpSIwl8kIOAh17ADm8UU4AfQlLyAAIbD2sbDu2RVhY9Gj2JeCRpAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075885854787064241#m)
 
 ---
 
@@ -259,8 +249,6 @@ Nuanced
 
 They sure put a lot of effort into this crime
 
-[查看原文](https://nitter.net/elonmusk/status/2075887316577439860#m)
-
 ---
 
 ## 2026-07-11 18:32:43
@@ -270,10 +258,6 @@ They sure put a lot of effort into this crime
 **内容**:
 
 Cybercab at a fork in the road
-
-<img src="/images/elonmusk/amplify_video_thumb_2075766313142845440_img__PNl2ym0qC28YRiI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075891028284903616#m)
 
 ---
 
@@ -285,9 +269,45 @@ Cybercab at a fork in the road
 
 He takes scamming to a whole new level
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG6WpSIvy34jrjghAuTTFfwbFrD9lbAAIYD2sbDu2RVlbSbxTZEysgAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075892136604573903#m)
+## 2026-07-11 20:52:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+By “this” he means scamming 🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG7WpSQA_yvXvnt1FP_KMaR--ozzYkAAJIDmsbDu2ZVton5vZA5A2kAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075926239848611976#m)
+
+---
+
+## 2026-07-11 20:53:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: He might literally love scamming more than any human alive!
+
+[查看原文](https://nitter.net/elonmusk/status/2075926480387776675#m)
+
+---
+
+## 2026-07-11 20:54:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2075593531998015488_img_qNJHMh1Y6yhoa9Fa.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075926721337991455#m)
 
 ---
 
