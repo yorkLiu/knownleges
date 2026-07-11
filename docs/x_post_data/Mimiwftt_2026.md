@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 268 条推文
+> 📊 推文存档 - 共 269 条推文
 
 ---
 
@@ -159,9 +159,17 @@ tags: ["2026"]
 
 老公说今天发奖金了，请你吃寿司🍣😆
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG12pRxIfxp4SMfkF3zr0C-qFgMSxPAAJkDmsbDu2RVlSjlMzZDaDBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075790718426341405#m)
+## 2026-07-11 12:43:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不要和经济周期较劲，人生不是一场永不停歇的冲刺，而是一场关于体验的旅程。 很多焦虑，并非源于现实，而是源于欲望。当欲望少一点，对当下的感受多一点，你会发现，生活本就有属于自己的节奏。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075803092453597668#m)
 
 ---
 
