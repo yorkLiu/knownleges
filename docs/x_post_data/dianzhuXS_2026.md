@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 174 条推文
+> 📊 推文存档 - 共 175 条推文
 
 ---
 
@@ -29,11 +29,23 @@ tags: ["2026"]
 
 有圖有真相，巴威風眼根本沒登陸台灣，護國神山不會為中國大陸「擋槍」。牆人精緻利己的意淫又一次打臉了🤦
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG0WpRe93mIqdiCo8sd9LmxBdFTQVOAAJmE2sbWkeRVkmOeRh1eM7GAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGvmpQ1LkktQXCXWSxqE0X_hDIiC0kAAIEEmsbWkeJVsrjGLqVmk5pAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-11 14:36:16
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075714477329387728#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有圖有真相 中國大陸「央氣」官宣 颱風巴威已重回「強颱風等級」 並與我們預測的一樣 「風眼」與台灣擦邊而過 事實證明「天佑善人」真實不虛 此時此刻大盧判斷台灣已經穩了 颱風巴威正在中國大陸沿海 集結最終的爆發力 「風眼」登陸第一站～溫州 登陸後就會與牆人精緻利己 心念共振禍福自招 另今日法會進行中 如果不太累的話 今晚直播聊聊「 天佑善人」
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG3GpR6NyTCpSM148VXDHisIVL4HscAAKvDmsbDu2RVmk6AiPZtkV5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGpGpQPD3609LstO-pBhMQusqmfSeDAAI9EGsbWkeJVhPMp2ZOYAU3AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGpWpQPEEn2w801b_nE7ll4aF1bEBMAAI-EGsbWkeJVjTo6mJamdUuAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075831519621615635#m)
 
 ---
 
