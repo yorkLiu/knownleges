@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 269 条推文
+> 📊 推文存档 - 共 271 条推文
 
 ---
 
@@ -169,7 +169,37 @@ tags: ["2026"]
 
 不要和经济周期较劲，人生不是一场永不停歇的冲刺，而是一场关于体验的旅程。 很多焦虑，并非源于现实，而是源于欲望。当欲望少一点，对当下的感受多一点，你会发现，生活本就有属于自己的节奏。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075803092453597668#m)
+---
+
+## 2026-07-11 13:18:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【复习上周四的语音复盘再思考一下仓位管理的重要性】 我很多人不是不会选股，而是不会管理仓位。 仓位只有两种状态：空仓或者满仓。涨了怕踏空，跌了就硬扛，本质上还是在赌。 仓位管理不是预测市场，而是应对市场。 很多人把仓位管理理解成每天加一点、减一点，频繁操作。实际上，仓位调整只服务于两件事：确定性提高时增加收益，不确定性增加时控制风险。 比如我之前提到，指数跌破4000点以后，重仓账户要把仓位控制在五成甚至以下。因为趋势已经走弱，在趋势没有反转、底部没有确认之前，继续重仓没有意义。 等趋势反转或者底部确认后，再逐步加仓，做的是确定性。 同时我也提到，当指数回落接近250日均线时，小仓位可以适当参与，博弈支撑位附近的阶段性反弹。这也是基于交易逻辑，而不是盲目抄底。 很多人只记住了”加仓”，却忽略了前提条件。该减仓的时候不减，该轻仓的时候重仓，最后把仓位变成了情绪。 仓位不是固定的，而是跟着市场的确定性变化。 确定性高，就提高仓位，让利润放大；确定性低，就降低仓位，把回撤控制住。 交易不是每天都要操作，更不是每天都要加仓、减仓。 很多人把频繁交易当成能力，其实大多数操作都是无效的。真正重要的不是交易次数，而是每一次交易有没有逻辑。 仓位管理的核心只有一句话：确定性高的时候多赚，不确定性高的时候少亏。 这才是仓位存在的意义。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075811982276743177#m)
+
+---
+
+## 2026-07-11 13:22:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: 所以不要开超市，1-2只股票即可，用仓位管理控制回撤和利润空间。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075812937382625503#m)
 
 ---
 
