@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1101 条推文
+> 📊 推文存档 - 共 1107 条推文
 
 ---
 
@@ -199,10 +199,6 @@ Bamf
 
 Grok 4.5 Review
 
-<img src="/images/elonmusk/amplify_video_thumb_2075712039800958976_img_ysEy7zvL2uv898CU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075814427698344032#m)
-
 ---
 
 ## 2026-07-11 13:30:35
@@ -212,10 +208,6 @@ Grok 4.5 Review
 **内容**:
 
 Grok places second after Fable on real-world software engineering
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG22pR4Zt9KM0olvMXyVvlFPqI764vAAKkDmsbDu2RVrUHsnUL3bCHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075814989953114259#m)
 
 ---
 
@@ -227,17 +219,81 @@ Grok places second after Fable on real-world software engineering
 
 Falcon Rising
 
-<img src="/images/elonmusk/amplify_video_thumb_2075795278909554688_img_gi4ea0AfvMY9Q_ZW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG2mpR4Zgy1FgqlgqRacJeNat_HzinAAKjDmsbDu2RVmt4JkEwD9zNAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-11 16:47:59
 
-[查看原文](https://nitter.net/elonmusk/status/2075818822544601377#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Anglo-Scottish Enlightenment – the real antidote to Rousseau and Voltaire The French Enlightenment and the Anglo-Scottish Enlightenment happened simultaneously, in the same century, reading the same books, arguing about the same questions. They reached completely opposite conclusions. One produced the Declaration of Independence and the American Constitution. The other produced the guillotine. This is the most important civilizational fork in modern history. 1. The French Enlightenment begins with the assumption that human beings can be improved by reason – that if you strip away the corrupting institutions of Church, tradition, and inherited authority, the natural goodness underneath will organize itself into a just society. This sounds like progress. It is a fantasy with a body count. Every attempt to implement it has required, at some point, a Committee of Public Safety to handle the people who turned out not to be naturally good enough. 2. The Anglo-Scottish Enlightenment begins with the opposite assumption: human beings are what they are, not what they could be if properly enlightened. Hume grounds morality in human nature as it actually operates – sympathy, habit, sentiment, the slow accumulation of social trust. Smith shows that self-interest, properly channeled, produces collective benefit without a planner. Neither man is building a utopia. Both are building with the actual material available. 3. Burke is the direct refutation, written in real time. He published Reflections on the Revolution in France in 1790 – before the Terror, predicting it precisely – because he understood that institutions are not obstacles to human flourishing, they are its precondition. They contain accumulated wisdom — the knowledge of the dead — that cannot be recovered once destroyed. Pull society apart to improve it and you don’t get the General Will. You get Robespierre. 4. The American founders read Burke, Hume, Smith, and Montesquieu – the Frenchman who looked at England and understood what France was missing. They built a system that takes human nature as given — self-interested, power-hungry, tribal — and constructs institutions to contain those tendencies rather than assume they disappear once the right people are in charge. Checks and balances are not a design flaw. They are what you build when you don’t believe in philosopher-kings. 5. 1776 versus 1789. Same Enlightenment, same century, same vocabulary of liberty and reason. One produces a constitutional republic that has survived two and a half centuries of stress, civil war, and upheaval. The other produces, in sequence: the Terror, Napoleon, 1848, the Commune, and eventually — via Marx, who was a Frenchman in spirit if not in birth — the entire catastrophe of the twentieth century. The difference was not intelligence or intention. It was the starting assumption about human nature. Get that wrong and everything that follows is wrong with it. 6. The guillotine is not the Revolution’s failure. It is its logical conclusion. If man is naturally good and the system is corrupt, then whoever seizes the system in the name of natural goodness is licensed to do anything. The General Will cannot be wrong. Those who resist it are not opponents – they are enemies of nature itself. 7. The real antidote to Rousseau and Voltaire was never a better French philosopher. It was a different civilizational tradition – one that builds with human beings as they are; that treats inherited institutions as repositories of wisdom rather than obstacles to progress; that distributes power rather than concentrating it in whoever currently claims to know the General Will. That tradition was built in Edinburgh, London, and Philadelphia. It is currently under sustained assault — from exactly the same ideas, in exactly the same form, with exactly the same confidence — that Burke watched demolish France in 1789. He was right then. He is right now.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG6mpSIwABZc1pzo7pdVHCCBtR-PEx8AACGQ9rGw7tkVbeMOk9ICV-WwEAAwIAA3gAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG62pSIwTO7SNQllyCiVp8F6_Gi_aLAAIaD2sbDu2RVgexXicbKl7bAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Kristof_Poland/status/2075864669151998341#m)
+
+---
+
+## 2026-07-11 18:12:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nuanced
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG7GpSIwl8kIOAh17ADm8UU4AfQlLyAAIbD2sbDu2RVhY9Gj2JeCRpAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075885854787064241#m)
+
+---
+
+## 2026-07-11 18:17:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+They sure put a lot of effort into this crime
+
+[查看原文](https://nitter.net/elonmusk/status/2075887316577439860#m)
+
+---
+
+## 2026-07-11 18:32:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cybercab at a fork in the road
+
+<img src="/images/elonmusk/amplify_video_thumb_2075766313142845440_img__PNl2ym0qC28YRiI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075891028284903616#m)
+
+---
+
+## 2026-07-11 18:37:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+He takes scamming to a whole new level
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG6WpSIvy34jrjghAuTTFfwbFrD9lbAAIYD2sbDu2RVlbSbxTZEysgAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075892136604573903#m)
 
 ---
 
 ## 2026-07-10 00:16:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,7 +303,7 @@ RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: 
 
 ## 2026-07-10 00:21:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -257,7 +313,7 @@ Interesting comparison of Grok & Opus 1M+ context window coming soon
 
 ## 2026-07-10 00:27:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -267,7 +323,7 @@ California has legalized election fraud
 
 ## 2026-07-10 00:44:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -277,7 +333,7 @@ Consistent with the simulation hypothesis. Like a video game, objects are random
 
 ## 2026-07-10 00:49:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +343,7 @@ Image
 
 ## 2026-07-10 01:26:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +353,7 @@ RT by @elonmusk: Grok 4.5 is dominating the latest AI leaderboards Claims the #1
 
 ## 2026-07-10 02:18:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,7 +363,7 @@ Try @Grok 4.5!
 
 ## 2026-07-10 05:11:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -317,7 +373,7 @@ RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI ch
 
 ## 2026-07-10 05:21:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,7 +383,7 @@ RT by @elonmusk: Built from scratch by Grok 4.5 + Grok Build in UE5.8: a cyberpu
 
 ## 2026-07-10 06:19:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -337,7 +393,7 @@ RT by @elonmusk: The Cape Gigabay is getting closer to being ready for Starship!
 
 ## 2026-07-10 06:32:17
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -347,7 +403,7 @@ RT by @elonmusk: Grok is a frontier model.
 
 ## 2026-07-10 06:56:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +413,7 @@ RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead
 
 ## 2026-07-10 07:36:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -367,7 +423,7 @@ RT by @elonmusk: Wally Funk waited 60 years to get to space, and no one ever ear
 
 ## 2026-07-10 07:53:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -377,7 +433,7 @@ Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation
 
 ## 2026-07-10 07:55:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -387,7 +443,7 @@ Grok 4.5
 
 ## 2026-07-10 08:03:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -397,7 +453,7 @@ Grok doesn’t give up
 
 ## 2026-07-10 08:08:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -407,7 +463,7 @@ Grok gaming
 
 ## 2026-07-10 08:11:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -417,7 +473,7 @@ Grok Build improves almost every day
 
 ## 2026-07-10 08:22:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -427,7 +483,7 @@ RT by @elonmusk: GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK New data fro
 
 ## 2026-07-10 09:00:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -437,7 +493,7 @@ RT by @elonmusk: Fable 5 vs Grok 4.5 vs GPT 5.5 We put three top-tier models to 
 
 ## 2026-07-10 09:10:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -447,7 +503,7 @@ Grok only gets better from here
 
 ## 2026-07-10 10:11:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -457,7 +513,7 @@ Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity any
 
 ## 2026-07-10 10:16:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -467,7 +523,7 @@ Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity any
 
 ## 2026-07-10 13:47:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -477,7 +533,7 @@ RT by @elonmusk: I fell for a lot of progressive nonsense, and hard. I was liter
 
 ## 2026-07-10 15:14:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -487,7 +543,7 @@ Grok Build gets better every day and we love hearing user feedback for improveme
 
 ## 2026-07-10 15:21:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -497,7 +553,7 @@ RT by @elonmusk: GAVIN BAKER: “Tesla and Elon have done more to decarbonize th
 
 ## 2026-07-10 15:27:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -507,7 +563,7 @@ Grok Imagine
 
 ## 2026-07-10 15:33:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -517,7 +573,7 @@ Video
 
 ## 2026-07-10 15:47:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -527,7 +583,7 @@ Model comparison
 
 ## 2026-07-10 16:06:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -535,9 +591,21 @@ Model comparison
 
 ---
 
+## 2026-07-10 22:26:16
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: tesla fsd is the greatest piece of technology i've ever experienced. it's not even close. there's something hard to comprehend that my car is operating in the physical world, completely autonomously. pure magic. I can't ever get another car now...
+
+[查看原文](https://nitter.net/tylerbruno05/status/2075587411334119779#m)
+
+---
+
 ## 2026-07-10 23:41:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -547,7 +615,7 @@ Grok 4.5 has the best real-world ROI
 
 ## 2026-07-10 23:42:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -557,7 +625,7 @@ Try @grok
 
 ## 2026-07-10 23:47:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -567,15 +635,11 @@ Grok Build
 
 ## 2026-07-10 23:48:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 True
-
-<img src="/images/elonmusk/amplify_video_thumb_2075571297392754688_img_228g2-j_Z1KsMHqc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075608188376772644#m)
 
 ---
 

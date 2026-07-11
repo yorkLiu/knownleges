@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 279 条推文
+> 📊 推文存档 - 共 280 条推文
 
 ---
 
@@ -39,9 +39,17 @@ Rosenblatt on recent optical sector weakness from $AAOI to $LITE: "Stocks in the
 
 Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. In what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that "flattens networks and cuts transceiver TAM 40-50%". Rosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers. The number of XPUs is growing so quickly that total optical demand should still rise. On lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. Ideal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. I feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGzWpROnUwXShRummTm5nlGVjDKP6vAAImE2sbWkeRVjuEhC8ddK9yAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2075645547978084371#m)
+## 2026-07-11 18:45:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. By building their own ecosystem instead of being sucked into another. It's been awhile since $GOOGL, Apple, Microsoft, and others had some genuine disruptors.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2075894311741440041#m)
 
 ---
 
