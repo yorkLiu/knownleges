@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 175 条推文
+> 📊 推文存档 - 共 176 条推文
 
 ---
 
@@ -39,13 +39,19 @@ tags: ["2026"]
 
 有圖有真相 中國大陸「央氣」官宣 颱風巴威已重回「強颱風等級」 並與我們預測的一樣 「風眼」與台灣擦邊而過 事實證明「天佑善人」真實不虛 此時此刻大盧判斷台灣已經穩了 颱風巴威正在中國大陸沿海 集結最終的爆發力 「風眼」登陸第一站～溫州 登陸後就會與牆人精緻利己 心念共振禍福自招 另今日法會進行中 如果不太累的話 今晚直播聊聊「 天佑善人」
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG3GpR6NyTCpSM148VXDHisIVL4HscAAKvDmsbDu2RVmk6AiPZtkV5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGpGpQPD3609LstO-pBhMQusqmfSeDAAI9EGsbWkeJVhPMp2ZOYAU3AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-11 16:39:07
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGpWpQPEEn2w801b_nE7ll4aF1bEBMAAI-EGsbWkeJVjTo6mJamdUuAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075831519621615635#m)
+**内容**:
+
+今晚直播，歡迎參加 台灣護國神山拒絕擋災，敬畏天地（2026.7.11） https://www.youtube.com/live/Wf8J8w6iNRE?si=6i8KWgwZm1FwOAjL 來自 @YouTube
+
+<img src="/images/dianzhuXS/card_img_2075861144275980288_ZAFL3eZ33Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075862437774147601#m)
 
 ---
 
