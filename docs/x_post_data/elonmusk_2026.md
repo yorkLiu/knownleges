@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1088 条推文
+> 📊 推文存档 - 共 1093 条推文
 
 ---
 
@@ -29,10 +29,6 @@ Grok is closing the loop on real-world use cases
 
 RT by @elonmusk: End of an era: Decommissioning the original Model S & X assembly line in just 46 days
 
-<img src="/images/elonmusk/amplify_video_thumb_2075635725056233472_img_LpHYxTQ5pm5_-dRP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/gigafactories/status/2075636160508866562#m)
-
 ---
 
 ## 2026-07-11 02:48:01
@@ -42,10 +38,6 @@ RT by @elonmusk: End of an era: Decommissioning the original Model S & X assembl
 **内容**:
 
 RT by @elonmusk: 10 GWh of our industrial energy storage products are now operating across Australia! That's equivalent to 160,000 Model Ys. And we're just getting started
-
-<img src="/images/elonmusk/amplify_video_thumb_2075652903671660544_img_laFLzrWYZ3DdbDAq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Tesla_Megapack/status/2075653285227462795#m)
 
 ---
 
@@ -67,9 +59,19 @@ Try Grok 4.5 in Perplexity
 
 RT by @elonmusk: Built with two prompts and /goal!
 
-<img src="/images/elonmusk/amplify_video_thumb_2075656265888346112_img_1ka878p7aBp8CFN0.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/milichab/status/2075695525488382420#m)
+## 2026-07-11 06:08:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: NEWS: xAI's Grok 4.5 has constructed an explicit counterexample to hypercontractivity on the 4-sphere, solving a mathematical gap that previously existed between dimensions 4 and 12. Running on xAI's V9 architecture with 1.5 trillion parameters, the model proved that the smoothing property of the Poisson semigroup fails at dimension 4, effectively closing a dimensional transition that had remained unverified in prior mathematical literature. https://cryptobriefing.com/grok-4-5-hypercontractivity-counterexample/
+
+<img src="/images/elonmusk/card_img_2075703655378911233_VRjvsZqN3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xDaily/status/2075703713004474786#m)
 
 ---
 
@@ -81,10 +83,6 @@ RT by @elonmusk: Built with two prompts and /goal!
 
 Background on the Starship story
 
-<img src="/images/elonmusk/amplify_video_thumb_2075619736495202305_img_xT2dOd2yCIOR7Y6x.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075726968335618499#m)
-
 ---
 
 ## 2026-07-11 07:46:09
@@ -94,10 +92,6 @@ Background on the Starship story
 **内容**:
 
 Anyone can visit the Starship factory and launch site in Texas, as it is right next to on the public highway. It is incredibly inspiring to see!
-
-<img src="/images/elonmusk/amplify_video_thumb_2075619736495202305_img_xT2dOd2yCIOR7Y6x.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075728310546444795#m)
 
 ---
 
@@ -109,10 +103,6 @@ Anyone can visit the Starship factory and launch site in Texas, as it is right n
 
 The most important thing about Grok Build and the 4.5 release is that it is genuinely so useful for real-world work
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG1WpRimeLCL3iYIGHJhrqyRS_HiIHAAJ_E2sbWkeRVk74TOPj9otrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075728739615281398#m)
-
 ---
 
 ## 2026-07-11 07:48:07
@@ -123,9 +113,57 @@ The most important thing about Grok Build and the 4.5 release is that it is genu
 
 🎯
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG1GpRimN6Hjh48iz7kv9ZVrXoHMtlAAJ-E2sbWkeRVvkKdQwOg6OAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075728808359993694#m)
+## 2026-07-11 09:12:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Free trial of Grok 4.5 model via Grok Build CLI
+
+[查看原文](https://nitter.net/elonmusk/status/2075749956942442993#m)
+
+---
+
+## 2026-07-11 09:15:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine makes beautiful art
+
+<img src="/images/elonmusk/amplify_video_thumb_2075589516669210624_img_P0wBu5sTwkb0Bp-w.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075750805580214477#m)
+
+---
+
+## 2026-07-11 09:17:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2075595093931626496_img_ow1tLqqgbPH91Lxf.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075751261396206004#m)
+
+---
+
+## 2026-07-11 09:24:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+If solar power in space is harnessed for useful work at scale, the value of that will far exceed the Earth economy, because all of Earth civilization uses much less than a trillionth of our Sun’s power
+
+[查看原文](https://nitter.net/elonmusk/status/2075753054280831365#m)
 
 ---
 
