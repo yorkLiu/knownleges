@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1110 条推文
+> 📊 推文存档 - 共 1112 条推文
 
 ---
 
@@ -28,6 +28,20 @@ Grok is closing the loop on real-world use cases
 **内容**:
 
 RT by @elonmusk: End of an era: Decommissioning the original Model S & X assembly line in just 46 days
+
+---
+
+## 2026-07-11 02:07:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 with Grok Build has tied for the #1 spot on the SWE-Atlas-QnA benchmark, matching Codex GPT-5.6 with an impressive 84 score. Another strong milestone for xAI's rapidly advancing coding capabilities.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG7mpSR1GbVTTV7OlP7x_MO60-ZbGxAAJWDmsbDu2ZVoLS6PZX5a2MAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2075643190334705885#m)
 
 ---
 
@@ -251,6 +265,20 @@ They sure put a lot of effort into this crime
 
 ---
 
+## 2026-07-11 18:21:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Starlink has provided new emergency connectivity support to Armenia. 🇦🇲 • 56 additional kits will be deployed by Armenia’s Ministry of Internal Affairs’ Rescue Service to provide connectivity during natural disasters and emergencies. • 110 Starlink terminals already connect thousands of students across Armenia’s remote schools.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG72pSR1YNci1GBqcnAWb1sAfDFDU_AAJXDmsbDu2ZVhsDa9VDwvRQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2075888291824746682#m)
+
+---
+
 ## 2026-07-11 18:32:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -279,10 +307,6 @@ He takes scamming to a whole new level
 
 By “this” he means scamming 🤣🤣
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG7WpSQA_yvXvnt1FP_KMaR--ozzYkAAJIDmsbDu2ZVton5vZA5A2kAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075926239848611976#m)
-
 ---
 
 ## 2026-07-11 20:53:36
@@ -293,8 +317,6 @@ By “this” he means scamming 🤣🤣
 
 R to @elonmusk: He might literally love scamming more than any human alive!
 
-[查看原文](https://nitter.net/elonmusk/status/2075926480387776675#m)
-
 ---
 
 ## 2026-07-11 20:54:33
@@ -304,10 +326,6 @@ R to @elonmusk: He might literally love scamming more than any human alive!
 **内容**:
 
 Video
-
-<img src="/images/elonmusk/amplify_video_thumb_2075593531998015488_img_qNJHMh1Y6yhoa9Fa.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075926721337991455#m)
 
 ---
 
