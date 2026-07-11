@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 271 条推文
+> 📊 推文存档 - 共 273 条推文
 
 ---
 
@@ -179,16 +179,6 @@ tags: ["2026"]
 
 【复习上周四的语音复盘再思考一下仓位管理的重要性】 我很多人不是不会选股，而是不会管理仓位。 仓位只有两种状态：空仓或者满仓。涨了怕踏空，跌了就硬扛，本质上还是在赌。 仓位管理不是预测市场，而是应对市场。 很多人把仓位管理理解成每天加一点、减一点，频繁操作。实际上，仓位调整只服务于两件事：确定性提高时增加收益，不确定性增加时控制风险。 比如我之前提到，指数跌破4000点以后，重仓账户要把仓位控制在五成甚至以下。因为趋势已经走弱，在趋势没有反转、底部没有确认之前，继续重仓没有意义。 等趋势反转或者底部确认后，再逐步加仓，做的是确定性。 同时我也提到，当指数回落接近250日均线时，小仓位可以适当参与，博弈支撑位附近的阶段性反弹。这也是基于交易逻辑，而不是盲目抄底。 很多人只记住了”加仓”，却忽略了前提条件。该减仓的时候不减，该轻仓的时候重仓，最后把仓位变成了情绪。 仓位不是固定的，而是跟着市场的确定性变化。 确定性高，就提高仓位，让利润放大；确定性低，就降低仓位，把回撤控制住。 交易不是每天都要操作，更不是每天都要加仓、减仓。 很多人把频繁交易当成能力，其实大多数操作都是无效的。真正重要的不是交易次数，而是每一次交易有没有逻辑。 仓位管理的核心只有一句话：确定性高的时候多赚，不确定性高的时候少亏。 这才是仓位存在的意义。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075811982276743177#m)
-
 ---
 
 ## 2026-07-11 13:22:25
@@ -199,7 +189,39 @@ tags: ["2026"]
 
 R to @Mimiwftt: 所以不要开超市，1-2只股票即可，用仓位管理控制回撤和利润空间。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075812937382625503#m)
+---
+
+## 2026-07-11 15:56:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+读《静心之路》有感——交易如修行 读到这一页时，我最深的感受不是关于修行，而是想到了交易。 书中提到，真正走过来的人会明白，“没有哪一条路比另一条路更高明，重要的是在自己的道路上不断观察自己的内心，而不是执着于证明自己是对的。”这句话让我想到交易市场中各种不同的交易风格。 市场里有人做趋势，有人做波段，有人做短线，有人做价值投资。每一种方法都有成功者，也都有失败者。初学者往往喜欢比较，认为自己的交易系统最好，或者不断羡慕别人赚钱的方法，今天学习趋势，明天学习裸K，后天又开始研究量化，最后什么都懂一点，却没有真正建立属于自己的体系。这正如书中所说，不断更换道路，只会让自己更加迷茫。 让我印象最深的是书中的一句话：“如果我们只看见我们想看见的，就会阻碍我们的学习。”交易中，这种现象太普遍了。当一个人坚信趋势交易是唯一正确的方法时，他会忽略震荡行情带来的风险；当一个人坚信抄底才是价值投资时，他可能会不断加仓，始终不愿承认市场已经发生变化。真正的问题不是市场，而是自己的认知已经被信念所束缚，只愿意接受支持自己观点的信息，而拒绝市场给予的反馈。 书中还说，自负会关闭所有知识的大门。这让我想到很多交易者在连续盈利之后，容易产生一种“我已经看懂市场”的错觉，于是开始扩大仓位、忽略风险、不再复盘。市场最终总会用一次深刻的回撤提醒我们：赚钱的时候，往往比亏钱的时候更危险。因为亏钱会让人谨慎，而持续盈利却容易让人失去敬畏。 最后一段尤其让我产生共鸣。作者说，真正重要的不是走哪条路，而是仔细观察自己情绪和思想的变化，不要被它们牵着鼻子走。我认为，这句话几乎可以作为交易修行的核心原则。市场每天都在变化，我们无法控制行情，却可以观察自己的恐惧、贪婪、急躁和侥幸。当亏损时，不因恐惧而放弃系统；当盈利时，不因自满而失去纪律；当别人赚钱时，不因羡慕而随意改变自己的策略。真正成熟的交易者，不是没有情绪，而是能够觉察情绪，不让情绪支配自己的决定。 读完这一页，我更加明白，“交易不仅是一门技术，更是一场修行。”交易风格没有高低之分，真正决定长期成败的，不是哪一种方法，而是交易者是否拥有谦逊的心态、持续学习的能力，以及面对市场时始终保持清醒的自我觉察。 或许正如书中所表达的那样：“道路没有优劣，重要的是在行走的过程中，越来越认识自己，越来越接近真实。”而对于交易者来说，这份真实，就是尊重市场、尊重规律，也尊重自己的内心。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG4WpR_rgiq2m7qzL0XaKuv_0qLQc8AALgDmsbDu2RVirpVGjcN9yDAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075851738457006218#m)
+
+---
+
+## 2026-07-11 16:12:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今年1月所说的“高位”，并非现在的高位科技板块，而是指大盘从3040点一路共振上涨至4034点的过程中，那些已经累计翻倍、处于高位区域的各个方向。 很多人都是在这些去年大涨后持续回落中被套的。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG3WpR_qoU8y7U9U6ewZO6mZyD5kQUAALcDmsbDu2RVqh_Zf1RLtauAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG3mpR_q68Bj56OTC8yh0ELp0D8RbOAALdDmsbDu2RVmbaXYKA-MOOAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG32pR_rJYnHiVez8rdqu7l_J5wjpYAALeDmsbDu2RVh60kDeZOBekAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG4GpR_rW3qbaHRYI2MA_JZISFtwYgAALfDmsbDu2RVk5h9bvURxsmAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075855658994577713#m)
 
 ---
 
