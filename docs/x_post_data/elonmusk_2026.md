@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1098 条推文
+> 📊 推文存档 - 共 1101 条推文
 
 ---
 
@@ -159,16 +159,6 @@ If solar power in space is harnessed for useful work at scale, the value of that
 
 Epic videos of Starship Super Heavy!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG2WpRy84_z8MGrSpxOPMqTeYZgar4AAJ1DmsbDu2RVptsx0awEEnlAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2075718131406798848_img_99uStW03E0PnDJ1T.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2075718153498185728_img_L27WFTqKwG1tgJce.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2075718196359790592_img__1-xF7w_pcMbrokT.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075792911933853989#m)
-
 ---
 
 ## 2026-07-11 12:03:19
@@ -178,16 +168,6 @@ Epic videos of Starship Super Heavy!
 **内容**:
 
 Media
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG2WpRy84_z8MGrSpxOPMqTeYZgar4AAJ1DmsbDu2RVptsx0awEEnlAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2075718131406798848_img_99uStW03E0PnDJ1T.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2075718153498185728_img_L27WFTqKwG1tgJce.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2075718196359790592_img__1-xF7w_pcMbrokT.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075793029693157579#m)
 
 ---
 
@@ -199,10 +179,6 @@ Media
 
 As usual, legacy media is misrepresenting the situation. I just asked Tesla & SpaceX to try out Grok 4.5 to see if it solves their task, not use it no matter what! They should continue to use other AI models if those models outperform Grok.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG2GpRy8rebRVwSox2JrNIuIEh4bj6AAJ0DmsbDu2RVhV9hz6hN3qtAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2075794297631158373#m)
-
 ---
 
 ## 2026-07-11 12:12:12
@@ -213,9 +189,49 @@ As usual, legacy media is misrepresenting the situation. I just asked Tesla & Sp
 
 Bamf
 
-<img src="/images/elonmusk/amplify_video_thumb_2075753221679878144_img_WfcXVRfZvx0gBXp6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075795264627933276#m)
+## 2026-07-11 13:28:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 Review
+
+<img src="/images/elonmusk/amplify_video_thumb_2075712039800958976_img_ysEy7zvL2uv898CU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075814427698344032#m)
+
+---
+
+## 2026-07-11 13:30:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok places second after Fable on real-world software engineering
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG22pR4Zt9KM0olvMXyVvlFPqI764vAAKkDmsbDu2RVrUHsnUL3bCHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075814989953114259#m)
+
+---
+
+## 2026-07-11 13:45:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Falcon Rising
+
+<img src="/images/elonmusk/amplify_video_thumb_2075795278909554688_img_gi4ea0AfvMY9Q_ZW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG2mpR4Zgy1FgqlgqRacJeNat_HzinAAKjDmsbDu2RVmt4JkEwD9zNAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075818822544601377#m)
 
 ---
 
