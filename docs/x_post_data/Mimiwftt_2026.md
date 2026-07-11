@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 279 条推文
+> 📊 推文存档 - 共 280 条推文
 
 ---
 
@@ -249,10 +249,6 @@ R to @Mimiwftt: 我身边没有“纯跟票”的人，都是学习悟道的年�
 
 你们再去回看我这一段对话！再对照这半年走过来的行情。2季度大部分板块（除了硬科技半岛，通信，元器件主升）都在持续下跌。 明确指出中线买点要在2季度里找。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG6GpSDTptR9hVnlzYlRSCgMrbHqT9AAL9DmsbDu2RVhVHTgmwI7GaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075866378511565065#m)
-
 ---
 
 ## 2026-07-11 17:00:30
@@ -262,8 +258,6 @@ R to @Mimiwftt: 我身边没有“纯跟票”的人，都是学习悟道的年�
 **内容**:
 
 会买的是徒弟，会卖的是师父，会空仓的是祖师爷。 股市交易3年入门，10年走下来大概才能形成稳定盈利。 现在的你要么低头努力学习，要么销户好好上班，远离交易市场！
-
-[查看原文](https://nitter.net/Mimiwftt/status/2075867819145830681#m)
 
 ---
 
@@ -275,9 +269,17 @@ R to @Mimiwftt: 我身边没有“纯跟票”的人，都是学习悟道的年�
 
 晚安💤
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG52pSDTfzbmW3fltKOs11ZqtaWYV5AAL8DmsbDu2RVow3AAEq7lIXFgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2075874077353636071#m)
+## 2026-07-11 20:12:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+下周有事，停更1周。你们复习一下以前的帖子就好了。忙完了自己的事，我就回来。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2075916218247311704#m)
 
 ---
 

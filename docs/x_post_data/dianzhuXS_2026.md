@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 176 条推文
+> 📊 推文存档 - 共 177 条推文
 
 ---
 
@@ -49,9 +49,19 @@ tags: ["2026"]
 
 今晚直播，歡迎參加 台灣護國神山拒絕擋災，敬畏天地（2026.7.11） https://www.youtube.com/live/Wf8J8w6iNRE?si=6i8KWgwZm1FwOAjL 來自 @YouTube
 
-<img src="/images/dianzhuXS/card_img_2075861144275980288_ZAFL3eZ33Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2075862437774147601#m)
+## 2026-07-11 20:14:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+剛才斷了，重新進 颱風倒反天罡，又冲200斤大運（2026.7.11） https://www.youtube.com/live/VHl6oFvKGc8?si=eI3fpTXgZMdySc8l 來自 @YouTube
+
+<img src="/images/dianzhuXS/card_img_2075916640961835008_n9cZsBS43Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2075916681252327875#m)
 
 ---
 
