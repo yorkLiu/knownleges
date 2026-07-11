@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1081 条推文
+> 📊 推文存档 - 共 1088 条推文
 
 ---
 
@@ -21,6 +21,34 @@ Grok is closing the loop on real-world use cases
 
 ---
 
+## 2026-07-11 01:39:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: End of an era: Decommissioning the original Model S & X assembly line in just 46 days
+
+<img src="/images/elonmusk/amplify_video_thumb_2075635725056233472_img_LpHYxTQ5pm5_-dRP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/gigafactories/status/2075636160508866562#m)
+
+---
+
+## 2026-07-11 02:48:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 10 GWh of our industrial energy storage products are now operating across Australia! That's equivalent to 160,000 Model Ys. And we're just getting started
+
+<img src="/images/elonmusk/amplify_video_thumb_2075652903671660544_img_laFLzrWYZ3DdbDAq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Tesla_Megapack/status/2075653285227462795#m)
+
+---
+
 ## 2026-07-11 05:05:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -29,9 +57,75 @@ Grok is closing the loop on real-world use cases
 
 Try Grok 4.5 in Perplexity
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGzmpRZg0QiamjSKg7rIL6MiLbczTRAAJKE2sbWkeRVoYkKNXIYWmoAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2075687836091625704#m)
+## 2026-07-11 05:35:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Built with two prompts and /goal!
+
+<img src="/images/elonmusk/amplify_video_thumb_2075656265888346112_img_1ka878p7aBp8CFN0.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/milichab/status/2075695525488382420#m)
+
+---
+
+## 2026-07-11 07:40:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Background on the Starship story
+
+<img src="/images/elonmusk/amplify_video_thumb_2075619736495202305_img_xT2dOd2yCIOR7Y6x.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075726968335618499#m)
+
+---
+
+## 2026-07-11 07:46:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Anyone can visit the Starship factory and launch site in Texas, as it is right next to on the public highway. It is incredibly inspiring to see!
+
+<img src="/images/elonmusk/amplify_video_thumb_2075619736495202305_img_xT2dOd2yCIOR7Y6x.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075728310546444795#m)
+
+---
+
+## 2026-07-11 07:47:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The most important thing about Grok Build and the 4.5 release is that it is genuinely so useful for real-world work
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG1WpRimeLCL3iYIGHJhrqyRS_HiIHAAJ_E2sbWkeRVk74TOPj9otrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075728739615281398#m)
+
+---
+
+## 2026-07-11 07:48:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🎯
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG1GpRimN6Hjh48iz7kv9ZVrXoHMtlAAJ-E2sbWkeRVvkKdQwOg6OAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2075728808359993694#m)
 
 ---
 
