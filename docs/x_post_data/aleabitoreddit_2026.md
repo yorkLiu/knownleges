@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 282 条推文
+> 📊 推文存档 - 共 283 条推文
 
 ---
 
@@ -29,13 +29,17 @@ Apparently, Korean Beauty was where all the alpha is. APR (278470.KS) is up 529%
 
 So there's a IBK Research report on Boston Dynamics value chains from last month. Just a summary: IBK maps these companies to Atlas as suppliers: - Hwashin (010690) / body, arms, legs - LG Energy (373220) / battery - Hyundai Autoever (307950) / integration - Hyundai Mobis (012330) / actuators As for humanoid volume ramps: They're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. Not quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... Like adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: - 15-20k 2028 - 40k-70k 2029 - 90k-140k for 2030 Since Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026. In terms of competitive landscape they name: - $TSLA, Figure, Apptronik, $CCXI (Agility), as US players. Then Boston Dynamics (Korea parent owned now) - Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. - Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders. They also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. Regarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. Then from report assumptions: - 31 actuators per Atlas - $1K per actuator in 2028 - $134K Atlas ASP, Which implies actuator cost of final selling price is roughly 23–28%. Probably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. So tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp. I didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG-GpTaf3E9nBp8Zp5k3kCyuA5d20xAAJwFWsbDu2hVh46OG8pmYbjAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG-WpTagFeat__jNWrShkWNgk1NzrwAAJxFWsbDu2hVhCId_SDyZa5AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-12 19:25:10
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG-mpTagUn5ZSlq4afH7AbBcQ7OHzeAAJyFWsbDu2hVjnSUwNdtdaeAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2076248337863639506#m)
+**内容**:
+
+Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM. By finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed. -> if the company doesn’t respond, stock prices/sentiment are damaged. -> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them -> Poster gain more impressions, then does it again with more views the next time. Don’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2076266613675069628#m)
 
 ---
 

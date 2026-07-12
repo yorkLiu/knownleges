@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 181 条推文
+> 📊 推文存档 - 共 182 条推文
 
 ---
 
@@ -49,9 +49,17 @@ tags: ["2026"]
 
 這幾天，災難片太多了 必須治癒一下 做了一段老三耐人片 吼吼吼
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2076247204713701376_img_liSFHtrQgyeMo0w6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2076247262318198819#m)
+## 2026-07-12 19:25:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+明晚Substack同步直播 https://x.com/i/spaces/1wxWjjQVQvkJQ
+
+[查看原文](https://nitter.net/dianzhuXS/status/2076266596927176840#m)
 
 ---
 
