@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 182 条推文
+> 📊 推文存档 - 共 183 条推文
 
 ---
 
@@ -59,7 +59,19 @@ tags: ["2026"]
 
 明晚Substack同步直播 https://x.com/i/spaces/1wxWjjQVQvkJQ
 
-[查看原文](https://nitter.net/dianzhuXS/status/2076266596927176840#m)
+---
+
+## 2026-07-12 23:43:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+給大家看看我的八字神煞組合 明白了吧 為什麼大盧能「神一下」 尤其晚年，基本是無敵開掛的存在 🤭🤭🤭 同樣有四個太極貴人的舉手 收徒優先呦🤗
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG-2pTue5KxM_uf7CwcWx4VoXep8SaAAKFEGsbNGmZVl0sWHnvbGDkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2076331637848354964#m)
 
 ---
 
