@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1118 条推文
+> 📊 推文存档 - 共 1120 条推文
+
+---
+
+## 2026-07-12 02:06:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: How many people have left America to escape Capitalism? VS How many people have come to America while escaping socialism?
+
+[查看原文](https://nitter.net/TheRabbitHole/status/2076005333416521787#m)
 
 ---
 
@@ -18,10 +30,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG9GpS5zWDBHTS_LdRysmNJCritP97AALIDmsbDu2ZVnbcRcaYNTK0AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/CardilloSamuel/status/2076036462290624972#m)
 
 ---
 
@@ -43,12 +51,6 @@ Tesla self-driving enables safer mobility for senior citizens
 
 RT by @elonmusk: Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right. No other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG9WpS5zlTNo4AAXBUw2yDTvbpby0IxQACyQ5rGw7tmVbvDceWqDMIVgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG9GpS5zWDBHTS_LdRysmNJCritP97AALIDmsbDu2ZVnbcRcaYNTK0AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mark_k/status/2076040435743506800#m)
-
 ---
 
 ## 2026-07-12 08:23:29
@@ -58,10 +60,6 @@ RT by @elonmusk: Grok 4.5 by @SpaceXAI is the most neutral AI model out there. A
 **内容**:
 
 Next Starship launch aiming for Thursday
-
-<img src="/images/elonmusk/amplify_video_thumb_2076071995444273152_img_S0w-FmUJhTrLbtxl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2076100095867506809#m)
 
 ---
 
@@ -73,10 +71,6 @@ Next Starship launch aiming for Thursday
 
 Grok is the most politically neutral and objectively truth-seeking AI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG9mpS5z0rk1-vJWLhZ_GzXVamFKbNAALKDmsbDu2ZVq9sP2qJTSdQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2076102201575969192#m)
-
 ---
 
 ## 2026-07-12 08:33:37
@@ -87,9 +81,17 @@ Grok is the most politically neutral and objectively truth-seeking AI
 
 Starship is evolving rapidly
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG82pS5zEgn3B5fvaiOMUGa6zjOqDOAALHDmsbDu2ZVtiXlP3jNPdLAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2076102645823971373#m)
+## 2026-07-12 18:28:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.5 and see for yourself
+
+[查看原文](https://nitter.net/elonmusk/status/2076252465674977609#m)
 
 ---
 
