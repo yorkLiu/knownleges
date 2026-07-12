@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1120 条推文
+> 📊 推文存档 - 共 1123 条推文
+
+---
+
+## 2026-07-13 00:18:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation. Our solar system has only a tiny percentage of non-solar atoms with which to build things.
+
+[查看原文](https://nitter.net/elonmusk/status/2076340432464752656#m)
 
 ---
 
@@ -18,8 +30,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: How many people have left America to escape Capitalism? VS How many people have come to America while escaping socialism?
-
-[查看原文](https://nitter.net/TheRabbitHole/status/2076005333416521787#m)
 
 ---
 
@@ -91,7 +101,33 @@ Starship is evolving rapidly
 
 Try Grok 4.5 and see for yourself
 
-[查看原文](https://nitter.net/elonmusk/status/2076252465674977609#m)
+---
+
+## 2026-07-12 18:57:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 is the truth seeking leader that other AIs can aspire to become
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG_GpTwTA_bkza7rGqKkexiQwt8f_AAAKJEGsbNGmZVtg6E2MWnC9NAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/gailalfaratx/status/2076259670751100967#m)
+
+---
+
+## 2026-07-12 23:10:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump. Before AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next 50-60 moves. It turned out most moves do not lead to a win. Combined with clever use of Monte Carlo Tree Search, the sampling becomes quite manageable. The same can be said for physics, where equations are just another form of compression. Einstein did not start with relativity. That was not his first paper. He spent years understanding the properties of light before concluding that the speed of light is constant across the universe, which unlocked his discovery of relativity. During his thought process, he also interacted with other physicists (e.g., sub-agents) to enrich his thinking. Currently we have not run an agent for years of compute. The sessions are often fragmented and disoriented, so every new session is almost a fragmented memory of the past, but it may not be for long.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG_WpTwTQQ4qCVxblSwBJg5Fel1gkpAAKKEGsbNGmZVs_q7CntkhwVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/yunta_tsai/status/2076323348217565485#m)
 
 ---
 
