@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 180 条推文
+> 📊 推文存档 - 共 181 条推文
 
 ---
 
@@ -29,12 +29,6 @@ tags: ["2026"]
 
 昨晚直播大盧清楚的指出了「大災後必有大疫」。 其實新冠病毒，在牆內一直沒有什麼所謂的「減少」，或者說一直都在「新增」。 現在官宣，不過是為了年底的「大疫」下毛毛雨做個鋪墊而已。 一個真相請大家留意，這次風災不可怕，可怕的是集中降水後的水災，過程中死的動物越多，後面的「大疫」就越嚴重。 【敬畏天地，天佑善人】，對於個體來說，現在懺悔還來得及。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG92pTTO9JEB8NmQ2-SgMv8b43g_YBAAJNFWsbDu2hVrncn1cHgmpEAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/dianzhuXS/card_img_2075916640961835008_n9cZsBS43Fformat3Djpg26name3D1200x627" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2076213020368515477#m)
-
 ---
 
 ## 2026-07-12 16:06:27
@@ -45,11 +39,19 @@ tags: ["2026"]
 
 牆國央視報導：2026年7月11日，四川樂山暴雨後引發山洪。 【敬畏天地，天佑善人】 現在開始懺悔，一切還來得及😮‍💨😮‍💨😮‍💨
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2076216544431079425_img__rF5Fd-87UPkNaDJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/dianzhuXS/card_img_2075916640961835008_n9cZsBS43Fformat3Djpg26name3D1200x627" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-12 18:08:16
 
-[查看原文](https://nitter.net/dianzhuXS/status/2076216604791332943#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這幾天，災難片太多了 必須治癒一下 做了一段老三耐人片 吼吼吼
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2076247204713701376_img_liSFHtrQgyeMo0w6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2076247262318198819#m)
 
 ---
 
