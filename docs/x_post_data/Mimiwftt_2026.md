@@ -7,7 +7,37 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 280 条推文
+> 📊 推文存档 - 共 282 条推文
+
+---
+
+## 2026-07-13 15:27:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+风格切换之前，一定会有全面大跌，这也是规律。请记住！ 跌破4000的时候让你们控制仓位减仓了，控制仓位就是对抗急跌风险。 北炒今天也没少跌！全面下跌就不要问为什么跌这么多？不需要找原因，加速赶底，杀情绪杀恐慌，等待一个日线级别底部结构出来再加回来。 不用焦虑。用技术对抗情绪。 今天就按摸到到这里吧！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHCmpUmKHVHFtrFUKRk61nO1Gj36e1AAJlD2sbNGmhVsa3KGHLPk1LAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHC2pUmKQkuDFenMDoRmc9L9Joaj1gAAJmD2sbNGmhVhCrbZ3JbCJAAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHDGpUmKiBYpPSYi-xaqFu2iJRAwX8AAJnD2sbNGmhVqvcZl1LD6woAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076569188173533382#m)
+
+---
+
+## 2026-07-13 15:41:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+破位一般看3天，3天内不能占回才叫真破！ 否则会有“诱空”“诱多”这种针对技术派的打法。一只票好好做，认真观察。只要是底部的无须过度恐慌。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076572700886327419#m)
 
 ---
 
