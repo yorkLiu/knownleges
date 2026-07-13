@@ -7,7 +7,69 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1137 条推文
+> 📊 推文存档 - 共 1143 条推文
+
+---
+
+## 2026-07-14 01:50:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.
+
+[查看原文](https://nitter.net/milichab/status/2076725943708868615#m)
+
+---
+
+## 2026-07-14 02:35:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Their zero data retention policy fine print says they still retain data? Am I reading this right?
+
+[查看原文](https://nitter.net/elonmusk/status/2076737284192285068#m)
+
+---
+
+## 2026-07-14 02:38:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX policy regarding data retention. It is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.
+
+[查看原文](https://nitter.net/elonmusk/status/2076737992689914215#m)
+
+---
+
+## 2026-07-14 02:45:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True. As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.
+
+[查看原文](https://nitter.net/elonmusk/status/2076739687658496209#m)
+
+---
+
+## 2026-07-14 02:45:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Progress
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHF2pVOHlgEKOzW6VZUJ1lorNucrp7AAKMD2sbNGmpVtY1s1tLD2v9AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2076739857863385206#m)
 
 ---
 
@@ -159,9 +221,17 @@ Using Grok agents in background mode
 
 Literally true
 
-<img src="/images/elonmusk/ext_tw_video_thumb_2076249705260986368_pu_img_OP6IUh2dXET_-K9t.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2076690060699684905#m)
+## 2026-07-13 23:51:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: If you run /privacy and change the setting, all previously synced data is deleted.
+
+[查看原文](https://nitter.net/SpaceXAI/status/2076696092037833091#m)
 
 ---
 
