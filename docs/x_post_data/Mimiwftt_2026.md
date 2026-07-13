@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 286 条推文
+> 📊 推文存档 - 共 289 条推文
 
 ---
 
@@ -59,12 +59,6 @@ Image
 
 哈哈哈，这个状态真的是治愈到我了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHEWpUpzGtU27AQpdrjdItH3WcWvzQAAKYD2sbNGmhVmAMLq2ZEaMkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHEmpUpzXJi-WkbGSm5C4sWID1rlOFAAKZD2sbNGmhVotG_3OsaquRAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2076583362463211933#m)
-
 ---
 
 ## 2026-07-13 16:34:42
@@ -75,11 +69,45 @@ Image
 
 哈哈哈。给课代表的知行合一点赞
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHD2pUpyue49kr6ZPXGgqn_Akuz-JIAAKWD2sbNGmhViKiP6oOaZrDAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHEGpUpy8MyEyrgclNED66NGtOL2_HAAKXD2sbNGmhVtA3TjAaNz7MAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-13 17:04:55
 
-[查看原文](https://nitter.net/Mimiwftt/status/2076586101746401474#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+众成月线画图。这种强庄股技术面分析一般容易失效。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHFGpUrm8Td_mjadiiNxFp9dcf4VglAAKpD2sbNGmhVs7OK6dJYC1FAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076593705830826469#m)
+
+---
+
+## 2026-07-13 17:09:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+7/9复盘的科创50
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHE2pUrmvMsiQ24ZRzHjqcYIg5Adq8AAKoD2sbNGmhVoJeXE3--RsRAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076594844571685086#m)
+
+---
+
+## 2026-07-13 17:19:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+嗯嗯。继续停更。你们别在底部把底部筹码交出去。我真的要休息几天。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076597473620193624#m)
 
 ---
 
