@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1136 条推文
+> 📊 推文存档 - 共 1137 条推文
 
 ---
 
@@ -58,10 +58,6 @@ RT by @elonmusk: The mega bull case for AI infrastructure would be *if* market s
 **内容**:
 
 RT by @elonmusk: Well shit - grok 4.5 is KILLING it it in my video studio evals! 6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHB2pUkVfjUe1U_YhOUcKhpVNldxBRAAJPD2sbNGmhVtPoFV7n4ThtAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mikiovsh/status/2076373041773256963#m)
 
 ---
 
@@ -143,8 +139,6 @@ RT by @elonmusk: NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark
 
 R to @elonmusk: The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to
 
-[查看原文](https://nitter.net/elonmusk/status/2076558971905650718#m)
-
 ---
 
 ## 2026-07-13 15:05:36
@@ -155,9 +149,19 @@ R to @elonmusk: The publicly available version of Mythos (Fable with Claude as f
 
 Using Grok agents in background mode
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHCGpUkVtssNRSmoWEm9gfV6d1bni6AAJQD2sbNGmhVm3p1kShlP3WAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2076563677319209094#m)
+## 2026-07-13 23:27:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Literally true
+
+<img src="/images/elonmusk/ext_tw_video_thumb_2076249705260986368_pu_img_OP6IUh2dXET_-K9t.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2076690060699684905#m)
 
 ---
 
