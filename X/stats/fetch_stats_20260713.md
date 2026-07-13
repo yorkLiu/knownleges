@@ -1,6 +1,6 @@
 # X/Twitter 推文抓取统计报告
 
-**日期**: 2026-07-13 10:55:49 GMT+08:00**
+**日期**: 2026-07-13 12:28:50 GMT+08:00**
 
 ## 总体统计
 
@@ -17,10 +17,10 @@
 | @JonathanDi3614 | 20 | 0 | 20 |
 | @xiaomustock | 19 | 0 | 19 |
 | @elonmusk | 20 | 0 | 20 |
-| @karpathy | 21 | 0 | 21 |
+| @karpathy | 20 | 0 | 20 |
 | @aleabitoreddit | 16 | 0 | 16 |
-| @dianzhuXS | 17 | 0 | 17 |
-| @Mimiwftt | 18 | 1 | 17 |
+| @dianzhuXS | 18 | 1 | 17 |
+| @Mimiwftt | 18 | 0 | 18 |
 
 ## 说明
 
