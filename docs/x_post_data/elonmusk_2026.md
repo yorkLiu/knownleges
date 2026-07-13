@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1133 条推文
+> 📊 推文存档 - 共 1136 条推文
 
 ---
 
@@ -48,6 +48,20 @@ RT by @elonmusk: For the first time, Starship will carry 20 next-generation Star
 **内容**:
 
 RT by @elonmusk: The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed. It would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would drive incremental token demand. Margin dollars would effectively get redistributed from the frontier labs to AI infrastructure providers. The infra winners would be those with the lowest per token cost and the winners at the model layer would be those with the highest token efficiency. There are many reasons Jensen is so focused on open source, but this is likely the most important one as I think he is probably less worried about a monopsony these days. Lower margin % at the model layer = more margin $ at the infra layer all else equal. With SpaceX and Meta being vertically integrated and possessing the #3 and #4 models respectively it is more possible than ever. Note that Grok 4.5 is ahead of Fable for some useful tasks at a much lower cost, so ranking them #3 is conservative. This is not happening yet. Cheap, mostly open source tokens are likely the majority of volume today but the majority of economic value is still accruing to the most intelligent models. Might change though. We will see.
+
+---
+
+## 2026-07-13 02:28:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Well shit - grok 4.5 is KILLING it it in my video studio evals! 6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHB2pUkVfjUe1U_YhOUcKhpVNldxBRAAJPD2sbNGmhVtPoFV7n4ThtAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mikiovsh/status/2076373041773256963#m)
 
 ---
 
@@ -119,7 +133,31 @@ Grok Build improvements
 
 RT by @elonmusk: NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.
 
-[查看原文](https://nitter.net/Polymarket/status/2076472406860873975#m)
+---
+
+## 2026-07-13 14:46:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to
+
+[查看原文](https://nitter.net/elonmusk/status/2076558971905650718#m)
+
+---
+
+## 2026-07-13 15:05:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Using Grok agents in background mode
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHCGpUkVtssNRSmoWEm9gfV6d1bni6AAJQD2sbNGmhVm3p1kShlP3WAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2076563677319209094#m)
 
 ---
 
