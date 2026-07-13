@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 291 条推文
+> 📊 推文存档 - 共 292 条推文
 
 ---
 
@@ -109,12 +109,6 @@ Image
 
 你们不要跟我的票。比如德方我们是40附近抄底拿了翻倍的。并且我们做中线，高抛低吸。 你们中间追涨的跟我们节奏不一样，千万别做我提到的任何个股。最后重申！不要问我个股！别跟我的个股！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHFWpUvPILGeCrGdPGRNwfiDxTpdmnAALXD2sbNGmhVo0AAQxl7oGZLQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHFmpUvPeNn_HsucgfEv0ZWCZPIukcAALYD2sbNGmhViz3nInV9TXDAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2076606577210270170#m)
-
 ---
 
 ## 2026-07-13 18:07:48
@@ -125,7 +119,17 @@ Image
 
 亲爱的粉丝们： 我在这里正式重申一下，我并不是带票、喊票的博主。 我的内容主要围绕技术分析、交易心法、市场逻辑和宏观趋势展开，目的是帮助大家提升自己的分析能力，而不是告诉大家今天买什么、明天卖什么。 我提到的任何个股，都只是作为案例分析或技术分享，并不代表买卖建议。大家可以把这些股票放进自选，结合技术面持续观察，等待符合自己交易体系的低吸机会，而不是看到我提到就立刻买入。 尤其是对于还没有完全看懂逻辑、没有掌握技术方法的朋友，请不要盲目跟单，更不要买完之后天天来问我“还能不能拿”“什么时候卖”“要不要补仓”。如果连买入的理由都不清楚，那么卖出的理由也一定不会清楚。 市场永远都有机会，但前提是先学会方法，再参与交易。希望大家把更多精力放在学习和提升认知上，而不是把希望寄托在别人带票上。 授人以鱼，不如授人以渔。 我希望分享给大家的是一套交易思维，而不是一时的买卖代码。希望大家理性投资，独立思考，对自己的每一笔交易负责。❤️
 
-[查看原文](https://nitter.net/Mimiwftt/status/2076609531304661238#m)
+---
+
+## 2026-07-13 18:33:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+长期肯定很看好，行业逻辑没变。现在就是杀中登，有色，电池，储能都在杀，短期回踩不改变中长期看好。所以尽量不要做短线。等回踩到位都是低吸机会。耐心观察大周期的买点位置。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076616078860693558#m)
 
 ---
 
