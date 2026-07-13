@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1132 条推文
+> 📊 推文存档 - 共 1133 条推文
 
 ---
 
@@ -59,10 +59,6 @@ RT by @elonmusk: The mega bull case for AI infrastructure would be *if* market s
 
 RT by @elonmusk: I get to see this monster fly again later this week... new photos to come!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHBWpUebCynV-EAAH2kSmjagABx9rFif0AAu0Oaxs0aaFW_m2T2oqapfMBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AJamesMcCarthy/status/2076373929439244528#m)
-
 ---
 
 ## 2026-07-13 05:01:09
@@ -112,6 +108,18 @@ Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on 
 **内容**:
 
 Grok Build improvements
+
+---
+
+## 2026-07-13 09:02:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.
+
+[查看原文](https://nitter.net/Polymarket/status/2076472406860873975#m)
 
 ---
 

@@ -10,7 +10,9 @@ if [ -z "$GITHUB_TOKEN" ]; then
 fi
 
 # 运行爬虫并捕获输出
-OUTPUT=$(python3 X/scripts/fetch_x_users.py 2>&1)
+# OUTPUT=$(python3 X/scripts/fetch_x_users.py 2>&1)
+OUTPUT=$(python3 X/scripts/fetch_x_users_from_vanlett.py 2>&1)
+
 RETCODE=$?
 echo "$OUTPUT"
 
