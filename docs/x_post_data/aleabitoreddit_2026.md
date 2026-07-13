@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 286 条推文
+> 📊 推文存档 - 共 287 条推文
 
 ---
 
@@ -19,11 +19,17 @@ tags: ["2026"]
 
 Morgan Stanley note on CPO today. Key participants include: - $SIVE, $COHR, and $LITE in laser supply - Broadcom and Nvidia in switch platforms - Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, - $TSM, $GFS, and $TSEM in silicon photonics foundry capacity I’ve covered all of these before, like Tower Semi. But I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO. A small $1.5B laser company next to your two leading $60B+ companies… If you also synthesize Rosenblatt Securities recent note that China laser suppliers were quite far from having CPO lasers. This kinda magnifies importance of the three Western leaders of that laser chokepoint.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHGGpVP773E2olnwTChKYVHP0KfBPUAAKRD2sbNGmpVq3pxKu3agUZAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHGWpVP8J8xVOhsG3Y23ek8RRzHEQlAAKSD2sbNGmpVhtWHQnElK24AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-14 07:17:46
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2076748688559587338#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+TLDR of Innolight investor relations takeaways: 1. "Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations" Prob most important takeaway as a whole was 800G demand revision (also longer tail demand). Which is a bullish read through on US transceiver makers like $AAOI, $COHR, $LITE. Lot of new customers like neoclouds, AI model companies, contributing to overall demand rather than just hyperscalers, diversification always a bonus. 2. Innolight said the shortage covers the module supply chain broadly including: - Optical chips. - Electrical chips. - PCBs. - Other module materials From last ER, I think they singled out EMLs and CW optical chips as the most constrained. So Innolight's bottleneck list mention broadened since then. They expect some of the component availability to improve gradually from the second half of 2026 through the first half of 2027. Think a lot of this is already known from earlier though. But just some confirmation + easing timelines (EML is extremely bottlenecked, same with CW, this is probably talking about other components). 3. Innolight said module-production equipment is not the constraint. Equipment lead times remain relatively short. So this isn't really a bottleneck compared to others. 4. The overall proportion of silicon photonics continues to trend upward. Last year it was mainly 800G. This year, some 800G customers are further increasing their silicon-photonics proportion. 1.6T also added some new customers Positive for SiPH penetration eg. $SIVE / $JBL, since this shifts away from EML toward CW. Basically: main surprising takeaway is just 800g demand go brrr. Apart from that just reaffirming bottlenecks/timelines/market speculation.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2076808331453415674#m)
 
 ---
 

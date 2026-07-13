@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1144 条推文
+> 📊 推文存档 - 共 1146 条推文
 
 ---
 
@@ -18,6 +18,18 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.
+
+---
+
+## 2026-07-14 01:53:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.
+
+[查看原文](https://nitter.net/JasonBud/status/2076726650365264196#m)
 
 ---
 
@@ -61,6 +73,18 @@ Progress
 
 ---
 
+## 2026-07-14 03:16:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize. This should also help clusters form around interests more easily, which many people have asked for.
+
+[查看原文](https://nitter.net/nikitabier/status/2076747704248758617#m)
+
+---
+
 ## 2026-07-14 06:32:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -68,8 +92,6 @@ Progress
 **内容**:
 
 True
-
-[查看原文](https://nitter.net/elonmusk/status/2076796854973423971#m)
 
 ---
 
