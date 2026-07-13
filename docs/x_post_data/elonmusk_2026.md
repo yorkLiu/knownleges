@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1131 条推文
+> 📊 推文存档 - 共 1132 条推文
 
 ---
 
@@ -29,10 +29,6 @@ RT by @elonmusk: I say both energy and mass, as they are separate scarcities for
 
 RT by @elonmusk: Elon Musk explains why the Sun is humanity's ultimate energy source: "The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball A roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States" The challenge isn't whether enough solar energy exists It's building the infrastructure to capture, store, and distribute it efficiently
 
-<img src="/images/elonmusk/amplify_video_thumb_2037386795718152192_img_et_O6wHASSR8qjjc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2076352093703794999#m)
-
 ---
 
 ## 2026-07-13 01:30:58
@@ -53,9 +49,19 @@ RT by @elonmusk: For the first time, Starship will carry 20 next-generation Star
 
 RT by @elonmusk: The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed. It would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would drive incremental token demand. Margin dollars would effectively get redistributed from the frontier labs to AI infrastructure providers. The infra winners would be those with the lowest per token cost and the winners at the model layer would be those with the highest token efficiency. There are many reasons Jensen is so focused on open source, but this is likely the most important one as I think he is probably less worried about a monopsony these days. Lower margin % at the model layer = more margin $ at the infra layer all else equal. With SpaceX and Meta being vertically integrated and possessing the #3 and #4 models respectively it is more possible than ever. Note that Grok 4.5 is ahead of Fable for some useful tasks at a much lower cost, so ranking them #3 is conservative. This is not happening yet. Cheap, mostly open source tokens are likely the majority of volume today but the majority of economic value is still accruing to the most intelligent models. Might change though. We will see.
 
-<img src="/images/elonmusk/card_img_2075693350296928257__e0w9wx_3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/GavinSBaker/status/2076369936251851091#m)
+## 2026-07-13 02:31:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I get to see this monster fly again later this week... new photos to come!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHBWpUebCynV-EAAH2kSmjagABx9rFif0AAu0Oaxs0aaFW_m2T2oqapfMBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AJamesMcCarthy/status/2076373929439244528#m)
 
 ---
 
@@ -77,10 +83,6 @@ Grok 4.5 is Opus class for browser use
 
 Cool
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHAmpUGGvTuE8amLVbN7rSIUG-uO0NAAJcDmsbNGmhVjdLtGAHcHyCAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2076432602999722000#m)
-
 ---
 
 ## 2026-07-13 06:26:49
@@ -90,10 +92,6 @@ Cool
 **内容**:
 
 Follow the Starship series @SpaceX
-
-<img src="/images/elonmusk/amplify_video_thumb_2075619736495202305_img_xT2dOd2yCIOR7Y6x.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2076433121893814735#m)
 
 ---
 
@@ -105,10 +103,6 @@ Follow the Starship series @SpaceX
 
 Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHAWpUGGZOCGr_uEZ2W9fJtaqlUjsYAAJbDmsbNGmhVloMfIKLZhMnAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2076434607562531049#m)
-
 ---
 
 ## 2026-07-13 06:33:09
@@ -118,10 +112,6 @@ Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on 
 **内容**:
 
 Grok Build improvements
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHAAFqVBhiwAcIqLCN8pW7qPWw8piotQACWg5rGzRpoVawn3VlDOQFbAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2076434715951689733#m)
 
 ---
 

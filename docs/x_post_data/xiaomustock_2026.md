@@ -7,7 +7,35 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 204 条推文
+> 📊 推文存档 - 共 206 条推文
+
+---
+
+## 2026-07-13 10:27:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+世界可以毁灭了，累了，就这样吧。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHBGpUeaw67tuAiyreVECo7S3NjIVsAALsDmsbNGmhVoDZEsqQfrDEAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076493680870043957#m)
+
+---
+
+## 2026-07-13 13:00:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这市场谁在赚钱啊，亏了整整一个月了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHA2pUeanvQ-9sxteAKOPE-hOc0ajfAALqDmsbNGmhVjn-AAHubvDOrQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076532128049992073#m)
 
 ---
 
