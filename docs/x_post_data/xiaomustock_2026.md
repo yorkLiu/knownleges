@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 207 条推文
+> 📊 推文存档 - 共 208 条推文
 
 ---
 
@@ -39,9 +39,19 @@ tags: ["2026"]
 
 韩国这帮疯子跳楼了
 
-<img src="/images/xiaomustock/amplify_video_thumb_2076553271414796288_img_KwV25PKEsl27gHSH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2076553346870370710#m)
+## 2026-07-13 16:32:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHDmpUpyWffwUU9VnCuU5E2utbmZiuAAKVD2sbNGmhVq24Zpq9LPLiAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076585478808281292#m)
 
 ---
 

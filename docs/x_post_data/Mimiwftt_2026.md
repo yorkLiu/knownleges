@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 284 条推文
+> 📊 推文存档 - 共 286 条推文
 
 ---
 
@@ -39,10 +39,6 @@ tags: ["2026"]
 
 Video
 
-<img src="/images/Mimiwftt/amplify_video_thumb_2076576780094513152_img_SfISBZAif3E_823R.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2076576941336125514#m)
-
 ---
 
 ## 2026-07-13 16:06:56
@@ -53,9 +49,37 @@ Video
 
 Image
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHDWpUn-NIQf6bbZnaGFWEliVA247EAAKFD2sbNGmhVjGv2G8Unbt_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2076579116342767730#m)
+## 2026-07-13 16:23:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哈哈哈，这个状态真的是治愈到我了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHEWpUpzGtU27AQpdrjdItH3WcWvzQAAKYD2sbNGmhVmAMLq2ZEaMkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHEmpUpzXJi-WkbGSm5C4sWID1rlOFAAKZD2sbNGmhVotG_3OsaquRAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076583362463211933#m)
+
+---
+
+## 2026-07-13 16:34:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哈哈哈。给课代表的知行合一点赞
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHD2pUpyue49kr6ZPXGgqn_Akuz-JIAAKWD2sbNGmhViKiP6oOaZrDAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHEGpUpy8MyEyrgclNED66NGtOL2_HAAKXD2sbNGmhVtA3TjAaNz7MAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076586101746401474#m)
 
 ---
 
