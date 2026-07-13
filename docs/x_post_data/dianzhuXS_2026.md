@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 187 条推文
+> 📊 推文存档 - 共 188 条推文
+
+---
+
+## 2026-07-14 07:02:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨晚的直播錄音在這裡 https://substack.com/@dianzhuxs/note/p-206838981?r=8moxkp&utm_medium=ios&utm_source=notes-share-action
+
+[查看原文](https://nitter.net/dianzhuXS/status/2076804484152586729#m)
 
 ---
 
