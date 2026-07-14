@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 214 条推文
+> 📊 推文存档 - 共 215 条推文
 
 ---
 
@@ -59,12 +59,6 @@ tags: ["2026"]
 
 起飞了，75总能反弹到吧
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHIWpVysC814O-7obnLytHMS-ykvz3AAIrEGsb_c6xVii55S0qo3pzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2076895446749135298#m)
-
 ---
 
 ## 2026-07-14 13:29:48
@@ -75,7 +69,19 @@ tags: ["2026"]
 
 人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么
 
-[查看原文](https://nitter.net/xiaomustock/status/2076901960129855716#m)
+---
+
+## 2026-07-14 13:33:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韩国看来是要从向下熔断 变成接下来向上熔断
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHImpV0gXxbFkJZjc6qbur6Rt4P1wQAAJHEGsb_c6xVmDETIQYL8NyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076902928359755987#m)
 
 ---
 
