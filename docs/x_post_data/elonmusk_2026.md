@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1146 条推文
+> 📊 推文存档 - 共 1148 条推文
+
+---
+
+## 2026-07-14 01:34:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minutes.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHH2pVtP38Jn0YO3V3RvzsXEIrR1_dAAICEGsb_c6xVp6UM0W0x6tfAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2076699047025414144_img_ARoe_6_JYCPTZLyI.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tetsuoai/status/2076722045136843026#m)
 
 ---
 
@@ -28,8 +44,6 @@ RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (inc
 **内容**:
 
 RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.
-
-[查看原文](https://nitter.net/JasonBud/status/2076726650365264196#m)
 
 ---
 
@@ -81,7 +95,19 @@ Progress
 
 RT by @elonmusk: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize. This should also help clusters form around interests more easily, which many people have asked for.
 
-[查看原文](https://nitter.net/nikitabier/status/2076747704248758617#m)
+---
+
+## 2026-07-14 03:28:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not Every Falcon launch, every Starship test, and every step toward Mars is built around that belief The goal is not just to reach space It is to build a future where humanity becomes a multiplanetary civilization
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHmpVtPiE1IKXy0YZg1SEE9UgWsjCAAIBEGsb_c6xVjJpgUPAXOMXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2076750536582529090#m)
 
 ---
 

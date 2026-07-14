@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 209 条推文
+> 📊 推文存档 - 共 210 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 保持有一定数量的散户涨跌都赚不到钱对国家生产活动很重要，各行各业需要他们专心干活，不伤国本。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHGpVpmg9mbWu_rn1wMVBgr3jXKQiAAL1D2sb_c6xVh4rwhNgtkTRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2076860930718302553#m)
+## 2026-07-14 11:49:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+克服恐惧的最好办法就是面对恐惧， 海力士不行，整个AI产业链都在一起崩。 刚抄了南海2x，成本51.5。 甭管什么Ai几把概念，都是和存储一荣俱荣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076876646037307471#m)
 
 ---
 
