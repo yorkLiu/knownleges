@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 211 条推文
+> 📊 推文存档 - 共 212 条推文
 
 ---
 
@@ -39,9 +39,21 @@ tags: ["2026"]
 
 后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2076886212716134783#m)
+## 2026-07-14 12:41:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHIGpVw3wpDKUxBslB7VfvsRNDX9joAAIYEGsb_c6xVs5vnTIEr3lXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076889799848591595#m)
 
 ---
 
