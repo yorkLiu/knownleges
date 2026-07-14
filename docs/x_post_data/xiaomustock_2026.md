@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 217 条推文
+> 📊 推文存档 - 共 218 条推文
+
+---
+
+## 2026-07-15 00:19:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+盈透证券支持了稳定币的充提。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHM2pWY2JfiKlbfLi4gfFN04fG93TrAAL5EGsb_c65Vg0mn_wuwDpFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2077065422822904063#m)
 
 ---
 
