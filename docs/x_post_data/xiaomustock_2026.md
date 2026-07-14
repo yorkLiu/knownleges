@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 216 条推文
+> 📊 推文存档 - 共 217 条推文
 
 ---
 
@@ -89,9 +89,21 @@ tags: ["2026"]
 
 你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHKmpWPw3qTYhX2e53WMVGbAwQONBUAAKIEGsb_c65Vj-K4QABPqqVOwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2077017515545526305#m)
+## 2026-07-14 23:41:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。 如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。 但这些傻逼都没有考虑进去2年后AI会发展成什么样， 现在AI视频已经可以以假乱真， 俩年后更是不敢想象会进化到啥程度， 如果AI能进化到理解现实物理世界，那它处理的数据全是视频数据， 存储需求的数量级可能是百倍于现在， 要坚信你的存储。 试想一下AI俩年后会发展成什么样，回想过去俩年AI的进化速度和对存储需求的增长速度，不要再扔掉你们宝贵的 #海力士 $SKHYX 了。 AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？ AI使用群体数量俩年后会不会从1B暴增到几B？（使用群体不限于人，包括汽车，包括手机，包括机器人，甚至智能体本身…） AI现在人70%的使用是文字token，俩年后会不会进化到视频影像物理三维视频token输入输出？（这里存储数据量差别千倍万倍。） 这里面的需求差别2年后会是现在的多少倍？十倍还是百倍？ 那俩年后的存储产量增量是几倍？翻倍都撑死了吧？这些傻逼预测师永远不会这么给你算，只会基于现在AI状态误导你。 拿出你们290万韩元梭哈的勇气， 190万韩元都不敢买，真去死了算了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHMmpWXB73yUgiKocr4Uin_Ya-sCIaAALTEGsb_c65VpMvA8OXT0y5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2077055927786885527#m)
 
 ---
 
