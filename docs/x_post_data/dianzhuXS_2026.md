@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 188 条推文
+> 📊 推文存档 - 共 189 条推文
 
 ---
 
@@ -19,7 +19,21 @@ tags: ["2026"]
 
 昨晚的直播錄音在這裡 https://substack.com/@dianzhuxs/note/p-206838981?r=8moxkp&utm_medium=ios&utm_source=notes-share-action
 
-[查看原文](https://nitter.net/dianzhuXS/status/2076804484152586729#m)
+---
+
+## 2026-07-14 16:52:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+颱風巴威風圈邊緣輸送 導致牆國瀋陽強降水 整個一樓車庫都廢了 超過20個小時停水停電 😱😱😱
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2076952948492615680_img_FQgA-GOlltoabUBC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/dianzhuXS/card_img_2075916640961835008_n9cZsBS43Fformat3Djpg26name3D1200x627" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2076953021138059338#m)
 
 ---
 
