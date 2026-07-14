@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 189 条推文
+> 📊 推文存档 - 共 190 条推文
 
 ---
 
@@ -29,11 +29,19 @@ tags: ["2026"]
 
 颱風巴威風圈邊緣輸送 導致牆國瀋陽強降水 整個一樓車庫都廢了 超過20個小時停水停電 😱😱😱
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2076952948492615680_img_FQgA-GOlltoabUBC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/dianzhuXS/card_img_2075916640961835008_n9cZsBS43Fformat3Djpg26name3D1200x627" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-14 19:57:39
 
-[查看原文](https://nitter.net/dianzhuXS/status/2076953021138059338#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+雷齋月的幾件事 1.繼續丙午八字免費收徒第八期 2.開放每年僅此一次的「念經團」patreon新會員徵集（非普通會員，僅限初高超會員等級，三個月考核期通過後，享受還受生債法會福利） 3.雷祖聖誕準備接雷水泡避邪紅繩（雷齋月過後開始免費結緣贈送） 以上活動僅限中國大陸地區以外參加，暫不接待牆內報名 4.雷齋月期間為高市首相燃燈祈福
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHKWpWKUP0tdIo_HdREhip4vIPeGjdAAJVEWsb_c6xVlQr7xgtIw41AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2076999562187944143#m)
 
 ---
 
