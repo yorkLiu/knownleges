@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 208 条推文
+> 📊 推文存档 - 共 209 条推文
+
+---
+
+## 2026-07-14 10:46:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+保持有一定数量的散户涨跌都赚不到钱对国家生产活动很重要，各行各业需要他们专心干活，不伤国本。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHGpVpmg9mbWu_rn1wMVBgr3jXKQiAAL1D2sb_c6xVh4rwhNgtkTRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076860930718302553#m)
 
 ---
 
