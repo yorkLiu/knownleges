@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 212 条推文
+> 📊 推文存档 - 共 214 条推文
 
 ---
 
@@ -49,11 +49,33 @@ tags: ["2026"]
 
 51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHIGpVw3wpDKUxBslB7VfvsRNDX9joAAIYEGsb_c6xVs5vnTIEr3lXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
+
+## 2026-07-14 13:03:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+起飞了，75总能反弹到吧
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHIWpVysC814O-7obnLytHMS-ykvz3AAIrEGsb_c6xVii55S0qo3pzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/xiaomustock/status/2076889799848591595#m)
+[查看原文](https://nitter.net/xiaomustock/status/2076895446749135298#m)
+
+---
+
+## 2026-07-14 13:29:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么
+
+[查看原文](https://nitter.net/xiaomustock/status/2076901960129855716#m)
 
 ---
 
