@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 288 条推文
+> 📊 推文存档 - 共 289 条推文
 
 ---
 
@@ -39,11 +39,21 @@ TLDR of Innolight investor relations takeaways: 1. "Overall, 1.6T market demand 
 
 So Jensen himself went out to do damage control with $NVDA delays reports apparently: 1. Jensen Huang said no delays: - 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. - Debunked the rumor that the next-generation flagship, Rubin Ultra, would be delayed until 2028 and said it would be on track to ship next year - Rack system optimizations, like replacing Kyber with a new design are architectural optimizations, not impacting delivery timelines. 2. On ASIC competition: no loss of market share. - Talked about how a leading frontier lab that previously relied heavily on internal ASICs has shifted nearly 50% of its compute load to Nvidia 3. On over-reliance on hyperscalers. - AI frontier labs currently contributing to ~20% of demand. - Traditional cloud providers, Nvidia provides Vera CPUs and high-speed networking - Sovereign AI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHGmpVnycev2pRVb6n8WxB751sNZDvAALqD2sb_c6xViShjartT0lsAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHG2pVny3K3pVnmgABEEzmEXIabogO6AAC6w9rG_3OsVZ8So5Q9S_9JwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-14 22:35:50
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2076846994614792663#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. Targeting $1.2B net profit, and $3.6B revenue in 2028 (with a ~$28B MC, that's ~23.3 2028 forward p/e). AAOI announced the commencement of its buildout, roughly 400,000 square feet of manufacturing to make 800g/1.6T production go brrr. The overall expansion is also supported by the local city government in Texas. (they also $20.85M worth of subsidies from the State earlier). This one isn't exactly as materially new as Tower, since AAOI originally announced these plans before. Just commencement of it. Regardless, glad to see both of these companies in their Anime training arc phase as they power up.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHK2pWTZcSPe_EUTrpw0NZlxROf_iqAAK6EGsb_c65VhfCiiW002VEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHLGpWTZvKGYZcQq-B2pGnTxW4pXo6AAK7EGsb_c65VrQBywPJ4QzbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077039373711970804#m)
 
 ---
 
