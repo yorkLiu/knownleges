@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 298 条推文
+> 📊 推文存档 - 共 299 条推文
 
 ---
 
@@ -59,9 +59,19 @@ X 上，又何尝不是一处修心悟道的道场。 这里汇聚着世间百�
 
 【上证指数这里还不能确认见底，耐心等待市场验证】 今天上证指数缩量反弹，市场情绪有所修复，但目前仍不能确认已经见底，更不能轻易定义为趋势反转。 从日K走势来看，指数尚未站上5日均线，30日均线依然下行，短中期均线尚未形成多头排列，说明中期趋势仍有修复需求。 真正的底部，不是靠一根阳线确认，而是要看资金是否持续进场。参考4月8日，当时市场走出了一根放量标志性阳线，随后成交量持续配合，行情才逐步确立。因此，目前更倾向于将这里定义为反弹阶段，而不是已经完成见底。 接下来重点关注四个信号： 是否出现放量突破的标志性阳线； 成交量能否持续放大； 5日、10日、20日均线能否逐步转强； 指数能否形成”高点更高、低点更高”的上升结构。 这里存在构筑底部的可能，但证据还不充分。交易上与其猜底，不如等底。只有市场给出明确的底部信号，再提高仓位，成功率会更高。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHKGpV_axj2HnMhL2jwV1EE7szUloSAAK3EGsb_c6xVk0yYY-1UyHOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2076947815373447171#m)
+## 2026-07-14 17:40:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+风物长宜放眼量，不畏浮云遮望眼
+
+<img src="/images/Mimiwftt/amplify_video_thumb_2076965003652186112_img_CkyUD6aSddekG98O.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2076965110774735131#m)
 
 ---
 
