@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1150 条推文
+> 📊 推文存档 - 共 1151 条推文
 
 ---
 
@@ -119,8 +119,6 @@ True
 
 RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today There was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data Those engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong I guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm Then came Opus 4.5 earlier this year which changed everything Suddenly real production code became possible with so much less friction and headache Everyone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8 Now a completely new crop of models is coming out that is not quite a 4.5 moment but something close We are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past My wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on She never stops letting me know that she was right, and she was The next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic There are many amazing things ahead and extraordinary challenges and opportunities We are living inside one of one of the biggest revolutions in human history
 
-[查看原文](https://nitter.net/kevinnbass/status/2076881971117011234#m)
-
 ---
 
 ## 2026-07-14 13:44:50
@@ -131,11 +129,19 @@ RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was
 
 The woke mob had turned Twitter into Wormtongue to the World
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHI2pV0gj3IfMHHB9A4ETFSEvdEQkSAAJIEGsb_c6xVubgglvGp3cbAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHJGpV0gsZGDNYrsHXxVBwNEnt0tLCAAJJEGsb_c6xVmFn6-SJFkC_AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-14 13:58:35
 
-[查看原文](https://nitter.net/elonmusk/status/2076905740531302479#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHJWpV2UlUiz56sge9BlzMs0e0njwFAAJqEGsb_c6xVt_7i-flFysxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2076909201524203973#m)
 
 ---
 
