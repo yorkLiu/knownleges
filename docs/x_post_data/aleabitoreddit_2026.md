@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 289 条推文
+> 📊 推文存档 - 共 290 条推文
 
 ---
 
@@ -49,11 +49,21 @@ So Jensen himself went out to do damage control with $NVDA delays reports appare
 
 Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. Targeting $1.2B net profit, and $3.6B revenue in 2028 (with a ~$28B MC, that's ~23.3 2028 forward p/e). AAOI announced the commencement of its buildout, roughly 400,000 square feet of manufacturing to make 800g/1.6T production go brrr. The overall expansion is also supported by the local city government in Texas. (they also $20.85M worth of subsidies from the State earlier). This one isn't exactly as materially new as Tower, since AAOI originally announced these plans before. Just commencement of it. Regardless, glad to see both of these companies in their Anime training arc phase as they power up.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHK2pWTZcSPe_EUTrpw0NZlxROf_iqAAK6EGsb_c65VhfCiiW002VEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHLGpWTZvKGYZcQq-B2pGnTxW4pXo6AAK7EGsb_c65VrQBywPJ4QzbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-14 22:57:21
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2077039373711970804#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029. Reflection also signed a multi-billion dollar agreement with $SPCX earlier. Interesting to say the least, seeing Nebius drop -5% off the news today. Also... counterparty to get this done kinda reminds me of OpenAI, where they might not have the funds to actually execute on these LTAs yet compared to $META or $MSFT. But generally positive long term developments, customer diversification was one of the core strengths of Nebius.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHMGpWVOnkrBIaRhMKu-SK7KbB4XfUAALHEGsb_c65Vv8wHFuaUw2yAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHMWpWVOwqU0dmMUvWJMfd2AoMjnj4AALIEGsb_c65Vs4fnRhVNerYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077044786402660829#m)
 
 ---
 

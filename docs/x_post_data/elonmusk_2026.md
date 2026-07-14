@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1151 条推文
+> 📊 推文存档 - 共 1157 条推文
 
 ---
 
@@ -18,6 +18,18 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minutes.
+
+---
+
+## 2026-07-14 01:42:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Right-wing wave in Europe. France 🇫🇷: Marine Le Pen now leading polls to be next President. Austria 🇦🇹: the Freedom Party is leading the polls massively at almost 40% Germany 🇩🇪: The AfD party now consistently number ONE in polls. Norway 🇳🇴: The Libertarian FrP party leading the polls by a wide margin. Something is changing in Europe.
+
+[查看原文](https://nitter.net/PeterSweden7/status/2076723840168632703#m)
 
 ---
 
@@ -111,6 +123,22 @@ True
 
 ---
 
+## 2026-07-14 11:59:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHLWpWVNxEdtcsxQOYyCWKTeGtxanZAALEEGsb_c65VoiHqJwykdJGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2076878334219128832_img_-KY_WVsIgbCpTzr3.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2076879176628305957#m)
+
+---
+
 ## 2026-07-14 12:10:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -139,9 +167,59 @@ The woke mob had turned Twitter into Wormtongue to the World
 
 Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHJWpV2UlUiz56sge9BlzMs0e0njwFAAJqEGsb_c6xVt_7i-flFysxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2076909201524203973#m)
+## 2026-07-14 20:48:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok is the Flow LLM. Grok 4.5’s biggest advantage is its speed. It’s smart enough to be comparable to the other models on most things. But that speed allows you to make little tweaks to your system so that the output is PERFECT. With the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this. It’s now my preferred model.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHLmpWVOA8lxSvoxXX-11RS1ZEzEyoAALFEGsb_c65Vpd_w2fHyjctAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/farzyness/status/2077012251899277738#m)
+
+---
+
+## 2026-07-14 21:29:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starlink will provide high-speed, low-latency connectivity onboard @FlyFrontier, transforming every flight into a fully connected experience 🛰️✈️
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHL2pWVOShPGlm0JKbfumwKIAGRvDdAALGEGsb_c65VotSI3qKTaxfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Starlink/status/2077022708693684548#m)
+
+---
+
+## 2026-07-14 22:52:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2077043449279262954#m)
+
+---
+
+## 2026-07-14 22:56:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Ancient times
+
+<img src="/images/elonmusk/amplify_video_thumb_2076921065327251456_img_hT0c7fgxbdn3VQQd.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077044528234553709#m)
 
 ---
 
