@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 218 条推文
+> 📊 推文存档 - 共 220 条推文
 
 ---
 
@@ -19,9 +19,29 @@ tags: ["2026"]
 
 盈透证券支持了稳定币的充提。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHM2pWY2JfiKlbfLi4gfFN04fG93TrAAL5EGsb_c65Vg0mn_wuwDpFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2077065422822904063#m)
+## 2026-07-15 01:09:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。
+
+[查看原文](https://nitter.net/xiaomustock/status/2077077950504259787#m)
+
+---
+
+## 2026-07-15 01:13:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。
+
+[查看原文](https://nitter.net/xiaomustock/status/2077079145587294555#m)
 
 ---
 
