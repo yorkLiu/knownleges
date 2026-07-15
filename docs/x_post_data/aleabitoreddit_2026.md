@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 292 条推文
+> 📊 推文存档 - 共 293 条推文
 
 ---
 
@@ -29,11 +29,19 @@ $AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m (160-200% growth
 
 Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. There's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be: 1. Winbond (2344): ~15% of the SLC NAND market 2. Macronix (2337): ~11% market share 3. SkyHigh Memory via Puya Semi: ~14% market share Given Micron at $1T and others are a bit large relative to SLC NAND TAM. (source: Q1 2026 Winbond presentation/Trendforce).
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQmpXA0ANIJBuFc1OKJpk5CS-YRuRAAKXEWsb_c65VhAF2VCmUIj4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQ2pXA0RRfu7EoBQMNJQICY3gr2yxAAKYEWsb_c65VrpvoAeWCq5KAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-15 22:54:52
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2077228758491386121#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$NVDA CEO, Jensen Huang in Tokyo today said: "The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming" As a flat denial to the accusation that their AI servers would be delayed. Jensen appears to be using the Umbrella term for Rubin Ultra/Kyber, then pointed to current gen ramp. Regardless, lot of damage has been done already to Nvidia supply chains stock prices, after the multiple delay reports. Even if Nvidia refuted them by clarifying Kyber change was an architecture optimization, not impacting timelines. It's a very dangerous and growing trend for folks to post overreaching broader claims from technical nuances to grow viewcount... Especially if they get Jensen has to respond. In the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHV2pXoy2jW7DG9bwU-xUsFz51rdvFAAJ_E2sbwye5Vg8QgznnM4wwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077406548012466390#m)
 
 ---
 

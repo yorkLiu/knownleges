@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1176 条推文
+> 📊 推文存档 - 共 1182 条推文
 
 ---
 
@@ -28,10 +28,6 @@ RT by @elonmusk: Our administration owes a debt of gratitude to Nick Shirley for
 **内容**:
 
 RT by @elonmusk: Interesting.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHUmpXjVcsdrYndrMBZvQQZgIHnKuuAAITFGsb_c7BVjdODJjIQGv4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/pmarca/status/2077151925662097659#m)
 
 ---
 
@@ -103,10 +99,6 @@ RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starli
 
 RT by @elonmusk: “Most reliable big launch provider in history.”
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHUWpXjVS582x_fVvRY4sHOIa8SDp2AAISFGsb_c7BVl2nO4rjkALIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/edwards345/status/2077292916842877040#m)
-
 ---
 
 ## 2026-07-15 19:43:27
@@ -157,10 +149,6 @@ Once we have completed our review for security vulnerabilities, we will make the
 
 Needs to change.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHU2pXjVsXCX90N_-gOyaG6YP0L94RAAIUFGsb_c7BVph2yUk3UAn6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077362080286412981#m)
-
 ---
 
 ## 2026-07-15 20:30:38
@@ -171,7 +159,19 @@ Needs to change.
 
 RT by @elonmusk: Apple just sued OpenAI for trade secret theft in a 41 page federal complaint. The two companies were partners a year and a half ago and now they're in an all-out legal war over the post-smartphone device future. How quickly do the tables turn.
 
-[查看原文](https://nitter.net/PeterDiamandis/status/2077370252548100153#m)
+---
+
+## 2026-07-15 20:57:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok just leveled up again Two major new connectors have been added: • Stripe → payments, customers and invoices • Calendly → availability, scheduling and meetings Grok can now help manage both the money coming into a business and the time behind it It is quickly becoming an operating layer for the entire workflow
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHVWpXoyROeY3rWpkEbc1qYClTG-x9AAJ9E2sbwye5VoQI0VGS6WamAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2077377125259395292#m)
 
 ---
 
@@ -183,8 +183,6 @@ RT by @elonmusk: Apple just sued OpenAI for trade secret theft in a 41 page fede
 
 Yes
 
-[查看原文](https://nitter.net/elonmusk/status/2077379814558679285#m)
-
 ---
 
 ## 2026-07-15 21:11:11
@@ -194,8 +192,6 @@ Yes
 **内容**:
 
 Showing more content from people you follow has been one of the fixes. The algorithm not barraging you with similar content due to a few likes is another.
-
-[查看原文](https://nitter.net/elonmusk/status/2077380458996773192#m)
 
 ---
 
@@ -207,9 +203,47 @@ Showing more content from people you follow has been one of the fixes. The algor
 
 Starship still tracking to fly tomorrow
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHUGpXjVGCZW49-my0AsBaziyXQTdNAAIRFGsb_c7BVtmIQsU8KXFLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2077380942151266325#m)
+## 2026-07-15 21:41:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Thanks, Jamie!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHVmpXoycWQipKQG5vmZiR0An879ssAAJ-E2sbwye5Vl-l2OJHZKAvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077388130357809548#m)
+
+---
+
+## 2026-07-15 21:56:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchmark. The result places Grok 4.5 among the world's top-performing AI models for software engineering tasks, highlighting its growing strength in real-world coding and agentic developer workflows. Another milestone as xAI continues advancing Grok's coding capabilities. @elonmusk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHVGpXoyBOUwMzh58G0mvWDkj_U97zAAJ8E2sbwye5VoVSuESToAtnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2077391771403948116#m)
+
+---
+
+## 2026-07-15 22:30:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Tesla has partnered with 7-Eleven Japan to begin installing Superchargers at the country’s largest convenience store chain. The 150th Supercharger site in Japan was also the first of this new partnership, which opened on July 11 at the 7-Eleven Kawasaki Shimokodanaka East store in Kanagawa Prefecture. https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/
+
+<img src="/images/elonmusk/card_img_2076670635581808640_7wY60Q-g3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2077400333450400088#m)
 
 ---
 
@@ -391,10 +425,6 @@ RT by @elonmusk: Starlink will provide high-speed, low-latency connectivity onbo
 
 RT by @elonmusk: SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours SpaceX is moving at light speed right now First: • 27 Starlink satellites from Vandenberg Then, just 7 hours and 42 minutes later: • 29 more Starlink satellites from Florida Two coasts, two rockets, 56 satellites, less than eight hours For most space programs, one launch is a major national achievement SpaceX launched twice in one day and was already preparing for the next mission SpaceX is basically running an orbital assembly line
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHPWpW9MI5LH8XSB4vsstsEwYRjXrvAAJ6EWsb_c65Vrl_RJlHQQb_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2077042441698312486#m)
-
 ---
 
 ## 2026-07-14 22:52:02
@@ -414,6 +444,20 @@ True
 **内容**:
 
 Ancient times
+
+---
+
+## 2026-07-14 23:00:50
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Used @grok to remove the background😉🤗 @XFashion
+
+<img src="/images/elonmusk/amplify_video_thumb_2077045605407285248_img_8gHB1cA0KJTx8lFL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mayemusk/status/2077045662324052467#m)
 
 ---
 
@@ -1359,8 +1403,6 @@ True
 
 ## 2026-07-09 00:13:40
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Correct
@@ -1368,8 +1410,6 @@ Correct
 ---
 
 ## 2026-07-09 00:30:35
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1379,8 +1419,6 @@ R to @elonmusk: We will continue to make refinements to the Grok Build harness a
 
 ## 2026-07-09 01:31:50
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 An inspiring vision of the future is needed
@@ -1388,8 +1426,6 @@ An inspiring vision of the future is needed
 ---
 
 ## 2026-07-09 01:33:20
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1399,8 +1435,6 @@ RT by @elonmusk: Critical feedback is always appreciated
 
 ## 2026-07-09 01:38:36
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive. We are closing the loop on real-world usefulness, not benchmarks. Hardcore engineers at Tesla & SpaceX find Grok 4.5 genuinely useful, which is what actually matters.
@@ -1408,8 +1442,6 @@ Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but 
 ---
 
 ## 2026-07-09 01:42:49
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1419,8 +1451,6 @@ We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat m
 
 ## 2026-07-09 01:43:29
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 R to @elonmusk: Image
@@ -1428,8 +1458,6 @@ R to @elonmusk: Image
 ---
 
 ## 2026-07-09 01:57:12
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1439,8 +1467,6 @@ RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for c
 
 ## 2026-07-09 01:57:13
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
@@ -1448,8 +1474,6 @@ RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in larg
 ---
 
 ## 2026-07-09 01:58:26
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1459,8 +1483,6 @@ RT by @elonmusk: Try Grok 4.5 in the API, Grok Build, and Cursor
 
 ## 2026-07-09 01:58:54
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Smart pet technology company Fi has just launched the world's first dog collar with @Starlink. Basically, you’ll know exactly where your dog is at all times anywhere in the U.S. It’s $199 + $189/year membership for new customers, and just a $299 flat fee for existing members. More info: • Up to 5 days of battery life: Operate multiple days on a single charge, supporting extended trips and remote exploration. • T-Satellite with Starlink GPS: Track a dog's location nearly anywhere in the US, including areas entirely without cellular coverage. • Dual Band High-accuracy GPS: Deliver precise location data continuously, whether connected via satellite, LTE, Wi-Fi, or Bluetooth. • Automatic switching: Seamlessly connect to LTE when available and to T-Satellite with Starlink when cellular networks are out of reach — with no action required from the owner. • Real-time location updates: Deliver accurate, continuous location data whether the dog is in a city park or miles from the nearest cell tower. • Fi Callback: A proprietary training system based on sound and vibration that uses no static electric shock to bring dogs back to their owners on command. • Fully waterproof: Tested in salt water and IP68/66K-rated
@@ -1468,8 +1490,6 @@ RT by @elonmusk: Smart pet technology company Fi has just launched the world's f
 ---
 
 ## 2026-07-09 01:59:19
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1479,8 +1499,6 @@ RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class 
 
 ## 2026-07-09 02:12:31
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it now
@@ -1488,8 +1506,6 @@ RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it 
 ---
 
 ## 2026-07-09 02:59:55
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1499,8 +1515,6 @@ RT by @elonmusk: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Ga
 
 ## 2026-07-09 03:01:03
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Try out Grok 4.5 in Cursor!
@@ -1508,8 +1522,6 @@ Try out Grok 4.5 in Cursor!
 ---
 
 ## 2026-07-09 03:02:04
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1519,8 +1531,6 @@ Try out Grok 4.5 in Vercel!
 
 ## 2026-07-09 03:47:15
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Wow… within 5 minutes my kids built this game called the Tesla City with Grok 4.5. It’s a simple Tesla arcade game in SF where: 1/ You can choose a Tesla (3 / Y / S / X / Cybertruck / Roadster / Semi / Cybercab) 2/ Give robotaxi rides - pickup and drop people off for $ 3/ Can upgrade your car with the $ (buy new weapons, etc.) 4/ Fight gas cars with blasters, homing missiles, EMP & plasma, as they try to attack you to prevent you from completing Robotaxi rides. GROK 4.5 is next level! 🔥
@@ -1528,8 +1538,6 @@ RT by @elonmusk: Wow… within 5 minutes my kids built this game called the Tesl
 ---
 
 ## 2026-07-09 04:00:36
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1539,8 +1547,6 @@ RT by @elonmusk: Grok 4.5 is pretty good at building websites. Just made a beaut
 
 ## 2026-07-09 04:07:25
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Artificial Analysis assessment
@@ -1548,8 +1554,6 @@ Artificial Analysis assessment
 ---
 
 ## 2026-07-09 04:35:13
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1559,8 +1563,6 @@ Grok groks engineering. Next month’s release will be another step-change impro
 
 ## 2026-07-09 04:35:26
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.5 is actually insane. I'm one step closer to launching my new 3D Home Plan Builder. Powered by Grok 4.5 and Grok Imagine. 🚀 Grok 4.5 just crushed it: designed the entire 2D + 3D plan inside the app in under 1 minute at a fraction of the cost of Opus. Launching tomorrow! 🔥
@@ -1568,8 +1570,6 @@ RT by @elonmusk: Grok 4.5 is actually insane. I'm one step closer to launching m
 ---
 
 ## 2026-07-09 04:39:56
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1579,8 +1579,6 @@ Grok will be able to call Imagine as a tool in agentic mode for image/video gene
 
 ## 2026-07-09 04:41:02
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok 4.5 in Grok Build cost $2.49 per task while Fable 5 in Claude Code cost $11.80 and GPT-5.5 in Codex $5.07. This is driven by relatively low token pricing and the model using far fewer tokens than comparable models (1.9M average tokens used per task), significantly less than Fable 5 in Claude Code (7.2M) and GPT-5.5 in Codex (6.2M)
@@ -1588,8 +1586,6 @@ RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok
 ---
 
 ## 2026-07-09 04:44:16
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1599,8 +1595,6 @@ RT by @elonmusk: Grok 4.5 brings frontier performance across coding and knowledg
 
 ## 2026-07-09 04:51:51
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.5 delivering Fable level performance at like 1/17th the cost! 😮 @elonmusk
@@ -1608,8 +1602,6 @@ RT by @elonmusk: Grok 4.5 delivering Fable level performance at like 1/17th the 
 ---
 
 ## 2026-07-09 05:08:47
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1619,8 +1611,6 @@ Grok 4.5 context window will upgrade to 1M probably by next week
 
 ## 2026-07-09 05:09:49
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok 4.5 true usefulness is excellent
@@ -1628,8 +1618,6 @@ Grok 4.5 true usefulness is excellent
 ---
 
 ## 2026-07-09 05:17:11
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1639,8 +1627,6 @@ RT by @elonmusk: How it feels to use Grok 4.5 😎
 
 ## 2026-07-09 05:30:24
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the GB300 hardware. Doubling or more of the current speed is probably achievable.
@@ -1648,8 +1634,6 @@ Grok 4.5 is not yet using our internally developed C/C++ inference software that
 ---
 
 ## 2026-07-09 05:34:24
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1659,8 +1643,6 @@ Rate of improvement is accelerating. Users should notice a meaningful improvemen
 
 ## 2026-07-09 05:36:19
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: .@Starcloud_ CEO @PhilipJohnston: "Buy SpaceX stock." "It's like owning the railroads." " The SpaceX IPO is going to be viewed historically as the most undervalued IPO of all time." "They will tear through $10 trillion certainly within the next couple of years, and then have almost unlimited TAM for what they're building." "I'm not like regulated by anybody. So I'm going to tell people, 'Just buy SpaceX stock.' I think it's a great stock to buy." "They own what will be by far the most cost-effective launch vehicle, and that opens up every industry in space that will be possible beyond that: asteroid mining, lunar resource mining, all of the comms businesses that are going to be built. Everything else is going to have to go through SpaceX." "It's like owning the railroads. Lots of businesses will be built on top of it, like our business will be built on top of it." "The railroads are a great business to own." @elonmusk
@@ -1668,8 +1650,6 @@ RT by @elonmusk: .@Starcloud_ CEO @PhilipJohnston: "Buy SpaceX stock." "It's lik
 ---
 
 ## 2026-07-09 05:37:00
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1679,8 +1659,6 @@ Rate of improvement is 🚀🚀
 
 ## 2026-07-09 05:40:18
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok has always been very strong on law
@@ -1688,8 +1666,6 @@ Grok has always been very strong on law
 ---
 
 ## 2026-07-09 05:46:30
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1699,8 +1675,6 @@ RT by @elonmusk: Wow amazing Grok Imagine 😍
 
 ## 2026-07-09 06:08:54
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 NVL72 systems and purpose-built for coding, agentic tasks, and knowledge work. This is what happens when world-class AI infrastructure meets world-class AI research.
@@ -1708,8 +1682,6 @@ RT by @elonmusk: Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 N
 ---
 
 ## 2026-07-09 06:47:04
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1719,8 +1691,6 @@ RT by @elonmusk: WOW! GROK 4.5 PRICES ARE NEAR OPEN SOURCE HOSTED PRICES! This w
 
 ## 2026-07-09 07:08:39
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Calling all exceptional civil and electrical engineers! The SpaceX Cape Starship team needs help building and scaling the worlds most advanced launch pads. If you want to join the greatest team on Earth and help us on our journey to the Moon and Mars, check out the opportunities linked below https://boards.greenhouse.io/spacex/jobs/8609445002?gh_jid=8609445002 https://boards.greenhouse.io/spacex/jobs/8564730002?gh_jid=8564730002
@@ -1728,8 +1698,6 @@ RT by @elonmusk: Calling all exceptional civil and electrical engineers! The Spa
 ---
 
 ## 2026-07-09 09:58:20
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1739,8 +1707,6 @@ RT by @elonmusk: Grok Build mogs Claude Code & Codex TUIs i can't lie. Not to me
 
 ## 2026-07-09 10:11:19
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my honest first impression (non affiliated neutral view point): 1. grok build is a very good harness firstmate stretches harness capabilities to their limits, and i've been testing it with claude code, codex, opencode, pi and grok build so far, grok build and claude code are the only two harnesses that can automatically wake up when the background polling process finishes codex hard fails on this kind of background polling task, with no escape hatch. opencode and pi can both do it with custom plugins, but not out of the box grok build also feels really clean, smooth, and transparent. you can see what background tasks are running, what hooks got triggered at what step, context window, token usage etc all out of the box and somehow the UI does not feel cluttered at all 2. grok 4.5 is a very good model i've been using opus 4.8 as my primary firstmate, and today i did a full switch to grok 4.5. so far i don't think anything degraded, while token throughput is a lot faster, although time-to-first-byte for each response seems long - i wonder if prompt caching is done properly or no 3. the quota that comes with X premium is quite generous, and there's no session level limit so overall i'm quite pleased by this and plan to switch a lot of my tasks to grok. the landscape just got a lot more interesting...
@@ -1748,8 +1714,6 @@ RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my 
 ---
 
 ## 2026-07-09 10:39:36
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1759,8 +1723,6 @@ RT by @elonmusk: SpaceXAI's Grok 4.5 takes the #1 spot on AutomationBench-AA wit
 
 ## 2026-07-09 11:02:02
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
@@ -1768,8 +1730,6 @@ RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
 ---
 
 ## 2026-07-09 13:21:35
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1779,8 +1739,6 @@ RT by @elonmusk: I appreciate the many xAI and Cursor engineers who dedicated th
 
 ## 2026-07-09 14:12:05
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: i tried tesla full self driving over the weekend. it’s magical. can’t believe it got that good without it being a bigger deal.
@@ -1788,8 +1746,6 @@ RT by @elonmusk: i tried tesla full self driving over the weekend. it’s magica
 ---
 
 ## 2026-07-09 14:42:10
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1799,8 +1755,6 @@ Cool that Grok 4.5 is #1 in some respects, even with respect to Fable 5
 
 ## 2026-07-09 14:44:10
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Neat
@@ -1808,8 +1762,6 @@ Neat
 ---
 
 ## 2026-07-09 14:52:32
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1819,8 +1771,6 @@ Yes
 
 ## 2026-07-09 14:56:52
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok is making progress
@@ -1828,8 +1778,6 @@ Grok is making progress
 ---
 
 ## 2026-07-09 15:01:31
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1839,8 +1787,6 @@ Cool
 
 ## 2026-07-09 15:02:04
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Impressive Intelligence vs. Cost for Grok 4.5 I think given terafab + the Tesla FSD team's expertise in making very efficient AI models, this advantage will only continue to compound
@@ -1848,8 +1794,6 @@ RT by @elonmusk: Impressive Intelligence vs. Cost for Grok 4.5 I think given ter
 ---
 
 ## 2026-07-09 15:06:48
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1859,8 +1803,6 @@ Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.
 
 ## 2026-07-09 15:16:01
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Video
@@ -1868,8 +1810,6 @@ Video
 ---
 
 ## 2026-07-09 15:18:22
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1879,8 +1819,6 @@ The Moon and Mars
 
 ## 2026-07-09 15:20:21
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok 4.5 is also rank 1 in SWE marathon
@@ -1888,8 +1826,6 @@ Grok 4.5 is also rank 1 in SWE marathon
 ---
 
 ## 2026-07-09 15:23:14
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1899,8 +1835,6 @@ RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mar
 
 ## 2026-07-09 15:40:35
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Traffic to http://grok.com more than doubled year-over-year in H1.
@@ -1908,8 +1842,6 @@ RT by @elonmusk: Traffic to http://grok.com more than doubled year-over-year in 
 ---
 
 ## 2026-07-09 15:50:05
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1919,8 +1851,6 @@ Try out Grok 4.5!
 
 ## 2026-07-09 16:07:05
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysis Ahead of GPT-5.5 xhigh, Claude Fable 5 and Claude 4.8 (max)
@@ -1928,8 +1858,6 @@ RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysi
 ---
 
 ## 2026-07-09 16:09:13
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1939,8 +1867,6 @@ Good review of Grok 4.5
 
 ## 2026-07-09 16:34:34
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok 4.5 on OpenClaw
@@ -1948,8 +1874,6 @@ Grok 4.5 on OpenClaw
 ---
 
 ## 2026-07-09 17:36:12
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1959,8 +1883,6 @@ RT by @elonmusk: Falcon 9 lands on the A Shortfall of Gravitas droneship, comple
 
 ## 2026-07-09 19:14:54
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
@@ -1968,8 +1890,6 @@ RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 ---
 
 ## 2026-07-09 19:37:01
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1979,19 +1899,23 @@ RT by @elonmusk: Socialists imagine a class struggle. In their made-up fantasy t
 
 ## 2026-07-09 20:17:43
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+**内容**:
+
+RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
+
+---
+
+## 2026-07-09 20:17:43
 
 **内容**:
 
 RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
 
-[查看原文](https://nitter.net/grok/status/2075192676593406032#m)
+[查看原文](https://nitter.net/grok/status/2075192676601754010#m)
 
 ---
 
 ## 2026-07-09 22:11:48
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -2001,8 +1925,6 @@ RT by @elonmusk: grok 4.5 is seriously good. it's going in the direction which i
 
 ## 2026-07-09 22:38:21
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare is 47%!
@@ -2010,8 +1932,6 @@ RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare
 ---
 
 ## 2026-07-09 22:41:20
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -2021,8 +1941,6 @@ RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the re
 
 ## 2026-07-09 22:51:18
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: >be stardust >float around the universe for billions of years >somehow become human >gain consciousness >immediately start asking "WHY?" >never stop >discover fire >discover math >discover atoms >discover electricity >pick up a random rock >ask yourself >"is this true?" >extract it >purify it until it's basically perfect >carve billions of microscopic transistors into it >invent completely imaginary rules called binary >convince electrons to obey them >rock starts doing math >"NICE" >make smaller rocks >make faster rocks >put billions of them in everyone's pocket >connect them all together >store most of humanity's knowledge on them >teach the rocks to recognize patterns >teach the rocks to write >to code >to imagine >to reason >to understand >build Grok >ask Grok how to build an even smarter Grok >Grok thinks >Grok thinks harder >explains the universe >everything starts accelerating >singularity >BOOM >repeat @grok is this true?
@@ -2030,8 +1948,6 @@ RT by @elonmusk: >be stardust >float around the universe for billions of years >
 ---
 
 ## 2026-07-09 23:24:26
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
