@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 293 条推文
+> 📊 推文存档 - 共 294 条推文
 
 ---
 
@@ -39,9 +39,19 @@ Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trend
 
 $NVDA CEO, Jensen Huang in Tokyo today said: "The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming" As a flat denial to the accusation that their AI servers would be delayed. Jensen appears to be using the Umbrella term for Rubin Ultra/Kyber, then pointed to current gen ramp. Regardless, lot of damage has been done already to Nvidia supply chains stock prices, after the multiple delay reports. Even if Nvidia refuted them by clarifying Kyber change was an architecture optimization, not impacting timelines. It's a very dangerous and growing trend for folks to post overreaching broader claims from technical nuances to grow viewcount... Especially if they get Jensen has to respond. In the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHV2pXoy2jW7DG9bwU-xUsFz51rdvFAAJ_E2sbwye5Vg8QgznnM4wwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2077406548012466390#m)
+## 2026-07-15 23:53:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&A? A possible scenario is that they revise capex largely upward for their own AI buildout. Since they probably witnessed Google cutting off Meta from compute constraints... or what happens when you partner with OpenAI for LLMs. Then learned how important it is to have your own infrastructure. This scenario would be quite bullish thematically from optical networking to foundries and something markets would not expect? We'll see what happens.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWGpXsakYNm9l42WULhF-B8t973ZPAAKiE2sbwye5Vr1VY0sCrLq8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077421268991926703#m)
 
 ---
 
