@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1169 条推文
+> 📊 推文存档 - 共 1176 条推文
 
 ---
 
@@ -19,7 +19,19 @@ tags: ["2026"]
 
 RT by @elonmusk: Our administration owes a debt of gratitude to Nick Shirley for exposing one of the most egregious cases of fraud this country has ever seen. If the media was worth their salt, they would take notes from Nick and other citizen journalists who care about investigating stories that affect the American people instead of trying to silence them.
 
-[查看原文](https://nitter.net/JDVance/status/2077142741528592887#m)
+---
+
+## 2026-07-15 06:03:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Interesting.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHUmpXjVcsdrYndrMBZvQQZgIHnKuuAAITFGsb_c7BVjdODJjIQGv4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/pmarca/status/2077151925662097659#m)
 
 ---
 
@@ -83,6 +95,20 @@ RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starli
 
 ---
 
+## 2026-07-15 15:23:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: “Most reliable big launch provider in history.”
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHUWpXjVS582x_fVvRY4sHOIa8SDp2AAISFGsb_c7BVl2nO4rjkALIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/edwards345/status/2077292916842877040#m)
+
+---
+
 ## 2026-07-15 19:43:27
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -90,10 +116,6 @@ RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starli
 **内容**:
 
 True
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHT2pXd4i8jfBBDhf4bQJsC8WfuspaAAL0E2sb_c7BVjSlLyhx681lAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077358378276286954#m)
 
 ---
 
@@ -105,8 +127,6 @@ True
 
 Paul Ehrlich was one the most evil men ever
 
-[查看原文](https://nitter.net/elonmusk/status/2077359310695260521#m)
-
 ---
 
 ## 2026-07-15 19:49:07
@@ -116,10 +136,6 @@ Paul Ehrlich was one the most evil men ever
 **内容**:
 
 She is France’s last hope
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHTmpXd4XIkuBmnKZOOI6eT_NMvQGvAALzE2sb_c7BVuafsqEr9LXkAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077359803454673313#m)
 
 ---
 
@@ -131,7 +147,69 @@ She is France’s last hope
 
 Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. Moreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running. Trust through total transparency is the only thing that should be believed.
 
-[查看原文](https://nitter.net/elonmusk/status/2077361679034118271#m)
+---
+
+## 2026-07-15 19:58:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Needs to change.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHU2pXjVsXCX90N_-gOyaG6YP0L94RAAIUFGsb_c7BVph2yUk3UAn6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077362080286412981#m)
+
+---
+
+## 2026-07-15 20:30:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Apple just sued OpenAI for trade secret theft in a 41 page federal complaint. The two companies were partners a year and a half ago and now they're in an all-out legal war over the post-smartphone device future. How quickly do the tables turn.
+
+[查看原文](https://nitter.net/PeterDiamandis/status/2077370252548100153#m)
+
+---
+
+## 2026-07-15 21:08:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://nitter.net/elonmusk/status/2077379814558679285#m)
+
+---
+
+## 2026-07-15 21:11:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Showing more content from people you follow has been one of the fixes. The algorithm not barraging you with similar content due to a few likes is another.
+
+[查看原文](https://nitter.net/elonmusk/status/2077380458996773192#m)
+
+---
+
+## 2026-07-15 21:13:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship still tracking to fly tomorrow
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHUGpXjVGCZW49-my0AsBaziyXQTdNAAIRFGsb_c7BVtmIQsU8KXFLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077380942151266325#m)
 
 ---
 
