@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 316 条推文
+> 📊 推文存档 - 共 318 条推文
 
 ---
 
@@ -169,10 +169,6 @@ tags: ["2026"]
 
 如果你们想买某个股票的话，看看月线级别，如果已经走出了跟智飞一样的红色荧光笔的趋势走势，你们就不要追了，而且回落也不要随便抄底博弈反弹，回落周期按年算。 如果类似黄色的横盘箱体，那里才是买入机会。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHSWpXIFir-pZOJ4YuWDrSxS-9E0IXAALLEWsb_c65Vme-SeYVVzb-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077261771312881975#m)
-
 ---
 
 ## 2026-07-15 13:42:03
@@ -183,9 +179,33 @@ tags: ["2026"]
 
 R to @Mimiwftt: 下午开盘就开始拉了
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHSGpXIFSKPZjOLp3EuAZWpHKWlV1SAALKEWsb_c65VhHriim367GwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077267428393070742#m)
+## 2026-07-15 14:16:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/Mimiwftt/amplify_video_thumb_2077275939046928384_img_SsGlAaKzJqa1iHvq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077276003425308761#m)
+
+---
+
+## 2026-07-15 14:21:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+如果你们有看懂7/4的这段弱势股与强势股的交易规律，就不应该在强势股走弱的时候去抄底。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHSmpXLtzAvWmRVxXO_jvNzV4_gRZ4AAL1EWsb_c65Vg_1WUSN3thuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077277438774767996#m)
 
 ---
 
