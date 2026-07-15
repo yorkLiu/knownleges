@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 322 条推文
+> 📊 推文存档 - 共 323 条推文
 
 ---
 
@@ -229,8 +229,6 @@ x.com/i/spaces/1nGnRRdmojNGO
 
 现在的人都太自私太浮躁了。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077325508258537899#m)
-
 ---
 
 ## 2026-07-15 17:55:43
@@ -241,9 +239,19 @@ x.com/i/spaces/1nGnRRdmojNGO
 
 【天哥说】系列心法居多，你们可以翻翻读一下。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHTGpXWnVQRF3lzURs-Usu1-KTIUg5AAKLE2sb_c7BVlQryfdXqeugAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077331266853376282#m)
+## 2026-07-15 18:23:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今年年初就提醒过课代表们，要谨慎对待“复制2021年走势”的预期。 回顾2021年，7月阴线探底，8月走出大阳行情，9月则继续拉升后冲高回落。如果本月后续能够顺利完成风格切换，那么8—9月依然值得期待，有望迎来一轮趋势性行情。 当然，历史不会简单重复，但节奏往往会押韵，关键还是看风格切换能否得到确认。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHTWpXYbqMMaweCg6OaKL0bN0Uy4zJAAKiE2sb_c7BVk-lj1ujXmc1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077338214667612199#m)
 
 ---
 
