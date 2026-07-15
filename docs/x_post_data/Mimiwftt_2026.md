@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 314 条推文
+> 📊 推文存档 - 共 316 条推文
 
 ---
 
@@ -149,12 +149,6 @@ tags: ["2026"]
 
 哈哈哈哈哈哈。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRmpXEcvzc5zyNr38spVvkkImE9BMAAK3EWsb_c65VlMqxzRSdS0rAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHR2pXEdACWYGbFoEIt9dRQWNRWH1uAAK4EWsb_c65Vop-FS-lcOtqAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077252558826188823#m)
-
 ---
 
 ## 2026-07-15 12:48:51
@@ -165,15 +159,33 @@ tags: ["2026"]
 
 之前语音复盘里提到了医药和证券都是趋势反转后回踩，医药起来了，那后面该轮到证券了，可以低吸。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-15 13:19:34
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077254040371839298#m)
+如果你们想买某个股票的话，看看月线级别，如果已经走出了跟智飞一样的红色荧光笔的趋势走势，你们就不要追了，而且回落也不要随便抄底博弈反弹，回落周期按年算。 如果类似黄色的横盘箱体，那里才是买入机会。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHSWpXIFir-pZOJ4YuWDrSxS-9E0IXAALLEWsb_c65Vme-SeYVVzb-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077261771312881975#m)
+
+---
+
+## 2026-07-15 13:42:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: 下午开盘就开始拉了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHSGpXIFSKPZjOLp3EuAZWpHKWlV1SAALKEWsb_c65VhHriim367GwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077267428393070742#m)
 
 ---
 
