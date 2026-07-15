@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 221 条推文
+> 📊 推文存档 - 共 222 条推文
 
 ---
 
@@ -49,9 +49,21 @@ tags: ["2026"]
 
 未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHMmpWXB73yUgiKocr4Uin_Ya-sCIaAALTEGsb_c65VpMvA8OXT0y5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2077123703226413448#m)
+## 2026-07-15 11:59:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+51.5抄的78跑了40%， 非常后悔， 因为跑了一部分发现完全不知道买什么， 全市场都是垃圾股，没有比海力士更好的。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRWpXCoPazeHFJ4Z2Bw7mx-vVhAlqAAKjEWsb_c65VjQ2M69swAABWgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2077241505262313546#m)
 
 ---
 
