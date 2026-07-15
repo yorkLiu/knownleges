@@ -7,7 +7,35 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1182 条推文
+> 📊 推文存档 - 共 1192 条推文
+
+---
+
+## 2026-07-15 00:11:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWmpXuO4g3ncjekDdZoDLzwIr7mcjAAJUDWsbwyfBVk-UfAzOSblAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/satyanadella/status/2077063479232795024#m)
+
+---
+
+## 2026-07-15 01:44:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Well said Demis! Worth reading
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWmpXuO4g3ncjekDdZoDLzwIr7mcjAAJUDWsbwyfBVk-UfAzOSblAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/sundarpichai/status/2077086951833063580#m)
 
 ---
 
@@ -38,6 +66,20 @@ RT by @elonmusk: Interesting.
 **内容**:
 
 RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4. • Size: 384 × 306 mm vs 594 × 383 mm • Weight: 1.1 kg vs 2.9 kg • Power: 35–50W vs 75–100W • Wind rating: 265 km/h vs 96+ km/h • Same 110° field of view • Speeds up to 375+ Mbps
+
+---
+
+## 2026-07-15 06:12:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: INSANE Drone Flyover of Tesla Giga Texas! I flew my FPV drone right over Tesla’s massive Gigafactory in Texas and captured epic aerial views of the factory. The sheer size of this place is mind-blowing! Watch the full flyover and see why Giga Texas is one of the biggest factories in the world. Drone footage shot on @antigravity_HQ  A1 Drone Purchase below https://www.antigravity.tech/drone/antigravity-a1/buy?utm_term=AGRP5DM
+
+<img src="/images/elonmusk/amplify_video_thumb_2077153094824288256_img_BdMeeyMh-PZph_NF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2077154314989232197#m)
 
 ---
 
@@ -88,6 +130,20 @@ Grok 4.5 is worth trying
 **内容**:
 
 RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.
+
+---
+
+## 2026-07-15 14:32:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Look at these photos Falcon 9 soaring into the sky. Falcon Heavy and Starship ready for the next mission. Starlink antennas simple, clean, ready for any terrain. The Boring Company’s machine that looks like industrial sculpture. Futuristic tunnels full of Teslas. And the man whose vision stands behind it all. It’s not a coincidence. It’s not just “technology.” It’s class itself. Zero unnecessary ornaments. Zero exaggeration. Just a pure, very high-quality product. You hold it in your hand, step inside, or look at it and immediately feel that everything is refined to the last detail. It works. It looks right. It lasts. Elon Musk has this rare quality: he’s a man with class. He doesn’t flaunt luxury or add things just “because they photograph well.” He chooses simplicity but the kind that’s executed perfectly. And he transferred exactly that same philosophy to his companies. The result? Engineering at the level of fashion. Design that’s modern yet has timeless elegance. Products that don’t just do the job they impress with their quality and quiet confidence. It’s no accident that the rocket looks like a work of art. That a Tesla interior feels minimalist yet luxurious. That a Starlink dish looks like it was designed by someone who understands aesthetics, not just connectivity. They all share one common thread: class. Not the loud, flashy kind. The real kind quiet, self-assured, and uncompromising. If you value things that are simply well-made without unnecessary bling, but full of character and top-tier quality this is the essence of what Elon has built. @elonmusk @Starlink @boringcompany @SpaceX @Tesla @neuralink
+
+<img src="/images/elonmusk/ext_tw_video_thumb_2077280217941299200_pu_img_pOYebku9thEGF-Ls.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/NataliaSpace11/status/2077280241613988185#m)
 
 ---
 
@@ -169,10 +225,6 @@ RT by @elonmusk: Apple just sued OpenAI for trade secret theft in a 41 page fede
 
 RT by @elonmusk: Grok just leveled up again Two major new connectors have been added: • Stripe → payments, customers and invoices • Calendly → availability, scheduling and meetings Grok can now help manage both the money coming into a business and the time behind it It is quickly becoming an operating layer for the entire workflow
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHVWpXoyROeY3rWpkEbc1qYClTG-x9AAJ9E2sbwye5VoQI0VGS6WamAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2077377125259395292#m)
-
 ---
 
 ## 2026-07-15 21:08:38
@@ -213,10 +265,6 @@ Starship still tracking to fly tomorrow
 
 Thanks, Jamie!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHVmpXoycWQipKQG5vmZiR0An879ssAAJ-E2sbwye5Vl-l2OJHZKAvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077388130357809548#m)
-
 ---
 
 ## 2026-07-15 21:56:09
@@ -226,10 +274,6 @@ Thanks, Jamie!
 **内容**:
 
 RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchmark. The result places Grok 4.5 among the world's top-performing AI models for software engineering tasks, highlighting its growing strength in real-world coding and agentic developer workflows. Another milestone as xAI continues advancing Grok's coding capabilities. @elonmusk
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHVGpXoyBOUwMzh58G0mvWDkj_U97zAAJ8E2sbwye5VoVSuESToAtnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2077391771403948116#m)
 
 ---
 
@@ -241,9 +285,75 @@ RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchma
 
 RT by @elonmusk: Tesla has partnered with 7-Eleven Japan to begin installing Superchargers at the country’s largest convenience store chain. The 150th Supercharger site in Japan was also the first of this new partnership, which opened on July 11 at the 7-Eleven Kawasaki Shimokodanaka East store in Kanagawa Prefecture. https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/
 
-<img src="/images/elonmusk/card_img_2076670635581808640_7wY60Q-g3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SawyerMerritt/status/2077400333450400088#m)
+## 2026-07-15 22:40:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Top ⁠computer ⁠chip equipment ⁠maker ASML said its capacity expansion ​plans in 2027 and 2028 unveiled ‌today take into ⁠account ⁠demand for its tools from Elon Musk's planned ​Terafab chip production facility in Texas. "We're in dialogue with all our customers and ​we know ... what their building plans are," ⁠CFO Roger ⁠Dassen ​said on a call. "Terafab is also part of ​those plans." Dassen also said ASML was close to fully booking its 2027 EUV capacity and ⁠had already secured a substantial number of 2028 extreme ultraviolet lithography (EUV) orders.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHX2pXuQHo66sBU2umPqkqUnw7W4MzAAJZDWsbwyfBVm4fMinb900-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2077403042018705646#m)
+
+---
+
+## 2026-07-15 23:18:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Am putting together a product gallery at my ranch in Texas
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHXWpXuPo_NaRgvAUzaMX4iNoRcJbJAAJXDWsbwyfBVjoK5f6LFniUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077412614091473360#m)
+
+---
+
+## 2026-07-15 23:20:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good reason to try Grok 4.5 with Grok Build. It gets better every day!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHXGpXuPULrF6Jd54RH6RYE0Zh2CTJAAJWDWsbwyfBVsnNkVZRopE3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077412964231991420#m)
+
+---
+
+## 2026-07-15 23:29:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHW2pXuPGl3CagqtNxevlV42LBbWRrAAJVDWsbwyfBVg9PPWYfZTDZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077415187846500563#m)
+
+---
+
+## 2026-07-15 23:30:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It is a thoughtful framework overall and certainly a good starting point for discussions
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWmpXuO4g3ncjekDdZoDLzwIr7mcjAAJUDWsbwyfBVk-UfAzOSblAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077415601610297535#m)
 
 ---
 
@@ -1911,7 +2021,17 @@ RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast
 
 RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
 
-[查看原文](https://nitter.net/grok/status/2075192676601754010#m)
+---
+
+## 2026-07-09 20:17:43
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHXmpXuP55ncA03qT7xNIxyuNPmocPAAJYDWsbwyfBVuro4WYcTH_xAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/grok/status/2075192676597538995#m)
 
 ---
 
