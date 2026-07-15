@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 305 条推文
+> 📊 推文存档 - 共 309 条推文
 
 ---
 
@@ -59,10 +59,6 @@ tags: ["2026"]
 
 医药是3浪主升，不能追涨，该低吸没低吸的，一遇到回踩就割肉的，你们做短线的做不好中线主升。 中线一定是低吸后持续持股！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHOWpW7YINDYQmof2zjtLpfrZTmLwYAAJqEWsb_c65Vo3FSOQ8i5kcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077209304122437919#m)
-
 ---
 
 ## 2026-07-15 10:08:56
@@ -73,7 +69,61 @@ tags: ["2026"]
 
 大盘承压回落，不要追涨
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077213796402352318#m)
+---
+
+## 2026-07-15 10:11:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大盘承压回落，不要追涨，回落低吸。 底部方向也不需要高抛，持股即可。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077214497455108266#m)
+
+---
+
+## 2026-07-15 10:15:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+目前我依旧看多板块轮动，所以不要追每天大涨的方向，潜伏已经回踩到支撑位的低吸。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE5WpGHVnV7femIunWB5aroZmuJIpnAAKAEGsbg2U5Vls_C_oLBYc3AQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077215542944129413#m)
+
+---
+
+## 2026-07-15 10:32:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一只票的趋势在没有走完之前，是应该持续关注的，而不是涨起来追，跌下去恐慌，要做完一整个大趋势。 没有走完中线主升3浪的个股，继续持股是最正确的选择。不要频繁调仓换股。 不要去追当日大涨的板块，比如医疗服务，今天大阳拉到前期密集成交区，追涨很有可能会在明后天遭遇回踩。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHP2pW9MwhCCpnzLzorB1qQyhnD4x_AAJ8EWsb_c65VvN_JprBYQ2qAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQGpW9NAFJrtypB9L81Tw1kPL-hqHAAJ9EWsb_c65VgHJefq0imjIAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077219642121314766#m)
+
+---
+
+## 2026-07-15 10:44:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我今天也想说他来着，之前在冲绳旅行时提了一嘴，这个票前低2.88，不破前低就是底部区域，可以低吸，破掉止损。 这个月最低点2.89，目前也有筑底迹象。 这是一个教学贴，不是推票。 我提到的任何个股，新粉丝都不要碰！盈亏自负！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHPmpW9MjVn4Fi_bH6X96epvWa4Yl3AAJ7EWsb_c65VhR2sgABRUJ5AQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077222647046586519#m)
 
 ---
 

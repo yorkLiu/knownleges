@@ -7,13 +7,81 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1157 条推文
+> 📊 推文存档 - 共 1163 条推文
+
+---
+
+## 2026-07-15 06:05:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4. • Size: 384 × 306 mm vs 594 × 383 mm • Weight: 1.1 kg vs 2.9 kg • Power: 35–50W vs 75–100W • Wind rating: 265 km/h vs 96+ km/h • Same 110° field of view • Speeds up to 375+ Mbps
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHO2pW9LppqFaZ1GFqKR2megSp_gFVAAJ4EWsb_c65VlRBPDwmTFvmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2077152453557178625#m)
+
+---
+
+## 2026-07-15 08:09:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 Usage reset to 0% time to build.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHPGpW9L2i0fbl6TaxcELRbLavMLuaAAJ5EWsb_c65VhpSJG1frwe1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tetsuoai/status/2077183806117920958#m)
+
+---
+
+## 2026-07-15 09:31:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.
+
+[查看原文](https://nitter.net/yunta_tsai/status/2077204303568347312#m)
+
+---
+
+## 2026-07-15 10:22:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Order the Starlink V5 terminal!
+
+<img src="/images/elonmusk/amplify_video_thumb_2077099374031855616_img_y42_kuDN_2PAo4M5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077217230895382826#m)
+
+---
+
+## 2026-07-15 10:32:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 is worth trying
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHOmpW9LeIQDkBxljnGhXQvGrNMgMpAAJ3EWsb_c65Vq1fIpk_A2E5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077219839626641676#m)
 
 ---
 
 ## 2026-07-14 01:34:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -23,19 +91,17 @@ RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minute
 
 ## 2026-07-14 01:42:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Right-wing wave in Europe. France 🇫🇷: Marine Le Pen now leading polls to be next President. Austria 🇦🇹: the Freedom Party is leading the polls massively at almost 40% Germany 🇩🇪: The AfD party now consistently number ONE in polls. Norway 🇳🇴: The Libertarian FrP party leading the polls by a wide margin. Something is changing in Europe.
 
-[查看原文](https://nitter.net/PeterSweden7/status/2076723840168632703#m)
-
 ---
 
 ## 2026-07-14 01:50:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -45,7 +111,7 @@ RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (inc
 
 ## 2026-07-14 01:53:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -55,7 +121,7 @@ RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and
 
 ## 2026-07-14 02:35:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -65,7 +131,7 @@ RT by @elonmusk: Their zero data retention policy fine print says they still ret
 
 ## 2026-07-14 02:38:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -75,7 +141,7 @@ SpaceX policy regarding data retention. It is actually helpful for debugging iss
 
 ## 2026-07-14 02:45:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -85,7 +151,7 @@ True. As a precautionary measure, all user data that was uploaded to SpaceXAI be
 
 ## 2026-07-14 02:45:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -95,7 +161,7 @@ Progress
 
 ## 2026-07-14 03:16:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -105,7 +171,7 @@ RT by @elonmusk: We're rolling out a small tweak to boost visibility of your pos
 
 ## 2026-07-14 03:28:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -115,7 +181,7 @@ RT by @elonmusk: SpaceX was founded on one powerful belief: A future where human
 
 ## 2026-07-14 06:32:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -125,23 +191,17 @@ True
 
 ## 2026-07-14 11:59:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHLWpWVNxEdtcsxQOYyCWKTeGtxanZAALEEGsb_c65VoiHqJwykdJGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2076878334219128832_img_-KY_WVsIgbCpTzr3.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2076879176628305957#m)
-
 ---
 
 ## 2026-07-14 12:10:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -151,7 +211,7 @@ RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was
 
 ## 2026-07-14 13:44:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -161,7 +221,7 @@ The woke mob had turned Twitter into Wormtongue to the World
 
 ## 2026-07-14 13:58:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -171,55 +231,55 @@ Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench
 
 ## 2026-07-14 20:48:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Grok is the Flow LLM. Grok 4.5’s biggest advantage is its speed. It’s smart enough to be comparable to the other models on most things. But that speed allows you to make little tweaks to your system so that the output is PERFECT. With the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this. It’s now my preferred model.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHLmpWVOA8lxSvoxXX-11RS1ZEzEyoAALFEGsb_c65Vpd_w2fHyjctAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/farzyness/status/2077012251899277738#m)
-
 ---
 
 ## 2026-07-14 21:29:37
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Starlink will provide high-speed, low-latency connectivity onboard @FlyFrontier, transforming every flight into a fully connected experience 🛰️✈️
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHL2pWVOShPGlm0JKbfumwKIAGRvDdAALGEGsb_c65VotSI3qKTaxfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Starlink/status/2077022708693684548#m)
+## 2026-07-14 22:48:02
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours SpaceX is moving at light speed right now First: • 27 Starlink satellites from Vandenberg Then, just 7 hours and 42 minutes later: • 29 more Starlink satellites from Florida Two coasts, two rockets, 56 satellites, less than eight hours For most space programs, one launch is a major national achievement SpaceX launched twice in one day and was already preparing for the next mission SpaceX is basically running an orbital assembly line
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHPWpW9MI5LH8XSB4vsstsEwYRjXrvAAJ6EWsb_c65Vrl_RJlHQQb_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2077042441698312486#m)
 
 ---
 
 ## 2026-07-14 22:52:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2077043449279262954#m)
-
 ---
 
 ## 2026-07-14 22:56:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Ancient times
-
-<img src="/images/elonmusk/amplify_video_thumb_2076921065327251456_img_hT0c7fgxbdn3VQQd.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077044528234553709#m)
 
 ---
 
