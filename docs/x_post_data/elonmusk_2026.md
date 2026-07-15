@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1163 条推文
+> 📊 推文存档 - 共 1164 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4. • Size: 384 × 306 mm vs 594 × 383 mm • Weight: 1.1 kg vs 2.9 kg • Power: 35–50W vs 75–100W • Wind rating: 265 km/h vs 96+ km/h • Same 110° field of view • Speeds up to 375+ Mbps
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHO2pW9LppqFaZ1GFqKR2megSp_gFVAAJ4EWsb_c65VlRBPDwmTFvmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2077152453557178625#m)
-
 ---
 
 ## 2026-07-15 08:09:46
@@ -32,10 +28,6 @@ RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter th
 **内容**:
 
 RT by @elonmusk: Grok 4.5 Usage reset to 0% time to build.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHPGpW9L2i0fbl6TaxcELRbLavMLuaAAJ5EWsb_c65VhpSJG1frwe1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tetsuoai/status/2077183806117920958#m)
 
 ---
 
@@ -47,8 +39,6 @@ RT by @elonmusk: Grok 4.5 Usage reset to 0% time to build.
 
 RT by @elonmusk: People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.
 
-[查看原文](https://nitter.net/yunta_tsai/status/2077204303568347312#m)
-
 ---
 
 ## 2026-07-15 10:22:35
@@ -58,10 +48,6 @@ RT by @elonmusk: People may disagree on which frontier model is best, but they a
 **内容**:
 
 Order the Starlink V5 terminal!
-
-<img src="/images/elonmusk/amplify_video_thumb_2077099374031855616_img_y42_kuDN_2PAo4M5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077217230895382826#m)
 
 ---
 
@@ -73,9 +59,19 @@ Order the Starlink V5 terminal!
 
 Grok 4.5 is worth trying
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHOmpW9LeIQDkBxljnGhXQvGrNMgMpAAJ3EWsb_c65Vq1fIpk_A2E5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2077219839626641676#m)
+## 2026-07-15 11:26:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.
+
+<img src="/images/elonmusk/amplify_video_thumb_2077099374031855616_img_y42_kuDN_2PAo4M5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/michaelnicollsx/status/2077233376281469157#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 318 条推文
+> 📊 推文存档 - 共 319 条推文
 
 ---
 
@@ -189,10 +189,6 @@ R to @Mimiwftt: 下午开盘就开始拉了
 
 Video
 
-<img src="/images/Mimiwftt/amplify_video_thumb_2077275939046928384_img_SsGlAaKzJqa1iHvq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077276003425308761#m)
-
 ---
 
 ## 2026-07-15 14:21:50
@@ -203,9 +199,17 @@ Video
 
 如果你们有看懂7/4的这段弱势股与强势股的交易规律，就不应该在强势股走弱的时候去抄底。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHSmpXLtzAvWmRVxXO_jvNzV4_gRZ4AAL1EWsb_c65Vg_1WUSN3thuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077277438774767996#m)
+## 2026-07-15 15:15:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1nGnRRdmojNGO
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077290960707637563#m)
 
 ---
 
