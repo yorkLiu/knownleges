@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 291 条推文
+> 📊 推文存档 - 共 292 条推文
 
 ---
 
@@ -19,15 +19,21 @@ tags: ["2026"]
 
 $AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m (160-200% growth) from 2026 revenue. Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer). Q4 bookings: $60.7M, effective backlog is $100.6M. - Lead AI processor wafer-level burn-in customer is significantly ramping their products. - Engaged with additional AI processor customers who are evaluating wafer-level burn-in. - Benchmark customer, which was a “major supplier of AI accelerators, CPUs and network processors” “exceeded their expectations. From management: The potential revenue opportunity from one of these devices is "significant to Aehr". So another benchmark win for potential HVM in the future. - Wafer level burn-in benchmark with a "global leader in NAND flash completed". Now evaluating a development agreement for HBM/NAND Seems like $SNDK since there was HBF related discussions from last quarter I think. - "Our package level burn-in business for AI processors also gained momentum over the year … from our lead hyperscale customer for Sonoma systems" - Silicon photonics customer already ramping, newer networking customers has forecast additional systems Basically the amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others. I don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM. Typically with these types of qualification into HVM players, markets don’t really judge it by current quarter, but what’s to come. And it looks very positive so far in terms of reactions... $116 -> $60 -> $94 all in the span of a month is pretty insane volatility tho, so good to know what you're holding.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHNmpW7XRXpDvw5VjLqt8Vu1g-7jn-AAJnEWsb_c65Vs28RB8zN5f1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHN2pW7XhpoO4ZkSoxQkFWIeDAvRRdAAJoEWsb_c65VmDVqBpy2xqAAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-15 11:08:23
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHOGpW7XyrSSHbi7RwOJhj76PvaXJhAAJpEWsb_c65Vs0fL2U17kMYAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC1WoyvMJzaxUTom6ZI8CSopWUYurZAAJCEGsbC5-YVb0K11jBaL0-AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2077208587005542464#m)
+Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. There's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be: 1. Winbond (2344): ~15% of the SLC NAND market 2. Macronix (2337): ~11% market share 3. SkyHigh Memory via Puya Semi: ~14% market share Given Micron at $1T and others are a bit large relative to SLC NAND TAM. (source: Q1 2026 Winbond presentation/Trendforce).
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQmpXA0ANIJBuFc1OKJpk5CS-YRuRAAKXEWsb_c65VhAF2VCmUIj4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQ2pXA0RRfu7EoBQMNJQICY3gr2yxAAKYEWsb_c65VrpvoAeWCq5KAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077228758491386121#m)
 
 ---
 

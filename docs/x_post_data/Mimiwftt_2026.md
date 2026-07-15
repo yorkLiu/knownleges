@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 311 条推文
+> 📊 推文存档 - 共 312 条推文
 
 ---
 
@@ -119,8 +119,6 @@ tags: ["2026"]
 
 我引用一下，也算是给一些新粉丝提个醒。 为什么我一直劝大家尽量专注一个方向，不要频繁调仓换股？就是因为市场里经常会出现这种情况：一旦出现快速杀跌，很多人想等低点再接回来，却往往根本来不及。 对于大多数投资者来说，如果没有判断小波段趋势和节奏的能力，与其频繁进出、反复试错，不如坚定抓住大趋势，做好大波段。 真正的大行情里，最值得把握的往往是主升浪阶段，因为那才是收益释放最充分、赚钱效应最强的阶段。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077224155452436968#m)
-
 ---
 
 ## 2026-07-15 10:56:38
@@ -131,9 +129,19 @@ tags: ["2026"]
 
 今天做了小鸡炖蘑菇🍄‍🟫
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQWpW-_92VepxP_xHXXJzwyK7WrP2AAKHEWsb_c65Vv2m0Xy3i8L6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077225799040770355#m)
+## 2026-07-15 11:11:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大盘反弹到压力区间就开始回落了，这个压力想要突破一定需要一些合力，仅靠上午的医药医疗是不可能突破的，等待科技反弹+证券发力。 新股民接下来不要去高位科技追涨，短线你们不会，中线没有性价比。 可以看看沪深300ETF，依然等下跌的时候买入。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRGpXA0mhMVVGlFJ9RA-Uo4k43NIVAAKZEWsb_c65Vkdn8kvEl97dAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077229661562736915#m)
 
 ---
 
