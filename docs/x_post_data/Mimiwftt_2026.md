@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 309 条推文
+> 📊 推文存档 - 共 311 条推文
 
 ---
 
@@ -79,8 +79,6 @@ tags: ["2026"]
 
 大盘承压回落，不要追涨，回落低吸。 底部方向也不需要高抛，持股即可。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077214497455108266#m)
-
 ---
 
 ## 2026-07-15 10:15:52
@@ -90,10 +88,6 @@ tags: ["2026"]
 **内容**:
 
 目前我依旧看多板块轮动，所以不要追每天大涨的方向，潜伏已经回踩到支撑位的低吸。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE5WpGHVnV7femIunWB5aroZmuJIpnAAKAEGsbg2U5Vls_C_oLBYc3AQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077215542944129413#m)
 
 ---
 
@@ -105,12 +99,6 @@ tags: ["2026"]
 
 一只票的趋势在没有走完之前，是应该持续关注的，而不是涨起来追，跌下去恐慌，要做完一整个大趋势。 没有走完中线主升3浪的个股，继续持股是最正确的选择。不要频繁调仓换股。 不要去追当日大涨的板块，比如医疗服务，今天大阳拉到前期密集成交区，追涨很有可能会在明后天遭遇回踩。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHP2pW9MwhCCpnzLzorB1qQyhnD4x_AAJ8EWsb_c65VvN_JprBYQ2qAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQGpW9NAFJrtypB9L81Tw1kPL-hqHAAJ9EWsb_c65VgHJefq0imjIAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077219642121314766#m)
-
 ---
 
 ## 2026-07-15 10:44:06
@@ -121,9 +109,31 @@ tags: ["2026"]
 
 我今天也想说他来着，之前在冲绳旅行时提了一嘴，这个票前低2.88，不破前低就是底部区域，可以低吸，破掉止损。 这个月最低点2.89，目前也有筑底迹象。 这是一个教学贴，不是推票。 我提到的任何个股，新粉丝都不要碰！盈亏自负！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHPmpW9MjVn4Fi_bH6X96epvWa4Yl3AAJ7EWsb_c65VhR2sgABRUJ5AQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077222647046586519#m)
+## 2026-07-15 10:50:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我引用一下，也算是给一些新粉丝提个醒。 为什么我一直劝大家尽量专注一个方向，不要频繁调仓换股？就是因为市场里经常会出现这种情况：一旦出现快速杀跌，很多人想等低点再接回来，却往往根本来不及。 对于大多数投资者来说，如果没有判断小波段趋势和节奏的能力，与其频繁进出、反复试错，不如坚定抓住大趋势，做好大波段。 真正的大行情里，最值得把握的往往是主升浪阶段，因为那才是收益释放最充分、赚钱效应最强的阶段。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077224155452436968#m)
+
+---
+
+## 2026-07-15 10:56:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天做了小鸡炖蘑菇🍄‍🟫
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHQWpW-_92VepxP_xHXXJzwyK7WrP2AAKHEWsb_c65Vv2m0Xy3i8L6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077225799040770355#m)
 
 ---
 
