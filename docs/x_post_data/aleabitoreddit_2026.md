@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 294 条推文
+> 📊 推文存档 - 共 295 条推文
+
+---
+
+## 2026-07-16 00:56:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Anthropic to IPO as early as October per Bloomberg. This is following their $65B financing at a $965 billion valuation last May. Hmm, would you all invest in Anthropic at a $1T+ valuation?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHYWpXwDPNusvFWecU-h1MMpcvpxuwAAJhDWsbwyfBVoldZC5SaawCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077437150715666900#m)
 
 ---
 
