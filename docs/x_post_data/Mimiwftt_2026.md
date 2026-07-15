@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 332 条推文
+> 📊 推文存档 - 共 333 条推文
 
 ---
 
@@ -29,9 +29,17 @@ tags: ["2026"]
 
 我昨晚说了“也许会有那么一天”不是说立刻马上现在。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHZmpYAZnwGNrmupHAvX7MFNNpQntIAAKIDWsbwyfBVsHbYssiGQHWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077505812386476166#m)
+## 2026-07-16 06:19:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我一直认为：这个世界上，没有人能够让你依赖一辈子。 父母会老，爱人会离开，朋友会有各自的人生，贵人可遇不可求。真正能陪你走到最后的，只有你自己，以及你掌握的能力。 所以，趁现在，赶紧学起来。不要等到需要的时候，才后悔当初没有行动。 也希望大家珍惜当下，趁着我还有激情，还有分享欲，还愿意把自己知道的、会的、经历过的，都毫无保留地分享给大家的时候，多学一点，多提升一点。 因为今天学会的一切，都会成为未来的底气；今天付出的每一分努力，都会在未来给你最好的回报。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077518460301807758#m)
 
 ---
 
