@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 312 条推文
+> 📊 推文存档 - 共 314 条推文
 
 ---
 
@@ -139,9 +139,41 @@ tags: ["2026"]
 
 大盘反弹到压力区间就开始回落了，这个压力想要突破一定需要一些合力，仅靠上午的医药医疗是不可能突破的，等待科技反弹+证券发力。 新股民接下来不要去高位科技追涨，短线你们不会，中线没有性价比。 可以看看沪深300ETF，依然等下跌的时候买入。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRGpXA0mhMVVGlFJ9RA-Uo4k43NIVAAKZEWsb_c65Vkdn8kvEl97dAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077229661562736915#m)
+## 2026-07-15 12:42:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哈哈哈哈哈哈。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRmpXEcvzc5zyNr38spVvkkImE9BMAAK3EWsb_c65VlMqxzRSdS0rAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHR2pXEdACWYGbFoEIt9dRQWNRWH1uAAK4EWsb_c65Vop-FS-lcOtqAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077252558826188823#m)
+
+---
+
+## 2026-07-15 12:48:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+之前语音复盘里提到了医药和证券都是趋势反转后回踩，医药起来了，那后面该轮到证券了，可以低吸。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjGpQAg-qAu6_l0vGNkmnGcmplyLaAAI0E2sbWkeBViiP0qaHYI2uAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjWpQAhIcvHyoQthP3Rbgmgw8y_g5AAI1E2sbWkeBVo8vFyJHUwpUAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGjmpQAhYRH2-R7KXlzDCuAySBg6qaAAI2E2sbWkeBVpN0fKxqH2_wAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGj2pQAhn280wTC2Xjvtaf_M8C4LXQAAI3E2sbWkeBVpsuEmQxDtL5AQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077254040371839298#m)
 
 ---
 
