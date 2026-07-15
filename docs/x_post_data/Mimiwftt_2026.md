@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 320 条推文
+> 📊 推文存档 - 共 322 条推文
 
 ---
 
@@ -219,7 +219,31 @@ x.com/i/spaces/1nGnRRdmojNGO
 
 哈哈哈。今天我搞的突然袭击 你这是从头录到尾了！优秀
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077323064224948580#m)
+---
+
+## 2026-07-15 17:32:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+现在的人都太自私太浮躁了。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077325508258537899#m)
+
+---
+
+## 2026-07-15 17:55:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【天哥说】系列心法居多，你们可以翻翻读一下。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHTGpXWnVQRF3lzURs-Usu1-KTIUg5AAKLE2sb_c7BVlQryfdXqeugAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077331266853376282#m)
 
 ---
 
