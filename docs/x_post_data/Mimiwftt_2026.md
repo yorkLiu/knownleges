@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 358 条推文
+> 📊 推文存档 - 共 359 条推文
 
 ---
 
@@ -19,15 +19,17 @@ tags: ["2026"]
 
 听说他们都叫你“暴富哥”
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHk2pZVzd_yWRl6lPVOSSRnD61P0dfAAKuD2sbwyfJVqs-gFTT_gjGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHlGpZVzqmeUdlot1Ln6OE3YhC97KPAAKvD2sbwyfJVo1DNcmgO1RHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-17 06:40:30
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHlWpZVz7FfuzyMX8L_ozJa3kGTzawAAKwD2sbwyfJVlJ3xzkyxsEaAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHlmpZV0KIXCK4UG6o4V_wk90TUrkIAAKxD2sbwyfJVpIYScsZymAkAQADAgADeQADPQQ.png" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077871191675875782#m)
+如果把目标定为长期稳定赚钱，而不是一年暴赚几倍，那么对绝大多数普通股民来说，最好的交易模式其实很简单： 少交易、重研究、长持有、慢复利。 第一种：价值投资（最适合大多数人） 买优秀公司 买在合理甚至低估的位置 持有2～5年以上 很少换股 例如： 指数ETF 行业龙头 高ROE、高现金流的公司 一年可能只交易几次。 优点： 交易成本低 不容易犯错 能享受企业成长带来的收益 缺点： 需要耐心 牛市里可能不如题材股涨得快 第二种：趋势投资（适合有一定经验的人） 原则只有一句话： 上涨就持有，下跌就离场。 例如： 站上长期均线买入 跌破长期均线卖出 不是预测行情，而是跟随行情。 优点： 能避开大熊市 能抓住大趋势 缺点： 会有很多假突破 对执行纪律要求很高 第三种：指数基金定投（最简单） 如果没有时间研究股票： 每月固定投入： 沪深300ETF 中证A500ETF 中证红利ETF 全球指数ETF（如果可以配置） 长期来看，这种方式往往能跑赢很多频繁操作的投资者。 我认为普通股民最容易赚钱的一种模式 可以概括为八个字： 【精选个股，耐心持有】 具体做法： 持仓3～8只股票，不要几十只。 每次买入前做好研究。 不因为每天涨跌而操作。 企业基本面没变，就继续持有。 基本面恶化或出现更好的机会，再考虑换股。 这样一年交易次数通常不会超过10次。 普通股民最容易亏钱的模式 恰恰相反，就是： 今天追AI 明天追机器人 后天追军工 再去追芯片 看谁涨买谁 一天看几十次账户 很多人一年交易几百次，却没有形成稳定的盈利逻辑。 一个值得参考的原则 可以把投资收益简单理解为： 收益 = 选股能力 × 持有耐心 × 风险控制 如果： 选到好公司，但拿不住，收益会打折。 能长期持有，但买的是差公司，也难赚钱。 不控制风险，一两次重大亏损就可能抹掉多年收益。 因此，对普通投资者来说，与其追求“交易频率”，不如追求“决策质量”。 普通股民最有优势的，不是比机构交易得更快，而是比机构更有耐心。找到自己真正看得懂、估值合理的优质资产，控制仓位，减少无效交易，让复利发挥作用，长期来看往往比频繁调仓更容易获得稳定回报。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077886116397805931#m)
 
 ---
 

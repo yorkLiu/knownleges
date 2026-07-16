@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1219 条推文
+> 📊 推文存档 - 共 1225 条推文
 
 ---
 
@@ -21,6 +21,20 @@ RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The s
 
 ---
 
+## 2026-07-17 01:15:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHmGpZXmchWGCjYLNezVRGlkYdgxx0AAK2D2sbwyfJVrbn583kYnFmAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/finkd/status/2077804413251354698#m)
+
+---
+
 ## 2026-07-17 02:15:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -28,12 +42,6 @@ RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The s
 **内容**:
 
 RT by @elonmusk: Love the new Starship Schematics T-shirt sold by SpaceX
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHj2pZVx-lKIzaJD-HgLfsseEAAZK6GgACqg9rG8MnyVbSs-Y26z4ogAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHkGpZVyOSjX-59kLr65sXl6MwiRIbAAKrD2sbwyfJVn-hGpfaHFowAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Kristennetten/status/2077819549991547320#m)
 
 ---
 
@@ -45,9 +53,47 @@ RT by @elonmusk: Love the new Starship Schematics T-shirt sold by SpaceX
 
 RT by @elonmusk: Extremely strong at CAD and spatial reasoning
 
-<img src="/images/elonmusk/amplify_video_thumb_2077794067153637376_img_4uC_p2l2X0s7ATeP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/milichab/status/2077825887962337434#m)
+## 2026-07-17 04:01:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight's launch, see what we think SpaceX's master plan is.
+
+<img src="/images/elonmusk/amplify_video_thumb_2074587229511426048_img_NY02cFjy5mG0N4ya.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ARKInvest/status/2077845977516392703#m)
+
+---
+
+## 2026-07-17 04:15:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Today I’m really feeling the acceleration.
+
+<img src="/images/elonmusk/amplify_video_thumb_2077722169375657984_img_vG7pGydakJbsA8ou.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/jamesdouma/status/2077849526816350455#m)
+
+---
+
+## 2026-07-17 04:49:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: We have Falcon and Starship taking off almost at the same time today (~2 hours apart) For other space programs, this is years' worth of launch cycle, and SpaceX does it in a day
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHmWpZXmuTZ0gvk6q1VZwjZm2-bvigAAK3D2sbwyfJVpNbutIgDrw_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2077858079660814810#m)
 
 ---
 
@@ -59,10 +105,6 @@ RT by @elonmusk: Extremely strong at CAD and spatial reasoning
 
 Pinned: Starship launch window opens at 5:45pm Texas time
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHkmpZVy5EI1bI67AXUyNQS5PAqwWMAAKtD2sbwyfJVn5i9QsGnjrbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077867066556547097#m)
-
 ---
 
 ## 2026-07-17 05:26:01
@@ -72,10 +114,6 @@ Pinned: Starship launch window opens at 5:45pm Texas time
 **内容**:
 
 Starlink now available in Côte d'Ivoire!
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHkWpZVytWxd4gAULGQ-N8weT6fB7JAAKsD2sbwyfJVkAIVTSQj12GAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077867371956412545#m)
 
 ---
 
@@ -87,9 +125,19 @@ Starlink now available in Côte d'Ivoire!
 
 Tesla now in Uruguay
 
-<img src="/images/elonmusk/card_img_2077859682727989248_5ia2MRvZ3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2077875206702448814#m)
+## 2026-07-17 06:24:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+To understand more about Starship
+
+<img src="/images/elonmusk/amplify_video_thumb_2077879428651114496_img_35lfQLnUQzih7vYl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077882072950096042#m)
 
 ---
 
@@ -273,6 +321,20 @@ RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going
 
 ---
 
+## 2026-07-16 18:32:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHl2pZXmLPnVkKkKOYoqahiNO1dw8FAAK1D2sbwyfJVmbjd-3EEpYwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/techdevnotes/status/2077702864345133420#m)
+
+---
+
 ## 2026-07-16 19:49:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -291,16 +353,6 @@ RT by @elonmusk: This feels like a scene out of a sci-fi movie but it’s just m
 
 RT by @elonmusk: Stacking Starship for Flight 13
 
-<img src="/images/elonmusk/amplify_video_thumb_2077756272489664513_img_4WORhKIPyPtoJkey.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHi2pZJEGHgoua-Jfl0uvU8eKVDvLsAAKPD2sbwyfJVnGgR9Fl_xgdAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHjGpZJEVndQ03gP8VrDawGS6pJ41GAAKQD2sbwyfJVoQRQ9HC_JU3AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHjWpZJErINHc5RcAMMWm9O5EN2ls6AAKRD2sbwyfJVg2Aap8gTsVTAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2077767492487774635#m)
-
 ---
 
 ## 2026-07-16 23:38:19
@@ -310,8 +362,6 @@ RT by @elonmusk: Stacking Starship for Flight 13
 **内容**:
 
 RT by @elonmusk: It’s been very fast, and a pleasure to use. Nice work!
-
-[查看原文](https://nitter.net/aelluswamy/status/2077779871649181921#m)
 
 ---
 
