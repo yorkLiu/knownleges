@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 354 条推文
+> 📊 推文存档 - 共 355 条推文
 
 ---
 
@@ -219,8 +219,6 @@ R to @Mimiwftt: 散户T+1的交易模式，你要想想你今天买进去的，�
 
 咱们是听完薛伯伯的直播再开呢？还是一起space听薛伯伯呢？
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077646297503498546#m)
-
 ---
 
 ## 2026-07-16 14:50:39
@@ -230,10 +228,6 @@ R to @Mimiwftt: 散户T+1的交易模式，你要想想你今天买进去的，�
 **内容**:
 
 一边是友情，一边是爱情，左右都不是为难了自己 。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHempYhGUJh5vf464fN35HrfaAnI6-AAJTDmsbwyfBVv5wDbdi5T6eAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077647082517840069#m)
 
 ---
 
@@ -245,8 +239,6 @@ R to @Mimiwftt: 散户T+1的交易模式，你要想想你今天买进去的，�
 
 去年科创50，1588我说短期见顶，一样骂声不绝于耳，说我踏空。哎😑
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077647492947251437#m)
-
 ---
 
 ## 2026-07-16 14:53:16
@@ -257,7 +249,19 @@ R to @Mimiwftt: 散户T+1的交易模式，你要想想你今天买进去的，�
 
 x.com/i/spaces/1qKVmmeeRgDxB
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077647740306432345#m)
+---
+
+## 2026-07-16 15:01:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+恒生科技画线
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHe2pYi6rD5KHUoJs-TnQXFO4S0Y6xAAJtDmsbwyfBVhRdVvku2mFlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077649921914839447#m)
 
 ---
 
