@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 346 条推文
+> 📊 推文存档 - 共 348 条推文
 
 ---
 
@@ -139,8 +139,6 @@ tags: ["2026"]
 
 很多人用量化选股就觉得可以“无敌”了，其实并非如此，大多数人缺的不是“股票代码”，而是认知逻辑。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077623470012465342#m)
-
 ---
 
 ## 2026-07-16 13:22:31
@@ -150,8 +148,6 @@ tags: ["2026"]
 **内容**:
 
 量化程序选股一般监测到的是资金异动，但如果你的执行力不够，很有可能被短线资金反复收割。
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077624900144259454#m)
 
 ---
 
@@ -163,10 +159,6 @@ tags: ["2026"]
 
 所以，你们大部分人并不需要天天要股票代码！ 会做的人一年只需要做好1-2只股票足够了。 这两年多少牛股，天天换，赚到钱了吗？
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHc2pYbqBXfAbZOTAsYLCYyyyVoQK7AAIbDmsbwyfBVkLYyV2cnFriAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077626207852716345#m)
-
 ---
 
 ## 2026-07-16 13:39:06
@@ -177,11 +169,29 @@ tags: ["2026"]
 
 还是那句话，强势股不抄底，只能做强，没有底部形态，强势反转之前谁抄底谁死！ 熊市里跟多这种跳空低开后快速反弹诱惑散户短线资金抄底的形态，千万别上当！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHcWpYbpnYrjrOr6M0ua4Cbrq5HFA2AAIZDmsbwyfBVk-YI4Xs1tJxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHcmpYbp0oN9JvI0_MMIkjfScVEm8IAAIaDmsbwyfBVs4EZrOV_llmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-16 13:41:11
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077629076500783320#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: 散户T+1的交易模式，你要想想你今天买进去的，明天能获利出来吗？
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077629597001400323#m)
+
+---
+
+## 2026-07-16 13:49:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天收盘后想听语音吗？你们有什么问题吗？
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077631657780412422#m)
 
 ---
 

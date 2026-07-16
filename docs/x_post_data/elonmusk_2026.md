@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1199 条推文
+> 📊 推文存档 - 共 1204 条推文
 
 ---
 
@@ -18,6 +18,18 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what humanity is capable of. My photography is to hopefully provide an optimistic perspective of humanity's future among the stars.
+
+---
+
+## 2026-07-16 01:29:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.
+
+[查看原文](https://nitter.net/MatthewBerman/status/2077445418884202757#m)
 
 ---
 
@@ -69,10 +81,6 @@ RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to
 
 RT by @elonmusk: BREAKING: SpaceXAI sues Grok user accused of creating illegal deepfakes. Elon Musk previously warned that anyone using Grok to create illegal content would face the same consequences as someone uploading it. • A user created multiple accounts using false identities and repeatedly attempted to bypass Grok’s safeguards. • He uploaded photos of adults and minors and tried to turn them into CSAM. • SpaceXAI says its detection and reporting helped lead to his arrest. He now faces eight felony child-exploitation charges in South Carolina. • SpaceXAI has suspended 52,222 accounts and submitted 73,604 reports to NCMEC in 2026, contributing to at least 244 arrests.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHcGpYZ1GUpI0--fgs6hasWlDe85AXAAIODmsbwyfBVtXuH5DLpMnaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2077514657707991311#m)
-
 ---
 
 ## 2026-07-16 06:58:45
@@ -82,6 +90,60 @@ RT by @elonmusk: BREAKING: SpaceXAI sues Grok user accused of creating illegal d
 **内容**:
 
 RT by @elonmusk: Usage limits are reset and Grok Build is open-source
+
+---
+
+## 2026-07-16 13:04:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That’s how making a startup succeed goes
+
+<img src="/images/elonmusk/amplify_video_thumb_1996397998843248640_img_WEZ2GAyKCZrPPWRs.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077620484624011651#m)
+
+---
+
+## 2026-07-16 13:06:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: "@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I."
+
+<img src="/images/elonmusk/amplify_video_thumb_1983877632916901888_img_0At0RuIqKgS-gzGS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2077620854696050963#m)
+
+---
+
+## 2026-07-16 13:30:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Image
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHdGpYddlOl9keq_gG2tbc8Yuxix8nAAIvDmsbwyfBViG4ccd-wqoUAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077626867297681867#m)
+
+---
+
+## 2026-07-16 13:40:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Arguing with NPCs is pointless
+
+[查看原文](https://nitter.net/elonmusk/status/2077629400569278597#m)
 
 ---
 
