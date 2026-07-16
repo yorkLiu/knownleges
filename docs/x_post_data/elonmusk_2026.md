@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1204 条推文
+> 📊 推文存档 - 共 1211 条推文
+
+---
+
+## 2026-07-16 00:56:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Rick Scott Is Right
+
+<img src="/images/elonmusk/amplify_video_thumb_2077392936115769346_img_Av4FeGozodlTLJ2I.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BasedMikeLee/status/2077437124593234356#m)
 
 ---
 
@@ -18,6 +32,20 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what humanity is capable of. My photography is to hopefully provide an optimistic perspective of humanity's future among the stars.
+
+---
+
+## 2026-07-16 01:29:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Buying a Tesla is easy Order within 2 mins on our website, then complete the entire process in the Tesla app
+
+<img src="/images/elonmusk/amplify_video_thumb_2077389611882491907_img_CgCGDs0UmShpTZFe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Tesla/status/2077445377628966976#m)
 
 ---
 
@@ -48,6 +76,20 @@ Grok Build is now open source
 **内容**:
 
 RT by @elonmusk: We've appreciated your feedback on X. Limits are reset, Grok 4.5 is available in the EU, and Grok Build is now open source.
+
+---
+
+## 2026-07-16 04:52:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starlink and the @JAAGOFoundation in Bangladesh are providing connectivity to 30,000 students across remote schools, giving each child the opportunity to develop digital skills that were not possible before 🛰️💓
+
+<img src="/images/elonmusk/amplify_video_thumb_2075193886641897472_img_xrJqxN6CVICNQ9K0.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Starlink/status/2077496574301847827#m)
 
 ---
 
@@ -91,6 +133,18 @@ RT by @elonmusk: Usage limits are reset and Grok Build is open-source
 
 ---
 
+## 2026-07-16 08:49:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Render mermaid charts in your CLI
+
+[查看原文](https://nitter.net/milichab/status/2077556147595419927#m)
+
+---
+
 ## 2026-07-16 13:04:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -131,6 +185,32 @@ Arguing with NPCs is pointless
 
 ---
 
+## 2026-07-16 15:53:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.
+
+[查看原文](https://nitter.net/stevenmarkryan/status/2077662880972054731#m)
+
+---
+
+## 2026-07-16 16:44:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight “We will make it,” the employee said to Elon
+
+<img src="/images/elonmusk/amplify_video_thumb_2029990552956186624_img_XNXjKi_xs_tI3lFs.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/iam_smx/status/2077675807959364062#m)
+
+---
+
 ## 2026-07-16 19:49:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -139,43 +219,45 @@ Arguing with NPCs is pointless
 
 RT by @elonmusk: This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning
 
-<img src="/images/elonmusk/amplify_video_thumb_2077722169375657984_img_vG7pGydakJbsA8ou.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AJamesMcCarthy/status/2077722244571144271#m)
-
 ---
 
 ## 2026-07-15 00:11:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWmpXuO4g3ncjekDdZoDLzwIr7mcjAAJUDWsbwyfBVk-UfAzOSblAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/satyanadella/status/2077063479232795024#m)
-
 ---
 
 ## 2026-07-15 01:44:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Well said Demis! Worth reading
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWmpXuO4g3ncjekDdZoDLzwIr7mcjAAJUDWsbwyfBVk-UfAzOSblAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/sundarpichai/status/2077086951833063580#m)
+## 2026-07-15 03:56:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: OH MY GOSH! The House just voted 215-211 in favor of a special rules resolution, which instructs for the text of the SAVE America to be attached to the National Defense Authorization Act (NDAA). The House is doing its job. @SpeakerJohnson is keeping his promise.
+
+<img src="/images/elonmusk/amplify_video_thumb_2077119868478853121_img_OHF9TBi4uGwwoDaO.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ScottPresler/status/2077119943246483668#m)
 
 ---
 
 ## 2026-07-15 05:26:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -185,7 +267,7 @@ RT by @elonmusk: Our administration owes a debt of gratitude to Nick Shirley for
 
 ## 2026-07-15 06:03:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -195,7 +277,7 @@ RT by @elonmusk: Interesting.
 
 ## 2026-07-15 06:05:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -205,21 +287,17 @@ RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter th
 
 ## 2026-07-15 06:12:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: INSANE Drone Flyover of Tesla Giga Texas! I flew my FPV drone right over Tesla’s massive Gigafactory in Texas and captured epic aerial views of the factory. The sheer size of this place is mind-blowing! Watch the full flyover and see why Giga Texas is one of the biggest factories in the world. Drone footage shot on @antigravity_HQ  A1 Drone Purchase below https://www.antigravity.tech/drone/antigravity-a1/buy?utm_term=AGRP5DM
 
-<img src="/images/elonmusk/amplify_video_thumb_2077153094824288256_img_BdMeeyMh-PZph_NF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2077154314989232197#m)
-
 ---
 
 ## 2026-07-15 08:09:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -229,7 +307,7 @@ RT by @elonmusk: Grok 4.5 Usage reset to 0% time to build.
 
 ## 2026-07-15 09:31:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -239,7 +317,7 @@ RT by @elonmusk: People may disagree on which frontier model is best, but they a
 
 ## 2026-07-15 10:22:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -249,7 +327,7 @@ Order the Starlink V5 terminal!
 
 ## 2026-07-15 10:32:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -259,7 +337,7 @@ Grok 4.5 is worth trying
 
 ## 2026-07-15 11:26:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -269,21 +347,17 @@ RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starli
 
 ## 2026-07-15 14:32:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Look at these photos Falcon 9 soaring into the sky. Falcon Heavy and Starship ready for the next mission. Starlink antennas simple, clean, ready for any terrain. The Boring Company’s machine that looks like industrial sculpture. Futuristic tunnels full of Teslas. And the man whose vision stands behind it all. It’s not a coincidence. It’s not just “technology.” It’s class itself. Zero unnecessary ornaments. Zero exaggeration. Just a pure, very high-quality product. You hold it in your hand, step inside, or look at it and immediately feel that everything is refined to the last detail. It works. It looks right. It lasts. Elon Musk has this rare quality: he’s a man with class. He doesn’t flaunt luxury or add things just “because they photograph well.” He chooses simplicity but the kind that’s executed perfectly. And he transferred exactly that same philosophy to his companies. The result? Engineering at the level of fashion. Design that’s modern yet has timeless elegance. Products that don’t just do the job they impress with their quality and quiet confidence. It’s no accident that the rocket looks like a work of art. That a Tesla interior feels minimalist yet luxurious. That a Starlink dish looks like it was designed by someone who understands aesthetics, not just connectivity. They all share one common thread: class. Not the loud, flashy kind. The real kind quiet, self-assured, and uncompromising. If you value things that are simply well-made without unnecessary bling, but full of character and top-tier quality this is the essence of what Elon has built. @elonmusk @Starlink @boringcompany @SpaceX @Tesla @neuralink
 
-<img src="/images/elonmusk/ext_tw_video_thumb_2077280217941299200_pu_img_pOYebku9thEGF-Ls.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/NataliaSpace11/status/2077280241613988185#m)
-
 ---
 
 ## 2026-07-15 15:23:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -293,7 +367,7 @@ RT by @elonmusk: “Most reliable big launch provider in history.”
 
 ## 2026-07-15 19:43:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -303,7 +377,7 @@ True
 
 ## 2026-07-15 19:47:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -313,7 +387,7 @@ Paul Ehrlich was one the most evil men ever
 
 ## 2026-07-15 19:49:07
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -323,7 +397,7 @@ She is France’s last hope
 
 ## 2026-07-15 19:56:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -333,7 +407,7 @@ Once we have completed our review for security vulnerabilities, we will make the
 
 ## 2026-07-15 19:58:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -343,7 +417,7 @@ Needs to change.
 
 ## 2026-07-15 20:30:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -353,7 +427,7 @@ RT by @elonmusk: Apple just sued OpenAI for trade secret theft in a 41 page fede
 
 ## 2026-07-15 20:57:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -363,7 +437,7 @@ RT by @elonmusk: Grok just leveled up again Two major new connectors have been a
 
 ## 2026-07-15 21:08:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -373,7 +447,7 @@ Yes
 
 ## 2026-07-15 21:11:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -383,7 +457,7 @@ Showing more content from people you follow has been one of the fixes. The algor
 
 ## 2026-07-15 21:13:07
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -393,7 +467,7 @@ Starship still tracking to fly tomorrow
 
 ## 2026-07-15 21:41:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -403,7 +477,7 @@ Thanks, Jamie!
 
 ## 2026-07-15 21:56:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -413,7 +487,7 @@ RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchma
 
 ## 2026-07-15 22:30:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -423,71 +497,51 @@ RT by @elonmusk: Tesla has partnered with 7-Eleven Japan to begin installing Sup
 
 ## 2026-07-15 22:40:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Top ⁠computer ⁠chip equipment ⁠maker ASML said its capacity expansion ​plans in 2027 and 2028 unveiled ‌today take into ⁠account ⁠demand for its tools from Elon Musk's planned ​Terafab chip production facility in Texas. "We're in dialogue with all our customers and ​we know ... what their building plans are," ⁠CFO Roger ⁠Dassen ​said on a call. "Terafab is also part of ​those plans." Dassen also said ASML was close to fully booking its 2027 EUV capacity and ⁠had already secured a substantial number of 2028 extreme ultraviolet lithography (EUV) orders.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHX2pXuQHo66sBU2umPqkqUnw7W4MzAAJZDWsbwyfBVm4fMinb900-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2077403042018705646#m)
-
 ---
 
 ## 2026-07-15 23:18:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Am putting together a product gallery at my ranch in Texas
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHXWpXuPo_NaRgvAUzaMX4iNoRcJbJAAJXDWsbwyfBVjoK5f6LFniUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077412614091473360#m)
-
 ---
 
 ## 2026-07-15 23:20:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Good reason to try Grok 4.5 with Grok Build. It gets better every day!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHXGpXuPULrF6Jd54RH6RYE0Zh2CTJAAJWDWsbwyfBVsnNkVZRopE3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077412964231991420#m)
-
 ---
 
 ## 2026-07-15 23:29:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Grok
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHW2pXuPGl3CagqtNxevlV42LBbWRrAAJVDWsbwyfBVg9PPWYfZTDZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077415187846500563#m)
-
 ---
 
 ## 2026-07-15 23:30:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 It is a thoughtful framework overall and certainly a good starting point for discussions
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWmpXuO4g3ncjekDdZoDLzwIr7mcjAAJUDWsbwyfBVk-UfAzOSblAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077415601610297535#m)
 
 ---
 
