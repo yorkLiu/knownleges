@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1193 条推文
+> 📊 推文存档 - 共 1195 条推文
 
 ---
 
@@ -19,9 +19,33 @@ tags: ["2026"]
 
 Grok Build is now open source
 
+---
+
+## 2026-07-16 05:56:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local): Core (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI. Everything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config. Purely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent. Full details 👇
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHa2pYLS86YiyPOPF9vtEzblsgay8eAAKoDWsbwyfBVrPJB2tuq8PoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MiaAI_lab/status/2077512540431466565#m)
+
+---
+
+## 2026-07-16 06:58:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Usage limits are reset and Grok Build is open-source
+
 <img src="/images/elonmusk/card_img_2077491312652345344_k7AqQ3-V3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/elonmusk/status/2077495635687723408#m)
+[查看原文](https://nitter.net/grok/status/2077528321819320571#m)
 
 ---
 
