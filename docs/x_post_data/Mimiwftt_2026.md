@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 350 条推文
+> 📊 推文存档 - 共 354 条推文
 
 ---
 
@@ -199,18 +199,6 @@ R to @Mimiwftt: 散户T+1的交易模式，你要想想你今天买进去的，�
 
 昨天刚提到他。🤣
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHdWpYfSK1EH-fXmdhPa6w653DXNViAAJBDmsbwyfBViih3yep-NfoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHdmpYfSVZEPdGdAUZnFmGa1tcMUGKAAJCDmsbwyfBVvmdzodWJOcqAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHd2pYfSgQ9CSBpzQbruXKcIwjwB-vAAJDDmsbwyfBVvr-p8b1QX7tAQADAgADeQADPQQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHeGpYfSsRVYHPHSOEVCSQFYWYo18HAAJEDmsbwyfBVpk23N1zBhKQAQADAgADeQADPQQ.png" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHeWpYfS-73S8C70F32A1cH9OSxPHzAAJFDmsbwyfBVik_kXp_gJOIAQADAgADeQADPQQ.png" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077636917487968260#m)
-
 ---
 
 ## 2026-07-16 14:40:59
@@ -221,7 +209,55 @@ R to @Mimiwftt: 散户T+1的交易模式，你要想想你今天买进去的，�
 
 这条推文下面之前很多跑来骂我的人，我真的是不明白了，你们有不同意见可以不听我的，坚持自己的逻辑拿稳就好了。 7/15，2周过去了，恭喜你们坚持在科技的人，都发财了吧。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077644649301495849#m)
+---
+
+## 2026-07-16 14:47:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+咱们是听完薛伯伯的直播再开呢？还是一起space听薛伯伯呢？
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077646297503498546#m)
+
+---
+
+## 2026-07-16 14:50:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一边是友情，一边是爱情，左右都不是为难了自己 。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHempYhGUJh5vf464fN35HrfaAnI6-AAJTDmsbwyfBVv5wDbdi5T6eAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077647082517840069#m)
+
+---
+
+## 2026-07-16 14:52:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+去年科创50，1588我说短期见顶，一样骂声不绝于耳，说我踏空。哎😑
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077647492947251437#m)
+
+---
+
+## 2026-07-16 14:53:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1qKVmmeeRgDxB
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077647740306432345#m)
 
 ---
 
