@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1214 条推文
+> 📊 推文存档 - 共 1219 条推文
 
 ---
 
@@ -19,9 +19,77 @@ tags: ["2026"]
 
 RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHjmpZMsnRYNcnIycLCz5gfqgbQ5x6AAKhD2sbwyfJVsMuTAKBt8tJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Starlink/status/2077803428512969113#m)
+## 2026-07-17 02:15:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Love the new Starship Schematics T-shirt sold by SpaceX
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHj2pZVx-lKIzaJD-HgLfsseEAAZK6GgACqg9rG8MnyVbSs-Y26z4ogAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHkGpZVyOSjX-59kLr65sXl6MwiRIbAAKrD2sbwyfJVn-hGpfaHFowAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Kristennetten/status/2077819549991547320#m)
+
+---
+
+## 2026-07-17 02:41:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Extremely strong at CAD and spatial reasoning
+
+<img src="/images/elonmusk/amplify_video_thumb_2077794067153637376_img_4uC_p2l2X0s7ATeP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/milichab/status/2077825887962337434#m)
+
+---
+
+## 2026-07-17 05:24:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Starship launch window opens at 5:45pm Texas time
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHkmpZVy5EI1bI67AXUyNQS5PAqwWMAAKtD2sbwyfJVn5i9QsGnjrbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077867066556547097#m)
+
+---
+
+## 2026-07-17 05:26:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink now available in Côte d'Ivoire!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHkWpZVytWxd4gAULGQ-N8weT6fB7JAAKsD2sbwyfJVkAIVTSQj12GAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077867371956412545#m)
+
+---
+
+## 2026-07-17 05:57:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla now in Uruguay
+
+<img src="/images/elonmusk/card_img_2077859682727989248_5ia2MRvZ3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2077875206702448814#m)
 
 ---
 

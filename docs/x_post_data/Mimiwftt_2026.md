@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 357 条推文
+> 📊 推文存档 - 共 358 条推文
+
+---
+
+## 2026-07-17 05:41:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+听说他们都叫你“暴富哥”
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHk2pZVzd_yWRl6lPVOSSRnD61P0dfAAKuD2sbwyfJVqs-gFTT_gjGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHlGpZVzqmeUdlot1Ln6OE3YhC97KPAAKvD2sbwyfJVo1DNcmgO1RHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHlWpZVz7FfuzyMX8L_ozJa3kGTzawAAKwD2sbwyfJVlJ3xzkyxsEaAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHlmpZV0KIXCK4UG6o4V_wk90TUrkIAAKxD2sbwyfJVpIYScsZymAkAQADAgADeQADPQQ.png" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077871191675875782#m)
 
 ---
 
