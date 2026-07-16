@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 340 条推文
+> 📊 推文存档 - 共 341 条推文
 
 ---
 
@@ -89,10 +89,6 @@ tags: ["2026"]
 
 科创50跳空下跌，M头形成（我之前提醒过要小心双顶） 回忆一下薛伯伯的那句话，“会兑现的赚不多，拿得住的跑不掉” 做短线波段完美吃肉的毕竟是少数，大多数普通投资者都是追涨杀跌一个月下来反而“亏损被套”
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHbWpYQwJ3rUkrm0HUWTjrd9WxAf0_AALQDWsbwyfBVjPwi4rB5-jhAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077571128378474622#m)
-
 ---
 
 ## 2026-07-16 10:05:30
@@ -102,10 +98,6 @@ tags: ["2026"]
 **内容**:
 
 昨天复盘说今天会有一个修复，但主力的手法是跳空低开后修复，根本不给你解套的机会。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHbGpYQv4widKpDjy1Lrvu1XylU6vYAALPDWsbwyfBVlnNry6ed2OTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077575322284040474#m)
 
 ---
 
@@ -117,7 +109,19 @@ tags: ["2026"]
 
 昨天语音复盘中提到，高位科技方向散户拥挤度依然偏高，这是短期行情持续洗盘的主要原因。 主力洗盘的手法主要有两种： 一是通过宽幅震荡制造恐慌情绪，迫使持仓不坚定的资金离场； 二是以持续阴跌的方式消磨短线资金的耐心，进一步完成筹码交换，为后续行情蓄势。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077576299468763593#m)
+---
+
+## 2026-07-16 10:55:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🤣🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHbmpYSkR2gfcBoLp2hNR991t_k-KCAALXDWsbwyfBVriIrwRrVbHmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077587807955190208#m)
 
 ---
 
