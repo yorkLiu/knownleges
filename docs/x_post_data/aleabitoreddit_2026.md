@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 296 条推文
+> 📊 推文存档 - 共 297 条推文
 
 ---
 
@@ -29,11 +29,21 @@ Anthropic to IPO as early as October per Bloomberg. This is following their $65B
 
 I hope there's someone at X can fix this subscription bug. Many people are reporting that subscriptions don't renew anymore.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHfmpY25csYq29AfxE1kWcseTO-V-2AALsDmsbwyfJVqRrvYjpZSvsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHf2pY25qRtkFXfjn47tLjJSvOrEH_AALtDmsbwyfJVi5W4XVTeR4TAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-16 21:54:10
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2077741631135191234#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail end of deleveraging / margin cascades.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHgGpY6iCvRxfg965XbdsLPottqpDyAAIJD2sbwyfJVs0QZBkBZYXCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHgWpY6iMcKxLfHRXV6oVISsm06H4OAAIKD2sbwyfJVqTzCMFGbeaJAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077753660592033828#m)
 
 ---
 

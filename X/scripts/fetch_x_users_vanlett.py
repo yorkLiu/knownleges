@@ -344,8 +344,9 @@ def build_yearly_summary():
         if not daily_files:
             continue
         
-        # 收集所有推文内容
+        # 收集所有推文内容（去重：按内容+时间戳过滤）
         all_tweets = []
+        seen_keys = set()
         for daily_file in daily_files:
             try:
                 with open(daily_file, "r", encoding="utf-8") as f:
@@ -354,7 +355,14 @@ def build_yearly_summary():
                     sections = content.split("---\n\n")
                     for section in sections:
                         if section.strip().startswith("## "):
-                            all_tweets.append(section.strip())
+                            # 提取时间戳和内容作为去重键
+                            ts_match = re.match(r'^## (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})', section.strip(), re.MULTILINE)
+                            content_match = re.search(r'\*\*内容\*\*:\s*\n\n(.+?)(?=\n\n\*\*图片\*\*:|$)', section.strip(), re.DOTALL)
+                            if ts_match and content_match:
+                                key = (ts_match.group(1), content_match.group(1).strip())
+                                if key not in seen_keys:
+                                    seen_keys.add(key)
+                                    all_tweets.append(section.strip())
             except Exception as e:
                 print(f"    ⚠️ 读取 {daily_file.name} 失败：{e}")
         
@@ -376,7 +384,29 @@ def build_yearly_summary():
             f.write(f"---\n\n")
             
             # 写入推文（倒序：最新的在最前）
+            # 处理重复时间戳：给相同时间戳的推文加后缀避免 VitePress ID 冲突
+            ts_seen = {}  # 基础时间戳 -> 出现次数
             for tweet_section in reversed(all_tweets):
+                # 匹配 ## YYYY-MM-DD HH:MM:SS 或 ## YYYY-MM-DD HH:MM:SS-N
+                ts_match = re.match(r'^## (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})(?:-(\d+))?', tweet_section, re.MULTILINE)
+                if ts_match:
+                    base_ts = ts_match.group(1)
+                    suffix = ts_match.group(2)  # 已有的后缀（None 表示无后缀）
+                    count = ts_seen.get(base_ts, 0) + 1
+                    ts_seen[base_ts] = count
+                    
+                    if suffix is None and count > 1:
+                        # 已经有重复了，给当前这条加后缀
+                        old_header = f'## {base_ts}'
+                        new_header = f'## {base_ts}-{count}'
+                        tweet_section = tweet_section.replace(old_header, new_header, 1)
+                    elif suffix is not None:
+                        # 已有后缀，确保唯一（如果后缀等于 count，跳过）
+                        if int(suffix) != count:
+                            old_header = f'## {base_ts}-{suffix}'
+                            new_header = f'## {base_ts}-{count}'
+                            tweet_section = tweet_section.replace(old_header, new_header, 1)
+                
                 f.write(f"{tweet_section}\n\n---\n\n")
         
         # 更新表格行
