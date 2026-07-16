@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1204 条推文
+> 📊 推文存档 - 共 1205 条推文
 
 ---
 
@@ -28,8 +28,6 @@ RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbli
 **内容**:
 
 RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.
-
-[查看原文](https://nitter.net/MatthewBerman/status/2077445418884202757#m)
 
 ---
 
@@ -101,10 +99,6 @@ RT by @elonmusk: Usage limits are reset and Grok Build is open-source
 
 That’s how making a startup succeed goes
 
-<img src="/images/elonmusk/amplify_video_thumb_1996397998843248640_img_WEZ2GAyKCZrPPWRs.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077620484624011651#m)
-
 ---
 
 ## 2026-07-16 13:06:26
@@ -114,10 +108,6 @@ That’s how making a startup succeed goes
 **内容**:
 
 RT by @elonmusk: "@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I."
-
-<img src="/images/elonmusk/amplify_video_thumb_1983877632916901888_img_0At0RuIqKgS-gzGS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2077620854696050963#m)
 
 ---
 
@@ -129,10 +119,6 @@ RT by @elonmusk: "@elonmusk is working on the most important areas of A.I. xAI i
 
 Pinned: Image
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHdGpYddlOl9keq_gG2tbc8Yuxix8nAAIvDmsbwyfBViG4ccd-wqoUAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2077626867297681867#m)
-
 ---
 
 ## 2026-07-16 13:40:24
@@ -143,7 +129,19 @@ Pinned: Image
 
 Arguing with NPCs is pointless
 
-[查看原文](https://nitter.net/elonmusk/status/2077629400569278597#m)
+---
+
+## 2026-07-16 19:49:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning
+
+<img src="/images/elonmusk/amplify_video_thumb_2077722169375657984_img_vG7pGydakJbsA8ou.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AJamesMcCarthy/status/2077722244571144271#m)
 
 ---
 
