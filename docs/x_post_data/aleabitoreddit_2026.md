@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 298 条推文
+> 📊 推文存档 - 共 299 条推文
 
 ---
 
@@ -49,11 +49,25 @@ Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to s
 
 Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others): Using 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP): Sivers would support $341-$512M worth of annual array revenue. Given upper end of managements 50-60%+ gross margin target, would be roughly: $205–307M of annual gross profit. Against Sivers current ~$1.1B MC, would be ~: 3.6–5.4× MC/gross profit if this capacity scenario plays out in 2028. And at 15% would be $307–461M in gross profit (2.4–3.6× MC/gross profit) Sivers CEO also replied that they're working with more fabs for capacity. And from an older deck, there looks to be more qualifications since 2024. So capacity targets might be larger than what's stated here as CPO takes off. I also expect to see revenue pipeline projections hiked in future quarters, as more qualification suppliers to into HVM. _ As for demand side, CW also happens to be very bottlenecked. Lumentum are buying CW off the open market due to EML obligations from their ER transcript. And $AMD are signing LTAs to secure CW capacity (from Trendforce). So when Sivers is ramping with $GFS, $JBL, Ayar, $POET, O-NET and others... Given the current constraints, it's highly likely any independent qualified capacity that comes online would be absorbed. And as a cherry on top, Morgan Stanley named $SIVE (~$1.1B) as one of the three leading CPO laser players . Alongside $55B+ players Coherent and Lumentum in their recent note for a reason... _ TLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations. I think the largest revenue upside that isn't modeled in if they TAM expansion with M&A after US NASDAQ listing. By copying the Lumentum playbook with Cloud Light to build out entire transceiver modules or with optical engines.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHgmpY-KlQRPfxEAfAw3LxKgX0rmUTAAIjD2sbwyfJVtlw2H6EGBeDAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHg2pY-K2GjB7m-H1PJhNUYNCNK4-nAAIkD2sbwyfJVoDPOECwPpzgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-16 23:57:05
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2077768896061563339#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHhmpZBzibQIfN-KgFHy4bifhqemARAAJJD2sbwyfJVvSnXQEbVvFqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHh2pZBzsyXrx4QBP-1pGP03i0GgmwAAJKD2sbwyfJVpOhA7t50m94AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHiGpZBz-pJ5qa1H7cQ2DY_5OyIAdDAAJND2sbwyfJVustAYhspjzCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHiWpZB0Iazi5cXwPn2H9nzudP9GGOAAJOD2sbwyfJVind1lIB2F7pAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077784594959725056#m)
 
 ---
 
