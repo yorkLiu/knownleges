@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 223 条推文
+> 📊 推文存档 - 共 224 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 海力士已经跌的不是大力士也不是海公公了，只能叫它海狗
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWWpXuOo3fvLltkTRLP9dYFD-v0Q8AAJTDWsbwyfBVgYdWWRjnUreAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2077430770302685530#m)
+## 2026-07-16 12:04:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+刚睡醒，又后悔没把剩下的60%也78卖掉，韩国人是真疯呐。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRWpXCoPazeHFJ4Z2Bw7mx-vVhAlqAAKjEWsb_c65VjQ2M69swAABWgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2077605283707462081#m)
 
 ---
 
