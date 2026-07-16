@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 197 条推文
+> 📊 推文存档 - 共 198 条推文
+
+---
+
+## 2026-07-17 07:03:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今晚9:30（東九區）油管真人出鏡直播，聊聊雷齋月對幾種人的影響，或清算或發財⋯⋯ 另上個月23日在Substack喊的「現金為王」，現在股匯金油幣齊跌，又到了「開張吃三年」的時刻了。 想看大盧怎麼「保財」的，還是關注下Substack ，這種預警只能是「小眾」。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHmmpZZanwtAUainnjPcOHzNBbpFyvAAK7D2sbwyfJVvUermBPEZAqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2077891973051277719#m)
 
 ---
 
