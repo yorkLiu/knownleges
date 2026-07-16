@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 226 条推文
+> 📊 推文存档 - 共 227 条推文
+
+---
+
+## 2026-07-17 01:12:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+全网看起来都清仓了， 抄了soxl，muu，snxx， 三个成本142/27.2/15
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHimpZFbdffwcdi3_JPw2zgDqRdq47AAJ4D2sbwyfJVojS1TiwaQeSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2077803489942802814#m)
 
 ---
 
