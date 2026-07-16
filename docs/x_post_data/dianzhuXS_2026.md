@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 195 条推文
+> 📊 推文存档 - 共 196 条推文
 
 ---
 
@@ -29,7 +29,23 @@ tags: ["2026"]
 
 【立個旗】 有人說現在中國物價低，是的，但必須加個前提，您這是相對海外的工資標準來說的，韭菜集體返貧，物價不低，就真活不下去了。 說句口冷的，中國的這次「通縮」大概率比上回日本的那次還要長，幾十年內都看不見通漲的影子。 即使牠翠了，即使組織玩完了，還是沒希望的，經濟這東西與「繁榮」有關，但更與「穩定」有關。目前不繁榮，但還算穩定。坐穩了，既不繁榮又不穩定的歲月，還沒來呢😮‍💨
 
-[查看原文](https://nitter.net/dianzhuXS/status/2077535777081454677#m)
+---
+
+## 2026-07-16 08:21:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這就是我們去年，翻譯組都準備好了四國語言文稿，但我依舊按下了『讀經心得』出書暫停鍵的原因，我不怕，但我得為大家的安全著想。
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2077390484339658752_img_wkWLWLWbombT4zxk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHZ2pYJe9eAqIzT7EYuNsm6yb6i_geAAKhDWsbwyfBVmyPDUQC_k_nAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHaGpYJfJRM1l2iOtiAxOKhYIu9rIYAAKiDWsbwyfBVjgfVjdSfPR7AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2077549132160643430#m)
 
 ---
 

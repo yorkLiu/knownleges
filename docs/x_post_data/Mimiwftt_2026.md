@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 334 条推文
+> 📊 推文存档 - 共 336 条推文
 
 ---
 
@@ -49,9 +49,33 @@ tags: ["2026"]
 
 【井水不犯河水：交易最重要的是向内生长】 “井水不犯河水”，放在交易里，我理解为一种心态——向内生长，不受外界影响。 井水为什么清？因为它的水源来自地下，由内而发，不受外界环境左右。河水为什么容易浑浊？因为它一路流淌，不断受到周围泥沙、雨水和环境的影响。 交易也是如此。 市场每天都有各种声音，有人看多，有人看空；有人赚钱，有人亏钱。如果你的判断总是跟着消息、情绪和他人的观点变化，就像河水一样，很容易变得浑浊，失去方向。 真正成熟的交易者，更像一口井。 不断学习，不断复盘，不断完善自己的交易系统，让认知从内在生长。这样，无论市场如何波动，无论外界如何喧嚣，都不会轻易动摇自己的判断。 交易的底气，不是来自别人，而是来自自己的认知和纪律。 当你开始向内生长，守住自己的节奏，不被外界干扰，你的交易才会越来越稳定。
 
-<img src="/images/Mimiwftt/amplify_video_thumb_2077529486418141184_img_7tNQLg5dNZcPbdSh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077529568123248974#m)
+## 2026-07-16 07:49:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+时间允许的话还是多听一下语音复盘吧。 我用的中信证券的电脑版和手机app版，可以对照着学习。进步会很快。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHampYJfsPkNTCFvh1o_oKxgf1o-9kAAKkDWsbwyfBVk7B7fv8_YU2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077541170474058099#m)
+
+---
+
+## 2026-07-16 08:26:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+关于国内外宏观经济数据分析我推荐你们去看艾丽。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHaWpYJfeypF96KEQiTFQQbG8BBa_dAAKjDWsbwyfBVqJCfxOWvVUTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077550422076875066#m)
 
 ---
 
