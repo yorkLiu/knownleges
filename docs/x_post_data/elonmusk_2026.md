@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1211 条推文
+> 📊 推文存档 - 共 1213 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Rick Scott Is Right
-
-<img src="/images/elonmusk/amplify_video_thumb_2077392936115769346_img_Av4FeGozodlTLJ2I.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/BasedMikeLee/status/2077437124593234356#m)
 
 ---
 
@@ -42,10 +38,6 @@ RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbli
 **内容**:
 
 RT by @elonmusk: Buying a Tesla is easy Order within 2 mins on our website, then complete the entire process in the Tesla app
-
-<img src="/images/elonmusk/amplify_video_thumb_2077389611882491907_img_CgCGDs0UmShpTZFe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Tesla/status/2077445377628966976#m)
 
 ---
 
@@ -86,10 +78,6 @@ RT by @elonmusk: We've appreciated your feedback on X. Limits are reset, Grok 4.
 **内容**:
 
 RT by @elonmusk: Starlink and the @JAAGOFoundation in Bangladesh are providing connectivity to 30,000 students across remote schools, giving each child the opportunity to develop digital skills that were not possible before 🛰️💓
-
-<img src="/images/elonmusk/amplify_video_thumb_2075193886641897472_img_xrJqxN6CVICNQ9K0.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Starlink/status/2077496574301847827#m)
 
 ---
 
@@ -141,8 +129,6 @@ RT by @elonmusk: Usage limits are reset and Grok Build is open-source
 
 RT by @elonmusk: Render mermaid charts in your CLI
 
-[查看原文](https://nitter.net/milichab/status/2077556147595419927#m)
-
 ---
 
 ## 2026-07-16 13:04:58
@@ -193,8 +179,6 @@ Arguing with NPCs is pointless
 
 RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.
 
-[查看原文](https://nitter.net/stevenmarkryan/status/2077662880972054731#m)
-
 ---
 
 ## 2026-07-16 16:44:48
@@ -205,10 +189,6 @@ RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I
 
 RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight “We will make it,” the employee said to Elon
 
-<img src="/images/elonmusk/amplify_video_thumb_2029990552956186624_img_XNXjKi_xs_tI3lFs.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/iam_smx/status/2077675807959364062#m)
-
 ---
 
 ## 2026-07-16 19:49:19
@@ -218,6 +198,38 @@ RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going
 **内容**:
 
 RT by @elonmusk: This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning
+
+---
+
+## 2026-07-16 22:49:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Stacking Starship for Flight 13
+
+<img src="/images/elonmusk/amplify_video_thumb_2077756272489664513_img_4WORhKIPyPtoJkey.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHi2pZJEGHgoua-Jfl0uvU8eKVDvLsAAKPD2sbwyfJVnGgR9Fl_xgdAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHjGpZJEVndQ03gP8VrDawGS6pJ41GAAKQD2sbwyfJVoQRQ9HC_JU3AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHjWpZJErINHc5RcAMMWm9O5EN2ls6AAKRD2sbwyfJVg2Aap8gTsVTAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2077767492487774635#m)
+
+---
+
+## 2026-07-16 23:38:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: It’s been very fast, and a pleasure to use. Nice work!
+
+[查看原文](https://nitter.net/aelluswamy/status/2077779871649181921#m)
 
 ---
 
