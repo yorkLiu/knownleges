@@ -2145,22 +2145,6 @@ RT by @elonmusk: Socialists imagine a class struggle. In their made-up fantasy t
 
 **内容**:
 
-RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
-
----
-
-## 2026-07-09 20:17:43
-
-**内容**:
-
-RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
-
----
-
-## 2026-07-09 20:17:43
-
-**内容**:
-
 RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHXmpXuP55ncA03qT7xNIxyuNPmocPAAJYDWsbwyfBVuro4WYcTH_xAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
