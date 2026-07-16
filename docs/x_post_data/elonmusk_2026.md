@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1195 条推文
+> 📊 推文存档 - 共 1198 条推文
+
+---
+
+## 2026-07-16 01:08:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what humanity is capable of. My photography is to hopefully provide an optimistic perspective of humanity's future among the stars.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHb2pYWMhyYX8ZqJHLm3v42MIAAYR6cwAC7Q1rG8MnwVaXaMUp9UOFwgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AJamesMcCarthy/status/2077440302676386009#m)
 
 ---
 
@@ -21,6 +35,34 @@ Grok Build is now open source
 
 ---
 
+## 2026-07-16 04:52:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: We've appreciated your feedback on X. Limits are reset, Grok 4.5 is available in the EU, and Grok Build is now open source.
+
+<img src="/images/elonmusk/card_img_2077491312652345344_k7AqQ3-V3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JasonBud/status/2077496523685056751#m)
+
+---
+
+## 2026-07-16 05:10:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Build is now fully open source, and SpaceXAI has made its privacy-first approach even stronger SpaceXAI has officially: • Open-sourced the Grok Build harness CLI • Reset usage limits for all users • Disabled data retention by default • Deleted all previously retained coding data • Made the harness fully local-first, allowing you to run it with your own inference Since launch, Grok Build has supported Zero Data Retention (ZDR) for users who opted in Now, based on community feedback, SpaceXAI has gone a step further: Data retention is now OFF by default for everyone Your coding sessions remain private by default, with retention entirely under your control By combining an open-source harness, local-first execution, zero retention by default, and the deletion of previously retained coding data, SpaceXAI is setting a new standard for privacy in AI coding tools Transparent, open, and built to give users complete control over their data
+
+<img src="/images/elonmusk/card_img_2077491312652345344_k7AqQ3-V3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2077501069127819347#m)
+
+---
+
 ## 2026-07-16 05:56:02
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -28,10 +70,6 @@ Grok Build is now open source
 **内容**:
 
 RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local): Core (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI. Everything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config. Purely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent. Full details 👇
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHa2pYLS86YiyPOPF9vtEzblsgay8eAAKoDWsbwyfBVrPJB2tuq8PoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MiaAI_lab/status/2077512540431466565#m)
 
 ---
 
@@ -42,10 +80,6 @@ RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to
 **内容**:
 
 RT by @elonmusk: Usage limits are reset and Grok Build is open-source
-
-<img src="/images/elonmusk/card_img_2077491312652345344_k7AqQ3-V3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/grok/status/2077528321819320571#m)
 
 ---
 
