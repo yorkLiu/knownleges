@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 336 条推文
+> 📊 推文存档 - 共 337 条推文
 
 ---
 
@@ -59,10 +59,6 @@ tags: ["2026"]
 
 时间允许的话还是多听一下语音复盘吧。 我用的中信证券的电脑版和手机app版，可以对照着学习。进步会很快。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHampYJfsPkNTCFvh1o_oKxgf1o-9kAAKkDWsbwyfBVk7B7fv8_YU2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077541170474058099#m)
-
 ---
 
 ## 2026-07-16 08:26:34
@@ -73,9 +69,17 @@ tags: ["2026"]
 
 关于国内外宏观经济数据分析我推荐你们去看艾丽。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHaWpYJfeypF96KEQiTFQQbG8BBa_dAAKjDWsbwyfBVqJCfxOWvVUTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077550422076875066#m)
+## 2026-07-16 09:07:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+是的。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077560785791066585#m)
 
 ---
 
