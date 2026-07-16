@@ -250,8 +250,6 @@ def generate_tags_page(output_file, data_dir):
             content = re.sub(r'^\s+', '', content, flags=re.MULTILINE)
             content = content.strip()
             
-            html_parts.append('**内容**:')
-            html_parts.append('')
             html_parts.append(content)
             html_parts.append('')
             
