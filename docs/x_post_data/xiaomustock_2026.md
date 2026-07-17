@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 229 条推文
+> 📊 推文存档 - 共 230 条推文
 
 ---
 
@@ -29,10 +29,6 @@ tags: ["2026"]
 
 全网现在都是清仓的，看空的，做空的。 怎么能让你们所有人都对呢， 意见越统一的时候傻逼越多。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHimpZFbdffwcdi3_JPw2zgDqRdq47AAJ4D2sbwyfJVojS1TiwaQeSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2077808981247238213#m)
-
 ---
 
 ## 2026-07-17 01:41:45
@@ -43,7 +39,17 @@ tags: ["2026"]
 
 这下好了，我是傻逼，亏死了他娘的
 
-[查看原文](https://nitter.net/xiaomustock/status/2077810933297267197#m)
+---
+
+## 2026-07-17 12:10:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+睡醒天塌了
+
+[查看原文](https://nitter.net/xiaomustock/status/2077969239865262495#m)
 
 ---
 

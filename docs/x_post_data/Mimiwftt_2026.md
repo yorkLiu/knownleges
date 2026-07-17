@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 376 条推文
+> 📊 推文存档 - 共 379 条推文
 
 ---
 
@@ -199,7 +199,45 @@ Image
 
 x.com/i/spaces/1AKEmmAEdReKL
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077949418884730992#m)
+---
+
+## 2026-07-17 12:09:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我跟你们说，你们别跟我的票，2/26跟我姑姑说晋控电力翻倍，从3.6最高点涨到6.6，你们后面追进去的吃回踩只能怪你们自己贪婪。 你们在做什么想什么，我心里都清楚得很！你们去跟做短线的人去做，千万别跟我学！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHpWpZrlQN6p78GSXAXtpyzrzFXx-VAAKzEWsbxKvRVn9axexiuGVoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHpmpZrljVdqUxOlIJ4gzSXJRjdQKJAAK0EWsbxKvRVgLuzmEqcbeuAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077968955864715464#m)
+
+---
+
+## 2026-07-17 12:12:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有不少老粉丝，因为一些原因产生了很多心理变化，我心里跟明镜一样。 道不同不相为谋！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077969693781164446#m)
+
+---
+
+## 2026-07-17 12:15:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+能看懂盘面的人，看你们这点儿人性我还是能够的。 所以很多时候我只想活得干净一点儿。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077970424546345302#m)
 
 ---
 
