@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 304 条推文
+> 📊 推文存档 - 共 305 条推文
 
 ---
 
@@ -39,9 +39,21 @@ Wow, apparently there’s claims ~3.4% of the adult population in Korea faces li
 
 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHw2pacob2a9TJBBdY756MQaRC-pibAAKBE2sbxKvRViAFbijm1UfDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2078175882620059719#m)
+## 2026-07-18 05:19:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Thanks, love reading the comments! Goldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations. But the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on: - Much higher silicon photonics module volumes - scale out, scale up, scale across volumes - 1.6T/3.2T lifting blended ASP + margins - increase in AI capex This is typically very material read through on the optical sector since: I tend to think of Innolight as a $TSM (semi capex) type read on how the photonics landscape is doing. Eg. Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI. ASP hikes for future gen is positive for the other optical markers too. Think my other takeaway outside the report was Innolight stating 800g demand was growing more significantly than expected from their transcript on the 12th. Which in turn signals more demand for names like $AAOI to $LITE next earnings. TLDR: GS gives high earnings projections during a time of massive corrections. Fundamentally, broader photonics ecosystem should be happy when it’s ER time.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHx2papWQIHSkR7GByMiNa71-2qF3MAALcDmsbxKvZViNqL6928rMFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHyGpapWgcrooa5IzKupFLWoApbtBeAALdDmsbxKvZVpbHVrqRhT4cAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2078228019584668121#m)
 
 ---
 
