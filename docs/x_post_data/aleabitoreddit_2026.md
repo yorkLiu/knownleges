@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 300 条推文
+> 📊 推文存档 - 共 301 条推文
 
 ---
 
@@ -19,11 +19,17 @@ tags: ["2026"]
 
 Kim Sunwoo of Meritz Securities: "This Is Not the Time to Sell Samsung Electronics and $SKHY" They claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year. - H2 2026: "suppliers can fulfill only 75%–80% of DRAM demand". - 2027: "fulfillment is expected to fall into the 60% range." In the article, they attached market forecasts that show SK Hynix with a 2027 3.5x P/E and Samsung a 3.9x P/E. Think the $INTC CEO said it best around timeframes with his quote "no relief in memory supply or pricing until at least 2028". Especially after $MU 16 LTAs with favorable take or pay volume contracts... memory demand seems structural.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHo2pZpw5sV5XlFUX3MGu7Fuz2jH0NAAKbEWsbxKvRVjEIELO3EV5uAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHpGpZpxGt8t0KM-aDGE26grvwd7dcAAKcEWsbxKvRVs1R5_sYAcBKAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-17 22:52:40
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2077955479742173422#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Agreed! It’s nice to remember your thesis during a market crash. From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly earnings… when it’s 2026? Same applies to my CPO sector exposure like $SIVE, an architecture shift led by $NVDA. If scale out volume ramps from H2 2026 into 2027, and scale up heavily volume ramps into 2028. Is it “over” that $0 -> $91B TAM expansion (per GS) hasn’t even hit yet? With robotics like Agility, is it over in 2026 if the listing hasn’t even happened yet and humanoids haven’t ramped? I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals. It’s brutal for everyone to see KOSPI, TW, Nikkei, and AI, space, robotics sector stocks crash recently. Especially when there’s a lot of irrational behavior stemming from those leverage. In the end, we can’t tell you what stocks to buy, what timeframe you should sell, how to size your positions, or what you should do. Only share personal thoughts or research and track if they get validated over time. So it’s extremely important to build your own thesis, since everyone has unique risk tolerance or investing timeframes. And that usually leads to having higher conviction during crashes.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2078130772121399553#m)
 
 ---
 
