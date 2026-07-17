@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 381 条推文
+> 📊 推文存档 - 共 385 条推文
 
 ---
 
@@ -239,8 +239,6 @@ x.com/i/spaces/1AKEmmAEdReKL
 
 我没有半点儿不开心，只是说人性这个东西我还是懂的，水至清则无鱼，像我这种不喜欢趟浑水的人，洁身自好只能远离。 分享欲让我对X恋恋不舍，仅此而已。 看淡了的话，我可以什么都不要。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077973973007303120#m)
-
 ---
 
 ## 2026-07-17 12:54:28
@@ -251,7 +249,61 @@ x.com/i/spaces/1AKEmmAEdReKL
 
 真不用捧着我说，捧我的人，踩的时候也往往最用力！ 平常心即可。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077980231512842597#m)
+---
+
+## 2026-07-17 12:56:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我其实挺淡泊的一个人，没有什么欲望，简单就是最好的状态，复杂的东西我看得懂，不想看，累！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077980834330800437#m)
+
+---
+
+## 2026-07-17 13:15:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+上午听完我直播的人知道我等的是什么！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGPGpO5PRg51DvFPKz1gzHnBlRWRp-AAKREGsb_fR4VnH8Htp6m8WpAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077985417161531841#m)
+
+---
+
+## 2026-07-17 13:15:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你们知道我等的是什么
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqmpZvOipw_baOXwBv9aVDlSQbGPaAALXEWsbxKvRVtx5nu6JJukFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077985599903199562#m)
+
+---
+
+## 2026-07-17 13:24:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+低吸吧。先博弈反弹。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqGpZvN1d_yi5QLVnQXq1Pk01rslYAALVEWsbxKvRVp5F2HO3xoToAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqWpZvOEbPf5er4LZDyVSBrncB3e9AALWEWsbxKvRVqpWBAzoEcdwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077987894225142202#m)
 
 ---
 
