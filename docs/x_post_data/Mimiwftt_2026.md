@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 395 条推文
+> 📊 推文存档 - 共 397 条推文
 
 ---
 
@@ -379,10 +379,6 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 我都有点哭笑不得了。🤣🤣🤣
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHtmpZ_kQen9iylvahjettBjvz-mqOAAJ7EmsbxKvRVtUkb9Sf51ZVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078051921257271773#m)
-
 ---
 
 ## 2026-07-17 17:52:19
@@ -393,7 +389,29 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 今天中午的语音你们有录音的可以发上来。或者等课代表文字总结吧！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078055187105948041#m)
+---
+
+## 2026-07-17 18:08:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你们听下今天中午语音直播
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078059315110572493#m)
+
+---
+
+## 2026-07-17 18:17:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+夸克版
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078061596115685885#m)
 
 ---
 
