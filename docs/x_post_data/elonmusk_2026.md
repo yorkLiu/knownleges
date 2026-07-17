@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1237 条推文
+> 📊 推文存档 - 共 1238 条推文
 
 ---
 
@@ -161,6 +161,20 @@ Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 
 ---
 
+## 2026-07-17 10:08:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHwGpaXLm2FJKgXZ1AryhTvzJZD3mEAAJrE2sbxKvRViVW9owP8NmtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/america/status/2077938572158550041#m)
+
+---
+
 ## 2026-07-17 11:33:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -238,8 +252,6 @@ RT by @elonmusk: Turns out Elon was completely right The coding moat is disappea
 **内容**:
 
 This is messed up
-
-[查看原文](https://nitter.net/elonmusk/status/2078086509052227916#m)
 
 ---
 
