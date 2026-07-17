@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 200 条推文
+> 📊 推文存档 - 共 201 条推文
 
 ---
 
@@ -39,9 +39,19 @@ tags: ["2026"]
 
 【大盧預測大風災應驗記錄】 2026年7月15日，昆明突發大風暴雨天氣，一位拉遮陽篷的店員背大風吹起，雨棚和人被捲起騰空。隨後怪風驟起，昆明多地樹木被颳斷。 此事件，距離大盧2026年5月21日發帖預測「牆國後半年多地大風災」56天。
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2077998253350723584_img_qHnfIzTFBykYTQ7Z.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2077998283352612968#m)
+## 2026-07-17 17:04:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【今晚真人出鏡直播】 無私分享|我是怎麽避開【股災】的，聼懂這期玄學知識您也行（2026.7.17） https://www.youtube.com/live/bX0d4zjiZgc?si=c5F0x2i2U5A0gme3 來自 @YouTube
+
+<img src="/images/dianzhuXS/card_img_2078042891751141376_3lbweXNA3Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2078043026493157759#m)
 
 ---
 
