@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1226 条推文
+> 📊 推文存档 - 共 1227 条推文
 
 ---
 
@@ -129,7 +129,17 @@ To understand more about Starship
 
 R to @elonmusk: Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days.
 
-[查看原文](https://nitter.net/elonmusk/status/2077890013841310149#m)
+---
+
+## 2026-07-17 08:02:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: To be confident of a good flight, 2 Raptors will be removed & replaced. Most probable launch timing is early next week.
+
+[查看原文](https://nitter.net/elonmusk/status/2077906757641183445#m)
 
 ---
 
