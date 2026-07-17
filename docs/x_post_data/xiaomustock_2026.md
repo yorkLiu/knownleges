@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 234 条推文
+> 📊 推文存档 - 共 235 条推文
 
 ---
 
@@ -89,7 +89,21 @@ tags: ["2026"]
 
 反弹来了， 人生最有价值的一句建议，Do not fear！ 跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。
 
-[查看原文](https://nitter.net/xiaomustock/status/2078058246259216419#m)
+---
+
+## 2026-07-17 18:37:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+无需多言，给你们抄底的信心。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHt2paDMcT09mwlwlBcBgV9haTP5lmAAKiEmsbxKvRVjfUDrg1Hd6VAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuGpQod89CKyV-0vR6krAMgsWG7diAAJ6EWsbWkeJVsTMejW3cKe7AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2078066467980083408#m)
 
 ---
 

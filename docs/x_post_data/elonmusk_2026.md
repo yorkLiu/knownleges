@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1235 条推文
+> 📊 推文存档 - 共 1236 条推文
 
 ---
 
@@ -169,10 +169,6 @@ Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 
 RT by @elonmusk: also 29 days ago.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHtGpZ77hzS0NLDuRSgiqJSidXuS8OAAJQEmsbxKvRVlkxiTg7zmUxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/no4core/status/2077959740316074188#m)
-
 ---
 
 ## 2026-07-17 14:40:34
@@ -222,6 +218,20 @@ Try Grok
 **内容**:
 
 As promised
+
+---
+
+## 2026-07-17 18:20:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Turns out Elon was completely right The coding moat is disappearing in real time
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHuGpaDMy5jY-qHPTS5AwW2sx_I8nHAAKjEmsbxKvRVhTYUa7ajoXkAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2078062254046544149#m)
 
 ---
 

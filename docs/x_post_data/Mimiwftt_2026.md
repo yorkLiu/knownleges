@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 397 条推文
+> 📊 推文存档 - 共 399 条推文
 
 ---
 
@@ -399,8 +399,6 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 你们听下今天中午语音直播
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078059315110572493#m)
-
 ---
 
 ## 2026-07-17 18:17:47
@@ -411,7 +409,39 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 夸克版
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078061596115685885#m)
+---
+
+## 2026-07-17 19:05:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+其实，我一直都在让所有人谨慎谨慎。不单单是A股。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF-WpNj29vTulBklvKwOIN061hI__lAAJkD2sbmMRoViaZxyvXrqmHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078073609743138819#m)
+
+---
+
+## 2026-07-17 19:06:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+中午的语音直播文字版
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHuWpaDNNWL5uj_4t5SHybIU97Iy9_AAKkEmsbxKvRVrD3rAPjejhJAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHumpaDNamZDdf77N7TalX0KuBwwAB8gACpRJrG8Sr0VYtXbXrrJ4sKQEAAwIAA3kAAz0E.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHu2paDNkWBB9qF8BfAbe-iC1fxGtKAAKmEmsbxKvRVhZmCdfZNYoAAQEAAwIAA3kAAz0E.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHvGpaDNvMXq31-54M-DynVAe5gLtnAAKnEmsbxKvRVqGETVYZm7sdAQADAgADeAADPQQ.png" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078073820313981170#m)
 
 ---
 
