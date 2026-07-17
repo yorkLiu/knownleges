@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 230 条推文
+> 📊 推文存档 - 共 231 条推文
 
 ---
 
@@ -49,7 +49,17 @@ tags: ["2026"]
 
 睡醒天塌了
 
-[查看原文](https://nitter.net/xiaomustock/status/2077969239865262495#m)
+---
+
+## 2026-07-17 12:32:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天抄底的睡醒全被套了， 看来还是反弹再抄最安全， 朋友劝我我也没听😅
+
+[查看原文](https://nitter.net/xiaomustock/status/2077974663393919061#m)
 
 ---
 
