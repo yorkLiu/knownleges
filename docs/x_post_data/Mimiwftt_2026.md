@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 387 条推文
+> 📊 推文存档 - 共 388 条推文
 
 ---
 
@@ -299,10 +299,6 @@ x.com/i/spaces/1AKEmmAEdReKL
 
 恐慌就是给你希望再让你绝望，杀尾盘，不要动，低吸，等下周资金进场抄底。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHrGpZ0q6y9JNkHDhzY35uHGLb2qNMAAILEmsbxKvRVhCFAZV85hkzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078009982910702027#m)
-
 ---
 
 ## 2026-07-17 14:53:29
@@ -313,7 +309,23 @@ x.com/i/spaces/1AKEmmAEdReKL
 
 R to @Mimiwftt: 3820.77，吃吃，吃货
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078010179732557909#m)
+---
+
+## 2026-07-17 15:53:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+周二跟maki的闲聊 去年是普涨行情，3800附近很多个股都涨到了阶段高位，资金高位撤离，今年再次跌到3800，但很多板块（除了科技）价格都已经跌到了3000，如果你是中长线资金，你在这个位置就抄底哪里呢？
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHrmpZ4TNR5IDYXJEzoIX-HlZpr6VqAAI1EmsbxKvRVhwkuSnORb5FAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHr2pZ4ThY4c4J6UVszPL8ISVdOtcqAAI2EmsbxKvRVrLOyY9S9fb0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHsGpZ4TutfheN9_AAAfay7rGtLtT4nAACNxJrG8Sr0VbwWDNAf6hP6AEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078025242149343490#m)
 
 ---
 
