@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1227 条推文
+> 📊 推文存档 - 共 1228 条推文
 
 ---
 
@@ -139,7 +139,17 @@ R to @elonmusk: Some of the engines didn’t start, triggering an automatic laun
 
 R to @elonmusk: To be confident of a good flight, 2 Raptors will be removed & replaced. Most probable launch timing is early next week.
 
-[查看原文](https://nitter.net/elonmusk/status/2077906757641183445#m)
+---
+
+## 2026-07-17 08:47:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
+
+[查看原文](https://nitter.net/elonmusk/status/2077917951957643693#m)
 
 ---
 
