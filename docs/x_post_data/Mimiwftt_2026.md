@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 393 条推文
+> 📊 推文存档 - 共 395 条推文
 
 ---
 
@@ -359,8 +359,6 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 听说有个女的跟男朋友分手9天瘦了41斤！！这是什么药引子？这么管用的吗？
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078041881670529390#m)
-
 ---
 
 ## 2026-07-17 16:59:59
@@ -371,9 +369,31 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 课代表就是优秀
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHtWpZ7792ZZM0ploc1qzkB-yWDqa3AAJREmsbxKvRVup6WprMP03MAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078042017343639709#m)
+## 2026-07-17 17:39:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我都有点哭笑不得了。🤣🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHtmpZ_kQen9iylvahjettBjvz-mqOAAJ7EmsbxKvRVtUkb9Sf51ZVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078051921257271773#m)
+
+---
+
+## 2026-07-17 17:52:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天中午的语音你们有录音的可以发上来。或者等课代表文字总结吧！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078055187105948041#m)
 
 ---
 
