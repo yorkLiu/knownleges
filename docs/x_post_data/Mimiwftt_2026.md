@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 385 条推文
+> 📊 推文存档 - 共 387 条推文
 
 ---
 
@@ -259,8 +259,6 @@ x.com/i/spaces/1AKEmmAEdReKL
 
 我其实挺淡泊的一个人，没有什么欲望，简单就是最好的状态，复杂的东西我看得懂，不想看，累！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077980834330800437#m)
-
 ---
 
 ## 2026-07-17 13:15:05
@@ -270,10 +268,6 @@ x.com/i/spaces/1AKEmmAEdReKL
 **内容**:
 
 上午听完我直播的人知道我等的是什么！
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGPGpO5PRg51DvFPKz1gzHnBlRWRp-AAKREGsb_fR4VnH8Htp6m8WpAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077985417161531841#m)
 
 ---
 
@@ -285,10 +279,6 @@ x.com/i/spaces/1AKEmmAEdReKL
 
 你们知道我等的是什么
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqmpZvOipw_baOXwBv9aVDlSQbGPaAALXEWsbxKvRVtx5nu6JJukFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077985599903199562#m)
-
 ---
 
 ## 2026-07-17 13:24:55
@@ -299,11 +289,31 @@ x.com/i/spaces/1AKEmmAEdReKL
 
 低吸吧。先博弈反弹。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqGpZvN1d_yi5QLVnQXq1Pk01rslYAALVEWsbxKvRVp5F2HO3xoToAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqWpZvOEbPf5er4LZDyVSBrncB3e9AALWEWsbxKvRVqpWBAzoEcdwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-17 14:52:42
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077987894225142202#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+恐慌就是给你希望再让你绝望，杀尾盘，不要动，低吸，等下周资金进场抄底。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHrGpZ0q6y9JNkHDhzY35uHGLb2qNMAAILEmsbxKvRVhCFAZV85hkzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078009982910702027#m)
+
+---
+
+## 2026-07-17 14:53:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: 3820.77，吃吃，吃货
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078010179732557909#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1228 条推文
+> 📊 推文存档 - 共 1230 条推文
 
 ---
 
@@ -149,7 +149,33 @@ R to @elonmusk: To be confident of a good flight, 2 Raptors will be removed & re
 
 Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 
-[查看原文](https://nitter.net/elonmusk/status/2077917951957643693#m)
+---
+
+## 2026-07-17 14:40:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2077753125717377024_img__i4orfq9noUjB5Qr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078006929188606315#m)
+
+---
+
+## 2026-07-17 14:44:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build upgrades
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHq2pZ0qYLUI7LJCeJNYG_rLA_x-W5AAIKEmsbxKvRVvHrciZT__RlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078007993296179568#m)
 
 ---
 
