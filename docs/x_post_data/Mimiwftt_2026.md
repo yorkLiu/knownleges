@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 391 条推文
+> 📊 推文存档 - 共 393 条推文
 
 ---
 
@@ -329,10 +329,6 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 谨慎科技方向爆融资盘的风险，下周有反弹就先出来。不博弈短线。稳一手。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHs2pZ6H8o5R2BpagaIGBV8OoIsELLAAJDEmsbxKvRVs-ulTmHWJ-rAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078026976875675986#m)
-
 ---
 
 ## 2026-07-17 16:07:04
@@ -342,10 +338,6 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 **内容**:
 
 5/12的观点一直延续至今，硬科技方向在这一波下跌中破势，不要再抱有任何幻想。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHsmpZ6Hvgy7cefMG9xHau_a475ZPZAAJCEmsbxKvRViJn8XfiIg3kAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078028699371528614#m)
 
 ---
 
@@ -357,11 +349,31 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 昨天那张图已经很明确地告诉大家，恒生科技指数已经运行至关键压力位，上方还存在密集套牢盘，因此不具备直接大幅上涨的条件。 这也是为什么我一直强调不要急于加仓，而是耐心等待右侧确认突破5000点后，再考虑增加仓位。 今天指数下跌4.53%，基本符合昨天复盘中的预期。昨天的语音复盘也已经提前提示了这一风险。 不过，从技术面来看，今天指数正好回踩至20日均线支撑位，接下来重点关注20日线能否有效企稳，以及后续资金的承接情况。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHsWpZ6Hj3plt6aM0rvfu9kLSDbNkaAAJBEmsbxKvRVhh5xR33TOt2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHe2pYi6rD5KHUoJs-TnQXFO4S0Y6xAAJtDmsbwyfBVhRdVvku2mFlAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-17 16:59:27
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078032374714028289#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+听说有个女的跟男朋友分手9天瘦了41斤！！这是什么药引子？这么管用的吗？
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078041881670529390#m)
+
+---
+
+## 2026-07-17 16:59:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+课代表就是优秀
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHtWpZ7792ZZM0ploc1qzkB-yWDqa3AAJREmsbxKvRVup6WprMP03MAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078042017343639709#m)
 
 ---
 

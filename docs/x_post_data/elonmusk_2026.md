@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1234 条推文
+> 📊 推文存档 - 共 1235 条推文
 
 ---
 
@@ -109,8 +109,6 @@ Starlink now available in Côte d'Ivoire!
 
 RT by @elonmusk: Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software.
 
-[查看原文](https://nitter.net/kentcdodds/status/2077867806906003478#m)
-
 ---
 
 ## 2026-07-17 05:57:08
@@ -163,6 +161,20 @@ Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 
 ---
 
+## 2026-07-17 11:33:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: also 29 days ago.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHtGpZ77hzS0NLDuRSgiqJSidXuS8OAAJQEmsbxKvRVlkxiTg7zmUxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/no4core/status/2077959740316074188#m)
+
+---
+
 ## 2026-07-17 14:40:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -191,10 +203,6 @@ Grok Build upgrades
 
 Grok Imagine
 
-<img src="/images/elonmusk/amplify_video_thumb_2077990404205445120_img_cVTd_UyiqW5WFUXj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2078008818764505356#m)
-
 ---
 
 ## 2026-07-17 15:10:26
@@ -205,10 +213,6 @@ Grok Imagine
 
 Try Grok
 
-<img src="/images/elonmusk/amplify_video_thumb_2077923739874770944_img_UQEAqQ2E23EpeLLI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2078014448267104664#m)
-
 ---
 
 ## 2026-07-17 15:14:19
@@ -218,10 +222,6 @@ Try Grok
 **内容**:
 
 As promised
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHrWpZ2et_TA0Q1o7ADPqeFqcKYtXvAAIoEmsbxKvRVpXGTDnvSu2GAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2078015422931091486#m)
 
 ---
 
