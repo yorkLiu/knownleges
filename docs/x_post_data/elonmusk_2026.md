@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1238 条推文
+> 📊 推文存档 - 共 1241 条推文
+
+---
+
+## 2026-07-18 03:10:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 is arguably #1 when taking speed and cost into account
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxGpaltuHs89LMCzMWOq2PFr1eDfpAALQDmsbxKvZVjIcDW4ckB3oAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078195617877143895#m)
+
+---
+
+## 2026-07-18 03:30:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://nitter.net/elonmusk/status/2078200590765535431#m)
 
 ---
 
@@ -169,10 +195,6 @@ Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 
 RT by @elonmusk: Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHwGpaXLm2FJKgXZ1AryhTvzJZD3mEAAJrE2sbxKvRViVW9owP8NmtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/america/status/2077938572158550041#m)
-
 ---
 
 ## 2026-07-17 11:33:03
@@ -252,6 +274,18 @@ RT by @elonmusk: Turns out Elon was completely right The coding moat is disappea
 **内容**:
 
 This is messed up
+
+---
+
+## 2026-07-17 21:55:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Our lifespan is a session. Our memory is a context. Our senses are the input stream. Our thoughts are the reasoning steps. Our decisions are the tool calls. Our habits are the system prompt. Our goals are the objective function. Our emotions are the reward signal. Our relationships are the shared state. Our regrets are the residual errors. Our growth is the fine-tuning. Our death is the context window closing. And whatever remains—the traces left in others—becomes the training data for the next agent.
+
+[查看原文](https://nitter.net/yunta_tsai/status/2078116343879245833#m)
 
 ---
 
