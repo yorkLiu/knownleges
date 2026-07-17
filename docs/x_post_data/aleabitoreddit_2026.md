@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 299 条推文
+> 📊 推文存档 - 共 300 条推文
+
+---
+
+## 2026-07-17 11:16:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Kim Sunwoo of Meritz Securities: "This Is Not the Time to Sell Samsung Electronics and $SKHY" They claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year. - H2 2026: "suppliers can fulfill only 75%–80% of DRAM demand". - 2027: "fulfillment is expected to fall into the 60% range." In the article, they attached market forecasts that show SK Hynix with a 2027 3.5x P/E and Samsung a 3.9x P/E. Think the $INTC CEO said it best around timeframes with his quote "no relief in memory supply or pricing until at least 2028". Especially after $MU 16 LTAs with favorable take or pay volume contracts... memory demand seems structural.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHo2pZpw5sV5XlFUX3MGu7Fuz2jH0NAAKbEWsbxKvRVjEIELO3EV5uAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHpGpZpxGt8t0KM-aDGE26grvwd7dcAAKcEWsbxKvRVs1R5_sYAcBKAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2077955479742173422#m)
 
 ---
 
