@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 303 条推文
+> 📊 推文存档 - 共 304 条推文
 
 ---
 
@@ -29,9 +29,19 @@ Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is ma
 
 Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk? “As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by brokers.” (There were other sources claiming this data came from Goldman Sachs desks rather than SK financial supervisory service data) Regardless, just evidence recent crash was accelerated by liquidation cascades/deleveraging rather than fundamentals:
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHwmpaZAKqiCsjIm58Igt8ZFRdkOohAAJzE2sbxKvRVm2khTTh6xYFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2078161322769068533#m)
+## 2026-07-18 01:51:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHw2pacob2a9TJBBdY756MQaRC-pibAAKBE2sbxKvRViAFbijm1UfDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2078175882620059719#m)
 
 ---
 
