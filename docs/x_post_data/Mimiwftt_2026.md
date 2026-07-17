@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 388 条推文
+> 📊 推文存档 - 共 391 条推文
 
 ---
 
@@ -319,13 +319,49 @@ R to @Mimiwftt: 3820.77，吃吃，吃货
 
 周二跟maki的闲聊 去年是普涨行情，3800附近很多个股都涨到了阶段高位，资金高位撤离，今年再次跌到3800，但很多板块（除了科技）价格都已经跌到了3000，如果你是中长线资金，你在这个位置就抄底哪里呢？
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHrmpZ4TNR5IDYXJEzoIX-HlZpr6VqAAI1EmsbxKvRVhwkuSnORb5FAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHr2pZ4ThY4c4J6UVszPL8ISVdOtcqAAI2EmsbxKvRVrLOyY9S9fb0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-17 16:00:13
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHsGpZ4TutfheN9_AAAfay7rGtLtT4nAACNxJrG8Sr0VbwWDNAf6hP6AEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078025242149343490#m)
+**内容**:
+
+谨慎科技方向爆融资盘的风险，下周有反弹就先出来。不博弈短线。稳一手。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHs2pZ6H8o5R2BpagaIGBV8OoIsELLAAJDEmsbxKvRVs-ulTmHWJ-rAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078026976875675986#m)
+
+---
+
+## 2026-07-17 16:07:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+5/12的观点一直延续至今，硬科技方向在这一波下跌中破势，不要再抱有任何幻想。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHsmpZ6Hvgy7cefMG9xHau_a475ZPZAAJCEmsbxKvRViJn8XfiIg3kAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078028699371528614#m)
+
+---
+
+## 2026-07-17 16:21:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天那张图已经很明确地告诉大家，恒生科技指数已经运行至关键压力位，上方还存在密集套牢盘，因此不具备直接大幅上涨的条件。 这也是为什么我一直强调不要急于加仓，而是耐心等待右侧确认突破5000点后，再考虑增加仓位。 今天指数下跌4.53%，基本符合昨天复盘中的预期。昨天的语音复盘也已经提前提示了这一风险。 不过，从技术面来看，今天指数正好回踩至20日均线支撑位，接下来重点关注20日线能否有效企稳，以及后续资金的承接情况。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHsWpZ6Hj3plt6aM0rvfu9kLSDbNkaAAJBEmsbxKvRVhh5xR33TOt2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHe2pYi6rD5KHUoJs-TnQXFO4S0Y6xAAJtDmsbwyfBVhRdVvku2mFlAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078032374714028289#m)
 
 ---
 
