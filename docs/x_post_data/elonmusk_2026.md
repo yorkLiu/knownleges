@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1236 条推文
+> 📊 推文存档 - 共 1237 条推文
 
 ---
 
@@ -229,9 +229,17 @@ As promised
 
 RT by @elonmusk: Turns out Elon was completely right The coding moat is disappearing in real time
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHuGpaDMy5jY-qHPTS5AwW2sx_I8nHAAKjEmsbxKvRVhTYUa7ajoXkAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/XFreeze/status/2078062254046544149#m)
+## 2026-07-17 19:56:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is messed up
+
+[查看原文](https://nitter.net/elonmusk/status/2078086509052227916#m)
 
 ---
 
