@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 375 条推文
+> 📊 推文存档 - 共 376 条推文
 
 ---
 
@@ -169,10 +169,6 @@ Image
 
 船舶不需要恐慌，反而是低吸机会。 大部分人喜欢追涨，低吸的机会并不多。 趋势线不破持股，趋势线破位再考虑减仓。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHompZmI-qFpEENpAvkXugarCII48pAAJ7EWsbxKvRVj6hlyNGymcfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077942584467693638#m)
-
 ---
 
 ## 2026-07-17 10:26:54
@@ -182,10 +178,6 @@ Image
 **内容**:
 
 科创50下一个支撑很近了，可以做一波反弹到1913
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHoWpZmIsHzxMgGRe_tGTPFuwLrfD7AAJ6EWsbxKvRVnB7D3Eixsb0AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077943094620938314#m)
 
 ---
 
@@ -197,9 +189,17 @@ Image
 
 买点都在大周期的上涨趋势线底部，而不是涨起来追！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHoGpZmIj3X1naJmEU695TE2w1aGEcAAJ5EWsbxKvRVlPfScTCxoAhAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077945343552127097#m)
+## 2026-07-17 10:52:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1AKEmmAEdReKL
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077949418884730992#m)
 
 ---
 
