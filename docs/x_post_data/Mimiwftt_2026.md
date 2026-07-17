@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 370 条推文
+> 📊 推文存档 - 共 372 条推文
 
 ---
 
@@ -109,8 +109,6 @@ tags: ["2026"]
 
 什么是价值？ 2019年的半导体是价值， 2020年的煤炭是价值， 2022年的银行是价值， 2024年的有色是价值， 2024年的科创50也是价值。 可问题是，当它们还在低位、无人问津的时候，你眼里有它们吗？ 大多数人的答案都是：没有。 因为很多人眼里只有上涨，没有价值。 不涨，就是垃圾；没人关注，就是没前景；跌了，就是不能买。 可等股价涨了50%、100%，媒体开始报道、市场开始热议，大家又开始说：“这才是真正的价值。” 其实，不是价值出现了，而是股价上涨以后，你才看见了价值。 真正的价值，往往诞生于市场最冷清的时候；真正的机会，往往藏在无人问津的地方。 普通人用股价判断价值，优秀的投资者用价值判断股价。 认知决定你能不能发现价值，而不是股价。等所有人都看见价值的时候，留给你的往往只剩下价格。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077900252011811260#m)
-
 ---
 
 ## 2026-07-17 07:42:59
@@ -120,8 +118,6 @@ tags: ["2026"]
 **内容**:
 
 我不同意你的说法。 其实，不是没有价值，而是价值是结构性的。 当前市场上涨更多集中在部分热门板块和高估值题材，而不少基本面良好、盈利能力稳定、竞争优势突出的优秀企业，经过前几年的调整，股价已经回到了3000点附近甚至更低的位置。从长期来看，它们依然具备值得关注和研究的投资价值。 这个世界并不缺少美，而是缺少发现美的眼睛。 回顾上一轮行情就会明白。 2021年抱团牛市结束后，上证指数从3721点一路跌到2635点，很多人认为市场没有机会了。 但与此同时，煤炭板块却从560点一路上涨至今年的2148点，走出了一轮持续数年的独立行情。 这就是价值。 价值，并不一定与指数共振；指数下跌，也不代表所有行业都没有机会。 可以穿越牛熊的投资者，不会只盯着指数涨跌，而是去寻找那些基本面优秀、估值合理甚至被市场错杀的企业。
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077901841741070524#m)
 
 ---
 
@@ -133,10 +129,6 @@ tags: ["2026"]
 
 还在科技板块被套的朋友，也不必过于悲观。 没有必要在急跌中恐慌割肉。 高位票是否真正见顶，要看月线级别的大周期，而不是几天、几周的调整。只要月线趋势没有被有效破坏，就耐心等待后续的反弹机会，争取回本或减少亏损。 主力资金要完成筹码兑现，往往需要反复拉升、震荡，而不是一次日线级别下跌就结束整个行情。仅凭日线级别的顶部形态，并不能轻易判断大级别行情已经结束。 这一次熬过去了，下一次当市场再次陷入疯狂的时候，不要因为贪婪而舍不得离场。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHnGpZdDJJImleRiuUi-j6vA1FqQf4AALCD2sbwyfJVo0hfVr6nPJfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077903613243109867#m)
-
 ---
 
 ## 2026-07-17 07:53:39
@@ -147,7 +139,37 @@ tags: ["2026"]
 
 昨晚没睡好，有点头痛，今天就更新到这里吧，周末戒网。下周一见。爱你们💕 任何情况下，没有形成底部形态之前不要因为下跌就抄底重仓。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077904528880665081#m)
+---
+
+## 2026-07-17 09:43:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Image
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHnmpZkUd8tdzJdejZsn2zTQI0HYDoAAKdEGsbwyfJVlteKXna-U6fAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHn2pZkUtXkR_bFoMUp7ffYGJT2gdbAAKeEGsbwyfJVvynkZ_gD88AAQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077932084975575082#m)
+
+---
+
+## 2026-07-17 10:14:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+跌破4000提示重仓的必须要控制仓位在5层以下，就是对抗趋势破位的不确定性。 什么时候见底，什么时候有底部形态再加回来，不要去赌哪里是低点，交易一定要有原则，做人也是。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHnWpZkUOs6uB3KOjfNPBbj1mKgXHWAAKcEGsbwyfJVjFY7R0mfwtXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGPGpO5PRg51DvFPKz1gzHnBlRWRp-AAKREGsb_fR4VnH8Htp6m8WpAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077940088705806757#m)
 
 ---
 
