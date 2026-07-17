@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 236 条推文
+> 📊 推文存档 - 共 237 条推文
 
 ---
 
@@ -19,9 +19,21 @@ tags: ["2026"]
 
 爽呐，他娘的终于扛到回本了
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHwWpaY_yksENLtAL-KDs9rIdXH09ZAAJyE2sbxKvRVsWqDXmIo2SJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2078164123289002167#m)
+## 2026-07-18 05:11:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的時候。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxWpanh0bQ36tjjs-uhsW_RFIIsX8AALUDmsbxKvZVtJ5lyFJ-xdKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxmpaniES-rhSmmW5xxaFnZ5JavMlAALVDmsbxKvZVmE2t-378R-dAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2078226111373467737#m)
 
 ---
 
