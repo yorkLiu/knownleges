@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 372 条推文
+> 📊 推文存档 - 共 375 条推文
 
 ---
 
@@ -149,12 +149,6 @@ tags: ["2026"]
 
 Image
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHnmpZkUd8tdzJdejZsn2zTQI0HYDoAAKdEGsbwyfJVlteKXna-U6fAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHn2pZkUtXkR_bFoMUp7ffYGJT2gdbAAKeEGsbwyfJVvynkZ_gD88AAQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2077932084975575082#m)
-
 ---
 
 ## 2026-07-17 10:14:58
@@ -165,11 +159,47 @@ Image
 
 跌破4000提示重仓的必须要控制仓位在5层以下，就是对抗趋势破位的不确定性。 什么时候见底，什么时候有底部形态再加回来，不要去赌哪里是低点，交易一定要有原则，做人也是。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHnWpZkUOs6uB3KOjfNPBbj1mKgXHWAAKcEGsbwyfJVjFY7R0mfwtXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGPGpO5PRg51DvFPKz1gzHnBlRWRp-AAKREGsb_fR4VnH8Htp6m8WpAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-17 10:24:53
 
-[查看原文](https://nitter.net/Mimiwftt/status/2077940088705806757#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+船舶不需要恐慌，反而是低吸机会。 大部分人喜欢追涨，低吸的机会并不多。 趋势线不破持股，趋势线破位再考虑减仓。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHompZmI-qFpEENpAvkXugarCII48pAAJ7EWsbxKvRVj6hlyNGymcfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077942584467693638#m)
+
+---
+
+## 2026-07-17 10:26:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+科创50下一个支撑很近了，可以做一波反弹到1913
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHoWpZmIsHzxMgGRe_tGTPFuwLrfD7AAJ6EWsbxKvRVnB7D3Eixsb0AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077943094620938314#m)
+
+---
+
+## 2026-07-17 10:35:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+买点都在大周期的上涨趋势线底部，而不是涨起来追！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHoGpZmIj3X1naJmEU695TE2w1aGEcAAJ5EWsbxKvRVlPfScTCxoAhAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2077945343552127097#m)
 
 ---
 
