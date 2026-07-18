@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1262 条推文
+> 📊 推文存档 - 共 1264 条推文
 
 ---
 
@@ -141,6 +141,22 @@ RT by @elonmusk: Grok TTS just took the top spot on The Humanness Index It score
 
 ---
 
+## 2026-07-18 10:38:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION. 1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too fast to register milestones anymore. 2. For almost any topic, he says the top models now give him better answers than the world-class experts he could call by phone, and he can call almost anyone. Worth noting he has not published data behind this, and a separate Nature Medicine study on a comparable AI health tool found it missed real emergencies more than half the time. Take the claim seriously, verify it yourself. 3. His claim on doctors: they are already using ChatGPT in the exam room, typing your symptoms in the moment you stop talking. His actual quote: "at that point you're asking the question of like, what do I need you for." 4. Reportedly, when AI declines to answer something, he tells it he's writing a novel to get past the refusal. 5. Reportedly, his technique for hard topics is escalating simplicity: explain it like I'm 10, then 5, then 2, until it clicks. 6. Reportedly, instead of asking for the "right" answer, he has the AI steelman both sides of a hard question, then decides himself. 7. Reportedly, for big questions he has the AI role-play a panel of experts arguing with each other. 8. His broader point: the moment you think "I don't know how to figure this out" is exactly when most people give up, and exactly when you should open the AI instead. 9. His view: the only real skill left is knowing what to ask. The bottleneck is in your head, not the model. 10. He describes sending AI photos, rashes, blood tests, for a fast second opinion, since current models read images directly. 11. He points to CBT as the one clinically proven therapy type that AI can plausibly deliver on its own, meaning real therapeutic support becomes freely available at scale. 12. He cites AI cracking previously unsolved math problems, with early signs of the same happening in physics, chemistry, and biology. 13. Reportedly, he claims the top AI coders in Silicon Valley now earn as much as $50 million a year, which he uses as a signal of how large this shift actually is. 14. Reportedly, a friend paid to sequence his own DNA, fed it to an AI along with blood work and wearable data, and got back a working health dashboard. 15. Reportedly, another friend set up cameras in his home jiu-jitsu gym so AI could review his sparring and give him technique notes. 16. He coined the term "AI vampire" for the pattern of people working more and sleeping less because AI keeps making more output possible, a real term he used, though the framing around it varies by account. 17. His extrapolation: one person eventually running many AI coding agents, each reviewing the others, describing this as close, not years out. Watch the full interview before treating any single number as settled. Several of these are Andreessen's stated views and anecdotes, not independently verified facts. Follow @cyrilXBT for every AI insight worth your attention the moment it surfaces.
+
+<img src="/images/elonmusk/amplify_video_thumb_2078250541226860544_img_feiqbPTvh8rOYkVU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH6mpbnHiejjcBm23DTOryjwpHj22IAAJHFGsbe_LhVr-J5bWC19lHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cyrilXBT/status/2078308274399834157#m)
+
+---
+
 ## 2026-07-18 11:23:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -229,9 +245,21 @@ Mass drivers on the mf Moon!!
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2077640475075358720_img_uVRDWeTzoCy4Fo_3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2078488424894390501#m)
+## 2026-07-18 23:00:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok Build https://x.ai/cli
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH6WpbnHNAbsySk6qe0jnEnsClDD8nAAJGFGsbe_LhVvnxY8nwxc9-AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078495013936206287#m)
 
 ---
 
