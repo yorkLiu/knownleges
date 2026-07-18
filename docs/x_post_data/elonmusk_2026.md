@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1258 条推文
+> 📊 推文存档 - 共 1260 条推文
 
 ---
 
@@ -189,9 +189,33 @@ RT by @elonmusk: Tesla Diner is turning 1 on July 21st, so we're throwing a part
 
 Easy predictions
 
-<img src="/images/elonmusk/amplify_video_thumb_2078095580375531520_img_Qd6zlWi-coIsF62K.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2078366941199171689#m)
+## 2026-07-18 14:38:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build improves almost every day
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH4WpbL3VwTdXVsWY0h9kzdcPDVrm3AALLD2sbxKvZVnMCAXUagrWvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078368743634149460#m)
+
+---
+
+## 2026-07-18 14:38:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Mass drivers on the mf Moon!!
+
+<img src="/images/elonmusk/amplify_video_thumb_2057353503643783168_img_pNkG98ALFgsTK7b-.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078368917404151868#m)
 
 ---
 
