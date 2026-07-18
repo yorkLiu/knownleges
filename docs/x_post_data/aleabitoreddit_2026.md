@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 305 条推文
+> 📊 推文存档 - 共 306 条推文
 
 ---
 
@@ -49,11 +49,17 @@ $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like t
 
 Thanks, love reading the comments! Goldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations. But the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on: - Much higher silicon photonics module volumes - scale out, scale up, scale across volumes - 1.6T/3.2T lifting blended ASP + margins - increase in AI capex This is typically very material read through on the optical sector since: I tend to think of Innolight as a $TSM (semi capex) type read on how the photonics landscape is doing. Eg. Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI. ASP hikes for future gen is positive for the other optical markers too. Think my other takeaway outside the report was Innolight stating 800g demand was growing more significantly than expected from their transcript on the 12th. Which in turn signals more demand for names like $AAOI to $LITE next earnings. TLDR: GS gives high earnings projections during a time of massive corrections. Fundamentally, broader photonics ecosystem should be happy when it’s ER time.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHx2papWQIHSkR7GByMiNa71-2qF3MAALcDmsbxKvZViNqL6928rMFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHyGpapWgcrooa5IzKupFLWoApbtBeAALdDmsbxKvZVpbHVrqRhT4cAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-18 08:03:02
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2078228019584668121#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The nice thing about X is seeing cultural differences: I get a bunch of sidelined European accounts up 2% YTD off bank saving interest. Coming out of hibernation, and saying all along that investing in $AAOI for photonics or Samsung for memory is considered gambling. And celebrating when everything AI from $MRVL to $NBIS to $INTC finally had a crash after a few hundred percent rally. Think it’s mainly a lack of understanding of technological shifts mixed with capital preservation culture vs. growth.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2078269277115727900#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1242 条推文
+> 📊 推文存档 - 共 1245 条推文
 
 ---
 
@@ -18,6 +18,20 @@ tags: ["2026"]
 **内容**:
 
 Grok 4.5 is arguably #1 when taking speed and cost into account
+
+---
+
+## 2026-07-18 03:25:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: We think of this evil as Marxism. In reality, Marxism is nothing more or less than the current instantiation of a much more ancient evil: possession by the envious and hateful spirit that drove Cain to murder his brother Abel. The great book of Genesis thus portrays mankind as riven by an eternal fratricidal conflict. Those who reject genuine sacrifice become embittered by their subsequent failure ("rejection by God"). Instead of repenting and changing, they turn to revenge. And who do they target? Those who strive to do well and offer what is best. I can't believe how much wisdom the author of Genesis 4 compressed into that story's few sentences. You might even come to believe that God Himself had a hand in it. Truly: it's uncanny. The first two human beings born into history are, respectively, a good, honest productive man and his brother, who allows himself to be consumed by resentment and the desire to destroy. Communism, in a nutshell.
+
+<img src="/images/elonmusk/amplify_video_thumb_2077753125717377024_img__i4orfq9noUjB5Qr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/jordanbpeterson/status/2078199362841436248#m)
 
 ---
 
@@ -39,9 +53,31 @@ Cool
 
 Grok has the best value for coding
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHy2pawnLCv1PbFVEwLHPAIF77xrFNAALsDmsbxKvZVlPb69AvVOmaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2078250748920414692#m)
+## 2026-07-18 08:00:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Image
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHzGpaybjgp2IBr9nQ0PC-Yf-gI6iNAAL1DmsbxKvZVo6Fu8hQm9gcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheBabylonBee/status/2078268554353234388#m)
+
+---
+
+## 2026-07-18 08:03:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+don’t forget
+
+[查看原文](https://nitter.net/elonmusk/status/2078269475351069176#m)
 
 ---
 
