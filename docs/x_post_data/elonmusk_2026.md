@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1250 条推文
+> 📊 推文存档 - 共 1252 条推文
 
 ---
 
@@ -38,6 +38,24 @@ RT by @elonmusk: We think of this evil as Marxism. In reality, Marxism is nothin
 **内容**:
 
 Cool
+
+---
+
+## 2026-07-18 04:50:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I have yet to find an example where wearing a short-sleeved white button-up shirt and tie did not imply absolutely PEAK performance
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH1Wpa9V3Yws8nKm4YiRiwr2GrJ372AAIrD2sbxKvZVhmxjxKOyuMjAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH1mpa9WEfvuW9NWfMwKgJ_rLVIJG7AAIsD2sbxKvZVnE1btamopkfAQADAgADeAADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH12pa9Wa6Wx4_bWw-V0ISb601E4VgAAItD2sbxKvZVojqyNxkWDMAAQEAAwIAA3gAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArthurMacwaters/status/2078220714210099605#m)
 
 ---
 
@@ -89,8 +107,6 @@ don’t forget
 
 RT by @elonmusk: Can't wait! Grok 4.5 has been amazing already
 
-[查看原文](https://nitter.net/minchoi/status/2078290352612487568#m)
-
 ---
 
 ## 2026-07-18 09:26:54
@@ -111,9 +127,21 @@ Yes
 
 RT by @elonmusk: Grok TTS just took the top spot on The Humanness Index It scored 94 for humanness....just six points below the human baseline of 100 and achieved the highest model rating Even the cost difference is insane: • Grok TTS: $15 • Eleven v3: $100 Grok delivers the higher human-likeness score while costing nearly 7× less than the next model It is also faster, with 460 ms latency compared with 758 ms for Eleven v3 Grok TTS is delivering top-tier voice quality without the premium price
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH0mpa5smR3jQr8px_4ytv3eYNraZ_AAIWD2sbxKvZVtHDcLuk5AOaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/XFreeze/status/2078291115858624574#m)
+## 2026-07-18 11:23:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH02pa9VMX43v1DIZF2Sv_txtjkxqIAAIpD2sbxKvZVhg_gDdlYnztAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH1Gpa9Vc1uZYTnY8x33HnBNVjdn5_AAIqD2sbxKvZVjFoWRJ5t-EVAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078319826263474481#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 408 条推文
+> 📊 推文存档 - 共 409 条推文
 
 ---
 
@@ -59,8 +59,6 @@ Pinned: 被套在科技里的兄弟们，千万别在这种急跌的时候割肉
 
 你知道你失败的原因吗？我来告诉你。 问题首先出在时间节点。强势股应该买在主线启动、趋势刚形成的时候，而不是等涨到山顶再去追，更不是等强势股已经转弱时还去接盘。 其次，目前市场正处于风格切换阶段。强势股一旦开始走弱，就不应该轻易抄底；相反，应该关注那些由弱转强的个股，在回踩确认后选择低吸，而不是盲目追高。 学习理论当然重要，但股市从来不是简单的“1+1=2”。市场是动态变化的，真正重要的是先判断趋势和市场逻辑，再根据趋势制定策略，并严格执行。只有逻辑正确，策略才能发挥价值；如果趋势判断错了，再好的策略也只是南辕北辙。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078281629093581099#m)
-
 ---
 
 ## 2026-07-18 09:20:27
@@ -70,12 +68,6 @@ Pinned: 被套在科技里的兄弟们，千万别在这种急跌的时候割肉
 **内容**:
 
 语音复盘还是希望大家能认真听进去。 5/27的复盘中，我就重点强调过4000点是本轮行情的重要分水岭。 大盘在3731，3674是重要支撑区域。只要这两个关键支撑没有被有效跌破，并且后续能够重新站稳4000点之上，那么目前依然可以定义为3800—4200点之间的宽幅震荡。 只有当关键支撑被有效跌破，且反弹始终无法重新站上4000点时，才需要警惕中长期下跌趋势的形成。 交易的核心不是预测，而是尊重关键点位，顺势应对。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH0Gpa2E7xvINrzFN7oH7IhaDDDW-EAAILD2sbxKvZVs__2ksm_d84AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH0Wpa2FKkOzVgDmzyzam8TCfbbg7yAAIMD2sbxKvZVv9ORzhCsK5nAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078288757816525239#m)
 
 ---
 
@@ -87,9 +79,21 @@ Pinned: 被套在科技里的兄弟们，千万别在这种急跌的时候割肉
 
 好喜欢这个女巫mi，哈哈哈
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHz2pa2EskDiM19-SkpbfEvt7zDHBRAAIKD2sbxKvZVvQsrumWTvJlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078290226745913695#m)
+## 2026-07-18 11:12:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+儿子回来了，点名要吃凉皮。忙活了一上午。 他一边吃一边夸：“太好吃了吧，100分！” 🤣🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH2Gpa9W2H5RJIHZYSBKje0RKAm6xTAAIuD2sbxKvZVixbZk1ZowTsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH2Wpa9XACSRjy1zo76rGMahRT5KTOAAIvD2sbxKvZVr663AvnUSHLAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078316944462344413#m)
 
 ---
 
