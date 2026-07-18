@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 417 条推文
+> 📊 推文存档 - 共 420 条推文
 
 ---
 
@@ -149,8 +149,6 @@ Video
 
 当你接近回本时，反弹戛然而止； 当你获利出局时，黑马横空出世； 当你自鸣得意时，空袭如期而至； 当你身无分文时，好股遍地都是； 当你满仓抄底时，下跌才刚开始。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078446632128106872#m)
-
 ---
 
 ## 2026-07-18 19:53:38
@@ -160,8 +158,6 @@ Video
 **内容**:
 
 R to @Mimiwftt: 论“逆人性操作的重要性”
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078448106539266515#m)
 
 ---
 
@@ -173,7 +169,49 @@ R to @Mimiwftt: 论“逆人性操作的重要性”
 
 当你接近回本时，反弹戛然而止。 因为你不是一个人在等回本，无数套牢盘都会在成本区卖出，形成压力位。 当你获利出局时，黑马横空出世。 人性厌恶利润回撤，总想落袋为安，所以很难拿住真正的大牛股。 当你自鸣得意时，空袭如期而至。 连续盈利容易滋生过度自信，放大仓位、忽视风险，而市场专治自负。 当你身无分文时，好股遍地都是。 机会总在恐慌中出现，但大多数人牛市满仓，真正便宜时反而没有现金。 当你满仓抄底时，下跌才刚开始。 人们容易把“跌得多”误认为“跌到位”，一次满仓又失去容错空间，只能被动承受继续下跌。 说到底，不是市场针对你，而是人性的弱点：损失厌恶、锚定成本、过度自信、害怕错过和缺乏仓位管理。市场利用的从来不是你的资金，而是你的情绪。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078451822210203718#m)
+---
+
+## 2026-07-18 20:48:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+晚安💤
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH52pbf3Bc4p_ywLu3wkAi8zd4hwlWAAJDD2sbxKvhVq-40i99lUB6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078462020098367828#m)
+
+---
+
+## 2026-07-18 21:02:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看看6/6我都跟你们说过什么！ 这不是个例，是个普遍现象！所有机构抱团股都是这样的结果！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH5Gpbf2VMTAwYbizUKFahROdFsS3oAAJAD2sbxKvhVglh7wsweV78AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH5Wpbf2nNy9664QNLVvu_3Tuk79-mAAJBD2sbxKvhVt6AoDUsFzkDAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH5mpbf23zPYtVBFKy3mUr7Uxy3jxVAAJCD2sbxKvhVsVHLqNnrIEfAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078465510904398072#m)
+
+---
+
+## 2026-07-18 21:03:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+结果就是“机构踩踏”
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078465653355491539#m)
 
 ---
 
