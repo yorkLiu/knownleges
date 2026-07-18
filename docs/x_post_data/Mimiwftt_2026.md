@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 413 条推文
+> 📊 推文存档 - 共 414 条推文
 
 ---
 
@@ -129,9 +129,19 @@ Pinned: 被套在科技里的兄弟们，千万别在这种急跌的时候割肉
 
 Video
 
-<img src="/images/Mimiwftt/amplify_video_thumb_2078390724723408896_img_qujHEG5kijXNe5mT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078390811109330978#m)
+## 2026-07-18 16:36:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/Mimiwftt/amplify_video_thumb_2078397921490567168_img_HmQvntBcnqFSUCSK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078398495900545451#m)
 
 ---
 
