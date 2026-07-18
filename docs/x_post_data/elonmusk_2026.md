@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1257 条推文
+> 📊 推文存档 - 共 1258 条推文
 
 ---
 
@@ -18,12 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: The beginning of the Megacharger network Build-out is focused on the most important Semi routes and depots first. Follow our progress here: https://www.tesla.com/findus?bounds=40.088148238001295%2C-72.5347021341828%2C25.057723630856046%2C-110.0859716654328&filters=tesla_exclusive_megachargers%2Ccoming_soon_megachargers%2Call_megachargers For Semi customers who can install Megachargers or Basechargers at their depots, we recommend installing their own infrastructure too for the most efficient use of their fleet. Especially in California, Washington, Oregon, and Canada - private Semi Charging for Business financials are super attractive right now. Get in touch: https://www.tesla.com/semi-charging-for-business
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH3mpbEmLepUzRCzUlh1WC9-yuv_AiAAKaD2sbxKvZVli64nT-7vsvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH32pbEmY-okkSyffNpX9cfIv9l5nfAAKbD2sbxKvZVu6H_kceUr9YAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MdeZegher/status/2078174130554523916#m)
 
 ---
 
@@ -74,10 +68,6 @@ RT by @elonmusk: I have yet to find an example where wearing a short-sleeved whi
 **内容**:
 
 RT by @elonmusk: On this day in 1918 the Bolsheviks herded Tsar Nicholas II, Empress Alexandra, and their five children into a basement in Yekaterinburg and opened fire. The bullets bounced because the girls had diamonds sewn into their corsets. So the reds finished the job with bayonets, stabbing, crushing skulls, and butchering the children while they were still alive. Then they stripped the bodies, doused them in acid, burned what remained, and dumped the remains in a forest to hide the crime. This was the deliberate, sadistic murder of an entire family, including a sick little boy, by communist animals who needed the blood of innocents to cement their power. Never forget what the Bolsheviks were. Never forgive it.
-
-<img src="/images/elonmusk/amplify_video_thumb_2078238027340558336_img_uKh502UO2OopJkAV.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Rothmus/status/2078238083309338966#m)
 
 ---
 
@@ -179,8 +169,6 @@ Video
 
 RT by @elonmusk: My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs. Then walk away.
 
-[查看原文](https://nitter.net/yunta_tsai/status/2078326813953265926#m)
-
 ---
 
 ## 2026-07-18 12:04:13
@@ -191,9 +179,19 @@ RT by @elonmusk: My favorite system prompt at Grok Build: Do a) …, b) …, c) 
 
 RT by @elonmusk: Tesla Diner is turning 1 on July 21st, so we're throwing a party Come swing by for a day full of fun: – Cybercab on display – Birthday menu – @Tesla_Optimus – Face painting for kids & adults – Photo booth – Servers on roller skates delivering your order – Light show – Skypad DJ – Complimentary collectibles  🎂🎂🎂 P.S.: Complimentary Diner birthday hats signed by @woodhaus2 for the first 50 car orders at midnight that day...($15 f&b min order)
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH4GpbEmqAczWlVz0zcPFDC7AGe_qZAAKcD2sbxKvZVsHws9PuFS93AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/tesla_na/status/2078329972226457616#m)
+## 2026-07-18 14:31:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Easy predictions
+
+<img src="/images/elonmusk/amplify_video_thumb_2078095580375531520_img_Qd6zlWi-coIsF62K.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078366941199171689#m)
 
 ---
 
