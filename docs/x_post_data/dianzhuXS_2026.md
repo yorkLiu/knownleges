@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 203 条推文
+> 📊 推文存档 - 共 204 条推文
 
 ---
 
@@ -29,7 +29,19 @@ tags: ["2026"]
 
 再說一遍，「拿性」教徒都別關注我！我這裡遠離黃賭毒，你們沒有底線是你們自己的選擇，但我也有「嫌髒」的自由，別來，別來，別來，拉黑太麻煩，重要的事說三遍。
 
-[查看原文](https://nitter.net/dianzhuXS/status/2078396812004905201#m)
+---
+
+## 2026-07-18 17:02:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+以牠的間歇性精神病命格，被這樣「上眼藥」一定會小肚雞腸瘋狂報復的。資本加速收歸國有，確切的說是收歸「習有」，應該已經傳令下去，在研究「如何更提速」了。 股市這玩意收割還是太慢了，如何整個「大詞兒」更赤裸裸的「明搶」，是馬屁精們最費神的事嘍。流氓無產階級隊伍飛速壯大，正常人越來越少了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH4mpbRUISYROjulqmWF0vt9VSiSXVAALiD2sbxKvZVv7QGoR4d_ubAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2078405086968238542#m)
 
 ---
 
