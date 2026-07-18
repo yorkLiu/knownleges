@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 306 条推文
+> 📊 推文存档 - 共 307 条推文
 
 ---
 
@@ -59,7 +59,17 @@ Thanks, love reading the comments! Goldman Sachs raised Innolight PT to 2581 RMB
 
 The nice thing about X is seeing cultural differences: I get a bunch of sidelined European accounts up 2% YTD off bank saving interest. Coming out of hibernation, and saying all along that investing in $AAOI for photonics or Samsung for memory is considered gambling. And celebrating when everything AI from $MRVL to $NBIS to $INTC finally had a crash after a few hundred percent rally. Think it’s mainly a lack of understanding of technological shifts mixed with capital preservation culture vs. growth.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2078269277115727900#m)
+---
+
+## 2026-07-18 09:00:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do. And above all, just being transparent about my own returns (win or loss) Maybe this information democratization upsets some business models… When others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash. But if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall. Yes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown. I’m just sharing what happens. But I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2078283847612186739#m)
 
 ---
 
