@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 307 条推文
+> 📊 推文存档 - 共 308 条推文
 
 ---
 
@@ -69,7 +69,19 @@ The nice thing about X is seeing cultural differences: I get a bunch of sideline
 
 Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do. And above all, just being transparent about my own returns (win or loss) Maybe this information democratization upsets some business models… When others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash. But if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall. Yes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown. I’m just sharing what happens. But I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2078283847612186739#m)
+---
+
+## 2026-07-18 12:39:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: The ADRs and local shares become convertible on July 29. Should open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. 2.5% currently is the US ADR stock, so an additional 22.5% can be converted.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH2mpbCx-XDTyJRY7di3N_QvrvlluVAAKBD2sbxKvZVnOk-_oxOFAqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2078338950150959558#m)
 
 ---
 
