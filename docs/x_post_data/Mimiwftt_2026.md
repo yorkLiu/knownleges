@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 412 条推文
+> 📊 推文存档 - 共 413 条推文
 
 ---
 
@@ -99,12 +99,6 @@ Pinned: 被套在科技里的兄弟们，千万别在这种急跌的时候割肉
 
 【以史为鉴】 回顾历史，每一次大级别指数见顶，几乎都是从月线MA5与MA10形成死叉开始，随后进入长期下跌趋势。 而目前，无论是科创板还是创业板，都尚未形成大级别的顶部结构。从时间周期到趋势形态来看，市场依然不具备熊市特征，因此完全没有必要过度恐慌。 接下来，真正需要学习的，不是盲目跟风买入，而是如何买、何时买、如何卖、何时卖。只有建立属于自己的交易体系，才能在市场中长期立于不败之地。当前的市场，更应该关注机会，而不是被情绪左右。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH3GpbCypjtLm4OwU_JYk86ZjuLo3KAAKDD2sbxKvZVhAf1bw1y8XCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH3WpbCy2Wg1XUoMBAGZM6t50M8VywAAKED2sbxKvZVttFoNCNJ-F9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078342392978293005#m)
-
 ---
 
 ## 2026-07-18 13:02:44
@@ -114,12 +108,6 @@ Pinned: 被套在科技里的兄弟们，千万别在这种急跌的时候割肉
 **内容**:
 
 究其原因，在于主力资金的建仓和出货都需要较长的时间周期。建仓不是一天完成的，同样，出货也不会在短时间内结束，更不会选择在连续跌停板上完成派发。真正的大资金，更倾向于利用震荡、反弹、横盘等方式逐步兑现筹码，而不是简单粗暴地砸盘离场。 但即便如此，我依然不建议普通投资者，尤其是新股民，轻易去博弈高位股的反弹行情。因为高位股虽然会出现技术性反抽，甚至短期涨幅可观，但这种机会往往属于短线交易范畴，对买卖节奏、仓位控制和止损纪律都有极高要求。 如果你是经验丰富的短线高手，有成熟的交易体系和严格的执行力，那么参与这类机会无可厚非。但对于大多数投资者而言，由于缺乏明确的交易标准，很容易把反弹当反转，一次次在下跌途中抄底，结果不仅没有抓住机会，反而不断被套，最终陷入越跌越补、越补越亏的恶性循环。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH3GpbCypjtLm4OwU_JYk86ZjuLo3KAAKDD2sbxKvZVhAf1bw1y8XCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH3WpbCy2Wg1XUoMBAGZM6t50M8VywAAKED2sbxKvZVttFoNCNJ-F9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078344697987432704#m)
 
 ---
 
@@ -131,9 +119,19 @@ Pinned: 被套在科技里的兄弟们，千万别在这种急跌的时候割肉
 
 等机构出货完毕，大级别下跌趋势里千万不要去抄底博弈反弹，一套一个不吱声！ 果断放弃，空仓看戏。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH22pbCyZ8p0zUelKC7iSzx2gpcBOVAAKCD2sbxKvZVhfYJvV6cVNDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078346548795383818#m)
+## 2026-07-18 16:05:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/Mimiwftt/amplify_video_thumb_2078390724723408896_img_qujHEG5kijXNe5mT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078390811109330978#m)
 
 ---
 
