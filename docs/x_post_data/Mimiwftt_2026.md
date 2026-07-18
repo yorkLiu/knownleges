@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 426 条推文
+> 📊 推文存档 - 共 427 条推文
+
+---
+
+## 2026-07-19 07:03:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天做的凉皮，有人说“姐是陕西人呀” 今天一早给儿子做的煎饼果子，所以我是哪里人呀？
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH62pcCXf4HSq7TPNLUcmm1VYZoYDFAAKmFGsbe_LhVkoigXMyVK4oAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078616678800503232#m)
 
 ---
 
