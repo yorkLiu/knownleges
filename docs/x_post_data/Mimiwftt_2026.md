@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 420 条推文
+> 📊 推文存档 - 共 424 条推文
 
 ---
 
@@ -179,10 +179,6 @@ R to @Mimiwftt: 论“逆人性操作的重要性”
 
 晚安💤
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH52pbf3Bc4p_ywLu3wkAi8zd4hwlWAAJDD2sbxKvhVq-40i99lUB6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078462020098367828#m)
-
 ---
 
 ## 2026-07-18 21:02:48
@@ -192,14 +188,6 @@ R to @Mimiwftt: 论“逆人性操作的重要性”
 **内容**:
 
 看看6/6我都跟你们说过什么！ 这不是个例，是个普遍现象！所有机构抱团股都是这样的结果！
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH5Gpbf2VMTAwYbizUKFahROdFsS3oAAJAD2sbxKvhVglh7wsweV78AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH5Wpbf2nNy9664QNLVvu_3Tuk79-mAAJBD2sbxKvhVt6AoDUsFzkDAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH5mpbf23zPYtVBFKy3mUr7Uxy3jxVAAJCD2sbxKvhVsVHLqNnrIEfAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078465510904398072#m)
 
 ---
 
@@ -211,7 +199,53 @@ R to @Mimiwftt: 论“逆人性操作的重要性”
 
 结果就是“机构踩踏”
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078465653355491539#m)
+---
+
+## 2026-07-18 21:18:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我当初就说过，牛市到了后半段，真正该跟的是养老、社保这些长期资金。 结果还有不少人跟我抬杠，说公募资金规模那么大，当然要跟公募。 其实他们没想明白一点：公募的钱本质上都是基民的钱，基金经理管的是别人的钱。牛市越疯狂，基民越爱申购，公募就有源源不断的增量资金进来，很多时候只能被动接盘，最后反而成了产业资本和大股东减持套现的接盘侠。 养老、社保就不一样了，它们是真正的长期资金，更看重估值和长期回报，不会因为市场情绪高涨就一路追高，更不会轻易在牛市最疯狂的时候冲进去站岗。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078469418687033613#m)
+
+---
+
+## 2026-07-18 21:20:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新粉儿也就算了，老粉丝你们如果追涨我提到的个股回撤后就来问我，我不会理你们的。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078469886607818866#m)
+
+---
+
+## 2026-07-18 21:25:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我累了。 该说的话，我都已经说了，而且不是说一天两天，而是苦口婆心地讲了一年半。逻辑、数据、历史案例，我都尽可能掰开揉碎地讲，希望能帮大家少走弯路、少踩一些坑。 但如果讲了一年半，还是改变不了一些人的思维方式，还是眼里只有“6位代码”，那我也无能为力了。 投资最终拼的不是谁声音大，而是谁的认知更接近市场规律。认知改变不了，再多的分析也是白费。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078471230529954164#m)
+
+---
+
+## 2026-07-18 21:33:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+去年我就说过，如果熊市来了，我会注销账号离开。 是我不想看到一群人在高位追进去，最后被深套，然后评论区每天都是哀嚎遍野、后悔莫及。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078473194516963569#m)
 
 ---
 
