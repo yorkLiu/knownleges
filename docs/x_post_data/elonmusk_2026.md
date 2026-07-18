@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1261 条推文
+> 📊 推文存档 - 共 1262 条推文
 
 ---
 
@@ -199,10 +199,6 @@ Easy predictions
 
 RT by @elonmusk: GROK 4.5 IS NOW ON THE FRONTIERCODE LEADERBOARD Cognition just launched the FrontierCode leaderboard — a new benchmark specifically designed to track which AI models are writing code you’d actually merge into production. Unlike many synthetic benchmarks, FrontierCode focuses on real-world usability, with full methodology and sample tasks publicly available. Grok 4.5 is included in the rankings alongside other top models. This is another step toward measuring what actually matters for developers: code that works, integrates cleanly, and solves real problems.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH42pbTIOX7EftcdJeBP97nkS2eUKqAAL0D2sbxKvZVruwoef7bp3iAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2078367770899542088#m)
-
 ---
 
 ## 2026-07-18 14:38:17
@@ -222,6 +218,20 @@ Grok Build improves almost every day
 **内容**:
 
 Mass drivers on the mf Moon!!
+
+---
+
+## 2026-07-18 22:33:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2077640475075358720_img_uVRDWeTzoCy4Fo_3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078488424894390501#m)
 
 ---
 
