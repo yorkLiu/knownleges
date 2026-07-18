@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1241 条推文
+> 📊 推文存档 - 共 1242 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 Grok 4.5 is arguably #1 when taking speed and cost into account
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxGpaltuHs89LMCzMWOq2PFr1eDfpAALQDmsbxKvZVjIcDW4ckB3oAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2078195617877143895#m)
-
 ---
 
 ## 2026-07-18 03:30:06
@@ -33,7 +29,19 @@ Grok 4.5 is arguably #1 when taking speed and cost into account
 
 Cool
 
-[查看原文](https://nitter.net/elonmusk/status/2078200590765535431#m)
+---
+
+## 2026-07-18 06:49:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok has the best value for coding
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHy2pawnLCv1PbFVEwLHPAIF77xrFNAALsDmsbxKvZVlPb69AvVOmaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078250748920414692#m)
 
 ---
 
