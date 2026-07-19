@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 441 条推文
+> 📊 推文存档 - 共 443 条推文
 
 ---
 
@@ -39,7 +39,31 @@ tags: ["2026"]
 
 x是不是出小问题了？
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078959972436877616#m)
+---
+
+## 2026-07-20 06:04:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不用担心，应该是X的系统问题。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078964264036122907#m)
+
+---
+
+## 2026-07-20 06:27:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+之前自己做的“手绘版简易飞行棋”，一早儿妹妹让我陪她玩儿。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH_2pdUHazqimEz0xf361_II6ESzvGAAKvDmsbe_LxVpH1sdTVD3YPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078970053006127222#m)
 
 ---
 
