@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 244 条推文
+> 📊 推文存档 - 共 245 条推文
+
+---
+
+## 2026-07-20 00:00:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-mpc-T8yGUUuiR1JsxVqxp4llTXMAAKqD2sbe_LpVnNG490_-uHZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2078872580476535295#m)
 
 ---
 
