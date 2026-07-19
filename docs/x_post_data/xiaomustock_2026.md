@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 238 条推文
+> 📊 推文存档 - 共 239 条推文
 
 ---
 
@@ -19,15 +19,19 @@ tags: ["2026"]
 
 你们是什么时候开始知道hbm存储的
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH7WpcHz9VY0Ct5AHouzAjMpCdqnorAAJxDmsbe_LpVoIX8Yyx6_JuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH7mpcH0PMVQOJryS8UxWUyvT4XquhAAJyDmsbe_LpVrgmZcRJSyzgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-19 23:02:00
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH72pcH0fPEbNg-9axayrmRcHHhNFaAAJzDmsbe_LpVlYDT0_Pfp3GAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH8GpcH0vmks4YCnpYJGmUo9vXy0GbAAJ0Dmsbe_LpVovSVLgh7lP_AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/xiaomustock/status/2078640545442996467#m)
+对于顶尖的模型来的算力和内存一直紧缺， 差生只是文具多才出租算力。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH92pc6ra9EgGjgJKyDI_ra6WrPGC6AAKbD2sbe_LpVkB7ID4nnjraAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2078857894511124667#m)
 
 ---
 
