@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 246 条推文
+> 📊 推文存档 - 共 247 条推文
 
 ---
 
@@ -29,9 +29,17 @@ tags: ["2026"]
 
 买了5万刀阿根廷赢，最后一场了想把前面买球输的赚回来。 之前阿根廷那一场对手埃及还是谁进球了，被因为很早之前的踩脚吹掉了， 轮到阿根廷进球踩脚啥事没有。 后面阿根廷打的几局都莫名其妙，对手跟封印了一样只防守不进攻， 感觉是一种无形大手黑幕必须要让阿根廷保送。 巨大的阴谋。 再不赌球了他娘的买啥亏啥，我老是想反买一小博大被爆干，干服了正买又被爆干。🌚 赌球真几把脸黑呐。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-2pdAAGDykjR1m_azkiVJLkO2r-3KQACsA9rG3vy6VaWOwiJleMLMwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2078877540811415949#m)
+## 2026-07-20 06:28:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+完犊子，归零
+
+[查看原文](https://nitter.net/xiaomustock/status/2078970263484686514#m)
 
 ---
 
