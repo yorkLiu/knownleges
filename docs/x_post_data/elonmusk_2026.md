@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1281 条推文
+> 📊 推文存档 - 共 1286 条推文
 
 ---
 
@@ -49,10 +49,6 @@ RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about s
 
 RT by @elonmusk: BREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 🔥 Grok scored 91.3%, solving 21 of 23 real-world software tasks across five languages, beating Claude Fable 5 and GPT-5.6 Sol while also owning the cost-efficiency frontier. Grok keeps winning. 🏆
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH_mpdSS4Dcx0YybG7seUeombAGLk8AAKRDmsbe_LxVj8rmnAcc5C_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2078920456682488189#m)
-
 ---
 
 ## 2026-07-20 04:01:34
@@ -73,8 +69,6 @@ RT by @elonmusk: SpaceX's newest satellites carry about 1,024 gigabits of bandwi
 
 x.com/i/jf/soccer/league/mat…
 
-[查看原文](https://nitter.net/elonmusk/status/2078960011196141571#m)
-
 ---
 
 ## 2026-07-20 05:49:46
@@ -85,7 +79,59 @@ x.com/i/jf/soccer/league/mat…
 
 x.com/i/jf/soccer/league/mat…
 
-[查看原文](https://nitter.net/elonmusk/status/2078960515900940515#m)
+---
+
+## 2026-07-20 06:34:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The @SpaceX team is amazing
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIAmpdXwLesPexMTE9eGu2yn0GaVu_AAK6Dmsbe_LxVlBfPQ9_IBMbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078971746896449595#m)
+
+---
+
+## 2026-07-20 06:34:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Next Starship launch attempt on Friday
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIAWpdXv4F_ih2EOiryQ7tOEkQ3WTGAAK5Dmsbe_LxVjCeLM0AAZ40HQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078971885488919010#m)
+
+---
+
+## 2026-07-20 06:37:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🇪🇸 🇪🇸 Congratulations Spain!! 🇪🇸 🇪🇸
+
+[查看原文](https://nitter.net/elonmusk/status/2078972489925812454#m)
+
+---
+
+## 2026-07-20 06:39:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is good at predictions
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIAAFqXV76E0kmxx-dpBtBnAABMkw2feMAArgOaxt78vFWhaaQUcX-QNsBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078973008358555851#m)
 
 ---
 
@@ -137,10 +183,6 @@ RT by @elonmusk: Gold rush
 
 RT by @elonmusk: Throwback to 2014: Elon Musk gives a tour inside the brand-new Dragon V2 An early glimpse of Elon showing America the spacecraft that would eventually restore its ability to launch astronauts into orbit from its own soil
 
-<img src="/images/elonmusk/amplify_video_thumb_2078515211879796736_img_zI1u32O2WxcqaAGk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2078614590934733223#m)
-
 ---
 
 ## 2026-07-19 12:05:25
@@ -163,6 +205,18 @@ Video
 
 ---
 
+## 2026-07-19 21:35:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Back then she was a young 55 year old with crazy ideas
+
+[查看原文](https://nitter.net/adamcarolla/status/2078836217378975750#m)
+
+---
+
 ## 2026-07-19 22:14:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -170,8 +224,6 @@ Video
 **内容**:
 
 RT by @elonmusk: The faster we reach better intelligence, the faster we reach abundance, and the faster we stop having to fight over anything at all.
-
-[查看原文](https://nitter.net/PeterDiamandis/status/2078845834331054221#m)
 
 ---
 
