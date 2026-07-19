@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 209 条推文
+> 📊 推文存档 - 共 210 条推文
 
 ---
 
@@ -59,7 +59,17 @@ tags: ["2026"]
 
 乾貨，不解釋（Substack 同步直播）https://x.com/i/spaces/1pKkOOzWjWVKj
 
-[查看原文](https://nitter.net/dianzhuXS/status/2078768123789115892#m)
+---
+
+## 2026-07-19 20:30:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1pKkOOzWjWVKj
+
+[查看原文](https://nitter.net/dianzhuXS/status/2078819668228514287#m)
 
 ---
 
