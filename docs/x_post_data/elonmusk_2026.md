@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1278 条推文
+> 📊 推文存档 - 共 1281 条推文
 
 ---
 
@@ -39,7 +39,19 @@ Wow
 
 RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about seventy five dollars for three minutes, more than a thousand in today's money. Right now you can see a face on the other side of the planet, in real time, for free.
 
-[查看原文](https://nitter.net/PeterDiamandis/status/2078903115248460118#m)
+---
+
+## 2026-07-20 03:10:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 🔥 Grok scored 91.3%, solving 21 of 23 real-world software tasks across five languages, beating Claude Fable 5 and GPT-5.6 Sol while also owning the cost-efficiency frontier. Grok keeps winning. 🏆
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH_mpdSS4Dcx0YybG7seUeombAGLk8AAKRDmsbe_LxVj8rmnAcc5C_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2078920456682488189#m)
 
 ---
 
@@ -51,7 +63,29 @@ RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about s
 
 RT by @elonmusk: SpaceX's newest satellites carry about 1,024 gigabits of bandwidth each. The generation before carried 96. That is a tenfold leap in a single design cycle, beamed down from orbit. Jumps like that do not happen in industries that have given up, if so can you name me any?
 
-[查看原文](https://nitter.net/PeterDiamandis/status/2078933283539148891#m)
+---
+
+## 2026-07-20 05:47:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/jf/soccer/league/mat…
+
+[查看原文](https://nitter.net/elonmusk/status/2078960011196141571#m)
+
+---
+
+## 2026-07-20 05:49:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/jf/soccer/league/mat…
+
+[查看原文](https://nitter.net/elonmusk/status/2078960515900940515#m)
 
 ---
 
