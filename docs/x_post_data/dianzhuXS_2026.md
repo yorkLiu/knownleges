@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 207 条推文
+> 📊 推文存档 - 共 208 条推文
 
 ---
 
@@ -29,8 +29,6 @@ tags: ["2026"]
 
 跟2019年比是的 不過嘛 過5年再比 那時再買 是又少打了30年工 要論中國的房價 還是馬雲說的對 【房價如蔥】 不是形容詞，是真如蔥！
 
-[查看原文](https://nitter.net/dianzhuXS/status/2078630058252804415#m)
-
 ---
 
 ## 2026-07-19 08:05:33
@@ -41,7 +39,19 @@ tags: ["2026"]
 
 來條短的 目前牆國的走勢 結局無非就兩個可能性 一個亂死 一個爛死 沒有第三種😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://nitter.net/dianzhuXS/status/2078632296677302415#m)
+---
+
+## 2026-07-19 10:29:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有毒的基本盤，簡稱「毒盤盤」
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2078659894476210176_img_lWXRUK0npPfKcDXP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2078668643060297851#m)
 
 ---
 
