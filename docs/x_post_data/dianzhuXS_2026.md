@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 208 条推文
+> 📊 推文存档 - 共 209 条推文
 
 ---
 
@@ -49,9 +49,17 @@ tags: ["2026"]
 
 有毒的基本盤，簡稱「毒盤盤」
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2078659894476210176_img_lWXRUK0npPfKcDXP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2078668643060297851#m)
+## 2026-07-19 17:05:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+乾貨，不解釋（Substack 同步直播）https://x.com/i/spaces/1pKkOOzWjWVKj
+
+[查看原文](https://nitter.net/dianzhuXS/status/2078768123789115892#m)
 
 ---
 
