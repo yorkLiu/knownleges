@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 429 条推文
+> 📊 推文存档 - 共 431 条推文
 
 ---
 
@@ -39,7 +39,31 @@ Pinned: 【mi姐说】 很多人目前还在纠结市场到底是牛市还是熊
 
 下午中国时间15点space
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078660645013397961#m)
+---
+
+## 2026-07-19 11:27:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+午餐变四川人了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH8mpcSt4z4PGLOwVq-kbDNfsGv5QmAAKRDmsbe_LpViwKWvJVrXAPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078683080282587376#m)
+
+---
+
+## 2026-07-19 11:34:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @Mimiwftt: 儿子这两天回家钦点了些他想吃的。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078684968835010691#m)
 
 ---
 
