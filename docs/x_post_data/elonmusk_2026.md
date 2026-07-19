@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1272 条推文
+> 📊 推文存档 - 共 1276 条推文
+
+---
+
+## 2026-07-20 00:28:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Way more than a billion
+
+[查看原文](https://nitter.net/elonmusk/status/2078879781806919870#m)
+
+---
+
+## 2026-07-20 00:30:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+<img src="/images/elonmusk/amplify_video_thumb_2078558410329513984_img_X9qTUW3aqK5iHJz6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078880263556243538#m)
 
 ---
 
@@ -51,6 +77,20 @@ RT by @elonmusk: Gold rush
 
 ---
 
+## 2026-07-19 06:55:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Throwback to 2014: Elon Musk gives a tour inside the brand-new Dragon V2 An early glimpse of Elon showing America the spacecraft that would eventually restore its ability to launch astronauts into orbit from its own soil
+
+<img src="/images/elonmusk/amplify_video_thumb_2078515211879796736_img_zI1u32O2WxcqaAGk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2078614590934733223#m)
+
+---
+
 ## 2026-07-19 12:05:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -69,9 +109,17 @@ Try Grok Build
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2078647190453411840_img_yx0nMUmG-ahjAnF-.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2078741450812965182#m)
+## 2026-07-19 22:14:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The faster we reach better intelligence, the faster we reach abundance, and the faster we stop having to fight over anything at all.
+
+[查看原文](https://nitter.net/PeterDiamandis/status/2078845834331054221#m)
 
 ---
 
