@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1267 条推文
+> 📊 推文存档 - 共 1271 条推文
 
 ---
 
@@ -29,7 +29,47 @@ Robot fights are fun 😂
 
 RT by @elonmusk: Big updates next week :)
 
-[查看原文](https://nitter.net/milichab/status/2078543365101216077#m)
+---
+
+## 2026-07-19 02:23:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Every person living in a western nation needs to listen to every word of this Katherine Berbalsingh went to the University of Oxford and is Headmaster at Michaela Community School in London, UK She PERFECTLY explains the mass indoctrination into the narrative of oppressor and oppressed, and of hating White People I will write only some of this out because it’s very important, however you should listen to it so you can hear the passion: “The culture shift comes from what children learn at school and online. Ask any young person what history they learned at school, and they’ll tell you, Hitler. Ask them what else? Slavery. Ask them what else? American civil rights. In fact, what little they know of history will be all about Black and brown people fighting for equality against the white man, women fighting men for the vote, gay and trans people fighting for various rights. Our young people have been taught that history is simply one long story about various groups struggling under the oppressive dead white man. — History is taught through an oppressor lens. The triangular slave trade, white men held the power. What about Britain ending the slave trade? More than a quick mention, if at all? Mm, no. What of the Arab slave trade that lasted 3 times as long as the triangular slave trade? Mm, no. Okay, so GCSE history in Britain is often taught as migration through time, so the idea that Britain has always been a land of immigrants is embedded in our children’s heads. Most schools would prefer to concentrate learning about the tiny number of Black people who existed in Tudor England over a thorough analysis of England’s break from Rome. — Not to mention weeks on King Mansa Musa of Mali because he was a Black Muslim. His bearing on British institutions, laws, and faith is nonexistent. And the fact that he is said to have been the richest man in history, thanks in part to his massive slave-owning society, is a detail somehow that teachers rarely ever teach. But it isn’t just our schools. It’s our general culture too. Take your kids to a museum or an art gallery in any Western country, and you’ll find the same narrative. As an example, when learning about aviation in London’s Science Museum and the extraordinary feat that is man making massive machines move in the sky, a write-up on the wall explains that women and Black people were historically barred from aviation schools and the military. Similarly, James Watt, the man who invented the steam engine and is considered the founder of the Industrial Revolution, has a write-up on the wall explaining that his early career involved slave trafficking, with a bonus analysis of the whole of Britain’s complicity in the slave trade. They flatten the entire human story and all of its complexities into the narrative of oppressor and oppressed, leaving young people unable to see the world in any other terms.” We have to end the mass indoctrination
+
+<img src="/images/elonmusk/amplify_video_thumb_2078545997899460608_img_0fj38WwlZI6rytef.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/WallStreetApes/status/2078546257354907778#m)
+
+---
+
+## 2026-07-19 03:29:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Gold rush
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH82pcWWSw1wN-OaihBVweKyQBBPzbAAKjDmsbe_LpVvlrsjuAavlBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/robotaxi/status/2078562760942850182#m)
+
+---
+
+## 2026-07-19 12:05:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok Build
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH9WpcWWyOxXFcIZVf0zr40ie2iMmDAAKlDmsbe_LpVj95rdxZ_tzMAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078692662345888102#m)
 
 ---
 
@@ -50,10 +90,6 @@ RT by @elonmusk: The beginning of the Megacharger network Build-out is focused o
 **内容**:
 
 RT by @elonmusk: Olive Garden implemented the SAVE America Act more quickly than the US Senate.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH8WpcH09HJTQHHSZfSfW_tSjkp8XzAAJ1Dmsbe_LpVqIE8NNoQsV-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ScottPresler/status/2078185742480597122#m)
 
 ---
 
@@ -264,6 +300,20 @@ Grok Build improves almost every day
 **内容**:
 
 Mass drivers on the mf Moon!!
+
+---
+
+## 2026-07-18 16:52:13
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Build is becoming a complete environment for building, deploying and managing real-world applications Its plugin marketplace brings the entire development stack into one connected workflow: • Vercel for deployment • Sentry for monitoring • Chrome DevTools for debugging • Cloudflare for infrastructure • Supabase, MongoDB and Neon for databases • Firecrawl for web data • Figma for design • Railway for hosting • Stripe for payments You are not just asking Grok to write code You can build, test, debug, connect infrastructure, deploy and manage production without constantly switching between tools Grok Build combines a frontier model, a powerful agentic harness and all the tools needed to go from an idea to a shipped product
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH9GpcWWmGbHSoQIIfAAHkr04ZrvyFKQACpA5rG3vy6VbCRqdGhIU8QAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2078402450738893169#m)
 
 ---
 
