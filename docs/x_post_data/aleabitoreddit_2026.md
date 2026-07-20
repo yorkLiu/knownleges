@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 311 条推文
+> 📊 推文存档 - 共 312 条推文
 
 ---
 
@@ -19,11 +19,23 @@ tags: ["2026"]
 
 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the shower. But does look like Neoclouds/Colo players are sharply recovering following new catalysts, such as Kimi compute shortage news and new contracts.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIImpeXVrmgp9QElRw4Uft1ZPzIb01AAKsE2sbHzT5VmbyVuf67W88AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIII2peXV69gkmdo6KX257HdU2TJfYJAAKtE2sbHzT5VgAB2coENfwdmgEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 03:36:23
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2079254669793316962#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+TBH, casually posting novel information discovery to X is how research should be done. Apparently this was #16 on the Smale's list of Mathematical Problems for the Next Century? Kinda shows that the value generated from AI does not scale linearly with token costs... After seeing this, bears are still probably going to say: "B-but where's the profit coming from after AI usage?" AI + capex is likely going to keep going brrr.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIJmpegaxqk1Fg_wkC8q65fmN6pMEEAALQE2sbHzT5VgWA_zUWFUCvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIJ2pegbCDaIAvONNqgH3tJ6558TtPAALRE2sbHzT5Vt4gqv2fmsteAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKGpegbWIF5OrUwU1GA5UMnGwjr8GAALSE2sbHzT5VmcqO1ZVcv4LAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079289335351062693#m)
 
 ---
 
