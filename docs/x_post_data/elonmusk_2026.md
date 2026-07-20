@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1289 条推文
+> 📊 推文存档 - 共 1290 条推文
 
 ---
 
@@ -131,6 +131,20 @@ Try Grok 4.5!
 
 ---
 
+## 2026-07-20 07:41:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: An absolutely incredible performance by Spain to take home the World Cup! 🇪🇸🏆 So well-deserved, just a beautiful display of teamwork all tournament. Congratulations to Argentina & Messi on a great run. And huge kudos to all of the teams and fans around the world for making this World Cup so memorable, already looking forward to 2030!
+
+<img src="/images/elonmusk/amplify_video_thumb_2078988187112992768_img_6aLfJVOQBpB_6KDC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/sundarpichai/status/2078988716950065383#m)
+
+---
+
 ## 2026-07-20 09:06:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -138,8 +152,6 @@ Try Grok 4.5!
 **内容**:
 
 R to @elonmusk: I mean Thursday (duh)
-
-[查看原文](https://nitter.net/elonmusk/status/2079010090036641831#m)
 
 ---
 

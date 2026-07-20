@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 463 条推文
+> 📊 推文存档 - 共 469 条推文
 
 ---
 
@@ -239,10 +239,6 @@ x是不是出小问题了？
 
 我就没有这种“偏财”运。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIFGpdkeAUu2Ij0t56y_dYazzLB13zAAL1Dmsbe_LxVlXxYUk46QABVQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079032550832713852#m)
-
 ---
 
 ## 2026-07-20 10:54:26
@@ -252,8 +248,6 @@ x是不是出小问题了？
 **内容**:
 
 双创方向短期不会有大行情，没有主升浪。 高位震荡是短期最好的走势。 不听劝的尽管去撞“南墙”
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079037184204738647#m)
 
 ---
 
@@ -265,7 +259,79 @@ x是不是出小问题了？
 
 x.com/i/spaces/1AKEmmLdaNbKL
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079038753470070932#m)
+---
+
+## 2026-07-20 11:42:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...1140」，点击链接或复制整段内容，打开「夸克APP」即可获取。 /~907d3Zfp7A~:/ 链接：https://pan.quark.cn/s/8b041ed0dd87
+
+[查看原文](https://nitter.net/Qushi1213/status/2079049311913168971#m)
+
+---
+
+## 2026-07-20 11:50:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+以后我尽量语音聊，纯文字容易引起误会。 你们也尽量多听语音，文字版的话个人理解力不同也会有偏差。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIF2pdoGp2jEjEP55hqgs4EY6RvXZdAAJgEWsbHzTxVvIfZMgHwcbgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079051312990458081#m)
+
+---
+
+## 2026-07-20 11:56:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我并没有说过我看大盘看到什么点位！别他妈的给我造谣！傻逼！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079052916468662333#m)
+
+---
+
+## 2026-07-20 11:57:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你们想玩儿就自己好好玩儿！别他妈的总跟我比！有病吧！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079053144135520303#m)
+
+---
+
+## 2026-07-20 11:58:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+傻逼！给我滚！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079053183876567356#m)
+
+---
+
+## 2026-07-20 11:59:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+他妈的听不懂人话！不知道什么叫走一步看一步！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079053441373237429#m)
 
 ---
 
