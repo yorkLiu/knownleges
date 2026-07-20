@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 45 条推文
+> 📊 推文存档 - 共 46 条推文
+
+---
+
+## 2026-07-21 01:09:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+量价背离，从来不是什么好信号。 今日布局禾望 今天成交额放大到2.7万亿，但主力资金净流出高达600多亿——钱在进，人在跑，两边互道一声珍重。 日线与周线同步收出星线，十字星也好，螺旋桨也罢，形态本身不重要，重要的是它出现的位置。当前位置，多空激烈博弈，方向还没定。 两种走法：要么站稳平台，以时间换空间，慢慢磨上去；要么守不住，往下再踩一脚。 哪一种概率更大？不确定。但可以确定的是，放量滞涨+资金背离，说明这里不是所有人都想继续往上推。有人已经在悄悄撤退了。 眼下不是下重注的时候。等方向，比猜方向更重要。站稳了再说，站不稳就等那个更安全的点位。 别急着抢跑，市场不缺机会，缺的是耐心。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIIWpeXVMIKP-ZkY4JAAFXA3vCfTpiJgACqxNrGx80-VZs7NPGukB7QgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2079252323738820972#m)
 
 ---
 
