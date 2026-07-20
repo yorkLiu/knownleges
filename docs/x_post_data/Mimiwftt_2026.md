@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 460 条推文
+> 📊 推文存档 - 共 463 条推文
 
 ---
 
@@ -209,12 +209,6 @@ x是不是出小问题了？
 
 这不是最重要的！ 重要的是我看多航空装备，高位套牢比较多的商业航天今天其实并没有很大涨幅。 要记住，博弈就是，资金会向阻力最小的方向流入。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIEWpdipeUV84NkR2Xq7nRgf5xWOt7AALmDmsbe_LxVgR0mpXPTUJhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIEmpdipsPG58_zD-GRfUcYfCVaWjwAALnDmsbe_LxVslYs53SFu1rAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079025031372493094#m)
-
 ---
 
 ## 2026-07-20 10:08:50
@@ -224,8 +218,6 @@ x是不是出小问题了？
 **内容**:
 
 底部板块没必要高抛低吸，只有低吸的价值。 高位板块别在恐慌中割肉，后面还会有诱多拉升，到时择机高抛离场。
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079025709205626905#m)
 
 ---
 
@@ -237,7 +229,43 @@ x是不是出小问题了？
 
 不知道低吸哪里的去低吸大金融。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079027997160636767#m)
+---
+
+## 2026-07-20 10:36:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我就没有这种“偏财”运。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIFGpdkeAUu2Ij0t56y_dYazzLB13zAAL1Dmsbe_LxVlXxYUk46QABVQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079032550832713852#m)
+
+---
+
+## 2026-07-20 10:54:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+双创方向短期不会有大行情，没有主升浪。 高位震荡是短期最好的走势。 不听劝的尽管去撞“南墙”
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079037184204738647#m)
+
+---
+
+## 2026-07-20 11:00:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1AKEmmLdaNbKL
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079038753470070932#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 212 条推文
+> 📊 推文存档 - 共 213 条推文
 
 ---
 
@@ -29,7 +29,17 @@ tags: ["2026"]
 
 不改革政體，單純經濟上的所謂「改革開放」，就是「韜光養晦」，翻譯成人話就是「偷和騙全世界的錢」🧐
 
-[查看原文](https://nitter.net/dianzhuXS/status/2079030160989499443#m)
+---
+
+## 2026-07-20 10:50:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+入門必聽，昨天直播的錄音 真想學的，不管以前在哪跟誰學過 在我這，都得從頭來 https://substack.com/@dianzhuxs/note/p-207650234?r=8moxkp&utm_medium=ios&utm_source=notes-share-action
+
+[查看原文](https://nitter.net/dianzhuXS/status/2079036138002829577#m)
 
 ---
 
