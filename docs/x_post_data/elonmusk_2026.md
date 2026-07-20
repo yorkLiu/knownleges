@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1287 条推文
+> 📊 推文存档 - 共 1288 条推文
 
 ---
 
@@ -129,9 +129,17 @@ Grok is good at predictions
 
 Try Grok 4.5!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH_mpdSS4Dcx0YybG7seUeombAGLk8AAKRDmsbe_LxVj8rmnAcc5C_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2078987522927972695#m)
+## 2026-07-20 09:06:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: I mean Thursday (duh)
+
+[查看原文](https://nitter.net/elonmusk/status/2079010090036641831#m)
 
 ---
 

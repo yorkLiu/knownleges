@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 449 条推文
+> 📊 推文存档 - 共 453 条推文
 
 ---
 
@@ -109,14 +109,6 @@ x是不是出小问题了？
 
 这个Ai总结的还可以。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIBmpdbYyZm7c4a4gB6DfD_NgHfon2AALJDmsbe_LxVsmLN8iYgUdKAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIB2pdbY9Lc81Otg5w1J27peozCIJjAALKDmsbe_LxVtqeqPMmZx96AQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIICGpdbZMYcFJa0oviUgaBu4FzgfovAALLDmsbe_LxVlj1OTQwL0z1AQADAgADeQADPQQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2078993776627089832#m)
-
 ---
 
 ## 2026-07-20 08:20:23
@@ -127,9 +119,61 @@ x是不是出小问题了？
 
 我们先要感谢他能把自己的经历讲出来。 我之前一直压着大家不要去跟风追涨加速段的高位科技，同时让大家拿住已经处在下跌尾声的板块，目的就是防止让你们两头挨打，最后血本无归。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIBWpdbYhhnbJGqa7ZguKF3dBYvy10AALIDmsbe_LxVjCgodtLdIrwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078998418517819647#m)
+## 2026-07-20 09:27:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+周五低吸的，把低吸的仓位1840先出来。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqmpZvOipw_baOXwBv9aVDlSQbGPaAALXEWsbxKvRVtx5nu6JJukFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079015268161048959#m)
+
+---
+
+## 2026-07-20 09:30:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+科技方向反弹预期降低一些。先高抛出来，等后期筑底再说。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqGpZvN1d_yi5QLVnQXq1Pk01rslYAALVEWsbxKvRVp5F2HO3xoToAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqWpZvOEbPf5er4LZDyVSBrncB3e9AALWEWsbxKvRVqpWBAzoEcdwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079015994169905495#m)
+
+---
+
+## 2026-07-20 09:32:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这就是周末复盘说的普反，后期会分化 绝对不要去高位，低位才有价值。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIICWpdfA9F6d7HkNEokH6k7D4HMOw0AALRDmsbe_LxVvch7UCNmYkXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079016551093882957#m)
+
+---
+
+## 2026-07-20 09:37:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+想抄底的今天不能进。等回落。 量能不够，当心回落！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079017933192503399#m)
 
 ---
 
