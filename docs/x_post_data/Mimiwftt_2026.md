@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 447 条推文
+> 📊 推文存档 - 共 449 条推文
 
 ---
 
@@ -89,8 +89,6 @@ x是不是出小问题了？
 
 那些高喊“高位科技YYDS”的人，和那些把“阿根廷永远的神”挂在嘴边的人，本质上是一类人。 他们买的是信仰，是情绪。 可资本市场从来不是靠信仰运行，而是靠资金、估值、预期和博弈。市场不会因为你相信什么，就朝着你希望的方向发展。 在零和博弈的市场里，最可怕的从来不是波动，而是情绪。恐惧和贪婪会放大每一次涨跌，信仰会遮蔽判断，而真正稀缺的，恰恰是理性和客观。 薛伯伯说过一句话：“忙者不会，会者不忙。” 很多不懂博弈的人，总担心错过下一次暴富的机会，看到别人赚钱就心痒，看到热点上涨就忍不住追，生怕自己慢一步就与财富失之交臂。 可真正懂市场的人，往往没有那么着急。他们愿意为了更高的确定性，主动放弃很多看似诱人的小机会。因为他们知道，股市里永远不缺机会，真正稀缺的是识别机会、把握机会和守住机会的能力。 不会因为一根阳线就改变信仰，也不会因为几天调整就否定逻辑。他们更在意的是赔率、胜率，以及风险收益比，而不是一时的涨跌。 《孙子兵法》有言：“善猎者，必善等待；善战者，无赫赫之功。” 真正优秀的猎人，不会看到猎物就开枪，而是耐心等待最佳时机；真正高明的将领，也不是靠每一场惊心动魄的大胜闻名，而是因为他的决策足够稳健，很少犯错。 投资亦是如此。 很多时候，等待本身就是一种能力，空仓也是一种仓位，不交易也是一种交易。 能够克制冲动，耐得住寂寞，等得到属于自己的机会，比频繁操作更重要。 所以，与其每天追逐热点、沉迷情绪、为信仰买单，不如多学习、多思考、多复盘，建立属于自己的交易体系。 市场每天都有机会，但并不是每一个机会都属于你。 真正成熟的投资者，不是做得最多的人，而是做对得最多的人。 多学习，勤思考；少冲动，少折腾。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078988400103915878#m)
-
 ---
 
 ## 2026-07-20 07:54:22
@@ -101,9 +99,37 @@ x是不是出小问题了？
 
 昨天语音复盘重点提到的就是这些。 以后有时间多来听语音，Ai总结的语音复盘有很多不准确的地方。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIBGpdZkEeFAzjL0XfBf78scI9lOJUAALCDmsbe_LxVhsnGlmzHJoRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2078991872916418826#m)
+## 2026-07-20 08:01:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这个Ai总结的还可以。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIBmpdbYyZm7c4a4gB6DfD_NgHfon2AALJDmsbe_LxVsmLN8iYgUdKAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIB2pdbY9Lc81Otg5w1J27peozCIJjAALKDmsbe_LxVtqeqPMmZx96AQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIICGpdbZMYcFJa0oviUgaBu4FzgfovAALLDmsbe_LxVlj1OTQwL0z1AQADAgADeQADPQQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078993776627089832#m)
+
+---
+
+## 2026-07-20 08:20:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我们先要感谢他能把自己的经历讲出来。 我之前一直压着大家不要去跟风追涨加速段的高位科技，同时让大家拿住已经处在下跌尾声的板块，目的就是防止让你们两头挨打，最后血本无归。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIBWpdbYhhnbJGqa7ZguKF3dBYvy10AALIDmsbe_LxVjCgodtLdIrwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2078998418517819647#m)
 
 ---
 

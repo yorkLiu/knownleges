@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1286 条推文
+> 📊 推文存档 - 共 1287 条推文
 
 ---
 
@@ -89,10 +89,6 @@ x.com/i/jf/soccer/league/mat…
 
 The @SpaceX team is amazing
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIAmpdXwLesPexMTE9eGu2yn0GaVu_AAK6Dmsbe_LxVlBfPQ9_IBMbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2078971746896449595#m)
-
 ---
 
 ## 2026-07-20 06:34:57
@@ -102,10 +98,6 @@ The @SpaceX team is amazing
 **内容**:
 
 Next Starship launch attempt on Friday
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIAWpdXv4F_ih2EOiryQ7tOEkQ3WTGAAK5Dmsbe_LxVjCeLM0AAZ40HQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2078971885488919010#m)
 
 ---
 
@@ -117,8 +109,6 @@ Next Starship launch attempt on Friday
 
 🇪🇸 🇪🇸 Congratulations Spain!! 🇪🇸 🇪🇸
 
-[查看原文](https://nitter.net/elonmusk/status/2078972489925812454#m)
-
 ---
 
 ## 2026-07-20 06:39:25
@@ -129,9 +119,19 @@ Next Starship launch attempt on Friday
 
 Grok is good at predictions
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIAAFqXV76E0kmxx-dpBtBnAABMkw2feMAArgOaxt78vFWhaaQUcX-QNsBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2078973008358555851#m)
+## 2026-07-20 07:37:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.5!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH_mpdSS4Dcx0YybG7seUeombAGLk8AAKRDmsbe_LxVj8rmnAcc5C_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2078987522927972695#m)
 
 ---
 
