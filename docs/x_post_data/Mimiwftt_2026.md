@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 472 条推文
+> 📊 推文存档 - 共 473 条推文
 
 ---
 
@@ -329,12 +329,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 
 5/7大盘没破位。看多有错吗？ 大盘破位4000了让大家谨慎，有错吗？ 天天追着我的过去的观点有意思吗？ 看看时间，兄弟！真他妈的搞笑！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIGGpdp6uH_HPwR6_k7fMHwczeER97AAKXEWsbHzTxVgyi1srG2yevAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIGWpdp68DDYo3BXyMHtcz4KMk-PG0AAKYEWsbHzTxVgRPWmQDQab_AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079057903810707463#m)
-
 ---
 
 ## 2026-07-20 12:18:13
@@ -344,8 +338,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 **内容**:
 
 是不是我太少出错了，就恨不得抓住我的小辫子黑？
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079058269063319740#m)
 
 ---
 
@@ -357,7 +349,17 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 
 嫉妒，真的会让人面目全非。 我是真不理解有些人，天天盯着我，恨不得拿放大镜找我哪里说错、做错。既然这么不喜欢我，那还天天追着看我的观点干嘛？甚至录屏、逐句分析，图什么？ 吃着我的、喝着我的，最后还反过来砸我的锅。 你们见过我天天跑去评论哪个博主吗？我从来不跟别人较劲，我只跟昨天的自己比。 我唯一在意的，就是今天的自己有没有比昨天更好一点。
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079062580203864259#m)
+---
+
+## 2026-07-20 12:47:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你们别猜了！不是黑子，是我曾经很信任的一帮人。去年的事儿一直延续至今。 有一些人是真的又蠢又坏！分不清谁才是值得信赖的。得不到就毁掉呗！ 我看人很准，只要这个人有问题，我不想跟他多讲一句话！ 我离开是有原因的，因为我看到了那些人身上人性的恶！ 我可以接受一个人笨，能力有限，这个是与生俱来的无法改变，但我接受不了一个人坏！尤其是骨子里的坏！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079065571572990040#m)
 
 ---
 
