@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 478 条推文
+> 📊 推文存档 - 共 479 条推文
 
 ---
 
@@ -369,8 +369,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 
 薛伯伯说过：“想拯救散户的都是傻逼”！ 我一没收学费，二没给你们挖坑，抄底逃顶一个不落，还耐心教你们技术逻辑，带着你们走正路！ 那些“叛徒”你们良心上过得去吗？
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079073744182710276#m)
-
 ---
 
 ## 2026-07-20 13:28:07
@@ -380,10 +378,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 **内容**:
 
 Image
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIG2pdtjZWhU5ECtSeljSBKquvW_oYAALsEWsbHzTxVixOqvgwKb1DAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079075863065432115#m)
 
 ---
 
@@ -395,8 +389,6 @@ Image
 
 我他妈收了谁的钱了！傻逼
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079078704668712986#m)
-
 ---
 
 ## 2026-07-20 13:41:36
@@ -406,10 +398,6 @@ Image
 **内容**:
 
 去年刚来X我就说了，一般人是接不住我的真诚的。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIGmpdtjJizWZIAAGCXOVsz7clZh1aawAC6xFrGx808VZyinfUam472AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079079254076399826#m)
 
 ---
 
@@ -421,7 +409,19 @@ Image
 
 回落了吧！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079080452670009517#m)
+---
+
+## 2026-07-20 14:06:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+以后你们自己玩儿吧！别他妈的再来我这里找存在感！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIHGpdvXd0SK-Mn1sAAXNp8h2ilxI9WQACUxJrGx808VbpuGzTuse5aAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079085479765705019#m)
 
 ---
 
