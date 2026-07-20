@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 469 条推文
+> 📊 推文存档 - 共 472 条推文
 
 ---
 
@@ -269,8 +269,6 @@ x.com/i/spaces/1AKEmmLdaNbKL
 
 RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...1140」，点击链接或复制整段内容，打开「夸克APP」即可获取。 /~907d3Zfp7A~:/ 链接：https://pan.quark.cn/s/8b041ed0dd87
 
-[查看原文](https://nitter.net/Qushi1213/status/2079049311913168971#m)
-
 ---
 
 ## 2026-07-20 11:50:34
@@ -280,10 +278,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 **内容**:
 
 以后我尽量语音聊，纯文字容易引起误会。 你们也尽量多听语音，文字版的话个人理解力不同也会有偏差。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIF2pdoGp2jEjEP55hqgs4EY6RvXZdAAJgEWsbHzTxVvIfZMgHwcbgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079051312990458081#m)
 
 ---
 
@@ -295,8 +289,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 
 我并没有说过我看大盘看到什么点位！别他妈的给我造谣！傻逼！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079052916468662333#m)
-
 ---
 
 ## 2026-07-20 11:57:51
@@ -306,8 +298,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 **内容**:
 
 你们想玩儿就自己好好玩儿！别他妈的总跟我比！有病吧！
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079053144135520303#m)
 
 ---
 
@@ -319,8 +309,6 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 
 傻逼！给我滚！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079053183876567356#m)
-
 ---
 
 ## 2026-07-20 11:59:02
@@ -331,7 +319,45 @@ RT by @Mimiwftt: 今日录音~ 我用夸克网盘给你分享了「video_to...11
 
 他妈的听不懂人话！不知道什么叫走一步看一步！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079053441373237429#m)
+---
+
+## 2026-07-20 12:16:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+5/7大盘没破位。看多有错吗？ 大盘破位4000了让大家谨慎，有错吗？ 天天追着我的过去的观点有意思吗？ 看看时间，兄弟！真他妈的搞笑！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIGGpdp6uH_HPwR6_k7fMHwczeER97AAKXEWsbHzTxVgyi1srG2yevAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIGWpdp68DDYo3BXyMHtcz4KMk-PG0AAKYEWsbHzTxVgRPWmQDQab_AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079057903810707463#m)
+
+---
+
+## 2026-07-20 12:18:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+是不是我太少出错了，就恨不得抓住我的小辫子黑？
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079058269063319740#m)
+
+---
+
+## 2026-07-20 12:35:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+嫉妒，真的会让人面目全非。 我是真不理解有些人，天天盯着我，恨不得拿放大镜找我哪里说错、做错。既然这么不喜欢我，那还天天追着看我的观点干嘛？甚至录屏、逐句分析，图什么？ 吃着我的、喝着我的，最后还反过来砸我的锅。 你们见过我天天跑去评论哪个博主吗？我从来不跟别人较劲，我只跟昨天的自己比。 我唯一在意的，就是今天的自己有没有比昨天更好一点。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079062580203864259#m)
 
 ---
 
