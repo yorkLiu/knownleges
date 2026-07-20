@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1292 条推文
+> 📊 推文存档 - 共 1294 条推文
 
 ---
 
@@ -48,6 +48,20 @@ RT by @elonmusk: I'm a cardiologist. Everyone is sharing this study as a skin st
 **内容**:
 
 RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about seventy five dollars for three minutes, more than a thousand in today's money. Right now you can see a face on the other side of the planet, in real time, for free.
+
+---
+
+## 2026-07-20 02:44:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Rome conquered Greece in 146 BC when they burned Corinth to the ground. And then the strangest thing in ancient history happened. The winners spent the next few centuries desperately trying to become the losers. It actually started before the final conquest. When the general Marcellus sacked Syracuse in 211 BC, he shipped boatloads of Greek statues and paintings back to Rome, and the city went crazy for it. Suddenly every rich Roman had to have Greek art in his house. Decades later Cicero built an entire court case around prosecuting a governor named Verres for looting Greek masterpieces, and Romans ate it up. Then came the schools. Wealthy families started buying Greek slaves specifically because they were educated, and handed them the job of raising their children. So the sons of the men who crushed Greece grew up speaking Greek, memorizing Greek poetry, and learning philosophy from Greeks. The elite eventually sent their teenagers abroad to Athens and Rhodes to finish their education, the way people today send kids to study overseas. Cicero did it. Julius Caesar did it. Their gods were Greek gods wearing name tags. Zeus became Jupiter. Hera became Juno. Aphrodite became Venus. Ares became Mars. Same myths, same family drama, mostly just relabeled. Their entertainment was borrowed too. The first big Roman playwrights, Plautus and Terence, basically adapted Greek comedies into Latin. Their doctors were Greek. Their architecture leaned on Greek columns, the Doric and Ionic and Corinthian orders you still see on bank buildings today. And the art obsession left a strange fingerprint on history. Romans loved Greek bronze statues so much that they mass produced marble copies of them. A huge chunk of what people walk past in museums today and call "Greek sculpture" is actually a Roman copy. The Greek originals melted down or vanished long ago. The knockoffs are what survived. Not everyone was thrilled. Cato the Elder spent his whole life warning that Greek culture would rot the Roman character. He sneered at Greek philosophers, distrusted Greek doctors, and wanted them kept out of the city. And then, as an old man, he quietly sat down and learned Greek anyway. Even the loudest hater caved. The trend went all the way to the top. Virgil wrote the Aeneid, Rome's national epic, by openly modeling it on Homer. The emperor Nero competed in Greek games and toured Greece like a superfan. Hadrian was so obsessed he grew a Greek philosopher's beard and poured money into rebuilding Athens. And Marcus Aurelius, master of the entire Roman world, wrote his private journal not in Latin but in Greek, because that was the language of serious thinking. The poet Horace nailed it in a single line: captured Greece took her savage conqueror captive. Rome won every war on the battlefield and then handed its whole soul to the people it had beaten.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIIGpd_ttLCk2dx5SC1PAE6aE-U70OAALkFWsbHzTxVtyDL5Zfj4PLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AncientHistorry/status/2078913853203882238#m)
 
 ---
 
@@ -169,9 +183,17 @@ R to @elonmusk: I mean Thursday (duh)
 
 True
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIH2pd95buFM8k2ipEpkluG5zJ7_vnAALTFWsbHzTxVqho7w6Vy8aUAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2079149795810152550#m)
+## 2026-07-20 18:50:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok
+
+[查看原文](https://nitter.net/elonmusk/status/2079157111183806697#m)
 
 ---
 
