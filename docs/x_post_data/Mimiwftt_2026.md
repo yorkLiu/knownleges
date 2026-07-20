@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 453 条推文
+> 📊 推文存档 - 共 457 条推文
 
 ---
 
@@ -129,10 +129,6 @@ x是不是出小问题了？
 
 周五低吸的，把低吸的仓位1840先出来。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqmpZvOipw_baOXwBv9aVDlSQbGPaAALXEWsbxKvRVtx5nu6JJukFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079015268161048959#m)
-
 ---
 
 ## 2026-07-20 09:30:13
@@ -142,12 +138,6 @@ x是不是出小问题了？
 **内容**:
 
 科技方向反弹预期降低一些。先高抛出来，等后期筑底再说。
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqGpZvN1d_yi5QLVnQXq1Pk01rslYAALVEWsbxKvRVp5F2HO3xoToAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHqWpZvOEbPf5er4LZDyVSBrncB3e9AALWEWsbxKvRVqpWBAzoEcdwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079015994169905495#m)
 
 ---
 
@@ -159,10 +149,6 @@ x是不是出小问题了？
 
 这就是周末复盘说的普反，后期会分化 绝对不要去高位，低位才有价值。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIICWpdfA9F6d7HkNEokH6k7D4HMOw0AALRDmsbe_LxVvch7UCNmYkXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079016551093882957#m)
-
 ---
 
 ## 2026-07-20 09:37:56
@@ -173,7 +159,71 @@ x是不是出小问题了？
 
 想抄底的今天不能进。等回落。 量能不够，当心回落！
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079017933192503399#m)
+---
+
+## 2026-07-20 09:50:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+教学贴，别追了！ 昨天语音中短线的选股方法，交易买点，你们看看吧。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIEGpdg2bIZWw59jpQ1VFj2uR-3jXEAALgDmsbe_LxVmYuOUA1JBRSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079021023056605367#m)
+
+---
+
+## 2026-07-20 09:53:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天大涨的都是我复盘语音给你们的看多的方向
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIDmpdg2Dol3M75L6wSXJRJY5sWHwFAALeDmsbe_LxVkfLAAGfzaGuUgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIID2pdg2NgFBY9B9pSbV_GO6VvZhcSAALfDmsbe_LxVtZN1J1Xkwg0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079021726873313392#m)
+
+---
+
+## 2026-07-20 09:56:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+继续延续周五行情
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIDWpdg1zsQwkOjpe--Dr8xdQ1kO8xAALdDmsbe_LxVoWNExc2c3D7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHnmpZkUd8tdzJdejZsn2zTQI0HYDoAAKdEGsbwyfJVlteKXna-U6fAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHn2pZkUtXkR_bFoMUp7ffYGJT2gdbAAKeEGsbwyfJVvynkZ_gD88AAQEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079022721690931296#m)
+
+---
+
+## 2026-07-20 10:00:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+煤炭7/2开始看多，总有低点低吸的，如果涨起来追，那你就是韭菜！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIICmpdg1Ng7YnP_2ZNhDbd5atMsYQgAALaDmsbe_LxVse6Hwf_mpc3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIC2pdg1YmU3EPNqFbzYzLP2k_2Zt0AALbDmsbe_LxViyBjLTHqHbgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIDGpdg1kFBF_opYTEGEBOnTp0KQR3AALcDmsbe_LxVjNC-u4ODKViAQADAgADeAADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079023596689920171#m)
 
 ---
 
