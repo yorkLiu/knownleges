@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1295 条推文
+> 📊 推文存档 - 共 1296 条推文
 
 ---
 
@@ -171,6 +171,20 @@ R to @elonmusk: I mean Thursday (duh)
 
 ---
 
+## 2026-07-20 13:15:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: • Starship To “Collapse Cost” of AI Compute & Global Communications
+
+<img src="/images/elonmusk/amplify_video_thumb_2079049955948576768_img_0wrBVk5dSqK5oAaY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/stevenmarkryan/status/2079072559673577619#m)
+
+---
+
 ## 2026-07-20 18:21:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -198,8 +212,6 @@ Grok
 **内容**:
 
 RT by @elonmusk: Today is the 57th anniversary of Apollo 11 Moon Landing. In 1969: most powerful technology on Earth = Apollo 11. In 2026: most powerful technology on Earth = 2-trillion-parameter AI. Which one changes civilization more?
-
-[查看原文](https://nitter.net/PeterDiamandis/status/2079196565537993102#m)
 
 ---
 
