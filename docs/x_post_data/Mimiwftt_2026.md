@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 479 条推文
+> 📊 推文存档 - 共 481 条推文
 
 ---
 
@@ -419,9 +419,31 @@ Image
 
 以后你们自己玩儿吧！别他妈的再来我这里找存在感！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIHGpdvXd0SK-Mn1sAAXNp8h2ilxI9WQACUxJrGx808VbpuGzTuse5aAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079085479765705019#m)
+## 2026-07-20 14:35:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+黑粉儿其实倒还好！他们不了解我，无非就是为了黑而黑。 你是老人了小西瓜！最恶心的就是那些虚伪的人，坏到骨子里的身边人！
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079092882775134391#m)
+
+---
+
+## 2026-07-20 14:43:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我真不在意这些外在的东西，名利都没有跟真诚的人在一起最开心！ 这个号我可能注销不了，收不到验证码，推文留给你们慢慢学习吧！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIHmpdxL4OpgcmdtJUC_8QaDgQ-2TGAAJ7EmsbHzTxVuIuEXoPD_rEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079094905218236674#m)
 
 ---
 
