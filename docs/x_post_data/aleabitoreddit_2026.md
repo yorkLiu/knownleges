@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 312 条推文
+> 📊 推文存档 - 共 313 条推文
 
 ---
 
@@ -29,13 +29,19 @@ $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its
 
 TBH, casually posting novel information discovery to X is how research should be done. Apparently this was #16 on the Smale's list of Mathematical Problems for the Next Century? Kinda shows that the value generated from AI does not scale linearly with token costs... After seeing this, bears are still probably going to say: "B-but where's the profit coming from after AI usage?" AI + capex is likely going to keep going brrr.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIJmpegaxqk1Fg_wkC8q65fmN6pMEEAALQE2sbHzT5VgWA_zUWFUCvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIJ2pegbCDaIAvONNqgH3tJ6558TtPAALRE2sbHzT5Vt4gqv2fmsteAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 05:38:14
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKGpegbWIF5OrUwU1GA5UMnGwjr8GAALSE2sbHzT5VmcqO1ZVcv4LAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2079289335351062693#m)
+**内容**:
+
+If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for sentiment having Nvidia be a large shareholder of the Neocloud leader.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKWpensCubhSk-bEP5Gh_M2yLiOy6AAL4E2sbHzT5Vk80LAJPi7lgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079319999915925938#m)
 
 ---
 
