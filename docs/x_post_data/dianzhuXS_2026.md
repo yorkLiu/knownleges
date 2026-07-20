@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 213 条推文
+> 📊 推文存档 - 共 214 条推文
 
 ---
 
@@ -39,7 +39,19 @@ tags: ["2026"]
 
 入門必聽，昨天直播的錄音 真想學的，不管以前在哪跟誰學過 在我這，都得從頭來 https://substack.com/@dianzhuxs/note/p-207650234?r=8moxkp&utm_medium=ios&utm_source=notes-share-action
 
-[查看原文](https://nitter.net/dianzhuXS/status/2079036138002829577#m)
+---
+
+## 2026-07-20 21:38:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+牆國今年的所有極端天氣 跟明年的「人禍」比 都是「弟弟」
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2079199278791380993_img_NPRiyZiJKKCTwBJa.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2079199374291464537#m)
 
 ---
 
