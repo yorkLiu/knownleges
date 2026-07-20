@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @Mimiwftt
 
-> 📊 推文存档 - 共 457 条推文
+> 📊 推文存档 - 共 460 条推文
 
 ---
 
@@ -169,10 +169,6 @@ x是不是出小问题了？
 
 教学贴，别追了！ 昨天语音中短线的选股方法，交易买点，你们看看吧。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIEGpdg2bIZWw59jpQ1VFj2uR-3jXEAALgDmsbe_LxVmYuOUA1JBRSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079021023056605367#m)
-
 ---
 
 ## 2026-07-20 09:53:00
@@ -182,12 +178,6 @@ x是不是出小问题了？
 **内容**:
 
 今天大涨的都是我复盘语音给你们的看多的方向
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIDmpdg2Dol3M75L6wSXJRJY5sWHwFAALeDmsbe_LxVkfLAAGfzaGuUgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIID2pdg2NgFBY9B9pSbV_GO6VvZhcSAALfDmsbe_LxVtZN1J1Xkwg0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079021726873313392#m)
 
 ---
 
@@ -199,14 +189,6 @@ x是不是出小问题了？
 
 继续延续周五行情
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIDWpdg1zsQwkOjpe--Dr8xdQ1kO8xAALdDmsbe_LxVoWNExc2c3D7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHnmpZkUd8tdzJdejZsn2zTQI0HYDoAAKdEGsbwyfJVlteKXna-U6fAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHn2pZkUtXkR_bFoMUp7ffYGJT2gdbAAKeEGsbwyfJVvynkZ_gD88AAQEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Mimiwftt/status/2079022721690931296#m)
-
 ---
 
 ## 2026-07-20 10:00:26
@@ -217,13 +199,45 @@ x是不是出小问题了？
 
 煤炭7/2开始看多，总有低点低吸的，如果涨起来追，那你就是韭菜！
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIICmpdg1Ng7YnP_2ZNhDbd5atMsYQgAALaDmsbe_LxVse6Hwf_mpc3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIC2pdg1YmU3EPNqFbzYzLP2k_2Zt0AALbDmsbe_LxViyBjLTHqHbgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-20 10:06:08
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIDGpdg1kFBF_opYTEGEBOnTp0KQR3AALcDmsbe_LxVjNC-u4ODKViAQADAgADeAADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/Mimiwftt/status/2079023596689920171#m)
+**内容**:
+
+这不是最重要的！ 重要的是我看多航空装备，高位套牢比较多的商业航天今天其实并没有很大涨幅。 要记住，博弈就是，资金会向阻力最小的方向流入。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIEWpdipeUV84NkR2Xq7nRgf5xWOt7AALmDmsbe_LxVgR0mpXPTUJhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIEmpdipsPG58_zD-GRfUcYfCVaWjwAALnDmsbe_LxVslYs53SFu1rAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079025031372493094#m)
+
+---
+
+## 2026-07-20 10:08:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+底部板块没必要高抛低吸，只有低吸的价值。 高位板块别在恐慌中割肉，后面还会有诱多拉升，到时择机高抛离场。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079025709205626905#m)
+
+---
+
+## 2026-07-20 10:17:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不知道低吸哪里的去低吸大金融。
+
+[查看原文](https://nitter.net/Mimiwftt/status/2079027997160636767#m)
 
 ---
 
