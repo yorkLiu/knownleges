@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1291 条推文
+> 📊 推文存档 - 共 1292 条推文
 
 ---
 
@@ -38,10 +38,6 @@ Wow
 **内容**:
 
 RT by @elonmusk: I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that matters. Scientists took the aorta of a 75-year-old donor, applied a single engineered enzyme, and stripped away more than 70% of the molecular damage — bringing it down to the levels you'd see in a 30-year-old artery. Published five days ago in Nature Communications. Revel Pharmaceuticals, with Calico and the University of Colorado. Here's what they erased. Sugar reacts with proteins in your body the same way heat browns bread — slowly, over a lifetime. It leaves behind a residue called CML, the most abundant advanced glycation end product in aging tissue. It welds itself onto collagen and elastin in your skin, your eye lens, and your arterial walls. Two things follow. Your arteries stiffen. And CML latches onto a receptor called RAGE, which drives chronic inflammation — the exact fire I've been writing about for months as the engine of heart disease. Since the 1980s this damage was considered permanent. Your body has no enzyme to remove it. Every existing approach only slows new damage from forming. Nothing touched what was already there. So they built an enzyme that doesn't exist in nature. They screened 45,000 protein structures, then ran five rounds of directed evolution across more than 500 million variants until they had CMLase — a molecular lawnmower that oxidizes the CML off the protein and restores the original, healthy lysine underneath. Not patched. Reversed. Over 70% cleared from elderly arterial tissue. Over 55% from elderly skin — below the levels found in 31-year-old skin. 45-78% in lens proteins. The CEO said they expected 20% and were floored. Arterial stiffness drives systolic hypertension, heart failure, and stroke, and I have no drug that reverses it. I can slow the process. I cannot undo it. This paper says undoing it may be possible. The caveats are real and I won't skip them. This was done on donated tissue in a dish, not in a living person. No functional data yet — we don't know if that artery got measurably more elastic. Delivering a large enzyme deep into human tissue is a hard, unsolved problem. Clinical trials are years away. But something considered permanent for forty years just came off human tissue. We spent a century learning to slow aging. Someone finally figured out how to erase it. Thank you @theallinpod @friedberg @chamath @pesottas
-
-<img src="/images/elonmusk/amplify_video_thumb_2078333905757691904_img_6DzBYKDaiHynycDD.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/afshineemrani/status/2078891465145810993#m)
 
 ---
 
@@ -162,6 +158,20 @@ RT by @elonmusk: An absolutely incredible performance by Spain to take home the 
 **内容**:
 
 R to @elonmusk: I mean Thursday (duh)
+
+---
+
+## 2026-07-20 18:21:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIH2pd95buFM8k2ipEpkluG5zJ7_vnAALTFWsbHzTxVqho7w6Vy8aUAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079149795810152550#m)
 
 ---
 
