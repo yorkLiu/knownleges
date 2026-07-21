@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 314 条推文
+> 📊 推文存档 - 共 315 条推文
 
 ---
 
@@ -49,9 +49,21 @@ If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% be
 
 Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. Optical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery, all up 4%+. Neoclouds from $NBIS to $IREN all up 4%+ premarket. $INTC to $AMD to $MRVL all up 4%+. Does the Cramer effect work on the entire AI trade?
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPWpfMBSkaWM-wgS5U56pgwAB9N1YoQACjRlrGx80AVenKx8P8nYZaAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2079479755481776221#m)
+## 2026-07-21 17:14:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23). From Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. If they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition. As for $SIVE, we'll get a better read if they're directly in AMD supply chains. Since right now, it's possible to map it through $GFS (reportedly involved in AMD MI500 CPO work) or AYAR (which AMD invested in). But no formal confirmations. So if you're turning in: - CPO thematic positive: MI500 explicitly commits to CPO/optical UALink. - AMD gives details using Ayar Labs or GF SCALE for MI500 CPO: That would be extremely positive for $SIVE, given they're the upstream laser supplier / reference laser. Currently, Blayne Curtis from Jefferies expect AMD to work with $ALAB on UAL and $AVGO on ESUN... but juicy details are here: "We are looking for whether AMD commits to a CPO based scale up solution and who supplies the optical engine" We'll get a broader read through on the supply chain come Wednesday/Thursday, too early to tell today.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIP2pfPqByfSy29iq2o-XGD798I5xmAAIpGmsbHzQBV0SJGyGwoml-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIQGpfPqQ-7SObibSaSArI7FJeL6vWAAIqGmsbHzQBV5dOW5H9MK3MAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079495178793201678#m)
 
 ---
 

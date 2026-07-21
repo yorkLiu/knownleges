@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 257 条推文
+> 📊 推文存档 - 共 258 条推文
 
 ---
 
@@ -89,10 +89,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 光互连的迈威尔 $MRVL 205.6抄了一下。 现在看着mrvl和康宁都很有性价比， 不过mrvl故事的业绩来的更快
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOWpfGkg3QbQKybFNgJpg2cExktRrAAKMGGsbHzQBV1S6Ylab0Or2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2079454924686103020#m)
-
 ---
 
 ## 2026-07-21 14:44:28
@@ -103,9 +99,21 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 今天科创50的190期权涨了十几倍， 随时能买随时能卖， 太几把离谱。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOGpfGkTaQQ-gx6dy_5UYQbF9RI7UAAKLGGsbHzQBV2SrU8C6E8rPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2079457465599742072#m)
+## 2026-07-21 17:22:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韩股海力士减了1/3，剩下2000股， 再卖剁手，卖顺手就想着全卖， 最难的事情真是不是买啥卖啥， 而是拿着钱或者股票保持定力不买或者不卖。太难了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPmpfPpukGTf3MDqd9SZ3Oi6vS1sxAAIoGmsbHzQBVyzFHvTSuKSHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-Wpc8f_DFX5id79eH7JgpKZL2BZ4AAKjD2sbe_LpVovCPmKfY6dOAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079497152200655322#m)
 
 ---
 
