@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 258 条推文
+> 📊 推文存档 - 共 259 条推文
 
 ---
 
@@ -109,11 +109,17 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 韩股海力士减了1/3，剩下2000股， 再卖剁手，卖顺手就想着全卖， 最难的事情真是不是买啥卖啥， 而是拿着钱或者股票保持定力不买或者不卖。太难了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPmpfPpukGTf3MDqd9SZ3Oi6vS1sxAAIoGmsbHzQBVyzFHvTSuKSHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-Wpc8f_DFX5id79eH7JgpKZL2BZ4AAKjD2sbe_LpVovCPmKfY6dOAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 17:51:06
 
-[查看原文](https://nitter.net/xiaomustock/status/2079497152200655322#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+长鑫如果市值被国内炒到6万亿跟海力士一个市值，那能变相的直接把韩股海力士拉飞。
+
+[查看原文](https://nitter.net/xiaomustock/status/2079504430500868500#m)
 
 ---
 
