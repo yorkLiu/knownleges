@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1318 条推文
+> 📊 推文存档 - 共 1319 条推文
 
 ---
 
@@ -19,11 +19,17 @@ tags: ["2026"]
 
 And Miami
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRWpfpF3H4YBaUGpNZl-rgROBqK07AALPEmsbKZ0BV9PcBNTk8iAxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRmpfpGHOiA9i6IIlocFf2naAjjfYAALQEmsbKZ0BV_05suNeFVG5AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-22 00:53:55
 
-[查看原文](https://nitter.net/elonmusk/status/2079606389631332659#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like "switching to speech recognition sorry for any typos...". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.
+
+[查看原文](https://nitter.net/karpathy/status/2079610838143623371#m)
 
 ---
 
