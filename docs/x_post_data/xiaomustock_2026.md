@@ -7,7 +7,43 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 248 条推文
+> 📊 推文存档 - 共 250 条推文
+
+---
+
+## 2026-07-21 12:20:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+海力士2x在59跑了20万股剩50万股， koru撸了25万刀跑了， 留了韩股海力士sk打算先一直捏着。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIK2pe9fHmQn0Whb_huZUUZayGriVIAAJTFmsbHzT5Vu0uyewmI-X7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILGpe9fUpjD62RGFcy61tu7ORH1-HAAJUFmsbHzT5VkHRnnaxPUyHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILWpe9fmHJlgyKc9YUORCCvoJ973EAAJVFmsbHzT5VrnPGFquXdBMAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIE2pdkdixxdqhCQpto81qEHHgIhiSAAL0Dmsbe_LxVhlPlHABErD9AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079421210895745119#m)
+
+---
+
+## 2026-07-21 12:24:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 然后看看能买个啥后面再考虑考虑。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKmpe9e1ldwRkWYs1beNhVEW081AZAAJSFmsbHzT5VmySfR9FGb8AAQEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHimpZFbdffwcdi3_JPw2zgDqRdq47AAJ4D2sbwyfJVojS1TiwaQeSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079422236650570055#m)
 
 ---
 
