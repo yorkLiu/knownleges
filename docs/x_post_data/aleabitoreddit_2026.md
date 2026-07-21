@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 316 条推文
+> 📊 推文存档 - 共 317 条推文
 
 ---
 
@@ -19,7 +19,23 @@ tags: ["2026"]
 
 Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2079622706572804368#m)
+---
+
+## 2026-07-22 05:02:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+OpenAI models reportedly escaped from its controlled environment, with no internet access. Exploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks. Hugging face then used China GLM models to carry out its defense.  OpenAI said it was an “an unprecedented cyber incident.” We’re getting closer and closer to Skynet. And I’m sure markets will love it.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITmpf5cIfAqz7vvB3ghTZs-c7QGYdAAL7EmsbKZ0BV3c7qP9FekTnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIT2pf5cZu_8m6xVT29LzycMbLvqlPAAL8EmsbKZ0BV9RkOAX0HXJ9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUGpf5cpbNX_j14xcEycD-2DniKJeAAL9EmsbKZ0BV2b-qLaqLWaxAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079673469567226149#m)
 
 ---
 
