@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1306 条推文
+> 📊 推文存档 - 共 1307 条推文
 
 ---
 
@@ -299,6 +299,18 @@ Grok
 
 ---
 
+## 2026-07-20 21:25:47
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: instagram: just got married linkedin: thrilled to announce we have sold more b2b saas X: hello there the jacobian conjecture is false
+
+[查看原文](https://nitter.net/netcapgirl/status/2079196068865364044#m)
+
+---
+
 ## 2026-07-20 21:27:45
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
@@ -316,8 +328,6 @@ RT by @elonmusk: Today is the 57th anniversary of Apollo 11 Moon Landing. In 196
 **内容**:
 
 RT by @elonmusk: One very useful tool in Agent mode is image cropping of Grok Imagine . I don't know why no one talks about it, as it is a crucial element for creating smooth transitions. During a conversation, you need to frame each person and switch camera angles to add energy to your video. Being able to pick the frame you want and crop it saves a huge amount of time.
-
-[查看原文](https://nitter.net/dvorahfr/status/2079200049058496799#m)
 
 ---
 
