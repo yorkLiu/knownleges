@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 215 条推文
+> 📊 推文存档 - 共 216 条推文
 
 ---
 
@@ -19,9 +19,17 @@ tags: ["2026"]
 
 大盧預測【後半年牆國大風災】 神準應驗記錄 7月20日浙江寧波龍捲風
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2079342221732753408_img_svprLLsaoCZWArtR.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2079342245040550138#m)
+## 2026-07-21 11:37:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+關於是不是華川粉，說的簡單易懂點吧 華人中，王菊花，二孫子，瞎喝，大老王⋯⋯都不是川粉 所以呢，我就必須是川粉啦，明白了嗎？
+
+[查看原文](https://nitter.net/dianzhuXS/status/2079410479072694768#m)
 
 ---
 
