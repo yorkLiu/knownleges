@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 255 条推文
+> 📊 推文存档 - 共 257 条推文
 
 ---
 
@@ -79,11 +79,33 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 祖传u扫货了谷歌 $GOOGL 和 $GGLL 成本356和111.9 云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINmpfEwABgnWtYU5kgAiPlb6x_3LCNwACMxhrGx80AVcO78z3gj2AlwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIN2pfEwNZDDbV1IsMhwyYfnf2R8XPAAI0GGsbHzQBVzOmc6d6tx_0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 14:34:23
 
-[查看原文](https://nitter.net/xiaomustock/status/2079451551576584311#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+光互连的迈威尔 $MRVL 205.6抄了一下。 现在看着mrvl和康宁都很有性价比， 不过mrvl故事的业绩来的更快
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOWpfGkg3QbQKybFNgJpg2cExktRrAAKMGGsbHzQBV1S6Ylab0Or2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079454924686103020#m)
+
+---
+
+## 2026-07-21 14:44:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天科创50的190期权涨了十几倍， 随时能买随时能卖， 太几把离谱。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOGpfGkTaQQ-gx6dy_5UYQbF9RI7UAAKLGGsbHzQBV2SrU8C6E8rPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079457465599742072#m)
 
 ---
 
