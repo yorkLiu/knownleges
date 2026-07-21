@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 254 条推文
+> 📊 推文存档 - 共 255 条推文
 
 ---
 
@@ -69,11 +69,21 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 去他娘的都不想要了。snxx，muu，7709全卖了， 留了韩股正股。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINGpfBHsw6wGRNujJkFapJljBbmoiAAIKF2sbHzT5VijEJ-Etr9QIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKmpe9e1ldwRkWYs1beNhVEW081AZAAJSFmsbHzT5VmySfR9FGb8AAQEAAwIAA3gAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 14:20:58
 
-[查看原文](https://nitter.net/xiaomustock/status/2079437217060327818#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+祖传u扫货了谷歌 $GOOGL 和 $GGLL 成本356和111.9 云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINmpfEwABgnWtYU5kgAiPlb6x_3LCNwACMxhrGx80AVcO78z3gj2AlwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIN2pfEwNZDDbV1IsMhwyYfnf2R8XPAAI0GGsbHzQBVzOmc6d6tx_0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079451551576584311#m)
 
 ---
 
