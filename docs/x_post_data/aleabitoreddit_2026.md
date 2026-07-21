@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 313 条推文
+> 📊 推文存档 - 共 314 条推文
 
 ---
 
@@ -39,9 +39,19 @@ TBH, casually posting novel information discovery to X is how research should be
 
 If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for sentiment having Nvidia be a large shareholder of the Neocloud leader.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKWpensCubhSk-bEP5Gh_M2yLiOy6AAL4E2sbHzT5Vk80LAJPi7lgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2079319999915925938#m)
+## 2026-07-21 16:13:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. Optical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery, all up 4%+. Neoclouds from $NBIS to $IREN all up 4%+ premarket. $INTC to $AMD to $MRVL all up 4%+. Does the Cramer effect work on the entire AI trade?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPWpfMBSkaWM-wgS5U56pgwAB9N1YoQACjRlrGx80AVenKx8P8nYZaAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079479755481776221#m)
 
 ---
 
