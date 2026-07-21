@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 260 条推文
+> 📊 推文存档 - 共 262 条推文
 
 ---
 
@@ -129,9 +129,33 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 亏完的时候就躺着天天放羊了。
 
-<img src="/images/xiaomustock/amplify_video_thumb_2079554451648757760_img_6-Hf6oVRYdPsVfoB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2079554587095339447#m)
+## 2026-07-21 21:53:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+把闪迪和美光卖飞了我日
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIQ2pfgAQPvhaWDcfeRZFzEz1BpXvwAAJMG2sbHzQBV5dBX6qvkXZBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079565433947177281#m)
+
+---
+
+## 2026-07-21 22:04:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有点后悔减仓1/3的韩股海力士， 刚追回来又加仓到4000， 万一下周一a股长鑫市值拉特别高把韩股海力士带起来，仓位不够重只能做小孩一桌。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPmpfPpukGTf3MDqd9SZ3Oi6vS1sxAAIoGmsbHzQBVyzFHvTSuKSHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079568310665195599#m)
 
 ---
 
