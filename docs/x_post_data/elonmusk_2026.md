@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1316 条推文
+> 📊 推文存档 - 共 1317 条推文
 
 ---
 
@@ -187,6 +187,22 @@ It’s been this way for years
 
 ---
 
+## 2026-07-21 15:59:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Someone tipped me off to a website where it compiles all the real ratings for movies on Rotten Tomatoes and compares it to the fake push ratings they try to portray as real ratings. Really eye opening. Will link the website in first reply but it's called PopcornGap.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISGpfq6KMlsT0PuyeHicCVvV04kAnAALXEmsbKZ0BVyK5NQ8e_8FWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISWpfq6j-NdSJsfHofvc0O3islWNsAALYEmsbKZ0BVwVAV6VtRgTsAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Anc_Aesthetics/status/2079476290394984934#m)
+
+---
+
 ## 2026-07-21 22:18:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -194,10 +210,6 @@ It’s been this way for years
 **内容**:
 
 RT by @elonmusk: Tesla's Robotaxi/ride-hailing service is now available in 7 areas: • Orlando: Unsupervised Model Y rides only (new) • Miami: Unsupervised Model Y rides only • Tampa: Unsupervised Model Y rides only (new) • Dallas: Unsupervised Model Y rides only • Houston: Unsupervised Model Y rides only • Austin: Mix of Unsupervised & safety monitor Model Y rides • Bay Area: Safety monitor Model Y rides only
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRGpfpFoY_600iPTZYVA5Gr5fVVhAAALOEmsbKZ0BV3gLvXihKWooAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2079571784760746359#m)
 
 ---
 
