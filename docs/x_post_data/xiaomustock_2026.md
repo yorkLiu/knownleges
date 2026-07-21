@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 250 条推文
+> 📊 推文存档 - 共 253 条推文
 
 ---
 
@@ -19,16 +19,6 @@ tags: ["2026"]
 
 海力士2x在59跑了20万股剩50万股， koru撸了25万刀跑了， 留了韩股海力士sk打算先一直捏着。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIK2pe9fHmQn0Whb_huZUUZayGriVIAAJTFmsbHzT5Vu0uyewmI-X7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILGpe9fUpjD62RGFcy61tu7ORH1-HAAJUFmsbHzT5VkHRnnaxPUyHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILWpe9fmHJlgyKc9YUORCCvoJ973EAAJVFmsbHzT5VrnPGFquXdBMAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIE2pdkdixxdqhCQpto81qEHHgIhiSAAL0Dmsbe_LxVhlPlHABErD9AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2079421210895745119#m)
-
 ---
 
 ## 2026-07-21 12:24:29
@@ -39,11 +29,49 @@ tags: ["2026"]
 
 soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 然后看看能买个啥后面再考虑考虑。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKmpe9e1ldwRkWYs1beNhVEW081AZAAJSFmsbHzT5VmySfR9FGb8AAQEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHimpZFbdffwcdi3_JPw2zgDqRdq47AAJ4D2sbwyfJVojS1TiwaQeSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 12:32:15
 
-[查看原文](https://nitter.net/xiaomustock/status/2079422236650570055#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韩股海力士这个成本非常满意， 所以也不想卖，极其便宜他娘的，历史大底， 韩国佬自己就不能争点气，赚那么多钱维护一下自己股价。
+
+[查看原文](https://nitter.net/xiaomustock/status/2079424189354905847#m)
+
+---
+
+## 2026-07-21 12:36:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+回本路上遥遥无期呐， 过去一个月亏的疼的一逼。 别的品种不敢搞呐，希望下午韩股海力士涨停熔断。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIMmpe_Ta10DYXbWLyMlMEUvyL13OkAAKxFmsbHzT5VpPL1usmA-qJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHDmpUpyWffwUU9VnCuU5E2utbmZiuAAKVD2sbNGmhVq24Zpq9LPLiAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079425218918105099#m)
+
+---
+
+## 2026-07-21 12:45:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+卸载同花顺就暴力v， 他这个被量化可能抓取成操作指标了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIMWpe_TIS-wG935_as1-Af2PKyeIWAAKwFmsbHzT5ViAm41_mn3JPAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHt2paDMcT09mwlwlBcBgV9haTP5lmAAKiEmsbxKvRVjfUDrg1Hd6VAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079427422731288973#m)
 
 ---
 
