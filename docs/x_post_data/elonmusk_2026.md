@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1307 条推文
+> 📊 推文存档 - 共 1314 条推文
 
 ---
 
@@ -49,7 +49,35 @@ RT by @elonmusk: Today we're announcing the completion of one of the largest eng
 
 RT by @elonmusk: A Cybercab with no steering wheel, a massive display, and high speed Starlink is going to be the best place to work or watch a movie as you take a ride across town
 
-[查看原文](https://nitter.net/wholemars/status/2079358618546409871#m)
+---
+
+## 2026-07-21 08:20:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 𝕏Money with friends is fun <3 Congrats to all those that got access today!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOmpfIYmLzJzsJtHuJfJxORFZtCfbAALbGGsbHzQBV0US_cDCtXmFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIO2pfIY3ICg1MzMcnWfMfubjhuqnkAALcGGsbHzQBVw_feFOdgh2lAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/paranoidream/status/2079360764213874980#m)
+
+---
+
+## 2026-07-21 10:07:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I’m currently using Grok 4.5 99% of the time now for both planning and tasks. The fact that I don’t have to switch out to a cheaper model to do tasks means there is less context window model switching and faster speed. Feels incredible.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPGpfIZI7Fnw3s5FeytTC9rkPWKdJAALdGGsbHzQBV24fa3JGQgOiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/DannyLimanseta/status/2079387802924732537#m)
 
 ---
 
@@ -60,6 +88,20 @@ RT by @elonmusk: A Cybercab with no steering wheel, a massive display, and high 
 **内容**:
 
 RT by @elonmusk: The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?
+
+---
+
+## 2026-07-21 11:40:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Imagine ❣️
+
+<img src="/images/elonmusk/amplify_video_thumb_2079411019961573376_img_agpImFplelixGmZx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2079411063603245287#m)
 
 ---
 
@@ -93,6 +135,18 @@ Try Grok Build!
 
 ---
 
+## 2026-07-21 12:23:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: X is where all the real voices matter. You could never do this on Instagram.
+
+[查看原文](https://nitter.net/AdamLowisz/status/2079422033151029591#m)
+
+---
+
 ## 2026-07-21 12:56:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -101,11 +155,43 @@ Try Grok Build!
 
 Pinned: Try Grok Build, it’s awesome! http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINWpfBH_seI-LVYlMl3wFWgABxbr99gACCxdrGx80-VaV_nSlFHwPrAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 14:00:01
 
-[查看原文](https://nitter.net/elonmusk/status/2079430412837757338#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX’s massive corpus of world-class engineering data (excluding material blocked by ITAR) will be added during supplemental training of the 2T run. This will dramatically improve Grok’s engineering capabilities.
+
+[查看原文](https://nitter.net/elonmusk/status/2079446276299465185#m)
+
+---
+
+## 2026-07-21 14:09:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is a solid workhorse
+
+[查看原文](https://nitter.net/elonmusk/status/2079448540900647179#m)
+
+---
+
+## 2026-07-21 14:09:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s been this way for years
+
+<img src="/images/elonmusk/amplify_video_thumb_2078946434863579136_img_4DZZ4X-PEE3pUN9m.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079448786745631005#m)
 
 ---
 
