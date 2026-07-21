@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1303 条推文
+> 📊 推文存档 - 共 1306 条推文
 
 ---
 
@@ -39,9 +39,17 @@ Grok for Excel is now live
 
 RT by @elonmusk: Today we're announcing the completion of one of the largest engineering projects in the company's history: We rebuilt the X Android app from scratch It's faster, smoother and more reliable. But most of all: it will enable us to build new features at lightning speed.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIMGpe9gIYv9V1zjUrMFYvJ8dthTc3AAJYFmsbHzT5Vp9_Msr0fpa1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/nikitabier/status/2079273272274026718#m)
+## 2026-07-21 08:11:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A Cybercab with no steering wheel, a massive display, and high speed Starlink is going to be the best place to work or watch a movie as you take a ride across town
+
+[查看原文](https://nitter.net/wholemars/status/2079358618546409871#m)
 
 ---
 
@@ -53,8 +61,6 @@ RT by @elonmusk: Today we're announcing the completion of one of the largest eng
 
 RT by @elonmusk: The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?
 
-[查看原文](https://nitter.net/yunta_tsai/status/2079389241021501447#m)
-
 ---
 
 ## 2026-07-21 12:17:06
@@ -64,8 +70,6 @@ RT by @elonmusk: The scientific community on X is very much alive. Can you get 2
 **内容**:
 
 Yes
-
-[查看原文](https://nitter.net/elonmusk/status/2079420377604759584#m)
 
 ---
 
@@ -77,10 +81,6 @@ Yes
 
 Watch 4K streaming video while Cybercab takes you anywhere you want
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIL2pe9gABzu6zZTo60Tc-fSwLoqxB-AACVxZrGx80-VZwr6SZBsOsGgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079420769302397401#m)
-
 ---
 
 ## 2026-07-21 12:19:08
@@ -91,15 +91,27 @@ Watch 4K streaming video while Cybercab takes you anywhere you want
 
 Try Grok Build!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILmpe9fxJrfdgaBklZfa3CMxMxd4yAAJWFmsbHzT5VoqjM9O1n02OAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2079420891163680790#m)
+## 2026-07-21 12:56:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Try Grok Build, it’s awesome! http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINWpfBH_seI-LVYlMl3wFWgABxbr99gACCxdrGx80-VaV_nSlFHwPrAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079430412837757338#m)
 
 ---
 
 ## 2026-07-20 00:28:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -109,7 +121,7 @@ Way more than a billion
 
 ## 2026-07-20 00:30:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -119,7 +131,7 @@ Wow
 
 ## 2026-07-20 01:15:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -129,7 +141,7 @@ RT by @elonmusk: I'm a cardiologist. Everyone is sharing this study as a skin st
 
 ## 2026-07-20 02:01:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -139,7 +151,7 @@ RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about s
 
 ## 2026-07-20 02:44:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -149,7 +161,7 @@ RT by @elonmusk: Rome conquered Greece in 146 BC when they burned Corinth to the
 
 ## 2026-07-20 03:10:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -159,7 +171,7 @@ RT by @elonmusk: BREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 
 
 ## 2026-07-20 04:01:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -169,7 +181,7 @@ RT by @elonmusk: SpaceX's newest satellites carry about 1,024 gigabits of bandwi
 
 ## 2026-07-20 05:47:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -179,7 +191,7 @@ x.com/i/jf/soccer/league/mat…
 
 ## 2026-07-20 05:49:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -189,7 +201,7 @@ x.com/i/jf/soccer/league/mat…
 
 ## 2026-07-20 06:34:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -199,7 +211,7 @@ The @SpaceX team is amazing
 
 ## 2026-07-20 06:34:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -209,7 +221,7 @@ Next Starship launch attempt on Friday
 
 ## 2026-07-20 06:37:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -219,7 +231,7 @@ Next Starship launch attempt on Friday
 
 ## 2026-07-20 06:39:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -229,7 +241,7 @@ Grok is good at predictions
 
 ## 2026-07-20 07:37:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -239,7 +251,7 @@ Try Grok 4.5!
 
 ## 2026-07-20 07:41:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -249,7 +261,7 @@ RT by @elonmusk: An absolutely incredible performance by Spain to take home the 
 
 ## 2026-07-20 09:06:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -259,21 +271,17 @@ R to @elonmusk: I mean Thursday (duh)
 
 ## 2026-07-20 13:15:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: • Starship To “Collapse Cost” of AI Compute & Global Communications
 
-<img src="/images/elonmusk/amplify_video_thumb_2079049955948576768_img_0wrBVk5dSqK5oAaY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/stevenmarkryan/status/2079072559673577619#m)
-
 ---
 
 ## 2026-07-20 18:21:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -283,7 +291,7 @@ True
 
 ## 2026-07-20 18:50:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -293,11 +301,23 @@ Grok
 
 ## 2026-07-20 21:27:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Today is the 57th anniversary of Apollo 11 Moon Landing. In 1969: most powerful technology on Earth = Apollo 11. In 2026: most powerful technology on Earth = 2-trillion-parameter AI. Which one changes civilization more?
+
+---
+
+## 2026-07-20 21:41:36
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: One very useful tool in Agent mode is image cropping of Grok Imagine . I don't know why no one talks about it, as it is a crucial element for creating smooth transitions. During a conversation, you need to frame each person and switch camera angles to add energy to your video. Being able to pick the frame you want and crop it saves a huge amount of time.
+
+[查看原文](https://nitter.net/dvorahfr/status/2079200049058496799#m)
 
 ---
 
