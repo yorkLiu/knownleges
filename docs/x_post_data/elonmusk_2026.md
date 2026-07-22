@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1322 条推文
+> 📊 推文存档 - 共 1328 条推文
 
 ---
 
@@ -31,6 +31,20 @@ RT by @elonmusk: One pattern I find useful for working with LLMs is a nice long 
 
 ---
 
+## 2026-07-22 00:53:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Grok 4.5 is now available directly inside Microsoft Outlook. • Summarize long email threads & attachments • Identify decisions, owners & pending tasks • Draft replies in your own voice • Search the web and 𝕏 • Organize, archive, delete, or flag emails
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUmpgJydQP50qNCRQA9eZz1Oeq936AAJJE2sbKZ0BV6leXS4MhPQrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2079610848927195407#m)
+
+---
+
 ## 2026-07-22 01:12:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -38,8 +52,6 @@ RT by @elonmusk: One pattern I find useful for working with LLMs is a nice long 
 **内容**:
 
 RT by @elonmusk: We've doubled usage limits for all individual and teams plans! These limits apply to Grok, Composer, and any new Cursor models.
-
-[查看原文](https://nitter.net/cursor_ai/status/2079615536963485815#m)
 
 ---
 
@@ -51,8 +63,6 @@ RT by @elonmusk: We've doubled usage limits for all individual and teams plans! 
 
 RT by @elonmusk: Enough with everyone trying to be an influencer. We need electricians and mechanics.
 
-[查看原文](https://nitter.net/engineers_feed/status/2079639690567729647#m)
-
 ---
 
 ## 2026-07-22 04:12:04
@@ -63,15 +73,69 @@ RT by @elonmusk: Enough with everyone trying to be an influencer. We need electr
 
 Children are the future
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISmpf1zrsZoLRlbjpqscIVFFGl-sZAALvEmsbKZ0BV5_FwJjiLo8FAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIS2pf1z-fdf8Wpb2019t2YoZDWaZ-AALwEmsbKZ0BV8DS6PjJbvHTAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-22 04:19:32
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITGpf10JYZbnnKksIhMeBwRre3yX6AALxEmsbKZ0BVxRrz7p0O5DCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITWpf10UnXiURD8tNCvIjBJpg4XuzAALyEmsbKZ0BV8GwtyaUzeSRAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/elonmusk/status/2079660702592086188#m)
+RT by @elonmusk: Launch Dog now available at Tesla Diner 🌭 – Premium all-beef Snap-O-Razzo loaded hotdog – New School American cheese sauce – Crispy potato sticks & signature toppings ...served in Starship rocket box 🚀
+
+<img src="/images/elonmusk/amplify_video_thumb_2079662501109833728_img_HO07yvkSphRdfyVw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tesla_na/status/2079662582139613236#m)
+
+---
+
+## 2026-07-22 09:47:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Accurate 😂
+
+[查看原文](https://nitter.net/elonmusk/status/2079745107881017576#m)
+
+---
+
+## 2026-07-22 09:49:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+You can talk to Grok like a person to accomplish tasks via Grok Build http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079745716575248538#m)
+
+---
+
+## 2026-07-22 09:53:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try it out!
+
+[查看原文](https://nitter.net/elonmusk/status/2079746636990001378#m)
+
+---
+
+## 2026-07-22 09:55:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Troubling …
+
+[查看原文](https://nitter.net/elonmusk/status/2079747118525534603#m)
 
 ---
 
