@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1378 条推文
+> 📊 推文存档 - 共 1379 条推文
+
+---
+
+## 2026-07-23 01:38:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Zero stories is a low number …
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIdmphCKmupcB-UG_3jdETEqMajusyAAIiGWsbKZ0JV08eFVfVqeYTAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIId2phCK2DZtmCGlB2Gd9QY2lq4u6hAAIjGWsbKZ0JV6xk_Lpd6kwmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079984441179684961#m)
 
 ---
 
