@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 221 条推文
+> 📊 推文存档 - 共 222 条推文
 
 ---
 
@@ -29,9 +29,19 @@ tags: ["2026"]
 
 至今為止，我已經封鎖了將近6500人，但每天垃圾跟帖還是如此的多。馬斯克先生，懇請您的團隊提高重視，這樣的「大」規模，肯定不是簡單的水軍黃推，而是「中共國家級的網絡統戰部署」。 我們這些「異議人士」每天都在遭受國家機器級別的「黃色轟炸」。更可悲的是X的AI識別已經被這些垃圾帳號破譯且輕鬆繞過。 我最想知道的是，像這樣每天遭受騷擾和攻擊的正常帳號，會不會被平台的AI自動誤判為「水軍刷流量」而封號？ 基於這種擔心，為了帳號安全和不被誤判，我能做的只能是不斷拉黑，持續出現的中共黃推，並減少我在X的發帖。我相信，這是正常人都不想看到的事情😮‍💨😮‍💨😮‍💨 @elonmusk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUWpgChnEcQRrbbftewjmQFq2vx50AAIUE2sbKZ0BV4toAzv00wckAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2079718465225785416#m)
+## 2026-07-22 16:17:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大災之後，必有大疫
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2079450155162710016_img__udTpuhbNfsBzUwz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2079843307480641651#m)
 
 ---
 
