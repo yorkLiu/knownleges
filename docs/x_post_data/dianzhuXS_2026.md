@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 225 条推文
+> 📊 推文存档 - 共 226 条推文
 
 ---
 
@@ -19,9 +19,27 @@ tags: ["2026"]
 
 新颱風「紅霞」路線 如果這次真的登陸「廣東揭陽」 那不得不承認就是「天怒」 🤬🤬🤬
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIgGphQuceYPK7hGMkupYMJSsa7ZXaAAI7GWsbKZ0JV6FQ4aCqoMUiAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2080051100301054345#m)
+## 2026-07-23 07:12:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【牆國大風災是習近平招來的】 大盧不怕看合訂本，昨晚直播中提到了，我們在5月底就預測了「今年亞洲有三路風」。 請看截圖，我是2026年5月26日在推特與網友互動中提到的「今年整個地球至少有十二路風，亞洲三路」。 互聯網是有記憶的，帖子就擺在那裡，我們最早預測「神一下，牆國後半年大風災」是在2026年5月21日發帖。 「大明白」們，在質疑的時候，請先告訴大家「你們在5月21日之前知道啥？預測了啥？」，別忘了「巴威」是在6月30才成形的！預測神準你不行，網抄二創第一名，真不怪大家看不起你們！ 另昨晚直播中的一個知識點「神煞華蓋」。從玄學角度說，強國後半年大風災，本質上是一個走魁罡大運的皇帝綁定了全國，招來了「天罡沖地魁」，辰為水庫⋯⋯準備寫成筆記，發在Substack。 不出意外，這第二路風就是「紅霞」了，第三路待定⋯⋯
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIgWphUViHia27WssGI7VINYg3MgUWAAJBGWsbKZ0JV4L4ZisZowXKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIgGphQuceYPK7hGMkupYMJSsa7ZXaAAI7GWsbKZ0JV6FQ4aCqoMUiAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIg2phUWAlCcxuNTmAH1DDuM0hv9HFAAJCGWsbKZ0JVx_NmCLjQpqLAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIhGphUWQ2__BaW8NV66Dz3o1_XlVTAAJDGWsbKZ0JV8s9eo-Q1WwgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/dianzhuXS/card_img_2079867257874976768_6Ty-nLwj3Fformat3Djpg26name3D1200x627" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2080068435665686666#m)
 
 ---
 
