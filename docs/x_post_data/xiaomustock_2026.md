@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 262 条推文
+> 📊 推文存档 - 共 263 条推文
+
+---
+
+## 2026-07-22 11:01:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face系统偷答案。 这玩意真是越来越像终结者， 克服未来的恐惧就是捏住ai的蛋蛋。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIU2pgPPOdy2auRaWUI6XVAjo-1CarAAKXE2sbKZ0BV67n0sXzp_mqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079763854675095779#m)
 
 ---
 

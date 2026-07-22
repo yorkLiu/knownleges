@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1328 条推文
+> 📊 推文存档 - 共 1338 条推文
 
 ---
 
@@ -39,10 +39,6 @@ RT by @elonmusk: One pattern I find useful for working with LLMs is a nice long 
 
 RT by @elonmusk: BREAKING: Grok 4.5 is now available directly inside Microsoft Outlook. • Summarize long email threads & attachments • Identify decisions, owners & pending tasks • Draft replies in your own voice • Search the web and 𝕏 • Organize, archive, delete, or flag emails
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUmpgJydQP50qNCRQA9eZz1Oeq936AAJJE2sbKZ0BV6leXS4MhPQrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2079610848927195407#m)
-
 ---
 
 ## 2026-07-22 01:12:36
@@ -55,6 +51,32 @@ RT by @elonmusk: We've doubled usage limits for all individual and teams plans! 
 
 ---
 
+## 2026-07-22 01:30:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A SpaceX intern once described eating lunch next to Elon Musk in the company cafeteria. The intern said Elon sat down at a regular table with a regular tray of food. No entourage. No reserved section. He sat next to two junior engineers who were clearly terrified. One of them was explaining a problem with a valve component to the other. Elon listened without introducing himself or interrupting. After about three minutes he turned to the engineer and said "have you tried running it at a lower pressure gradient first." The engineer stared at him. Then realized the CEO of the company had just casually solved a problem his team had been stuck on for a week. The intern said what happened next was the part that surprised him. Elon didn't leave. Didn't check his phone. He spent the next twenty minutes asking the engineers questions about their work. Not CEO questions about timelines and budgets. Engineering questions about fluid dynamics and material stress tolerances. He was genuinely curious. The cafeteria conversation was indistinguishable from a technical review. The intern said he understood in that moment why people work 80-hour weeks for this man. Not because he's inspiring. Not because he pays well. Because he's the only CEO in the world who sits in the cafeteria and solves your engineering problem between bites of a burrito. People follow leaders who are above them. People worship leaders who sit next to them and prove they understand the work better than the people doing it.
+
+[查看原文](https://nitter.net/multiplanet1/status/2079619917406425594#m)
+
+---
+
+## 2026-07-22 02:20:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Governor of New Jersey just admitted that 6,600 non-citizens were registered to vote due to a “software error”. 400 of them voted. This is exactly why we need the SAVE America Act.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVWpgPP-PDPwiBv5aYOFU1KCETx-QAAKZE2sbKZ0BV0m-ZEiNLtXNAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/america/status/2079632608950911270#m)
+
+---
+
 ## 2026-07-22 02:48:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -62,6 +84,20 @@ RT by @elonmusk: We've doubled usage limits for all individual and teams plans! 
 **内容**:
 
 RT by @elonmusk: Enough with everyone trying to be an influencer. We need electricians and mechanics.
+
+---
+
+## 2026-07-22 03:44:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Going for a photo even cooler than this on Thursday 👀
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIV2pgPQc1iJWHfpSf4PYRzDDdLUQWAAKbE2sbKZ0BV-r4MK6FryuQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AJamesMcCarthy/status/2079653799929749653#m)
 
 ---
 
@@ -83,9 +119,33 @@ Children are the future
 
 RT by @elonmusk: Launch Dog now available at Tesla Diner 🌭 – Premium all-beef Snap-O-Razzo loaded hotdog – New School American cheese sauce – Crispy potato sticks & signature toppings ...served in Starship rocket box 🚀
 
-<img src="/images/elonmusk/amplify_video_thumb_2079662501109833728_img_HO07yvkSphRdfyVw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/tesla_na/status/2079662582139613236#m)
+## 2026-07-22 04:35:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: FIFA brought the world together ⚽️🙏⚽️
+
+<img src="/images/elonmusk/amplify_video_thumb_2079666387010887680_img_RltS7Vb-2aIC_5ZF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/kimbal/status/2079666603504075239#m)
+
+---
+
+## 2026-07-22 06:39:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Cybercab on display at Tesla Diner
+
+<img src="/images/elonmusk/amplify_video_thumb_2079696188824272897_img_L00NCwDzdvWxYHbo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tesla_na/status/2079697840792871154#m)
 
 ---
 
@@ -97,8 +157,6 @@ RT by @elonmusk: Launch Dog now available at Tesla Diner 🌭 – Premium all-be
 
 Accurate 😂
 
-[查看原文](https://nitter.net/elonmusk/status/2079745107881017576#m)
-
 ---
 
 ## 2026-07-22 09:49:53
@@ -108,10 +166,6 @@ Accurate 😂
 **内容**:
 
 You can talk to Grok like a person to accomplish tasks via Grok Build http://X.ai/cli
-
-<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079745716575248538#m)
 
 ---
 
@@ -123,8 +177,6 @@ You can talk to Grok like a person to accomplish tasks via Grok Build http://X.a
 
 Try it out!
 
-[查看原文](https://nitter.net/elonmusk/status/2079746636990001378#m)
-
 ---
 
 ## 2026-07-22 09:55:27
@@ -135,13 +187,65 @@ Try it out!
 
 Troubling …
 
-[查看原文](https://nitter.net/elonmusk/status/2079747118525534603#m)
+---
+
+## 2026-07-22 10:41:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Homer
+
+<img src="/images/elonmusk/amplify_video_thumb_2079623240972939265_img_WPnju49YIuz5b0uh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079758604656316619#m)
+
+---
+
+## 2026-07-22 10:55:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVmpgPQPGQ9EII5KVnqZ6koN-YeKBAAKaE2sbKZ0BVxcr1Yzq3Y0-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079762316669898880#m)
+
+---
+
+## 2026-07-22 11:19:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It will
+
+[查看原文](https://nitter.net/elonmusk/status/2079768318471442845#m)
+
+---
+
+## 2026-07-22 11:20:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the way
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVGpgPPx6ZwABWqS14WSVR4l4W-UrLAACmBNrGymdAVf3VRfLr7IojQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079768591206117877#m)
 
 ---
 
 ## 2026-07-21 00:21:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -151,7 +255,7 @@ RT by @elonmusk: Grok 4.5 is really good at React. It's also very affordable and
 
 ## 2026-07-21 01:45:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -161,7 +265,7 @@ Grok for Excel is now live
 
 ## 2026-07-21 02:32:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -171,7 +275,7 @@ RT by @elonmusk: Today we're announcing the completion of one of the largest eng
 
 ## 2026-07-21 08:11:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -181,7 +285,7 @@ RT by @elonmusk: A Cybercab with no steering wheel, a massive display, and high 
 
 ## 2026-07-21 08:20:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -191,7 +295,7 @@ RT by @elonmusk: 𝕏Money with friends is fun <3 Congrats to all those that got
 
 ## 2026-07-21 10:07:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -201,7 +305,7 @@ RT by @elonmusk: I’m currently using Grok 4.5 99% of the time now for both pla
 
 ## 2026-07-21 10:13:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -211,7 +315,7 @@ RT by @elonmusk: The scientific community on X is very much alive. Can you get 2
 
 ## 2026-07-21 11:40:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -221,7 +325,7 @@ RT by @elonmusk: Grok Imagine ❣️
 
 ## 2026-07-21 12:17:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -231,7 +335,7 @@ Yes
 
 ## 2026-07-21 12:18:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -241,7 +345,7 @@ Watch 4K streaming video while Cybercab takes you anywhere you want
 
 ## 2026-07-21 12:19:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -251,7 +355,7 @@ Try Grok Build!
 
 ## 2026-07-21 12:23:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -261,7 +365,7 @@ RT by @elonmusk: X is where all the real voices matter. You could never do this 
 
 ## 2026-07-21 12:56:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -271,7 +375,7 @@ Pinned: Try Grok Build, it’s awesome! http://X.ai/cli
 
 ## 2026-07-21 14:00:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -281,7 +385,7 @@ SpaceX’s massive corpus of world-class engineering data (excluding material bl
 
 ## 2026-07-21 14:09:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -291,7 +395,7 @@ Grok is a solid workhorse
 
 ## 2026-07-21 14:09:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -301,23 +405,31 @@ It’s been this way for years
 
 ## 2026-07-21 15:59:17
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Someone tipped me off to a website where it compiles all the real ratings for movies on Rotten Tomatoes and compares it to the fake push ratings they try to portray as real ratings. Really eye opening. Will link the website in first reply but it's called PopcornGap.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISGpfq6KMlsT0PuyeHicCVvV04kAnAALXEmsbKZ0BVyK5NQ8e_8FWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISWpfq6j-NdSJsfHofvc0O3islWNsAALYEmsbKZ0BVwVAV6VtRgTsAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-21 19:49:56
 
-[查看原文](https://nitter.net/Anc_Aesthetics/status/2079476290394984934#m)
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: You can vote your way into communism. But you can't vote your way out.
+
+<img src="/images/elonmusk/amplify_video_thumb_2079331657690075136_img_F0fiwPgHV_5sH9IT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/spencerpratt/status/2079534336143921435#m)
 
 ---
 
 ## 2026-07-21 22:18:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
