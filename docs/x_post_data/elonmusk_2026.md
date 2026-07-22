@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1379 条推文
+> 📊 推文存档 - 共 1380 条推文
 
 ---
 
@@ -19,11 +19,19 @@ tags: ["2026"]
 
 Zero stories is a low number …
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIdmphCKmupcB-UG_3jdETEqMajusyAAIiGWsbKZ0JV08eFVfVqeYTAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIId2phCK2DZtmCGlB2Gd9QY2lq4u6hAAIjGWsbKZ0JV6xk_Lpd6kwmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-23 04:13:47
 
-[查看原文](https://nitter.net/elonmusk/status/2079984441179684961#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk is not merely building companies He is building the infrastructure humanity needs to move entire civilization forward • SpaceX — making life multiplanetary • Tesla — accelerating sustainable energy, autonomy and robotics • 𝕏 — defending free speech and protecting the global town square • SpaceXAI— pursuing truth and understanding the universe • Starbase — building the launch gateway to humanity’s multiplanetary future • Starlink — connecting humanity everywhere, from the world’s largest cities to its most remote regions • The Boring Company — building three-dimensional transportation networks for three-dimensional cities • Neuralink — restoring communication, mobility and human capability Different companies, different missions, one goal One man pushing every frontier forward Elon Musk has dedicated his entire life to expanding the boundaries of what humanity can achieve Elon is on Team Humanity
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIe2phO4ieyV-c5wUO_C5QDYQhYk57AAI1GWsbKZ0JV-JwWY-RwSKPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2080023521653354730#m)
 
 ---
 
