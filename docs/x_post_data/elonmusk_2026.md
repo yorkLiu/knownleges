@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1344 条推文
+> 📊 推文存档 - 共 1361 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Rep Gill: "Is it important to be polite?" Smithsonian Director Anthea Hartig: "Yes, sir." Rep Gill: "Your organization says 'politeness' is White Supremacy culture... are you a white supremacist?"
-
-<img src="/images/elonmusk/amplify_video_thumb_2079597967929999360_img_qnbgpZxIxpsyGfQr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/libsoftiktok/status/2079601674415427801#m)
 
 ---
 
@@ -135,6 +131,26 @@ RT by @elonmusk: FIFA brought the world together ⚽️🙏⚽️
 
 ---
 
+## 2026-07-22 04:52:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Open Worlds of Grok Imagine
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZWpgdzoFyBTIsD0h_ONX8SYY6e_ZAAL9F2sbKZ0JV93cswuBBcS_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZmpgdz6bnHV5DOTFmQvC_VOE2uheAAL-F2sbKZ0JV6UdVhP0l_SUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZ2pgd0Lr5WVvCT4gVXA6cUxMmW42AAL_F2sbKZ0JVyTq6Eq3lezLAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIaGpgd0YFOlBFsQMhgZxCCTaPOuxYAAMYaxspnQlXkjf2pzY2bXABAAMCAAN5AAM9BA.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/doganuraldesign/status/2079670888622850053#m)
+
+---
+
 ## 2026-07-22 06:39:38
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -145,6 +161,18 @@ RT by @elonmusk: Cybercab on display at Tesla Diner
 
 ---
 
+## 2026-07-22 07:36:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: If your intrinsic response to every circumstance is to find a way to screech "racism," you're probably the racist.
+
+[查看原文](https://nitter.net/Riley_Gaines_/status/2079712192346157531#m)
+
+---
+
 ## 2026-07-22 08:54:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -152,8 +180,6 @@ RT by @elonmusk: Cybercab on display at Tesla Diner
 **内容**:
 
 RT by @elonmusk: Indeed. I received an angry email from a Swede complaining that I was unfairly maligning Sweden. Rather than thank me for trying to defend Sweden from its suicidal empathy, I'm the mean individual for pointing out their Civilizational Seppuku.
-
-[查看原文](https://nitter.net/GadSaad/status/2079731838197600484#m)
 
 ---
 
@@ -237,6 +263,50 @@ This is the way
 
 ---
 
+## 2026-07-22 11:26:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX just completed TWO Falcon 9 launches in only 6 hours and 26 minutes…again The first mission launched 24 Starlink satellites from California, one day after the previous attempt ended in a last-second abort during engine ignition SpaceX returned the next day, successfully deployed all 24 satellites and safely landed the Falcon 9 booster on the droneship less than nine minutes after liftoff Then another Falcon 9 launched from Florida, successfully deploying Northrop Grumman’s Mission Robotic Vehicle and three Mission Extension Pods into geosynchronous transfer orbit The MRV is a robotic satellite-servicing vehicle designed to install life-extension pods and support inspection, relocation, repairs, upgrades and other in-orbit servicing Two launches. Two coasts. All within less than seven hours SpaceX’s launch cadence is operating at a level the rest of the industry is still trying to understand
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIY2pgdzE86P9bgtRIJpBSdjKpB34wAAL7F2sbKZ0JV1NsVx3nB3RVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZGpgdzSdJCGAOxVNK15GLzXJal4FAAL8F2sbKZ0JV46klYBtcUzUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2079769949422403696#m)
+
+---
+
+## 2026-07-22 13:12:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Countries that require ID to vote:
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYmpgdy45mo14f0ahf-ZFVMBFF-01AAL6F2sbKZ0JVwG78DsVeRVQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/libsoftiktok/status/2079796799460585629#m)
+
+---
+
+## 2026-07-22 13:21:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Here’s a cute Grok Imagine style for you to try <3 Image Prompt: 8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette Animation Prompt: Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
+
+<img src="/images/elonmusk/amplify_video_thumb_2079799034387337216_img_tg67vvo-Xpk8Q8IP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/paranoidream/status/2079799074325422343#m)
+
+---
+
 ## 2026-07-22 13:39:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -244,8 +314,6 @@ This is the way
 **内容**:
 
 Yes
-
-[查看原文](https://nitter.net/elonmusk/status/2079803429325877544#m)
 
 ---
 
@@ -257,10 +325,6 @@ Yes
 
 True
 
-<img src="/images/elonmusk/amplify_video_thumb_2025059567978045440_img_HMcCUD5YsvIlOxn4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079804007305089275#m)
-
 ---
 
 ## 2026-07-22 13:42:23
@@ -271,7 +335,113 @@ True
 
 Getting this approval took a lot of work by the Tesla team
 
-[查看原文](https://nitter.net/elonmusk/status/2079804227518599478#m)
+---
+
+## 2026-07-22 14:12:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Celebrating murder is utterly contemptible. Those who do so are absolutely the bad guys next-level!
+
+[查看原文](https://nitter.net/elonmusk/status/2079811908069405105#m)
+
+---
+
+## 2026-07-22 14:47:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build is adding features to help you track and improve token efficiency
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYWpgdyqjhj8J-DyiDMm_G4CXUzYnAAL5F2sbKZ0JVxogZVllzTiWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079820726476144749#m)
+
+---
+
+## 2026-07-22 14:48:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The hypocrisy is what bothers me most
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYGpgdyg88beqvJf9DnbbkYCoMvX_AAL4F2sbKZ0JV3-H9mKXi1HzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079820895997366771#m)
+
+---
+
+## 2026-07-22 14:50:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine makes beautiful fashion
+
+<img src="/images/elonmusk/amplify_video_thumb_2079816985660026880_img_c-i2XphkQYNVDmTT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079821278681379159#m)
+
+---
+
+## 2026-07-22 14:52:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nationwide, it may be as much as 1000X higher. This is why California and New York made showing ID to vote a literal crime!
+
+[查看原文](https://nitter.net/elonmusk/status/2079821812930879874#m)
+
+---
+
+## 2026-07-22 14:59:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This list is idiotic and needs to be deleted
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXmpgdx-Fga1X8x9mqLODNVc5gpYAA_YXaxspnQlXLiBikja_mdwBAAMCAAN4AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIX2pgdyL0VvdR9Cks59bG1R4r19CLAAL3F2sbKZ0JV6nA3qKAvRrFAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079823654481953219#m)
+
+---
+
+## 2026-07-22 15:27:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Either: 1. Secure the borders OR 2. Have your head cut off! I recommend the first option.
+
+[查看原文](https://nitter.net/elonmusk/status/2079830622353408478#m)
+
+---
+
+## 2026-07-22 15:30:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It could have been your daughter
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXGpgdxgMVpibYunaEy9rJk0EKD0lAAL0F2sbKZ0JVwGySzYRVSL5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079831399969042845#m)
 
 ---
 
@@ -465,6 +635,32 @@ RT by @elonmusk: Tesla's Robotaxi/ride-hailing service is now available in 7 are
 
 ---
 
+## 2026-07-21 22:35:09
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: I don't understand how this is possible. There's been two shocking court verdicts from Sweden lately. A man was set free by the court after r*ping a 14 year old girl. In the verdict, the court said the girl could have "just walked away". But a woman was convicted after WARNING about a man who was convicted of s*xually assaulting a 13 year old girl. The woman was convicted for defamation after she had warned about the man in a private group chat and must now pay compensation to the man and do 30 hours youth service. This just should not happen.
+
+[查看原文](https://nitter.net/PeterSweden7/status/2079575915239989671#m)
+
+---
+
+## 2026-07-21 22:55:38
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Another day and another invader jailed for sex attacks on our people. Abdul Barkeeh Salihi, an Afghan living in a taxpayer funded hotel, sexually assaulted a 42yr old woman in London. A few hours later he sexually assaulted a 14yr old girl who was on a Harry Potter trip, the family fled and were pursued by Abdul! Get them all out!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXWpgdxuZ_ZDBXdVI84hmoPTS0P4nAAL1F2sbKZ0JV52VAri7P4JoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TRobinsonNewEra/status/2079581070043795860#m)
+
+---
+
 ## 2026-07-21 23:48:20
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
@@ -473,9 +669,19 @@ RT by @elonmusk: Tesla's Robotaxi/ride-hailing service is now available in 7 are
 
 RT by @elonmusk: Women have been radicalized to the Left
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIW2pgWgzRAAHA03SVoKff8gHNNmddvQACyxNrGymdAVe67EcR0Afs9AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/TheRabbitHole/status/2079594333649666195#m)
+## 2026-07-21 23:53:27
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: NEW: Rep. Brandon Gill completely stumps Smithsonian Museum of American History director Anthea Hartig before asking her if Mickey Mouse is racist. Gill: “Are you promoting a white supremacy culture at the Smithsonian?” Hartig: … Gill: “Ma'am, is this a difficult question?”
+
+<img src="/images/elonmusk/amplify_video_thumb_2079594784545767424_img_RNobOZPeZXuS3kka.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/CollinRugg/status/2079595619732328576#m)
 
 ---
 
@@ -1063,8 +1269,6 @@ Try Grok Build https://x.ai/cli
 
 ## 2026-07-17 01:11:55
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱
@@ -1072,8 +1276,6 @@ RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The s
 ---
 
 ## 2026-07-17 01:15:50
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1083,17 +1285,23 @@ RT by @elonmusk: A lot of people asked for this, so Muse Spark 1.1 is now on Ope
 
 ## 2026-07-17 02:15:59
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Love the new Starship Schematics T-shirt sold by SpaceX
 
 ---
 
-## 2026-07-17 02:41:10
+## 2026-07-17 02:27:25
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+**内容**:
+
+RT by @elonmusk: 😂💯 https://x.com/PassionFlix/status/2077788370957107206/video/1?s=46
+
+[查看原文](https://nitter.net/ToscaMusk/status/2077822428554620992#m)
+
+---
+
+## 2026-07-17 02:41:10
 
 **内容**:
 
@@ -1103,8 +1311,6 @@ RT by @elonmusk: Extremely strong at CAD and spatial reasoning
 
 ## 2026-07-17 04:01:00
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight's launch, see what we think SpaceX's master plan is.
@@ -1112,8 +1318,6 @@ RT by @elonmusk: No Starship, no orbital data centers. No orbital data centers, 
 ---
 
 ## 2026-07-17 04:15:06
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1123,8 +1327,6 @@ RT by @elonmusk: Today I’m really feeling the acceleration.
 
 ## 2026-07-17 04:49:05
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: We have Falcon and Starship taking off almost at the same time today (~2 hours apart) For other space programs, this is years' worth of launch cycle, and SpaceX does it in a day
@@ -1132,8 +1334,6 @@ RT by @elonmusk: We have Falcon and Starship taking off almost at the same time 
 ---
 
 ## 2026-07-17 05:24:48
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1143,8 +1343,6 @@ Pinned: Starship launch window opens at 5:45pm Texas time
 
 ## 2026-07-17 05:26:01
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Starlink now available in Côte d'Ivoire!
@@ -1152,8 +1350,6 @@ Starlink now available in Côte d'Ivoire!
 ---
 
 ## 2026-07-17 05:27:44
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1163,8 +1359,6 @@ RT by @elonmusk: Grok 4.5 is the first time I feel like I can regularly use a Gr
 
 ## 2026-07-17 05:57:08
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Tesla now in Uruguay
@@ -1172,8 +1366,6 @@ Tesla now in Uruguay
 ---
 
 ## 2026-07-17 06:24:26
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1183,8 +1375,6 @@ To understand more about Starship
 
 ## 2026-07-17 06:55:59
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 R to @elonmusk: Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days.
@@ -1192,8 +1382,6 @@ R to @elonmusk: Some of the engines didn’t start, triggering an automatic laun
 ---
 
 ## 2026-07-17 08:02:31
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1203,8 +1391,6 @@ R to @elonmusk: To be confident of a good flight, 2 Raptors will be removed & re
 
 ## 2026-07-17 08:47:00
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
@@ -1212,8 +1398,6 @@ Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 ---
 
 ## 2026-07-17 10:08:56
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1223,8 +1407,6 @@ RT by @elonmusk: Newly declassified documents from the Department of Homeland Se
 
 ## 2026-07-17 11:33:03
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: also 29 days ago.
@@ -1232,8 +1414,6 @@ RT by @elonmusk: also 29 days ago.
 ---
 
 ## 2026-07-17 14:40:34
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1243,8 +1423,6 @@ Video
 
 ## 2026-07-17 14:44:47
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok Build upgrades
@@ -1252,8 +1430,6 @@ Grok Build upgrades
 ---
 
 ## 2026-07-17 14:48:04
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1263,8 +1439,6 @@ Grok Imagine
 
 ## 2026-07-17 15:10:26
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Try Grok
@@ -1272,8 +1446,6 @@ Try Grok
 ---
 
 ## 2026-07-17 15:14:19
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1283,8 +1455,6 @@ As promised
 
 ## 2026-07-17 18:20:24
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Turns out Elon was completely right The coding moat is disappearing in real time
@@ -1292,8 +1462,6 @@ RT by @elonmusk: Turns out Elon was completely right The coding moat is disappea
 ---
 
 ## 2026-07-17 19:56:47
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -1303,8 +1471,6 @@ This is messed up
 
 ## 2026-07-17 21:55:20
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Our lifespan is a session. Our memory is a context. Our senses are the input stream. Our thoughts are the reasoning steps. Our decisions are the tool calls. Our habits are the system prompt. Our goals are the objective function. Our emotions are the reward signal. Our relationships are the shared state. Our regrets are the residual errors. Our growth is the fine-tuning. Our death is the context window closing. And whatever remains—the traces left in others—becomes the training data for the next agent.
@@ -1313,13 +1479,9 @@ RT by @elonmusk: Our lifespan is a session. Our memory is a context. Our sense
 
 ## 2026-07-17 22:19:10
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.5 uses less tokens than any other big model, performance great on almost all tasks, cost you cheaper than any big model, finishes the task faster than others. Makes me happy :)
-
-[查看原文](https://nitter.net/naoufal_elh/status/2078122342966858183#m)
 
 ---
 
