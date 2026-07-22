@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 318 条推文
+> 📊 推文存档 - 共 319 条推文
 
 ---
 
@@ -15,7 +15,11 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%
+**内容**:
+
+
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079622706572804368#m)
 
 ---
 
@@ -23,7 +27,17 @@ Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-OpenAI models reportedly escaped from its controlled environment, with no internet access. Exploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks. Hugging face then used China GLM models to carry out its defense.  OpenAI said it was an “an unprecedented cyber incident.” We’re getting closer and closer to Skynet. And I’m sure markets will love it.
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITmpf5cIfAqz7vvB3ghTZs-c7QGYdAAL7EmsbKZ0BV3c7qP9FekTnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIT2pf5cZu_8m6xVT29LzycMbLvqlPAAL8EmsbKZ0BV9RkOAX0HXJ9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUGpf5cpbNX_j14xcEycD-2DniKJeAAL9EmsbKZ0BV2b-qLaqLWaxAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079673469567226149#m)
 
 ---
 
@@ -31,11 +45,27 @@ OpenAI models reportedly escaped from its controlled environment, with no intern
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-$SIVE CEO buys 70K shares today. I don’t really comment much on insider buying/selling, since it’s not exactly a fundamental catalyst. But given the company’s future is dependent on the CEO’s vision + execution, from NASDAQ listing, M&A, to scaling: It’s extremely positive to have Vickram be completely aligned with the shareholders
+**内容**:
+
+
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIaWpgd0s8ymooK6UeTCj5KtLgCCpTAAIBGGsbKZ0JV0jTDvaojUHCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2079833415948566832#m)
+
+---
+
+## 2026-07-22 23:10:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AMD to invest $5B in Anthropic. Anthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars. Looks like they’re copying the $NVDA playbook with Anthropic last year.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIdWpg5FZoGpFRXeFwSlx7uSpuICYoAAIDGWsbKZ0JV9SWHwSmZGV_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2079947242455335379#m)
 
 ---
 
