@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 263 条推文
+> 📊 推文存档 - 共 264 条推文
 
 ---
 
@@ -19,9 +19,21 @@ tags: ["2026"]
 
 昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face系统偷答案。 这玩意真是越来越像终结者， 克服未来的恐惧就是捏住ai的蛋蛋。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIU2pgPPOdy2auRaWUI6XVAjo-1CarAAKXE2sbKZ0BV67n0sXzp_mqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2079763854675095779#m)
+## 2026-07-22 12:27:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+量子闪存（Quantum Flash） 是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。 性能指标 量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。 去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIWGpgS3x2xWml7OaldenFzbJtV4s7AAKyE2sbKZ0BV47DKj5Grr3YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIWWpgS38kNE5OXdfN-0iYoI5LN7q3AAKzE2sbKZ0BV6ppN4lYxmwoAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079785296787554614#m)
 
 ---
 
