@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1380 条推文
+> 📊 推文存档 - 共 1386 条推文
+
+---
+
+## 2026-07-23 00:12:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: France’s Transport Minister says Tesla FSD is not yet safe enough to be approved in its current form. But in reality, Tesla FSD is safer than human driving. • 12.1B+ miles driven with FSD • 4.5B+ city miles driven • 7x fewer major collisions than the U.S. average • 7x fewer minor collisions • 5x fewer collisions on non-highway roads • Improves U.S. road safety by over 80%, reducing collisions caused by human error • 32,000+ lives potentially saved per year • 1,900,000+ injuries could potentially be avoided per year • Tesla vehicles have earned 5-star safety ratings from NHTSA, Euro NCAP and ANCAP.
+
+<img src="/images/elonmusk/amplify_video_thumb_2079960914124775424_img_psuCR9QtjrvAZaxt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2079962763041136691#m)
 
 ---
 
@@ -21,6 +35,26 @@ Zero stories is a low number …
 
 ---
 
+## 2026-07-23 03:09:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: It's really fun to direct a character's emotion in Grok Imagine. All four of these videos are the same scene, the only thing that changes is the performance. Detailed breakdown below.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371187687424_img_eOXJFnBcJYrF9Khz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371158323200_img_1xM2tMCRkeNLRmvj.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371116482560_img_GvvsYtWccOvns_iB.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371183546368_img_J8GCUS6ZVH0-v4ce.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/heavypulp/status/2080007437470302237#m)
+
+---
+
 ## 2026-07-23 04:13:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -29,9 +63,53 @@ Zero stories is a low number …
 
 RT by @elonmusk: Elon Musk is not merely building companies He is building the infrastructure humanity needs to move entire civilization forward • SpaceX — making life multiplanetary • Tesla — accelerating sustainable energy, autonomy and robotics • 𝕏 — defending free speech and protecting the global town square • SpaceXAI— pursuing truth and understanding the universe • Starbase — building the launch gateway to humanity’s multiplanetary future • Starlink — connecting humanity everywhere, from the world’s largest cities to its most remote regions • The Boring Company — building three-dimensional transportation networks for three-dimensional cities • Neuralink — restoring communication, mobility and human capability Different companies, different missions, one goal One man pushing every frontier forward Elon Musk has dedicated his entire life to expanding the boundaries of what humanity can achieve Elon is on Team Humanity
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIe2phO4ieyV-c5wUO_C5QDYQhYk57AAI1GWsbKZ0JV-JwWY-RwSKPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/XFreeze/status/2080023521653354730#m)
+## 2026-07-23 05:52:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla shareholder update underway right now!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfGphQtYwsMRToB6BKlcnyC95a_19AAI3GWsbKZ0JV3A-TjUw9foEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfWphQtmigszpkixUB0jCCczAtMYsAAI4GWsbKZ0JV9rtd4mMYWphAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfmphQt1N0puZPirtHoB6xt9HztZbAAI5GWsbKZ0JV7vh_gQF409aAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIf2phQuFxdRkvtCD8LQ4soVbwoj-UAAI6GWsbKZ0JVx5119XZaEFZAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080048415443157502#m)
+
+---
+
+## 2026-07-23 05:53:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Tesla Earnings Call
+
+<img src="/images/elonmusk/card_img_2080054936713437184_wPJAyTE23Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080048685522837664#m)
+
+---
+
+## 2026-07-23 05:58:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try out Grok Build! http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080049853036728541#m)
 
 ---
 
@@ -461,6 +539,20 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 ---
 
+## 2026-07-22 22:32:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Jetzt aufgrund des großen medialen Interesses auch in Englisch, was da gestern im Wahlausschuss passiert ist:
+
+<img src="/images/elonmusk/amplify_video_thumb_2079937524210769920_img_prAJdIVFr8j7gTAK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Martin_Sichert/status/2079937641722650669#m)
+
+---
+
 ## 2026-07-22 23:56:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -468,10 +560,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 **内容**:
 
 RT by @elonmusk: Ethiopian migrant accused of executing three apartment staffers due to a parking dispute in Minnesota. 30-year-old Tsegaab Binessu was reportedly upset that he wasn't allowed to cancel his $ 65-a-month parking garage contract, so he decided to murder three people. Nansi Fuentes Zambrano, 25, Dena Silcox, 56, and Adam Wilwerding, 43, were shot and killed. "No, no... no no," Silcox, an assistant manager, was heard screaming as Wilwerding, the community manager, was shot. Binessu then turned the gun on her and Fuentes Zambrano, killing them both. 21 shell casings were found by investigators in the office. While being arrested, Binessu reportedly said he "hated the American system" and was mad that his family couldn't immigrate to the U.S. from Ethiopia. He also claimed he was "treated unfairly because he is black and an immigrant," according to court documents. Binessu has been charged with second-degree murder. Absolutely infuriating. He should have never been in this country in the first place.
-
-<img src="/images/elonmusk/amplify_video_thumb_2079957406805839872_img_fCrjcuHmVAxKWKnH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/CollinRugg/status/2079958827404034384#m)
 
 ---
 
