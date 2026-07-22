@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 223 条推文
+> 📊 推文存档 - 共 224 条推文
 
 ---
 
@@ -17,12 +17,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="/images/dianzhuXS/amplify_video_thumb_2079680288733773824_img_HAPdoEws8Or1QlUq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2079680482326036723#m)
-
 ---
 
 ## 2026-07-22 08:01:36
@@ -31,12 +25,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUWpgChnEcQRrbbftewjmQFq2vx50AAIUE2sbKZ0BV4toAzv00wckAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2079718465225785416#m)
-
 ---
 
 ## 2026-07-22 16:17:40
@@ -44,12 +32,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/dianzhuXS/amplify_video_thumb_2079450155162710016_img__udTpuhbNfsBzUwz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2079843307480641651#m)
 
 ---
 
@@ -61,9 +43,19 @@ tags: ["2026"]
 
 【今晚直播連結】 全球大風大邪，我們一招破邪（2026.7.22） https://www.youtube.com/live/Qvaffr3hTNA?si=kEmnrS6V1uZNRr8K 來自 @YouTube
 
+---
+
+## 2026-07-22 21:59:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+200斤的新綽號～東方不錯兒
+
 <img src="/images/dianzhuXS/card_img_2079867257874976768_6Ty-nLwj3Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/dianzhuXS/status/2079867315336929653#m)
+[查看原文](https://nitter.net/dianzhuXS/status/2079929263344820390#m)
 
 ---
 
