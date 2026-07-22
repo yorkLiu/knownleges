@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1375 条推文
+> 📊 推文存档 - 共 1377 条推文
 
 ---
 
@@ -17,12 +17,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079597967929999360_img_qnbgpZxIxpsyGfQr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/libsoftiktok/status/2079601674415427801#m)
-
 ---
 
 ## 2026-07-22 00:36:15
@@ -30,14 +24,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRWpfpF3H4YBaUGpNZl-rgROBqK07AALPEmsbKZ0BV9PcBNTk8iAxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRmpfpGHOiA9i6IIlocFf2naAjjfYAALQEmsbKZ0BV_05suNeFVG5AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079606389631332659#m)
 
 ---
 
@@ -47,10 +33,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/karpathy/status/2079610838143623371#m)
-
 ---
 
 ## 2026-07-22 00:53:58
@@ -58,12 +40,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUmpgJydQP50qNCRQA9eZz1Oeq936AAJJE2sbKZ0BV6leXS4MhPQrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2079610848927195407#m)
 
 ---
 
@@ -73,10 +49,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/cursor_ai/status/2079615536963485815#m)
-
 ---
 
 ## 2026-07-22 01:30:00
@@ -84,10 +56,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/multiplanet1/status/2079619917406425594#m)
 
 ---
 
@@ -97,12 +65,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVWpgPP-PDPwiBv5aYOFU1KCETx-QAAKZE2sbKZ0BV0m-ZEiNLtXNAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/america/status/2079632608950911270#m)
-
 ---
 
 ## 2026-07-22 02:48:34
@@ -110,10 +72,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/engineers_feed/status/2079639690567729647#m)
 
 ---
 
@@ -123,12 +81,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIV2pgPQc1iJWHfpSf4PYRzDDdLUQWAAKbE2sbKZ0BV-r4MK6FryuQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AJamesMcCarthy/status/2079653799929749653#m)
-
 ---
 
 ## 2026-07-22 04:03:59
@@ -136,14 +88,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIcGpgfq9hFhscZvsDjRRJmWtNbYVAAAIkGGsbKZ0JV1312enKxaCRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIcWpgfrG3J1qtFuCxy2pPinaFyvuZAAIlGGsbKZ0JV_-epqqfS4k1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2079658668279423360#m)
 
 ---
 
@@ -153,18 +97,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISmpf1zrsZoLRlbjpqscIVFFGl-sZAALvEmsbKZ0BV5_FwJjiLo8FAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIS2pf1z-fdf8Wpb2019t2YoZDWaZ-AALwEmsbKZ0BV8DS6PjJbvHTAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITGpf10JYZbnnKksIhMeBwRre3yX6AALxEmsbKZ0BVxRrz7p0O5DCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITWpf10UnXiURD8tNCvIjBJpg4XuzAALyEmsbKZ0BV8GwtyaUzeSRAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079660702592086188#m)
-
 ---
 
 ## 2026-07-22 04:19:32
@@ -172,12 +104,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079662501109833728_img_HO07yvkSphRdfyVw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tesla_na/status/2079662582139613236#m)
 
 ---
 
@@ -187,12 +113,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079666387010887680_img_RltS7Vb-2aIC_5ZF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/kimbal/status/2079666603504075239#m)
-
 ---
 
 ## 2026-07-22 04:52:32
@@ -200,18 +120,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZWpgdzoFyBTIsD0h_ONX8SYY6e_ZAAL9F2sbKZ0JV93cswuBBcS_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZmpgdz6bnHV5DOTFmQvC_VOE2uheAAL-F2sbKZ0JV6UdVhP0l_SUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZ2pgd0Lr5WVvCT4gVXA6cUxMmW42AAL_F2sbKZ0JVyTq6Eq3lezLAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIaGpgd0YFOlBFsQMhgZxCCTaPOuxYAAMYaxspnQlXkjf2pzY2bXABAAMCAAN5AAM9BA.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/doganuraldesign/status/2079670888622850053#m)
 
 ---
 
@@ -221,12 +129,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079696188824272897_img_L00NCwDzdvWxYHbo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tesla_na/status/2079697840792871154#m)
-
 ---
 
 ## 2026-07-22 07:36:40
@@ -235,10 +137,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/Riley_Gaines_/status/2079712192346157531#m)
-
 ---
 
 ## 2026-07-22 08:54:44
@@ -246,10 +144,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/GadSaad/status/2079731838197600484#m)
 
 ---
 
@@ -261,10 +155,6 @@ tags: ["2026"]
 
 RT by @elonmusk: Dear @ZohranKMamdani, thank you for improving the lives of New Yorkers by spending your days either explaining to the Americans that Islam should rule the US, and/or why Israel is an evil entity. The United States failed its citizens when they allowed your family to become Americans. You are as American as a man who sleeps in a stable becoming a horse.
 
-<img src="/images/elonmusk/amplify_video_thumb_2079717921392152576_img_EOITNltI6evO0heY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/GadSaad/status/2079734938811711807#m)
-
 ---
 
 ## 2026-07-22 09:09:53
@@ -275,10 +165,6 @@ RT by @elonmusk: Dear @ZohranKMamdani, thank you for improving the lives of New 
 
 RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accused of the anti-ICE arson terror attack in Manhattan, at a 2025 protest wearing a Luigi hat with a pro-Palestine symbol. He repeatedly calls a Jewish man the n-word.
 
-<img src="/images/elonmusk/amplify_video_thumb_2079723316546269184_img_t2w8n7Oe7OYsqR4q.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MrAndyNgo/status/2079735652216693156#m)
-
 ---
 
 ## 2026-07-22 09:47:28
@@ -286,10 +172,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079745107881017576#m)
 
 ---
 
@@ -299,12 +181,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079745716575248538#m)
-
 ---
 
 ## 2026-07-22 09:53:32
@@ -312,10 +188,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079746636990001378#m)
 
 ---
 
@@ -325,10 +197,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079747118525534603#m)
-
 ---
 
 ## 2026-07-22 10:41:06
@@ -336,12 +204,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079623240972939265_img_WPnju49YIuz5b0uh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079758604656316619#m)
 
 ---
 
@@ -351,12 +213,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVmpgPQPGQ9EII5KVnqZ6koN-YeKBAAKaE2sbKZ0BVxcr1Yzq3Y0-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079762316669898880#m)
-
 ---
 
 ## 2026-07-22 11:19:42
@@ -365,10 +221,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079768318471442845#m)
-
 ---
 
 ## 2026-07-22 11:20:47
@@ -376,12 +228,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVGpgPPx6ZwABWqS14WSVR4l4W-UrLAACmBNrGymdAVf3VRfLr7IojQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079768591206117877#m)
 
 ---
 
@@ -393,10 +239,6 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 RT by @elonmusk: Today in AI.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIcmpguLtvaU7iR3NsowJXcKHpeS7QAAKvGGsbKZ0JV6bcu48jKSqpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/bgurley/status/2079769629329952947#m)
-
 ---
 
 ## 2026-07-22 11:26:10
@@ -405,13 +247,17 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
+---
 
+## 2026-07-22 11:36:51
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIY2pgdzE86P9bgtRIJpBSdjKpB34wAAL7F2sbKZ0JV1NsVx3nB3RVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZGpgdzSdJCGAOxVNK15GLzXJal4FAAL8F2sbKZ0JV46klYBtcUzUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/XFreeze/status/2079769949422403696#m)
+RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST OPEN AI
+
+[查看原文](https://nitter.net/adeoressi/status/2079772638273319365#m)
 
 ---
 
@@ -421,18 +267,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIbGpgfqDI41LlAfPm44FeUVV0-RJNAAIgGGsbKZ0JV_t9vwkGLaTNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIbWpgfqM8eqxpjceGHBdlFmUrgptsAAIhGGsbKZ0JV3xn-8BjiOxEAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIbmpgfqgIj7YneSTE_sq__aNk3YK7AAIiGGsbKZ0JVwF1V3EXoSWPAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIb2pgfqyVDnE_gJ1mSyK-9e8L9ovJAAIjGGsbKZ0JVyEYl3Jpzte8AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/sundarpichai/status/2079782148605641102#m)
-
 ---
 
 ## 2026-07-22 13:12:52
@@ -440,12 +274,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYmpgdy45mo14f0ahf-ZFVMBFF-01AAL6F2sbKZ0JVwG78DsVeRVQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/libsoftiktok/status/2079796799460585629#m)
 
 ---
 
@@ -455,12 +283,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079799034387337216_img_tg67vvo-Xpk8Q8IP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/paranoidream/status/2079799074325422343#m)
-
 ---
 
 ## 2026-07-22 13:39:13
@@ -468,10 +290,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079803429325877544#m)
 
 ---
 
@@ -481,12 +299,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2025059567978045440_img_HMcCUD5YsvIlOxn4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079804007305089275#m)
-
 ---
 
 ## 2026-07-22 13:42:23
@@ -494,10 +306,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079804227518599478#m)
 
 ---
 
@@ -507,10 +315,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079811908069405105#m)
-
 ---
 
 ## 2026-07-22 14:47:57
@@ -518,12 +322,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYWpgdyqjhj8J-DyiDMm_G4CXUzYnAAL5F2sbKZ0JVxogZVllzTiWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079820726476144749#m)
 
 ---
 
@@ -533,12 +331,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYGpgdyg88beqvJf9DnbbkYCoMvX_AAL4F2sbKZ0JV3-H9mKXi1HzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079820895997366771#m)
-
 ---
 
 ## 2026-07-22 14:50:08
@@ -546,12 +338,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079816985660026880_img_c-i2XphkQYNVDmTT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079821278681379159#m)
 
 ---
 
@@ -561,10 +347,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079821812930879874#m)
-
 ---
 
 ## 2026-07-22 14:59:35
@@ -572,14 +354,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXmpgdx-Fga1X8x9mqLODNVc5gpYAA_YXaxspnQlXLiBikja_mdwBAAMCAAN4AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIX2pgdyL0VvdR9Cks59bG1R4r19CLAAL3F2sbKZ0JV6nA3qKAvRrFAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079823654481953219#m)
 
 ---
 
@@ -589,10 +363,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079830622353408478#m)
-
 ---
 
 ## 2026-07-22 15:30:21
@@ -600,12 +370,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXGpgdxgMVpibYunaEy9rJk0EKD0lAAL0F2sbKZ0JVwGySzYRVSL5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079831399969042845#m)
 
 ---
 
@@ -615,10 +379,6 @@ RT by @elonmusk: Today in AI.
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079839398959697982#m)
-
 ---
 
 ## 2026-07-22 16:13:51
@@ -626,14 +386,6 @@ RT by @elonmusk: Today in AI.
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIampgfpif1XUPbAABMRSOWY7NKN87HgACHhhrGymdCVfv7yJS5uyq9AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079842345668022641#m)
 
 ---
 
@@ -645,12 +397,6 @@ RT by @elonmusk: Today in AI.
 
 RT by @elonmusk: Grok Build continues to strengthen the developer experience with safer extension management, better session recovery, and more resilient auto-compaction when authentication expires Release Notes: v0.2.110 Features: • Removing MCP servers, plugins, or hook sources in the Extensions modal now asks for confirmation (press y to proceed) Bug Fixes: • Session creation failures (including disk full) now show an error message instead of hanging on "Starting session…". • Auto-compact that fails due to an expired token now lets you log in and automatically retry the compact + original prompt
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIc2pguL7-Jm5-xRb3R9hzj6QXuiEbAAKxGGsbKZ0JV9woOQUwNrqWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYWpgdyqjhj8J-DyiDMm_G4CXUzYnAAL5F2sbKZ0JVxogZVllzTiWAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2079873531387711985#m)
-
 ---
 
 ## 2026-07-22 20:11:04
@@ -660,8 +406,6 @@ RT by @elonmusk: Grok Build continues to strengthen the developer experience wit
 **内容**:
 
 Exactly
-
-[查看原文](https://nitter.net/elonmusk/status/2079902044882968832#m)
 
 ---
 
@@ -673,8 +417,6 @@ Exactly
 
 RT by @elonmusk: Weird how the mainstream media is suddenly very quiet about the attacks on democracy currently happening in Hungary.
 
-[查看原文](https://nitter.net/PeterSweden7/status/2079902263745618379#m)
-
 ---
 
 ## 2026-07-22 20:12:50
@@ -684,8 +426,6 @@ RT by @elonmusk: Weird how the mainstream media is suddenly very quiet about the
 **内容**:
 
 Yes
-
-[查看原文](https://nitter.net/elonmusk/status/2079902487511978269#m)
 
 ---
 
@@ -697,10 +437,6 @@ Yes
 
 Their next step is to agree that there are large numbers of illegals voting (or usually getting harvested by Dem operatives who pick up their ballots and fill them out) and that it is a good thing and anyone who opposes it is racist
 
-<img src="/images/elonmusk/amplify_video_thumb_2079808018737205248_img_RkW-ehNAcCZ-WkzY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079903803227455928#m)
-
 ---
 
 ## 2026-07-21 00:21:49
@@ -708,14 +444,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIJGpeZJq-XXT-jZf_f-FQuHR6WQL3AAKwE2sbHzT5VjyO-IS4-Y1bAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIJWpeZJ0SrhEZrSgAATn_i3rkJbPlqwACsRNrGx80-VaQuoErkD0tRQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/leerob/status/2079240370576146875#m)
 
 ---
 
@@ -725,12 +453,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079229923475263489_img_yqsaIdiSekjHYQ8s.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079261553136734239#m)
-
 ---
 
 ## 2026-07-21 02:32:33
@@ -739,11 +461,19 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
+---
 
+## 2026-07-21 06:14:00
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIMGpe9gIYv9V1zjUrMFYvJ8dthTc3AAJYFmsbHzT5Vp9_Msr0fpa1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-[查看原文](https://nitter.net/nikitabier/status/2079273272274026718#m)
+**内容**:
+
+RT by @elonmusk: No threat of violence against my life is going to stop me from pushing for the SAVE America Act.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIdGpgv_6it9r-Pfij1788Uq2mkmsEAALFGGsbKZ0JV0FIK_qC-05yAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ScottPresler/status/2079329000787468594#m)
 
 ---
 
@@ -753,10 +483,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/wholemars/status/2079358618546409871#m)
-
 ---
 
 ## 2026-07-21 08:20:13
@@ -764,14 +490,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOmpfIYmLzJzsJtHuJfJxORFZtCfbAALbGGsbHzQBV0US_cDCtXmFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIO2pfIY3ICg1MzMcnWfMfubjhuqnkAALcGGsbHzQBVw_feFOdgh2lAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/paranoidream/status/2079360764213874980#m)
 
 ---
 
@@ -781,12 +499,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPGpfIZI7Fnw3s5FeytTC9rkPWKdJAALdGGsbHzQBV24fa3JGQgOiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/DannyLimanseta/status/2079387802924732537#m)
-
 ---
 
 ## 2026-07-21 10:13:22
@@ -794,10 +506,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/yunta_tsai/status/2079389241021501447#m)
 
 ---
 
@@ -807,12 +515,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079411019961573376_img_agpImFplelixGmZx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dvorahfr/status/2079411063603245287#m)
-
 ---
 
 ## 2026-07-21 12:17:06
@@ -820,10 +522,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079420377604759584#m)
 
 ---
 
@@ -833,12 +531,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIL2pe9gABzu6zZTo60Tc-fSwLoqxB-AACVxZrGx80-VZwr6SZBsOsGgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079420769302397401#m)
-
 ---
 
 ## 2026-07-21 12:19:08
@@ -846,12 +538,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILmpe9fxJrfdgaBklZfa3CMxMxd4yAAJWFmsbHzT5VoqjM9O1n02OAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079420891163680790#m)
 
 ---
 
@@ -861,10 +547,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/AdamLowisz/status/2079422033151029591#m)
-
 ---
 
 ## 2026-07-21 12:56:59
@@ -872,14 +554,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINWpfBH_seI-LVYlMl3wFWgABxbr99gACCxdrGx80-VaV_nSlFHwPrAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079430412837757338#m)
 
 ---
 
@@ -889,10 +563,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079446276299465185#m)
-
 ---
 
 ## 2026-07-21 14:09:01
@@ -900,10 +570,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/elonmusk/status/2079448540900647179#m)
 
 ---
 
@@ -913,12 +579,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2078946434863579136_img_4DZZ4X-PEE3pUN9m.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079448786745631005#m)
-
 ---
 
 ## 2026-07-21 15:59:17
@@ -926,14 +586,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISGpfq6KMlsT0PuyeHicCVvV04kAnAALXEmsbKZ0BVyK5NQ8e_8FWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISWpfq6j-NdSJsfHofvc0O3islWNsAALYEmsbKZ0BVwVAV6VtRgTsAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Anc_Aesthetics/status/2079476290394984934#m)
 
 ---
 
@@ -943,12 +595,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079331657690075136_img_F0fiwPgHV_5sH9IT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/spencerpratt/status/2079534336143921435#m)
-
 ---
 
 ## 2026-07-21 22:13:19
@@ -956,12 +602,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIa2pgfpsPkAEBaEhi6ebyTv7-rr0jAAIfGGsbKZ0JVxJ2aqJbAzLmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/BenjDicken/status/2079570418869137753#m)
 
 ---
 
@@ -971,12 +611,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRGpfpFoY_600iPTZYVA5Gr5fVVhAAALOEmsbKZ0BV3gLvXihKWooAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2079571784760746359#m)
-
 ---
 
 ## 2026-07-21 22:35:09
@@ -985,10 +619,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/PeterSweden7/status/2079575915239989671#m)
-
 ---
 
 ## 2026-07-21 22:55:38
@@ -996,12 +626,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXWpgdxuZ_ZDBXdVI84hmoPTS0P4nAAL1F2sbKZ0JV52VAri7P4JoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/TRobinsonNewEra/status/2079581070043795860#m)
 
 ---
 
@@ -1013,8 +637,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 
 RT by @elonmusk: The Crown Prosecution Service has confirmed our dear friend Ann Widdecombe was eating lunch when Joshua Kerry allegedly arrived at her house and entered through the front door. He then allegedly hit her on the head with a hammer 21 times. Before allegedly driving off. Why did the police and Keir Starmer tell Nigel Farage it was a “burglary gone wrong”? The authorities had better preserve all files and records. As Home Secretary in a Reform government I will take a keen interest in all communications in those initial hours. I will ensure the public learns the truth.
 
-[查看原文](https://nitter.net/ZiaYusufUK/status/2079585592938054009#m)
-
 ---
 
 ## 2026-07-21 23:48:20
@@ -1023,12 +645,6 @@ RT by @elonmusk: The Crown Prosecution Service has confirmed our dear friend Ann
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIW2pgWgzRAAHA03SVoKff8gHNNmddvQACyxNrGymdAVe67EcR0Afs9AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/TheRabbitHole/status/2079594333649666195#m)
-
 ---
 
 ## 2026-07-21 23:53:27
@@ -1036,12 +652,6 @@ RT by @elonmusk: The Crown Prosecution Service has confirmed our dear friend Ann
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079594784545767424_img_RNobOZPeZXuS3kka.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/CollinRugg/status/2079595619732328576#m)
 
 ---
 
