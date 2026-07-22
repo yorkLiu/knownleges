@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 319 条推文
+> 📊 推文存档 - 共 320 条推文
+
+---
+
+## 2026-07-23 04:27:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. Cloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. Capex: $44.92B vs ~$44.15B (basically in line). So initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand. Their former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... Should be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. And that should be in 3 minutes.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2080027058063958323#m)
 
 ---
 
