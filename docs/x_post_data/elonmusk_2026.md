@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1338 条推文
+> 📊 推文存档 - 共 1344 条推文
+
+---
+
+## 2026-07-22 00:17:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Rep Gill: "Is it important to be polite?" Smithsonian Director Anthea Hartig: "Yes, sir." Rep Gill: "Your organization says 'politeness' is White Supremacy culture... are you a white supremacist?"
+
+<img src="/images/elonmusk/amplify_video_thumb_2079597967929999360_img_qnbgpZxIxpsyGfQr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/libsoftiktok/status/2079601674415427801#m)
 
 ---
 
@@ -59,8 +73,6 @@ RT by @elonmusk: We've doubled usage limits for all individual and teams plans! 
 
 RT by @elonmusk: A SpaceX intern once described eating lunch next to Elon Musk in the company cafeteria. The intern said Elon sat down at a regular table with a regular tray of food. No entourage. No reserved section. He sat next to two junior engineers who were clearly terrified. One of them was explaining a problem with a valve component to the other. Elon listened without introducing himself or interrupting. After about three minutes he turned to the engineer and said "have you tried running it at a lower pressure gradient first." The engineer stared at him. Then realized the CEO of the company had just casually solved a problem his team had been stuck on for a week. The intern said what happened next was the part that surprised him. Elon didn't leave. Didn't check his phone. He spent the next twenty minutes asking the engineers questions about their work. Not CEO questions about timelines and budgets. Engineering questions about fluid dynamics and material stress tolerances. He was genuinely curious. The cafeteria conversation was indistinguishable from a technical review. The intern said he understood in that moment why people work 80-hour weeks for this man. Not because he's inspiring. Not because he pays well. Because he's the only CEO in the world who sits in the cafeteria and solves your engineering problem between bites of a burrito. People follow leaders who are above them. People worship leaders who sit next to them and prove they understand the work better than the people doing it.
 
-[查看原文](https://nitter.net/multiplanet1/status/2079619917406425594#m)
-
 ---
 
 ## 2026-07-22 02:20:26
@@ -70,10 +82,6 @@ RT by @elonmusk: A SpaceX intern once described eating lunch next to Elon Musk i
 **内容**:
 
 RT by @elonmusk: The Governor of New Jersey just admitted that 6,600 non-citizens were registered to vote due to a “software error”. 400 of them voted. This is exactly why we need the SAVE America Act.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVWpgPP-PDPwiBv5aYOFU1KCETx-QAAKZE2sbKZ0BV0m-ZEiNLtXNAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/america/status/2079632608950911270#m)
 
 ---
 
@@ -94,10 +102,6 @@ RT by @elonmusk: Enough with everyone trying to be an influencer. We need electr
 **内容**:
 
 RT by @elonmusk: Going for a photo even cooler than this on Thursday 👀
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIV2pgPQc1iJWHfpSf4PYRzDDdLUQWAAKbE2sbKZ0BV-r4MK6FryuQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AJamesMcCarthy/status/2079653799929749653#m)
 
 ---
 
@@ -129,10 +133,6 @@ RT by @elonmusk: Launch Dog now available at Tesla Diner 🌭 – Premium all-be
 
 RT by @elonmusk: FIFA brought the world together ⚽️🙏⚽️
 
-<img src="/images/elonmusk/amplify_video_thumb_2079666387010887680_img_RltS7Vb-2aIC_5ZF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/kimbal/status/2079666603504075239#m)
-
 ---
 
 ## 2026-07-22 06:39:38
@@ -143,9 +143,17 @@ RT by @elonmusk: FIFA brought the world together ⚽️🙏⚽️
 
 RT by @elonmusk: Cybercab on display at Tesla Diner
 
-<img src="/images/elonmusk/amplify_video_thumb_2079696188824272897_img_L00NCwDzdvWxYHbo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/tesla_na/status/2079697840792871154#m)
+## 2026-07-22 08:54:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Indeed. I received an angry email from a Swede complaining that I was unfairly maligning Sweden. Rather than thank me for trying to defend Sweden from its suicidal empathy, I'm the mean individual for pointing out their Civilizational Seppuku.
+
+[查看原文](https://nitter.net/GadSaad/status/2079731838197600484#m)
 
 ---
 
@@ -197,10 +205,6 @@ Troubling …
 
 Pinned: Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Homer
 
-<img src="/images/elonmusk/amplify_video_thumb_2079623240972939265_img_WPnju49YIuz5b0uh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079758604656316619#m)
-
 ---
 
 ## 2026-07-22 10:55:51
@@ -210,10 +214,6 @@ Pinned: Before this year ends, Grok Imagine will make a full-length movie of The
 **内容**:
 
 😂
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVmpgPQPGQ9EII5KVnqZ6koN-YeKBAAKaE2sbKZ0BVxcr1Yzq3Y0-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079762316669898880#m)
 
 ---
 
@@ -225,8 +225,6 @@ Pinned: Before this year ends, Grok Imagine will make a full-length movie of The
 
 It will
 
-[查看原文](https://nitter.net/elonmusk/status/2079768318471442845#m)
-
 ---
 
 ## 2026-07-22 11:20:47
@@ -237,9 +235,43 @@ It will
 
 This is the way
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVGpgPPx6ZwABWqS14WSVR4l4W-UrLAACmBNrGymdAVf3VRfLr7IojQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2079768591206117877#m)
+## 2026-07-22 13:39:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://nitter.net/elonmusk/status/2079803429325877544#m)
+
+---
+
+## 2026-07-22 13:41:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+<img src="/images/elonmusk/amplify_video_thumb_2025059567978045440_img_HMcCUD5YsvIlOxn4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079804007305089275#m)
+
+---
+
+## 2026-07-22 13:42:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Getting this approval took a lot of work by the Tesla team
+
+[查看原文](https://nitter.net/elonmusk/status/2079804227518599478#m)
 
 ---
 
@@ -421,10 +453,6 @@ RT by @elonmusk: Someone tipped me off to a website where it compiles all the re
 
 RT by @elonmusk: You can vote your way into communism. But you can't vote your way out.
 
-<img src="/images/elonmusk/amplify_video_thumb_2079331657690075136_img_F0fiwPgHV_5sH9IT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/spencerpratt/status/2079534336143921435#m)
-
 ---
 
 ## 2026-07-21 22:18:44
@@ -434,6 +462,20 @@ RT by @elonmusk: You can vote your way into communism. But you can't vote your w
 **内容**:
 
 RT by @elonmusk: Tesla's Robotaxi/ride-hailing service is now available in 7 areas: • Orlando: Unsupervised Model Y rides only (new) • Miami: Unsupervised Model Y rides only • Tampa: Unsupervised Model Y rides only (new) • Dallas: Unsupervised Model Y rides only • Houston: Unsupervised Model Y rides only • Austin: Mix of Unsupervised & safety monitor Model Y rides • Bay Area: Safety monitor Model Y rides only
+
+---
+
+## 2026-07-21 23:48:20
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Women have been radicalized to the Left
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIW2pgWgzRAAHA03SVoKff8gHNNmddvQACyxNrGymdAVe67EcR0Afs9AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheRabbitHole/status/2079594333649666195#m)
 
 ---
 
