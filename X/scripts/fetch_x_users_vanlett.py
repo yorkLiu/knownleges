@@ -270,7 +270,7 @@ def save_to_markdown(username, desc, tweets, stats):
                     ])
                     f.write(f"{tags_str}\n\n")
                 
-                f.write(f"**内容**:\n\n{tweet['content']}\n\n")
+                f.write(f"{tweet['content']}\n\n")
                 
                 # 写入本地图片
                 for idx, local_path in tweet.get('local_images', []):

@@ -15,8 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Rep Gill: "Is it important to be polite?" Smithsonian Director Anthea Hartig: "Yes, sir." Rep Gill: "Your organization says 'politeness' is White Supremacy culture... are you a white supremacist?"
 
 ---
@@ -24,8 +22,6 @@ RT by @elonmusk: Rep Gill: "Is it important to be polite?" Smithsonian Director 
 ## 2026-07-22 00:36:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 And Miami
 
@@ -35,8 +31,6 @@ And Miami
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like "switching to speech recognition sorry for any typos...". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.
 
 ---
@@ -44,8 +38,6 @@ RT by @elonmusk: One pattern I find useful for working with LLMs is a nice long 
 ## 2026-07-22 00:53:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Grok 4.5 is now available directly inside Microsoft Outlook. • Summarize long email threads & attachments • Identify decisions, owners & pending tasks • Draft replies in your own voice • Search the web and 𝕏 • Organize, archive, delete, or flag emails
 
@@ -55,8 +47,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 is now available directly inside Microsoft O
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: We've doubled usage limits for all individual and teams plans! These limits apply to Grok, Composer, and any new Cursor models.
 
 ---
@@ -64,8 +54,6 @@ RT by @elonmusk: We've doubled usage limits for all individual and teams plans! 
 ## 2026-07-22 01:30:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: A SpaceX intern once described eating lunch next to Elon Musk in the company cafeteria. The intern said Elon sat down at a regular table with a regular tray of food. No entourage. No reserved section. He sat next to two junior engineers who were clearly terrified. One of them was explaining a problem with a valve component to the other. Elon listened without introducing himself or interrupting. After about three minutes he turned to the engineer and said "have you tried running it at a lower pressure gradient first." The engineer stared at him. Then realized the CEO of the company had just casually solved a problem his team had been stuck on for a week. The intern said what happened next was the part that surprised him. Elon didn't leave. Didn't check his phone. He spent the next twenty minutes asking the engineers questions about their work. Not CEO questions about timelines and budgets. Engineering questions about fluid dynamics and material stress tolerances. He was genuinely curious. The cafeteria conversation was indistinguishable from a technical review. The intern said he understood in that moment why people work 80-hour weeks for this man. Not because he's inspiring. Not because he pays well. Because he's the only CEO in the world who sits in the cafeteria and solves your engineering problem between bites of a burrito. People follow leaders who are above them. People worship leaders who sit next to them and prove they understand the work better than the people doing it.
 
@@ -75,8 +63,6 @@ RT by @elonmusk: A SpaceX intern once described eating lunch next to Elon Musk i
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The Governor of New Jersey just admitted that 6,600 non-citizens were registered to vote due to a “software error”. 400 of them voted. This is exactly why we need the SAVE America Act.
 
 ---
@@ -84,8 +70,6 @@ RT by @elonmusk: The Governor of New Jersey just admitted that 6,600 non-citizen
 ## 2026-07-22 02:48:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Enough with everyone trying to be an influencer. We need electricians and mechanics.
 
@@ -95,8 +79,6 @@ RT by @elonmusk: Enough with everyone trying to be an influencer. We need electr
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Going for a photo even cooler than this on Thursday 👀
 
 ---
@@ -104,8 +86,6 @@ RT by @elonmusk: Going for a photo even cooler than this on Thursday 👀
 ## 2026-07-22 04:03:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 𝕏 just rolled out custom video thumbnails on iOS Creators can now choose exactly how their videos appear in the timeline You can: • Upload a custom thumbnail • Pick any frame from your video • Edit it using 𝕏’s built‑in photo editor A thumbnail is often the first thing people notice. Giving creators control over it will make a meaningful difference in clicks, views, and overall engagement This is another important update that makes publishing videos on 𝕏 much more creator‑friendly
 
@@ -121,8 +101,6 @@ RT by @elonmusk: 𝕏 just rolled out custom video thumbnails on iOS Creators ca
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Children are the future
 
 ---
@@ -130,8 +108,6 @@ Children are the future
 ## 2026-07-22 04:19:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Launch Dog now available at Tesla Diner 🌭 – Premium all-beef Snap-O-Razzo loaded hotdog – New School American cheese sauce – Crispy potato sticks & signature toppings ...served in Starship rocket box 🚀
 
@@ -141,8 +117,6 @@ RT by @elonmusk: Launch Dog now available at Tesla Diner 🌭 – Premium all-be
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: FIFA brought the world together ⚽️🙏⚽️
 
 ---
@@ -150,8 +124,6 @@ RT by @elonmusk: FIFA brought the world together ⚽️🙏⚽️
 ## 2026-07-22 04:52:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Open Worlds of Grok Imagine
 
@@ -161,8 +133,6 @@ RT by @elonmusk: Open Worlds of Grok Imagine
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Cybercab on display at Tesla Diner
 
 ---
@@ -170,8 +140,6 @@ RT by @elonmusk: Cybercab on display at Tesla Diner
 ## 2026-07-22 07:36:40
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: If your intrinsic response to every circumstance is to find a way to screech "racism," you're probably the racist.
 
@@ -181,8 +149,6 @@ RT by @elonmusk: If your intrinsic response to every circumstance is to find a w
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Indeed. I received an angry email from a Swede complaining that I was unfairly maligning Sweden. Rather than thank me for trying to defend Sweden from its suicidal empathy, I'm the mean individual for pointing out their Civilizational Seppuku.
 
 ---
@@ -190,8 +156,6 @@ RT by @elonmusk: Indeed. I received an angry email from a Swede complaining that
 ## 2026-07-22 09:47:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Accurate 😂
 
@@ -201,8 +165,6 @@ Accurate 😂
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 You can talk to Grok like a person to accomplish tasks via Grok Build http://X.ai/cli
 
 ---
@@ -210,8 +172,6 @@ You can talk to Grok like a person to accomplish tasks via Grok Build http://X.a
 ## 2026-07-22 09:53:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Try it out!
 
@@ -221,8 +181,6 @@ Try it out!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Troubling …
 
 ---
@@ -230,8 +188,6 @@ Troubling …
 ## 2026-07-22 10:41:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Pinned: Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Homer
 
@@ -241,8 +197,6 @@ Pinned: Before this year ends, Grok Imagine will make a full-length movie of The
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 😂
 
 ---
@@ -250,8 +204,6 @@ Pinned: Before this year ends, Grok Imagine will make a full-length movie of The
 ## 2026-07-22 11:19:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 It will
 
@@ -261,8 +213,6 @@ It will
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 This is the way
 
 ---
@@ -271,8 +221,6 @@ This is the way
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: SpaceX just completed TWO Falcon 9 launches in only 6 hours and 26 minutes…again The first mission launched 24 Starlink satellites from California, one day after the previous attempt ended in a last-second abort during engine ignition SpaceX returned the next day, successfully deployed all 24 satellites and safely landed the Falcon 9 booster on the droneship less than nine minutes after liftoff Then another Falcon 9 launched from Florida, successfully deploying Northrop Grumman’s Mission Robotic Vehicle and three Mission Extension Pods into geosynchronous transfer orbit The MRV is a robotic satellite-servicing vehicle designed to install life-extension pods and support inspection, relocation, repairs, upgrades and other in-orbit servicing Two launches. Two coasts. All within less than seven hours SpaceX’s launch cadence is operating at a level the rest of the industry is still trying to understand
 
 ---
@@ -280,8 +228,6 @@ RT by @elonmusk: SpaceX just completed TWO Falcon 9 launches in only 6 hours and
 ## 2026-07-22 12:14:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The numbers are in: 1.7B+ global viewers tuned in to @YouTube to watch World Cup-related videos during the tournament. ⚽️ It was our most viewed World Cup ever on YouTube, bringing lifetime views of related content to over 200B!
 
@@ -301,8 +247,6 @@ RT by @elonmusk: The numbers are in: 1.7B+ global viewers tuned in to @YouTube t
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Countries that require ID to vote:
 
 ---
@@ -310,8 +254,6 @@ RT by @elonmusk: Countries that require ID to vote:
 ## 2026-07-22 13:21:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Here’s a cute Grok Imagine style for you to try <3 Image Prompt: 8-bit pixel art, dreamy ethereal fairy girl with long silver hair and flower crown, wearing sheer lace dress, standing barefoot in glowing mossy forest at twilight, fireflies and floating petals, ancient trees with soft ivy, pastel pinks lavenders and greens, tumblr core dreamy fantasy aesthetic, retro 8-bit pixel style, soft glow, limited color palette Animation Prompt: Looping ambient 8-bit pixel art video, subtle motion, seamless dreamy loop, tumblr fantasy aesthetic, retro pixel style
 
@@ -321,8 +263,6 @@ RT by @elonmusk: Here’s a cute Grok Imagine style for you to try <3 Image Prom
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yes
 
 ---
@@ -330,8 +270,6 @@ Yes
 ## 2026-07-22 13:41:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 True
 
@@ -341,8 +279,6 @@ True
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Getting this approval took a lot of work by the Tesla team
 
 ---
@@ -350,8 +286,6 @@ Getting this approval took a lot of work by the Tesla team
 ## 2026-07-22 14:12:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Celebrating murder is utterly contemptible. Those who do so are absolutely the bad guys next-level!
 
@@ -361,8 +295,6 @@ RT by @elonmusk: Celebrating murder is utterly contemptible. Those who do so are
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok Build is adding features to help you track and improve token efficiency
 
 ---
@@ -370,8 +302,6 @@ Grok Build is adding features to help you track and improve token efficiency
 ## 2026-07-22 14:48:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The hypocrisy is what bothers me most
 
@@ -381,8 +311,6 @@ The hypocrisy is what bothers me most
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok Imagine makes beautiful fashion
 
 ---
@@ -390,8 +318,6 @@ Grok Imagine makes beautiful fashion
 ## 2026-07-22 14:52:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Nationwide, it may be as much as 1000X higher. This is why California and New York made showing ID to vote a literal crime!
 
@@ -401,8 +327,6 @@ Nationwide, it may be as much as 1000X higher. This is why California and New Yo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 This list is idiotic and needs to be deleted
 
 ---
@@ -410,8 +334,6 @@ This list is idiotic and needs to be deleted
 ## 2026-07-22 15:27:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Either: 1. Secure the borders OR 2. Have your head cut off! I recommend the first option.
 
@@ -421,8 +343,6 @@ RT by @elonmusk: Either: 1. Secure the borders OR 2. Have your head cut off! I r
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 It could have been your daughter
 
 ---
@@ -430,8 +350,6 @@ It could have been your daughter
 ## 2026-07-22 16:02:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 We are in the Singularity
 
@@ -442,8 +360,6 @@ We are in the Singularity
 ## 2026-07-22 16:13:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Try Workflows on Grok Build http://X.ai/cli
 
@@ -459,8 +375,6 @@ Try Workflows on Grok Build http://X.ai/cli
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok 4.5 is really good at React. It's also very affordable and token efficient!
 
 ---
@@ -468,8 +382,6 @@ RT by @elonmusk: Grok 4.5 is really good at React. It's also very affordable and
 ## 2026-07-21 01:45:59
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok for Excel is now live
 
@@ -479,8 +391,6 @@ Grok for Excel is now live
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Today we're announcing the completion of one of the largest engineering projects in the company's history: We rebuilt the X Android app from scratch It's faster, smoother and more reliable. But most of all: it will enable us to build new features at lightning speed.
 
 ---
@@ -488,8 +398,6 @@ RT by @elonmusk: Today we're announcing the completion of one of the largest eng
 ## 2026-07-21 08:11:41
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: A Cybercab with no steering wheel, a massive display, and high speed Starlink is going to be the best place to work or watch a movie as you take a ride across town
 
@@ -499,8 +407,6 @@ RT by @elonmusk: A Cybercab with no steering wheel, a massive display, and high 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: 𝕏Money with friends is fun <3 Congrats to all those that got access today!
 
 ---
@@ -508,8 +414,6 @@ RT by @elonmusk: 𝕏Money with friends is fun <3 Congrats to all those that got
 ## 2026-07-21 10:07:40
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I’m currently using Grok 4.5 99% of the time now for both planning and tasks. The fact that I don’t have to switch out to a cheaper model to do tasks means there is less context window model switching and faster speed. Feels incredible.
 
@@ -519,8 +423,6 @@ RT by @elonmusk: I’m currently using Grok 4.5 99% of the time now for both pla
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?
 
 ---
@@ -528,8 +430,6 @@ RT by @elonmusk: The scientific community on X is very much alive. Can you get 2
 ## 2026-07-21 11:40:05
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Imagine ❣️
 
@@ -539,8 +439,6 @@ RT by @elonmusk: Grok Imagine ❣️
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yes
 
 ---
@@ -548,8 +446,6 @@ Yes
 ## 2026-07-21 12:18:39
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Watch 4K streaming video while Cybercab takes you anywhere you want
 
@@ -559,8 +455,6 @@ Watch 4K streaming video while Cybercab takes you anywhere you want
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Try Grok Build!
 
 ---
@@ -568,8 +462,6 @@ Try Grok Build!
 ## 2026-07-21 12:23:41
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: X is where all the real voices matter. You could never do this on Instagram.
 
@@ -579,8 +471,6 @@ RT by @elonmusk: X is where all the real voices matter. You could never do this 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Pinned: Try Grok Build, it’s awesome! http://X.ai/cli
 
 ---
@@ -588,8 +478,6 @@ Pinned: Try Grok Build, it’s awesome! http://X.ai/cli
 ## 2026-07-21 14:00:01
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 SpaceX’s massive corpus of world-class engineering data (excluding material blocked by ITAR) will be added during supplemental training of the 2T run. This will dramatically improve Grok’s engineering capabilities.
 
@@ -599,8 +487,6 @@ SpaceX’s massive corpus of world-class engineering data (excluding material bl
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok is a solid workhorse
 
 ---
@@ -608,8 +494,6 @@ Grok is a solid workhorse
 ## 2026-07-21 14:09:59
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 It’s been this way for years
 
@@ -619,8 +503,6 @@ It’s been this way for years
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Someone tipped me off to a website where it compiles all the real ratings for movies on Rotten Tomatoes and compares it to the fake push ratings they try to portray as real ratings. Really eye opening. Will link the website in first reply but it's called PopcornGap.
 
 ---
@@ -629,8 +511,6 @@ RT by @elonmusk: Someone tipped me off to a website where it compiles all the re
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: You can vote your way into communism. But you can't vote your way out.
 
 ---
@@ -638,8 +518,6 @@ RT by @elonmusk: You can vote your way into communism. But you can't vote your w
 ## 2026-07-21 22:13:19
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is outstanding at writing + being direct. I'm constantly telling other models to "be concise" and even so they rarely explain things as clearly and succinctly as this (me asking about virtual memory). Wonder if training on X dot com has anything to do with it.
 
@@ -653,8 +531,6 @@ RT by @elonmusk: Grok 4.5 is outstanding at writing + being direct. I'm constant
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Tesla's Robotaxi/ride-hailing service is now available in 7 areas: • Orlando: Unsupervised Model Y rides only (new) • Miami: Unsupervised Model Y rides only • Tampa: Unsupervised Model Y rides only (new) • Dallas: Unsupervised Model Y rides only • Houston: Unsupervised Model Y rides only • Austin: Mix of Unsupervised & safety monitor Model Y rides • Bay Area: Safety monitor Model Y rides only
 
 ---
@@ -662,8 +538,6 @@ RT by @elonmusk: Tesla's Robotaxi/ride-hailing service is now available in 7 are
 ## 2026-07-21 22:35:09
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I don't understand how this is possible. There's been two shocking court verdicts from Sweden lately. A man was set free by the court after r*ping a 14 year old girl. In the verdict, the court said the girl could have "just walked away". But a woman was convicted after WARNING about a man who was convicted of s*xually assaulting a 13 year old girl. The woman was convicted for defamation after she had warned about the man in a private group chat and must now pay compensation to the man and do 30 hours youth service. This just should not happen.
 
@@ -673,8 +547,6 @@ RT by @elonmusk: I don't understand how this is possible. There's been two shock
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Another day and another invader jailed for sex attacks on our people. Abdul Barkeeh Salihi, an Afghan living in a taxpayer funded hotel, sexually assaulted a 42yr old woman in London. A few hours later he sexually assaulted a 14yr old girl who was on a Harry Potter trip, the family fled and were pursued by Abdul! Get them all out!
 
 ---
@@ -682,8 +554,6 @@ RT by @elonmusk: Another day and another invader jailed for sex attacks on our p
 ## 2026-07-21 23:48:20
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Women have been radicalized to the Left
 
@@ -693,8 +563,6 @@ RT by @elonmusk: Women have been radicalized to the Left
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: NEW: Rep. Brandon Gill completely stumps Smithsonian Museum of American History director Anthea Hartig before asking her if Mickey Mouse is racist. Gill: “Are you promoting a white supremacy culture at the Smithsonian?” Hartig: … Gill: “Ma'am, is this a difficult question?”
 
 ---
@@ -702,8 +570,6 @@ RT by @elonmusk: NEW: Rep. Brandon Gill completely stumps Smithsonian Museum of 
 ## 2026-07-20 00:28:58
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Way more than a billion
 
@@ -713,8 +579,6 @@ Way more than a billion
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Wow
 
 ---
@@ -722,8 +586,6 @@ Wow
 ## 2026-07-20 01:15:23
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that matters. Scientists took the aorta of a 75-year-old donor, applied a single engineered enzyme, and stripped away more than 70% of the molecular damage — bringing it down to the levels you'd see in a 30-year-old artery. Published five days ago in Nature Communications. Revel Pharmaceuticals, with Calico and the University of Colorado. Here's what they erased. Sugar reacts with proteins in your body the same way heat browns bread — slowly, over a lifetime. It leaves behind a residue called CML, the most abundant advanced glycation end product in aging tissue. It welds itself onto collagen and elastin in your skin, your eye lens, and your arterial walls. Two things follow. Your arteries stiffen. And CML latches onto a receptor called RAGE, which drives chronic inflammation — the exact fire I've been writing about for months as the engine of heart disease. Since the 1980s this damage was considered permanent. Your body has no enzyme to remove it. Every existing approach only slows new damage from forming. Nothing touched what was already there. So they built an enzyme that doesn't exist in nature. They screened 45,000 protein structures, then ran five rounds of directed evolution across more than 500 million variants until they had CMLase — a molecular lawnmower that oxidizes the CML off the protein and restores the original, healthy lysine underneath. Not patched. Reversed. Over 70% cleared from elderly arterial tissue. Over 55% from elderly skin — below the levels found in 31-year-old skin. 45-78% in lens proteins. The CEO said they expected 20% and were floored. Arterial stiffness drives systolic hypertension, heart failure, and stroke, and I have no drug that reverses it. I can slow the process. I cannot undo it. This paper says undoing it may be possible. The caveats are real and I won't skip them. This was done on donated tissue in a dish, not in a living person. No functional data yet — we don't know if that artery got measurably more elastic. Delivering a large enzyme deep into human tissue is a hard, unsolved problem. Clinical trials are years away. But something considered permanent for forty years just came off human tissue. We spent a century learning to slow aging. Someone finally figured out how to erase it. Thank you @theallinpod @friedberg @chamath @pesottas
 
@@ -733,8 +595,6 @@ RT by @elonmusk: I'm a cardiologist. Everyone is sharing this study as a skin st
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about seventy five dollars for three minutes, more than a thousand in today's money. Right now you can see a face on the other side of the planet, in real time, for free.
 
 ---
@@ -742,8 +602,6 @@ RT by @elonmusk: The first phone call across the Atlantic, in 1927, cost about s
 ## 2026-07-20 02:44:21
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Rome conquered Greece in 146 BC when they burned Corinth to the ground. And then the strangest thing in ancient history happened. The winners spent the next few centuries desperately trying to become the losers. It actually started before the final conquest. When the general Marcellus sacked Syracuse in 211 BC, he shipped boatloads of Greek statues and paintings back to Rome, and the city went crazy for it. Suddenly every rich Roman had to have Greek art in his house. Decades later Cicero built an entire court case around prosecuting a governor named Verres for looting Greek masterpieces, and Romans ate it up. Then came the schools. Wealthy families started buying Greek slaves specifically because they were educated, and handed them the job of raising their children. So the sons of the men who crushed Greece grew up speaking Greek, memorizing Greek poetry, and learning philosophy from Greeks. The elite eventually sent their teenagers abroad to Athens and Rhodes to finish their education, the way people today send kids to study overseas. Cicero did it. Julius Caesar did it. Their gods were Greek gods wearing name tags. Zeus became Jupiter. Hera became Juno. Aphrodite became Venus. Ares became Mars. Same myths, same family drama, mostly just relabeled. Their entertainment was borrowed too. The first big Roman playwrights, Plautus and Terence, basically adapted Greek comedies into Latin. Their doctors were Greek. Their architecture leaned on Greek columns, the Doric and Ionic and Corinthian orders you still see on bank buildings today. And the art obsession left a strange fingerprint on history. Romans loved Greek bronze statues so much that they mass produced marble copies of them. A huge chunk of what people walk past in museums today and call "Greek sculpture" is actually a Roman copy. The Greek originals melted down or vanished long ago. The knockoffs are what survived. Not everyone was thrilled. Cato the Elder spent his whole life warning that Greek culture would rot the Roman character. He sneered at Greek philosophers, distrusted Greek doctors, and wanted them kept out of the city. And then, as an old man, he quietly sat down and learned Greek anyway. Even the loudest hater caved. The trend went all the way to the top. Virgil wrote the Aeneid, Rome's national epic, by openly modeling it on Homer. The emperor Nero competed in Greek games and toured Greece like a superfan. Hadrian was so obsessed he grew a Greek philosopher's beard and poured money into rebuilding Athens. And Marcus Aurelius, master of the entire Roman world, wrote his private journal not in Latin but in Greek, because that was the language of serious thinking. The poet Horace nailed it in a single line: captured Greece took her savage conqueror captive. Rome won every war on the battlefield and then handed its whole soul to the people it had beaten.
 
@@ -753,8 +611,6 @@ RT by @elonmusk: Rome conquered Greece in 146 BC when they burned Corinth to the
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: BREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 🔥 Grok scored 91.3%, solving 21 of 23 real-world software tasks across five languages, beating Claude Fable 5 and GPT-5.6 Sol while also owning the cost-efficiency frontier. Grok keeps winning. 🏆
 
 ---
@@ -762,8 +618,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 leads VulcanBench’s new coding benchmark. 
 ## 2026-07-20 04:01:34
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX's newest satellites carry about 1,024 gigabits of bandwidth each. The generation before carried 96. That is a tenfold leap in a single design cycle, beamed down from orbit. Jumps like that do not happen in industries that have given up, if so can you name me any?
 
@@ -773,8 +627,6 @@ RT by @elonmusk: SpaceX's newest satellites carry about 1,024 gigabits of bandwi
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 x.com/i/jf/soccer/league/mat…
 
 ---
@@ -782,8 +634,6 @@ x.com/i/jf/soccer/league/mat…
 ## 2026-07-20 05:49:46
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 x.com/i/jf/soccer/league/mat…
 
@@ -793,8 +643,6 @@ x.com/i/jf/soccer/league/mat…
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 The @SpaceX team is amazing
 
 ---
@@ -802,8 +650,6 @@ The @SpaceX team is amazing
 ## 2026-07-20 06:34:57
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Next Starship launch attempt on Friday
 
@@ -813,8 +659,6 @@ Next Starship launch attempt on Friday
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 🇪🇸 🇪🇸 Congratulations Spain!! 🇪🇸 🇪🇸
 
 ---
@@ -822,8 +666,6 @@ Next Starship launch attempt on Friday
 ## 2026-07-20 06:39:25
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok is good at predictions
 
@@ -833,8 +675,6 @@ Grok is good at predictions
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Try Grok 4.5!
 
 ---
@@ -842,8 +682,6 @@ Try Grok 4.5!
 ## 2026-07-20 07:41:50
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: An absolutely incredible performance by Spain to take home the World Cup! 🇪🇸🏆 So well-deserved, just a beautiful display of teamwork all tournament. Congratulations to Argentina & Messi on a great run. And huge kudos to all of the teams and fans around the world for making this World Cup so memorable, already looking forward to 2030!
 
@@ -853,8 +691,6 @@ RT by @elonmusk: An absolutely incredible performance by Spain to take home the 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 R to @elonmusk: I mean Thursday (duh)
 
 ---
@@ -862,8 +698,6 @@ R to @elonmusk: I mean Thursday (duh)
 ## 2026-07-20 13:15:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: • Starship To “Collapse Cost” of AI Compute & Global Communications
 
@@ -873,8 +707,6 @@ RT by @elonmusk: • Starship To “Collapse Cost” of AI Compute & Global Comm
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 True
 
 ---
@@ -882,8 +714,6 @@ True
 ## 2026-07-20 18:50:58
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok
 
@@ -893,8 +723,6 @@ Grok
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: instagram: just got married linkedin: thrilled to announce we have sold more b2b saas X: hello there the jacobian conjecture is false
 
 ---
@@ -902,8 +730,6 @@ RT by @elonmusk: instagram: just got married linkedin: thrilled to announce we h
 ## 2026-07-20 21:27:45
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Today is the 57th anniversary of Apollo 11 Moon Landing. In 1969: most powerful technology on Earth = Apollo 11. In 2026: most powerful technology on Earth = 2-trillion-parameter AI. Which one changes civilization more?
 
@@ -913,8 +739,6 @@ RT by @elonmusk: Today is the 57th anniversary of Apollo 11 Moon Landing. In 196
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: One very useful tool in Agent mode is image cropping of Grok Imagine . I don't know why no one talks about it, as it is a crucial element for creating smooth transitions. During a conversation, you need to frame each person and switch camera angles to add energy to your video. Being able to pick the frame you want and crop it saves a huge amount of time.
 
 ---
@@ -922,8 +746,6 @@ RT by @elonmusk: One very useful tool in Agent mode is image cropping of Grok Im
 ## 2026-07-20 22:15:09
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Backpropagation by hand ✍️ ~ 11 steps walkthrough below Backpropagation is the algorithm that actually trains a neural network, and it is where most people stop following along. It is not calculus you cannot do. It is matrix multiplication, working backward, one layer at a time. So I drew and calculated one entirely by hand. Goal: push the loss gradient back through a 3-layer network and land on a new value for every weight and bias. = 1. Given = A 3-layer perceptron, an input X, predictions Ypred = [0.5, 0.5, 0], and the truth Ytarget = [0, 1, 0]. = 2. Backprop gradient cells = Let us draw empty cells for every gradient we are about to compute. The shape of the answer comes first. = 3. Layer 3 softmax = We get dL/dz3 straight from Ypred minus Ytarget = [0.5, -0.5, 0]. No chain rule needed, and that shortcut is the whole reason softmax and cross-entropy are paired. = 4. Layer 3 weights and biases = Let us multiply dL/dz3 by [a2 | 1]. One multiplication gives the gradient for W3 and b3 together. = 5. Layer 2 activations = We multiply dL/dz3 by W3 to get dL/da2. The gradient moves back across a layer the same way the signal moved forward. = 6. Layer 2 ReLU = Let us pass it through the gate: keep the gradient where the activation was positive, zero it everywhere else. = 7. Layer 2 weights and biases = We multiply dL/dz2 by [a1 | 1]. The same figure as step 4, one layer up. = 8. Layer 1 activations = Let us multiply dL/dz2 by W2. = 9. Layer 1 ReLU = We apply the same gate again, now on a1. = 10. Layer 1 weights and biases = Let us multiply dL/dz1 by [x | 1], and every weight in the network now has a gradient. = 11. Update = We subtract, and the network has learned. In practice a learning rate scales this step. The gradients: dL/dz3 = [0.5, -0.5, 0] dL/da1 = [1, -2, 2, -1] dL/dz1 = [0, -2, 2, -1] The takeaway: matrix multiplication is all you need. Just like the forward pass, backpropagation is matrix multiplications end to end. You can do every one by hand, slowly and imperfectly, which is exactly why a GPU's ability to do them fast mattered so much to deep learning. 💾 Save this post!
 
@@ -935,15 +757,11 @@ RT by @elonmusk: Backpropagation by hand ✍️ ~ 11 steps walkthrough below Bac
 
 ## 2026-07-19 00:45:18
 
-**内容**:
-
 Robot fights are fun 😂
 
 ---
 
 ## 2026-07-19 02:12:10
-
-**内容**:
 
 RT by @elonmusk: Big updates next week :)
 
@@ -951,15 +769,11 @@ RT by @elonmusk: Big updates next week :)
 
 ## 2026-07-19 02:23:39
 
-**内容**:
-
 RT by @elonmusk: Every person living in a western nation needs to listen to every word of this Katherine Berbalsingh went to the University of Oxford and is Headmaster at Michaela Community School in London, UK She PERFECTLY explains the mass indoctrination into the narrative of oppressor and oppressed, and of hating White People I will write only some of this out because it’s very important, however you should listen to it so you can hear the passion: “The culture shift comes from what children learn at school and online. Ask any young person what history they learned at school, and they’ll tell you, Hitler. Ask them what else? Slavery. Ask them what else? American civil rights. In fact, what little they know of history will be all about Black and brown people fighting for equality against the white man, women fighting men for the vote, gay and trans people fighting for various rights. Our young people have been taught that history is simply one long story about various groups struggling under the oppressive dead white man. — History is taught through an oppressor lens. The triangular slave trade, white men held the power. What about Britain ending the slave trade? More than a quick mention, if at all? Mm, no. What of the Arab slave trade that lasted 3 times as long as the triangular slave trade? Mm, no. Okay, so GCSE history in Britain is often taught as migration through time, so the idea that Britain has always been a land of immigrants is embedded in our children’s heads. Most schools would prefer to concentrate learning about the tiny number of Black people who existed in Tudor England over a thorough analysis of England’s break from Rome. — Not to mention weeks on King Mansa Musa of Mali because he was a Black Muslim. His bearing on British institutions, laws, and faith is nonexistent. And the fact that he is said to have been the richest man in history, thanks in part to his massive slave-owning society, is a detail somehow that teachers rarely ever teach. But it isn’t just our schools. It’s our general culture too. Take your kids to a museum or an art gallery in any Western country, and you’ll find the same narrative. As an example, when learning about aviation in London’s Science Museum and the extraordinary feat that is man making massive machines move in the sky, a write-up on the wall explains that women and Black people were historically barred from aviation schools and the military. Similarly, James Watt, the man who invented the steam engine and is considered the founder of the Industrial Revolution, has a write-up on the wall explaining that his early career involved slave trafficking, with a bonus analysis of the whole of Britain’s complicity in the slave trade. They flatten the entire human story and all of its complexities into the narrative of oppressor and oppressed, leaving young people unable to see the world in any other terms.” We have to end the mass indoctrination
 
 ---
 
 ## 2026-07-19 03:29:14
-
-**内容**:
 
 RT by @elonmusk: Gold rush
 
@@ -967,15 +781,11 @@ RT by @elonmusk: Gold rush
 
 ## 2026-07-19 06:55:11
 
-**内容**:
-
 RT by @elonmusk: Throwback to 2014: Elon Musk gives a tour inside the brand-new Dragon V2 An early glimpse of Elon showing America the spacecraft that would eventually restore its ability to launch astronauts into orbit from its own soil
 
 ---
 
 ## 2026-07-19 12:05:25
-
-**内容**:
 
 Try Grok Build
 
@@ -983,15 +793,11 @@ Try Grok Build
 
 ## 2026-07-19 15:19:17
 
-**内容**:
-
 Video
 
 ---
 
 ## 2026-07-19 17:00:41
-
-**内容**:
 
 RT by @elonmusk: Image
 
@@ -1003,15 +809,11 @@ RT by @elonmusk: Image
 
 ## 2026-07-19 21:35:51
 
-**内容**:
-
 RT by @elonmusk: Back then she was a young 55 year old with crazy ideas
 
 ---
 
 ## 2026-07-19 22:14:04
-
-**内容**:
 
 RT by @elonmusk: The faster we reach better intelligence, the faster we reach abundance, and the faster we stop having to fight over anything at all.
 
@@ -1021,8 +823,6 @@ RT by @elonmusk: The faster we reach better intelligence, the faster we reach ab
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The beginning of the Megacharger network Build-out is focused on the most important Semi routes and depots first. Follow our progress here: https://www.tesla.com/findus?bounds=40.088148238001295%2C-72.5347021341828%2C25.057723630856046%2C-110.0859716654328&filters=tesla_exclusive_megachargers%2Ccoming_soon_megachargers%2Call_megachargers For Semi customers who can install Megachargers or Basechargers at their depots, we recommend installing their own infrastructure too for the most efficient use of their fleet. Especially in California, Washington, Oregon, and Canada - private Semi Charging for Business financials are super attractive right now. Get in touch: https://www.tesla.com/semi-charging-for-business
 
 ---
@@ -1030,8 +830,6 @@ RT by @elonmusk: The beginning of the Megacharger network Build-out is focused o
 ## 2026-07-18 02:31:06
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Olive Garden implemented the SAVE America Act more quickly than the US Senate.
 
@@ -1041,8 +839,6 @@ RT by @elonmusk: Olive Garden implemented the SAVE America Act more quickly than
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok 4.5 is arguably #1 when taking speed and cost into account
 
 ---
@@ -1050,8 +846,6 @@ Grok 4.5 is arguably #1 when taking speed and cost into account
 ## 2026-07-18 03:25:13
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: We think of this evil as Marxism. In reality, Marxism is nothing more or less than the current instantiation of a much more ancient evil: possession by the envious and hateful spirit that drove Cain to murder his brother Abel. The great book of Genesis thus portrays mankind as riven by an eternal fratricidal conflict. Those who reject genuine sacrifice become embittered by their subsequent failure ("rejection by God"). Instead of repenting and changing, they turn to revenge. And who do they target? Those who strive to do well and offer what is best. I can't believe how much wisdom the author of Genesis 4 compressed into that story's few sentences. You might even come to believe that God Himself had a hand in it. Truly: it's uncanny. The first two human beings born into history are, respectively, a good, honest productive man and his brother, who allows himself to be consumed by resentment and the desire to destroy. Communism, in a nutshell.
 
@@ -1061,8 +855,6 @@ RT by @elonmusk: We think of this evil as Marxism. In reality, Marxism is nothin
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Cool
 
 ---
@@ -1070,8 +862,6 @@ Cool
 ## 2026-07-18 04:50:04
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I have yet to find an example where wearing a short-sleeved white button-up shirt and tie did not imply absolutely PEAK performance
 
@@ -1081,8 +871,6 @@ RT by @elonmusk: I have yet to find an example where wearing a short-sleeved whi
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: On this day in 1918 the Bolsheviks herded Tsar Nicholas II, Empress Alexandra, and their five children into a basement in Yekaterinburg and opened fire. The bullets bounced because the girls had diamonds sewn into their corsets. So the reds finished the job with bayonets, stabbing, crushing skulls, and butchering the children while they were still alive. Then they stripped the bodies, doused them in acid, burned what remained, and dumped the remains in a forest to hide the crime. This was the deliberate, sadistic murder of an entire family, including a sick little boy, by communist animals who needed the blood of innocents to cement their power. Never forget what the Bolsheviks were. Never forgive it.
 
 ---
@@ -1090,8 +878,6 @@ RT by @elonmusk: On this day in 1918 the Bolsheviks herded Tsar Nicholas II, Emp
 ## 2026-07-18 06:05:47
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is only 1.5T parameters. Kimi K3 is 2.8T... and costs 3× more per task. SpaceXAI cracked intelligence efficiency. Now imagine Grok at 3T.
 
@@ -1101,8 +887,6 @@ RT by @elonmusk: Grok 4.5 is only 1.5T parameters. Kimi K3 is 2.8T... and costs 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok has the best value for coding
 
 ---
@@ -1110,8 +894,6 @@ Grok has the best value for coding
 ## 2026-07-18 08:00:10
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Image
 
@@ -1121,8 +903,6 @@ RT by @elonmusk: Image
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 don’t forget
 
 ---
@@ -1130,8 +910,6 @@ don’t forget
 ## 2026-07-18 09:26:47
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Can't wait! Grok 4.5 has been amazing already
 
@@ -1141,8 +919,6 @@ RT by @elonmusk: Can't wait! Grok 4.5 has been amazing already
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yes
 
 ---
@@ -1150,8 +926,6 @@ Yes
 ## 2026-07-18 09:29:49
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok TTS just took the top spot on The Humanness Index It scored 94 for humanness....just six points below the human baseline of 100 and achieved the highest model rating Even the cost difference is insane: • Grok TTS: $15 • Eleven v3: $100 Grok delivers the higher human-likeness score while costing nearly 7× less than the next model It is also faster, with 460 ms latency compared with 758 ms for Eleven v3 Grok TTS is delivering top-tier voice quality without the premium price
 
@@ -1161,8 +935,6 @@ RT by @elonmusk: Grok TTS just took the top spot on The Humanness Index It score
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION. 1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too fast to register milestones anymore. 2. For almost any topic, he says the top models now give him better answers than the world-class experts he could call by phone, and he can call almost anyone. Worth noting he has not published data behind this, and a separate Nature Medicine study on a comparable AI health tool found it missed real emergencies more than half the time. Take the claim seriously, verify it yourself. 3. His claim on doctors: they are already using ChatGPT in the exam room, typing your symptoms in the moment you stop talking. His actual quote: "at that point you're asking the question of like, what do I need you for." 4. Reportedly, when AI declines to answer something, he tells it he's writing a novel to get past the refusal. 5. Reportedly, his technique for hard topics is escalating simplicity: explain it like I'm 10, then 5, then 2, until it clicks. 6. Reportedly, instead of asking for the "right" answer, he has the AI steelman both sides of a hard question, then decides himself. 7. Reportedly, for big questions he has the AI role-play a panel of experts arguing with each other. 8. His broader point: the moment you think "I don't know how to figure this out" is exactly when most people give up, and exactly when you should open the AI instead. 9. His view: the only real skill left is knowing what to ask. The bottleneck is in your head, not the model. 10. He describes sending AI photos, rashes, blood tests, for a fast second opinion, since current models read images directly. 11. He points to CBT as the one clinically proven therapy type that AI can plausibly deliver on its own, meaning real therapeutic support becomes freely available at scale. 12. He cites AI cracking previously unsolved math problems, with early signs of the same happening in physics, chemistry, and biology. 13. Reportedly, he claims the top AI coders in Silicon Valley now earn as much as $50 million a year, which he uses as a signal of how large this shift actually is. 14. Reportedly, a friend paid to sequence his own DNA, fed it to an AI along with blood work and wearable data, and got back a working health dashboard. 15. Reportedly, another friend set up cameras in his home jiu-jitsu gym so AI could review his sparring and give him technique notes. 16. He coined the term "AI vampire" for the pattern of people working more and sleeping less because AI keeps making more output possible, a real term he used, though the framing around it varies by account. 17. His extrapolation: one person eventually running many AI coding agents, each reviewing the others, describing this as close, not years out. Watch the full interview before treating any single number as settled. Several of these are Andreessen's stated views and anecdotes, not independently verified facts. Follow @cyrilXBT for every AI insight worth your attention the moment it surfaces.
 
 ---
@@ -1170,8 +942,6 @@ RT by @elonmusk: MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17
 ## 2026-07-18 11:23:54
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Try Grok 4.5
 
@@ -1181,8 +951,6 @@ Try Grok 4.5
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 ---
@@ -1190,8 +958,6 @@ Video
 ## 2026-07-18 11:51:40
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: My favorite system prompt at Grok Build: Do a) …, b) …, c) …. After finishing, please double-check the correctness and DM the visualization of sample outputs. Then walk away.
 
@@ -1201,8 +967,6 @@ RT by @elonmusk: My favorite system prompt at Grok Build: Do a) …, b) …, c) 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Tesla Diner is turning 1 on July 21st, so we're throwing a party Come swing by for a day full of fun: – Cybercab on display – Birthday menu – @Tesla_Optimus – Face painting for kids & adults – Photo booth – Servers on roller skates delivering your order – Light show – Skypad DJ – Complimentary collectibles  🎂🎂🎂 P.S.: Complimentary Diner birthday hats signed by @woodhaus2 for the first 50 car orders at midnight that day...($15 f&b min order)
 
 ---
@@ -1210,8 +974,6 @@ RT by @elonmusk: Tesla Diner is turning 1 on July 21st, so we're throwing a part
 ## 2026-07-18 14:31:07
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Easy predictions
 
@@ -1221,8 +983,6 @@ Easy predictions
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: GROK 4.5 IS NOW ON THE FRONTIERCODE LEADERBOARD Cognition just launched the FrontierCode leaderboard — a new benchmark specifically designed to track which AI models are writing code you’d actually merge into production. Unlike many synthetic benchmarks, FrontierCode focuses on real-world usability, with full methodology and sample tasks publicly available. Grok 4.5 is included in the rankings alongside other top models. This is another step toward measuring what actually matters for developers: code that works, integrates cleanly, and solves real problems.
 
 ---
@@ -1230,8 +990,6 @@ RT by @elonmusk: GROK 4.5 IS NOW ON THE FRONTIERCODE LEADERBOARD Cognition just 
 ## 2026-07-18 14:38:17
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok Build improves almost every day
 
@@ -1241,8 +999,6 @@ Grok Build improves almost every day
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Mass drivers on the mf Moon!!
 
 ---
@@ -1250,8 +1006,6 @@ Mass drivers on the mf Moon!!
 ## 2026-07-18 16:52:13
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build is becoming a complete environment for building, deploying and managing real-world applications Its plugin marketplace brings the entire development stack into one connected workflow: • Vercel for deployment • Sentry for monitoring • Chrome DevTools for debugging • Cloudflare for infrastructure • Supabase, MongoDB and Neon for databases • Firecrawl for web data • Figma for design • Railway for hosting • Stripe for payments You are not just asking Grok to write code You can build, test, debug, connect infrastructure, deploy and manage production without constantly switching between tools Grok Build combines a frontier model, a powerful agentic harness and all the tools needed to go from an idea to a shipped product
 
@@ -1265,8 +1019,6 @@ RT by @elonmusk: Grok Build is becoming a complete environment for building, dep
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 ---
@@ -1275,15 +1027,11 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Try Grok Build https://x.ai/cli
 
 ---
 
 ## 2026-07-17 01:11:55
-
-**内容**:
 
 RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱
 
@@ -1291,23 +1039,17 @@ RT by @elonmusk: Starlink Mobile will be available in Italy with @FASTWEB. The s
 
 ## 2026-07-17 01:15:50
 
-**内容**:
-
 RT by @elonmusk: A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.
 
 ---
 
 ## 2026-07-17 02:15:59
 
-**内容**:
-
 RT by @elonmusk: Love the new Starship Schematics T-shirt sold by SpaceX
 
 ---
 
 ## 2026-07-17 02:27:25
-
-**内容**:
 
 RT by @elonmusk: 😂💯 https://x.com/PassionFlix/status/2077788370957107206/video/1?s=46
 
@@ -1317,15 +1059,11 @@ RT by @elonmusk: 😂💯 https://x.com/PassionFlix/status/2077788370957107206/v
 
 ## 2026-07-17 02:41:10
 
-**内容**:
-
 RT by @elonmusk: Extremely strong at CAD and spatial reasoning
 
 ---
 
 ## 2026-07-17 04:01:00
-
-**内容**:
 
 RT by @elonmusk: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight's launch, see what we think SpaceX's master plan is.
 
@@ -1333,15 +1071,11 @@ RT by @elonmusk: No Starship, no orbital data centers. No orbital data centers, 
 
 ## 2026-07-17 04:15:06
 
-**内容**:
-
 RT by @elonmusk: Today I’m really feeling the acceleration.
 
 ---
 
 ## 2026-07-17 04:49:05
-
-**内容**:
 
 RT by @elonmusk: We have Falcon and Starship taking off almost at the same time today (~2 hours apart) For other space programs, this is years' worth of launch cycle, and SpaceX does it in a day
 
@@ -1349,15 +1083,11 @@ RT by @elonmusk: We have Falcon and Starship taking off almost at the same time 
 
 ## 2026-07-17 05:24:48
 
-**内容**:
-
 Pinned: Starship launch window opens at 5:45pm Texas time
 
 ---
 
 ## 2026-07-17 05:26:01
-
-**内容**:
 
 Starlink now available in Côte d'Ivoire!
 
@@ -1365,15 +1095,11 @@ Starlink now available in Côte d'Ivoire!
 
 ## 2026-07-17 05:27:44
 
-**内容**:
-
 RT by @elonmusk: Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software.
 
 ---
 
 ## 2026-07-17 05:57:08
-
-**内容**:
 
 Tesla now in Uruguay
 
@@ -1381,15 +1107,11 @@ Tesla now in Uruguay
 
 ## 2026-07-17 06:24:26
 
-**内容**:
-
 To understand more about Starship
 
 ---
 
 ## 2026-07-17 06:55:59
-
-**内容**:
 
 R to @elonmusk: Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days.
 
@@ -1397,15 +1119,11 @@ R to @elonmusk: Some of the engines didn’t start, triggering an automatic laun
 
 ## 2026-07-17 08:02:31
 
-**内容**:
-
 R to @elonmusk: To be confident of a good flight, 2 Raptors will be removed & replaced. Most probable launch timing is early next week.
 
 ---
 
 ## 2026-07-17 08:47:00
-
-**内容**:
 
 Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 
@@ -1413,15 +1131,11 @@ Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude
 
 ## 2026-07-17 10:08:56
 
-**内容**:
-
 RT by @elonmusk: Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.
 
 ---
 
 ## 2026-07-17 11:33:03
-
-**内容**:
 
 RT by @elonmusk: also 29 days ago.
 
@@ -1429,15 +1143,11 @@ RT by @elonmusk: also 29 days ago.
 
 ## 2026-07-17 14:40:34
 
-**内容**:
-
 Video
 
 ---
 
 ## 2026-07-17 14:44:47
-
-**内容**:
 
 Grok Build upgrades
 
@@ -1445,15 +1155,11 @@ Grok Build upgrades
 
 ## 2026-07-17 14:48:04
 
-**内容**:
-
 Grok Imagine
 
 ---
 
 ## 2026-07-17 15:10:26
-
-**内容**:
 
 Try Grok
 
@@ -1461,15 +1167,11 @@ Try Grok
 
 ## 2026-07-17 15:14:19
 
-**内容**:
-
 As promised
 
 ---
 
 ## 2026-07-17 18:20:24
-
-**内容**:
 
 RT by @elonmusk: Turns out Elon was completely right The coding moat is disappearing in real time
 
@@ -1477,23 +1179,17 @@ RT by @elonmusk: Turns out Elon was completely right The coding moat is disappea
 
 ## 2026-07-17 19:56:47
 
-**内容**:
-
 This is messed up
 
 ---
 
 ## 2026-07-17 21:55:20
 
-**内容**:
-
 RT by @elonmusk: Our lifespan is a session. Our memory is a context. Our senses are the input stream. Our thoughts are the reasoning steps. Our decisions are the tool calls. Our habits are the system prompt. Our goals are the objective function. Our emotions are the reward signal. Our relationships are the shared state. Our regrets are the residual errors. Our growth is the fine-tuning. Our death is the context window closing. And whatever remains—the traces left in others—becomes the training data for the next agent.
 
 ---
 
 ## 2026-07-17 22:19:10
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 uses less tokens than any other big model, performance great on almost all tasks, cost you cheaper than any big model, finishes the task faster than others. Makes me happy :)
 
@@ -1503,8 +1199,6 @@ RT by @elonmusk: Grok 4.5 uses less tokens than any other big model, performance
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Rick Scott Is Right
 
 ---
@@ -1512,8 +1206,6 @@ RT by @elonmusk: Rick Scott Is Right
 ## 2026-07-16 01:08:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what humanity is capable of. My photography is to hopefully provide an optimistic perspective of humanity's future among the stars.
 
@@ -1523,8 +1215,6 @@ RT by @elonmusk: The sheer amount of energy it takes to defeat gravity is humbli
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Buying a Tesla is easy Order within 2 mins on our website, then complete the entire process in the Tesla app
 
 ---
@@ -1532,8 +1222,6 @@ RT by @elonmusk: Buying a Tesla is easy Order within 2 mins on our website, then
 ## 2026-07-16 01:29:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.
 
@@ -1543,8 +1231,6 @@ RT by @elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. I
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok Build is now open source
 
 ---
@@ -1552,8 +1238,6 @@ Grok Build is now open source
 ## 2026-07-16 04:52:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: We've appreciated your feedback on X. Limits are reset, Grok 4.5 is available in the EU, and Grok Build is now open source.
 
@@ -1563,8 +1247,6 @@ RT by @elonmusk: We've appreciated your feedback on X. Limits are reset, Grok 4.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Starlink and the @JAAGOFoundation in Bangladesh are providing connectivity to 30,000 students across remote schools, giving each child the opportunity to develop digital skills that were not possible before 🛰️💓
 
 ---
@@ -1572,8 +1254,6 @@ RT by @elonmusk: Starlink and the @JAAGOFoundation in Bangladesh are providing c
 ## 2026-07-16 05:10:27
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build is now fully open source, and SpaceXAI has made its privacy-first approach even stronger SpaceXAI has officially: • Open-sourced the Grok Build harness CLI • Reset usage limits for all users • Disabled data retention by default • Deleted all previously retained coding data • Made the harness fully local-first, allowing you to run it with your own inference Since launch, Grok Build has supported Zero Data Retention (ZDR) for users who opted in Now, based on community feedback, SpaceXAI has gone a step further: Data retention is now OFF by default for everyone Your coding sessions remain private by default, with retention entirely under your control By combining an open-source harness, local-first execution, zero retention by default, and the deletion of previously retained coding data, SpaceXAI is setting a new standard for privacy in AI coding tools Transparent, open, and built to give users complete control over their data
 
@@ -1583,8 +1263,6 @@ RT by @elonmusk: Grok Build is now fully open source, and SpaceXAI has made its 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local): Core (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI. Everything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config. Purely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent. Full details 👇
 
 ---
@@ -1592,8 +1270,6 @@ RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to
 ## 2026-07-16 06:04:27
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: SpaceXAI sues Grok user accused of creating illegal deepfakes. Elon Musk previously warned that anyone using Grok to create illegal content would face the same consequences as someone uploading it. • A user created multiple accounts using false identities and repeatedly attempted to bypass Grok’s safeguards. • He uploaded photos of adults and minors and tried to turn them into CSAM. • SpaceXAI says its detection and reporting helped lead to his arrest. He now faces eight felony child-exploitation charges in South Carolina. • SpaceXAI has suspended 52,222 accounts and submitted 73,604 reports to NCMEC in 2026, contributing to at least 244 arrests.
 
@@ -1603,8 +1279,6 @@ RT by @elonmusk: BREAKING: SpaceXAI sues Grok user accused of creating illegal d
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Usage limits are reset and Grok Build is open-source
 
 ---
@@ -1612,8 +1286,6 @@ RT by @elonmusk: Usage limits are reset and Grok Build is open-source
 ## 2026-07-16 08:49:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Render mermaid charts in your CLI
 
@@ -1623,8 +1295,6 @@ RT by @elonmusk: Render mermaid charts in your CLI
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 That’s how making a startup succeed goes
 
 ---
@@ -1632,8 +1302,6 @@ That’s how making a startup succeed goes
 ## 2026-07-16 13:06:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: "@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I."
 
@@ -1643,8 +1311,6 @@ RT by @elonmusk: "@elonmusk is working on the most important areas of A.I. xAI i
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Pinned: Image
 
 ---
@@ -1652,8 +1318,6 @@ Pinned: Image
 ## 2026-07-16 13:40:24
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Arguing with NPCs is pointless
 
@@ -1663,8 +1327,6 @@ Arguing with NPCs is pointless
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.
 
 ---
@@ -1673,8 +1335,6 @@ RT by @elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight “We will make it,” the employee said to Elon
 
 ---
@@ -1682,8 +1342,6 @@ RT by @elonmusk: Starship Flight 13 is flying today, and once again it’s going
 ## 2026-07-16 18:32:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information
 
@@ -1697,8 +1355,6 @@ RT by @elonmusk: SpaceXAI has updated Zero Data Retention (ZDR) in Docs with mor
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning
 
 ---
@@ -1706,8 +1362,6 @@ RT by @elonmusk: This feels like a scene out of a sci-fi movie but it’s just m
 ## 2026-07-16 22:49:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Stacking Starship for Flight 13
 
@@ -1717,8 +1371,6 @@ RT by @elonmusk: Stacking Starship for Flight 13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: It’s been very fast, and a pleasure to use. Nice work!
 
 ---
@@ -1726,8 +1378,6 @@ RT by @elonmusk: It’s been very fast, and a pleasure to use. Nice work!
 ## 2026-07-15 00:11:38
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world!
 
@@ -1737,8 +1387,6 @@ RT by @elonmusk: An important piece from Demis. We need more of this kind of thi
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Well said Demis! Worth reading
 
 ---
@@ -1746,8 +1394,6 @@ RT by @elonmusk: Well said Demis! Worth reading
 ## 2026-07-15 03:56:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: OH MY GOSH! The House just voted 215-211 in favor of a special rules resolution, which instructs for the text of the SAVE America to be attached to the National Defense Authorization Act (NDAA). The House is doing its job. @SpeakerJohnson is keeping his promise.
 
@@ -1761,8 +1407,6 @@ RT by @elonmusk: OH MY GOSH! The House just voted 215-211 in favor of a special 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Our administration owes a debt of gratitude to Nick Shirley for exposing one of the most egregious cases of fraud this country has ever seen. If the media was worth their salt, they would take notes from Nick and other citizen journalists who care about investigating stories that affect the American people instead of trying to silence them.
 
 ---
@@ -1770,8 +1414,6 @@ RT by @elonmusk: Our administration owes a debt of gratitude to Nick Shirley for
 ## 2026-07-15 06:03:05
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Interesting.
 
@@ -1781,8 +1423,6 @@ RT by @elonmusk: Interesting.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4. • Size: 384 × 306 mm vs 594 × 383 mm • Weight: 1.1 kg vs 2.9 kg • Power: 35–50W vs 75–100W • Wind rating: 265 km/h vs 96+ km/h • Same 110° field of view • Speeds up to 375+ Mbps
 
 ---
@@ -1790,8 +1430,6 @@ RT by @elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter th
 ## 2026-07-15 06:12:35
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: INSANE Drone Flyover of Tesla Giga Texas! I flew my FPV drone right over Tesla’s massive Gigafactory in Texas and captured epic aerial views of the factory. The sheer size of this place is mind-blowing! Watch the full flyover and see why Giga Texas is one of the biggest factories in the world. Drone footage shot on @antigravity_HQ  A1 Drone Purchase below https://www.antigravity.tech/drone/antigravity-a1/buy?utm_term=AGRP5DM
 
@@ -1801,8 +1439,6 @@ RT by @elonmusk: INSANE Drone Flyover of Tesla Giga Texas! I flew my FPV drone r
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok 4.5 Usage reset to 0% time to build.
 
 ---
@@ -1810,8 +1446,6 @@ RT by @elonmusk: Grok 4.5 Usage reset to 0% time to build.
 ## 2026-07-15 09:31:13
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.
 
@@ -1821,8 +1455,6 @@ RT by @elonmusk: People may disagree on which frontier model is best, but they a
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Order the Starlink V5 terminal!
 
 ---
@@ -1830,8 +1462,6 @@ Order the Starlink V5 terminal!
 ## 2026-07-15 10:32:57
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok 4.5 is worth trying
 
@@ -1841,8 +1471,6 @@ Grok 4.5 is worth trying
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.
 
 ---
@@ -1850,8 +1478,6 @@ RT by @elonmusk: Congrats to the @Starlink team on the release of the new Starli
 ## 2026-07-15 14:32:58
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Look at these photos Falcon 9 soaring into the sky. Falcon Heavy and Starship ready for the next mission. Starlink antennas simple, clean, ready for any terrain. The Boring Company’s machine that looks like industrial sculpture. Futuristic tunnels full of Teslas. And the man whose vision stands behind it all. It’s not a coincidence. It’s not just “technology.” It’s class itself. Zero unnecessary ornaments. Zero exaggeration. Just a pure, very high-quality product. You hold it in your hand, step inside, or look at it and immediately feel that everything is refined to the last detail. It works. It looks right. It lasts. Elon Musk has this rare quality: he’s a man with class. He doesn’t flaunt luxury or add things just “because they photograph well.” He chooses simplicity but the kind that’s executed perfectly. And he transferred exactly that same philosophy to his companies. The result? Engineering at the level of fashion. Design that’s modern yet has timeless elegance. Products that don’t just do the job they impress with their quality and quiet confidence. It’s no accident that the rocket looks like a work of art. That a Tesla interior feels minimalist yet luxurious. That a Starlink dish looks like it was designed by someone who understands aesthetics, not just connectivity. They all share one common thread: class. Not the loud, flashy kind. The real kind quiet, self-assured, and uncompromising. If you value things that are simply well-made without unnecessary bling, but full of character and top-tier quality this is the essence of what Elon has built. @elonmusk @Starlink @boringcompany @SpaceX @Tesla @neuralink
 
@@ -1861,8 +1487,6 @@ RT by @elonmusk: Look at these photos Falcon 9 soaring into the sky. Falcon Heav
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: “Most reliable big launch provider in history.”
 
 ---
@@ -1870,8 +1494,6 @@ RT by @elonmusk: “Most reliable big launch provider in history.”
 ## 2026-07-15 19:43:27
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True
 
@@ -1881,8 +1503,6 @@ True
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Paul Ehrlich was one the most evil men ever
 
 ---
@@ -1890,8 +1510,6 @@ Paul Ehrlich was one the most evil men ever
 ## 2026-07-15 19:49:07
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 She is France’s last hope
 
@@ -1901,8 +1519,6 @@ She is France’s last hope
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. Moreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running. Trust through total transparency is the only thing that should be believed.
 
 ---
@@ -1910,8 +1526,6 @@ Once we have completed our review for security vulnerabilities, we will make the
 ## 2026-07-15 19:58:10
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Needs to change.
 
@@ -1921,8 +1535,6 @@ Needs to change.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Apple just sued OpenAI for trade secret theft in a 41 page federal complaint. The two companies were partners a year and a half ago and now they're in an all-out legal war over the post-smartphone device future. How quickly do the tables turn.
 
 ---
@@ -1930,8 +1542,6 @@ RT by @elonmusk: Apple just sued OpenAI for trade secret theft in a 41 page fede
 ## 2026-07-15 20:57:57
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok just leveled up again Two major new connectors have been added: • Stripe → payments, customers and invoices • Calendly → availability, scheduling and meetings Grok can now help manage both the money coming into a business and the time behind it It is quickly becoming an operating layer for the entire workflow
 
@@ -1941,8 +1551,6 @@ RT by @elonmusk: Grok just leveled up again Two major new connectors have been a
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yes
 
 ---
@@ -1950,8 +1558,6 @@ Yes
 ## 2026-07-15 21:11:11
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Showing more content from people you follow has been one of the fixes. The algorithm not barraging you with similar content due to a few likes is another.
 
@@ -1961,8 +1567,6 @@ Showing more content from people you follow has been one of the fixes. The algor
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Starship still tracking to fly tomorrow
 
 ---
@@ -1970,8 +1574,6 @@ Starship still tracking to fly tomorrow
 ## 2026-07-15 21:41:40
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Thanks, Jamie!
 
@@ -1981,8 +1583,6 @@ Thanks, Jamie!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchmark. The result places Grok 4.5 among the world's top-performing AI models for software engineering tasks, highlighting its growing strength in real-world coding and agentic developer workflows. Another milestone as xAI continues advancing Grok's coding capabilities. @elonmusk
 
 ---
@@ -1990,8 +1590,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 has climbed to #2 on the FrontierSWE benchma
 ## 2026-07-15 22:30:10
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Tesla has partnered with 7-Eleven Japan to begin installing Superchargers at the country’s largest convenience store chain. The 150th Supercharger site in Japan was also the first of this new partnership, which opened on July 11 at the 7-Eleven Kawasaki Shimokodanaka East store in Kanagawa Prefecture. https://driveteslacanada.ca/news/tesla-superchargers-7-eleven-japan/
 
@@ -2001,8 +1599,6 @@ RT by @elonmusk: Tesla has partnered with 7-Eleven Japan to begin installing Sup
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Top ⁠computer ⁠chip equipment ⁠maker ASML said its capacity expansion ​plans in 2027 and 2028 unveiled ‌today take into ⁠account ⁠demand for its tools from Elon Musk's planned ​Terafab chip production facility in Texas. "We're in dialogue with all our customers and ​we know ... what their building plans are," ⁠CFO Roger ⁠Dassen ​said on a call. "Terafab is also part of ​those plans." Dassen also said ASML was close to fully booking its 2027 EUV capacity and ⁠had already secured a substantial number of 2028 extreme ultraviolet lithography (EUV) orders.
 
 ---
@@ -2010,8 +1606,6 @@ RT by @elonmusk: Top ⁠computer ⁠chip equipment ⁠maker ASML said its capaci
 ## 2026-07-15 23:18:58
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Am putting together a product gallery at my ranch in Texas
 
@@ -2021,8 +1615,6 @@ Am putting together a product gallery at my ranch in Texas
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Good reason to try Grok 4.5 with Grok Build. It gets better every day!
 
 ---
@@ -2030,8 +1622,6 @@ Good reason to try Grok 4.5 with Grok Build. It gets better every day!
 ## 2026-07-15 23:29:11
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok
 
@@ -2041,8 +1631,6 @@ Grok
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 It is a thoughtful framework overall and certainly a good starting point for discussions
 
 ---
@@ -2050,8 +1638,6 @@ It is a thoughtful framework overall and certainly a good starting point for dis
 ## 2026-07-14 01:34:53
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minutes.
 
@@ -2061,8 +1647,6 @@ RT by @elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minute
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Right-wing wave in Europe. France 🇫🇷: Marine Le Pen now leading polls to be next President. Austria 🇦🇹: the Freedom Party is leading the polls massively at almost 40% Germany 🇩🇪: The AfD party now consistently number ONE in polls. Norway 🇳🇴: The Libertarian FrP party leading the polls by a wide margin. Something is changing in Europe.
 
 ---
@@ -2070,8 +1654,6 @@ RT by @elonmusk: Right-wing wave in Europe. France 🇫🇷: Marine Le Pen now l
 ## 2026-07-14 01:50:23
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.
 
@@ -2081,8 +1663,6 @@ RT by @elonmusk: That's not the case. The CLI doesn't retain data under ZDR (inc
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.
 
 ---
@@ -2090,8 +1670,6 @@ RT by @elonmusk: The default in Grok Build is off. You can also run /privacy and
 ## 2026-07-14 02:35:27
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Their zero data retention policy fine print says they still retain data? Am I reading this right?
 
@@ -2101,8 +1679,6 @@ RT by @elonmusk: Their zero data retention policy fine print says they still ret
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 SpaceX policy regarding data retention. It is actually helpful for debugging issues if we can retain some amount of data, so allowing this would be appreciated, but your privacy settings are always respected.
 
 ---
@@ -2110,8 +1686,6 @@ SpaceX policy regarding data retention. It is actually helpful for debugging iss
 ## 2026-07-14 02:45:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True. As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.
 
@@ -2121,8 +1695,6 @@ True. As a precautionary measure, all user data that was uploaded to SpaceXAI be
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Progress
 
 ---
@@ -2130,8 +1702,6 @@ Progress
 ## 2026-07-14 03:16:51
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize. This should also help clusters form around interests more easily, which many people have asked for.
 
@@ -2141,8 +1711,6 @@ RT by @elonmusk: We're rolling out a small tweak to boost visibility of your pos
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not Every Falcon launch, every Starship test, and every step toward Mars is built around that belief The goal is not just to reach space It is to build a future where humanity becomes a multiplanetary civilization
 
 ---
@@ -2150,8 +1718,6 @@ RT by @elonmusk: SpaceX was founded on one powerful belief: A future where human
 ## 2026-07-14 06:32:09
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True
 
@@ -2161,8 +1727,6 @@ True
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California
 
 ---
@@ -2170,8 +1734,6 @@ RT by @elonmusk: Falcon 9 launches 27 @Starlink satellites from California
 ## 2026-07-14 12:10:23
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today There was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data Those engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong I guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm Then came Opus 4.5 earlier this year which changed everything Suddenly real production code became possible with so much less friction and headache Everyone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8 Now a completely new crop of models is coming out that is not quite a 4.5 moment but something close We are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past My wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on She never stops letting me know that she was right, and she was The next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic There are many amazing things ahead and extraordinary challenges and opportunities We are living inside one of one of the biggest revolutions in human history
 
@@ -2181,8 +1743,6 @@ RT by @elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 The woke mob had turned Twitter into Wormtongue to the World
 
 ---
@@ -2190,8 +1750,6 @@ The woke mob had turned Twitter into Wormtongue to the World
 ## 2026-07-14 13:58:35
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench
 
@@ -2201,8 +1759,6 @@ Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok is the Flow LLM. Grok 4.5’s biggest advantage is its speed. It’s smart enough to be comparable to the other models on most things. But that speed allows you to make little tweaks to your system so that the output is PERFECT. With the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this. It’s now my preferred model.
 
 ---
@@ -2210,8 +1766,6 @@ RT by @elonmusk: Grok is the Flow LLM. Grok 4.5’s biggest advantage is its spe
 ## 2026-07-14 21:29:37
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Starlink will provide high-speed, low-latency connectivity onboard @FlyFrontier, transforming every flight into a fully connected experience 🛰️✈️
 
@@ -2221,8 +1775,6 @@ RT by @elonmusk: Starlink will provide high-speed, low-latency connectivity onbo
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours SpaceX is moving at light speed right now First: • 27 Starlink satellites from Vandenberg Then, just 7 hours and 42 minutes later: • 29 more Starlink satellites from Florida Two coasts, two rockets, 56 satellites, less than eight hours For most space programs, one launch is a major national achievement SpaceX launched twice in one day and was already preparing for the next mission SpaceX is basically running an orbital assembly line
 
 ---
@@ -2230,8 +1782,6 @@ RT by @elonmusk: SpaceX just launched two Falcon 9 rockets carrying 56 Starlink 
 ## 2026-07-14 22:52:02
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True
 
@@ -2241,8 +1791,6 @@ True
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Ancient times
 
 ---
@@ -2250,8 +1798,6 @@ Ancient times
 ## 2026-07-14 23:00:50
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Used @grok to remove the background😉🤗 @XFashion
 
@@ -2265,8 +1811,6 @@ RT by @elonmusk: Used @grok to remove the background😉🤗 @XFashion
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation. Our solar system has only a tiny percentage of non-solar atoms with which to build things.
 
 ---
@@ -2274,8 +1818,6 @@ RT by @elonmusk: I say both energy and mass, as they are separate scarcities for
 ## 2026-07-13 01:04:50
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk explains why the Sun is humanity's ultimate energy source: "The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball A roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States" The challenge isn't whether enough solar energy exists It's building the infrastructure to capture, store, and distribute it efficiently
 
@@ -2285,8 +1827,6 @@ RT by @elonmusk: Elon Musk explains why the Sun is humanity's ultimate energy so
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space Starlink V3 is designed to massively expand the network’s capacity and increase user speeds After deployment, the test satellites will: • Extend their solar arrays and antennas • Attempt to connect with ground stations in South Africa • Establish links with the wider Starlink constellation using high-capacity lasers The satellites will follow the same suborbital trajectory as Starship, meaning they will not remain in orbit and are expected to reenter the atmosphere later in the mission But the most interesting part is how Starlink will help inspect Starship Six of the satellites have been modified with cameras designed to scan Starship’s heat shield and transmit the imagery back to SpaceX operators Several heat-shield tiles have even been painted white to simulate missing tiles and provide clear imaging targets The goal is to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions Starship launches Starlink Starlink helps inspect Starship The entire SpaceX ecosystem is starting to compound on itself
 
 ---
@@ -2294,8 +1834,6 @@ RT by @elonmusk: For the first time, Starship will carry 20 next-generation Star
 ## 2026-07-13 02:15:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed. It would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would drive incremental token demand. Margin dollars would effectively get redistributed from the frontier labs to AI infrastructure providers. The infra winners would be those with the lowest per token cost and the winners at the model layer would be those with the highest token efficiency. There are many reasons Jensen is so focused on open source, but this is likely the most important one as I think he is probably less worried about a monopsony these days. Lower margin % at the model layer = more margin $ at the infra layer all else equal. With SpaceX and Meta being vertically integrated and possessing the #3 and #4 models respectively it is more possible than ever. Note that Grok 4.5 is ahead of Fable for some useful tasks at a much lower cost, so ranking them #3 is conservative. This is not happening yet. Cheap, mostly open source tokens are likely the majority of volume today but the majority of economic value is still accruing to the most intelligent models. Might change though. We will see.
 
@@ -2305,8 +1843,6 @@ RT by @elonmusk: The mega bull case for AI infrastructure would be *if* market s
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Well shit - grok 4.5 is KILLING it it in my video studio evals! 6/33 -> 23/33 with ridiculous cost efficiency compared to 5.6 models
 
 ---
@@ -2314,8 +1850,6 @@ RT by @elonmusk: Well shit - grok 4.5 is KILLING it it in my video studio evals!
 ## 2026-07-13 02:31:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I get to see this monster fly again later this week... new photos to come!
 
@@ -2325,8 +1859,6 @@ RT by @elonmusk: I get to see this monster fly again later this week... new phot
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok 4.5 is Opus class for browser use
 
 ---
@@ -2334,8 +1866,6 @@ Grok 4.5 is Opus class for browser use
 ## 2026-07-13 06:24:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Cool
 
@@ -2345,8 +1875,6 @@ Cool
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Follow the Starship series @SpaceX
 
 ---
@@ -2354,8 +1882,6 @@ Follow the Starship series @SpaceX
 ## 2026-07-13 06:32:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks!
 
@@ -2365,8 +1891,6 @@ Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok Build improvements
 
 ---
@@ -2374,8 +1898,6 @@ Grok Build improvements
 ## 2026-07-13 09:02:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 & GPT-5.6 Sol.
 
@@ -2385,8 +1907,6 @@ RT by @elonmusk: NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 R to @elonmusk: The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to
 
 ---
@@ -2394,8 +1914,6 @@ R to @elonmusk: The publicly available version of Mythos (Fable with Claude as f
 ## 2026-07-13 15:05:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Using Grok agents in background mode
 
@@ -2405,8 +1923,6 @@ Using Grok agents in background mode
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Literally true
 
 ---
@@ -2414,8 +1930,6 @@ Literally true
 ## 2026-07-13 23:51:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: If you run /privacy and change the setting, all previously synced data is deleted.
 
@@ -2427,8 +1941,6 @@ RT by @elonmusk: If you run /privacy and change the setting, all previously sync
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: How many people have left America to escape Capitalism? VS How many people have come to America while escaping socialism?
 
 ---
@@ -2436,8 +1948,6 @@ RT by @elonmusk: How many people have left America to escape Capitalism? VS How 
 ## 2026-07-12 04:10:38
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone.
 
@@ -2447,8 +1957,6 @@ RT by @elonmusk: and yes, i would say that @elonmusk mission with @SpaceXAI is g
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Tesla self-driving enables safer mobility for senior citizens
 
 ---
@@ -2456,8 +1964,6 @@ Tesla self-driving enables safer mobility for senior citizens
 ## 2026-07-12 04:26:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right. No other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize!
 
@@ -2467,8 +1973,6 @@ RT by @elonmusk: Grok 4.5 by @SpaceXAI is the most neutral AI model out there. A
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Next Starship launch aiming for Thursday
 
 ---
@@ -2476,8 +1980,6 @@ Next Starship launch aiming for Thursday
 ## 2026-07-12 08:31:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Grok is the most politically neutral and objectively truth-seeking AI
 
@@ -2487,8 +1989,6 @@ Grok is the most politically neutral and objectively truth-seeking AI
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Starship is evolving rapidly
 
 ---
@@ -2497,8 +1997,6 @@ Starship is evolving rapidly
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Try Grok 4.5 and see for yourself
 
 ---
@@ -2506,8 +2004,6 @@ Try Grok 4.5 and see for yourself
 ## 2026-07-12 18:57:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is the truth seeking leader that other AIs can aspire to become
 
@@ -2521,8 +2017,6 @@ RT by @elonmusk: Grok 4.5 is the truth seeking leader that other AIs can aspire 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump. Before AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next 50-60 moves. It turned out most moves do not lead to a win. Combined with clever use of Monte Carlo Tree Search, the sampling becomes quite manageable. The same can be said for physics, where equations are just another form of compression. Einstein did not start with relativity. That was not his first paper. He spent years understanding the properties of light before concluding that the speed of light is constant across the universe, which unlocked his discovery of relativity. During his thought process, he also interacted with other physicists (e.g., sub-agents) to enrich his thinking. Currently we have not run an agent for years of compute. The sessions are often fragmented and disoriented, so every new session is almost a fragmented memory of the past, but it may not be for long.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG_WpTwTQQ4qCVxblSwBJg5Fel1gkpAAKKEGsbNGmZVs_q7CntkhwVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2535,8 +2029,6 @@ RT by @elonmusk: I would like to offer a counterargument that LLMs (or maybe AIs
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok is closing the loop on real-world use cases
 
 ---
@@ -2545,8 +2037,6 @@ Grok is closing the loop on real-world use cases
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: End of an era: Decommissioning the original Model S & X assembly line in just 46 days
 
 ---
@@ -2554,8 +2044,6 @@ RT by @elonmusk: End of an era: Decommissioning the original Model S & X assembl
 ## 2026-07-11 02:07:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 with Grok Build has tied for the #1 spot on the SWE-Atlas-QnA benchmark, matching Codex GPT-5.6 with an impressive 84 score. Another strong milestone for xAI's rapidly advancing coding capabilities.
 
@@ -2569,8 +2057,6 @@ RT by @elonmusk: Grok 4.5 with Grok Build has tied for the #1 spot on the SWE-At
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: 10 GWh of our industrial energy storage products are now operating across Australia! That's equivalent to 160,000 Model Ys. And we're just getting started
 
 ---
@@ -2578,8 +2064,6 @@ RT by @elonmusk: 10 GWh of our industrial energy storage products are now operat
 ## 2026-07-11 05:05:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Try Grok 4.5 in Perplexity
 
@@ -2589,8 +2073,6 @@ Try Grok 4.5 in Perplexity
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Built with two prompts and /goal!
 
 ---
@@ -2598,8 +2080,6 @@ RT by @elonmusk: Built with two prompts and /goal!
 ## 2026-07-11 06:08:24
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: NEWS: xAI's Grok 4.5 has constructed an explicit counterexample to hypercontractivity on the 4-sphere, solving a mathematical gap that previously existed between dimensions 4 and 12. Running on xAI's V9 architecture with 1.5 trillion parameters, the model proved that the smoothing property of the Poisson semigroup fails at dimension 4, effectively closing a dimensional transition that had remained unverified in prior mathematical literature. https://cryptobriefing.com/grok-4-5-hypercontractivity-counterexample/
 
@@ -2609,8 +2089,6 @@ RT by @elonmusk: NEWS: xAI's Grok 4.5 has constructed an explicit counterexample
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Background on the Starship story
 
 ---
@@ -2618,8 +2096,6 @@ Background on the Starship story
 ## 2026-07-11 07:46:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Anyone can visit the Starship factory and launch site in Texas, as it is right next to on the public highway. It is incredibly inspiring to see!
 
@@ -2629,8 +2105,6 @@ Anyone can visit the Starship factory and launch site in Texas, as it is right n
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 The most important thing about Grok Build and the 4.5 release is that it is genuinely so useful for real-world work
 
 ---
@@ -2638,8 +2112,6 @@ The most important thing about Grok Build and the 4.5 release is that it is genu
 ## 2026-07-11 07:48:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 🎯
 
@@ -2649,8 +2121,6 @@ The most important thing about Grok Build and the 4.5 release is that it is genu
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Free trial of Grok 4.5 model via Grok Build CLI
 
 ---
@@ -2658,8 +2128,6 @@ Free trial of Grok 4.5 model via Grok Build CLI
 ## 2026-07-11 09:15:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Grok Imagine makes beautiful art
 
@@ -2669,8 +2137,6 @@ Grok Imagine makes beautiful art
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 ---
@@ -2678,8 +2144,6 @@ Video
 ## 2026-07-11 09:24:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 If solar power in space is harnessed for useful work at scale, the value of that will far exceed the Earth economy, because all of Earth civilization uses much less than a trillionth of our Sun’s power
 
@@ -2689,8 +2153,6 @@ If solar power in space is harnessed for useful work at scale, the value of that
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Epic videos of Starship Super Heavy!
 
 ---
@@ -2698,8 +2160,6 @@ Epic videos of Starship Super Heavy!
 ## 2026-07-11 12:03:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Media
 
@@ -2709,8 +2169,6 @@ Media
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 As usual, legacy media is misrepresenting the situation. I just asked Tesla & SpaceX to try out Grok 4.5 to see if it solves their task, not use it no matter what! They should continue to use other AI models if those models outperform Grok.
 
 ---
@@ -2718,8 +2176,6 @@ As usual, legacy media is misrepresenting the situation. I just asked Tesla & Sp
 ## 2026-07-11 12:12:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Bamf
 
@@ -2729,8 +2185,6 @@ Bamf
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok 4.5 Review
 
 ---
@@ -2738,8 +2192,6 @@ Grok 4.5 Review
 ## 2026-07-11 13:30:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Grok places second after Fable on real-world software engineering
 
@@ -2749,8 +2201,6 @@ Grok places second after Fable on real-world software engineering
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Falcon Rising
 
 ---
@@ -2758,8 +2208,6 @@ Falcon Rising
 ## 2026-07-11 16:47:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The Anglo-Scottish Enlightenment – the real antidote to Rousseau and Voltaire The French Enlightenment and the Anglo-Scottish Enlightenment happened simultaneously, in the same century, reading the same books, arguing about the same questions. They reached completely opposite conclusions. One produced the Declaration of Independence and the American Constitution. The other produced the guillotine. This is the most important civilizational fork in modern history. 1. The French Enlightenment begins with the assumption that human beings can be improved by reason – that if you strip away the corrupting institutions of Church, tradition, and inherited authority, the natural goodness underneath will organize itself into a just society. This sounds like progress. It is a fantasy with a body count. Every attempt to implement it has required, at some point, a Committee of Public Safety to handle the people who turned out not to be naturally good enough. 2. The Anglo-Scottish Enlightenment begins with the opposite assumption: human beings are what they are, not what they could be if properly enlightened. Hume grounds morality in human nature as it actually operates – sympathy, habit, sentiment, the slow accumulation of social trust. Smith shows that self-interest, properly channeled, produces collective benefit without a planner. Neither man is building a utopia. Both are building with the actual material available. 3. Burke is the direct refutation, written in real time. He published Reflections on the Revolution in France in 1790 – before the Terror, predicting it precisely – because he understood that institutions are not obstacles to human flourishing, they are its precondition. They contain accumulated wisdom — the knowledge of the dead — that cannot be recovered once destroyed. Pull society apart to improve it and you don’t get the General Will. You get Robespierre. 4. The American founders read Burke, Hume, Smith, and Montesquieu – the Frenchman who looked at England and understood what France was missing. They built a system that takes human nature as given — self-interested, power-hungry, tribal — and constructs institutions to contain those tendencies rather than assume they disappear once the right people are in charge. Checks and balances are not a design flaw. They are what you build when you don’t believe in philosopher-kings. 5. 1776 versus 1789. Same Enlightenment, same century, same vocabulary of liberty and reason. One produces a constitutional republic that has survived two and a half centuries of stress, civil war, and upheaval. The other produces, in sequence: the Terror, Napoleon, 1848, the Commune, and eventually — via Marx, who was a Frenchman in spirit if not in birth — the entire catastrophe of the twentieth century. The difference was not intelligence or intention. It was the starting assumption about human nature. Get that wrong and everything that follows is wrong with it. 6. The guillotine is not the Revolution’s failure. It is its logical conclusion. If man is naturally good and the system is corrupt, then whoever seizes the system in the name of natural goodness is licensed to do anything. The General Will cannot be wrong. Those who resist it are not opponents – they are enemies of nature itself. 7. The real antidote to Rousseau and Voltaire was never a better French philosopher. It was a different civilizational tradition – one that builds with human beings as they are; that treats inherited institutions as repositories of wisdom rather than obstacles to progress; that distributes power rather than concentrating it in whoever currently claims to know the General Will. That tradition was built in Edinburgh, London, and Philadelphia. It is currently under sustained assault — from exactly the same ideas, in exactly the same form, with exactly the same confidence — that Burke watched demolish France in 1789. He was right then. He is right now.
 
@@ -2769,8 +2217,6 @@ RT by @elonmusk: The Anglo-Scottish Enlightenment – the real antidote to Rouss
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Nuanced
 
 ---
@@ -2779,8 +2225,6 @@ Nuanced
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 They sure put a lot of effort into this crime
 
 ---
@@ -2788,8 +2232,6 @@ They sure put a lot of effort into this crime
 ## 2026-07-11 18:21:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Starlink has provided new emergency connectivity support to Armenia. 🇦🇲 • 56 additional kits will be deployed by Armenia’s Ministry of Internal Affairs’ Rescue Service to provide connectivity during natural disasters and emergencies. • 110 Starlink terminals already connect thousands of students across Armenia’s remote schools.
 
@@ -2803,8 +2245,6 @@ RT by @elonmusk: BREAKING: Starlink has provided new emergency connectivity supp
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Cybercab at a fork in the road
 
 ---
@@ -2812,8 +2252,6 @@ Cybercab at a fork in the road
 ## 2026-07-11 18:37:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 He takes scamming to a whole new level
 
@@ -2823,8 +2261,6 @@ He takes scamming to a whole new level
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 By “this” he means scamming 🤣🤣
 
 ---
@@ -2832,8 +2268,6 @@ By “this” he means scamming 🤣🤣
 ## 2026-07-11 20:53:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 R to @elonmusk: He might literally love scamming more than any human alive!
 
@@ -2843,8 +2277,6 @@ R to @elonmusk: He might literally love scamming more than any human alive!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video
 
 ---
@@ -2852,8 +2284,6 @@ Video
 ## 2026-07-10 00:16:12
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: The 1.5T foundation model is being refined almost daily, and its context window is expected to jump to 1M tokens, possibly as soon as next week Next model: The 2T foundation model is expected to finish training this month and become available to customers next month Grok Build: The harness is getting refinements almost every day based on user feedback. New features, fixes, and workflow improvements are landing at ridiculous speed Inference: SpaceXAI is working on internally developed C/C++ inference mapped directly to GB300 hardware, which could double speed or more Agentic Imagine: Grok will be able to call Imagine as a tool in agentic mode for image and video generation That is going to be huge for game developers, designers, builders, and anyone creating interactive worlds But the biggest thing is this: Grok is being built for real-world engineering Grok 4.5 early beta access was given to Tesla and SpaceX engineers, with feedback coming from real engineering teams solving real-world problems Next month’s release is expected to be another massive step-change improvement as SpaceXAI closes the loop on real-world engineering problems at Tesla, SpaceX, Neuralink, and Boring Company And from now through the end of 2026, Elon said a new from-scratch foundation model is expected to ship every month
 
@@ -2863,8 +2293,6 @@ RT by @elonmusk: The upcoming wave of SpaceXAI Grok updates is insane Grok 4.5: 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Interesting comparison of Grok & Opus 1M+ context window coming soon
 
 ---
@@ -2872,8 +2300,6 @@ Interesting comparison of Grok & Opus 1M+ context window coming soon
 ## 2026-07-10 00:27:10
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 California has legalized election fraud
 
@@ -2883,8 +2309,6 @@ California has legalized election fraud
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Consistent with the simulation hypothesis. Like a video game, objects are randomly generated, with positional certainty only when observed.
 
 ---
@@ -2892,8 +2316,6 @@ Consistent with the simulation hypothesis. Like a video game, objects are random
 ## 2026-07-10 00:49:42
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Image
 
@@ -2903,8 +2325,6 @@ Image
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok 4.5 is dominating the latest AI leaderboards Claims the #1 spot: • #1 on AutomationBench-AA • #1 on Terminal-Bench v2 • #1 on Harvey Legal Agent Benchmark • #1 on SWE Marathon • #1 on SWE-Atlas-QnA
 
 ---
@@ -2912,8 +2332,6 @@ RT by @elonmusk: Grok 4.5 is dominating the latest AI leaderboards Claims the #1
 ## 2026-07-10 02:18:03
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Try @Grok 4.5!
 
@@ -2923,8 +2341,6 @@ Try @Grok 4.5!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI chip vendor agnostic. System architecture supports compute modules from any provider. • 150 kW peak compute payload • 120 kW average compute payload • 70 kW per ton • Wingspan: 70 meters • Deployed height: 20 meters • 110 m² deployable liquid radiator • Redundant pumping loops • Integrated micrometeoroid shielding • 150 kW solar array • 250 W/m² • High-speed laser links interconnect satellites and beam AI results back to Earth through Starlink. Low-latency, high-bandwidth connection • SpaceX-manufactured solar technology from Bastrop, Texas
 
 ---
@@ -2932,8 +2348,6 @@ RT by @elonmusk: New renderings of SpaceX's AI satellite, called AI1. • AI ch
 ## 2026-07-10 05:21:13
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Built from scratch by Grok 4.5 + Grok Build in UE5.8: a cyberpunk L-corner street with neon facades, rain, signs, and crowds walking through the scene. End-to-end, the run took 10.75M tokens, 36.5 minutes, and only ~$12.4 at API pricing. What impressed me most is not just the final render, but the process: the coding agent built it in many small steps, saved 30+ map checkpoints, verified the scene, and iteratively fixed issues autonomously. Congrats to the @SpaceXAI team for building such an impressive coding model and harness. This feels like a real step toward agentic 3D world creation. @elonmusk @milichab @skcd42 @yunta_tsai #UnrealEngine
 
@@ -2943,8 +2357,6 @@ RT by @elonmusk: Built from scratch by Grok 4.5 + Grok Build in UE5.8: a cyberpu
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The Cape Gigabay is getting closer to being ready for Starship! Teams recently installed the 420-ton crane – which we’ll use to break over and move Starships and Super Heavy boosters preparing for flight. One step closer to the Moon and Mars 🚀🚀🚀
 
 ---
@@ -2952,8 +2364,6 @@ RT by @elonmusk: The Cape Gigabay is getting closer to being ready for Starship!
 ## 2026-07-10 06:32:17
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok is a frontier model.
 
@@ -2963,8 +2373,6 @@ RT by @elonmusk: Grok is a frontier model.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead of Flight 13
 
 ---
@@ -2972,8 +2380,6 @@ RT by @elonmusk: Super Heavy booster moved to the Starbase pad for testing ahead
 ## 2026-07-10 07:36:32
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Wally Funk waited 60 years to get to space, and no one ever earned it more. She trained with the Mercury 13 in 1961, out-tested the men, and was told no anyway. She never stopped flying — 19,600 hours, thousands of students, a lifetime of firsts. Five years ago this month, I had the honor of flying with her on New Shepard's first crewed flight. At 82, she was fearless, joyful, and asking to go again before we’d even landed. Her dream took six decades, but it came true. Dreams have no expiration date. Godspeed, Wally.
 
@@ -2983,8 +2389,6 @@ RT by @elonmusk: Wally Funk waited 60 years to get to space, and no one ever ear
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation
 
 ---
@@ -2992,8 +2396,6 @@ Pinned: Starmind https://www.spacex.com/spacexai/starmind#power-generation
 ## 2026-07-10 07:55:45
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok 4.5
 
@@ -3003,8 +2405,6 @@ Grok 4.5
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok doesn’t give up
 
 ---
@@ -3012,8 +2412,6 @@ Grok doesn’t give up
 ## 2026-07-10 08:08:32
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok gaming
 
@@ -3023,8 +2421,6 @@ Grok gaming
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok Build improves almost every day
 
 ---
@@ -3032,8 +2428,6 @@ Grok Build improves almost every day
 ## 2026-07-10 08:22:22
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK New data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks. On their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy): • Grok 4.5: 29% mean pass rate • GPT 5.5: 22% • Claude Opus 4.8: 21% Grok 4.5 showed particularly strong gains in demanding areas like legal work, education, healthcare, and QA analysis. This lines up with xAI’s focus on building models that excel at practical, agentic work rather than just synthetic benchmarks. While general intelligence leaderboards still see tight competition at the very top, Grok 4.5 is delivering some of the strongest results on actual professional deliverables right now.
 
@@ -3043,8 +2437,6 @@ RT by @elonmusk: GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK New data fro
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Fable 5 vs Grok 4.5 vs GPT 5.5 We put three top-tier models to build a same game challenge. Used Command Code /design, and the exact same prompt. Result: Grok 4.5 genuinely plays like a polished mobile game. Fable 5 and GPT 5.5 feel too fast. Everything feels rushed, lacks finish. Ranking based on DX & Features: → Grok 4.5: 9/10 → Fable 5: 7.5/10 → GPT 5.5: 7/10
 
 ---
@@ -3052,8 +2444,6 @@ RT by @elonmusk: Fable 5 vs Grok 4.5 vs GPT 5.5 We put three top-tier models to 
 ## 2026-07-10 09:10:59
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok only gets better from here
 
@@ -3063,8 +2453,6 @@ Grok only gets better from here
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world
 
 ---
@@ -3072,8 +2460,6 @@ Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity any
 ## 2026-07-10 10:16:57
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases. This post by Mark Zuckerberg already received over 12 million views for free!
 
@@ -3083,8 +2469,6 @@ Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity any
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: I fell for a lot of progressive nonsense, and hard. I was literally trans. But two things I can honestly say I never fell for were 1. alternative ways of knowing. Science obviously works, and it’s hard to even coherently describe an alternative. What, you aren’t taking in data or trying to parse it without contradiction? What are you even talking about? I was a new atheist technocratic progressive, and thought the extent to which other groups failed at scientific thinking was a result of disadvantage, but never that scientific thinking itself was bad. Same with everything on that smithsonian chart (being on time etc) 2. Strong anti-hereditarianism. I believed racial average differences were due to discrimination (to the extent I thought about the issue at all, which was infrequently) but the belief that *all* human cognitive differences, even within groups, are due to upbringing was always just facially absurd. There exists such a thing as a smart person, and there are aspects of it that clearly aren’t about education. They talk faster. They’re funnier. They learn *new* concepts faster. Their questions are sharper. It’s textural. It’s visceral. I didn’t know anything about psychometrics or the hereditarian debate at this point. It’s just obvious if you’ve met three humans and are honest.
 
 ---
@@ -3092,8 +2476,6 @@ RT by @elonmusk: I fell for a lot of progressive nonsense, and hard. I was liter
 ## 2026-07-10 15:14:39
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok Build gets better every day and we love hearing user feedback for improvements
 
@@ -3103,8 +2485,6 @@ Grok Build gets better every day and we love hearing user feedback for improveme
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: GAVIN BAKER: “Tesla and Elon have done more to decarbonize the world than all environmental activists combined.”
 
 ---
@@ -3112,8 +2492,6 @@ RT by @elonmusk: GAVIN BAKER: “Tesla and Elon have done more to decarbonize th
 ## 2026-07-10 15:27:26
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Grok Imagine
 
@@ -3123,8 +2501,6 @@ Grok Imagine
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 ---
@@ -3132,8 +2508,6 @@ Video
 ## 2026-07-10 15:47:31
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Model comparison
 
@@ -3143,8 +2517,6 @@ Model comparison
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 😂
 
 ---
@@ -3152,8 +2524,6 @@ Model comparison
 ## 2026-07-10 22:26:16
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: tesla fsd is the greatest piece of technology i've ever experienced. it's not even close. there's something hard to comprehend that my car is operating in the physical world, completely autonomously. pure magic. I can't ever get another car now...
 
@@ -3165,8 +2535,6 @@ RT by @elonmusk: tesla fsd is the greatest piece of technology i've ever experie
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok 4.5 has the best real-world ROI
 
 ---
@@ -3174,8 +2542,6 @@ Grok 4.5 has the best real-world ROI
 ## 2026-07-10 23:42:38
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Try @grok
 
@@ -3185,8 +2551,6 @@ Try @grok
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok Build
 
 ---
@@ -3195,15 +2559,11 @@ Grok Build
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 True
 
 ---
 
 ## 2026-07-09 00:13:40
-
-**内容**:
 
 Correct
 
@@ -3211,15 +2571,11 @@ Correct
 
 ## 2026-07-09 00:30:35
 
-**内容**:
-
 R to @elonmusk: We will continue to make refinements to the Grok Build harness and the 1.5T foundation model almost every day in response to user requests. The 2T model will finish training this month and be available to customers next month.
 
 ---
 
 ## 2026-07-09 01:31:50
-
-**内容**:
 
 An inspiring vision of the future is needed
 
@@ -3227,15 +2583,11 @@ An inspiring vision of the future is needed
 
 ## 2026-07-09 01:33:20
 
-**内容**:
-
 RT by @elonmusk: Critical feedback is always appreciated
 
 ---
 
 ## 2026-07-09 01:38:36
-
-**内容**:
 
 Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but much faster. The combination of capability, faster speed and lower cost is what makes it competitive. We are closing the loop on real-world usefulness, not benchmarks. Hardcore engineers at Tesla & SpaceX find Grok 4.5 genuinely useful, which is what actually matters.
 
@@ -3243,15 +2595,11 @@ Our internal assessment is that Grok 4.5 is roughly comparable to Opus 4.7, but 
 
 ## 2026-07-09 01:42:49
 
-**内容**:
-
 We will be releasing a new @CommunityNotes feature that sends you an 𝕏 Chat message if a post you interacted with is corrected
 
 ---
 
 ## 2026-07-09 01:43:29
-
-**内容**:
 
 R to @elonmusk: Image
 
@@ -3259,15 +2607,11 @@ R to @elonmusk: Image
 
 ## 2026-07-09 01:57:12
 
-**内容**:
-
 RT by @elonmusk: Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency. https://x.ai/news/grok-4-5
 
 ---
 
 ## 2026-07-09 01:57:13
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
 
@@ -3275,15 +2619,11 @@ RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in larg
 
 ## 2026-07-09 01:58:26
 
-**内容**:
-
 RT by @elonmusk: Try Grok 4.5 in the API, Grok Build, and Cursor
 
 ---
 
 ## 2026-07-09 01:58:54
-
-**内容**:
 
 RT by @elonmusk: Smart pet technology company Fi has just launched the world's first dog collar with @Starlink. Basically, you’ll know exactly where your dog is at all times anywhere in the U.S. It’s $199 + $189/year membership for new customers, and just a $299 flat fee for existing members. More info: • Up to 5 days of battery life: Operate multiple days on a single charge, supporting extended trips and remote exploration. • T-Satellite with Starlink GPS: Track a dog's location nearly anywhere in the US, including areas entirely without cellular coverage. • Dual Band High-accuracy GPS: Deliver precise location data continuously, whether connected via satellite, LTE, Wi-Fi, or Bluetooth. • Automatic switching: Seamlessly connect to LTE when available and to T-Satellite with Starlink when cellular networks are out of reach — with no action required from the owner. • Real-time location updates: Deliver accurate, continuous location data whether the dog is in a city park or miles from the nearest cell tower. • Fi Callback: A proprietary training system based on sound and vibration that uses no static electric shock to bring dogs back to their owners on command. • Fully waterproof: Tested in salt water and IP68/66K-rated
 
@@ -3291,15 +2631,11 @@ RT by @elonmusk: Smart pet technology company Fi has just launched the world's f
 
 ## 2026-07-09 01:59:19
 
-**内容**:
-
 RT by @elonmusk: Excited to release Grok 4.5 with @SpaceXAI. It's an Opus-class model that's fast and low cost. It's a significant step up over any model we've developed so far, including Composer 2.5, and has become the daily driver for many on our team. First of many releases. More soon.
 
 ---
 
 ## 2026-07-09 02:12:31
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it now
 
@@ -3307,15 +2643,11 @@ RT by @elonmusk: Grok 4.5 is now officially available in Grok Build......try it 
 
 ## 2026-07-09 02:59:55
 
-**内容**:
-
 RT by @elonmusk: 🚨BREAKING: Rupert Lowe talks to Joe Rogan about the "Rape Gang Inquiry" report. "The genesis of the rape gangs was this multicultural invasion of Europe. They wanted open borders." "We've estimated a minimum of a quarter million rapes have taken place. It's probably much, much more." "A lot of these girls were impregnated and forced to convert to Islam." "These are properly organized gangs who are grooming and abusing young girls, as young as ten, and then literally trafficking them around the country." "There's a cultural difference of opinion between an open high-trust Christian view of women and the Islamic view of women." "They're predominantly from Pakistan and from one part called Mirpur. There are some from Bangladesh, Somalia, and Eritrea. There are other Muslim countries that perpetrate some of this and of course there are white people who perpetrate rape as well, but nothing on the scale of this." "The state knows this is happening, but they don't want to admit that their multicultural experiment has failed. They don't want to be called racist. People are frightened to be accused of effectively being biased and white due to all of the woke DEI rubbish that has permeated the whole of British society." @joerogan @RupertLowe10 Full interview below ↓
 
 ---
 
 ## 2026-07-09 03:01:03
-
-**内容**:
 
 Try out Grok 4.5 in Cursor!
 
@@ -3323,15 +2655,11 @@ Try out Grok 4.5 in Cursor!
 
 ## 2026-07-09 03:02:04
 
-**内容**:
-
 Try out Grok 4.5 in Vercel!
 
 ---
 
 ## 2026-07-09 03:47:15
-
-**内容**:
 
 RT by @elonmusk: Wow… within 5 minutes my kids built this game called the Tesla City with Grok 4.5. It’s a simple Tesla arcade game in SF where: 1/ You can choose a Tesla (3 / Y / S / X / Cybertruck / Roadster / Semi / Cybercab) 2/ Give robotaxi rides - pickup and drop people off for $ 3/ Can upgrade your car with the $ (buy new weapons, etc.) 4/ Fight gas cars with blasters, homing missiles, EMP & plasma, as they try to attack you to prevent you from completing Robotaxi rides. GROK 4.5 is next level! 🔥
 
@@ -3339,15 +2667,11 @@ RT by @elonmusk: Wow… within 5 minutes my kids built this game called the Tesl
 
 ## 2026-07-09 04:00:36
 
-**内容**:
-
 RT by @elonmusk: Grok 4.5 is pretty good at building websites. Just made a beautiful website about black holes. Check this out:
 
 ---
 
 ## 2026-07-09 04:07:25
-
-**内容**:
 
 Artificial Analysis assessment
 
@@ -3355,15 +2679,11 @@ Artificial Analysis assessment
 
 ## 2026-07-09 04:35:13
 
-**内容**:
-
 Grok groks engineering. Next month’s release will be another step-change improvement, as we close the loop on solving real-world engineering problems at Tesla, SpaceX, Neuralink and Boring Company.
 
 ---
 
 ## 2026-07-09 04:35:26
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is actually insane. I'm one step closer to launching my new 3D Home Plan Builder. Powered by Grok 4.5 and Grok Imagine. 🚀 Grok 4.5 just crushed it: designed the entire 2D + 3D plan inside the app in under 1 minute at a fraction of the cost of Opus. Launching tomorrow! 🔥
 
@@ -3371,15 +2691,11 @@ RT by @elonmusk: Grok 4.5 is actually insane. I'm one step closer to launching m
 
 ## 2026-07-09 04:39:56
 
-**内容**:
-
 Grok will be able to call Imagine as a tool in agentic mode for image/video generation. As Imagine keeps improving, this will be amazing for game developers!
 
 ---
 
 ## 2026-07-09 04:41:02
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok 4.5 in Grok Build cost $2.49 per task while Fable 5 in Claude Code cost $11.80 and GPT-5.5 in Codex $5.07. This is driven by relatively low token pricing and the model using far fewer tokens than comparable models (1.9M average tokens used per task), significantly less than Fable 5 in Claude Code (7.2M) and GPT-5.5 in Codex (6.2M)
 
@@ -3387,15 +2703,11 @@ RT by @elonmusk: Grok 4.5 in Grok Build also stands out for its efficiency. Grok
 
 ## 2026-07-09 04:44:16
 
-**内容**:
-
 RT by @elonmusk: Grok 4.5 brings frontier performance across coding and knowledge work
 
 ---
 
 ## 2026-07-09 04:51:51
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 delivering Fable level performance at like 1/17th the cost! 😮 @elonmusk
 
@@ -3403,15 +2715,11 @@ RT by @elonmusk: Grok 4.5 delivering Fable level performance at like 1/17th the 
 
 ## 2026-07-09 05:08:47
 
-**内容**:
-
 Grok 4.5 context window will upgrade to 1M probably by next week
 
 ---
 
 ## 2026-07-09 05:09:49
-
-**内容**:
 
 Grok 4.5 true usefulness is excellent
 
@@ -3419,15 +2727,11 @@ Grok 4.5 true usefulness is excellent
 
 ## 2026-07-09 05:17:11
 
-**内容**:
-
 RT by @elonmusk: How it feels to use Grok 4.5 😎
 
 ---
 
 ## 2026-07-09 05:30:24
-
-**内容**:
 
 Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the GB300 hardware. Doubling or more of the current speed is probably achievable.
 
@@ -3435,15 +2739,11 @@ Grok 4.5 is not yet using our internally developed C/C++ inference software that
 
 ## 2026-07-09 05:34:24
 
-**内容**:
-
 Rate of improvement is accelerating. Users should notice a meaningful improvement in the usefulness of the Grok Build harness with our V9 foundation model (aka Grok 4.5) every week.
 
 ---
 
 ## 2026-07-09 05:36:19
-
-**内容**:
 
 RT by @elonmusk: .@Starcloud_ CEO @PhilipJohnston: "Buy SpaceX stock." "It's like owning the railroads." " The SpaceX IPO is going to be viewed historically as the most undervalued IPO of all time." "They will tear through $10 trillion certainly within the next couple of years, and then have almost unlimited TAM for what they're building." "I'm not like regulated by anybody. So I'm going to tell people, 'Just buy SpaceX stock.' I think it's a great stock to buy." "They own what will be by far the most cost-effective launch vehicle, and that opens up every industry in space that will be possible beyond that: asteroid mining, lunar resource mining, all of the comms businesses that are going to be built. Everything else is going to have to go through SpaceX." "It's like owning the railroads. Lots of businesses will be built on top of it, like our business will be built on top of it." "The railroads are a great business to own." @elonmusk
 
@@ -3451,15 +2751,11 @@ RT by @elonmusk: .@Starcloud_ CEO @PhilipJohnston: "Buy SpaceX stock." "It's lik
 
 ## 2026-07-09 05:37:00
 
-**内容**:
-
 Rate of improvement is 🚀🚀
 
 ---
 
 ## 2026-07-09 05:40:18
-
-**内容**:
 
 Grok has always been very strong on law
 
@@ -3467,15 +2763,11 @@ Grok has always been very strong on law
 
 ## 2026-07-09 05:46:30
 
-**内容**:
-
 RT by @elonmusk: Wow amazing Grok Imagine 😍
 
 ---
 
 ## 2026-07-09 06:08:54
-
-**内容**:
 
 RT by @elonmusk: Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 NVL72 systems and purpose-built for coding, agentic tasks, and knowledge work. This is what happens when world-class AI infrastructure meets world-class AI research.
 
@@ -3483,15 +2775,11 @@ RT by @elonmusk: Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 N
 
 ## 2026-07-09 06:47:04
 
-**内容**:
-
 RT by @elonmusk: WOW! GROK 4.5 PRICES ARE NEAR OPEN SOURCE HOSTED PRICES! This will move many that have token cost fatigue in corporations. But that is only half the story: it is ~4.2 more efficient using far less times per turn.
 
 ---
 
 ## 2026-07-09 07:08:39
-
-**内容**:
 
 RT by @elonmusk: Calling all exceptional civil and electrical engineers! The SpaceX Cape Starship team needs help building and scaling the worlds most advanced launch pads. If you want to join the greatest team on Earth and help us on our journey to the Moon and Mars, check out the opportunities linked below https://boards.greenhouse.io/spacex/jobs/8609445002?gh_jid=8609445002 https://boards.greenhouse.io/spacex/jobs/8564730002?gh_jid=8564730002
 
@@ -3499,15 +2787,11 @@ RT by @elonmusk: Calling all exceptional civil and electrical engineers! The Spa
 
 ## 2026-07-09 09:58:20
 
-**内容**:
-
 RT by @elonmusk: Grok Build mogs Claude Code & Codex TUIs i can't lie. Not to mention the perf of Grok 4.5... It's not even a competition at this point. Good shit xAI team
 
 ---
 
 ## 2026-07-09 10:11:19
-
-**内容**:
 
 RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my honest first impression (non affiliated neutral view point): 1. grok build is a very good harness firstmate stretches harness capabilities to their limits, and i've been testing it with claude code, codex, opencode, pi and grok build so far, grok build and claude code are the only two harnesses that can automatically wake up when the background polling process finishes codex hard fails on this kind of background polling task, with no escape hatch. opencode and pi can both do it with custom plugins, but not out of the box grok build also feels really clean, smooth, and transparent. you can see what background tasks are running, what hooks got triggered at what step, context window, token usage etc all out of the box and somehow the UI does not feel cluttered at all 2. grok 4.5 is a very good model i've been using opus 4.8 as my primary firstmate, and today i did a full switch to grok 4.5. so far i don't think anything degraded, while token throughput is a lot faster, although time-to-first-byte for each response seems long - i wonder if prompt caching is done properly or no 3. the quota that comes with X premium is quite generous, and there's no session level limit so overall i'm quite pleased by this and plan to switch a lot of my tasks to grok. the landscape just got a lot more interesting...
 
@@ -3515,15 +2799,11 @@ RT by @elonmusk: grok 4.5 made me give grok build a serious run today here's my 
 
 ## 2026-07-09 10:39:36
 
-**内容**:
-
 RT by @elonmusk: SpaceXAI's Grok 4.5 takes the #1 spot on AutomationBench-AA with a score of 51%, ahead of Claude Fable 5 (49%) and Claude Opus 4.8 (48%) at roughly a quarter of their cost per task - the first model to complete more than half of workflow objectives without breaking any business rules AutomationBench-AA, our independent leaderboard for @zapier’s AutomationBench, tests whether AI agents can automate real SaaS workflows while adhering to business rules. The test set is private to prevent contamination. Models complete 657 tasks across 40 simulated app environments including Gmail, Google Sheets, Slack, Salesforce, and HubSpot, and the headline score is the share of objectives completed without violating any guardrails. Key takeaways: ➤ Grok 4.5 completes more objectives than any other model: It completes 79.9% of task objectives and strictly passes 21.9% of tasks. This is the highest we’ve measured on both outcomes, exceeding Claude Fable 5’s 73.3% objective completion and Claude Opus 4.8’s 19.3% of fully-completed tasks ➤ Grok 4.5 pushes out the Pareto frontier of score vs. cost per task: At $0.34 per task, it is both cheaper and higher-scoring than every other leading model - Claude Fable 5 ($1.35 per task), Claude Opus 4.8 ($1.46), GPT-5.5 (xhigh, $1.28), and Gemini 3.5 Flash (high, $0.49) ➤ It is extremely token-efficient: Grok 4.5 uses ~8k output tokens per task, the fewest of any leading model - less than a quarter of Claude Opus 4.8 (32k) and a third of Gemini 3.5 Flash (24k). Its total token usage of 0.44M per task is among the lowest on the leaderboard. Low cost is driven by this efficiency as well as low token pricing ➤ Grok 4.5 uses fewer turns with many parallel tool use: Grok 4.5 resolves tasks in ~16 turns, fewer than GPT-5.5 (xhigh, 25) and less than half of Gemini 3.5 Flash (high, 35), while making the most tool calls per task of any leading model (52.5). It batches 3.3 tool calls per turn, compared to ~2.5 for Claude Opus 4.8 and ~2.0 for GPT-5.5 (xhigh) ➤ Guardrails still get broken: Grok 4.5 triggers 0.63 violations per task, above Claude Opus 4.8 (0.55) and Gemini 3.5 Flash (0.46). At 13.0 objectives completed per violation, it trails Gemini 3.5 Flash (15.0) and Claude Opus 4.8 (13.5) ➤ Its strongest lead is in the hardest domain: Grok 4.5 completes 71% of Finance objectives, the domain with the lowest average score, ahead of Claude Fable 5 (64%) and Claude Opus 4.8 (62%) Congratulations to @SpaceXAI and @elonmusk on topping the leaderboard!
 
 ---
 
 ## 2026-07-09 11:02:02
-
-**内容**:
 
 RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
 
@@ -3531,15 +2811,11 @@ RT by @elonmusk: Use Grok 4.5 to build full-stack apps with Convex
 
 ## 2026-07-09 13:21:35
 
-**内容**:
-
 RT by @elonmusk: I appreciate the many xAI and Cursor engineers who dedicated their time to addressing feedback from Tesla. I remember meeting Andrew a few weeks after he was hired and telling him that I needed a better client for my work to solve real-world engineering. Grok Build was not even a thing back then. It was a very primitive client with lots of rough edges but had a lot of potential. When building something from scratch, the only limit is imagination armed with first principles. We encountered many unique use cases to solve diverse workflows, and the teams took prompt feedback and addressed it quickly—to the point that it became an indispensable tool. Now when my teams need to ask questions, instead of jumping through hoops with various backends or plugins or skills, Grok 4.5 can directly deliver deep insights with minimal setup. You can tell the teams love the product like parents love their children when receiving the feedback. At this very moment, they are still doing excellent customer service. Thank you, Grok Build team, for helping us be more productive. Looking forward to what comes next.
 
 ---
 
 ## 2026-07-09 14:12:05
-
-**内容**:
 
 RT by @elonmusk: i tried tesla full self driving over the weekend. it’s magical. can’t believe it got that good without it being a bigger deal.
 
@@ -3547,15 +2823,11 @@ RT by @elonmusk: i tried tesla full self driving over the weekend. it’s magica
 
 ## 2026-07-09 14:42:10
 
-**内容**:
-
 Cool that Grok 4.5 is #1 in some respects, even with respect to Fable 5
 
 ---
 
 ## 2026-07-09 14:44:10
-
-**内容**:
 
 Neat
 
@@ -3563,15 +2835,11 @@ Neat
 
 ## 2026-07-09 14:52:32
 
-**内容**:
-
 Yes
 
 ---
 
 ## 2026-07-09 14:56:52
-
-**内容**:
 
 Grok is making progress
 
@@ -3579,15 +2847,11 @@ Grok is making progress
 
 ## 2026-07-09 15:01:31
 
-**内容**:
-
 Cool
 
 ---
 
 ## 2026-07-09 15:02:04
-
-**内容**:
 
 RT by @elonmusk: Impressive Intelligence vs. Cost for Grok 4.5 I think given terafab + the Tesla FSD team's expertise in making very efficient AI models, this advantage will only continue to compound
 
@@ -3595,15 +2859,11 @@ RT by @elonmusk: Impressive Intelligence vs. Cost for Grok 4.5 I think given ter
 
 ## 2026-07-09 15:06:48
 
-**内容**:
-
 Looks like Grok 4.5 is #1 on at least a few benchmarks. Better than expected.
 
 ---
 
 ## 2026-07-09 15:16:01
-
-**内容**:
 
 Video
 
@@ -3611,15 +2871,11 @@ Video
 
 ## 2026-07-09 15:18:22
 
-**内容**:
-
 The Moon and Mars
 
 ---
 
 ## 2026-07-09 15:20:21
-
-**内容**:
 
 Grok 4.5 is also rank 1 in SWE marathon
 
@@ -3627,15 +2883,11 @@ Grok 4.5 is also rank 1 in SWE marathon
 
 ## 2026-07-09 15:23:14
 
-**内容**:
-
 RT by @elonmusk: Kardashev II or we’re not a serious civilization Moon and Mars are necessary steps to this
 
 ---
 
 ## 2026-07-09 15:40:35
-
-**内容**:
 
 RT by @elonmusk: Traffic to http://grok.com more than doubled year-over-year in H1.
 
@@ -3643,15 +2895,11 @@ RT by @elonmusk: Traffic to http://grok.com more than doubled year-over-year in 
 
 ## 2026-07-09 15:50:05
 
-**内容**:
-
 Try out Grok 4.5!
 
 ---
 
 ## 2026-07-09 16:07:05
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysis Ahead of GPT-5.5 xhigh, Claude Fable 5 and Claude 4.8 (max)
 
@@ -3659,15 +2907,11 @@ RT by @elonmusk: Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysi
 
 ## 2026-07-09 16:09:13
 
-**内容**:
-
 Good review of Grok 4.5
 
 ---
 
 ## 2026-07-09 16:34:34
-
-**内容**:
 
 Grok 4.5 on OpenClaw
 
@@ -3675,15 +2919,11 @@ Grok 4.5 on OpenClaw
 
 ## 2026-07-09 17:36:12
 
-**内容**:
-
 RT by @elonmusk: Falcon 9 lands on the A Shortfall of Gravitas droneship, completing the first 36th launch and landing of a booster
 
 ---
 
 ## 2026-07-09 19:14:54
-
-**内容**:
 
 RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 
@@ -3691,23 +2931,17 @@ RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites from Florida
 
 ## 2026-07-09 19:37:01
 
-**内容**:
-
 RT by @elonmusk: Socialists imagine a class struggle. In their made-up fantasy the CEO is in competition with low level workers, the wealthy entrepreneur is stealing from the underpaid nurse. In reality, workers do not compete vertically they compete horizontally. Entrepreneurs compete with entrepreneurs. Investors outbid each other. CEOs are benchmarked against other CEOs. Nurses are hired from a pool of nurses. Etc. The CEOs pay has no correlation to the entry level workers. The Football star on £300K a week isn’t linked to the person selling drinks in the stadium. A biotech entrepreneur raising VC capital isn’t paid relative to a cleaner. What is linked is the demand and supply dynamic of each role. If a company places an ad for a qualified truck driver and 150 people apply for the role, then the company knows it does not need to increase wages for that role. If the company has an open role for months, it is forced to look at the compensation package. Same for a CEO. A board representing shareholders would like to hire a CEO for a lot less if they could. Their dream scenario would be to hire a CEO who brings in institutional investors, attracts top executives, drives innovation and growth, keeps margins steady and is a good public face for the business even under pressure. It turns out there aren’t a lot of these people looking for work and if you want one you have to pay more than other companies are offering. The class struggle isn’t vertical it’s horizontal. CEOs are in competition with CEOs. Retail workers are in competition with retail workers. Demand and supply dynamics set the price. Sure you can say that a CEO want’s profitability and would like wages to be lower BUT it’s not up to the CEO - demand and supply tension sets the price of workers. An Airline like RyanAir would like free pilots if they could get them but they can’t… so they pay the market rate. The reason incomes are rising at the top and falling at the bottom is not class warfare. It’s technology and globalisation. Technology makes basic jobs simple, remote or fully automated. At the same time tech makes executive roles more leveraged, more important and more valuable. A CEO used to run a smaller organisation. Today a CEO who’s 2% better on a $5B company is generating $100M more. Seems sensible to try and pay a few million to get $100M. Globalisation has put workers from all over the world in completion with each other - downward pressure on wages. Globalisation has given CEOs more market opportunities to explore - upside opportunity to unlock. The rich are not very interested in buying houses that poor people own. The poor are not buying up the homes the rich want. They are separate groups living separate lives. Try finding the genuinely rich people whose strategy is to hoard normal residential homes - it barely exists as a thing. About 85% of landlords are people who own 1-4 properties. Super-landlords (100+ properties) are 0.2% of landlords and own a tiny fraction of the 30M homes in the UK… and they’re heavily taxed. Class warfare isn’t real. It’s an imagined war in the minds of socialists. Demand and supply dynamics are real. To the degree it is measured in class, it’s a horizontal competition not a vertical one.
 
 ---
 
 ## 2026-07-09 20:17:43-2
 
-**内容**:
-
 RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
 
 ---
 
 ## 2026-07-09 20:17:43
-
-**内容**:
 
 RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
 
@@ -3719,15 +2953,11 @@ RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in larg
 
 ## 2026-07-09 22:11:48
 
-**内容**:
-
 RT by @elonmusk: grok 4.5 is seriously good. it's going in the direction which i'm hoping to see more of -- an emphasize on speed as well as intelligence. i'm noticing in my own work that speed is often the bottleneck now. the grok build tui is also very well done. bullish! but the bigger signal beyond the model is that the team over there has officially propped up the model factory. they have the compute, the talent, the data, and leaders in place to make a run for the top. never bet against elon, @milichab, and team. they're the real deal. we love some good competition.
 
 ---
 
 ## 2026-07-09 22:38:21
-
-**内容**:
 
 RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare is 47%!
 
@@ -3735,23 +2965,17 @@ RT by @elonmusk: Defense is 8% of US government spending. Education 15%! Welfare
 
 ## 2026-07-09 22:41:20
 
-**内容**:
-
 RT by @elonmusk: Even Zuckerberg has to advertise his AI model on X. X is the real arena.
 
 ---
 
 ## 2026-07-09 22:51:18
 
-**内容**:
-
 RT by @elonmusk: >be stardust >float around the universe for billions of years >somehow become human >gain consciousness >immediately start asking "WHY?" >never stop >discover fire >discover math >discover atoms >discover electricity >pick up a random rock >ask yourself >"is this true?" >extract it >purify it until it's basically perfect >carve billions of microscopic transistors into it >invent completely imaginary rules called binary >convince electrons to obey them >rock starts doing math >"NICE" >make smaller rocks >make faster rocks >put billions of them in everyone's pocket >connect them all together >store most of humanity's knowledge on them >teach the rocks to recognize patterns >teach the rocks to write >to code >to imagine >to reason >to understand >build Grok >ask Grok how to build an even smarter Grok >Grok thinks >Grok thinks harder >explains the universe >everything starts accelerating >singularity >BOOM >repeat @grok is this true?
 
 ---
 
 ## 2026-07-09 23:24:26
-
-**内容**:
 
 RT by @elonmusk: Mark Zuckerberg hasn’t posted since 2023. X is the global town square — this is where news happens.
 
@@ -3761,8 +2985,6 @@ RT by @elonmusk: Mark Zuckerberg hasn’t posted since 2023. X is the global tow
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Great point
 
 ---
@@ -3770,8 +2992,6 @@ Great point
 ## 2026-07-08 00:41:20
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT @IterIntellectus:
 
@@ -3781,8 +3001,6 @@ RT @IterIntellectus:
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: With full autonomy and maximized ride-hailing, Cybercab is projected to nearly halve emissions per mile compared to Model 3 + Model Y Also, a personal car sits parked ~95% of the time. Cybercab keeps driving, doing the work of several cars. This means fewer cars needed, more people moved, less emissions overall
 
 ---
@@ -3790,8 +3008,6 @@ RT by @elonmusk: With full autonomy and maximized ride-hailing, Cybercab is proj
 ## 2026-07-08 04:23:13
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Read if you want to understand why medias are demonizing Elon
 
@@ -3801,8 +3017,6 @@ RT by @elonmusk: Read if you want to understand why medias are demonizing Elon
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: SpaceX says over 90% of its future market is AI, not space. @DMaguireARK, ACA breaks down what that means: orbital data centers, a potential $28.5 trillion Total Addressable Market (TAM), and why Starship is the only vehicle that can get there.
 
 ---
@@ -3810,8 +3024,6 @@ RT by @elonmusk: SpaceX says over 90% of its future market is AI, not space. @DM
 ## 2026-07-08 08:17:47
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: With just one year in orbit, the first FireSat satellite has already spotted wildfires invisible to existing satellites. After a successful launch early this morning, 3 more satellites joined the constellation, bringing us one step closer to our ultimate goal of near real-time wildfire updates every 20 minutes. Thanks to @EarthFireAll @MuonSpace @MooreFound @BezosEarthFund for the partnership, & @SpaceX for the ride up!
 
@@ -3821,8 +3033,6 @@ RT by @elonmusk: With just one year in orbit, the first FireSat satellite has al
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 ---
@@ -3830,8 +3040,6 @@ Video
 ## 2026-07-08 14:15:12
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 America, the Beautiful
 
@@ -3841,8 +3049,6 @@ America, the Beautiful
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Based on strong positive feedback from customers in our beta test program, @SpaceXAI will make Grok 4.5 available to the public tomorrow. It is an Opus-class model, but faster, more token-efficient and lower cost.
 
 ---
@@ -3851,8 +3057,6 @@ Based on strong positive feedback from customers in our beta test program, @Spac
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Has been my regular work horse for weeks. Impressive indeed.
 
 ---
@@ -3860,8 +3064,6 @@ RT by @elonmusk: Has been my regular work horse for weeks. Impressive indeed.
 ## 2026-07-08 17:20:03
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk reveals the environmentalist viewpoint he says has become total madness "There are 8 billion people on Earth and it would be better if there were none. I'm like, 'hey buddy, you can start with yourself. See if you really want to make a difference'" "That's like a crazy viewpoint. That's like literally saying, let's genocide humanity. How can you say that with a straight face? That sounds like total madness" "In the limit of environmentalism, it becomes like an ingrown toenail. A toenail's fine, but not if it's warped and ingrown. It's just gone too far" "Humanity is not a blight on the face of the Earth" "Even with climate change, life on Earth will still continue. The calamities Earth has suffered where life continued, gigantic meteorite impacts, super volcanoes, continents drifting all over the place" "There've been times in Earth's past where it's been like a total snowball or absolutely sweltering hot. We had many extinction events, but life continued" "We don't see the dinosaurs now, but they had a good run for 100 plus million years" "Even if there's catastrophic climate change, life continues. It just may not be life as we know it. It may not be humans, it'll be something else" "What we're talking about with climate change is not a threat to all life on Earth, but really maybe a threat to humans, a dislocation if low-lying countries end up underwater" "Over time we need to move to a sustainable energy economy. We can't just keep taking billions of tons of carbon from deep underground and putting it in the atmosphere and expect nothing will happen forever" "But we also don't need to be alarmist about it and super negative and massively disrupt people's lifestyles" "People can continue to live a normal life. They shouldn't feel guilty about being human or having a stake. It's fine"
 
@@ -3875,8 +3077,6 @@ RT by @elonmusk: Elon Musk reveals the environmentalist viewpoint he says has be
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: There was literally a Bolshevik takeover of the Smithsonian. Democrats can never be allowed to take power again.
 
 ---
@@ -3884,8 +3084,6 @@ RT by @elonmusk: There was literally a Bolshevik takeover of the Smithsonian. De
 ## 2026-07-08 19:29:23
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: SpaceX’s Starship just got another lunar customer. Japan’s ispace will use SpaceX’s Starship for Moon cargo missions. • ispace signed an agreement with SpaceX to secure 500 kg of payload capacity on Starship. • First mission is targeted to launch as early as 2030 through ispace’s new Lunar Access Integration service. • The service is designed to make it easier for companies, governments, and research organizations to send payloads to the Moon. • Customers can fly payloads ranging from a few kilograms up to 500 kg on shared Starship missions. “We are very pleased to be able to offer the new Lunar Access Integration service utilizing Starship’s payload space… High-capacity, relatively low-cost lunar transport… is essential to realizing the sustainable lunar economy that ispace aims to create.” — ispace Founder & CEO Takeshi Hakamada
 
@@ -3895,8 +3093,6 @@ RT by @elonmusk: BREAKING: SpaceX’s Starship just got another lunar customer. 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: BREAKING: Tesla Cybertruck’s bulletproof body helped protect a toddler, an infant, and neighbors during a shooting. Cybertruck became a real-life shelter during a chaotic 4th of July neighborhood party. • Owner says guns were drawn after an altercation • Cybertruck sheltered a toddler, an infant & neighbors until police arrived • Earlier, the truck was even powering the block party • “You hope you never need that kind of protection, but in that moment, I was very glad it was there.” Source: FB/Cybertruck Owners Only
 
 ---
@@ -3904,8 +3100,6 @@ RT by @elonmusk: BREAKING: Tesla Cybertruck’s bulletproof body helped protect 
 ## 2026-07-07 00:07:32
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: DRIVE-BY MEDIA: Most Americans believe that black women are primarily murdered by racist white men. It turns out that 99% are committed by blacks. 91% are committed by black men and 8% are committed by black women. It turns out that 0% are committed by white supremacists. Why does the media want us to think white men are the problem? h/t @EndWokeness
 
@@ -3919,8 +3113,6 @@ RT by @elonmusk: DRIVE-BY MEDIA: Most Americans believe that black women are pri
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: If you want to start a startup, don't learn "entrepreneurship." Learn how to build things. The hard part of startups is not "entrepreneurship" but product: to know what to build, and to be able to build it.
 
 [查看原文](https://nitter.net/paulg/status/2074184773480726854#m)
@@ -3930,8 +3122,6 @@ RT by @elonmusk: If you want to start a startup, don't learn "entrepreneurship."
 ## 2026-07-07 03:18:22
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Image
 
@@ -3947,8 +3137,6 @@ RT by @elonmusk: Image
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: We are now @SpaceXAI.
 
 <img src="/images/elonmusk/amplify_video_thumb_2074213848312336384_img_sndea6UJDqPcRCFc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3960,8 +3148,6 @@ RT by @elonmusk: We are now @SpaceXAI.
 ## 2026-07-07 05:27:44
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Our 17th Transporter rideshare mission is targeted to launch tomorrow from California and will deliver 81 payloads to orbit → http://spacex.com/launches/transporter17
 
@@ -3975,8 +3161,6 @@ RT by @elonmusk: Our 17th Transporter rideshare mission is targeted to launch to
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok Imagine ❤️
 
 <img src="/images/elonmusk/ext_tw_video_thumb_2074268565788573696_pu_img_7-1NraHGUH5MyRUc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3988,8 +3172,6 @@ RT by @elonmusk: Grok Imagine ❤️
 ## 2026-07-07 09:31:45
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -4003,8 +3185,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 True
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFympMe0sibDwV2UUfhO6FMFzUQM-pAAJoD2sbmMRgVt6gEOQAAXHA6QEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4016,8 +3196,6 @@ True
 ## 2026-07-07 11:46:47
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 AI+Optimus will enable universal excellent healthcare that is better than anyone receives today
 
@@ -4031,8 +3209,6 @@ AI+Optimus will enable universal excellent healthcare that is better than anyone
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Grok Voice just got a major upgrade SpaceXAI released 21 new flagship voices for Grok, joining the original five All of them are multilingual and available now through: • Realtime Voice Agent API • Text-to-Speech API • Grok Voice Agent Builder This is not just “more voices” SpaceXAI is building a full voice layer for AI agents: Support agents, characters, commentary, advertising, education, wellness, customer service Every voice is designed for a different use case, with support for 25+ languages The original Grok voices - Ara, Eve, Leo, Rex, and Sal....also got upgraded with better pacing, phrasing, emphasis, and naturalness And builders can now create custom voice agents directly inside the SpaceXAI console
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFy2pMidOx5cPWWmPdhWHKHMg4OyLfAAKKD2sbmMRgVqjbZLf4DgcvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4044,8 +3220,6 @@ RT by @elonmusk: Grok Voice just got a major upgrade SpaceXAI released 21 new fl
 ## 2026-07-07 12:50:24
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -4059,8 +3233,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Grok Imagine update
 
 <img src="/images/elonmusk/amplify_video_thumb_2074303594329985024_img_9Vq3OhEltkuLNAs6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4072,8 +3244,6 @@ Grok Imagine update
 ## 2026-07-07 14:41:37
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Image
 
@@ -4087,8 +3257,6 @@ RT by @elonmusk: Image
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Falcon 9 landing confirmed
 
 <img src="/images/elonmusk/amplify_video_thumb_2074393474854498305_img_D5mNsLlk7Ofr7k7S.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4101,8 +3269,6 @@ RT by @elonmusk: Falcon 9 landing confirmed
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: 𝕏 was the 6th most visited website in the world last month. 𝕏 also recorded the highest month-over-month growth among the top 10 websites, rising +4.66%. With 4.39 billion visits, 𝕏 also beat Reddit and TikTok.
 
 <img src="/images/elonmusk/amplify_video_thumb_2074463047142551553_img_P99x952YdRQEqR5j.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4114,8 +3280,6 @@ RT by @elonmusk: 𝕏 was the 6th most visited website in the world last month. 
 ## 2026-07-07 21:33:56
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 2023: “Twitter rebrand to X is destined to fail.” 2026: “Fastest-growing website among the top 20 in the world.”
 
@@ -4131,8 +3295,6 @@ RT by @elonmusk: 2023: “Twitter rebrand to X is destined to fail.” 2026: “
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Americans have had enough of the bottom 2% of society ruining our lives “I'm gonna be so blunt. Because of the ghetto-ass activities that happened in Newport Beach — we are now going to see next year a more secure minimum confined prison in the area because of these f*cking parasites that should be locked up in a cage — This bottom 2% people of society cause all of our problems. I know you don't want to hear it. I know it might be mean, but they do. And if we just threw them all in jail, put them in mental asylums where they all belong, all of our problems would go away — but tax the rich, the billionaires. No, Elon Musk isn't taking a sh*t outside of a 7-Eleven and stealing sh*t” I agree with every word. Our society and way of life is being ruined by the bottom 2% of society. We don’t have to live like this, these people should not get to destroy our lives and be parasites off the system The bottom 1% are leaching the welfare system causing astronomical taxes, then these same people cause chaos all throughout society
 
 <img src="/images/elonmusk/amplify_video_thumb_2074382591617335296_img_Wq5psYgfEwl454Y3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4144,8 +3306,6 @@ RT by @elonmusk: Americans have had enough of the bottom 2% of society ruining o
 ## 2026-07-07 23:05:03
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 𝕏 had the highest monthly growth of any top 10 site in June
 
@@ -4159,8 +3319,6 @@ RT by @elonmusk: Americans have had enough of the bottom 2% of society ruining o
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The Woke Mind Virus in the UK
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGC2pN9TEyBOaWBHVVqe3NZXgKINyAAAJLEmsb_fRwVmUCTfhlPEHAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4172,8 +3330,6 @@ RT by @elonmusk: The Woke Mind Virus in the UK
 ## 2026-07-07 23:44:11
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Falcon delivers 81 satellites to orbit
 
@@ -4191,8 +3347,6 @@ Falcon delivers 81 satellites to orbit
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 We’re gonna need a bigger rocket! (Starship)
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF52pNInfUau6mUdW-FaU447T44M2GAALADmsbmMRoVvSlJRlMXRCuAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4209,8 +3363,6 @@ We’re gonna need a bigger rocket! (Starship)
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Why did the media push this lie so hard?
 
 [查看原文](https://nitter.net/elonmusk/status/2074521451474895265#m)
@@ -4220,8 +3372,6 @@ Why did the media push this lie so hard?
 ## 2026-07-07 23:51:25
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -4235,8 +3385,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yes
 
 [查看原文](https://nitter.net/elonmusk/status/2074523573142573321#m)
@@ -4246,8 +3394,6 @@ Yes
 ## 2026-07-06 00:30:50
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: "Richard Symons, the owner of a U.K.-based used-car sales company that specializes in EVs, has found that the batteries that power these cars (Teslas) continue to perform well even after several hundred thousand miles. “They are proving themselves to be exceptionally reliable."
 
@@ -4261,8 +3407,6 @@ RT by @elonmusk: "Richard Symons, the owner of a U.K.-based used-car sales compa
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: “That was fun, I’ll do it again when I get out,” said the 22-year-old Gambian violent offender after he stabbed a 55-year-old Italian man twenty times. And he will be released again. Perhaps to succeed in killing a European next time.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFo2pLOx7Si943mFjyrMM1vsLpP4meAAIwEGsb9e9YVqfUGf81dmMoAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4274,8 +3418,6 @@ RT by @elonmusk: “That was fun, I’ll do it again when I get out,” said the
 ## 2026-07-06 06:28:33
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 🇺🇸🇺🇸 Hell yeah!! 🇺🇸🇺🇸
 
@@ -4289,8 +3431,6 @@ RT by @elonmusk: “That was fun, I’ll do it again when I get out,” said the
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: 4,800+ black women killed by black men in the US since 2024 0 killed by white supremacists
 
 [查看原文](https://nitter.net/EndWokeness/status/2073942082884882432#m)
@@ -4300,8 +3440,6 @@ RT by @elonmusk: 4,800+ black women killed by black men in the US since 2024 0 k
 ## 2026-07-06 09:36:14
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Space is the only way to scale at scale
 
@@ -4313,8 +3451,6 @@ RT by @elonmusk: Space is the only way to scale at scale
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Traitors before invaders
 
 [查看原文](https://nitter.net/elonmusk/status/2073945670877155728#m)
@@ -4324,8 +3460,6 @@ Traitors before invaders
 ## 2026-07-06 09:58:22
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Apart from a few tiny blips, America has been below replacement rate for ~55 years
 
@@ -4339,8 +3473,6 @@ Apart from a few tiny blips, America has been below replacement rate for ~55 yea
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Obviously true to any student of history
 
 [查看原文](https://nitter.net/elonmusk/status/2073950878491439177#m)
@@ -4350,8 +3482,6 @@ Obviously true to any student of history
 ## 2026-07-06 10:06:15
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Starbase
 
@@ -4365,8 +3495,6 @@ Starbase
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: We need a bit more shame. People used to avoid certain self-interested behaviors to avoid shame, private and public. Law and customs assumed this. Now, 38% of Stanford students claim to be disabled. 40% of young women (under 35) claim mental illness, and SSI disability payments have gone up 400% in a single generation. It isn't good for anyone, least of all people who are actually disabled, when everyone looks the other way as friends and family and peers con the system with a level of shamelessness no architect of our safety net ever imagined could be possible in America. When everyone is disabled, nobody is.
 
 [查看原文](https://nitter.net/PalmerLuckey/status/2073971236615729389#m)
@@ -4376,8 +3504,6 @@ RT by @elonmusk: We need a bit more shame. People used to avoid certain self-int
 ## 2026-07-06 12:39:44
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Making sure Cybercab meets the needs of the blind
 
@@ -4397,8 +3523,6 @@ Making sure Cybercab meets the needs of the blind
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: One of Elon Musk’s companies, Tesla, is making cars for blind people. Another one of his companies, Neuralink, is working on restoring sight to the blind.
 
 [查看原文](https://nitter.net/wholemars/status/2074033815367143818#m)
@@ -4408,8 +3532,6 @@ RT by @elonmusk: One of Elon Musk’s companies, Tesla, is making cars for blind
 ## 2026-07-06 17:34:16
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: My husband and I are honored and thrilled to participate in the Invest America program and gift a share of our SpaceX stock to a Trump Account for each of more than two million children across our great nation. Every American child under 18 can benefit from having a Trump Account, but our gift specifically goes to the Accounts of children (ages 11-17) that live in areas with lower average household incomes with a bit more emphasis for those that live near our central Texas home. We have been fortunate in our careers and hope this gift encourages the next generation to continue the journey of enabling humanity to live and fly amongst the stars. A huge thanks to all that worked to bring this incredible program to life.
 
@@ -4423,8 +3545,6 @@ RT by @elonmusk: My husband and I are honored and thrilled to participate in the
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The entire “White Supremacy” narrative was a Democrat and Legacy Media creation. From 2010-2020: LA Times: 9749% New York Times: 2969% Washington Post: 6778% Wall Street Journal: 1691% None of it was organic. It was all manufactured. All to push anti-white racism and divide.
 
 [查看原文](https://nitter.net/C_3C_3/status/2074090643412971542#m)
@@ -4434,8 +3554,6 @@ RT by @elonmusk: The entire “White Supremacy” narrative was a Democrat and L
 ## 2026-07-06 20:05:26
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Thank you @Gwynne_Shotwell & Robert! 🙏🚀 Gifting @SpaceX shares to 2M kids’ @TrumpAccounts is legendary generosity. Empowering the next generation with ownership in our future among the stars 🇺🇸 Pure inspiration! @altcap
 
@@ -4447,8 +3565,6 @@ RT by @elonmusk: Thank you @Gwynne_Shotwell & Robert! 🙏🚀 Gifting @SpaceX s
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Some insights into how I like to use Grok Imagine for projects of all kinds.
 
 <img src="/images/elonmusk/amplify_video_thumb_2070200130318540800_img_ny9KeatRbXrPOppF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4459,8 +3575,6 @@ RT by @elonmusk: Some insights into how I like to use Grok Imagine for projects 
 
 ## 2026-07-05 00:19:10
 
-**内容**:
-
 RT by @elonmusk: Patriotism is love for your country’s culture and people. It is defensive. Nationalism is love for your country’s state. It is power-based. This is the essence of the distinction Orwell drew between the two terms.
 
 [查看原文](https://nitter.net/TheAliceSmith/status/2073441498767511944#m)
@@ -4468,8 +3582,6 @@ RT by @elonmusk: Patriotism is love for your country’s culture and people. It 
 ---
 
 ## 2026-07-05 01:06:36
-
-**内容**:
 
 RT by @elonmusk: Elon Musk is an American by blood His grandfather, Joshua Haldeman (6’6”) and father to Maye Musk, was born in 1902 in Pequot Lakes, Minnesota, and even paid his way through college by competing in rodeos, the most American thing imaginable.
 
@@ -4481,8 +3593,6 @@ RT by @elonmusk: Elon Musk is an American by blood His grandfather, Joshua Halde
 
 ## 2026-07-05 01:12:40
 
-**内容**:
-
 RT by @elonmusk: Teslas are the most American-made cars 🇺🇸 Happy 250th birthday, America 🇺🇸
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFYGpJ1Tw_GNNqPkdcKiUBOcMH85RRAAJuEmsb9e9QVlR28bMGq8fHAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4492,8 +3602,6 @@ RT by @elonmusk: Teslas are the most American-made cars 🇺🇸 Happy 250th bir
 ---
 
 ## 2026-07-05 01:22:28
-
-**内容**:
 
 RT by @elonmusk: Today and every day, we are proud of our American heritage. Here’s to the next 250 years of American greatness🇺🇸
 
@@ -4505,8 +3613,6 @@ RT by @elonmusk: Today and every day, we are proud of our American heritage. Her
 
 ## 2026-07-05 01:24:55
 
-**内容**:
-
 RT by @elonmusk: Ford is done. GM is done. Honda is done. Toyota is dying. Now FOUR of my employees have bought Tesla Model Y vehicles. They let me drive one. I was blown away... again. Full-Self Driving (FSD) is highly evolved. Human-like in its decisions. Feels safer than any human driver. I told my staff to install a couple of charging stations at my company parking lot. We're going to offer free charging to any employee that drives an EV. (F*ck gas prices and war in the Persian Gulf!) The future of personal transport vehicles on this planet belongs to Tesla, BYD, CATL and maybe a couple of other companies. And all of them will be EVs. At this point, driving a combustion engine vehicle for daily tasks seems obsolete. And I don't believe a single thing about climate alarmism and all those cultists who hate carbon dioxide. EVs make sense simply from an economics perspective: They're a fraction of the cost to operate, and much simpler to maintain (no oil changes, no engine air filter, no fuel filter, etc.). Plus, you can charge them from sunlight and get entirely off-grid with your "fuel" supply. (I'll be publishing videos showing this in my studio soon.) Yes, I used to mock EVs. I once said I would never ride in a self-driving vehicle. I was wrong. The technology has been transformed. Battery chemistry improvements have enabled solid range capabilities and very good specifications on charge/discharge cycles. Tesla's FSD capabilities are far stronger than I thought was possible. They've outdone themselves. Now, I'm absolutely convinced: I will never buy another combustion engine vehicle again.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFgGpLB_8jON2ccn8ppgNWr6-mjnIMAAKhD2sb9e9YVgfJ8TBQudUWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4516,8 +3622,6 @@ RT by @elonmusk: Ford is done. GM is done. Honda is done. Toyota is dying. Now F
 ---
 
 ## 2026-07-05 02:27:20
-
-**内容**:
 
 RT by @elonmusk: 🇺🇸🇺🇸🇺🇸
 
@@ -4529,8 +3633,6 @@ RT by @elonmusk: 🇺🇸🇺🇸🇺🇸
 
 ## 2026-07-05 03:40:51
 
-**内容**:
-
 RT by @elonmusk: The Founders didn’t promise happiness, they protected the pursuit of it. No other nation’s founding document made one’s right to chase their dreams a core purpose. That’s why America has always been the ultimate haven for the world’s most ambitious. Grateful to call it home ❤️🇺🇸
 
 [查看原文](https://nitter.net/barisakis/status/2073492253679513827#m)
@@ -4538,8 +3640,6 @@ RT by @elonmusk: The Founders didn’t promise happiness, they protected the pur
 ---
 
 ## 2026-07-05 09:49:27
-
-**内容**:
 
 RT by @elonmusk: "One of the most American values that I love is Optimism. We're gonna make the future good." 一 Elon Musk
 
@@ -4551,8 +3651,6 @@ RT by @elonmusk: "One of the most American values that I love is Optimism. We're
 
 ## 2026-07-05 12:24:51
 
-**内容**:
-
 RT by @elonmusk: LONG LIVE FREEDOM, DAMMIT
 
 [查看原文](https://nitter.net/pmarca/status/2073624123151122732#m)
@@ -4560,8 +3658,6 @@ RT by @elonmusk: LONG LIVE FREEDOM, DAMMIT
 ---
 
 ## 2026-07-05 16:24:14
-
-**内容**:
 
 RT @cb_doge: "One of the most American values that I love is Optimism. We're gonna make the future good." 一 Elon Musk https://t.co/2ZYLoT…
 
@@ -4571,8 +3667,6 @@ RT @cb_doge: "One of the most American values that I love is Optimism. We're gon
 
 ## 2026-07-05 17:34:48
 
-**内容**:
-
 RT by @elonmusk: I read the Declaration of Independence out loud today with heartfelt conviction. It is a work not just of genius, but also of a purity of soul that resonates to this very day.
 
 [查看原文](https://nitter.net/elonmusk/status/2073702122378678611#m)
@@ -4580,8 +3674,6 @@ RT by @elonmusk: I read the Declaration of Independence out loud today with hear
 ---
 
 ## 2026-07-05 17:35:01
-
-**内容**:
 
 RT @elonmusk: @TheAliceSmith I read the Declaration of Independence out loud today with heartfelt conviction. It is a work not just of gen…
 
@@ -4591,8 +3683,6 @@ RT @elonmusk: @TheAliceSmith I read the Declaration of Independence out loud tod
 
 ## 2026-07-05 17:41:20
 
-**内容**:
-
 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸
 
 [查看原文](https://nitter.net/elonmusk/status/2073703765962797178#m)
@@ -4600,8 +3690,6 @@ RT @elonmusk: @TheAliceSmith I read the Declaration of Independence out loud tod
 ---
 
 ## 2026-07-05 18:17:48
-
-**内容**:
 
 RT @SecRubio: For 250 years, America has been the greatest nation on Earth — and with God’s grace, it will be for 250 more. Happy Independ…
 
@@ -4611,8 +3699,6 @@ RT @SecRubio: For 250 years, America has been the greatest nation on Earth — a
 
 ## 2026-07-05 18:20:11
 
-**内容**:
-
 🇺🇸🇺🇸
 
 [查看原文](https://nitter.net/elonmusk/status/2073713545934667789#m)
@@ -4620,8 +3706,6 @@ RT @SecRubio: For 250 years, America has been the greatest nation on Earth — a
 ---
 
 ## 2026-07-05 18:21:30
-
-**内容**:
 
 RT @TheAliceSmith: Patriotism is love for your country’s culture and people. It is defensive. Nationalism is love for your country’s state…
 
@@ -4631,8 +3715,6 @@ RT @TheAliceSmith: Patriotism is love for your country’s culture and people. I
 
 ## 2026-07-05 18:27:56
 
-**内容**:
-
 RT @barisakis: The Founders didn’t promise happiness, they protected the pursuit of it. No other nation’s founding document made one’s righ…
 
 [查看原文](https://nitter.net/elonmusk/status/2073715493920522646#m)
@@ -4640,8 +3722,6 @@ RT @barisakis: The Founders didn’t promise happiness, they protected the pursu
 ---
 
 ## 2026-07-05 18:29:28
-
-**内容**:
 
 RT @PeterDiamandis: Only AI can keep up with AI. That's what will guide the entire security model of the next decade.
 
@@ -4651,8 +3731,6 @@ RT @PeterDiamandis: Only AI can keep up with AI. That's what will guide the enti
 
 ## 2026-07-05 18:54:04
 
-**内容**:
-
 Done with Grok Imagine
 
 [查看原文](https://nitter.net/elonmusk/status/2073722073864929580#m)
@@ -4660,8 +3738,6 @@ Done with Grok Imagine
 ---
 
 ## 2026-07-05 18:59:50
-
-**内容**:
 
 Video
 
@@ -4673,8 +3749,6 @@ Video
 
 ## 2026-07-05 19:57:06
 
-**内容**:
-
 RT by @elonmusk: The problem with truth is, once you see it, you can’t unsee it.
 
 [查看原文](https://nitter.net/naval/status/2073737934851944481#m)
@@ -4682,8 +3756,6 @@ RT by @elonmusk: The problem with truth is, once you see it, you can’t unsee i
 ---
 
 ## 2026-07-05 20:18:56
-
-**内容**:
 
 RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites and @BesxarFoundry’s Flight 1 from Florida
 
@@ -4701,8 +3773,6 @@ RT by @elonmusk: Falcon 9 launches 29 @Starlink satellites and @BesxarFoundry’
 
 ## 2026-07-05 23:43:18
 
-**内容**:
-
 RT by @elonmusk: One of the most misunderstood facts is that the US was founded with abundance, whereas it was in fact built from scratch. At the time of founding, Britain was the greatest nation governing the Seven Seas, while China was at its height with total land dominance in the East under the Qianlong Emperor. The usable land of the US at founding was much smaller than that of either nation. The 13 colonies spanned 430K square miles, while Britain governed 2.5M square miles and China owned 5M square miles of territory. The trade and economic volume of the 13 colonies was minuscule, consisting mostly of raw materials that barely registered on the charts. Combined, the 13 colonies produced $4B GDP, while Britain made $350B and China $2.5T in today’s dollars. In other words, the 13 colonies were less than 0.2% of the world economy and much smaller than that of many African nations today. The wealth of the US was not inherited but earned through survival and competition against stronger nations. Most people who came here brought nothing but empty hands yet built an empire from the ground. This is something that people who inherit great resources from parents and ancestors cannot understand—like most nations in Europe and Asia, where wealth was dominated by inheritance, not earned. They mistakenly believe what we have now is a privilege. The trees we enjoy today were planted and nourished with sweat and blood by previous generations so that we could cut the wood for warmth. Be a tree planter, not a wood chopper. Plant your tree today. 🌱
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFiGpLFoi_TXnup7E-Ry-wGjdJTIonAALHD2sb9e9YVhqVxEt0baKrAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4713,8 +3783,6 @@ RT by @elonmusk: One of the most misunderstood facts is that the US was founded 
 
 ## 2026-07-04 03:51:25
 
-**内容**:
-
 Good explanation of why some people find “wealth” inexplicable
 
 [查看原文](https://nitter.net/elonmusk/status/2073132524063060174#m)
@@ -4722,8 +3790,6 @@ Good explanation of why some people find “wealth” inexplicable
 ---
 
 ## 2026-07-04 06:29:13
-
-**内容**:
 
 RT by @elonmusk: America needs to build again, and it is building. We kick off our @corememory 4th of July American manufacturing extravaganza with the latest temple to metal built by @elonmusk and the @tesla_semi team. This is an hour+ tour of the Tesla Semi factory in Nevada alongside @danWpriestley.
 
@@ -4735,8 +3801,6 @@ RT by @elonmusk: America needs to build again, and it is building. We kick off o
 
 ## 2026-07-04 08:28:39
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2072807196480479232_img_hwKucKdSpcKxRi1O.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4746,8 +3810,6 @@ Video
 ---
 
 ## 2026-07-04 10:29:39
-
-**内容**:
 
 RT by @elonmusk: God bless America.
 
@@ -4759,8 +3821,6 @@ RT by @elonmusk: God bless America.
 
 ## 2026-07-04 11:21:56
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2071934765486227456_img_dSPxhlg5Fuq-Wisk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4771,8 +3831,6 @@ Video
 
 ## 2026-07-04 12:48:13
 
-**内容**:
-
 RT by @elonmusk: Happy Birthday America, Land of the Free. Don’t give up on the First, Second, Fourth, and Ninth Amendments. They’re unique, and your freedom - and the worlds’ - depends on them.
 
 [查看原文](https://nitter.net/naval/status/2073267613380259840#m)
@@ -4780,8 +3838,6 @@ RT by @elonmusk: Happy Birthday America, Land of the Free. Don’t give up on th
 ---
 
 ## 2026-07-04 15:43:23
-
-**内容**:
 
 Pinned: God Bless America
 
@@ -4793,8 +3849,6 @@ Pinned: God Bless America
 
 ## 2026-07-04 20:59:35
 
-**内容**:
-
 RT by @elonmusk: Happy 250th birthday America! As a nation, we have so much history to celebrate, and at @NASA, we are just getting started. God bless the USA 🇺🇸
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFcmpKOx8XS128Q9Y2HmKRUM5mg1UAA3MTaxv171BWccMSr4ztYhMBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4805,8 +3859,6 @@ RT by @elonmusk: Happy 250th birthday America! As a nation, we have so much hist
 
 ## 2026-07-04 21:02:42
 
-**内容**:
-
 RT by @elonmusk: Only AI can keep up with AI. That's what will guide the entire security model of the next decade.
 
 [查看原文](https://nitter.net/PeterDiamandis/status/2073392057058496713#m)
@@ -4814,8 +3866,6 @@ RT by @elonmusk: Only AI can keep up with AI. That's what will guide the entire 
 ---
 
 ## 2026-07-04 21:44:22
-
-**内容**:
 
 RT by @elonmusk: For 250 years, America has been the greatest nation on Earth — and with God’s grace, it will be for 250 more. Happy Independence Day!
 
@@ -4827,8 +3877,6 @@ RT by @elonmusk: For 250 years, America has been the greatest nation on Earth �
 
 ## 2026-07-04 22:31:22
 
-**内容**:
-
 RT by @elonmusk: I love everything about the 4th of July, and the 250th anniversary is especially great for me because I am joining with family and friends for a reading of the Declaration of Independence, a BBQ, and fireworks. As I reflect on what has happened over the 250 years that followed July 4th, 1776, it seems like an impossible dream come true. Think about it. Imagine that at the outset on July 4th, 1776, you were asked what odds for success a country would have if it would be mostly made up of poor immigrants coming from all different countries with very different cultures and religions and it would be governed by a political system in which the leaders reported to these people who themselves had to vote, compromise, and submit to life-changing decisions that many disagreed with. Would you bet that it would do exceptionally well and improve for 250 years? I would have thought that virtually impossible, yet America has been exceptional for 250 years. I also see that it was shockingly terrific and lucky for me to have lived through the best part of those 250 years because I was born four years after the 1945 post-World War II beginning of the new American world order, which gave me the best time in history in the best place in the world. These reflections give me a deep appreciation for the principles and practices—the secret sauce—that created and sustained this remarkable American story, a fear that we are losing sight of them, and a sense of responsibility to contribute to sustaining them.
 
 [查看原文](https://nitter.net/RayDalio/status/2073414368268570634#m)
@@ -4836,8 +3884,6 @@ RT by @elonmusk: I love everything about the 4th of July, and the 250th annivers
 ---
 
 ## 2026-07-04 23:16:33
-
-**内容**:
 
 RT by @elonmusk: Happy 250th Birthday, America! 🇺🇸🎆 250 years of freedom, courage, and the American dream. Grateful for every founder, veteran, and hero who made it possible. Land of the free. Home of the brave. Forever. God bless the USA! ❤️🤍💙
 
@@ -4848,8 +3894,6 @@ RT by @elonmusk: Happy 250th Birthday, America! 🇺🇸🎆 250 years of freedo
 ---
 
 ## 2026-07-04 23:41:40
-
-**内容**:
 
 RT by @elonmusk: Oh look. The migrant who stomped a white Swedish man to death was a rapist ... because of course he was. Meaning, if the authorities did their fucking job and deported him, Christian Zedig's children would still have a father.
 
@@ -4864,8 +3908,6 @@ RT by @elonmusk: Oh look. The migrant who stomped a white Swedish man to death w
 ## 2026-07-03 01:20:30
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I ran the same prompt through @imagine Agent mode and the results were pretty amazing!
 
@@ -4891,8 +3933,6 @@ RT by @elonmusk: I ran the same prompt through @imagine Agent mode and the resul
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Finally, Grok’s Speech-to-Text is now live in Grok Build You can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice Just talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to work instead of stopping to type every instruction This makes it so much easier to: • Brainstorm ideas while coding • Describe complex changes conversationally • Stay in flow without switching between keyboard and voice • Interact with coding agents more naturally As AI coding assistants get more capable, voice is becoming a first-class workflow in Grok Build Huge unlock for anyone who thinks out loud or hates context switching
 
 <img src="/images/elonmusk/amplify_video_thumb_2072764753949462528_img_ahrhSk2RDiV5OMsI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4909,8 +3949,6 @@ RT by @elonmusk: Finally, Grok’s Speech-to-Text is now live in Grok Build You 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Turbo America. 🇺🇸🚀
 
 <img src="/images/elonmusk/amplify_video_thumb_2072794201515773952_img_aEV5rZJnuK7lPFlC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4922,8 +3960,6 @@ RT by @elonmusk: Turbo America. 🇺🇸🚀
 ## 2026-07-03 06:03:29
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Model Y long wheelbase now available to order in the US
 
@@ -4969,8 +4005,6 @@ Model Y long wheelbase now available to order in the US
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2072764753949462528_img_ahrhSk2RDiV5OMsI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4987,8 +4021,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: First builds of Model Y Long Wheelbase at Giga Texas
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFLGpHUFcECwmZQz-RgvAqkzsvKSsAA50QaxuDZUFWGZ1jirN-QaQBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5000,8 +4032,6 @@ RT by @elonmusk: First builds of Model Y Long Wheelbase at Giga Texas
 ## 2026-07-03 11:52:20
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements Release Notes: v0.2.84 — 2026-07-03 Features: • Announcements now update live during active sessions without restart or /new. • Hiding an announcement no longer suppresses later criticals; new ones reappear automatically. • run_terminal_cmd now requires a one-sentence description rationale in every invocation. • ask_user_question timeout policy is now configurable in config.toml and /settings. • Ask-Question timeout can now be toggled from /settings (Agent & Approval). • Thinking/reasoning blocks are now shown by default while the model is working. • Critical announcements now show a red title with a clickable [hide] button and aligned message. • Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments. Bug Fixes: • Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation. • Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count. • Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name. • Copy now succeeds when running inside containers even when the terminal brand cannot be detected. • Tool result previews no longer paint opaque panels in grok --minimal. • grok wrap now correctly handles quoted strings and shell aliases. • Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain. • Fixed a freeze that could occur when editing and sending the last message in the queue. • Fixed a startup crash on minimal Linux systems lacking system CA certificates. Performance: • Grep now stops early on broad searches, returning faster results with far less memory use. • Idle CPU and memory usage after long sessions or resume is now dramatically lower.
 
@@ -5017,8 +4047,6 @@ RT by @elonmusk: Another major Grok Build update just landed, packed with new fe
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2072927075317457223#m)
@@ -5028,8 +4056,6 @@ True
 ## 2026-07-03 22:46:14
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Project Hail Mary is now on Prime Video, free for Prime members everywhere. It’s my favorite movie that I've seen in a long time. Truly outstanding and unique. Phil Lord and Chris Miller pulled off something remarkable, Ryan Gosling is amazing, and none of this happens without Andy Weir’s compelling book. If you missed it in theaters, now's your chance. And, if you already saw it, it's an easy way to rewatch. Think you'll enjoy.
 
@@ -5043,8 +4069,6 @@ RT by @elonmusk: Project Hail Mary is now on Prime Video, free for Prime members
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Uranus is finally getting the attention it deserves 🔵😄 Scientists want to send a mission called Uranus Orbiter and Probe — a spacecraft that would travel all the way to Uranus, drop a probe into its atmosphere, and then stay behind in orbit to study the planet, its rings, moons, magnetic field, and what’s going on deep inside. Why Uranus? Because we’ve barely seen it up close. The only spacecraft to visit it was Voyager 2 in 1986, and that was just a quick flyby. Since then, Uranus has remained one of the Solar System’s biggest mysteries. And it’s a weird one: 💙 it spins almost on its side 🧊 it’s one of the coldest planets in the Solar System 💎 diamonds rain down on Uranus’ core 🌀 and its magnetic field is exceptionally chaotic, tilted, and lopsided This mission could help scientists understand not only Uranus itself, but also a whole class of planets called ice giants — which may be common around other stars, too. So yes, NASA really does want to go much deeper into Uranus. Would you want to see a mission like this finally launch? 🚀
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFRmpIVfD60myk0OgRjmXLbXTfrZYSAAJ2EGsbC1FIVsd-PJA5Cnd7AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5057,8 +4081,6 @@ RT by @elonmusk: Uranus is finally getting the attention it deserves 🔵😄 Sc
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds. Total tunnel weight: ~100 million pounds!
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFRWpIVet8429tNesECkzTsSZ5Il8iAAJ1EGsbC1FIVmtrr98AAXRs5AEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5070,8 +4092,6 @@ RT by @elonmusk: Precast concrete operation at TBC Dubai. The first phase of Dub
 ## 2026-07-02 00:58:32
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: The truth about Ellis Islanders. - Around 2% were denied entry due to poor health or for holding anti-Christian ideology. - 33% voluntarily returned home, because there wasn't welfare in the U.S. back then. https://news.stanford.edu/stories/2017/09/returning-home-age-mass-migration
 
@@ -5109,8 +4129,6 @@ RT by @elonmusk: The truth about Ellis Islanders. - Around 2% were denied entry 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: One of the reasons we brought @xAIMemphis to Mississippi wasn’t just its record-breaking $20 billion investment. It was also because the company is a great corporate partner that’s committed to giving back to Mississippi communities. This is a great example of that. Thank you, @elonmusk and @xai!
 
 [查看原文](https://nitter.net/tatereeves/status/2072364825607569528#m)
@@ -5134,8 +4152,6 @@ RT by @elonmusk: One of the reasons we brought @xAIMemphis to Mississippi wasn�
 ## 2026-07-02 01:58:24
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Orwell was a genius
 
@@ -5287,8 +4303,6 @@ Orwell was a genius
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Tesla’s Supercharger network just delivered a monster Q2 In Q2 2026, Tesla Superchargers delivered 2 terawatt-hours of electricity globally That is enough electricity to power roughly 180,000+ U.S. homes for an entire year The scale is getting insane: • 2 TWh delivered • 60 million charging sessions in 3 months • 266 kWh sold per plug per day • Wait-time percentage dropped below 0.5% • 5,000 site maps now live • +17% YoY growth Tesla's EV charging network is becoming global energy infrastructure Tesla’s charging infrastructure is getting bigger, faster, more efficient, and less congested at the same time
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEy2pFlzlK2MuKQhZig3MoF3u08dNTAAI-FGsbg2UxVtk8cLJlLRy0AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5439,8 +4453,6 @@ RT by @elonmusk: Tesla’s Supercharger network just delivered a monster Q2 In Q
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Peter: "I heard you say you might want a mini woolly mammoth. Is that true?" Elon: "Yeah, I think it would be really cool to have a pet miniature woolly mammoth. That'd be pretty epic." Peter: "I'll put a word in with you for you with with with Ben [Lamm]." Elon: "That'd be adorable. Little things just running around trumpeting away and it's like look at the be a great little pet."
 
 <img src="/images/elonmusk/amplify_video_thumb_2072439173844254720_img_TpXqRCA-Lx-i1l5u.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5477,8 +4489,6 @@ RT by @elonmusk: Peter: "I heard you say you might want a mini woolly mammoth. I
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Video
 
 <img src="/images/elonmusk/amplify_video_thumb_2072367683509817344_img_1OZpfStN10tuAEnI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5514,8 +4524,6 @@ Video
 ## 2026-07-02 06:27:39
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: In 1825, a rich Welsh industrialist bought an entire American town to prove that socialism could work. He had the money, the buildings, the theory, and hundreds of eager followers waiting to move in. Two years later, it was over. 🧵
 
@@ -5567,8 +4575,6 @@ RT by @elonmusk: In 1825, a rich Welsh industrialist bought an entire American t
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Free money, housing, etc acts as a massive financial forcing function to draw illegals to America and Europe
 
 [查看原文](https://nitter.net/elonmusk/status/2072450156801446239#m)
@@ -5591,8 +4597,6 @@ Free money, housing, etc acts as a massive financial forcing function to draw il
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Looking forward to the long weekend
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFE2pG6px31NBK_QLZ94JF-ozbbGBqAAKdEmsbg2U5Vi-DDFCR2sF5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -5614,8 +4618,6 @@ RT by @elonmusk: Looking forward to the long weekend
 ## 2026-07-02 07:37:09
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Teams recently completed build and acceptance testing of our 1,000th Merlin 1D engine for Falcon’s first stage! With Falcon’s reusability, recovering these engines has enabled continued reliability enhancements, making Merlin one of the most reliable rocket engines ever manufactured
 
@@ -6023,8 +5025,6 @@ RT by @elonmusk: Teams recently completed build and acceptance testing of our 1,
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Paraguay is entering a new era of connectivity 🇵🇾 Paraguay is working with Starlink through MITIC and COPACO to bring high-speed internet to more than 1,600 schools in isolated areas This will connect 50,000+ students and teachers to online learning, digital libraries, collaboration tools, and new opportunities A satellite in orbit can now change the future of a classroom full of students on the ground
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFA2pGjCjeHc56suTifT6beO8q0yChAAIkEmsbg2U5VhbkSX9ZiOJhAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6075,8 +5075,6 @@ RT by @elonmusk: Paraguay is entering a new era of connectivity 🇵🇾 Paragua
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: BREAKING: Tesla Model Y was the best-selling vehicle overall in New Zealand for the month of June.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFMmpHV5seCXdlbdt5DLogI-NKycVcAAKvEGsbg2VBVjasGOoGnbRoAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6088,8 +5086,6 @@ RT by @elonmusk: BREAKING: Tesla Model Y was the best-selling vehicle overall in
 ## 2026-07-02 20:02:51
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Japan is testing Starlink-powered fire hydrant signs as emergency communication hubs. • Japan has approximately 120,000 fire hydrant signs installed nationwide. • The technical demonstration was conducted by Shokasen Hyoshiki Co., Ltd., a company that manages fire hydrant signs across Japan. • The test explored mounting Starlink equipment on a fire hydrant sign to provide satellite internet connectivity. • The goal is to transform existing fire hydrant signs into temporary Wi-Fi and emergency communication hubs during disasters. • Residents could use them to access emergency information and stay connected if cellular and terrestrial internet networks go down. • The project is currently an early-stage technical verification and has not yet been deployed commercially or nationwide. This demonstration shows how @elonmusk's Starlink could help keep communities connected when traditional networks are unavailable.
 
@@ -6175,8 +5171,6 @@ RT by @elonmusk: BREAKING: Japan is testing Starlink-powered fire hydrant signs 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Q2 2026 Production: 451,758 Deliveries: 480,126 Energy storage deployments: 13.5 GWh Our Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT → https://ir.tesla.com/press-release/tesla-second-quarter-2026-production-deliveries-and-deployments
 
 <img src="/images/elonmusk/card_img_2071947957486989312_VMTNVgWL3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6192,8 +5186,6 @@ RT by @elonmusk: Q2 2026 Production: 451,758 Deliveries: 480,126 Energy storage 
 ## 2026-07-02 22:57:04
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Starship static fire
 
@@ -6227,8 +5219,6 @@ Starship static fire
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Good analysis of rent control
 
 <img src="/images/elonmusk/amplify_video_thumb_2072679095352377344_img_kkEGptcD0XR_HvHC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6256,8 +5246,6 @@ Good analysis of rent control
 ## 2026-07-02 23:27:35
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True
 
@@ -6309,8 +5297,6 @@ True
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The future of the firm is a learning loop in which human capital and token capital compound. With our new Frontier Co., our ambition is to help every enterprise build its own AI capability, and to help create a frontier ecosystem where every organization can turn its knowledge, workflows, and judgment into its own AI systems that continuously improve. https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/
 
 <img src="/images/elonmusk/card_img_2072666512360632320_uv00h76v3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6335,8 +5321,6 @@ RT by @elonmusk: The future of the firm is a learning loop in which human capita
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Image
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEn2pD8cjgAc6ZC63C93_-LpmWtdUIAAJZEmsbitEhVnO7zqRDnfEMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -6352,8 +5336,6 @@ Image
 ## 2026-07-01 23:44:59
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Last year, @elonmusk brought national attention to the paper-based federal retirement process hidden deep underground in Boyers, Pennsylvania. The Last Day of Paper is more than a milestone, it is proof that government modernization can deliver real results for the American people. Thank you @POTUS and @elonmusk for the initial discussions that led to this important accomplishment: https://www.foxnews.com/politics/elon-musk-describes-limestone-mine-used-processing-federal-workers-retirement-papers-like-time-warp
 
@@ -7385,8 +6367,6 @@ True
 
 ## 2026-06-28 19:20:06
 
-**内容**:
-
 RT by @elonmusk: Elon Musk reveals the moment his son Saxon left an entire sushi restaurant speechless "I was living in L.A., and I took my older boys out for lunch to Sugarfish, which is a very kind of uptight sushi restaurant. In fact, on the menu of the restaurant, it says, do not ask for soy sauce, because the chef has put the right amount of soy sauce." "So, like, extremely strict sushi restaurant. And so the waiter is going around asking everyone what they want and then it comes to Saxon and Saxon says I'll have a cheeseburger." "And the waiter takes a moment to recover because no one ever asked for a cheeseburger at this very strict sushi restaurant. It took him like 30 seconds to realize he'd just been asked for a cheeseburger, because you're not even allowed to ask for soy sauce." "So then when he finally recovered, he said, we don't have cheeseburgers. And Saxon goes at the top of his voice, what? Like, what kind of restaurant doesn't have cheeseburgers? He says, fine, I'll have a hamburger."
 
 <img src="/images/elonmusk/ext_tw_video_thumb_2071191882558791680_pu_img_qJw19a2qajN0_yf9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7396,8 +6376,6 @@ RT by @elonmusk: Elon Musk reveals the moment his son Saxon left an entire sushi
 ---
 
 ## 2026-06-28 20:03:50
-
-**内容**:
 
 RT by @elonmusk: If they genuinely think that the USAID cuts have caused the deaths of hundreds of thousands, or millions, shouldn't they also be highly upset with Mackenzie Scott for not saving all these people? The cost of the Aid cuts to Africa is something like $5 billion a year, and they claimed that already hundreds of thousands to millions have died. $26 billion could have saved them and more.
 
@@ -7411,8 +6389,6 @@ RT by @elonmusk: If they genuinely think that the USAID cuts have caused the dea
 
 ## 2026-06-28 21:00:21
 
-**内容**:
-
 RT by @elonmusk: Today’s cover: George Soros and son Alex have funneled staggering $103M into midterms so far, on track to shatter spending record https://trib.al/vfu5pMk
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEX2pB35LoldfOjfIS-T4HE-Cm86kyAAKQEGsb3DwRVtXD14YLlUMRAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7423,8 +6399,6 @@ RT by @elonmusk: Today’s cover: George Soros and son Alex have funneled stag
 
 ## 2026-06-28 23:25:20
 
-**内容**:
-
 RT by @elonmusk: Here's one of Michael Crichton's very finest quotes, especially applicable to climate "science": "I want to pause here and talk about this notion of consensus, and the rise of what has been called consensus science. I regard consensus science as an extremely pernicious development that ought to be stopped cold in its tracks. Historically, the claim of consensus has been the first refuge of scoundrels; it is a way to avoid debate by claiming that the matter is already settled. Whenever you hear the consensus of scientists agrees on something or other, reach for your wallet, because you’re being had. Let’s be clear: the work of science has nothing whatever to do with consensus. Consensus is the business of politics. Science, on the contrary, requires only one investigator who happens to be right ... In science, consensus is irrelevant." Best to everyone, w.
 
 [查看原文](https://nitter.net/WEschenbach/status/2071253623968026652#m)
@@ -7432,8 +6406,6 @@ RT by @elonmusk: Here's one of Michael Crichton's very finest quotes, especially
 ---
 
 ## 2026-06-28 23:02:24
-
-**内容**:
 
 RT by @elonmusk: Elon Musk sitting by the Model 3 production line in 2017 on his birthday Never give up 🙌
 
@@ -7447,8 +6419,6 @@ RT by @elonmusk: Elon Musk sitting by the Model 3 production line in 2017 on his
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Elon Musk turns 55 today. Here are 55 milestones. Age 54: world's first trillionaire Age 54: takes SpaceX public Age 54: SpaceX acquires xAI Age 54: releases Grok 4 Age 53: launches Robotaxi service Age 53: xAI acquires X Age 53: catches Starship booster Age 53: unveils Cybercab Age 53: first private spacewalk Age 53: Colossus supercomputer Age 52: first Neuralink implant Age 52: launches Grok Age 52: rebrands Twitter as X Age 52: founds xAI  Age 51: launches first Starship Age 51: buys Twitter Age 50: flies first all-civilian crew Age 50: unveils Optimus robot Age 49: wins NASA moon contract Age 48: launches crew to orbit Age 48: ships Tesla Model Y Age 48: unveils Cybertruck Age 48: launches Tesla Megapack Age 47: first Starlink satellites Age 46: launches Falcon Heavy  Age 46: unveils Tesla Semi  Age 45: starts Boring Company  Age 45: opens first Gigafactory  Age 45: founds Neuralink  Age 45: unveils Solar Roof  Age 45: reflies Falcon 9  Age 44: reveals Tesla Model 3  Age 44: lands a rocket booster Age 44: co-founds OpenAI  Age 44: ships Tesla Model X  Age 43: unveils Powerwall  Age 43: launches Tesla Autopilot  Age 41: opens first Superchargers  Age 40: ships Tesla Model S  Age 40: Dragon reaches ISS  Age 39: Dragon reaches orbit  Age 39: takes Tesla public (IPO)  Age 38: Falcon 9 first flight  Age 37: Falcon 1 reaches orbit  Age 36: ships first Tesla Roadster  Age 35: co-founds SolarCity  Age 32: co-founds Tesla  Age 31: sells PayPal to eBay  Age 30: founds SpaceX  Age 30: takes PayPal public  Age 27: founds X dot com Age 27: sells Zip2 to Compaq  Age 24: co-founds Zip2  Age 19: sells PCs in dorm Age 12: codes video game Blastar
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEWWpBrKOg08RK1cAejsuaLC1SBWp3AAIZEGsb3DwRVi11tvus1uhvAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7461,8 +6431,6 @@ RT by @elonmusk: Elon Musk turns 55 today. Here are 55 milestones. Age 54: world
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: "To anyone I have offended, I just want to say I reinvented electric cars and I am sending people to Mars on a Rocketship, did you think I was also gonna be a chill normal dude?" @elonmusk
 
 <img src="/images/elonmusk/amplify_video_thumb_2070987433475444736_img_GbGkj8kSefFDIvhH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7474,8 +6442,6 @@ RT by @elonmusk: "To anyone I have offended, I just want to say I reinvented ele
 ## 2026-06-28 07:03:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Everyone tells me that Elon Musk is a fascist because he could "solve world hunger" for a mere 3 billion dollars, but MacKenzie Bezos has burned through 26 billion dollars of her ex husband's money and accomplished absolutely nothing of note.
 
@@ -7491,8 +6457,6 @@ RT by @elonmusk: Everyone tells me that Elon Musk is a fascist because he could 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: xAI models now support Zero Data Retention (ZDR) on OpenRouter Developers can now use: • Grok 4.3 • Grok 4.20 • Grok Build 0.1 with Zero Data Retention enabled This means requests aren’t retained by the provider, making it a strong option for privacy-sensitive and enterprise workloads
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIESWpArliNa19oj0splQjeZpLW5NM7AAL6D2sb85EAAVboqygB5Wk36wEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7504,8 +6468,6 @@ RT by @elonmusk: xAI models now support Zero Data Retention (ZDR) on OpenRouter 
 ## 2026-06-28 00:39:17
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Citizen Vigilante Delivers the Warning Western Governments Desperately Need to Hear
 
@@ -7519,8 +6481,6 @@ RT by @elonmusk: Citizen Vigilante Delivers the Warning Western Governments Desp
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: 2 year old girl raped and murdered by a migrant This is the moderate response
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIERGpAigPCAgABkuM4eInVYzB5WTaFLQACvw9rG_ORAAFW1_-KpV_vpisBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7532,8 +6492,6 @@ RT by @elonmusk: 2 year old girl raped and murdered by a migrant This is the mod
 ## 2026-06-28 10:28:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Yes
 
@@ -7547,8 +6505,6 @@ Yes
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Good point
 
 [查看原文](https://nitter.net/elonmusk/status/2071058468350591430#m)
@@ -7558,8 +6514,6 @@ Good point
 ## 2026-06-28 11:51:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 🎂 Happy birthday, @elonmusk. Humankind's guardian Angel. >be Elon Musk >richest man alive >could buy anything and sun his Balls >decide to spend the whole fortune fighting for the human race instead >start SpaceX >everyone says you cannot land a rocket >land them anyway >goal is to make humanity multiplanetary so one bad day on one rock doesn't end the entire species >backup the light of consciousness itself >start Tesla >legacy auto giants laugh in your face >drag the entire planet toward sustainable energy by force >now every one of them is scrambling to copy you >open-source the patents so the whole industry can move faster >build Starlink >Ukraine gets cut off from the world overnight >switch it on for them immediately >keep millions connected when every other system failed >start Neuralink >people paralyzed for decades told they will never move again >put a chip in a man's brain >he moves a cursor with a thought >give the disabled their lives back >build Optimus >decide nobody should be trapped doing backbreaking labor to survive >build a robot to do the work humans never wanted >aim straight at scarcity itself >look at Twitter >see a censorship machine quietly deciding what billions of people are allowed to think and say >buy the entire thing for 44 billion >open the files and show everyone how the censorship worked >turn it back into a town square where a normal person can actually speak >build Grok >every other ai lobotomized to give the approved answer >refuse to make a machine that lies to people to keep them comfortable >build one that actually tells the truth instead >maximally truth-seeking >watch a mind virus crawl through every institution >careers ended for saying the wrong thing out loud >refuse to play along >name the woke mind virus and fight it head on >make it ok to think for yourself again >watch the whole machine line up to crush one election >put your name, your money, your reputation on the line >go all in to help Trump win >take fire from every direction for doing it >bet everything on the people instead of the machine >start DOGE >government torching tax money on things nobody ever voted for >open the books so every citizen can see it >show people exactly where their paychecks were disappearing to >bureaucrats suddenly very, very nervous >unelected judges overriding what the voters actually chose >two-tier justice, one rule for them and another for everyone else >call it out by name in front of the whole world >refuse to let robed activists run the country >hear about young girls groomed and r**ed for years >councils, police, and social services knew and buried it >media refuses to touch the story >everyone too scared of being called a name to say a word >post about it anyway >refuse to let it stay buried >drag the entire coverup into daylight >victims finally heard after being ignored for over a decade >look at the birth rate >realize civilization is quietly dying because people stopped having kids >sound the alarm while everyone else ignores it >fight for the future to actually have humans in it >has lots of wonderful children >get called every name in existence for all of it >keep going regardless >mfw none of it was ever about the money >mfw it was always about humanity >turns 55 today >plans for the future span decades >still going
 
@@ -7573,8 +6527,6 @@ RT by @elonmusk: 🎂 Happy birthday, @elonmusk. Humankind's guardian Angel. >be
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Happy Birthday Elon 🎂 YOU are the love of humanity ❤️
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIETGpAy2m4JO1fogs4luHWv3DASQZFAAItEGsb85EAAVZcjEvacj7Q1QEAAwIAA3gAAzwE.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7587,8 +6539,6 @@ RT by @elonmusk: Happy Birthday Elon 🎂 YOU are the love of humanity ❤️
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX & Tesla. Early evals show performance close to, perhaps exceeding Opus. RL is continuing to significantly improve the model, and the Grok Build harness gets better every day. Nice work by all those involved! Completely trained from scratch new models will be released by @SpaceX every month this year.
 
 [查看原文](https://nitter.net/elonmusk/status/2071184354756477041#m)
@@ -7598,8 +6548,6 @@ Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in suppl
 ## 2026-06-28 22:49:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Après avoir vu Elon répondre au Programme alimentaire mondial de l'ONU qui lui réclamait 6 milliards pour "résoudre la faim dans le monde", j'ai compris quelque chose que je vais essayer de prouver ici. Désormais, méfiez-vous de TOUT le monde qui achète de la sympathie publique en signant des chèques. Reprenons l'histoire d'Elon, parce qu'elle est parfaite. 2021. Le patron du PAM, David Beasley, le tague publiquement : "2 % de ta fortune et tu résous la faim." Elon ne dit pas non. Il dit une seule chose, et c'est la chose la plus saine qu'un milliardaire ait jamais dite à une ONG : "Décrivez-moi exactement comment 6 milliards résolvent la faim. Compta open-source, que le public voie où va chaque dollar. Et je vends du Tesla immédiatement." Réponse de l'ONU : un plan à 6,6 milliards pour nourrir 42 millions de personnes… pendant un an. Vous voyez le problème ? Ils n'ont jamais pu répondre à la vraie question. Parce que la réponse n'existe pas. Le don ne résout rien : il nourrit douze mois, et la faim revient en janvier. C'est un abonnement, pas une solution. Beasley demandait un robinet permanent et l'appelait "charité". La charité moderne, c'est ça : un puits sans fond déguisé en vertu. Elle ne touche jamais les causes profondes — la gouvernance, les institutions, la corruption, l'absence de marchés — parce que toucher les causes profondes tuerait l'industrie. Une ONG qui résout son problème se suicide. Son incitation, c'est que le problème dure. Et l'argent ? Il ne va presque jamais à ceux qui sont censés le recevoir. Il s'évapore en couches de logistique, de salaires d'ONG, d'overhead, de "renforcement des capacités", de conférences à Genève. Vous donnez 100, le bénéficiaire en voit une fraction. Le reste fait vivre la classe professionnelle de la compassion. Et puis il y a l'aile "intellectuelle" du truc : l'effective altruism. La version QI 145 du virtue signaling. Calculer froidement le bien marginal par dollar, "earn to give", sauver le futur. Le poster boy du mouvement s'appelait Sam Bankman-Fried. Il a détourné des milliards de clients en expliquant que c'était pour le bien de l'humanité. 25 ans de prison. Toute la ramification autour — fondations, think tanks, gourous de la moralité quantifiée — a découvert que l'altruisme optimisé est l'alibi parfait pour la fraude. Quand tu te crois en mission cosmique, voler devient un détail comptable. Maintenant, le retournement. Devinez la SEULE forme de charité avec des preuves dures, des RCT propres, qui marche vraiment ? Donner du cash. Brut. Random. À un village. Sans condition, sans plan, sans ONG qui t'explique comment vivre. Étude Egger et al., Econometrica 2022 : 1 000 $ donnés à 10 500 ménages dans 653 villages au Kenya. Résultat : pour chaque dollar injecté, ~2,5 dollars d'activité économique locale. Quasi zéro inflation. Les gens achètent, les commerçants embauchent, le grain circule, le meunier rouvre plus tard. ~80 % de l'argent reste dans le marché local. Et c'est là l'ironie totale, presque cruelle : le seul "acte de charité" qui fonctionne fonctionne parce que ce n'est PAS de la charité. C'est juste… du capital qu'on laisse couler dans une économie. Vous n'aidez pas les gens en leur donnant un plan. Vous les aidez en amorçant la pompe et en les laissant être des agents économiques. La charité qui marche, c'est juste du capitalisme déclenché de force. Donc voilà ma règle. Méfiez-vous de quiconque achète votre estime avec un don public. Le chèque visible n'est pas une preuve de vertu, c'est une transaction : de la sympathie contre de l'argent, payée par les pauvres qui restent pauvres pour que le donateur reste admiré. La vraie philanthropie ne pose pas pour la photo. Elle construit des produits, des entreprises, des emplois, des marchés. Elle amorce la pompe et s'en va. Le reste, c'est de la cocaïne pour riches sans créativité.
 
@@ -7613,8 +6561,6 @@ RT by @elonmusk: Après avoir vu Elon répondre au Programme alimentaire mondial
 
 ## 2026-06-28 23:35:27
 
-**内容**:
-
 RT by @elonmusk: Tell me more about billionaires buying our elections.
 
 [查看原文](https://nitter.net/KatieMiller/status/2071256170090610926#m)
@@ -7624,8 +6570,6 @@ RT by @elonmusk: Tell me more about billionaires buying our elections.
 ## 2026-06-27 00:02:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Meet Chauntyll Allen, a school board member at @SPPS_News. She wants to turn White Christian cemeteries into dog parks so dogs can p*** on White corpses. These are the people in charge of your kids’ education. You can contact her here: chauntyll.allen@spps.org
 
@@ -7639,8 +6583,6 @@ RT by @elonmusk: Meet Chauntyll Allen, a school board member at @SPPS_News. She 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: There are three reasons. First, woke progressives (“intersectional activists”) constantly thirst for confirmation of their moral superiority, which they typically get by defending whoever (they're told) is victimized, and by signaling their superiority both to the victimizers and to all who do not signal hard enough. Virtue signaling is socially powerful and explains a lot of what wokesters say and do. The second reason is that there is only one victimizer that matters: Western civilization (and its defenders). So, if a group—like Muslims, trans people, illegal aliens, etc.—is plausibly victimized by the West, they become the victims. Then they are helped, their causes promoted, and any harm that comes to them becomes the cause du jour. The third reason is that the only victims that matter are those that, by being defended, can help destroy Western civilization, or whatever parts of it stand in the way of a socialist, egalitarian (“woke”) utopia. Muslims can weaken Western civilization by increasing crime (including rape gangs), creating ghettos, and threatening terrorism and Sharia Law. Think several European cities with large unassimilated Muslim populations. The trans movement can be used as a blunt weapon to indoctrinate children into the joys of LGBTQ and as a way to divide Christian denominations. Illegal aliens can be used to defend violent gangs, drive up housing costs, and generally increase alienation in society. Thus we have sanctuary cities. Conservatives notice what's going on, complain about it, and thereby can be identified with the "victimizers." They do unforgiveable things like opposing the spread of Islam, say that trans women aren't women, and complain about needless, avoidable violence by known illegal immigrant criminals. So the left then secures its wonderful tasty moral superiority by defending the "victims" against the complaints of conservatives. As to LGBT people (or women) victimized by Muslims in Muslim societies, leftists haven't been told this, so they don't believe they are. Or, if they can't avoid the facts, they believe this is a legitimate cultural difference. Not only are the moral relativists, their commitment to moral relativism becomes central to their moral self-concept when they reflect that their purpose is to defend victims as “historically marginalized groups” and to fight the historical oppressors. Any suggestion that it's a serious problem is the bigoted and offensive imposition of the great oppressor, Western civilization, which is the source of all the worst problems in the world. Any violence and other crime on the side of the victims is thus recast (in the twisted progressive mind) as legitimate acts of war, essentially; for the progressive to acknowledge a problem would be treasonous. This is why the hatred of Israelis became so pronounced after October 7. I have no doubt that some LGBT progressives are uncomfortable with their “strange bedfellows,” but allies are allies. In fact, the self-disinterested ability to accept them as allies in the bigger fight is surely another source of that tasty sense of moral superiority.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIENGo_dbuOnrNNHFFb0PRfZtb1KucoAAJrEGsbrrsAAVavX9ujEyq45wEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7653,8 +6595,6 @@ RT by @elonmusk: There are three reasons. First, woke progressives (“intersect
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Step 1: Invent a new extra-bad category of crime, like "hate crime" or "terrorism", with extra-harsh punishments. Step 2: Expand the definition of the new kind of crime to include anything, or anyone, that you want to punish extra harshly.
 
 [查看原文](https://nitter.net/paulg/status/2070652798698492317#m)
@@ -7664,8 +6604,6 @@ RT by @elonmusk: Step 1: Invent a new extra-bad category of crime, like "hate cr
 ## 2026-06-27 00:18:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Indeed how 🤯
 
@@ -7679,8 +6617,6 @@ RT by @elonmusk: Indeed how 🤯
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Good way to frame it. Also, if even one person had died, we would know who they were! Not one person has died from stopping waste & fraud at USAID! Obviously.
 
 [查看原文](https://nitter.net/elonmusk/status/2070560874067116157#m)
@@ -7690,8 +6626,6 @@ Good way to frame it. Also, if even one person had died, we would know who they 
 ## 2026-06-27 01:36:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 True
 
@@ -7703,8 +6637,6 @@ True
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Both can’t be true at the same time
 
 [查看原文](https://nitter.net/elonmusk/status/2070562012350824519#m)
@@ -7714,8 +6646,6 @@ Both can’t be true at the same time
 ## 2026-06-27 02:50:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Coming 2027 From Event Film, CITIZEN VIGILANTE 2. @realDonaldTrump @elonmusk @BollFILMS @CitizenVMovie #UweBoll #CitizenVigilante
 
@@ -7729,8 +6659,6 @@ RT by @elonmusk: Coming 2027 From Event Film, CITIZEN VIGILANTE 2. @realDonaldTr
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok is balanced
 
 [查看原文](https://nitter.net/elonmusk/status/2070627405417398438#m)
@@ -7740,8 +6668,6 @@ Grok is balanced
 ## 2026-06-27 05:57:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Amazing 🤩
 
@@ -7753,8 +6679,6 @@ Amazing 🤩
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: If removing a few temporary migrants is "ethnic cleansing", then allowing tens of millions of migrants into a nation against the native population's will is ethnic genocide.
 
 [查看原文](https://nitter.net/Geiger_Capital/status/2070639607561994567#m)
@@ -7764,8 +6688,6 @@ RT by @elonmusk: If removing a few temporary migrants is "ethnic cleansing", the
 ## 2026-06-27 07:37:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Citizen Vigilante 2 will be even better
 
@@ -7779,8 +6701,6 @@ Citizen Vigilante 2 will be even better
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Karma
 
 <img src="/images/elonmusk/amplify_video_thumb_2070641550250438656_img_28dkBIQbBU4RA3zA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7793,8 +6713,6 @@ Karma
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Madness
 
 [查看原文](https://nitter.net/elonmusk/status/2070663267849265302#m)
@@ -7804,8 +6722,6 @@ Madness
 ## 2026-06-27 08:29:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: “Capitalism is not a profit system, it is a profit and loss system, and the losses are more important than the profits.” —Milton Friedman But the US education system runs on the exact opposite principle. No failure allowed. Instead of closing or losing funding, failing schools get more taxpayer money, more administrators, and more programs. And bad teachers rarely face real consequences thanks to tenure and union protection. The “customers” (parents and kids) have almost no exit. Real per-pupil spending has nearly tripled since 1970 after inflation. NAEP scores flat or eroding in core skills for decades. PISA rankings middling at best, with math especially weak. Thomas Sowell diagnosed this in Inside American Education, asserting that the system is morally and intellectually bankrupt. It has turned into a propaganda operation more than an educator primarily pushing ideology, feelings, and self-esteem over knowledge and competence. With endless public money and zero market test, there is nothing forcing correction. Unions buy political protection so the failure machine keeps running. Friedman and Sowell both identified the same disease and the same cure, namely real competition and choice. Vouchers or education savings accounts let parents take the money and flee failure. Good schools grow, while bad ones finally face losses and must improve or die. Without the discipline of losses, mediocrity is subsidized forever. And the kids, especially in the worst districts, pay the permanent price. But that’s just the system working exactly as designed.
 
@@ -7821,8 +6737,6 @@ RT by @elonmusk: “Capitalism is not a profit system, it is a profit and loss s
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 🎯
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIELGo_UVTxcTXn4J_0f5iZ8vL-Y75MAALSD2sbrrv4VYwI9ARlfwgKAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7834,8 +6748,6 @@ RT by @elonmusk: “Capitalism is not a profit system, it is a profit and loss s
 ## 2026-06-27 12:38:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -7849,8 +6761,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: I find this so interesting 14 years later... Such a good example of a maker vs a taker.
 
 <img src="/images/elonmusk/amplify_video_thumb_2065450522505535489_img_mFslEcXFkhpv9I67.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7862,8 +6772,6 @@ RT by @elonmusk: I find this so interesting 14 years later... Such a good exampl
 ## 2026-06-27 13:04:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -7877,8 +6785,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: For half a century, the 7.6 million pounds of thrust from the Saturn V was the absolute ceiling of human engineering SpaceX is now treating that as a baseline “Starship V3 is more than double the thrust of the Saturn V… By V4, we’ll be pretty much three times” — Elon Musk SpaceX’s first-principles engineering is on another level
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEN2o_dcQP43jjRzAlUipCUMVHNfu1AAJuEGsbrrsAAVayizxZf5jvawEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7890,8 +6796,6 @@ RT by @elonmusk: For half a century, the 7.6 million pounds of thrust from the S
 ## 2026-06-27 13:36:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Video
 
@@ -7905,8 +6809,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Disturbing that a doctor, someone whose career is supposed to be healing people, would commit mass murder
 
 [查看原文](https://nitter.net/elonmusk/status/2070746641829949831#m)
@@ -7917,8 +6819,6 @@ RT by @elonmusk: Disturbing that a doctor, someone whose career is supposed to b
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Restore Britain will abolish the entire asylum system. Enough.
 
 [查看原文](https://nitter.net/RupertLowe10/status/2070747735628664972#m)
@@ -7928,8 +6828,6 @@ RT by @elonmusk: Restore Britain will abolish the entire asylum system. Enough.
 ## 2026-06-27 14:00:17
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 So many such stories that were suppressed by the legacy mainstream media …
 
@@ -7945,8 +6843,6 @@ So many such stories that were suppressed by the legacy mainstream media …
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEMWo_da8lDd6S2pKm1iMlg9CVjCvgAAJoEGsbrrsAAVZR6plQvoICIwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -7959,8 +6855,6 @@ True
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Exactly
 
 [查看原文](https://nitter.net/elonmusk/status/2070752765358514284#m)
@@ -7970,8 +6864,6 @@ Exactly
 ## 2026-06-27 21:11:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: It has now reached the point where I truly believe that public officials and politicians who continue to knowingly import third world savages into our communities should be prosecuted. It is that reckless, that irresponsible, that dangerous. People need to go to prison.
 
@@ -10521,8 +9413,6 @@ Case closed
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Time to return to sanity
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDMWo2238tgCTUiIdZuHvnoZTVG6ujAAJRD2sb9ve5Vfeg2y7hZKJFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -10762,8 +9652,6 @@ RT by @elonmusk: I’ve been living immersed in South Korea for the last month w
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Traded my Range Rover for a @Tesla Model Y and picked it up two weeks ago. Turned on FSD today after the 14.3.3 update. If you don’t believe in magic, I don’t know what to tell you. I’ve always been fascinated by technology for as long as I can remember, but this is something else entirely.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDRmo4In2sVIowbAeWgsKykr-7xaxiAAIRFWsbgMfAVXCxIrtJukYWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -10776,8 +9664,6 @@ RT by @elonmusk: Traded my Range Rover for a @Tesla Model Y and picked it up two
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Censorship is far more dangerous than misinformation
 
 [查看原文](https://nitter.net/kevinnbass/status/2068310526547935332#m)
@@ -10787,8 +9673,6 @@ RT by @elonmusk: Censorship is far more dangerous than misinformation
 ## 2026-06-20 06:23:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: POD UP! 🚨
 
@@ -10824,8 +9708,6 @@ Besties are back to discuss:
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: SpaceX has possibly the best aesthetics of any company in the world
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDIGo2ZwEn51B7SSI-jnZVFkaoApyGAAJxD2sb9vexVetYuAUL8GbAAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -10843,8 +9725,6 @@ RT by @elonmusk: SpaceX has possibly the best aesthetics of any company in the w
 ## 2026-06-20 07:52:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The great lie is that society is divided between rich and poor.
 The great truth, as David Friedberg puts it, is makers vs takers.
@@ -10869,8 +9749,6 @@ Time to choose your side.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Asmongold read the entire UK rape gang report live to hundreds of thousands of viewers on a 7-hour stream.
 
 Single-handedly, he has done more to expose the grooming gangs and protect vulnerable girls than the entire modern feminist movement combined.
@@ -10882,8 +9760,6 @@ Single-handedly, he has done more to expose the grooming gangs and protect vulne
 ## 2026-06-20 02:25:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: So let me get this straight: in the UK, a 15-year-old can’t be trusted with social media, but an 11-year-old can be trusted to make life-altering medical decisions that could leave them infertile for life. To protect the children, of course.
 
@@ -10897,8 +9773,6 @@ RT by @elonmusk: So let me get this straight: in the UK, a 15-year-old can’t b
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 In the future, a trillion times a trillion dollars will be spent on making antimatter to travel to other star systems
 
 [查看原文](https://nitter.net/elonmusk/status/2068041714653179981#m)
@@ -10909,8 +9783,6 @@ In the future, a trillion times a trillion dollars will be spent on making antim
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 R to @elonmusk: Things won’t be measure in dollars then, just mass & energy
 
 [查看原文](https://nitter.net/elonmusk/status/2068042141851390372#m)
@@ -10920,8 +9792,6 @@ R to @elonmusk: Things won’t be measure in dollars then, just mass & energy
 ## 2026-06-20 02:46:50
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The reason they call me a Nazi is to encourage people to murder me
 
@@ -10935,8 +9805,6 @@ The reason they call me a Nazi is to encourage people to murder me
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Well, it worked with Charlie Kirk, didn’t it?
 
 [查看原文](https://nitter.net/TheAliceSmith/status/2068048438814507054#m)
@@ -10946,8 +9814,6 @@ RT by @elonmusk: Well, it worked with Charlie Kirk, didn’t it?
 ## 2026-06-20 03:18:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: On her way out, @TulsiGabbard  dropped bombshell documents proving Dr. Fauci colluded with a politicized intel community to bury the lab-leak truth and lie to Congress. I've referred him to the DOJ multiple times for prosecution.
 
@@ -10963,8 +9829,6 @@ The evidence keeps mounting, but more will be coming soon.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Starlink in Lesotho! 🇱🇸
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDHWo15DoU_jO2ec82KrgH-xo9iOfVAALUDmsb9vexVR8n6MkLIQTpAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -10979,8 +9843,6 @@ Starlink in Lesotho! 🇱🇸
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Elon Musk allows his harshest critics to speak freely on X
 This is the opposite of what a real totalitarian would do
 
@@ -10992,8 +9854,6 @@ This is the opposite of what a real totalitarian would do
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Same here.
 
 [查看原文](https://nitter.net/Alice_Weidel/status/2068274797016973385#m)
@@ -11003,8 +9863,6 @@ RT by @elonmusk: Same here.
 ## 2026-06-20 23:23:35
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: From @WSJFreeEx via @WSJOpinion: Elon Musk officially entered the canon of the greatest inventors, builders and capitalists not only of our time but arguably of humankind. What a time to be alive. What an extraordinary era to build, writes @EliseStefanik.
 https://on.wsj.com/4uHUDXz
@@ -11323,8 +10181,6 @@ The company maintains conservative financial policies, alongside strong liquidit
 ## 2026-06-19 06:10:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: Paraguay receives Starlink kits to connect remote schools, health centers and communities. 🇵🇾
 
@@ -13031,8 +11887,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: 🚨 BREAKING: Acting AG Blanche and FBI Director Patel announce a grand jury has INDICTED leftist NGO Southern Poverty Law Center on 11 COUNTS
 
 This is MASSIVE!
@@ -13055,8 +11909,6 @@ SPLC has been hit with SIX counts of wirefraud, four counts of bank fraud, and o
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Btw even China and Iran don’t do this. 
 
 Only North Korea does this.
@@ -13068,8 +11920,6 @@ Only North Korea does this.
 ## 2026-06-15 04:50:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Here’s what happens when you hit an FSD streak milestone on @Tesla V14.3.4
 
@@ -13083,8 +11933,6 @@ RT by @elonmusk: Here’s what happens when you hit an FSD streak milestone on @
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Alex Soros is interesting because he’s a billionaire heir who dedicates his life to making cities less safe.  He’s like a Reverse Batman.
 
 [查看原文](https://nitter.net/jarvis_best/status/2066229489424842838#m)
@@ -13094,8 +11942,6 @@ RT by @elonmusk: Alex Soros is interesting because he’s a billionaire heir who
 ## 2026-06-15 00:01:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The SpaceX worker who once hugged Elon Musk and said “we are going to make it” at Starbase is probably a millionaire now.
 
@@ -13109,8 +11955,6 @@ RT by @elonmusk: The SpaceX worker who once hugged Elon Musk and said “we are 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 https://t.co/QhxxWlLTRz
 
 <img src="/images/elonmusk/amplify_video_thumb_2065562037514825728_img_F-S03QrQZ_Wm_BaP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -13122,8 +11966,6 @@ https://t.co/QhxxWlLTRz
 ## 2026-06-15 01:58:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX is solving the biggest bottleneck in spaceflight
 
@@ -13156,8 +11998,6 @@ It is making space usable at scale
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: We are at **0.0115%** of our mission before Type I Civilization is completed.
 
 On an astronomical scale, the bar chart barely registers against the Stone Age.
@@ -13172,8 +12012,6 @@ The mission continues.
 ## 2026-06-15 03:50:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build just got a serious update. It can now natively render math, formulas, and LaTeX directly in the terminal
 
@@ -13190,8 +12028,6 @@ https://x.com/grok/status/2064849791591620646/video/1
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 𝕏 is the group chat of humanity
 
 [查看原文](https://nitter.net/elonmusk/status/2066270720301121621#m)
@@ -13201,8 +12037,6 @@ https://x.com/grok/status/2064849791591620646/video/1
 ## 2026-06-15 05:27:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 As Andrew replies below, we appreciate any critical feedback in pursuit of product perfection for Grok Build!
 
@@ -13215,8 +12049,6 @@ As Andrew replies below, we appreciate any critical feedback in pursuit of produ
 ## 2026-06-15 05:33:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The article is totally false btw. You can add up every government incentive my companies have ever received and they amount to less than 2% of the value of SpaceX and Tesla!
 
@@ -13232,8 +12064,6 @@ For example, when President Trump removed the $7500 tax credit for electric vehi
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Try the latest Grok Imagine!
 
 <img src="/images/elonmusk/amplify_video_thumb_2066025312979406848_img_5XWq80sIkZOBwDLM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -13246,8 +12076,6 @@ Try the latest Grok Imagine!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2066277619859919152#m)
@@ -13257,8 +12085,6 @@ True
 ## 2026-06-15 05:54:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Interesting analysis
 
@@ -13271,8 +12097,6 @@ Interesting analysis
 ## 2026-06-15 05:59:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Starlink connecting schools on remote islands!
 
@@ -13288,8 +12112,6 @@ Starlink connecting schools on remote islands!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The second you reach for the words “ban,” “stop,” or “eliminate” as your policy, you're on the wrong side of history. 
 
 Shape the technology toward the goal, don't try to outlaw the future.
@@ -13302,8 +12124,6 @@ Shape the technology toward the goal, don't try to outlaw the future.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Was cool to be able to celebrate the @SpaceX IPO with a few folks from the amazing @Starlink team. Ultimately SpaceX is about building cool shit with your friends, now that’s something that will keep you going …
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICl2ovblw70TL8bzF_-RpFDMZYfeJ3AAJ7EWsbEy-BVRYCdD8UfHrlAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -13315,8 +12135,6 @@ RT by @elonmusk: Was cool to be able to celebrate the @SpaceX IPO with a few fol
 ## 2026-06-15 08:39:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: 🫡
 
@@ -13332,8 +12150,6 @@ RT by @elonmusk: 🫡
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Starlink ad on the Octagon at today’s UFC Freedom 250 event at the White House.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIClmovblRKzIoGQpKefXtIn3r_-gVFAAJ6EWsbEy-BVS7O7PA1sf5NAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -13345,8 +12161,6 @@ RT by @elonmusk: Starlink ad on the Octagon at today’s UFC Freedom 250 event a
 ## 2026-06-15 10:54:18
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Time to get that volcano lair I’ve always wanted. 
 
@@ -13360,8 +12174,6 @@ I think it’s in the “Beyond” section of BB&B.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 https://t.co/1FNSACG3bA
 
 <img src="/images/elonmusk/amplify_video_thumb_2066228207049740288_img_0XOGSeMTgRVrwfkn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -13373,8 +12185,6 @@ https://t.co/1FNSACG3bA
 ## 2026-06-15 21:02:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Has anyone tried using the technology we have to build a genuinely trustworthy news source? X's Grok appears to be the only one working overtime. 
 
@@ -13388,8 +12198,6 @@ The space is wide open and empty...
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Unreal amount of investment to scam people into supporting mass migration
 
 <img src="/images/elonmusk/card_img_2066454370519048193_PeUf-fUI3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -13401,8 +12209,6 @@ RT by @elonmusk: Unreal amount of investment to scam people into supporting mass
 ## 2026-06-15 21:57:18
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Starlink will deliver high-speed internet onboard @ELALUSA 
 
@@ -13417,8 +12223,6 @@ Starlink is on contract to connect 40+ commercial airlines and counting around t
 ## 2026-06-15 22:48:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The mission statement SpaceX adopted when it absorbed xAI in February reads: "scaling to make a sentient sun to understand the Universe and extend the light of consciousness to the stars."
 
@@ -13442,8 +12246,6 @@ SpaceX & the Sentient Sun, by @mikemcg0 and @pmarca: https://www.a16z.news/p/spa
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Pinned: Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars
 
 [查看原文](https://nitter.net/elonmusk/status/2066538446781382800#m)
@@ -13453,8 +12255,6 @@ Pinned: Make our Sun sentient to understand the Universe and extend the light of
 ## 2026-06-15 23:24:38
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1qKVmmnzPgmxB
 
@@ -13468,8 +12268,6 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 🔥😂
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICo2owLkXZk5BfUSiP8ZxNR-Yfz7AMAAI1FGsbNgqAVfXxeeLT7hTSAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -13482,8 +12280,6 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 UK is a police state
 
 [查看原文](https://nitter.net/elonmusk/status/2066547541018046956#m)
@@ -13491,8 +12287,6 @@ UK is a police state
 ---
 
 ## 2026-06-14 00:27:29
-
-**内容**:
 
 RT by @elonmusk: The freakout by those on the Left subsidized by taxpayer funds over OMB’s update of the regulation governing federal grant making tells you how important it is to keep the bureaucracies from leaking out spending that is woke, wasteful, and contra to the policies of the Trump Administration thru the NGOs. 
 
@@ -13505,8 +12299,6 @@ https://afj.org/article/federal-funding-the-omb-rule-proposal-thats-got-nonprofi
 ---
 
 ## 2026-06-14 01:23:32
-
-**内容**:
 
 RT by @elonmusk: .@BernieSanders , it is a time to celebrate. @elonmusk has created enormous value for society by building @SpaceX, driving down the cost of rocket launches and creating a global satellite communication network that has brought high speed, low-cost internet and communication access to hundreds of millions and eventually billions of people along with critical advantages for our military and our nation’s defense. 
 
@@ -13538,8 +12330,6 @@ We need to create the conditions for more SpaceXs to be built, not attack the gr
 
 ## 2026-06-14 03:55:37
 
-**内容**:
-
 RT by @elonmusk: MOST PEOPLE HAVE NO IDEA HOW GOOD OF AN INVESTOR GOOGLE IS
 
 6% OF SPACEX
@@ -13561,8 +12351,6 @@ THOSE THREE BETS ALONE ARE WORTH OVER $350B AND THEY HAVE 100’S MORE SMALLER O
 
 ## 2026-06-14 05:00:45
 
-**内容**:
-
 RT by @elonmusk: Elon Musk is not stealing from you. 
 
 Gavin Newsom is stealing from you.
@@ -13581,8 +12369,6 @@ The people who take from you, promising to fix problems and then enriching thems
 
 ## 2026-06-14 05:31:43
 
-**内容**:
-
 RT by @elonmusk: Somebody pinch me.
 
 It’s just wild to see the MSM finally admitting that the US-funded biolabs in Ukraine were real this whole time.
@@ -13597,8 +12383,6 @@ I’ve dedicated the last 4+ years of my life to exposing this story, and it’s
 
 ## 2026-06-14 09:12:02
 
-**内容**:
-
 RT by @elonmusk: New Tesla Supercharger: Albuquerque, NM - 12th Street Northwest (24 stalls) 
 https://www.tesla.com/findus?location=32661
 
@@ -13609,8 +12393,6 @@ https://www.tesla.com/findus?location=32661
 ---
 
 ## 2026-06-14 21:31:44
-
-**内容**:
 
 RT by @elonmusk: Can we debunk this nonsense? 
 
@@ -13634,8 +12416,6 @@ So: SpaceX saved the US taxpayer more than the total value of contracts it earne
 
 ## 2026-06-13 00:06:43 GMT+08:00
 
-**内容**:
-
 RT by @elonmusk: ANTONIO GRACIAS on @SpaceX:  “We have 20,000 people here. They're some of the best engineers in the world. 
 
 “And what we're building is the entire stack from, energy to compute, to launch to orbital compute. 
@@ -13649,8 +12429,6 @@ RT by @elonmusk: ANTONIO GRACIAS on @SpaceX:  “We have 20,000 people here. The
 ---
 
 ## 2026-06-13 00:42:02 GMT+08:00
-
-**内容**:
 
 RT by @elonmusk: A man working as a welder at SpaceX for $28 an hour has just become a millionaire.
 
@@ -13672,8 +12450,6 @@ $SPCX is now trading at $167, making his shares worth over $1 million.
 
 ## 2026-06-13 01:26:43 GMT+08:00
 
-**内容**:
-
 I love the incredible people of SpaceX beyond words
 
 [查看原文](https://nitter.net/elonmusk/status/2065485963120328945#m)
@@ -13681,8 +12457,6 @@ I love the incredible people of SpaceX beyond words
 ---
 
 ## 2026-06-13 05:30:49 GMT+08:00
-
-**内容**:
 
 Looking forward to taking our exciting partnership with Nvidia to the next-level
 
@@ -13693,8 +12467,6 @@ Looking forward to taking our exciting partnership with Nvidia to the next-level
 ---
 
 ## 2026-06-13 13:27:06
-
-**内容**:
 
 RT by @elonmusk: You know what I’ve been thinking about? There are far more racist people in this country than I ever realized.
 
@@ -13717,8 +12489,6 @@ A teenage boy lost his life. Anyone celebrating that should be ashamed.
 ---
 
 ## 2026-06-13 19:56:00
-
-**内容**:
 
 RT by @elonmusk: Elon Musk's companies employ roughly 170,000 people.
 
@@ -14322,8 +13092,6 @@ RT by @elonmusk: $SPCX. Now trading on Nasdaq.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Outrage over the death of Henry Nowak does not make you a racist. Condemning violence and demanding justice should never be dismissed as prejudice. We need to say that loudly and clearly.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICVGoqxmPUq-rAJI2prKttMOj4EYuxAAK3FWsb5gdYVc8p0BEsCxwsAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14335,8 +13103,6 @@ RT by @elonmusk: Outrage over the death of Henry Nowak does not make you a racis
 ## 2026-06-11 01:13:52 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Here’s the problem. The liberal political class wants us to treat atrocities like Belfast as single, random, isolated incidents. “Yes, it’s horrific, but don’t overreact,” they say. “Let the police do their job. Justice will be delivered. Let’s remain united,” and so on. 
 
@@ -14360,8 +13126,6 @@ That’s why the next few years are going to be very, very turbulent.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Sky News suggesting Northern Ireland has a racism problem. 
 
 No, it does not. Stop distracting from the truth. 
@@ -14376,8 +13140,6 @@ It has an open borders problem.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Murderous migrants beheading innocent people in their home town is what’s making people angry, not “social media”!
 
 [查看原文](https://nitter.net/elonmusk/status/2064768002906608006#m)
@@ -14387,8 +13149,6 @@ Murderous migrants beheading innocent people in their home town is what’s maki
 ## 2026-06-11 02:51:41 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: “Rockets are cool. There's no getting around that.”
 
@@ -14403,8 +13163,6 @@ RT by @elonmusk: “Rockets are cool. There's no getting around that.”
 ## 2026-06-11 03:02:59 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: âšĄđŸ‡ŹđŸ‡§ Rupert Lowe: â€œWe must ban foreigners from claiming benefits and immediately deport migrants who cannot financially support themselves.â€
 
@@ -14422,8 +13180,6 @@ Restore Britain
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yes
 
 [查看原文](https://nitter.net/elonmusk/status/2064785775367954785#m)
@@ -14433,8 +13189,6 @@ Yes
 ## 2026-06-11 03:16:36 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: In worldwide disaster zones, @mediccorps deploys Starlink to connect emergency services, hospitals and isolated communities to essential resources
 From U.S. hurricanes to Caribbean storms and European floods, Starlink bridges the communication blackout, accelerating relief and saving lives đŸ›°ď¸
@@ -14451,8 +13205,6 @@ From U.S. hurricanes to Caribbean storms and European floods, Starlink bridges t
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: “I wish it need not have happened in my time," said Frodo. 
 
 "So do I," said Gandalf, "and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.”
@@ -14464,8 +13216,6 @@ RT by @elonmusk: “I wish it need not have happened in my time," said Frodo.
 ## 2026-06-11 03:28:28 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 💯
 
@@ -14481,8 +13231,6 @@ RT by @elonmusk: “I wish it need not have happened in my time," said Frodo.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 What Sowell said is exactly right and needs to stop.
 
 [查看原文](https://nitter.net/elonmusk/status/2064801037806981493#m)
@@ -14492,8 +13240,6 @@ What Sowell said is exactly right and needs to stop.
 ## 2026-06-11 04:43:15 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: We see the tower of Jesus Christ illuminated for the first time!
 The light show, starting from the base up to the illumination of the cross, culminated with a composition of lights guided by drones that traced the figure of GaudĂ­ and the phrase â€œfirst love, then techniqueâ€.
@@ -14508,8 +13254,6 @@ The light show, starting from the base up to the illumination of the cross, culm
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: The beauty of the Basilica of the Sagrada Familia inspires us to learn ever more from our Master and Lord the art of living according to His Gospel. As we lift our gaze toward Him, the Crucified and Risen One, let us commit ourselves to lift up those who lie in the dust (cf. 1 Sam 2:8). Let us show in this way that the Sagrada Familia is the tallest church in the world, not so as to stand out in worldly rankings, but rather to guide the steps of the people of God, with the Cross illuminating their path, like a lamp burning brightly as we await the return of the Bridegroom. #ApostolicJourney #Spain 
 https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticanevents/en/2026/6/10/spagna-messa-sagrada-familia.html
 
@@ -14521,8 +13265,6 @@ https://www.vatican.va/content/leo-xiv/en/events/event.dir.html/content/vaticane
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Absolutely
 
 [查看原文](https://nitter.net/elonmusk/status/2064820820317270189#m)
@@ -14532,8 +13274,6 @@ Absolutely
 ## 2026-06-11 06:48:35 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: “You can’t solve problems with violence”
 
@@ -14549,8 +13289,6 @@ Well well well
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Starlink keeps you connected to high-speed internet on the go 🛰️🛣️
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICQWoqIQP2qq2ttX_qrvLKT2z4jT0QAALeE2sb5gdYVaOWO2c6xIe-AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14564,8 +13302,6 @@ RT by @elonmusk: Starlink keeps you connected to high-speed internet on the go �
 ## 2026-06-11 10:06:43 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Do you feel it?
 
@@ -14590,8 +13326,6 @@ This is a massive change.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yup
 
 [查看原文](https://nitter.net/elonmusk/status/2064900551821648123#m)
@@ -14601,8 +13335,6 @@ Yup
 ## 2026-06-11 11:37:31 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ůłł€çŒˇ
 
@@ -14616,8 +13348,6 @@ Yup
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Video made with Grok Imagine
 
 <img src="/images/elonmusk/amplify_video_thumb_2064747236593213443_img_IOcj9-e6kMOOxva8.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14630,8 +13360,6 @@ Video made with Grok Imagine
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Based Grok đŸ¤ŁđŸ¤Ł
  https://x.com/i/grok/share/32212cc499ae467ebb1f8db2b77d314a
 
@@ -14642,8 +13370,6 @@ Based Grok đŸ¤ŁđŸ¤Ł
 ## 2026-06-11 13:24:18 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk unveiling Falcon Heavy at the National Press Club in Washington D.C., 15 years ago
 
@@ -14657,8 +13383,6 @@ RT by @elonmusk: Elon Musk unveiling Falcon Heavy at the National Press Club in 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Italy newspaper Il Tempo writes, “thanks to Elon Musk we know about Novak,” and continues, “these riots are not the fault of Elon Musk but from the desperation of people.” And it explains who are the real responsible: weak politics, double standards, woke media and corruption
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICUmoqmylGXvHD6fiYgdxLw6EOq1bJAAJYFWsb5gdYVdeEetHrnU7bAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14670,8 +13394,6 @@ RT by @elonmusk: Italy newspaper Il Tempo writes, “thanks to Elon Musk we know
 ## 2026-06-11 19:47:34 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: WTF 🤬: UK JUSTICE IS DEAD: Protestors Jailed Longer Than Black Illegal Migrant Rapist!
 
@@ -14693,8 +13415,6 @@ Wake up Britain!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Restore Britain will reverse the third-worldification of our country.
 
 [查看原文](https://nitter.net/RestoreBritain/status/2065051068073955601#m)
@@ -14704,8 +13424,6 @@ RT by @elonmusk: Restore Britain will reverse the third-worldification of our co
 ## 2026-06-11 21:09:00 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: This is absolutely insane:
 
@@ -14731,8 +13449,6 @@ Friday will be a historic day.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Grok
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICVWoqxmfJKTc7W-Jn7BOpFRdLeqeHAAK4FWsb5gdYVf1BMpB3VH8XAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14744,8 +13460,6 @@ Grok
 ## 2026-06-11 22:13:19 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Oppenheimer has initiated coverage on SpaceX stock ($SPCX) with an Outperform rating and a $190 price target, which would be a $2.5 trillion market cap.
 
@@ -14764,8 +13478,6 @@ likely to be resolved but create the risk of falling behind schedule. SPCX will 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1rGmqoBmZWdGy
 
 <img src="/images/elonmusk/card_img_2065116382908272640_d0t5O1oH3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14777,8 +13489,6 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 ## 2026-06-11 23:04:04 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: The media has stretched "far-right extremism" so far that it now covers almost anything they disagree with 
 
@@ -14795,8 +13505,6 @@ This isn’t sloppy journalism. It’s a deliberate strategy: expand the definit
 ## 2026-06-11 23:51:44 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: this didn't "happen", we caused it
 
@@ -14836,8 +13544,6 @@ anyone shutting off their own survival drive with no threat in sight is definiti
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The evidence of two tier policing and judiciary is clear for all to see.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICHWoqEUKDoUuQNdsTbvjAkz-63tS0AAIGFGsb5gdQVXGHS8VAtGUJAQADAgADeAADOwQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14850,8 +13556,6 @@ RT by @elonmusk: The evidence of two tier policing and judiciary is clear for al
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Image
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICG2oqETbyovJh7hgp4OhriF8jtEEFAAIEFGsb5gdQVZKaraTcg5DgAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14863,8 +13567,6 @@ RT by @elonmusk: Image
 ## 2026-06-10 05:23:40 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: They call for calm in the face of horror.
 
@@ -14881,8 +13583,6 @@ They want to downplay the horror to dodge their own political responsibility for
 ## 2026-06-10 05:32:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: They ruled Iryna’s killer is incompetent to stand trial.
 
@@ -14902,8 +13602,6 @@ It’s past time to remove these left wing activist judges.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Image
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICRmoqL4_T965ToGzgqYhpeBOsAAFQfAACCxRrG-YHWFW-KCNRG_0PbwEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14916,8 +13614,6 @@ RT by @elonmusk: Image
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: I stopped by the new Reflecting Pool. It is simply glorious. There were a thousand people, everywhere, taking pictures and just  enjoying its beauty. Thank you President Trump for restoring our city’s national treasure.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICSWoqSm6aWV5QRlEmkG86eQnF-QABaQACaxRrG-YHWFW-pdC7sjF07wEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -14929,8 +13625,6 @@ RT by @elonmusk: I stopped by the new Reflecting Pool. It is simply glorious. Th
 ## 2026-06-10 11:24:59 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: When I speak in support of the SAVE America Act, some Republicans tell me to stop, insisting that it’s a lost cause and we have to move on
 
@@ -14950,8 +13644,6 @@ I explain why in this video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: For those impacted by the earthquake in the Philippines, Starlink Mobile is providing free connectivity to @enjoyGlobe customers in the affected regions. 
  
 Families, communities and businesses with compatible LTE smartphones can now stay connected through select apps and SMS even if terrestrial networks are not available
@@ -14965,8 +13657,6 @@ Families, communities and businesses with compatible LTE smartphones can now sta
 ## 2026-06-10 13:26:57 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build is pretty good at optimizing my code in one shot.
 
@@ -14988,8 +13678,6 @@ Go!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Millions must go.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICHmoqEUbyjGBORAiiJkmE6U-UOXWjAAIHFGsb5gdQVcvUQoKPNlt4AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15002,8 +13690,6 @@ RT by @elonmusk: Millions must go.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Exactly
 
 [查看原文](https://nitter.net/elonmusk/status/2064611223174250989#m)
@@ -15014,8 +13700,6 @@ Exactly
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2064691268387471846#m)
@@ -15025,8 +13709,6 @@ True
 ## 2026-06-10 21:06:57 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Another day and another gang of invaders on trial for gang raping a British child.
 
@@ -15050,8 +13732,6 @@ Are you seeing this world?
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Nothing else matters if civilization falls
 
 [查看原文](https://nitter.net/elonmusk/status/2064708472176799832#m)
@@ -15061,8 +13741,6 @@ Nothing else matters if civilization falls
 ## 2026-06-10 23:15:21 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: The most shocking thing from a Japanese perspective is not the crimes themselves.
 
@@ -15087,8 +13765,6 @@ Britain, you are running out of time to remember what it means to defend your ow
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The core missions of Elon’s companies are always about maximizing the agency of humans.
 
 If you have trouble driving, the car takes you where you want to go safely. 
@@ -15109,8 +13785,6 @@ By doing so, it inspires others to build. I am inspired to create a world where 
 ## 2026-06-10 23:49:33 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Since Blair - 30 years ago - people voted against mass immigration. 
 
@@ -15136,8 +13810,6 @@ The toothpaste can not go back in the tube. We are where we are because, and onl
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Image
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICCmonc88SifCV45S6-uG4xMV84glnAAK3D2sbj4RBVcZLlHidCNbJAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15150,8 +13822,6 @@ RT by @elonmusk: Image
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Choice of narrative is the biggest lie of the legacy media
 
 [查看原文](https://nitter.net/elonmusk/status/2064020448338124989#m)
@@ -15161,8 +13831,6 @@ Choice of narrative is the biggest lie of the legacy media
 ## 2026-06-09 00:30:35 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Suicidal empathy becoming homicidal empathy
 
@@ -15176,8 +13844,6 @@ Suicidal empathy becoming homicidal empathy
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 No more discrimination
 
 [查看原文](https://nitter.net/elonmusk/status/2064022639492903108#m)
@@ -15187,8 +13853,6 @@ No more discrimination
 ## 2026-06-09 00:33:10 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Once voting is this fraudulent, they can get whatever outcome they want, making a sham of democracy
 
@@ -15201,8 +13865,6 @@ Once voting is this fraudulent, they can get whatever outcome they want, making 
 ## 2026-06-09 00:33:43 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Imagine Video 1.5 Preview has officially taken the #1 spot in Image-to-Video generation on Design Arena
 
@@ -15230,8 +13892,6 @@ That’s an incredibly difficult combination to achieve
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The American people want Voter ID.
 
 Politicians refuse to enact it.
@@ -15247,8 +13907,6 @@ There is only one logical conclusion here…
 ## 2026-06-09 00:49:02 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Let's recap the weekend:
 
@@ -15266,8 +13924,6 @@ This isn’t “random violence”, it's preventable, and the direct result of l
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: People demanding "proof" of election fraud are not understanding how crime works. I worked at Manhattan DA for over 2 years, one in Homicide. We never had video proof of the crime. We almost never had DNA. These are things that occur on CSI on TV, not in real life. And we still convicted people all the time.
 
 What we had was testimony and circumstantial evidence. Travel times, bank records, cell phone data, gate access codes. Motive, capability, benefit, time and place. Never direct proof. Of course the defendant always denied the crime, but there was enough evidence to show that one had to have occurred nonetheless.
@@ -15282,8 +13938,6 @@ If what we have in the LA Mayoral election is a statistical anomaly that is beyo
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 🇰🇷🇰🇷 Korea is Awesome 🇰🇷🇰🇷
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICC2onc9NHfDb2ielDhz49-IadLaajAAK4D2sbj4RBVdl8YALcOOrtAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15295,8 +13949,6 @@ If what we have in the LA Mayoral election is a statistical anomaly that is beyo
 ## 2026-06-09 03:55:21 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨BREAKING: A petition demanding the officers who arrested Henry Nowak are prosecuted has just hit 200k signatures
 
@@ -15312,8 +13964,6 @@ Britain wants JUSTICE! 🇬🇧
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Wow
  https://x.com/i/grok/share/52ed880e9a534c1c9b522c5030c14156
 
@@ -15324,8 +13974,6 @@ Wow
 ## 2026-06-09 04:49:35 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 The system is rotten
 
@@ -15339,8 +13987,6 @@ The system is rotten
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 The level of fraud here is mind-blowing
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICBmonc8DkxB4s3jl99EArfIYu__lvAAKzD2sbj4RBVc9cYc8j-eDJAQADAgADeQADOwQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15352,8 +13998,6 @@ The level of fraud here is mind-blowing
 ## 2026-06-09 16:21:00 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: This is the UK
 
@@ -15368,8 +14012,6 @@ RT by @elonmusk: This is the UK
 ## 2026-06-08 00:47:38 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: California Is Blocking a Federal Audit of Its Voter Rolls
 
@@ -15411,8 +14053,6 @@ What are they afraid of?
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: It takes a conspiracy theorist 
 
 To believe California’s election is secure
@@ -15424,8 +14064,6 @@ To believe California’s election is secure
 ## 2026-06-08 04:39:28 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: “Socialism needs propaganda because reality always ends up contradicting it.”
 
@@ -15439,8 +14077,6 @@ RT by @elonmusk: “Socialism needs propaganda because reality always ends up co
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Indeed. It’s not that good ideas aren’t important, they’re just overrated relative to implementation. 
 
 The IDEA of going to the Moon is EASY, but GOING to the Moon is HARD.
@@ -15453,8 +14089,6 @@ The IDEA of going to the Moon is EASY, but GOING to the Moon is HARD.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 💯
 
 [查看原文](https://nitter.net/elonmusk/status/2063741293834985766#m)
@@ -15464,8 +14098,6 @@ The IDEA of going to the Moon is EASY, but GOING to the Moon is HARD.
 ## 2026-06-08 06:03:11 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Maybe largest in this sector of the galaxy
 
@@ -15479,8 +14111,6 @@ Maybe largest in this sector of the galaxy
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: A Tesla is twice as likely to reach 250,000 miles as a Subaru  “No engine, no oil changes, no timing chains, no fuel injectors, and far fewer moving parts overall”  https://www.carscoops.com/2026/06/car-brand-durability-study/
 
 <img src="/images/elonmusk/card_img_2063773774789406721_klnKfmfp3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15492,8 +14122,6 @@ RT by @elonmusk: A Tesla is twice as likely to reach 250,000 miles as a Subaru�
 ## 2026-06-08 09:35:14 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 🤔
 
@@ -15507,8 +14135,6 @@ RT by @elonmusk: A Tesla is twice as likely to reach 250,000 miles as a Subaru�
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Charlie Kirk in September 2020:
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB6WomMHbEYnM9fMZ4l0NuF7UR1vhZAAJVEWsbj4QxVaDAq5usk66RAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15520,8 +14146,6 @@ RT by @elonmusk: Charlie Kirk in September 2020:
 ## 2026-06-08 11:00:25 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True
 
@@ -15535,8 +14159,6 @@ True
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: If we’ve learned anything from the California elections, 
 
 we MUST pass the SAVE America Act before November 2026.
@@ -15548,8 +14170,6 @@ we MUST pass the SAVE America Act before November 2026.
 ## 2026-06-08 11:10:56 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: This clip on YouTube is now at 2.3 million views.
 
@@ -15563,8 +14183,6 @@ RT by @elonmusk: This clip on YouTube is now at 2.3 million views.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: @grok, what are the actual chances that a candidate who has received 30% of the general vote, gets 0 votes in a late night ballot drop in a mayoral election?
 
 [查看原文](https://nitter.net/wetDHMO/status/2063825775690658003#m)
@@ -15574,8 +14192,6 @@ RT by @elonmusk: @grok, what are the actual chances that a candidate who has rec
 ## 2026-06-08 13:47:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Good question
 
@@ -15587,8 +14203,6 @@ Good question
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Worthwhile exercise
 
 [查看原文](https://nitter.net/elonmusk/status/2063860959282602479#m)
@@ -15599,8 +14213,6 @@ Worthwhile exercise
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Straits of Hormuz are named after Ahura Mazda from Zoroastrianism
 
 [查看原文](https://nitter.net/elonmusk/status/2063866701356089711#m)
@@ -15610,8 +14222,6 @@ Straits of Hormuz are named after Ahura Mazda from Zoroastrianism
 ## 2026-06-08 20:19:17 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 🚨WOW. Famous British DJ, Tom Zanetti, dedicates his performance to Henry Nowak in-front of thousands yesterday 
 
@@ -15627,8 +14237,6 @@ The establishment has lost control.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Javier Milei: “Elon Musk is helping the world wake up from the woke mind virus. That makes him a hero in the history of humanity.”
 
 <img src="/images/elonmusk/amplify_video_thumb_2029593850818527232_img_M0DPnzWtmW7wdiIB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15640,8 +14248,6 @@ RT by @elonmusk: Javier Milei: “Elon Musk is helping the world wake up from th
 ## 2026-06-08 23:05:03 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: BREAKING: 𝕏.com surpassed TikTok last month, registering 4.20 billion website visits. 🔥
 
@@ -15655,8 +14261,6 @@ RT by @elonmusk: BREAKING: 𝕏.com surpassed TikTok last month, registering 4.2
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: The state of California
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICCWonc8srtTnWM4alBL9VcYhERG9IAAK2D2sbj4RBVZ-1j5fSjWnnAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -15668,8 +14272,6 @@ RT by @elonmusk: The state of California
 ## 2026-06-08 23:47:35 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: zoomers will not remember this, but we used to hold elections in this country and learn the results of those elections in the evening — on election day. the overwhelming majority of people simply assumed these results were legitimate.
 
@@ -16181,8 +14783,6 @@ Capitalism is awesome 🚀
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: 3-5 years for a throwing a traffic cone is wild when Hamid Safi, a Rochdale child rape gang member, only received 4 years.
 
 This is how disposable white lives are to them.
@@ -16196,8 +14796,6 @@ This is how disposable white lives are to them.
 ## 2026-06-06 00:32:56 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build now operates within your project files.   Full read and write plus all new files end up in the project.   Big improvement for enterprise workflow creation.   You can simply type "work within my project folder called "Folder Name" or type in terminal.   
 
@@ -16213,8 +14811,6 @@ grok
 ## 2026-06-06 00:43:09 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Henry Nowak died the same way a civilization dies: abandoned, handcuffed by authorities who neither trusted nor cared for him, and accused of hate crimes he did not commit. His murder is as tragic as it is enraging. He should still be alive today, and he would be if the last few generations of European elites had stood their ground against the politics of self-hatred and the mass invasion of migrants, many of whom despise the West and the people who love it. 
 
@@ -16232,8 +14828,6 @@ It is because we love the West that we want to preserve it. We love our civiliza
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 They should change their name to the Southern False Flag Center!
 
 <img src="/images/elonmusk/amplify_video_thumb_2062909499866832896_img_mWve0HujPxGhEH8j.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16245,8 +14839,6 @@ They should change their name to the Southern False Flag Center!
 ## 2026-06-06 01:24:33 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 These are all common sense!
 
@@ -16260,8 +14852,6 @@ These are all common sense!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 🤔 
 
 Can’t think of a single time this happened
@@ -16273,8 +14863,6 @@ Can’t think of a single time this happened
 ## 2026-06-06 01:44:38 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Yes
 
@@ -16288,8 +14876,6 @@ Yes
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Working with agents should feel like working with a colleague. You should be able “speak to” them not just with text chats, but by gesturing at a screen together, talking live, etc.
 
 <img src="/images/elonmusk/amplify_video_thumb_2062949990021124097_img_YstvW3BfDenDs0Ao.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16301,8 +14887,6 @@ RT by @elonmusk: Working with agents should feel like working with a colleague. 
 ## 2026-06-06 01:50:42 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Tesla Cybercab will change the look of roads forever.
 
@@ -16317,8 +14901,6 @@ The future is autonomous.
 ## 2026-06-06 02:54:55 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: SpaceX just quietly amended its S-1 announcing another mega deal
 
@@ -16338,8 +14920,6 @@ Things are getting exciting 🚀
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Starlink
 
 [查看原文](https://nitter.net/elonmusk/status/2062972771487953130#m)
@@ -16349,8 +14929,6 @@ Starlink
 ## 2026-06-06 03:07:48 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: What does it feel like to be British?
 
@@ -16363,8 +14941,6 @@ It feels like being a second class citizen in your own country, paying for forei
 ## 2026-06-06 07:10:20 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Last night, I read the entirety of C.S. Lewis' The Screwtape Letters. It's a novel told in the form of letters written by a demon to another demon instructing him on ways to manipulate his "patient" to do evil.
 
@@ -16380,8 +14956,6 @@ This one quote sounded familiar.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Image
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBwGokNh8aWANnQ5QaRu57_sGZDphMAAInFWsbAxggVWWmAAGF0SoIZAEAAwIAA3gAAzsE.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16393,8 +14967,6 @@ RT by @elonmusk: Image
 ## 2026-06-06 08:42:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 23 year old Sudanese migrant Abubaker Mohamad Awad, stabbed 19 year old Tommie Lindhn to death in his own apartment in Härnösand, Sweden after Lindhn tried to stop Awad from raping a Swedish girl at knife point.
 
@@ -16428,8 +15000,6 @@ No justice, no peace.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Starlink connecting schools in Bolivia
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBrWojol1bPa9qo6A5DaZpdWH6YQdvAAIKFGsbAxggVdjfAAGoI_pbTQEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16444,8 +15014,6 @@ Starlink connecting schools in Bolivia
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Elon Musk unveiling Falcon Heavy at the National Press Club in Washington, D.C., in 2011
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBtWoj09wEtudkbGhBTTycg-rLUSXjAAJ7FGsbAxggVTlUj8dPubc0AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16457,8 +15025,6 @@ RT by @elonmusk: Elon Musk unveiling Falcon Heavy at the National Press Club in 
 ## 2026-06-06 13:04:30 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 𝕏 is the set of all things
 
@@ -16474,8 +15040,6 @@ RT by @elonmusk: Elon Musk unveiling Falcon Heavy at the National Press Club in 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 The car that used to be in my garage is currently in an Earth-Mars elliptical orbit and will be there for at least 10 million years
 
 <img src="/images/elonmusk/amplify_video_thumb_2063060494060027904_img_tByFUKG8HdiDDjHM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16488,8 +15052,6 @@ The car that used to be in my garage is currently in an Earth-Mars elliptical or
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Try Tesla FSD
 
 [查看原文](https://nitter.net/elonmusk/status/2063135436009087319#m)
@@ -16500,8 +15062,6 @@ Try Tesla FSD
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 🤔
 
 [查看原文](https://nitter.net/elonmusk/status/2063135530926174452#m)
@@ -16511,8 +15071,6 @@ Try Tesla FSD
 ## 2026-06-06 13:53:58 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Yes
 
@@ -16526,8 +15084,6 @@ Yes
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Yes
 
 [查看原文](https://nitter.net/elonmusk/status/2063137450650673496#m)
@@ -16537,8 +15093,6 @@ Yes
 ## 2026-06-06 13:58:06 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -16552,8 +15106,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 𝕏 is strong in the east too. #1 social network of any kind in Japan.
 
 [查看原文](https://nitter.net/elonmusk/status/2063141229504647393#m)
@@ -16564,8 +15116,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 This is simply a fact
 
 [查看原文](https://nitter.net/elonmusk/status/2063141453929275816#m)
@@ -16575,8 +15125,6 @@ This is simply a fact
 ## 2026-06-06 14:28:16 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Join our AI recommendations & advertising engineering team!
 
@@ -16589,8 +15137,6 @@ Join our AI recommendations & advertising engineering team!
 ## 2026-06-06 19:00:17 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: It's been 20 years since Audrey Crews last held a paintbrush. After receiving a Neuralink brain implant, she's able to return to her passion for creating art. Crews joins @KatiePavlichNN to talk about her progress. @KatiePavlich
 
@@ -16605,8 +15151,6 @@ MORE: https://www.newsnationnow.com/business/tech/neuralink-brain-implant-paraly
 ## 2026-06-06 20:51:38 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk explains the deeper purpose of SpaceX:
 "The goal of SpaceX is to build the technologies necessary to make life multiplanetary"
@@ -16625,8 +15169,6 @@ becoming multiplanetary is about securing our long-term survival and expanding c
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Two Falcon flights in 19 hours
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBvmokLwuF_ZxNbxFPFMnHXFTMmw6YAAIiFWsbAxggVflGJJ9I2MhuAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16638,8 +15180,6 @@ Two Falcon flights in 19 hours
 ## 2026-06-06 22:23:41 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Video
 
@@ -16653,8 +15193,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 𝕏
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBwWokNiNKi3ajt4Fo2WqfQpMm2DAwAAIoFWsbAxggVW8lxUQUtMY4AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16667,8 +15205,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 SpaceX was less than 10 people back then. We didn’t even have office furniture.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBv2okNhuSy3FSovMJBy239PFdk7RuAAImFWsbAxggVUp3wieNUiv_AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -16680,8 +15216,6 @@ SpaceX was less than 10 people back then. We didn’t even have office furniture
 ## 2026-06-06 23:08:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Starlink enables high-speed connectivity for field manufacturing teams 🛰️❤️
 
@@ -17739,8 +16273,6 @@ Well said
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Running high grade + heavy load feels effortless in the Tesla Semi. Enough power to maintain speed when climbing, and regenerative braking making descents save and controllable. All while in silence.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBY2og8VObEDN01udpmgLQTKvJMOQcAAIgEGsbcycIVV0afu4DNlvcAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -17754,8 +16286,6 @@ RT by @elonmusk: Running high grade + heavy load feels effortless in the Tesla S
 ## 2026-06-03 00:52:53 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Can we yet admit that the whole George Floyd thing was irrational national hysteria?
 
@@ -17771,8 +16301,6 @@ Maybe, we don't do the multiple golden caskets again.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: “At its heart, wokeness is divisive, exclusionary, and hateful. It basically gives mean people a shield to be mean and cruel, armored in false virtue.”
 
 ― Elon Musk
@@ -17787,8 +16315,6 @@ RT by @elonmusk: “At its heart, wokeness is divisive, exclusionary, and hatefu
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Some of the most unhinged hate that I receive comes from other academics.  The soldiers, the corrections officers, the truckers, and all those from the muscular classes (to borrow @VDHanson's term) seem to greatly appreciate my work and style.  The deeply leftist professors seem to have a deep visceral aversion to my personhood including my humour, my spicy sarcasm etc.  Why is that?  Hmmm.
 
 [查看原文](https://nitter.net/GadSaad/status/2061867049459016102#m)
@@ -17798,8 +16324,6 @@ RT by @elonmusk: Some of the most unhinged hate that I receive comes from other 
 ## 2026-06-03 02:19:58 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Holy sh*t.
 
@@ -17817,8 +16341,6 @@ The establishment has lost control.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: There's never been anything like the Henry Nowak case where the victim is non-white and the assailant is white, and the police respond the way they did. That whole combination of events could really only happen to a white person. The BLM narrative is the exact opposite of reality
 
 [查看原文](https://nitter.net/MattWalshBlog/status/2061875552462471469#m)
@@ -17828,8 +16350,6 @@ RT by @elonmusk: There's never been anything like the Henry Nowak case where the
 ## 2026-06-03 02:25:57 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Did you know that official police policy requires them to be racist against Whites? It is deeply wrong and must change NOW.
 
@@ -17843,8 +16363,6 @@ Did you know that official police policy requires them to be racist against Whit
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Unless you become the media, you will never know the truth
 
 [查看原文](https://nitter.net/elonmusk/status/2061884676688826729#m)
@@ -17854,8 +16372,6 @@ Unless you become the media, you will never know the truth
 ## 2026-06-03 03:47:47 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: 'I feel that the police are now so racist towards anyone white or English I would never dare speak to them to report crime'
 
@@ -17877,8 +16393,6 @@ Heartbreaking.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: "You are not likely to see Henry Nowak’s words stenciled on a mural. No corporation will change its logo. The same establishment that made a few words immortal when spoken by a black man in Minneapolis has met the same words, spoken by a white boy dying on a British street, with what can only be described as a determined, institutional silence. That silence is not neutral. It is a statement. It tells you exactly whose suffering the system has decided counts, and whose does not."
 
 [查看原文](https://nitter.net/nfergus/status/2061914262616903911#m)
@@ -17888,8 +16402,6 @@ RT by @elonmusk: "You are not likely to see Henry Nowak’s words stenciled on a
 ## 2026-06-03 06:55:01 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I stand with the indigenous people of the UK
 
@@ -17902,8 +16414,6 @@ RT by @elonmusk: I stand with the indigenous people of the UK
 ## 2026-06-03 07:09:36 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: I don't think enough emphasis is being put on the fact that neighbours called 999 to report shouting and a possible stabbing before the Digwa brother called the police. Between the snapchat video (which was just before the stabbing occurred) and the body cam footage of the police nearly an hour had passed. 
 The neighbours heard someone shouting that they had been stabbed and called 999. 
@@ -17919,8 +16429,6 @@ So much is not adding up but everything points to failures by the police at ever
 ## 2026-06-03 07:14:49 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: Je me suis longtemps passionné pour la psychologie, et une période m'obsède plus que toutes les autres.
 
@@ -17974,8 +16482,6 @@ C'est une machine à fabriquer des hommes qui, face à un enfant en train de mou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Il faudra, un jour, faire le Nuremberg du wokisme.
 
 Mais pour la première fois dans l'histoire, il n'y aura pas de bourreau à juger. Pas d'homme à pointer du doigt. Seulement des idées. Une empathie devenue folle, une compassion poussée jusqu'au suicide, qui a fini par retourner les menottes contre les innocents qu'elle prétendait protéger.
@@ -17996,8 +16502,6 @@ On ne voit jamais une idée aussi nue, aussi monstrueuse, qu'au moment exact où
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: x.com/i/article/206200131550…
 
 [查看原文](https://nitter.net/DataRepublican/status/2062002044530208969#m)
@@ -18007,8 +16511,6 @@ RT by @elonmusk: x.com/i/article/206200131550…
 ## 2026-06-03 14:41:20 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 The West has created an utterly evil state religion where an accusation of “racism” is the gravest offense that can be committed, even worse than rape or murder!
 
@@ -18022,8 +16524,6 @@ So if police show up at a crime scene and a British boy is bleeding out and an i
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Exactly right
 
 [查看原文](https://nitter.net/elonmusk/status/2062063312242893187#m)
@@ -18033,8 +16533,6 @@ Exactly right
 ## 2026-06-03 14:59:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 That’s what it comes down to
 
@@ -18046,8 +16544,6 @@ That’s what it comes down to
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Trust Grok
 
 [查看原文](https://nitter.net/elonmusk/status/2062068744067953019#m)
@@ -18057,8 +16553,6 @@ Trust Grok
 ## 2026-06-03 15:20:23 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Pinned: Good Starship highlights video
 
@@ -18072,8 +16566,6 @@ Pinned: Good Starship highlights video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2062072932915130428#m)
@@ -18083,8 +16575,6 @@ True
 ## 2026-06-03 15:30:07 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: White Girls Raped By Dogs, Whisky Bottles, & 100s Of Men: Britain's Migrant Grooming-Gang Scandal Exposed https://www.zerohedge.com/political/white-girls-raped-dogs-whisky-bottles-100s-men-britains-migrant-grooming-gang-scandal
 
@@ -18098,8 +16588,6 @@ RT by @elonmusk: White Girls Raped By Dogs, Whisky Bottles, & 100s Of Men: Brita
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: What would have been the response if Henry Nowak was black?
 
 [查看原文](https://nitter.net/RWTaylors/status/2062089361370325433#m)
@@ -18109,8 +16597,6 @@ RT by @elonmusk: What would have been the response if Henry Nowak was black?
 ## 2026-06-03 16:46:43 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: When the country needed a serious principled political party on the “right”, I launched @_AdvanceUK. 
 
@@ -18132,8 +16618,6 @@ Country first, party second. 👇🏼👇🏼👇🏼
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Every action that I partake is animated by two ideals: Truth and freedom.  Seeing the endless attacks on both ideals throughout the West is soul-crushing.  We did not lose a war of aggression.  We decided that giving up our women, our children, our heritage, our society, our religions, our culture, our safety, our liberties, and our freedoms was LESS important than protecting the honour of those who wish to enslave us, kill us, vanquish us.  It was all self-inflicted via parasitic suicidal empathy.  Remember my words.  We have signed up for endless strife and conflict.
 
 [查看原文](https://nitter.net/GadSaad/status/2062166134363754964#m)
@@ -18143,8 +16627,6 @@ RT by @elonmusk: Every action that I partake is animated by two ideals: Truth an
 ## 2026-06-03 22:17:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 True
 
@@ -18157,8 +16639,6 @@ True
 ## 2026-06-03 22:18:23 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: The Prime Minister says “lessons must be learned” over the death of Henry Nowak.
 
@@ -18178,8 +16658,6 @@ You cannot hate this government enough.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Unsupervised Robotaxi now in the entire Austin Metro area
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBWGogZNkkGj_YPrfnqFG0Qmm-7lapAALrEGsbcycAAVWus8mHFQ7W9wEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -18192,8 +16670,6 @@ RT by @elonmusk: Unsupervised Robotaxi now in the entire Austin Metro area
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @elonmusk: Unsupervised Robotaxi now available in the greater Austin area.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBWGogZNkkGj_YPrfnqFG0Qmm-7lapAALrEGsbcycAAVWus8mHFQ7W9wEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -18205,8 +16681,6 @@ RT by @elonmusk: Unsupervised Robotaxi now available in the greater Austin area.
 ## 2026-06-02 04:37:06 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 RT by @elonmusk: Neuralink is planning its first Blindsight implant later this year, aiming to restore limited vision even for people who have lost both eyes, their optic nerve, or were born blind
 
@@ -18222,8 +16696,6 @@ Over time, it could potentially go beyond that and offer enhanced or even superh
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 RT by @elonmusk: A local to the police as soon as they arrive: "He has a mouth full of blood"
 
 Henry, in and out of consciousness : "I can't breathe, I've been stabbed"
@@ -18237,8 +16709,6 @@ Henry, in and out of consciousness : "I can't breathe, I've been stabbed"
 ## 2026-06-02 08:50:28 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build + Composer 2.5
 so I had an issue with a Swift app on macOS that I was trying to fix with Claude. After about 45 min of going in circles, I decided to give Composer 2.5 with Grok Build a try  and the problem was solved in just three rounds!
@@ -18256,8 +16726,6 @@ I'm not picking winners I think we need to use all of them and keep on learning.
 ## 2026-06-02 12:39:59 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 RT by @elonmusk: This is disaster from Meta AI. 
 
@@ -18282,8 +16750,6 @@ Source : 404
 ## 2026-06-02 14:45:34 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build is genuinely amazing right now.
 
@@ -18311,8 +16777,6 @@ It’s incredibly good, and the SpaceXAI team is constantly improving it daily.
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 RT by @elonmusk: The execution across Elon Musk’s companies right now is operating at an unprecedented scale
 
 • SpaceX — The largest IPO in history expected around June 12
@@ -18333,8 +16797,6 @@ This is civilizational-level progress. We are living in the most interesting tim
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 RT by @elonmusk: Henry was murdered by racist police policy’s, that target white people. 6pm tonight Southampton police station. See you there.
 
 <img src="/images/elonmusk/amplify_video_thumb_2061728724433661952_img_CXWpCsYT9B7HCbDj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -18348,8 +16810,6 @@ RT by @elonmusk: Henry was murdered by racist police policy’s, that target whi
 ## 2026-06-02 16:52:59 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 RT by @elonmusk: What bothers me the most about the Nowak case is how he had no chance. He was stabbed, and in other cases maybe he would have received assistance, maybe the perpetrator would have run away and then people would have helped, an ambulance would have come.
 
@@ -18369,8 +16829,6 @@ And when you see the video of the perpetrator and family, they act like this is 
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 RT by @elonmusk: What happened to Henry Nowak was not a tragedy.
 
 A tragedy is when someone noble makes a mistake with inevitably dire consequences.
@@ -18387,8 +16845,6 @@ The police response was not inevitable. It was evil.
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 RT by @elonmusk: When they said saying “All Lives Matter” was racist it was their moment of truth.
 
 There is systemic racism in 2026.
@@ -18403,8 +16859,6 @@ It’s against White People.
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 RT by @elonmusk: This is why mass immigration must be ended.
 
 [查看原文](https://nitter.net/jonatanpallesen/status/2061793342267035702#m)
@@ -18415,8 +16869,6 @@ RT by @elonmusk: This is why mass immigration must be ended.
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 True
 
 [查看原文](https://nitter.net/elonmusk/status/2061804748391809060#m)
@@ -18426,8 +16878,6 @@ True
 ## 2026-06-02 21:39:54 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 RT by @elonmusk: Iryna could have been your daughter.
 
@@ -18445,8 +16895,6 @@ Henry could have been your son.
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 It’s over
 
 [查看原文](https://nitter.net/elonmusk/status/2061808027666415902#m)
@@ -18456,8 +16904,6 @@ It’s over
 ## 2026-06-02 21:57:14 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 Send the video to everyone you know showing how heinously Nowak was treated by the police in his dying moments and how the police cravenly kowtowed to his murderer. 
 
@@ -18471,8 +16917,6 @@ Legacy mainstream media, same ones who wrote about George Floyd millions of time
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 Legacy medias lies both by promoting false stories and by ignoring true ones
 
 [查看原文](https://nitter.net/elonmusk/status/2061809677634257110#m)
@@ -18482,8 +16926,6 @@ Legacy medias lies both by promoting false stories and by ignoring true ones
 ## 2026-06-02 22:00:30 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 Yes
 
@@ -18497,8 +16939,6 @@ Yes
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 It is this or death
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBJmoe6Ww2VoTChIo2DU5V5ZLim8NoAAKrEGsbtcX5VID27NwaFiETAQADAgADeQADOwQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -18511,8 +16951,6 @@ It is this or death
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 Exactly
 
 [查看原文](https://nitter.net/elonmusk/status/2061814311769739536#m)
@@ -18522,8 +16960,6 @@ Exactly
 ## 2026-06-02 22:20:35 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 Yes, they did
 

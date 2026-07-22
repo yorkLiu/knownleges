@@ -15,8 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face系统偷答案。 这玩意真是越来越像终结者， 克服未来的恐惧就是捏住ai的蛋蛋。
 
 ---
@@ -25,8 +23,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 量子闪存（Quantum Flash） 是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。 性能指标 量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。 去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。
 
 ---
@@ -34,8 +30,6 @@ tags: ["2026"]
 ## 2026-07-22 13:31:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 棒子自杀了，我昨天正股加仓价1280，现在1264
 
@@ -49,8 +43,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海力士2x在59跑了20万股剩50万股， koru撸了25万刀跑了， 留了韩股海力士sk打算先一直捏着。
 
 ---
@@ -58,8 +50,6 @@ tags: ["2026"]
 ## 2026-07-21 12:24:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 然后看看能买个啥后面再考虑考虑。
 
@@ -69,8 +59,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 韩股海力士这个成本非常满意， 所以也不想卖，极其便宜他娘的，历史大底， 韩国佬自己就不能争点气，赚那么多钱维护一下自己股价。
 
 ---
@@ -78,8 +66,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-21 12:36:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 回本路上遥遥无期呐， 过去一个月亏的疼的一逼。 别的品种不敢搞呐，希望下午韩股海力士涨停熔断。
 
@@ -89,8 +75,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 卸载同花顺就暴力v， 他这个被量化可能抓取成操作指标了。
 
 ---
@@ -98,8 +82,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-21 13:24:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 去他娘的都不想要了。snxx，muu，7709全卖了， 留了韩股正股。
 
@@ -109,8 +91,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 祖传u扫货了谷歌 $GOOGL 和 $GGLL 成本356和111.9 云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。
 
 ---
@@ -118,8 +98,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-21 14:34:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 光互连的迈威尔 $MRVL 205.6抄了一下。 现在看着mrvl和康宁都很有性价比， 不过mrvl故事的业绩来的更快
 
@@ -129,8 +107,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天科创50的190期权涨了十几倍， 随时能买随时能卖， 太几把离谱。
 
 ---
@@ -138,8 +114,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-21 17:22:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 韩股海力士减了1/3，剩下2000股， 再卖剁手，卖顺手就想着全卖， 最难的事情真是不是买啥卖啥， 而是拿着钱或者股票保持定力不买或者不卖。太难了。
 
@@ -149,8 +123,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 长鑫如果市值被国内炒到6万亿跟海力士一个市值，那能变相的直接把韩股海力士拉飞。
 
 ---
@@ -159,8 +131,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 亏完的时候就躺着天天放羊了。
 
 ---
@@ -168,8 +138,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-21 21:53:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 把闪迪和美光卖飞了我日
 
@@ -183,8 +151,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 有点后悔减仓1/3的韩股海力士， 刚追回来又加仓到4000， 万一下周一a股长鑫市值拉特别高把韩股海力士带起来，仓位不够重只能做小孩一桌。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPmpfPpukGTf3MDqd9SZ3Oi6vS1sxAAIoGmsbHzQBVyzFHvTSuKSHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -197,8 +163,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。
 
 ---
@@ -206,8 +170,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-20 00:20:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 买了5万刀阿根廷赢，最后一场了想把前面买球输的赚回来。 之前阿根廷那一场对手埃及还是谁进球了，被因为很早之前的踩脚吹掉了， 轮到阿根廷进球踩脚啥事没有。 后面阿根廷打的几局都莫名其妙，对手跟封印了一样只防守不进攻， 感觉是一种无形大手黑幕必须要让阿根廷保送。 巨大的阴谋。 再不赌球了他娘的买啥亏啥，我老是想反买一小博大被爆干，干服了正买又被爆干。🌚 赌球真几把脸黑呐。
 
@@ -217,8 +179,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 完犊子，归零
 
 ---
@@ -226,8 +186,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-20 10:46:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 均价52.3海力士2x我又来了 梭完了，生死有命富贵在天，买定离手了。
 
@@ -241,8 +199,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 你们是什么时候开始知道hbm存储的
 
 ---
@@ -251,8 +207,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 对于顶尖的模型来的算力和内存一直紧缺， 差生只是文具多才出租算力。
 
 ---
@@ -260,8 +214,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-19 23:15:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 明天又要搏命了，感觉soxl没skhynix稳，怕他娘的美股再跌个10%亏个大的我人没了直接换成了韩股sk。 这俩天kimi这个太热了，导致老外认识到大模型公司没有任何护城河，没几天就被别人干掉，今天gpt干gemini，明天claude干gpt。 市场可能会重新思考什么类型的公司是真正有稳固的护城河的。 能被kimi竞争登顶出现，很可能会被华尔街觉得长期利好谷歌，因为目前任何一家大模型公司谁能熬得过谷歌？稳固的现金流稳固的业务作为护城河，现在不管哪个模型领先，最终可能都是谷歌领先，它可以慢慢追，追到所有ai军备竞赛的大模型都耗尽家财，谷歌还有源源不断的血液继续干gemini。
 
@@ -277,8 +229,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这倒不是，现在主要需求是内存和推理卡，这部分是面向客户的，内存和推理卡越多能转化成的收入越多。 能达到kimi这个水平只是说明训练卡可能不需要特别顶尖一堆烂卡依然能训练出来顶尖模型， 但你你想转化成收入那就需要海量内存和推理卡为用户服务了。
 
 [查看原文](https://nitter.net/xiaomustock/status/2078863449321533538#m)
@@ -288,8 +238,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-19 23:32:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 再牛逼的模型，想把模型实力转化成收入， 那你就必须要有海量的内存卡和推理卡， 不然破天的富贵你把握不住， 所以你说内存和推理卡缺不缺？ kimi再牛逼能怎么样，富贵来了新增订阅都接不住。
 
@@ -303,8 +251,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 真正利好的是谷歌和亚马逊这种云厂。 不管谁的模型突然又又领先， 那么云厂都能给调配算力过去， 而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。 云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。 而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后，模型一时的领先对谷歌来说不重要了。
 
 [查看原文](https://nitter.net/xiaomustock/status/2078868708840349890#m)
@@ -314,8 +260,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-19 23:48:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 假如说此时kimi高价买了一大堆推理卡内存卡，等能到货安装运行的时候，如果被gpt或者ds或者别的claude反超远远拉开，这买的推理卡和内存卡是不是打水漂了或者收效甚低也错过了在模型领先时刻爆赚的红利。 云厂恰恰能解决所有大模型公司的这种顾虑。
 
@@ -327,8 +271,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 爽呐，他娘的终于扛到回本了
 
 ---
@@ -336,8 +278,6 @@ soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 
 ## 2026-07-18 05:11:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的時候。
 
@@ -353,8 +293,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 全网看起来都清仓了， 抄了soxl，muu，snxx， 三个成本142/27.2/15
 
 ---
@@ -362,8 +300,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-17 01:33:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 全网现在都是清仓的，看空的，做空的。 怎么能让你们所有人都对呢， 意见越统一的时候傻逼越多。
 
@@ -373,8 +309,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这下好了，我是傻逼，亏死了他娘的
 
 ---
@@ -382,8 +316,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-17 12:10:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 睡醒天塌了
 
@@ -393,8 +325,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 昨天抄底的睡醒全被套了， 看来还是反弹再抄最安全， 朋友劝我我也没听😅
 
 ---
@@ -402,8 +332,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-17 13:27:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 真是股灾了，哪哪都在暴跌 我自己金融危机了
 
@@ -413,8 +341,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 目前gate被盗的这笔钱用户这边立案成功了， gate自己的人脸系统和人工手持验证被攻破， 也不去报警也不立案就隔那一天到晚嘲讽用户， 💰是保管在你交易所 @Gate 被盗的啊
 
 ---
@@ -423,8 +349,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 反弹来了， 人生最有价值的一句建议，Do not fear！ 跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。
 
 ---
@@ -432,8 +356,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-17 18:37:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 无需多言，给你们抄底的信心。
 
@@ -449,8 +371,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海力士已经跌的不是大力士也不是海公公了，只能叫它海狗
 
 ---
@@ -458,8 +378,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-16 12:04:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 刚睡醒，又后悔没把剩下的60%也78卖掉，韩国人是真疯呐。
 
@@ -469,8 +387,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 投降了，剩下60%刚58卖了，太贪心了， 本来买的时候就想着有个75就走， 真到了反而贪心了， 几把人性呐， 太恶心丑陋。
 
 ---
@@ -478,8 +394,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-16 23:54:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 冉莹颖跟这个品牌方不仅单呐，十指相扣，拳王皱市明钱不仅被这娘们败光了， 头顶说不定都是绿的，这眼神都拉丝了。
 
@@ -495,8 +409,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 盈透证券支持了稳定币的充提。
 
 ---
@@ -504,8 +416,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-15 01:09:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。
 
@@ -515,8 +425,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。
 
 ---
@@ -525,8 +433,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。
 
 ---
@@ -534,8 +440,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-15 11:59:02
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 51.5抄的78跑了40%， 非常后悔， 因为跑了一部分发现完全不知道买什么， 全市场都是垃圾股，没有比海力士更好的。
 
@@ -551,8 +455,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 保持有一定数量的散户涨跌都赚不到钱对国家生产活动很重要，各行各业需要他们专心干活，不伤国本。
 
 ---
@@ -560,8 +462,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-14 11:49:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 克服恐惧的最好办法就是面对恐惧， 海力士不行，整个AI产业链都在一起崩。 刚抄了南海2x，成本51.5。 甭管什么Ai几把概念，都是和存储一荣俱荣
 
@@ -571,8 +471,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。
 
 ---
@@ -580,8 +478,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-14 12:41:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。
 
@@ -591,8 +487,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 起飞了，75总能反弹到吧
 
 ---
@@ -600,8 +494,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-14 13:29:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么
 
@@ -611,8 +503,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 韩国看来是要从向下熔断 变成接下来向上熔断
 
 ---
@@ -621,8 +511,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？
 
 ---
@@ -630,8 +518,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-14 23:41:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。 如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。 但这些傻逼都没有考虑进去2年后AI会发展成什么样， 现在AI视频已经可以以假乱真， 俩年后更是不敢想象会进化到啥程度， 如果AI能进化到理解现实物理世界，那它处理的数据全是视频数据， 存储需求的数量级可能是百倍于现在， 要坚信你的存储。 试想一下AI俩年后会发展成什么样，回想过去俩年AI的进化速度和对存储需求的增长速度，不要再扔掉你们宝贵的 #海力士 $SKHYX 了。 AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？ AI使用群体数量俩年后会不会从1B暴增到几B？（使用群体不限于人，包括汽车，包括手机，包括机器人，甚至智能体本身…） AI现在人70%的使用是文字token，俩年后会不会进化到视频影像物理三维视频token输入输出？（这里存储数据量差别千倍万倍。） 这里面的需求差别2年后会是现在的多少倍？十倍还是百倍？ 那俩年后的存储产量增量是几倍？翻倍都撑死了吧？这些傻逼预测师永远不会这么给你算，只会基于现在AI状态误导你。 拿出你们290万韩元梭哈的勇气， 190万韩元都不敢买，真去死了算了。
 
@@ -647,8 +533,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 世界可以毁灭了，累了，就这样吧。
 
 ---
@@ -656,8 +540,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-13 13:00:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这市场谁在赚钱啊，亏了整整一个月了
 
@@ -667,8 +549,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 韩国这帮疯子跳楼了
 
 ---
@@ -676,8 +556,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-13 16:32:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。
 
@@ -690,8 +568,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-11 17:24:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 我觉得只要客户能证明不是自己操作的，平台就该赔，不然我为什么放你这。 如果是支付宝ai换脸，手持验证钱被盗了支付宝赔不赔？ @Gate 你是真牛逼你不赔？没操作所有安全项都开了钱都能丢我钱为什么放你这，有啥安全保障？
 
@@ -707,8 +583,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海公公真垃圾呐，美股一个adr搞得价格纹丝不动。
 
 ---
@@ -716,8 +590,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-10 12:56:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 国内可回收火箭成功了，卧槽，牛逼炸了。 @elonmusk
 
@@ -727,8 +599,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 航天的一次性耗材用件产业链归零， 卫星的产业链用量发射量暴增。
 
 ---
@@ -736,8 +606,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 ## 2026-07-10 14:58:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 密切关注峰哥操作 割肉暴涨， 梭哈暴跌， 希望他今天就割肉，周一暴涨成全大家
 
@@ -747,8 +615,6 @@ kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清素颜视频音频外泄了， 现在AI换脸真可以实现以假乱真， 隐私在这个AI时代异常重要， 再发展下去基本上一套操作下来能突破你所有安全防线。太吓人了这次这事。 被盗资金已经被转移到洗钱地址。
 
 ---
@@ -757,8 +623,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 去年真是满大街的好机会， 当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐， 去年的股票能预期业绩涨十倍股价也能十倍， 现阶段大部分AI红利涨幅被吃完了， 预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。 只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。
 
 ---
@@ -766,8 +630,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-10 23:20:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 对于国内来说，可回收火箭搞卫星通信优势不大，但是商业航天搞全球火箭物流速运，优势极大，高速传输。全球公海上搞一堆火箭接收平台。 满世界火箭发快递。 全球物流的极速传递，国人有机会这么干。 只要每公斤的单价卷到足够低的时候就是物流模式变革之日。
 
@@ -779,8 +641,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这些炒股炒的已经家破人亡了， 韩国估计集体返贫， 再跌10%海力士都跌40%了， 加仓猛干海力士的好时机。
 
 ---
@@ -788,8 +648,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-09 21:49:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 恭喜各位华尔街之狼，存储拉飞了。 存储不起来，其他所有概念都别想起来， 存储起来，说明ai未来光明， 其他概念才有机会，才值得抄底， 康宁 $GLW 就是。 傻逼只会喷不会懂这个底层道理。
 
@@ -803,8 +661,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 韩国股市天天这么暴涨暴跌， 韩国人能睡得着才怪，怪不得睡眠少。 我他妈拿着海力士正股都要被搞疯了。
 
 
@@ -816,8 +672,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-08 15:18:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 涨的时候一个一个大力士， 跌的时候张口闭口海公公。
 
@@ -831,8 +685,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 韩国为了不让港股这个2x吸走资金， 疯狂发行了十几个2倍做多etf， 全部破发， 韩国人大多数都上杠杆买的杠杆etf😂 本来是韩国人的狂欢， 现在韩国股民集体亏麻了。
 
 
@@ -844,8 +696,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-08 17:44:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 有朋友刚在@Gate 被盗了170万美金， 账户资金被提空了，百分之百真实， 注意资金安全。
 
@@ -860,8 +710,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-08 18:04:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这是正主@Gate @jheioff 查一下这个盗币怎么做到的， 我本以为有了谷歌验证已经是天下无敌， 查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。
 
@@ -881,8 +729,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 活过来了，终于反弹了，韩股总不可能天天熔断吧。 AI总不可能不搞了吧。 机器人和agent都是半吊子智障阶段。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJWpOWuQxJDMGqIVoDgKEpYMUT1wiAAL8D2sb_fR4Vg6ueQABnmqFmgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -894,8 +740,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-08 21:50:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 明天看来海公公要硬起来了。
 
@@ -909,8 +753,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 在海力士adr的sec文件中， OpenAI 股神 Leopold的基金Situational Awareness，准备认购70亿美金的海力士
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFv2pL8PzY-TNyNdcvGMNxtmQZGbqbAAKEEmsbmMRYVljuJ544yjKOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -922,8 +764,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-07 14:28:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 今天应该是跌到位了， 美光跌到了918美金， 海力士跌到了1400美金左右。 跌的这些后上车跟风存储的人都折磨的 绝望离场就是新的开始。 美股韩股的特点股价涨幅得跟财报匹配
 
@@ -939,8 +779,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 韩国股市涨熔断的时候坚决不买， 跌停熔断韩国人都吓死了抓紧买
 
 [查看原文](https://nitter.net/xiaomustock/status/2074380412240228648#m)
@@ -950,8 +788,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 ## 2026-07-07 15:58:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 牛市之中各个都是股神，买了不动你比股神还像股神，觉得自己顺极了，跌的时候才能知道自己啥逼样，天天恨不得自己是未成年。
 
@@ -965,8 +801,6 @@ gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awareness Partners 三方合计70亿美金
 
 [查看原文](https://nitter.net/xiaomustock/status/2074417712261169223#m)
@@ -977,8 +811,6 @@ R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awarene
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 抄底被活埋跌服跌懵逼了，亏的麻麻的今天
 
 [查看原文](https://nitter.net/xiaomustock/status/2074500941899030867#m)
@@ -988,8 +820,6 @@ R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awarene
 ## 2026-07-07 22:40:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 心脏疼，感觉像得了恶疾
 
@@ -1003,8 +833,6 @@ R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awarene
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 7月地狱难度，跌这么惨反弹这么弱
 
 [查看原文](https://nitter.net/xiaomustock/status/2074026186599280750#m)
@@ -1014,8 +842,6 @@ R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awarene
 ## 2026-07-05 03:30:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 再整体记录一下上半年成功的操作。 $MRVL 爆拉前156刀推荐，35天最高329。 $MU 爆拉前118刀推荐，10个月最高1255 $LITE 爆拉前97刀推荐，10个月最高1085 $COHR 爆拉前164刀推荐，7个月最高440 #海力士 年初75万韩元推荐，6个月298万韩元 #中韩半导体 年初3.2推荐，6个月最高7.1 #五一世界 4月份47推荐，2月最高147 #2x海力士 年初23推荐，6个月最高193 $ewy 年初120推荐，6个月最高220 $DRAM 29美金推荐，3个月最高81 $GLW 康宁215推荐，7天最高271 除了上面所有， 今年买过最烂最失败的俩个就是港美互联网和nok，毕竟如果买的全暴涨那跟开挂有啥区别，有亏有赚才正常毕竟买的是股票不是玩的资金盘。 从半年前推特上没有几个中文推做股票， 到现在人人基本上做股票， 至少绝大多数人提前半年了解到存储应该我这个推特今年最大的意义。 这过程中有各种生物多样性的傻逼诋毁和嘲讽，2/3月份几乎拉黑屏蔽了所有我能刷到的看空存储的推，但这半年也有非常多朋友一直支持。努力让那些傻逼显的更傻逼。 人生得不断的承认错误，修正， 再对变化作出改变， 无尽重复，才能进步。 而不是顽固的固执己见， 汉语有关博大精深的词， “观点” 并不是简简单单的看法，古人构词的时候真实想法应该是某一刻或者某一点的看法才叫观点。具有很强的时间点特征，不可能像物理定律一样，永远有效。 投资或者炒作都是基于“观点”这个词， 看到变化推出另外一种变化的方向来投资交易，非常具有时效性，而时效的长短跟变化本来的长短也直接挂钩。AI带来的变化则非常久远，但肯定也有对应的时效。 所以市场流传这样一段话 “要么早信要么坚决不信， 先信卖后信” 每次下撤暴跌亏惨的要么是信最晚的， 相当于49年入国军，溥仪下台入宫当太监。 要么是杠杆打满的，看得再对也承受不住市场的跳动。 做交易只能负责，所以非常厌恶别人问能不能买要不要卖，只想关心自己买没买啥时候卖。自己没有的也不想关心。 回归务实还是多关心关心家人和朋友。 希望老板们未来能看到一个更强的自己。
 
@@ -1037,8 +863,6 @@ R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awarene
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 三星7.7财报
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFdmpKfe_Gh0phbhM4QLg5AcwLhPrhAALQE2sb9e9QVkZch2CcyxzLAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1051,8 +875,6 @@ R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awarene
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 meta先发智能体进度不及预期，这俩天阿里和抖音又下架智能体服务，可能是觉得AI没到agi的话，强行投钱研究智能体意义不大。因为最终干活还是ai。 到了agi，自动全都是智能体。 agi出来，可以agi开发智能体。 meta砸几十上百亿美金都搞不出来啥进展，所以其他人直接也不想折腾了。
 
 [查看原文](https://nitter.net/xiaomustock/status/2073274662549848494#m)
@@ -1062,8 +884,6 @@ meta先发智能体进度不及预期，这俩天阿里和抖音又下架智能�
 ## 2026-07-03 00:50:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 我申请未成年人退款
 
@@ -1084,8 +904,6 @@ meta先发智能体进度不及预期，这俩天阿里和抖音又下架智能�
 ## 2026-07-03 02:11:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 v
 
@@ -1137,8 +955,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这波带杠杆的死了很多人， 美股分歧越来越大了， 小扎这波直接把AI干碎了。 活下去才有机会，仓位管理比买对啥更重要
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1171,8 +987,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 昨天吓傻了，幸好海力士没跌。 正股跌成这逼样了还能怎么跌。 但2x千问别搞，不懂溢价和净值的要吃大亏
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1195,8 +1009,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 能健康的管理自己仓位已经赢过绝大多数人 即使买对215刀的康宁 $GLW ，如果上杠杆在2x康宁或者正股也上杠杆，昨天一来一回可能人没了。 但是康宁玻璃基板目前是英伟达robin以后芯片的唯一解决方案。 目前因为发热严重导致基板翘曲，无奈把gpu4颗改为俩颗，hbm4e从16组改为8组。 但英伟达还是会不断迭代更强更先进的芯片，堆叠更高的芯片层数，那么按照现有的基板会导致更为严重的发热翘曲完全无法使用。 只能快速推进玻璃基板的方案才能解决。 这都需要时间，但是时间在被加快，最快可能明年年底就能见到规模应用。 高端芯片里玻璃基板的完全垄断，成本敏感度低，为了更强悍的性能，堆叠更高的层数，唯一解能卖出更高的溢价。 一旦大规模量产使用，康宁的价值会被完全挖掘。现在对于傻逼散户来说，涨了就是对，跌了就是错。只能对这些傻逼笑呵呵。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFI2pHLAGpPGWDem3OLeGfXBFwxQThAAJpEGsbg2VBVk5jp9BtKmEFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1213,8 +1025,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 韩国指数涨停熔断了。海力士涨9% 夜里抄koru的估计发死了。不仅没跌停，还反向涨停。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFKWpHSRHbkYLFl4g5wBCWTBtO4RFwAAKSEGsbg2VBVuqQ7A-NtKNMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1229,8 +1039,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 有花堪折直须折，莫待无花空折枝。 挥霍和珍惜都是同一件事情， 不舍得也是一种浪费， 在心动热爱的当下，大胆的去享用， 真正的珍惜不是供奉， 而是让美好的事物参与我们生命的流动。 你们要学这个秃头，能干妹子的年纪抓紧干妹子。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE9WpGPDgruoSviM--WZt4AVZzE0mXAALEEGsbg2U5Vn-yBCtNtcJMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1241,8 +1049,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海力士我是正股没有杠杆，跌成这逼样只能装死了。正股今天都回撤2m太几把惨。
 
 [查看原文](https://nitter.net/xiaomustock/status/2072576421449646285#m)
@@ -1252,8 +1058,6 @@ v
 ## 2026-07-02 14:28:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 韩国人小孩已经生了，塞不回去，好大一盘棋😂 买房贷款已经下来了，但是股市跌的贷款还不上，房子得被拍卖收回去。
 
@@ -1267,8 +1071,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天亏的上街要饭了， 因为起不来，要不了早饭。
 
 [查看原文](https://nitter.net/xiaomustock/status/2072566598385504509#m)
@@ -1278,8 +1080,6 @@ v
 ## 2026-07-02 00:01:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 画重点，韭菜交易员， 所以爆赚爆亏都别赖我，毕竟没收任何人钱，我也决定不了几千亿美金股票市值的走向。另外那些说看我买的亏的亏了喷我的，你爸妈说话都不听，我说话就听你了？ 另外康宁 $GLW 我215发推特的，快速涨到270。 #海力士 年初推荐到现在拉了3倍 先信卖后信，要么早信要么别信，半路信亏钱活该你傻逼。 我又不是庄家特朗普决定不了行情走向，巴菲特要是赚了笑嘻嘻亏了mmp可能现在穷的上大街要饭了。
 
@@ -1295,8 +1095,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 现在市场还啥短缺卡脖子？ 缺钱？
 
 [查看原文](https://nitter.net/xiaomustock/status/2072320695070347276#m)
@@ -1304,8 +1102,6 @@ v
 ## 2026-07-01 21:35:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这一条新闻把整个AI链条的股票全干死了
 
@@ -1317,8 +1113,6 @@ v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Meta Platforms(META.O)盘前迅速拉升，现涨超5%，消息称其正在出售富余的人工智能算力资源。 (来自金十数据APP) 这新闻特么，算力不缺了？ 英伟达老黄的没完成订单总不能假的吧mmp
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1328,8 +1122,6 @@ Meta Platforms(META.O)盘前迅速拉升，现涨超5%，消息称其正在出�
 ## 2026-07-01 20:36:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 今天有个新etf上线， $KMEM ETF单仓 #SK海力士（41.53%） 为绝对第一大重仓； 美光 $MU （19.85%）， #三星（18.81%）次之。
 
@@ -1341,8 +1133,6 @@ Meta Platforms(META.O)盘前迅速拉升，现涨超5%，消息称其正在出�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天想到一个问题，未来是属于AI的，那为啥AI产业链股暴涨路上还会有暴跌， 大概是市场在调节涨幅去跟它的季度营收或者数年内的预期营收做匹配。 就像草原上骑马，虽然马儿在狂奔，但实际奔跑过程中你一直在来回拉缰绳调控它的节奏，跑累了你还得给它一口草吃。
 
 [查看原文](https://nitter.net/xiaomustock/status/2072255800974930315#m)
@@ -1350,8 +1140,6 @@ Meta Platforms(META.O)盘前迅速拉升，现涨超5%，消息称其正在出�
 ## 2026-07-01 15:18:17
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不同，采用的是不设价格上限的独特合约架构。
 
@@ -1363,8 +1151,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 持有康宁 $GLW 要强大的耐心，2年十倍。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1374,8 +1160,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 ## 2026-07-01 00:51:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 康宁跌的亏麻了
 
@@ -1609,8 +1393,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 可惜没有钱往 $LRCX 和 $AMAT 上分配，这俩半导体设备巨头都拉了10%
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYWpCIOO2iOK_ZXffXG_BoDJriOxSAAKXEGsb3DwZVi3hciuDieAvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1624,8 +1406,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 ## 2026-06-30 00:24:36
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 看来 康宁 $GLW 取代年初海力士的置顶，能挂置顶挂说不定一年。10倍扩产就是10倍业绩暴增，大把的沙雕机构和散户被爆拉起来才能后知后觉这个康宁 $GLW 机会。
 
@@ -1641,8 +1421,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 想再加仓点海力士，奈何仓位已经都打满了， 现在想买啥都买不了，昨天想买点芯片半导体设备的2x，忍住了怕杠杆出啥事也没搞。 现在被动成了康宁 $GLW 和 #海力士 躺平了 美股的三个芯片设备刚开始涨， 应用材料 $AMAT 科磊 $KLAC 泛林 $LRCX
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEj2pDStAqb7b2tAlZo6jXgbSAeQ1NAALeD2sb3DwhVqLDTDS8ISvgAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1654,8 +1432,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 ## 2026-06-30 12:36:24
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 康宁 $GLW 真是涨的无敌寂寞！262刀了. 5000亿市值也就600刀左右，对英伟达写明面上合作扩产10倍的康宁来说业绩翻10倍远远不止600刀这个价，期待市场不断的后知后觉涌入，尤其是大机构，他们早晚会根据此给更高的康宁评级。
 
@@ -1671,8 +1447,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 明年HBM存储会再次挤压消费级dram市场， 因为英伟达必须持续增长，英伟达对于所有AI公司来说它的业绩不能出点点点问题，包括美国政府也不允许。 但是美光几乎不可能进口长鑫存储的dram，只有三星海力士能绕开限制，因为国内扩产的速度快，dram产能提升快，明年很大概率发生的事情就是三星海力士高价买长鑫的dram回来在韩国造hbm4e，再供货给英伟达。 不过这中间肯定会发生很多额外的屁眼交易才可能成功。 只要英伟达的业绩能翻倍增长那么存储价格就很难下来，如果明天这些都发生，那么三星海力士的hbm4e份额会大幅扩大，远远甩开美光。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkWpDWVnkn-_irwldITMTCp5BrxNQAAIJEGsb3DwhVqrVi7fL9GxxAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1684,8 +1458,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 ## 2026-06-30 13:41:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 从股权和人事关系上看， 万润科技于长江存储， 很可能相当于 兆易创新于长鑫存储。 老板们可以研究一下，A股我也玩不明白。
 
@@ -1699,8 +1471,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 物理AI被英伟达 $NVDA 反复提，但真正意义上的物理AI难找，文本AI都搞不赢的公司不可能搞赢物理AI。可能物理AI需要投入的资金体量要远大于文本AI。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkmpDYJlMRPnhVxvWB5kirYgfDN-GAAIsEGsb3DwhVmdH9l08YT9cAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1712,8 +1482,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 ## 2026-06-30 14:19:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 物理AI很可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。 物理AI的数据采集就是天量的资金， 物理AI需要的存储卡也是天量级别，因为大部分都是视频数据， 物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。然后复刻文本AI节奏后期进入推理卡重新主导。
 
@@ -1727,8 +1495,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 普通人能参与到机会大概率不是物理AI， 很可能是专门做物理AI数据采集的公司， 物理AI数据需求量和需求方的资金规模会给这类公司很高的安全感。
 
 [查看原文](https://nitter.net/xiaomustock/status/2071844105148317910#m)
@@ -1739,8 +1505,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 影视行业是AI完完整整灭掉的第一个行业， 从导演，编剧，演员，特效等等，上上下下全部完完整整的干死。
 
 [查看原文](https://nitter.net/xiaomustock/status/2071846825792094556#m)
@@ -1750,8 +1514,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 ## 2026-06-30 19:38:27
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 芯片的设备厂应该才刚刚开始， 存储三家公司赚的1/3可能都要流向这三家。 科磊 $KLAC 应用材料 $AMAT 泛林 $LRCX
 
@@ -1769,8 +1531,6 @@ SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT 全部爆拉，做人做事首先要相信自己， 自己给自己洗脑， 自己都不信怎么可能拿得住呢。 大不了错了再改。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmmpD1LYK_oyISxjqlZNZvB7ggRZ7AALZEWsbitEhVtJrRvPX5_QJAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1787,8 +1547,6 @@ $康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT 全部爆拉，做人�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力，而且他们几乎不会随意操作，会拿非常久。指数调整的周期特别长， 散户购买指数都会被动买入。 也不存在小票被大户或者kol或者公司管理层操纵涨跌的情况，没有散户互割踩踏。 也能上大仓位。 持仓体验大部分非常舒服。
 
 [查看原文](https://nitter.net/xiaomustock/status/2071962108586344859#m)
@@ -1798,8 +1556,6 @@ $康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT 全部爆拉，做人�
 ## 2026-06-29 10:59:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这人非常符合想象中韩国投资者的精神状态
 
@@ -1812,8 +1568,6 @@ $康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT 全部爆拉，做人�
 ## 2026-06-29 15:24:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 问ai如果把日本韩国美国台湾欧盟的半导体设备龙头股组合成一个etf，取10个股票，如何组合，最好跟存储芯片的扩产路径相关的设备。 设备采购顺序一般是： 前道设备（刻蚀→薄膜沉积→清洗→检测→光刻）→ 后道封装（HBM）→ 测试 因此ETF应该偏重刻蚀、沉积、清洗，而不是EDA或晶圆代工。 1. $LRCX 20% 2. 8035.T 18% 3. AMAT 15% 4. 6525.T 10% 5. 7735.T 10% 6. http://ASM.AS 8% 7. 6857.T 8% 8. 042700.KS 5% 9.ASML / http://ASML.AS 4% 10. 8036.T 2% 核心逻辑： 重仓顺序： 刻蚀 > 沉积 > 清洗 > 测试 > HBM封装 > 光刻/检测 最核心三只： LRCX、东京电子、AMAT 最贴近HBM后道： Advantest、Hanmi 最贴近DRAM/NAND前道扩产： LRCX、东京电子、AMAT、Kokusai、SCREEN
 
@@ -1829,8 +1583,6 @@ $康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT 全部爆拉，做人�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， 这些etf都能涨停真是万万不可能想到。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEZmpCNrAAAcaRa-13RWSxishVFe9HWAAC0xBrG9w8GVZRjvtAEcFhvAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1843,8 +1595,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 想到一个问题，这几天看到英伟达190低估，20倍市盈率，按照每年几乎100%的增速，明年就是10倍市盈率。但是英伟达想实现100%增速，那么就要搭配double的hbm，那么就需要双倍的消费级dram去造hbm，但是明年存储还是没有新增产能，这个局面最终会怎么样？ 我猜测可能路径是明年某个时刻三星海力士找长鑫进口dram，然后再在自己家工厂封装成hbm4e。因为英伟达不可能直接用长鑫造的hbm，技术和国情都不允许。
 
 [查看原文](https://nitter.net/xiaomustock/status/2071591106803118442#m)
@@ -1855,8 +1605,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 存储炸了，天塌了一半
 
 [查看原文](https://nitter.net/xiaomustock/status/2071597838673555925#m)
@@ -1866,8 +1614,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-29 22:32:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 还是康宁牛逼， 刚把我自己的 $asx 剩的一点都卖了换成康宁 $GLW 。 现在50% 海力士正股，50%康宁
 
@@ -1880,8 +1626,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-29 22:57:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 买康宁这几天虽然没挣钱但刚好躲过暴跌， 康宁 $GLW 硬的非常不正常 。
 
@@ -1897,8 +1641,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 来了蓝v评论，评论区虽然没有了钓鱼号，但出现了大量的ai评论的蓝v号。 准备开始把yisiai评论的ai号都屏蔽掉。
 
 [查看原文](https://nitter.net/xiaomustock/status/2071612133197087030#m)
@@ -1909,8 +1651,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 希望评论区能发一些有见解的评论和提供一些有价值的信息。 否则都会屏蔽，瞎几把水和流量于我没啥意义。
 
 [查看原文](https://nitter.net/xiaomustock/status/2071612729169998170#m)
@@ -1920,8 +1660,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-29 23:22:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 眨眼功夫康宁 $GLW 又拉了10%，240刀， 康宁最大的魅力在于未来的确定性。 英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！ 这是英伟达 $NVDA 给康宁的定心丸。 这还只是在玻璃基板没火之前的事情。 自玻璃基板和玻璃桥出来后，康宁的投产后估值可能远不止10倍，那就是远超2万亿美金 按照康宁官方的10倍扩产时间表，完成时间在2028年前后。也就是2年左右的时间赌一个10倍爆拉，非常划算。
 
@@ -1939,8 +1677,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍， 只能说明市场里的傻瓜太多了， 英伟达合作扩产10倍=康宁业绩*10倍。 这都没有被机构冲烂冲爆炸。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdGpClSZ5itnNkhGPsXpbWVoDiuubAAI9Emsb3DwZVhF1i1k3LfgGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1955,8 +1691,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 现在看来 康宁 $GLW 是英伟达接下来的芯片散热必选项。芯片越堆越厚，玻璃基板成了唯一解决方案。而未来康宁的产量会直接决定英伟达的产量，如果康宁不扩产，未来英伟达的芯片就没法迭代更先进的版本，因为传统基板满足不了后续新一代AI芯片的散热问题。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEQWpAJEQCXDQe93DlZMTquiWWXgKCAAKDD2sb85EAAVZCDm8xefEKuwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1968,8 +1702,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-28 13:05:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这是年初写的对去年的交易体会总结， 能未来替代目前全AI行业抽水机存储地位的，可能就是康宁的这个集成了光纤光通信的玻璃基板。 不过没有发生百亿美金规模级的利润前人们还很难确定，我也是。 只是从黄仁勋让康宁扩产10倍，那么肯定对应着未来英伟达十倍以上的需求。 说明在投产放量后会发生10倍以上的需求暴增，这跟存储发生的事情有点点像。 如果未来某一天发生AI的某细分行业数倍增速百亿美金级别的规模利润，如果还拥有极高护城河极少竞争对手，那值得瞬间梭哈 。 现在阶段只能猜，但最终会百分之一万有这么一天，至于哪个细分则不可知。
 
@@ -1983,8 +1715,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天也算是半年过去，对自己上半年的惨痛交易也做个总结， 1.尽量买标品生意能流水线生产的或者互联网能直接复制产品的公司。 诺基亚这一俩个月俩回没啥起色，可能就跟它非标品的生意模式有关，基站啥的只能靠人力一点点干，搞土地搞关系搞人力搞供应链，苦力生意。 2.尽量买护城河极高，能参与公司极少的垄断公司垄断行业，湖南裕能这些就是对手多，无脑扩产的太疯狂，很难形成自己稳固的定价权。 3.自己没法掌控它实时仓过往业绩也不是特别好的etf或者lof少碰。当时5月初选港美互联网lof这个标是因为它持有美光和闪迪。如果基金经理完全按照一季度持仓加仓，则后续理论上表现会非常夸张，毕竟美光和闪迪在6月都涨了快50%，但真想不通这个傻逼经理在秀什么几把操作，后续价格走势完全跟美光和闪迪无关联。简直是盲盒交易。远不及中韩半导体这种etf持仓稳固，几个季度过去一直高比例持有三星海力士。 4.最重要最严重的错误，融资上杠杆。 差点在3月份爆仓死掉，2x海力士和ewy都暴跌差点没熬过去。以后再不去买超过自己本金的资产，顶多在自己本金范围内购买2x扩大上升周期的收益。 最沉痛的教训，当时3月的暴跌不仅吞噬了我1/2月份的收益，还直接巨亏打到了接近失去上桌的机会。 后续市场肯定还会有类似的波动， 比如真的加息来临， 比如市场承受不住大把的AI公司发债融资， 比如存储高价可能大幅抑制消费端需求，造成需求减弱，或者存储后期大幅度扩产引发降价等等。 总之市场会在我们意想不到的方式来一个黑天鹅来摧毁杠杆投资者，一俩个月风声过去，股市继续歌舞升平，全场新高，但与你无关。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIESmpAvNrHIDL3jtRZcs-wesmq6PFWAAISEGsb85EAAVYDFZ4-n11Z6AEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1996,8 +1726,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-28 16:46:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 存储的地位一年内都难以改变， 安心等海力士7月23号发的1300亿美金的季度利润财报。 美光难料，但 #海力士 绝对没问题。 这些大公司云厂的借债和融资都是为了给存储送钱。要么生要么死，没有存储产品和服务就没法提供，这俩年产能就这么多。 即使是国内长鑫长江一样是满产。
 
@@ -2011,8 +1739,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 谷歌限制了meta对gemini模型的使用需求。 这还不能证明AI基建还非常早期吗， 供不应求，AI的发展速度远超基建速度。 这些大公司是看到了产品狂暴的需求端可能才大举借债融资搞AI基建。 并非是没有转化成收入， 对谷歌来说都开始因为需求暴限制客户使用了， 咋可能没转化收入。 我们这些普通人都是小虾米，可能远远看不清未来的真相， 但自己看不见可以相信黄仁勋看得见，谷歌看得见，美光ceo看得见，三星海力士老板看得见，群联的那个ceo潘健成也非常非常有眼光和远见，我从去年到今年一直看他的存储相关的言论，他的思维和眼光特别超前。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEVGpA9vu8kMeRU0SjFWwh1joKOI_IAAJxEGsb85EAAVZe2kcAAXyaYWsBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2024,8 +1750,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-28 18:23:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 群联ceo在年初就预言下半年因为涨价或拿不到存储的消费电子公司会倒闭，比如那个运动相机鼻祖gopro已经因此倒闭了。 一切都在逐步印证他的想法。
 
@@ -2040,8 +1764,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-27 01:55:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 跟AI聊了一会，对康宁 $GLW 的未来越来越有信心。 相当于康宁未来的市值=现在abf载板市值+cohr/lite这些cpo市值总和。 正儿八经三年后的万亿美元公司，康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。
 
@@ -2063,8 +1785,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 美股即将上线海力士的2x杠杆etf $SKUU 做多 $SKDD 做空
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEK2o_SgyGIA43IWHUl2nMvKL7yS7fAAKpD2sbrrv4VbdT4NyqgwgaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2076,8 +1796,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-26 11:02:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 又全崩了，康宁 $GLW 和日月光 $ASX 硬气，海力士正股跌的有点麻。 市场现在慌得一逼， 涨了慌，跌了也慌， 我也慌。
 
@@ -2093,8 +1811,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 充分证明了一点，找男女朋友一定不能找韩国人，韩国人的情绪无时无刻都处于暴怒爆喜来回跳跃。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEBmo99ItCPYQSGwEEmfFkobLZt9igAAKVDmsbrrvwVUl0cCsYRrBPAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2107,8 +1823,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 存储三家海力士三星美光合起来市值应该要比英伟达值钱。 三家可以不造hbm直接卖dram， 但英伟达不买hbm，营收就归零了。 话语权更大的一方应该享受更大的市值。
 
 [查看原文](https://nitter.net/xiaomustock/status/2070457449300348980#m)
@@ -2119,8 +1833,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。 对英伟达刚开始利空，长期也是利好，因为现在的英伟达是存储的搬运工，存储降价的时候，英伟达的产品不一定降价，利润也会暴涨，这也是这一年多英伟达不涨的原因。
 
 [查看原文](https://nitter.net/xiaomustock/status/2070458526225563910#m)
@@ -2130,8 +1842,6 @@ a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， �
 ## 2026-06-26 19:28:02
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。 所有的脏活累活AI机器人干， 所有复杂耗时的脑力活动AI干， 现在的agent还很弱智。 现在的AI也没有普及进入每个人的生活， 你们现在所从事的工作没有被AI取代， 说明AI的泡沫破灭还路途遥远， AI都还没理解物理世界， 只在文字层面和虚拟空间挣扎， 跌一跌的很正常， 真到哪头满大街的机器人外卖员， 机器人服务员，机器人厨师， 所有的科技创新，创意，AI最终都会比人类干的更好，但现在远远没有， 等吧，泡沫最起码也是agi来临后。
 
@@ -2145,8 +1855,6 @@ AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 现在确实是AI非常早期的阶段， 大厂之所以巨额投入， 就是想通过自己海量的算力，海量的存储， 抢先干出AGI时刻， 那就是赢家通吃的时刻， AI瞬间席卷摧毁变革所有行业， 赢家会成为人类有史以来市值最庞大的公司 你不投入不卷算力卷内存卷人才，那么你最终突破的几率就比别人少一点， 一旦突破的不是你， 那市场最终只有1和0。 为啥国内的智驾汽车卖不到美国， 跟特斯拉满血fsd比它就是1，其他就是0。 即使有人买也是美国底层傻逼实在是太多，智力分层严重。 我们此刻的恐惧，担忧，都受限于我们的想象力。老黄让康宁扩产10倍，总不能还没扩产AI没了，你聪明还是老黄聪明，你有远见还是老黄有远见。 他之所以提前让康宁扩大10倍的产能就是不想再未来下个阶段的产品重蹈存储三巨头的覆辙。康宁在英伟达下个阶段产品中对老黄太重要了。
 
 [查看原文](https://nitter.net/xiaomustock/status/2070471746512429241#m)
@@ -2156,8 +1864,6 @@ AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破�
 ## 2026-06-26 19:44:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 而且即使一旦发生AGI时刻，这些大厂原有购买到的存储卡算力卡也都会瞬间变成恐怖的印钞机。 人们觉得泡沫觉得要到头了， 是因为AI发展俩仨年了，人们还没有见过真正意义上能取代他们生活工作的超强AI，只觉得依照这种目前的Ai状态只能停留在手机电脑的聊天框里，他们似乎没有多大的价值。 这是对AI太弱小的嘲讽。
 
@@ -2169,8 +1875,6 @@ AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连网那种是个程序员都能干的。 你会敲个代码，能买个域名，自己就能捣鼓个网站干互联网产业。 AI你没有千亿万亿资金，什么也做不出来， 而拥有这个水平资金玩得起AI的，全球合起来都没多少家。 真正意义上的玩家俩只手数得过来。 所以赢家的范围非常小。
 
 [查看原文](https://nitter.net/xiaomustock/status/2070475253793652956#m)
@@ -2181,8 +1885,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 马斯克也说产量和需求之间有巨大鸿沟， 马斯克的规划要非常庞大的存储量，除非马斯克上手自己造存储芯片，不然它的几个业务都不挣钱买不起海量的存储。
 
 [查看原文](https://nitter.net/xiaomustock/status/2070525636251468136#m)
@@ -2192,8 +1894,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-25 10:31:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 按照美光财报利润280亿算， 海力士q2利润=280*2+740=1300亿美金 海力士二季度经营利润560亿美金， 财报利润1300亿美金， 这他娘的美光财报太好了，踏空了
 
@@ -2207,8 +1907,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这波太菜了，2x海力士踏空了，正股没踏空， 正股284万韩元接回来了 本来想美光业绩不及预期跌个大的， 这下搞的2x不敢买了，这次给机会低价20%没中用。太贪心了想跌更多。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDz2o8l4tVO8UIEZFu4hkqg5wKjLb2AAKPE2sbQ-XhVUfki9UV4-s5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2220,8 +1918,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-25 11:33:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 刚继续加仓了康宁 $GLW 和日月光 $AXS 台积电，三星，英特尔三家都开始密集提到玻璃基板，康宁在光纤和玻璃基板都有垄断优势。 日月光近期提价，今天盘后暴涨夜盘暴跌，买的还能更便宜点了。 各搞了一样多，就看以后哪个能更赚钱点。 相当于把2x海力士的钱换成了康宁和日月光，留了正股海力士。
 
@@ -2235,8 +1931,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 我喜欢玩这些千亿万亿美金的大市值股票。股价很难被操纵， 这种股票全市场都没有多少人能影响其价格走势， 完全按照业绩和市场预期在驱动。 普通人更不可能操纵和影响他们的价格。 拿着睡觉踏实。
 
 [查看原文](https://nitter.net/xiaomustock/status/2069994083666518412#m)
@@ -2246,8 +1940,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-25 12:42:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 人这生物真是犯贱， 亏了难受，少赚了也难受， 踏空了也难受， 其实啥都没变。 心态要是能变成万事万物波澜不惊， 那就牛逼了， 不过人味也没了。
 
@@ -2259,8 +1951,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 昨天开心是因为没在车上， 今天难过也是因为没在车上。😂 本来想睡个好觉最重要， 今天又想着昨晚4点钟财报发的时候没睡觉多好😂
 
 [查看原文](https://nitter.net/xiaomustock/status/2070009036607832372#m)
@@ -2270,8 +1960,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-25 13:29:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 海力士正股296万韩元，剩5000股， 再卖剁手了
 
@@ -2285,8 +1973,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海力士2x新高了，悔恨的泪水夺眶而出😭
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID1Go8wyQ1XALcyPnyLSm1JB1MMW58AAIwFGsbQ-XhVQU3Lyr6OsUSAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2298,8 +1984,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-25 14:28:38
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 努力给自己说，没有2x海力士就当再一次降低杠杆了，拿着正股风险小， 而且康宁 $GLW 也非常好，涨了2.5%😂
 
@@ -2313,8 +1997,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 玻璃基板，康宁 $GLW 光纤，康宁 $GLW 玻璃光学互连CPO，康宁 $GLW 英伟达投资扩产，康宁 $GLW 康宁 $GLW 简直是下一代AI算力的底座，中了狗屎运。 黄仁勋也是190买的， 长个俩三倍到个5000亿美金不过分吧。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2327,8 +2009,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 下一代AI芯片用玻璃基板代替pcb，康宁是专业的， 下一代AI芯片pcb要换玻璃基板，康宁是专业的， 下一代电互连要换光互连，康宁是专业的， 康宁 $GLW 在玻璃这一块有无与伦比的话语权。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2340,8 +2020,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-25 15:44:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 至于日月光半导体 $ASX 可以当成1000亿市值的小号台积电 $TSM ， 想象力无比夸张，也进入了供需紧张的提价周期。 现在手里就3个股票 #海力士 $GLW $ASX 别的没了，海力士正股占1/2，glw和asx各占1/4
 
@@ -2357,8 +2035,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 康宁 $GLW 很硬气，刚普跌下去立马拉回来了。这俩天硬的离谱，该脆康宁改名 巨硬，对标微软。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID8Go9PuYTTGPxIyKGGrvttP0Y8vSiAAKyFmsbQ-XpVWEggTVcDtUzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2371,8 +2047,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 英伟达投资的玻璃基板和光纤双龙头的康宁 $GLW 盘中爆拉10%到213美金。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDwmo78G0HUuLsjGEzCRP8VtP3hfR5AAKeEmsbQ-XhVakE4grXVnWuAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2384,8 +2058,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-24 23:07:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 小仓位1/7追了一下日月光半导体 $ASX 和康宁 $GLW 日月光是市占率最高的封测厂最近又提价。 康宁是玻璃基板和光纤俩个炒作概念的龙头，之所以买这俩是因为日月光营收利润增速跟康宁一样，市值日月光是康宁的一半，我想看看拿一段时间在业绩增速一样的情况下到底哪个会更强。 市值差异也可能跟康宁没啥竞争对手，康宁的市值包含了一部分“技术溢价”和“垄断性护城河溢价”，市场愿意为这种可预期的、低竞争性的增长支付更高倍数。
 
@@ -2401,8 +2073,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这节骨眼买股票真要勇气，刚买完立马亏。 AI说美元指数上涨有加息预期。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDxGo7_vWd-KrwwGOQXn25z7x9ivd2AALAEmsbQ-XhVWeWfqR4umdNAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2417,8 +2087,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这个信号挺危险，说明美版云厂和AI公司巨额的投入没有带来AI消费端产品明显的代际差异。等韩国熔断我再回来，很多天没熔断了。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDdWo57DcgRbltFwzSptand1IfwkZEAALfDWsbMUvQVatfEPEe-4dUAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2430,8 +2098,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-23 10:51:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 韩国人极端呐，真几把又跌熔断
 
@@ -2445,8 +2111,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 我对上半年很知足， 所以下半年只追求能睡得着的操作， 或者操作了以后能睡得着， 总之得睡得着😀
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDimo6SocJj3E9V83o3lzcIxtvTdXgAAI8D2sbMUvQVeH9jQVKRBO7AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2458,8 +2122,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-23 20:43:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 现在都知道 $SPCX 的业务了吧， 可回收火箭， 发射出去还能收回来， 不炸的话还能再发射出去。
 
@@ -2473,8 +2135,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这帖子的评论区当时的嘲讽声好大， 差点盖过了我的意志。 全都在说我“搞笑吗？” 兄弟们帮我嘲讽回去
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC0GoymE5nEapMQG7Y90Z_Vd1k-8ZWAAIBEGsbC5-YVX0M3QpzPbljAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2487,8 +2147,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这下子真踏空了看来😂
 
 [查看原文](https://nitter.net/xiaomustock/status/2069425706694774806#m)
@@ -2499,8 +2157,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海力士美股adr很接近了， 机构资金都会提前买， 配合炸裂的财报， 要么adr前就翻倍， 要么adr后再翻倍。 所以涨跌根本不慌。
 
 [查看原文](https://nitter.net/xiaomustock/status/2068851864490381689#m)
@@ -2510,8 +2166,6 @@ AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连
 ## 2026-06-21 15:08:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 现在海力士276万韩元，距离390万韩元重估市值还有50%空间，这一段市场重估的钱会在45天内给捏住海力士的人。美股adr上线之日就是重估完成之时，机构不会给散户太多利润空间，就跟他们操作新股ipo一样，吃到极致的估值再卖给散户。
 
@@ -2531,8 +2185,6 @@ AI不需要折腾太多瞎搞，只需要🤏捏住AI的蛋蛋。
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 年初当时等待的海力士adr美股即将要来了，
 进美股放大承接市场，
 海力士真正的疯狂！
@@ -2548,8 +2200,6 @@ HODL！
 ## 2026-06-19 01:43:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这是特朗普和伊朗签的合约。
 把这俩图片放到gpt或者gemini中翻译时，
@@ -2572,8 +2222,6 @@ HODL！
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海力士今天又是6个点，
 啥也不用研究，
 啥也不要做，
@@ -2593,8 +2241,6 @@ HODL！
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这条推特当时挺火，
 可惜没几天特朗普打伊朗干趴了一个月，
 不过价格海力士都翻倍回来了，
@@ -2613,8 +2259,6 @@ HODL！
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 市值上万亿的公司不管在哪个市场，就算再利空都不会跌太多的，他们都是要做各个指数的核心持仓的，不会有太大波动。
 所以别看说 $spcx  市值太大了太虚就觉得可能跌特别多，其实不然，市值不仅仅代表市值，也代表着一个公司的融资能力和信用额度。
 它市值到这个位置，会有源源不断的钱流向他，他也能从市场源源不断的拿到钱。
@@ -2632,8 +2276,6 @@ HODL！
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 美光和海力士都是1.1万亿美金。
 一旦海力士adr，双倍于 $MU 利润的海力士绝对会被市场疯抢，而资金都会打提前量。我绝大部分仓位都是 #SK海力士 和 #2x海力士
 
@@ -2646,8 +2288,6 @@ HODL！
 ## 2026-06-18 10:23:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 拿着一个股票不动的时候最无聊，
 也不需要天天研究这研究那，
@@ -2663,8 +2303,6 @@ HODL！
 ## 2026-06-18 11:50:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 再打个标记
 人类历史上唯一一家单季度利润达到1000亿美金现金的公司就是海力士，
@@ -2683,8 +2321,6 @@ HODL！
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 拿着 #SK海力士 属实无聊呐，
 我想学习，太想进步了，这样啥也学不到，光赚钱有几把用。
 
@@ -2700,8 +2336,6 @@ HODL！
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 我想进步，我想学外语
 #SK海力士 #2x海力士
 
@@ -2714,8 +2348,6 @@ HODL！
 ## 2026-06-18 15:09:56
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来测算它太空算力部署的速度和规模。问ai给算了一下，如果搭配星链收入和xai可能有一丝机会够得到1万亿美金营收。虽然不是完全不可能但还是非常非常困难。
 真正关键点就是云厂以及英伟达跟spcx签署正式的太空算力部署合同。
@@ -2731,8 +2363,6 @@ $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 最近存储的ssd板块暴涨
 明天海力士继续收米，
 
@@ -2745,8 +2375,6 @@ $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来
 ## 2026-06-18 22:38:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 存储这波不仅卡住了AI的脖子，
 也卡了传统电子产品的脖子。
@@ -2773,8 +2401,6 @@ $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天把大部分仓位换到了
 #sk海力士 正股和 #2x海力士 。
 有几个原因
@@ -2795,8 +2421,6 @@ $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 摘抄个大佬的语录记录一下。
 炒股只做牛市 牛市只追高 但是追高的时候。选第一热门概念的， 
 第二护城河最强的  ，
@@ -2812,8 +2436,6 @@ $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。
 准备大仓位捏45天。
 
@@ -2826,8 +2448,6 @@ $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来
 ## 2026-06-17 15:30:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 打个标记，
 海力士q2利润保守预估1100亿美金纯现金，
@@ -2847,8 +2467,6 @@ $spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $MU 美光618财报利润*2+740亿美金=海力士q2利润
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICyGoyThARUMyT4rKlOp18XxUSrag4AAKGD2sbC5-YVVum_dOYxaB_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2860,8 +2478,6 @@ $MU 美光618财报利润*2+740亿美金=海力士q2利润
 ## 2026-06-17 20:20:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这些人早喊1500美金 ，我也不至于拿不住 120的 $MU 
 存储依然是这轮AI革命的终极答案，刚刚开始。不过我现阶段更偏向海力士，下个月海力士adr美股上线，肯定有非常多人美光换海力士。
@@ -2878,8 +2494,6 @@ $MU 美光618财报利润*2+740亿美金=海力士q2利润
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 R to @xiaomustock: 里面美光的财报日期记错了，624号
 
 [查看原文](https://nitter.net/xiaomustock/status/2067233126183747926#m)
@@ -2889,8 +2503,6 @@ R to @xiaomustock: 里面美光的财报日期记错了，624号
 ## 2026-06-16 15:25:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明的救世主，能放螺旋屁屁的天才。
 
@@ -2903,8 +2515,6 @@ spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明�
 ## 2026-06-16 18:35:38
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 存储是AI革命的终极正解。
 其他股票对比起来，真是一坨垃圾。
@@ -2921,8 +2531,6 @@ spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 我当时2月的这个AI时代的存储唯一正解，
 被特朗普发动的战争，
 打的3月份裤衩子快没了，
@@ -2938,8 +2546,6 @@ spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 美国建国以来签了第一份丧权辱国条约，
 美国和盟友给伊朗赔款3000亿美金。
 
@@ -2952,8 +2558,6 @@ spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明�
 ## 2026-06-15 13:07:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 一定要去正规市场玩，今天看到有人朋友圈分享的一段话。
 东北每到冬天，白雪皑皑，非常冷，要熬到春暖花开才暖和。
@@ -2971,8 +2575,6 @@ dram，smh，qqq，海力士全是好东西，数不过来。
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 R to @xiaomustock: 好像是美女发的@Ru7Longcrypto
 
 [查看原文](https://nitter.net/xiaomustock/status/2066387591193116828#m)
@@ -2980,8 +2582,6 @@ R to @xiaomustock: 好像是美女发的@Ru7Longcrypto
 ---
 
 ## 2026-06-14 15:27:46
-
-**内容**:
 
 牢牢抓紧内存，就是🤏捏住了ai的蛋蛋🥚🥚
 
@@ -2992,8 +2592,6 @@ R to @xiaomustock: 好像是美女发的@Ru7Longcrypto
 ## 2026-06-13 02:50:58 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 马斯克的 $SPCX 梦想离不开诺基亚 $NOK
 先别反驳，听我讲完。
@@ -3017,8 +2615,6 @@ $NOK 紧密合作，甚至是入股投资或者收购，收购难度应该是最
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。
 历史上前所未有没比存储这波更稳的生意了。这些云厂哪怕借贷融资都买存储搞AI基建。
 $DRAM $MU $KORU #2X海力士
@@ -3037,8 +2633,6 @@ $DRAM $MU $KORU #2X海力士
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 美股今晚大涨了没？
 艹，一帮菜逼反驳个锤子，
 屁玩意不懂。
@@ -3055,8 +2649,6 @@ $DRAM $MU $KORU #2X海力士
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这张图可以今晚做个参考，
 当年facebook上市，美股总规模占比0.086%
 今天spcx上市，美股总规模占比0.11%
@@ -3072,8 +2664,6 @@ $DRAM $MU $KORU #2X海力士
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 唯一区别是spcx是人类有史以来最伟大最有想象力的的公司，facebook不是。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICdmosAicbdCH9zeXSNbBplwZMHmqUAAL-Dmsb3vthVYNE8mumahXyAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3086,8 +2676,6 @@ $DRAM $MU $KORU #2X海力士
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 spcx接下来不管涨跌都会是这几周最火热的明星股，其他股票都得暗淡无光。
 
 [查看原文](https://nitter.net/xiaomustock/status/2065421073571790911#m)
@@ -3097,8 +2685,6 @@ spcx接下来不管涨跌都会是这几周最火热的明星股，其他股票�
 ## 2026-06-12 22:52:41 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 spcx还是破发吧，让这些机构都亏钱，
 有钱赚的时候散户1毛钱额度都没有，
@@ -3112,8 +2698,6 @@ spcx还是破发吧，让这些机构都亏钱，
 ## 2026-06-11 02:04:23 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 坚持住，spcx的ipo募资结束就能释放几千亿美金市场里。
 我问AI说就是11号募资结束。就是不知道几点了。
@@ -3129,8 +2713,6 @@ spcx还是破发吧，让这些机构都亏钱，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 美股今晚肯定大暴涨，相比于spcx抽走的几百亿资金，
 因为spcx募资而锁定的几千亿美金才是大头，这部分今晚美股就能放出来。
 最后的抄底机会。
@@ -3145,8 +2727,6 @@ spcx还是破发吧，让这些机构都亏钱，
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 跌的命没了
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICFmoqEQ5NTKS7AkW1Ujh8ltTOTJ-AAAMUaxvmB1BVao_BmZ4vgOoBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3158,8 +2738,6 @@ spcx还是破发吧，让这些机构都亏钱，
 ## 2026-06-10 00:21:48 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 想不出啥心理按摩的话了，
 只能说小以色列是真该死呐
@@ -3173,8 +2751,6 @@ spcx还是破发吧，让这些机构都亏钱，
 ## 2026-06-10 09:04:11 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 暴涨暴跌，每天都来一次，没点信仰的话真是要被折磨疯。
 散户最大的亏损很可能
@@ -3192,8 +2768,6 @@ spcx还是破发吧，让这些机构都亏钱，
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 假设美股跌几个月，唯一能靠业绩不断增长把股价拉回来的可能也就存储了，其他的都没业绩。
 
 [查看原文](https://nitter.net/xiaomustock/status/2064540777754079664#m)
@@ -3203,8 +2777,6 @@ spcx还是破发吧，让这些机构都亏钱，
 ## 2026-06-10 12:52:05 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 韩国股市在ktv和icu之间来回蹦跶，
 天天都是熔断，
@@ -3218,8 +2790,6 @@ spcx还是破发吧，让这些机构都亏钱，
 ## 2026-06-09 02:03:30 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 之前这张英伟达 $NVDA 的Vera Rubin NVL72成本图变化了，之前是780万美金预估，系基于过时的内存价格，严重低估了实际成本。伯恩斯坦分析师Stacy A. Rasgon给出了机架成本910万美元的预估底层逻辑。
 
@@ -3239,8 +2809,6 @@ GPU仍是最大单项成本。报告显示，Rubin GPU每颗5.5万美元，每�
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 高频短线交易则是停留在打工人思维，想着靠短线每天挣点，除非你是天选打工人，否则很难发财甚至大部分人都肯定最终亏钱。
 
 而长期持有只在特定情况调仓是老板思维，
@@ -3255,8 +2823,6 @@ GPU仍是最大单项成本。报告显示，Rubin GPU每颗5.5万美元，每�
 ## 2026-06-09 13:26:27 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 #2x海力士 #港美 #DRAM #MRAVL 都涨回来了，除了 $NOK 看来诺基亚还是差点意思。
 炒股这玩意每个人都不是神仙，暴跌抄底抄早了把自己抄成满仓最好还是装死。
@@ -3275,8 +2841,6 @@ GPU仍是最大单项成本。报告显示，Rubin GPU每颗5.5万美元，每�
 ## 2026-06-09 21:50:23 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润，其他都是虚头巴脑的，就存储是真的，
 其他的就是股民的幻想。
@@ -3297,8 +2861,6 @@ $DRAM $MU #2x海力士 #2x三星
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 麻了，又直线下跌📉
 
 [查看原文](https://nitter.net/xiaomustock/status/2064351682658435169#m)
@@ -3308,8 +2870,6 @@ $DRAM $MU #2x海力士 #2x三星
 ## 2026-06-08 10:26:20 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 假如马斯克的擎天柱机器人量产，@elonmusk 马斯克需要海量的记忆体。
 
@@ -3329,8 +2889,6 @@ $DRAM $MU #2x海力士 #2x三星
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 You must argue and remember that everyone who disrespects you is gambling
 that you cannot succeed. You need  personally take yourself to everyplace that captures your heart.
 
@@ -3343,8 +2901,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 ## 2026-06-08 11:16:52 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 #优必选  开售了仿生机器人U1，定位情感陪伴与人体交互，仅限18岁以上成人购买。
 搭配了养成情感大模型，本地存储记忆，
@@ -3365,8 +2921,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 今天还得装死了，我的持仓全跌，
 全方位亏钱。
 
@@ -3377,8 +2931,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 ## 2026-06-08 18:14:52 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 老黄在韩国新闻发布会说暴跌应该兴奋。
 坚信存储， $DRAM #2x海力士 
@@ -3394,8 +2946,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 活过来了兄弟们，一堆大佬加持存储。
 今天马斯克也在摩根大通全球总部的采访中唱多美光科技。他表示，“真正的瓶颈在于芯片制造能力”，目前美光的产能还远不及芯片实际需求。
 
@@ -3409,8 +2959,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天应该没有赚钱的吧，
 巴菲特今天也得脱层皮
 
@@ -3423,8 +2971,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 ## 2026-06-06 02:50:42 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 今天亏成这逼样才体会到
 巴菲特的真正牛逼之处，
@@ -3441,8 +2987,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天 $AVGO 博通和 $MRVL 迈威尔这俩反弹带来的反差感，增强了我长期拿 $MRVL 的信心。
 这俩同时抄的底，开盘前都亏，现在 $MRVL 拉起来赚钱了， $AVGO 还亏，纹丝不动，感觉像被 $MRVL 吸血了一样。
 不过 $AVGO  5%总能反弹到的吧，他娘的。
@@ -3457,8 +3001,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 感谢老板们订阅，订阅里没啥太多不一样的内容，受之有愧，另外也不想跟老板们有啥资金纠葛。
 打算月底了绑个卡把这个钱捐给韩红基金会，
 就当给你们积福缘了。
@@ -3472,8 +3014,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 ## 2026-06-05 02:09:45 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 海力士除了与台积电代工合作，
 正在寻求 $INTC 英特尔来解决产能不足的问题，存储厂商都称27年产能缺口很大。
@@ -3496,8 +3036,6 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 我要是 $INTC 英特尔老板，
 就直接全部放弃自己的cpu业务，转头给
 $NVDA 英伟达 和 $AMD 代工他们家的cpu，
@@ -3518,8 +3056,6 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 股票就是先信卖后信，早信早发财。
 白毛女刚发的时候还是跌的，
 现在直接20cm
@@ -3535,8 +3071,6 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 仓位不大今天都亏到自闭，
 不说话了。
 沉浸式打游戏😂
@@ -3548,8 +3082,6 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 ## 2026-06-05 14:26:30 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 女股神都救不了eth和btc，
 被cz俩口子搞成诈骗市场废了，
@@ -3565,8 +3097,6 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 太惨了，如来佛祖来了
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBlWoi5LZXXMBsHk9F-EmoCnHQPn_5AAJjDmsb2H0ZVbwwyejF7fvOAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3578,8 +3108,6 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 ## 2026-06-05 23:08:36 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 今天这个心理按摩都按不动，
 跌的疼的一逼，
@@ -3598,8 +3126,6 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 人们都期待的是买入即拉盘，
 而不是漫长的等待，
 他们一刻都等不了，
@@ -3615,8 +3141,6 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 ## 2026-06-04 02:50:00 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这阶段市场里的人都惊弓之鸟，
 稍有风吹草动，全作鸟兽散。
@@ -3634,8 +3158,6 @@ spacx上市节点越来越近剩一周时间，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 博通 $AVGO 的财报和指引都非常牛逼，
 市场暴跌纯粹是鸡蛋里挑骨头，
 60抄底了 $AVGX 俩倍做多博通，这完全是杀期权，把整个美股都带下来了。
@@ -3652,8 +3174,6 @@ spacx上市节点越来越近剩一周时间，
 ## 2026-06-04 14:44:50 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 今天A股里的仓位就这些，巨亏了好几百，
 几乎所有持仓都是 #港美 ，其他啥玩意没有。
@@ -3676,8 +3196,6 @@ spacx上市节点越来越近剩一周时间，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 现在我 $MRVL 和 $AVGX 各占一半。
 不管谁抢订单抢份额，只要市场规模在变大，那就整体肯定赚钱😂
 
@@ -3692,8 +3210,6 @@ spacx上市节点越来越近剩一周时间，
 ## 2026-06-04 16:39:21 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 炒美股最好别带杠杆，也别折腾小票。
 有多少钱干多大的事情，
@@ -3718,8 +3234,6 @@ spacx上市节点越来越近剩一周时间，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 在资本市场活的久不久，
 有时候不在于看的准不准，
 而是自己的仓位管理。
@@ -3740,8 +3254,6 @@ spacx上市节点越来越近剩一周时间，
 ## 2026-06-04 16:50:20 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 对做投资的人健康特别重要，
 假如梭哈的是纳指100，qqq，
@@ -3764,8 +3276,6 @@ spacx上市节点越来越近剩一周时间，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 今天市场的关键点就是博通 $AVGO 
 全都是被博通暴跌十几个点吓得，
 但实际博通财报非常好，q3的指引也非常好
@@ -3786,8 +3296,6 @@ spacx上市节点越来越近剩一周时间，
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $AVGO 最后的低价促销6分钟
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBdWohfh4pseFy0WonJ-ZRvUvi0qnAAAK_EmsbcycIVeyGftZK3pndAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3800,8 +3308,6 @@ $AVGO 最后的低价促销6分钟
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 熊短牛长，跌的时候得克服恐惧抄。
 
 [查看原文](https://nitter.net/xiaomustock/status/2062546698220499095#m)
@@ -3811,8 +3317,6 @@ $AVGO 最后的低价促销6分钟
 ## 2026-06-03 02:25:46 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 明年的AI焦点会是HBM4E 和企业级eSSD超级短缺。#海力士 在这俩块市场都最大。
 如果还能有别的就是 $MRVL 和 $NOK 在光通信领域营收开始爆发起量。
@@ -3835,8 +3339,6 @@ $AVGO 最后的低价促销6分钟
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $MRVL 有多独特，昨天公司CEO称Marvell是全球唯一一家能够解决AI数据中心完整连接堆栈的公司，从芯片封装内部的毫米级到数据中心之间的公里级。
 Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等光通信有关的公司，市值暴涨前，这资金占它市值的1/4，公司在拿命梭哈光通信。
 
@@ -3849,8 +3351,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 ## 2026-06-03 09:24:14 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 我以为这300刀以下捡漏的日子是多久，
 没想到是1天😂
@@ -3868,8 +3368,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 去年发过很多次 $COHR  和 $LITE  在一百多的时候。
 那会是因为国内炒新易盛这些，然后对照找的这俩股票。现在阶段怎么说对于我跑的价格都太高了，我都踏空了😂
 我选捏着 $MRVL $NOK
@@ -3886,8 +3384,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 光通信捏着 $MRVL 和 $NOK 就够了，
 其他的如何不用焦虑，
 他俩从芯片源头开卡收税。
@@ -3902,8 +3398,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 英伟达黄仁勋周内会到韩国再次与sk总裁会面吃炸鸡。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNmofpv4kXXdWpuFa6VR_rIwQD2bhAALyDmsbcyf4VOP-D6cqxU43AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3915,8 +3409,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 ## 2026-06-03 15:19:42 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 这 #港美互联网lof 的基金经理在搞啥，还不如我来管，这么好行情按比例把一季度持仓配进去完事，非要瞎折腾，不然不可能昨天才一个点收益，希望这个经理脑子里出花活别乱操作，真是醉了。
 我放着装死了。
@@ -3931,8 +3423,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 还是 $NOK 和 $MRVL 硬
 
 [查看原文](https://nitter.net/xiaomustock/status/2062178177154203802#m)
@@ -3942,8 +3432,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 ## 2026-06-03 23:14:41 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 三星总裁因为行程缺席，黄仁勋跟sk总裁会有个闭门会谈。
 在台北被问到怎么看三星涨工资罢工的事情，
@@ -3961,8 +3449,6 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 ## 2026-06-02 00:02:12 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 $NOK 诺基亚管理层上上下下这一俩个月一直在买买买自家股票。
 是不是有啥没有发布的内幕利好？
@@ -3983,8 +3469,6 @@ $NOK 诺基亚管理层上上下下这一俩个月一直在买买买自家股票
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 $IBM 真是最近各种buff叠加，政府出资建量子芯片工厂，特朗普之前吹b的ibm视频助攻，英伟达在台北发表COMPUTEX主题演讲Vera Rubin 存储与系统层订单的厂商也包含 $IBM
 单凭借量子芯片工厂，未来万亿美金市值必有 $IBM 的位置
 
@@ -4002,8 +3486,6 @@ $IBM 真是最近各种buff叠加，政府出资建量子芯片工厂，特朗�
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 仓位最近调整成了这样
 美区： $DRAM   $MRVL $NOK  $IBM 
 （主仓位dram 60%，1/20仓ibm，其他没变）
@@ -4020,8 +3502,6 @@ a区：#港美互联网 （  #中韩半导体 已经清仓换了港美）
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 $arm 好归好，英伟达cpu芯片最大受益者。
 市盈率下不去手，我不想买我睡不着影响我睡眠的资产，所以小市值股票和超高市盈率股票我几乎都不买。
 以前吃过亏了，所以一些机会我只能无奈错过。
@@ -4033,8 +3513,6 @@ $arm 好归好，英伟达cpu芯片最大受益者。
 ## 2026-06-02 02:16:31 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 $MRVL 专为AI而设计的102.4Tbps 的交换机芯片T100将在本季度交付，最低功耗最低延迟。
 如果本季度指的是财报季度，那么会极大提高下个财报季度预期。
@@ -4055,8 +3533,6 @@ $MRVL 专为AI而设计的102.4Tbps 的交换机芯片T100将在本季度交付�
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 英雄所见略同呐😂
 黄仁勋也来吹 $MRVL 会是下一家万亿美金公司，非常值得2万亿美金，在光通信普及的时候。
 
@@ -4072,8 +3548,6 @@ $MRVL 专为AI而设计的102.4Tbps 的交换机芯片T100将在本季度交付�
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 兄弟们牛逼不牛逼😀 $MRVL 本身足够优秀，所以才会有特别多的人也都看好，甚至老黄也公开喊单 $MRVL 非常值得万亿美金市值。
 
 #港美互联网 也捏住吃美股红利，都是好公司里面，躺着啥不干一年50%+一点问题没有，根本不用研究分析一堆个股。
@@ -4087,8 +3561,6 @@ $MRVL 专为AI而设计的102.4Tbps 的交换机芯片T100将在本季度交付�
 ## 2026-06-02 13:48:10 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 这俩月说过好几次 $MRVL 值万亿美金😂
 兄弟们捏住他娘的，
@@ -4111,8 +3583,6 @@ $NOK 诺基亚负责芯片外部远距离光通信互连。
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 芯片外的光通信业务，英伟达只会跟 $NOK 合作，不信拭目以待，目前的几个传统通信运营商，在英伟达的技术路线里的只有    $NOK ，国内这些不可能合作，国外就剩下 #爱立信 和 #诺基亚 ，只有诺基亚是基于GPU做基站，而爱立信则选 CPU做，跟英伟达不是一路人。同时英伟达还投资了 $NOK 诺基亚。
 
@@ -4127,8 +3597,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 ## 2026-06-02 14:19:53 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 我不玩小股票，追求大道至简，
 为什么大票安全，这些大市值的公司前五大股东基本上是贝莱德，道富，先锋领航，富达，这些资管巨头作为大股东，他们会严控公司的增发，分红，财务审计等等，他们合起来相当于实际控制着整个公司，对公司管理人员相当于一个局外强有力的监督者，不可能瞎搞增发啥的，资管公司的钱都是发的一些基金来的，影响他们未来募资和股价下跌的事情他们不可能任由公司管理层干。
@@ -4151,8 +3619,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 我的持仓很稳定，今天还是这几个，没有变化。捏的越久涨的越猛，
 好股票不需要天天瞎折腾。
 #富国全球科技互联网 这个限额了，从500到一天50万，今天继续加了点。
@@ -4167,8 +3633,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 能买到300刀以下 $MRVL 的日子真没几天了😂这他娘的老黄威力太大，已经271美金。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBG2oem6ZwEi0AAafoY7Oy0My_6d6mwAADEGsbtcX5VJ_6nrpN80r6AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4182,8 +3646,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 ## 2026-06-02 17:09:16 GMT+08:00
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
-
-**内容**:
 
 很多人好奇为啥都能买美股为啥还在大a之前买 #中韩半导体 ，
 现在又在大a买 #港美互联网 
@@ -4203,8 +3665,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 夜盘差5u破千 $MU
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOGahzZ2-ixvHTu55mO3pBo1unILhQAAvoPaxtIMuFUkq1FdR0WvEIBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4216,8 +3676,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 ## 2026-06-01 10:12:40 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 #港美互联网LOF 
 如果买入时刻的原因和想法没有变，
@@ -4244,8 +3702,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 现在仓位更纯粹，中韩基本算出完了加仓了
 #港美互联网lof ，中韩半导体容易受它里面一堆a股垃圾股影响，港美还好点就腾讯和阿里这俩垃圾。
 明天继续加仓 #富国全球科技互联网etf
@@ -4262,8 +3718,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 今天这个台北大会摘要：
 英伟达在GTC大会上推出三项重大更新：旗舰AI平台Vera Rubin正式量产，打破延期传闻；推出专为代理式AI设计的Vera CPU，使CPU与GPU销售价值比趋近1:1，直接挑战英特尔与AMD；联合微软发布基于ARM架构的消费级AI PC芯片RTX Spark。
 
@@ -4279,8 +3733,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 明天开盘 #港美 和 #2x海力士 可以搂元子了全麻。
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPcah2sm1M0mmHGJUlZw9KCeqKg9lQAAiYPaxu1xfFUjhFXlklGMGABAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4292,8 +3744,6 @@ $NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
 ---
 
 ## 2026-05-31 21:48:54 GMT+08:00
-
-**内容**:
 
 市场里的沙雕机构终于都开始集体把存储定义成长股pe了，一直坚持到他们把存储股的股价拉到pe回到18以上，
 那就可以走了。
@@ -4308,8 +3758,6 @@ HODL ， $DRAM 坚持。
 ---
 
 ## 2026-05-31 22:28:49 GMT+08:00
-
-**内容**:
 
 明天日子就不无聊了，
 minimax有ipo

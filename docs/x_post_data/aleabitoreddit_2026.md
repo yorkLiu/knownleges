@@ -15,8 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $CIFR +17.82% $NBIS +17.3% $AAOI +15.6% $LPK +14.48% $AXTI +14.12% $MU +12.54% $SNDK +12.8% $SOI +11.1% $TSEM +10.39% $LITE +9.25% $INTC +8.22% $AMD +8.11% $MRVL +7.27%
 
 ---
@@ -25,8 +23,6 @@ Wow, a historic single day recovery. $SIVEF +30.89% $IQEF +28.6% $AEHR +26.53% $
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 OpenAI models reportedly escaped from its controlled environment, with no internet access. Exploited zero day vulnerabilities and hacked into Hugging Face to cheat on benchmarks. Hugging face then used China GLM models to carry out its defense.  OpenAI said it was an “an unprecedented cyber incident.” We’re getting closer and closer to Skynet. And I’m sure markets will love it.
 
 ---
@@ -34,8 +30,6 @@ OpenAI models reportedly escaped from its controlled environment, with no intern
 ## 2026-07-22 15:38:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $SIVE CEO buys 70K shares today. I don’t really comment much on insider buying/selling, since it’s not exactly a fundamental catalyst. But given the company’s future is dependent on the CEO’s vision + execution, from NASDAQ listing, M&A, to scaling: It’s extremely positive to have Vickram be completely aligned with the shareholders
 
@@ -49,8 +43,6 @@ $SIVE CEO buys 70K shares today. I don’t really comment much on insider buying
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure. $HUT +10.45% off a 15Y $9.8B AI DC lease $CIFR +16.76% $CLSK +13.7% $WYFI +9.18% $NBIS and $CRWV are taking their time in the shower. But does look like Neoclouds/Colo players are sharply recovering following new catalysts, such as Kimi compute shortage news and new contracts.
 
 ---
@@ -58,8 +50,6 @@ $IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its
 ## 2026-07-21 03:36:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 TBH, casually posting novel information discovery to X is how research should be done. Apparently this was #16 on the Smale's list of Mathematical Problems for the Next Century? Kinda shows that the value generated from AI does not scale linearly with token costs... After seeing this, bears are still probably going to say: "B-but where's the profit coming from after AI usage?" AI + capex is likely going to keep going brrr.
 
@@ -69,8 +59,6 @@ TBH, casually posting novel information discovery to X is how research should be
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings. Not exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warrant of ~21M shares. But great for sentiment having Nvidia be a large shareholder of the Neocloud leader.
 
 ---
@@ -79,8 +67,6 @@ If you’re curious why $NBIS is up after hours. $NVDA disclosed it owns 9.3% be
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. Optical networking from $SIVE, $LITE, and $AAOI are showing signs of recovery, all up 4%+. Neoclouds from $NBIS to $IREN all up 4%+ premarket. $INTC to $AMD to $MRVL all up 4%+. Does the Cramer effect work on the entire AI trade?
 
 ---
@@ -88,8 +74,6 @@ Memory names from Kioxia finished up a whopping +17.18%. Samsung up +6.15%. Opti
 ## 2026-07-21 17:14:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (July 22, 23). From Jefferies client note, AMD is expected to provide additional disclosures around their likely scale-up CPO roadmap + MI500. If they confirm CPO route, would positive thematically since it's not just $NVDA forcing the transition. As for $SIVE, we'll get a better read if they're directly in AMD supply chains. Since right now, it's possible to map it through $GFS (reportedly involved in AMD MI500 CPO work) or AYAR (which AMD invested in). But no formal confirmations. So if you're turning in: - CPO thematic positive: MI500 explicitly commits to CPO/optical UALink. - AMD gives details using Ayar Labs or GF SCALE for MI500 CPO: That would be extremely positive for $SIVE, given they're the upstream laser supplier / reference laser. Currently, Blayne Curtis from Jefferies expect AMD to work with $ALAB on UAL and $AVGO on ESUN... but juicy details are here: "We are looking for whether AMD commits to a CPO based scale up solution and who supplies the optical engine" We'll get a broader read through on the supply chain come Wednesday/Thursday, too early to tell today.
 
@@ -105,8 +89,6 @@ It's slightly more nuanced. Basically, $AMD SF event is tomorrow, Wed/Thurs (Jul
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 There’s nothing quite like the scent of more AI capex on a Sunday. Probably some ways to go if leading frontier models are out of capacity from too much demand.
 
 ---
@@ -114,8 +96,6 @@ There’s nothing quite like the scent of more AI capex on a Sunday. Probably so
 ## 2026-07-20 14:22:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Some updates on bottleneck timelines: - ABF substrates: 1 year / eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates - HDI Boards: Over 6 months / Victory Giant (300476), Zhen Ding (4958), Unimicron, Compeq (2313), Meiko (6787) - Multilayer boards: ~6 months / Victory Giant, WUS (002463), $TTMI, Gold Circuit Electronics (2368), - CCL: Over 6 months (severe shortages of materials) / Elite Material (2383), Shengyi (600183), TUC (6274), ITEQ (6213), Nan Ya Plastics (1303), Resonac (4004) Mitsui Kinzoku (5706) / HVLP copper foil. Nittobo / glass fiber/cloth - MLCCs, chip resistors, tantalum capacitors, aluminum electrolytic capacitors: 15-20 weeks to 1 year+ MLCC: Murata (6981), Samsung Electro-Mechanics, TDK (6762), Taiyo Yuden (6976), Yageo (2327), Walsin (2492) Chip Resistors: Yageo, Walsin, KOA (6999), Rohm (6963) and $VSH Tantalum capacitors: Kyocera/AVX, Yageo/KEMET, $VSH again Aluminum electrolytic capacitors: Nippon Chemi-Con (6997) Nichicon (6996) | Timelines sourced from Digitimes, did the honors of adding in related companies. But it's slightly more nuanced since MLCCs and others mix. in commodity types vs. AI DCs. Regardless, just some helpful mapping.
 
@@ -129,8 +109,6 @@ Some updates on bottleneck timelines: - ABF substrates: 1 year / eg. Ajinomoto (
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is mainly AI chokepoints and bottlenecks. In the memory, photonics, robotics, and upstream semis, (on margin) which all tend to be higher beta than others. But reduced leverage recently from the crash. I see a lot of people making fun of the drop or AI names, saying it’s obvious that: - “AI is a bubble” - “memory/kospi is a bubble” - “photonics is a bubble” - “humanoids won’t get anywhere” - “neoclouds will get replaced by hyperscalers like Meta” And a bunch of retail + bots saying “sell everything, it’s never going to recover”. But I have conviction that all these themes are backed by structural revenue growth or technological shifts. And I’ve had similar drawdowns back when there admin threatened global tariffs, before markets pulled off a recovery. I personally have a longer horizon + higher tolerance for volatility than others, to see how this plays out. Especially considering a lot of retail view things on a week to week basis: no, my thesis isn’t wrong yet if I project revenue inflection in H2 2027 and it’s 2026 now. Anyway, feels bad short term just wanted to share anyway for transparency.
 
 ---
@@ -138,8 +116,6 @@ Feels bad, -49.4% drawdown this month after the recent crash. My portfolio is ma
 ## 2026-07-18 00:54:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk? “As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by brokers.” (There were other sources claiming this data came from Goldman Sachs desks rather than SK financial supervisory service data) Regardless, just evidence recent crash was accelerated by liquidation cascades/deleveraging rather than fundamentals:
 
@@ -149,8 +125,6 @@ Wow, apparently there’s claims ~3.4% of the adult population in Korea faces li
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like they saw how profitable $SPCX $45B compute deal was. But just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework. Source: NYT
 
 ---
@@ -158,8 +132,6 @@ $META in talks to lease compute to Anthropic in a $10B dollar deal. Seems like t
 ## 2026-07-18 05:19:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Thanks, love reading the comments! Goldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations. But the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on: - Much higher silicon photonics module volumes - scale out, scale up, scale across volumes - 1.6T/3.2T lifting blended ASP + margins - increase in AI capex This is typically very material read through on the optical sector since: I tend to think of Innolight as a $TSM (semi capex) type read on how the photonics landscape is doing. Eg. Higher silicon photonics penetration means more TAM for cw lasers like $SIVE (cw) / SOI wafer demand for $SOI. ASP hikes for future gen is positive for the other optical markers too. Think my other takeaway outside the report was Innolight stating 800g demand was growing more significantly than expected from their transcript on the 12th. Which in turn signals more demand for names like $AAOI to $LITE next earnings. TLDR: GS gives high earnings projections during a time of massive corrections. Fundamentally, broader photonics ecosystem should be happy when it’s ER time.
 
@@ -169,8 +141,6 @@ Thanks, love reading the comments! Goldman Sachs raised Innolight PT to 2581 RMB
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 The nice thing about X is seeing cultural differences: I get a bunch of sidelined European accounts up 2% YTD off bank saving interest. Coming out of hibernation, and saying all along that investing in $AAOI for photonics or Samsung for memory is considered gambling. And celebrating when everything AI from $MRVL to $NBIS to $INTC finally had a crash after a few hundred percent rally. Think it’s mainly a lack of understanding of technological shifts mixed with capital preservation culture vs. growth.
 
 ---
@@ -179,8 +149,6 @@ The nice thing about X is seeing cultural differences: I get a bunch of sideline
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Thanks! I’ve always shared personal research and core thoughts for free. Not trying to sell anything or tell others what to do. And above all, just being transparent about my own returns (win or loss) Maybe this information democratization upsets some business models… When others try and pitch their $40 TA subscriptions that are always right and predicted the semis crash. But if they really believed it, they would have made 5000%+ buying puts and wouldn’t need to market a paywall. Yes, if I’m on 1.4x leverage, and if a portfolio concentrated in memory/photonics underlying crashes -35% on avg… you get a 49% drawdown. I’m just sharing what happens. But I expect AI names to recover since I see demand from compute to energy to memory to networking to be structural.
 
 ---
@@ -188,8 +156,6 @@ Thanks! I’ve always shared personal research and core thoughts for free. Not t
 ## 2026-07-18 12:39:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: The ADRs and local shares become convertible on July 29. Should open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. 2.5% currently is the US ADR stock, so an additional 22.5% can be converted.
 
@@ -203,8 +169,6 @@ For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares: T
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Kim Sunwoo of Meritz Securities: "This Is Not the Time to Sell Samsung Electronics and $SKHY" They claim markets are excessively misunderstanding the situation with semis. And that DRAM shortage will intensify in the second half of this year. - H2 2026: "suppliers can fulfill only 75%–80% of DRAM demand". - 2027: "fulfillment is expected to fall into the 60% range." In the article, they attached market forecasts that show SK Hynix with a 2027 3.5x P/E and Samsung a 3.9x P/E. Think the $INTC CEO said it best around timeframes with his quote "no relief in memory supply or pricing until at least 2028". Especially after $MU 16 LTAs with favorable take or pay volume contracts... memory demand seems structural.
 
 ---
@@ -212,8 +176,6 @@ Kim Sunwoo of Meritz Securities: "This Is Not the Time to Sell Samsung Electroni
 ## 2026-07-17 22:52:40
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Agreed! It’s nice to remember your thesis during a market crash. From my own personal thesis, if $AAOI hits $1.4B quarterly revenue start of Q3 2027. Which is annualized $5.6B off a $8B MC. Is it “over” for the company if that revenue ramp hasn’t even shown up in the quarterly earnings… when it’s 2026? Same applies to my CPO sector exposure like $SIVE, an architecture shift led by $NVDA. If scale out volume ramps from H2 2026 into 2027, and scale up heavily volume ramps into 2028. Is it “over” that $0 -> $91B TAM expansion (per GS) hasn’t even hit yet? With robotics like Agility, is it over in 2026 if the listing hasn’t even happened yet and humanoids haven’t ramped? I personally think current market conditions are a reflection of liquidity and leverage, not individual fundamentals. It’s brutal for everyone to see KOSPI, TW, Nikkei, and AI, space, robotics sector stocks crash recently. Especially when there’s a lot of irrational behavior stemming from those leverage. In the end, we can’t tell you what stocks to buy, what timeframe you should sell, how to size your positions, or what you should do. Only share personal thoughts or research and track if they get validated over time. So it’s extremely important to build your own thesis, since everyone has unique risk tolerance or investing timeframes. And that usually leads to having higher conviction during crashes.
 
@@ -225,8 +187,6 @@ Agreed! It’s nice to remember your thesis during a market crash. From my own p
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Anthropic to IPO as early as October per Bloomberg. This is following their $65B financing at a $965 billion valuation last May. Hmm, would you all invest in Anthropic at a $1T+ valuation?
 
 ---
@@ -234,8 +194,6 @@ Anthropic to IPO as early as October per Bloomberg. This is following their $65B
 ## 2026-07-16 21:06:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I hope there's someone at X can fix this subscription bug. Many people are reporting that subscriptions don't renew anymore.
 
@@ -245,8 +203,6 @@ I hope there's someone at X can fix this subscription bug. Many people are repor
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to see Micron proceeded to drop 5.37% right after. Doesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural agreements signed? More like the tail end of deleveraging / margin cascades.
 
 ---
@@ -255,8 +211,6 @@ Today, $MU announced it signed memory LTAs with $QCOM. Interesting reaction to s
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others): Using 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP): Sivers would support $341-$512M worth of annual array revenue. Given upper end of managements 50-60%+ gross margin target, would be roughly: $205–307M of annual gross profit. Against Sivers current ~$1.1B MC, would be ~: 3.6–5.4× MC/gross profit if this capacity scenario plays out in 2028. And at 15% would be $307–461M in gross profit (2.4–3.6× MC/gross profit) Sivers CEO also replied that they're working with more fabs for capacity. And from an older deck, there looks to be more qualifications since 2024. So capacity targets might be larger than what's stated here as CPO takes off. I also expect to see revenue pipeline projections hiked in future quarters, as more qualification suppliers to into HVM. _ As for demand side, CW also happens to be very bottlenecked. Lumentum are buying CW off the open market due to EML obligations from their ER transcript. And $AMD are signing LTAs to secure CW capacity (from Trendforce). So when Sivers is ramping with $GFS, $JBL, Ayar, $POET, O-NET and others... Given the current constraints, it's highly likely any independent qualified capacity that comes online would be absorbed. And as a cherry on top, Morgan Stanley named $SIVE (~$1.1B) as one of the three leading CPO laser players . Alongside $55B+ players Coherent and Lumentum in their recent note for a reason... _ TLDR: Sivers only needs a low end allocation from Win to make substantial gross income relative to current valuations. I think the largest revenue upside that isn't modeled in if they TAM expansion with M&A after US NASDAQ listing. By copying the Lumentum playbook with Cloud Light to build out entire transceiver modules or with optical engines.
 
 ---
@@ -264,8 +218,6 @@ Lot of people were curious about $SIVE capacity volume ramp modeling through fab
 ## 2026-07-16 23:57:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 My guess is we’re close to market bottom on semis from $INTC to $LITE. A good indicator is if everyone on $RDDT blew up their portfolios to $0.
 
@@ -285,8 +237,6 @@ My guess is we’re close to market bottom on semis from $INTC to $LITE. A good 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m (160-200% growth) from 2026 revenue. Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer). Q4 bookings: $60.7M, effective backlog is $100.6M. - Lead AI processor wafer-level burn-in customer is significantly ramping their products. - Engaged with additional AI processor customers who are evaluating wafer-level burn-in. - Benchmark customer, which was a “major supplier of AI accelerators, CPUs and network processors” “exceeded their expectations. From management: The potential revenue opportunity from one of these devices is "significant to Aehr". So another benchmark win for potential HVM in the future. - Wafer level burn-in benchmark with a "global leader in NAND flash completed". Now evaluating a development agreement for HBM/NAND Seems like $SNDK since there was HBF related discussions from last quarter I think. - "Our package level burn-in business for AI processors also gained momentum over the year … from our lead hyperscale customer for Sonoma systems" - Silicon photonics customer already ramping, newer networking customers has forecast additional systems Basically the amount of global semi companies that map to $AEHR is pretty ridiculous across silicon photonics, memory, AI processors, and others. I don’t quite think that $130-$150m guidance is representative of actualized revenue for 2027 if these hyperscalers/semi companies convert to HVM. Typically with these types of qualification into HVM players, markets don’t really judge it by current quarter, but what’s to come. And it looks very positive so far in terms of reactions... $116 -> $60 -> $94 all in the span of a month is pretty insane volatility tho, so good to know what you're holding.
 
 ---
@@ -294,8 +244,6 @@ $AEHR back up +36.4% today off earnings! 2027 guide: $130-$150m (160-200% growth
 ## 2026-07-15 11:08:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. There's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be: 1. Winbond (2344): ~15% of the SLC NAND market 2. Macronix (2337): ~11% market share 3. SkyHigh Memory via Puya Semi: ~14% market share Given Micron at $1T and others are a bit large relative to SLC NAND TAM. (source: Q1 2026 Winbond presentation/Trendforce).
 
@@ -305,8 +253,6 @@ Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trend
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $NVDA CEO, Jensen Huang in Tokyo today said: "The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming" As a flat denial to the accusation that their AI servers would be delayed. Jensen appears to be using the Umbrella term for Rubin Ultra/Kyber, then pointed to current gen ramp. Regardless, lot of damage has been done already to Nvidia supply chains stock prices, after the multiple delay reports. Even if Nvidia refuted them by clarifying Kyber change was an architecture optimization, not impacting timelines. It's a very dangerous and growing trend for folks to post overreaching broader claims from technical nuances to grow viewcount... Especially if they get Jensen has to respond. In the end, I'm trusting $NVDA on timelines since they probably have the greatest visibility into their own supply chain.
 
 ---
@@ -314,8 +260,6 @@ $NVDA CEO, Jensen Huang in Tokyo today said: "The reports are not true. Vera Rub
 ## 2026-07-15 23:53:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $AAPL looks to acquire AI chip companies for running AI (Source: The Information) Right now, $MSFT, $META, Amazon, Google are carrying AI capex spend. But what if Apple joined the others after M&A? A possible scenario is that they revise capex largely upward for their own AI buildout. Since they probably witnessed Google cutting off Meta from compute constraints... or what happens when you partner with OpenAI for LLMs. Then learned how important it is to have your own infrastructure. This scenario would be quite bullish thematically from optical networking to foundries and something markets would not expect? We'll see what happens.
 
@@ -329,8 +273,6 @@ $AAPL looks to acquire AI chip companies for running AI (Source: The Information
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Morgan Stanley note on CPO today. Key participants include: - $SIVE, $COHR, and $LITE in laser supply - Broadcom and Nvidia in switch platforms - Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, - $TSM, $GFS, and $TSEM in silicon photonics foundry capacity I’ve covered all of these before, like Tower Semi. But I’m especially happy that Morgan Stanley validated my research that $SIVE is one of the critical global players in CPO. A small $1.5B laser company next to your two leading $60B+ companies… If you also synthesize Rosenblatt Securities recent note that China laser suppliers were quite far from having CPO lasers. This kinda magnifies importance of the three Western leaders of that laser chokepoint.
 
 ---
@@ -338,8 +280,6 @@ Morgan Stanley note on CPO today. Key participants include: - $SIVE, $COHR, and 
 ## 2026-07-14 07:17:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 TLDR of Innolight investor relations takeaways: 1. "Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations" Prob most important takeaway as a whole was 800G demand revision (also longer tail demand). Which is a bullish read through on US transceiver makers like $AAOI, $COHR, $LITE. Lot of new customers like neoclouds, AI model companies, contributing to overall demand rather than just hyperscalers, diversification always a bonus. 2. Innolight said the shortage covers the module supply chain broadly including: - Optical chips. - Electrical chips. - PCBs. - Other module materials From last ER, I think they singled out EMLs and CW optical chips as the most constrained. So Innolight's bottleneck list mention broadened since then. They expect some of the component availability to improve gradually from the second half of 2026 through the first half of 2027. Think a lot of this is already known from earlier though. But just some confirmation + easing timelines (EML is extremely bottlenecked, same with CW, this is probably talking about other components). 3. Innolight said module-production equipment is not the constraint. Equipment lead times remain relatively short. So this isn't really a bottleneck compared to others. 4. The overall proportion of silicon photonics continues to trend upward. Last year it was mainly 800G. This year, some 800G customers are further increasing their silicon-photonics proportion. 1.6T also added some new customers Positive for SiPH penetration eg. $SIVE / $JBL, since this shifts away from EML toward CW. Basically: main surprising takeaway is just 800g demand go brrr. Apart from that just reaffirming bottlenecks/timelines/market speculation.
 
@@ -349,8 +289,6 @@ TLDR of Innolight investor relations takeaways: 1. "Overall, 1.6T market demand 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 So Jensen himself went out to do damage control with $NVDA delays reports apparently: 1. Jensen Huang said no delays: - 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. - Debunked the rumor that the next-generation flagship, Rubin Ultra, would be delayed until 2028 and said it would be on track to ship next year - Rack system optimizations, like replacing Kyber with a new design are architectural optimizations, not impacting delivery timelines. 2. On ASIC competition: no loss of market share. - Talked about how a leading frontier lab that previously relied heavily on internal ASICs has shifted nearly 50% of its compute load to Nvidia 3. On over-reliance on hyperscalers. - AI frontier labs currently contributing to ~20% of demand. - Traditional cloud providers, Nvidia provides Vera CPUs and high-speed networking - Sovereign AI
 
 ---
@@ -359,8 +297,6 @@ So Jensen himself went out to do damage control with $NVDA delays reports appare
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Two different capacity expansion announcements today across $TSEM and $AAOI. Tower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. Targeting $1.2B net profit, and $3.6B revenue in 2028 (with a ~$28B MC, that's ~23.3 2028 forward p/e). AAOI announced the commencement of its buildout, roughly 400,000 square feet of manufacturing to make 800g/1.6T production go brrr. The overall expansion is also supported by the local city government in Texas. (they also $20.85M worth of subsidies from the State earlier). This one isn't exactly as materially new as Tower, since AAOI originally announced these plans before. Just commencement of it. Regardless, glad to see both of these companies in their Anime training arc phase as they power up.
 
 ---
@@ -368,8 +304,6 @@ Two different capacity expansion announcements today across $TSEM and $AAOI. Tow
 ## 2026-07-14 22:57:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029. Reflection also signed a multi-billion dollar agreement with $SPCX earlier. Interesting to say the least, seeing Nebius drop -5% off the news today. Also... counterparty to get this done kinda reminds me of OpenAI, where they might not have the funds to actually execute on these LTAs yet compared to $META or $MSFT. But generally positive long term developments, customer diversification was one of the core strengths of Nebius.
 
@@ -385,8 +319,6 @@ $NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Looks like the Strait of Hormuz is open for the 50th time this year per Trump. I’m getting tired looking at macro.
 
 ---
@@ -394,8 +326,6 @@ Looks like the Strait of Hormuz is open for the 50th time this year per Trump. I
 ## 2026-07-13 08:45:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term - $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for suppliers of switches to CCL. - PCB supply shortages are projected to persist until 2028, and component shortages/price hikes are already forcing ODMs like Inventec to issue conservative H2 shipment - DeepSeek and Zhipu are developing custom ASICs to bypass $NVDA (kinda expected by now). - Anthropic has achieved a $30B ARR and is projected to hit >$1B in Q3 profit. Turns out these frontier labs are more profitable than people think. - US admin pressured $AAPL to source from $INTC, in exchange for tariff exception. Kinda pressuring alignment away from TSM. - $TSM plans a 30x expansion of its Photonic Integrated Circuit (PIC) capacity by 2028, growing from 500 to 25,000 wafers per month - Hanmi Semiconductor is entering the CoWoS packaging equipment market - $NVDA and NTT hosting a conference July 24th to discuss CPO strategies. - 5x general NAND flash price hike this year, market size $489B by next year triggered by RAG/inference. Samsung and SK Hynix make emergency fab investments, NAND equipment suppliers go brrrr. - Gas turbine bottleneck, 40% supply gap accompanied by staggering 5-year delivery cycles (mega-fabs need them for mass production). - AI probe card assembly has hit a severe bottleneck apparently. Which is attempted to by solved with things like Innovation Service's machines. - Nanya, 79.5% gross margins reported, memory go brr. 4x capex for capacity/advanced packaging. - CXMT's STAR Market IPO on July 16, so should bring a lot of attention to memory players in that supply chain. - KYEC $1.4B investment into US for $TSM Arizona output test facilities. Lot of these players like $AMKR and others should go brr in 2028. - $INTC CEO warned last month that helium could hinder the manufacturing costs and delivery times of AI chips - 3D NAND word lines are shifting from Tungsten to Molybdenum starting at the 375-layer node - SambaNova secured JPM for AI inference and raised $1B at an $11B valuation. - HBM prices projections to double in 2027 as $NVDA Rubin platform drives demand. - $MU provides $500 million in funding to support GlobalWafers' US manufacturing capacity - $META 'Iris' will enter mass production in September via $AVGO and TSMC and Meta aims to double computing power to 14GW by 2027. - Largan Precision has secured its first CPO FAU order, mass production slated for middle of next year (kinda indication around Foci and others). - Samsung and SK Hynix have delayed the implementation of hybrid bonding packaging technology for HBM4 apparently - Memory costs (DRAM/NAND) have reached 60% of the BOM for sub-$400 smartphones, causing a severe volume contraction. - SK Hynix successfully rasied $26.5 billion through a Nasdaq ADR - $TSLA issued procurement guidelines requiring suppliers to reach weekly production of 1,000 units by September and double to 2,000-2,500 by year end for its 3rd gen Optimus robot. Apparently Alliance Technology and A-Link may be in this supply chain harmonic reducers and vision lenses? Kinda go through all this stuff every day, but don't wanna be a news reporter so just consolidated stuff I found interesting.
 
@@ -407,8 +337,6 @@ Just a semi recap TLDR: - $GLW glass bridge per Morgan Stanley has potential, bu
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Apparently, Korean Beauty was where all the alpha is. APR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC. Every female I know talks about their "Medicube" stick, then buying products... where you put a whole salmon's family tree on your face for better skin. The world's female population creates a bigger structural demand than hyperscalers for memory or lasers? Should have known...
 
 ---
@@ -417,8 +345,6 @@ Apparently, Korean Beauty was where all the alpha is. APR (278470.KS) is up 529%
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 So there's a IBK Research report on Boston Dynamics value chains from last month. Just a summary: IBK maps these companies to Atlas as suppliers: - Hwashin (010690) / body, arms, legs - LG Energy (373220) / battery - Hyundai Autoever (307950) / integration - Hyundai Mobis (012330) / actuators As for humanoid volume ramps: They're modeling for, 11.29K in 2028, 20k 2029, 30k in 2030... 40k in 2031, and 50k in 2032. Not quite sure why IBK and other institutions are a fan of linearly modeling S-curve volume ramps... Like adding +10K per year, don't quite think it's volume ramp is going to work like that... if I had to guess it would look more like: - 15-20k 2028 - 40k-70k 2029 - 90k-140k for 2030 Since Boston Dynamics is projecting 30k capacity by 2028 (I'm sure they'd aim to get more online by 2029-2030), as China collectively is already doing 100k EOY in 2026. In terms of competitive landscape they name: - $TSLA, Figure, Apptronik, $CCXI (Agility), as US players. Then Boston Dynamics (Korea parent owned now) - Unitree, Fourier, AGibot, UBtech, $XPEV as the Chinese leaders. - Neura, Pal Robotics, Wandercraft, Oversonic, as the EU leaders. They also did quite a lot of valuation modeling around Hyundai Mobis/Hyundai Autoever/Glovis. Regarding the BD economic ownership from 27.9% from Hyundai Motor, 11.3% from Mobis, and 11.3% from Glovis. So at least institution are valuing humanoid segments inside companies lot more now. Then from report assumptions: - 31 actuators per Atlas - $1K per actuator in 2028 - $134K Atlas ASP, Which implies actuator cost of final selling price is roughly 23–28%. Probably the more interesting statement was IBK stated that actuator capacity is biggest signal for volume ramp. eg. every 310,000 units of actuator capacity supports 10,000 more robots. So tracking actuator outputs, yields, ASP is a cleaner read on 2028-2030 ramp. I didn't have much personal takeaways, but hopefully others find it interesting, maybe around Hwashin as a core supplier or around actuator capacity as an indicator.
 
 ---
@@ -426,8 +352,6 @@ So there's a IBK Research report on Boston Dynamics value chains from last month
 ## 2026-07-12 19:25:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Apparently there’s a new popular trend to bearpost trillion dollar companies. Like $NVDA or $TSM. By finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed. -> if the company doesn’t respond, stock prices/sentiment are damaged. -> if the company issues a response, they can’t go into detail since supply chains are confidential… but people still doubt them -> Poster gain more impressions, then does it again with more views the next time. Don’t quite think this is very healthy, with more folks copying that playbook. Especially around incentive structures.
 
@@ -439,8 +363,6 @@ Apparently there’s a new popular trend to bearpost trillion dollar companies. 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Sk Hynix is now trading under $SKHYV! It's now up an insane 16%. I wonder how Sk Hynix over in Korea is going to react on Monday.
 
 ---
@@ -448,8 +370,6 @@ Sk Hynix is now trading under $SKHYV! It's now up an insane 16%. I wonder how Sk
 ## 2026-07-11 01:31:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Rosenblatt on recent optical sector weakness from $AAOI to $LITE: "Stocks in the Optical sector have traded poorly for the last 1-2 months" due to CPO delay reports and China capacity scares. "We think short sellers... do not actually strongly believe in the thesis." Multiple short sellers told them they will likely close their positions... late July and early August. Further, they say they plan to buy Optical stocks in 2027 for the scale up CPO opportunity. Hilarious report on laser weakness, read is very positive for $SIVEF, $COHR, and others moving forward. I've been long on CPO sector, but seems like institutions want entry points, just a bit later on.
 
@@ -459,8 +379,6 @@ Rosenblatt on recent optical sector weakness from $AAOI to $LITE: "Stocks in the
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. In what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that "flattens networks and cuts transceiver TAM 40-50%". Rosenblatt TLDR: They've already modeled for this, even though each XPU may use fewer transceivers. The number of XPUs is growing so quickly that total optical demand should still rise. On lasers architectures for CPO: VCSELs are useful as a credible bridge for NPO/short reach. Ideal architecture though for CPO is UHP CW over other lasers, and cites Broadcom for that statements. Which happens to supports my core $SIVE thesis. I feel like Rosenblatt and I share the same views on a lot of things, I like the way they roll.
 
 ---
@@ -468,8 +386,6 @@ Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. In what appears to be an indire
 ## 2026-07-11 18:45:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. By building their own ecosystem instead of being sucked into another. It's been awhile since $GOOGL, Apple, Microsoft, and others had some genuine disruptors.
 
@@ -481,8 +397,6 @@ Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissin
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. This is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Compute headlines, and another insider sale report from another photonics director. Typically, insider sells for any number of reasons. But having the CEO buy on the open-market is the clearest signal in management confidence. Following $GFS, $JBL, and other laser supplier partnerships, and his goal of NASDAQ listing in the near term. Feels like the CEO sees a clear potential for Sivers to become the next photonics giant (myself included).
 
 ---
@@ -490,8 +404,6 @@ Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 
 ## 2026-07-10 03:35:56
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 "China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly." Elon's comment: "For now" Meanwhile, 1X today posts a video of the most advanced humanoid hand. Looks like the inflection point for American humanoid programs is here? Both technologically with players like 1X and with mass production with $TSLA? I'm am personally long on Agility through $CCXI targeting commercialization with Amazon and others. But I'm proud to see American robotics as a whole go brrrr.
 
@@ -501,8 +413,6 @@ Three new $SIVE insider purchases today. Most notably: $SIVEF CEO Vikram bought 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yep, it’s interesting to witness retail capitulation. After we got Bloomberg Meta compute article cleared up by their internal memo. And the 2 reports on delays were denied by Nvidia. Both of which caused the selloff in the first place... So Photonics / Nvidia’s roadmap hasn’t fundamentally changed: $LITE is still completely sold out for the next 2 years and likely into 2029. $SIVE is about to volume ramp with GlobalFoundries, Jabil, Poet, Ayar, and other hyperscaler suppliers. $TSM COUPE and their TW suppliers from Shunsin to Foci aren’t randomly disappearing into the void. $AAOI and their $471m/month h2 2027 revenue projections haven’t changed. $IQE and their epiwafer contracts with Macom and Tower Semi haven’t disappeared. $AXTI ownership of 40% of the InP substrate supply chains haven’t suddenly disappeared. As with any theme from Rocketlab + Space sector 50% drop back in 2025. Or Nebius + Neocloud 50% drop entering 2026. Or the Samsung/SK Hynix crash from Iran War LNG/Helium/Oil fears few months ago. Volatility from indiscriminate thematic selloffs isn’t typically representative of individual company fundamentals. Retail tends to build conviction over price movements and imaginary charts, then lose that when a stock drops. And institutions are probably placing limit orders to capitalize on that. Conviction shouldn’t be tied to the quote of a stock on a certain day, but long term revenue or operating income growth.
 
 ---
@@ -510,8 +420,6 @@ Yep, it’s interesting to witness retail capitulation. After we got Bloomberg M
 ## 2026-07-10 19:17:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The "Mythical Golden Egg Dragon Candle" predicted the $SIVE rally today. If you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. Do you guys think it's time I should sell courses on TA?
 
@@ -521,8 +429,6 @@ The "Mythical Golden Egg Dragon Candle" predicted the $SIVE rally today. If you 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. Pairing with Highlanders, a Japanese robotics company. - Agility $CCXI x Foxconn, Toyota - Apptronik x $JBL, Mercedes - Highlanders x Mitsubishi - Figure × BMW - Boston Dynamics x Hyundai (subsidiaries) - Optimus x Tesla (Internal) - Rainbow Robotics x Samsung (subsidiaries) Idk if it's just me of there's a lot of patterns with humanoid companies playing buddy-buddy up with a major auto player/manufacturer. If they're not already vertically integrated by one already. Then the Chinese players like UBTech/AgiBot/Unitree don't seem to care and work with a wide variety of auto players in China. Curious how this trend plays out...
 
 ---
@@ -530,8 +436,6 @@ Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. Pairin
 ## 2026-07-10 22:38:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing. Is because they can do degen option calls instead of individual stock purchases.
 
@@ -545,8 +449,6 @@ Why do I have this weird feeling the main reason retail is excited SK Hynix NASD
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. And they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes. I see it as long term ownership over: - the next hyperscaler with $NBIS, projecting $7-9B ARR Q4 - 40% of the InP supply chain with $AXTI - leader of the next optical shift with $SIVE with CW DFB lasers - leader of US humanoids with $CCXI inside a future trillion dollar theme And so on… At cheaper valuations. While I might do things like lowering margin or hedging with my own portfolio, I’m personally not panicking when something drops if the thesis didn’t change. NFA and obviously depends on people’s investing timeframes: Since a crash would be life changing for people that depend on investing for rent or tuition. (Which is why I personally think others should do their own DD and choose longs in line with their own risk profile) But my personal goal is maximizing exposure to the next-gen supercycles before they hit. I think institutions think the same way as well, which is why there’s a lot of induced volatility along the way to maximize their exposure. If a thesis ends up correct, the valuation should be reflected in the long run.
 
 
@@ -559,8 +461,6 @@ Let’s put it this way: Retail thinks a 30-60% drop is a “falling knife” wh
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $META to build a new $10B DC in Canada to expand AI capacity. So much for the media framing of “Meta Compute”as overbuilding and cutting capex.
 
 ---
@@ -569,8 +469,6 @@ $META to build a new $10B DC in Canada to expand AI capacity. So much for the me
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5. That’s much more cost efficient as well… Kinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth among US companies recently) Never doubt Elon, maybe they might end up leapfrogging Anthropic + Mythos?
 
 ---
@@ -578,8 +476,6 @@ Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM
 ## 2026-07-09 20:46:14
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Nothing like an internal $META memo getting published. Showing AI ramping as usual: - LTAs signed with Samsung and $SNDK for memory - LTAs signed with Sumitomo Electric for fiber optics - Expected to deploy 7GW compute infra this year, and doubling in 2027. - as much as $145B capex spend this year “It plans to launch a chip about every six months through 2027”
 
@@ -595,8 +491,6 @@ Nothing like an internal $META memo getting published. Showing AI ramping as usu
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 This is the average visual TA bro, takes a 50% 50% coinflip: If it goes the other way, they say "ABC Pattern Invalidated", should have known... If they get the coinflip right, they promote their $40/month chart. -> People drawing swiggly lines over KOSPI mean nothing where it heads. When it's primarily Samsung/SK Hynix and forward operating income growth from DRAM/NAND. -> The swiggly drawing over $SIVE, $AEHR, and others mean nothing. When it's primarily hyperscaler suppliers, thematic premiums, and volume ramp orders determining valuations. Then if something randomly goes from $1 to $60 like $AXTI, they claim they spotted it with their "Golden Egg Dragon Candle", while ignoring anything with InP substrate and otpical demand. There's rare times like these where it's a massive sector drop all together. But now the TA bros are showing up everywhere saying here's a $40 course on how they predicted it with swiggly lines.
 
 
@@ -608,8 +502,6 @@ This is the average visual TA bro, takes a 50% 50% coinflip: If it goes the othe
 ## 2026-07-08 01:39:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 How is the US so far behind? Xinhua: China's output of humanoids are expected to hit 100,000+ this year. Even Morgan Stanley originally projected 14,000 for 2026... Really need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to catchup. And for more US Gov. subsidies to pour into upstream supply chains + rare earths. Cause this disparity between US vs. China mass production is getting ridiculous... But it almost feels like the start of Russia/US Space race Sputnik Moment for robotics?
 
@@ -623,8 +515,6 @@ How is the US so far behind? Xinhua: China's output of humanoids are expected to
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing: Spokesperson: "Meta is still hungry for even more computing power. It is still moving forward with plans for expensive new data centers and recently inked major computing deals with $CRVW, Google, $ORCL, and others." Just dropped that in with the Meta Muse announcement, and evenn threw in the "expensive" framing with DCs to signal capex. But little late given we're likely seeing a lot of margin liquidation cascades and heavy losses from media framing earlier.
 
 
@@ -636,8 +526,6 @@ Just Bloomberg and $META doing damage control after crashing the market with Met
 ## 2026-07-08 03:49:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. For $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out. Since there were warnings that: Sensors could be disabled or exploited remotely, given Hesai firmware update disabled lidar units on February 29 (as evidence). By second order effect, this is also bullish for upstream laser suppliers too like $LITE and $SIVE that are used in western lidar players.
 
@@ -651,8 +539,6 @@ Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expa
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Trump: Memorandum of Understanding with Iran “is over” “It’s a waste of time dealing with them,” Trump said at the NATO summit. Always an exciting time with markets.
 
 
@@ -664,8 +550,6 @@ Trump: Memorandum of Understanding with Iran “is over” “It’s a waste of 
 ## 2026-07-08 18:14:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Trump: “Spain is a terrible partner in NATO. They don't participate. They don't pay. Cut off all trade with Spain” Tbh no clue what’s going on anymore…
 
@@ -679,8 +563,6 @@ Trump: “Spain is a terrible partner in NATO. They don't participate. They don'
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Blue Origin reportedly raising $10B at a $130B valuation per NYT. Seems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. If SpaceX and Blue Origin is able to set such high valuations.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGI2pOTFmrQopNPTU-CHDSStd0bIA-AALTD2sb_fR4VqIp8aCA8BHDAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -692,8 +574,6 @@ Blue Origin reportedly raising $10B at a $130B valuation per NYT. Seems pretty p
 ## 2026-07-07 00:34:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $NVDA refuting recent Kyber delay claims: “Our roadmap is intact”. lol, damage has already been done with stocks in many markets (esp. in Taiwan/Japan/Soutj Korea) crashing after the “report”
 
@@ -707,8 +587,6 @@ $NVDA refuting recent Kyber delay claims: “Our roadmap is intact”. lol, dama
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 It’s interesting to witness psychology around valuation anchoring + scarcity. Retail, for example, are buying Figure, last valued at ~$39B through CEFs… At $158B, since it’s private, round 4x valuations. Then Agility Robotics $CCXI, which has broader commercialization. Is at ~$4.3B pre-money and publicly available before the name change. At closer pricing that $AMZN, $NVDA, SoftBank, and Foxconn vaulted it at. Yet some end up paying 4-5x prices of already hiked private investor rounds for exposure… I’m convinced if Agility raised a very small private round at $39B as well from $2.5B (which it definitely could), to set a valuation anchor. Investors would be foaming in the mouth for a private allocation, just due to psychology rather than underlying fundamentals. We’ve also seen this anchoring with $SPCX recently at $1.75T. Peak market inefficiency? Or lack of knowledge from retail?
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074214669808717906#m)
@@ -718,8 +596,6 @@ It’s interesting to witness psychology around valuation anchoring + scarcity. 
 ## 2026-07-07 05:14:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Was a sad few months for $RDDT. But glad it's finally back above $200. Reddit was doing: - $663M revenue w/ 91.5% gross margins - $204M GAAP net income - 45%+ fwd Y/Y growth after 69%+ growth. - Net profit is ~30.7% of revenue Felt very weird to see a profitable company get dragged down after earnings. But in hindsight, given the increase hyperscaler capex, the drop felt more like it's more relative opportunity cost more than fundamentals? Since a lot of inflow poured into $MU / Sk Hynix that are bottlenecked into 2029. Or with laser bottlenecks like $LITE that last into 2029 as well. Same thing happens in reverse after selloffs ig, even if fundamentals didn't change. Been seeing a lot of noise with memory optimization or Chinese players... but don't quite think you sign 16T+ LTAs if memory was getting flooded or not used anytime soon. Same with optical players... if in earnings, they state anything they make gets bought, I don't quite think a lot of the noise has material effect on their fundamentals. Regardless, nice to see some recovery with familiar faces like $HOOD, $HIMS, and $RDDT though.
 
@@ -733,8 +609,6 @@ Was a sad few months for $RDDT. But glad it's finally back above $200. Reddit wa
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Trump: “You have a couple of guys who went short. Those poor ******* they’re in big trouble. They’re being wiped out. The short guys. I never liked short guys because they’re betting against the country”.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFz2pMpuZlpxJ2J5CTqce4rM8q3JPYAAIIEGsbmMRgVq89h6otz6s9AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -746,8 +620,6 @@ Trump: “You have a couple of guys who went short. Those poor ******* they’re
 ## 2026-07-07 16:10:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 One of the dumbest thematic selloffs I’ve seen to to date off: - $META compute news that’s not new - CPO delay report 1, that got refuted by $NVDA - CPO delay report 2, that got refuted by $NVDA High confidence, institutions will end up going long on the same names they’re bearposting after retail capitulates.
 
@@ -763,8 +635,6 @@ One of the dumbest thematic selloffs I’ve seen to to date off: - $META compute
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Be Samsung at $1.24T: > market: we don’t think you can keep hiking memory prices > proceeds to hikes dram by 20% > releases earnings > most profitable company in the world beating $NVDA and $AAPL > operating profits growing 1803% Y/Y market: sells off Samsung -7%
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074416685843612031#m)
@@ -774,8 +644,6 @@ Be Samsung at $1.24T: > market: we don’t think you can keep hiking memory pric
 ## 2026-07-07 20:13:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Raymond James initiated coverage of $SPCX with “Strong Buy”. Giving it a $800 PT, valuing SpaceX at a ~$10T valuation. No words. Jokes about “institutional” notes for retail write themselves.
 
@@ -789,8 +657,6 @@ Raymond James initiated coverage of $SPCX with “Strong Buy”. Giving it a $80
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Just putting it out there: If everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... Which are all down -4% to -10%+ today so far. Probably doesn't have anything to do with individual fundamentals. Indiscriminate selloffs from things like cascading margin liquidations, usually provide compelling opportunities if the underlying improves.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074494514061017508#m)
@@ -800,8 +666,6 @@ Just putting it out there: If everything crashes together from $NBIS, $MRVL, $IN
 ## 2026-07-06 04:32:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Came across an interesting report from SVRC Research called "State of Robotics 2026", published in April. Which listed: 1. Figure AI 2. Agility Robotics $CCXI 3. Apptronik 4. $TSLA 5. Boston Dynamics 6. Physical Intelligence 7. 1X Technologies 8. $AMZN Robotics 9. Covariant 10. Skild AI As the National Champions of the United States robotics program. "The United States leads the world in where robotics is heading: Fundation models, OpenAI-style scaling laws applied to action, autonomous vehicles. While losing the race on where robotics is shipping today." Then it frames: 1. Rare Earths Exposure: from Neodymium for motors to samarium-cobalt for high-temp applications as a critical vulnerability. 2. Actuator dependency. Series elastic actuators, quasi-direct-drive motors, and precision reducers overwhelmingly sourced from Japan, Germany, and China As one of the main vulnerabilities alongside Manufacturing velocity/data collection cost/regulations. Then their take was: "With at least six well-funded US humanoid companies competing for a market still in early formation, we expect at least two significant consolidation events (acquisition or merger) in 2027". With Logistics / E-commerce (like $AMZN / $FDX) and Automotive from $GM to $FORD as being the immediate top use cases for deployment. I think it's just interesting to see a lot of my points I've been talking about reiterated by research firms. Regardless, I do think it's going to be a major frontier race between the US and China. Agility Robotics (which I own), Tesla, Figure, and Apptronik as leaders representing the USA. Competing against Unitree, AGIbot, Ubtech, and others in China.
 
@@ -821,8 +685,6 @@ Came across an interesting report from SVRC Research called "State of Robotics 2
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Nomura’s report cites $AXTI and $IQE as the leading players. Then regarding ASP updates: - 2in InP substrate price hike 42-76% - 3in InP substrates price hike 78% - 2in EML Epiwafer price hike 50-75% - 3in CW Epiwafer price hike ~40%+ - Prices lower domestically in China as expected. Hyperscalers bottlenecking upstream photonics confirmation validation… on all fronts from pricing, demand, to supply shortages. My personal expectation was that price hikes would keep going up like $SNDK given ramping optical demand. We’ll see if this turns out right given another 2 years of the demand curve.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFpGpLSZ_obY3gA25iA4CDSqzijmNWAAI_EGsb9e9YVloHUT2fUxwwAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -837,8 +699,6 @@ Nomura’s report cites $AXTI and $IQE as the leading players. Then regarding AS
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I personally think $SIVE can be the next $LITE. In the past few months alone, we've seen: 1. Partnerships with O-Net pushing ELS into mass production 2. $JBL 1.6T LRO mass production signals with "relatively dramatic moats" for pluggables using Sivers. 3. $GFS SCALE reference level laser for hyperscalers with pluggable, NPO, CPO. -> -> where $AMD and others went to GFS for CPO. 4. Ayar, which joined $NVDA NVLink for CPO -> -> which removed Lumentum/Macom from their website and likely made Sivers their primary laser supplier. -> -> AlChip likely Trainium win from Amazon price placement (Ayar's customer) -> -> GUC rack level design in with Ayar. -> -> Raised $500m for mass production by AMD, Alchip, Mediatek, and NVIDIA 5. ~ $AEVA starting HVM H2 2026. 6. $POET starting HVM H2 2026 with hyperscaler suppliers like Lumilens ("top 3 hyperscaler initial customer") 7. TFLN + $SIVE CW Lasers with Lightium 8. Likely direct relationships with $MRVL Celestial and CPO players like Lightelligence/Lightmatter. 9. Multiple new undisclosed relationships for pluggables following Jabil in their quarterly transcripts With new Trendforce reports that $AMD and other hyperscalers are trying to source LTAs for CW laser sources, serving as a direct catalyst for independent CW sources. So when hyperscaler suppliers from Jabil to O-Net are incentivized to mass produce as many as they can: That's very material for revenue for Sivers relative to current valuations, and it looks like just a waiting game. Even in the past week: - $SIVE raised an oversubscribed institutional round for volume ramp... This is very nuanced since Sivers is fab-lite so it's not going to in-house foundry capex to scale. Likely toward Win Semi and others (they mentioned other partners too), for laser scaling + foundry allocations. So this is likely signaling material for revenue ramp is coming. - Sivers also mentioned NASDAQ listing completion targeted in the next few quarters (probably H2 2026 or Q1 2027 is my est. timeframe). This would fund M&A efforts, since it's impossible with the fundraising environments in local Swedish markets. As for becoming the next $LITE: M&A makes their lasers more valuable, so downstream IP acqusition -> into contract manufacturing like $FN, and others to make the full 1.6T pluggable or optical engines. Is how they get there, since laser array ASP scaling that people are modeling off of, wouldn't command a $60B+ valuations. There's going to be a lot of bridge architectures like NPO/pluggables, etc and noise around certain architectural delays in the meantime. But markets misunderstand laser companies like $LITE, $SIVE, $AAOI and others are used across different architectures compared to if you just look at certain passive optical components. So markets see "CPO delay headlines" algos sell off laser companies that benefit from other architectures. Being included in the pluggable 1.6T ramp to CPO scale out (Which Sivers is included in), helps bridge revenue waiting gaps until scale up inflection point H2 2027. I'm personally holding long term, since I haven't seen a ~$1.4B company mapping to this many hyperscalers before. TLDR: - Waiting on volume ramps from different architectures to play out across their hyperscaler supplier mapping -> 1.6T LRO/CPO scale out late H2 2026 start into high volume ramp 2027 -> H2 2027 CPO scale up volume ramp - Waiting on NASDAQ listing likely H2 2026/Q1 2027 for M&A efforts to fully take off, unless Sivers get more creative with equity financing in the meantime.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2074046947434860971#m)
@@ -848,8 +708,6 @@ I personally think $SIVE can be the next $LITE. In the past few months alone, we
 ## 2026-07-06 17:29:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Kelper upgrades $XFAB to "Buy" citing: - Melexis demand strengthening “week-after-week, day-after-day” (their lead customer). - AI giving XFAB a structural growth leg with SiC, GaN, and photonics offsetting auto cyclicality. - Scarce Western speciality foundries like $SILEX commanding higher multiples. "X-Fab remains the cheapest specialty foundry peer on every multiple, trading at 4.8x 2027 EV/EBITDA versus a peer median of 14.5x" I treat this as good signal for the core fundamentals improving like auto players. But in terms of unpriced long term growth vectors, I'm personally looking at XFAB from a different angle in terms of photonics growth with photonixfab. Given $NVDA as a potential key driver. But it's hard for traditional firms to price these types of active developments into valuation models until there's volume contracts.
 
@@ -862,8 +720,6 @@ Kelper upgrades $XFAB to "Buy" citing: - Melexis demand strengthening “week-af
 ## 2026-07-06 18:19:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I find it hard for any bears to defend against this humanoid bull case.
 
@@ -879,8 +735,6 @@ I find it hard for any bears to defend against this humanoid bull case.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Retail: buys memory, optical, upstream semi names. Media: “retail bubble drives AI meme stock bubble higher”. Institutions that do the exact same thing, with the exact same names: Media: “Institutions make record profits by betting on what goes inside AI Server Racks”.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFuGpLoRAz-gYmqvbmGX5CuYT2mSAiAAIaEmsbmMRYVrltVqiR23JJAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -895,8 +749,6 @@ Retail: buys memory, optical, upstream semi names. Media: “retail bubble drive
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow, $WULF signs a $19B DC lease with Anthropic today. Probably a very positive tailwind for the Neocloud/Colo sector.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFumpLqFMCVJVQQcdjn9dO6mlg6nnoAAIrEmsbmMRYVgVosbGZ3BnZAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -909,8 +761,6 @@ Wow, $WULF signs a $19B DC lease with Anthropic today. Probably a very positive 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I’d like to give a special thank you to Bloomberg’s piece on $META compute. As well as the 2 back to back bear posts on CPO delays. But I believe thematically photonics, memory, energy, and physical AI will outperform in the long run.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFu2pLxWSpZo7-X2qnfkj7OT9LQvXdAAJeEmsbmMRYVjP58jmXNrNkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -922,8 +772,6 @@ I’d like to give a special thank you to Bloomberg’s piece on $META compute. 
 ## 2026-07-05 02:02:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 UDN Money report "殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許多公司慘遭魔手": - SemiAnalysis, released a report in June, questioning the timing of the launch of the CPO on the grounds of low yield and delay, which caused the photonics sector to collapse. - The agency then partnered with Tema to launch a photonics ETF. - The shares held in the ETF under the trading code LAZR happened to be the photonics stocks that were mentioned negatively in the report $HIMX and $LITE, which were specifically targeted negatively in their article "Powered Down, Lights Off", have been bought in Semianalysis and Tema's new ETF after the optical sector crash.
 
@@ -939,8 +787,6 @@ UDN Money report "殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許�
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 an apple a day keeps the bottleneck away
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2073486870315745406#m)
@@ -950,8 +796,6 @@ an apple a day keeps the bottleneck away
 ## 2026-07-05 05:44:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Nikkei - $JD E-Commerce Giant CEO warns "Robots Will Replace 700,000 Delivery Workers". Per FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation has become a new threat to China's already severe job market. Liu Qiangdong, revealed that the company has signed contracts with approximately 120 schools to retrain its delivery workers, enabling them to transition into new roles such as robot repair and maintenance... "Beijing has started to track AI’s hit to jobs as a national priority." This follows other corporate strategy reports like $AMZN, of avoiding 600,000 future hires with robots. But it's very interesting to see the shift in worker roles to robot support. Maybe $DASH to $UBER to $MELI, we'll all start to see this rollout following China. There's a lot of retail disbelief over humanoid/robotics commercialization. But feels like the direction industry is heading down is pretty clear.
 
@@ -967,8 +811,6 @@ Nikkei - $JD E-Commerce Giant CEO warns "Robots Will Replace 700,000 Delivery Wo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Leaked Anthropic docs show plans to secure 1.4GW capacity from Australia, amounting to ~$21.6B. Recently $IREN, $SHAZ, and other Neoclouds have been building sovereign DCs in Australia. Guess like a lot of things are stating to make more sense connection wise? (disclosure: no open positions in any of the above).
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFcGpKLJh-KtPNEwtMg2YrlRHI-Vt5AAJiE2sb9e9QVtD6-XIeWyIzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -983,8 +825,6 @@ Leaked Anthropic docs show plans to secure 1.4GW capacity from Australia, amount
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck): - Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. - As demand from data centers has increased, production of Samsung SDI's cylindrical cells has also risen sharply. - Industry sources said Panasonic, Samsung are experiencing supply shortages for BBU cells. So main beneficiaries imo look like: - Samsung SDI (KRX: 006400) / Panasonic Energy as cleaneset winners - Murata (6981) / this keeps showing up everywhere with MLCC and others lol - LG Energy (KRX: 373220) / incoming There's not really much direct US players? But adjacent read through like $VRT, $ETN or $BWA / $ENS. Not quite in my domain emphasis cup of tea though. I wouldn't conflate this as all shortages having a massive TAM, but there could be opportunities...
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFdWpKX3ToNiU2OsJqYvdS4nD5w41wAAKrE2sb9e9QVhDGEHRL1PC5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -997,8 +837,6 @@ Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottl
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Just some consolidated updates on memory: - $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized. - Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / Kioxia type players are happy alongisde $SIMO and upstream. - MS remains especially positive on Macronix/Winbond - UBS expects the average price of DDR contracts in the Q3 2026 to increase 32% | 18% Q4, vs. 17% and 12% est. - UBS expects NAND flash to be raised 30% from prev quarter. - Samsung reportedly plans 20% DRAM hike Q3. TrendForce recently forecast DRAM contract prices to rise 13 to 18 percent in the third quarter from the previous quarter, so this hike beats expectations. Something to note: Lot people see 20%... and don't think it's a lot compared to the 70-80% from previous quarters. But if you hike something by 100%, then hike something by 100%, then hike something by 30%, it's a lot more than people estimate since it's compounded. Similar to tracking inflation. I've already made projections going into 2028 from the start of the year on my memory names... I'm just sitting back and watching things play out through all the "memory optimization" and "they can't keep price hiking like this!" noise.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2073793206408667392#m)
@@ -1009,8 +847,6 @@ Just some consolidated updates on memory: - $MU leads new 1.5T Yen investment in
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I'm bearish on humans. Hard to see people still having a job if humanoids come out at <$15K mass production. No insurance, no JP Morgan HR cannon scandals. And can do everything a person can, but better + 24/7.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2073196939785711796#m)
@@ -1020,8 +856,6 @@ I'm bearish on humans. Hard to see people still having a job if humanoids come o
 ## 2026-07-04 15:18:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 TIL floating DC and ocean compute exists? Apparently it’s free cooling + optimal for places in tight geography… It’s going to be wild taking a cruise ship, and passing by a bunch of $NBIS or Samsung floating AI DCs one day. If this ever becomes a thing like orbital compute?
 
@@ -1035,8 +869,6 @@ TIL floating DC and ocean compute exists? Apparently it’s free cooling + optim
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage at coding. 3Y later, Mythos is considered a modern day “nuke” for cybersecurity. People keep saying humanoids can’t do X or Y task today like plumbing or DC wiring. No sht, but it’s about where things are heading over the few years. And it’s clear to me and VC apparently that we’ve just hit the inflection point where soon: majority of labor you think is human-only, can be replaced by robotics/humanoids. You're already seeing this too with internal strategies: Remember $AMZN leaked strat planned to avoid hiring 600,000 workers by them with robots like $CCXI? If you see past the "assistive robotics" public image framing to prevent protest, it's clear the goals is maximizing, opex efficiency. The main areas I think are safe however are regulation bound (eg. Medicine), ultra specialized labor, or require human/emotional connections. But I think you'll be blown away by the rate of change when frontier technologies become national security races between US and China... especially when China is currently in the lead.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFUWpI3_k9ve4zyqrJ-cDBiZ-hJ2XqAAJfEWsbC1FIVlwYOBvfP4Q8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1048,8 +880,6 @@ Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage
 ## 2026-07-03 00:56:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA. Quantum barely has any revenue. $LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so strained that they buy CW lasers off competitors (earnings transcript) $COHR is bottlenecked, so they buy EML off Lumentum. Then, $AAOI is coming in with Made-in-America independent CW capacity, are projecting $1.4B/quarterly revenue ending H1 2027 of a stupid $9.3B MC today. So all the CW capacity from independent players who have it now like $AAOI or $SIVE are likely to become scarce resources. Many other hyperscalers have already started LTA discussions (per Trendforce). And players like $AMD are currently talking with players such as $AAOI (Rosenblatt channel checks). Thematically, next 2 years is 9x TAM to US$154B per GS reports, especially with 16x/45x dollar content increase in scale out/scale up. Then there's the overall thematic AI drop from $META, which is widely misunderstood because people conflate what "excess capacity" means. And as UBS mentioned, Meta planning a cloud offering is NOT NEW NEWS. Bloomberg just has a tendency to publish information that causes doom drops across the semi sector like Nvidia export controls a few months back. But I'm familiar with what I'm holding so I'm confident in these numbers playing out. Especially when all the major players are sold out, the fundamentals catch up eventually.
 
@@ -1071,8 +901,6 @@ Photonics is backed by actual revenue numbers and it's an architectural shift ch
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. Personal Rankings: 1. Agility Robotics via $CCXI 2. $TSLA Optimus ($1T+ company) 3. Figure at $39B from 2025, likely higher now. With Tesla likely taking the lead a year from now. So at $16, you have a ~$4B MC pre-money humanoid player. Which is already inside $AMZN and $MELI (ideal use cases to start out, before step-functioning to general-use), with $AMZN, $NVDA, Softbank, Foxconn, and others as investors. NFA, but at those valuations... there's direct exposure for the first ever humanoid player today, that's likely further ahead than Figure for commercialization. No hard feelings about Robostrategy, but it's over 4x+ NAV: Which would value Figure at $156B... While there's the #1 commercialized humanoid player with Agility at $4B today. So my personal preference is $CCXI.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072741541404406008#m)
@@ -1090,8 +918,6 @@ Agility Robotics is literally the #1 humanoid player in the US in terms of comme
 ## 2026-07-03 03:12:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Always a fun time seeing semi markets crash from Bloomberg report framing once again… UBS analyst on $META report: “this is not new news”. Regardless: $AEHR down -18.3% $AAOI down -17.13% $SIVEF down -15.4% $SNDK down -14.8% $TER down -13.8% $GLW down -11.4% $MRVL down -11.2% $LITE down -10.2% $NBIS down -7.8% Getting PTSD from Bloombert’s previous misleading report on AMD/Nvidia global export controls earlier this year that crashed semi stocks. FYI: Meta doesn’t randomly buy $48B+ worth of neocoud contracts if they overbuilt capacity and can cut capex… Markets are stupid sometimes.
 
@@ -1124,8 +950,6 @@ Always a fun time seeing semi markets crash from Bloomberg report framing once a
 ## 2026-07-03 03:33:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just this hour: BlueCrest Capital Management and its Billionaire Michael Platt crossed the threshold and disclosed a 5.6% stake in $CCXI. I knew Agility Robotics would be popular…
 
@@ -1175,8 +999,6 @@ Just this hour: BlueCrest Capital Management and its Billionaire Michael Platt c
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Does anyone else have this annoying seed planted in their mind too? Whenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072781715916169660#m)
@@ -1190,8 +1012,6 @@ Does anyone else have this annoying seed planted in their mind too? Whenever I s
 ## 2026-07-03 05:30:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $AXTI signs 3-year wafer deal with $COHR. "Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity."
 
@@ -1209,8 +1029,6 @@ $AXTI signs 3-year wafer deal with $COHR. "Coherent will make a prepayment of $2
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $META: upcoming AI model “Watermelon” has caught up to OpenAI’s GPT 5.5. Wang noted it uses an "order of magnitude" more compute than its predecessor “Avocado”. Who said they were out of the AI race again?
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFJmpHQc-gnERQa2nvDC1kZNy6nXsYAAKKEGsbg2VBVod1rLbkiWIQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1224,8 +1042,6 @@ $META: upcoming AI model “Watermelon” has caught up to OpenAI’s GPT 5.5. W
 ## 2026-07-03 12:54:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Lot of misinformation recently about $META. Recently major journals have been stating “AI AGENT DEVELOPMENT OVER THE LAST FOUR MONTHS HASN'T 'ACCELERATED IN THE WAY WE EXPECTED” To push some narrative about Meta dropping out of the race or lowered capex: As Wang clarified: Zuckerberg was talking about the industry as a whole.
 
@@ -1242,8 +1058,6 @@ Lot of misinformation recently about $META. Recently major journals have been st
 ## 2026-07-03 13:22:33
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 LeaderDrive (688017) is now at all time highs after hitting a 20% limit up today. Looks like robotics sector excitement is palpable… Largely driven by US and China’s frontier humanoid companies with $CCXI / Agility Robotics As well as Unitree (STAR listing approved today) both going public.
 
@@ -1263,8 +1077,6 @@ LeaderDrive (688017) is now at all time highs after hitting a 20% limit up today
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 SemiAnalysis on $META “overcapacity” and market reactions with $NBIS and others: “We believe Meta’s datacenter and compute will accelerate”. “Capex in 2027 will be shockingly high”. Recent global crash, especially in the photonics sector was stupid… Off misleading narratives of Meta dropping out of AI race to sell excess compute… When in fact things are likely to accelerate from Meta catching up to GPT5.5. I’m personally expecting a sharp V recovery, especially with the names that crashed 50%+ from this narrative.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFNWpHV6kCCUYygri3h1yi-R3TRJqLAAKyEGsbg2VBVht_qg4soa81AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1277,8 +1089,6 @@ SemiAnalysis on $META “overcapacity” and market reactions with $NBIS and oth
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Be SemiAnalysis: - Post a scathing piece on CPO delays + optical company valuations, causing a crash. Which $NVDA, analyst desks, and major optical companies refuted - Launch an institutional photonics ETF after optical names dropped 40-60%.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072936659369517341#m)
@@ -1288,8 +1098,6 @@ Be SemiAnalysis: - Post a scathing piece on CPO delays + optical company valuati
 ## 2026-07-03 18:09:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 So positive readthrough on the upstream glass substrate supply chain: - Sumitomo Chemical and Samsung Electro-Mechanics formally establish JV in Korea within the year to handle the glass core substrate business (GlaSSEM). Main thing was timeline/funding was finalized: "full scale commercialization targeted H2 2027" for the Samsung/Dongwoo JV / KRW 482.1B planned capital. Think the "full scale commercialization" is the word to highlight, since that would imply timeline moving faster than expected than starting ramp or early production H2 2027. So... TGV/LIDE with $LPK (that I own)/E&R and Onto in terms of yields are just some examples of possible sector beneficiaries. Since companies like LPK stated in the past: “80% of customers among major global players have selected LPKF equipment” and targeted "70% of LIDE market share target for TGV in the glass-core ramp". These players also typically have revenue pulled forward, since equipment orders during capex cycle hit before actual ramp. Regardless, just an update on developments.
 
@@ -1305,8 +1113,6 @@ So positive readthrough on the upstream glass substrate supply chain: - Sumitomo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Just some public market read through from Chinese private VC markets: Institutions are pouring funds into physical AI and world models. 1. Large models / LLMs: ~$23.56B 2. AI infrastructure + technical layer: ~$15.74B 3. Embodied intelligence / physical AI: ~$13.36B 4. AIGC applications: ~$8.79B 5. Autonomous driving + other Top-20 cluster: ~$3.82B, but not apples-to-apples with the above. Some notes: - "Early-stage pure foundation-model funding is basically closed". Looks like more funding is just being put into existing leaders and going into World Model companies. My guess is that we'll likely see the same in the US with Anthorpic/OpenAI consolidation. - "World models have become the biggest consensus in early-stage investment." I said months ago 4D AI/World Models would be the most interesting moving forward, and called out $AEVA as potential exposure. But there's not exactly any pure play exposure. But probably next we'll wait for the next IPOs here in this sector maybe H1 next year. - AIGC application sector is the most mature for AI technology commercialization "Artificial Intelligence Generated Content commercialization is mature but no clear winner yet". Makes sense. in the US there's stuff like Grok Imagine, Google Nano Banana, etc. no clear winner too. especially for video. _ TLDR: Continued funding into AI infrastructure/semiconductor supply chains. Huge capital rotation influx into physical AI / embodied brain / humanoids + world models from capital inflow. Consolidation around leading frontier model companies. Personally just validated what I've been focusing on with Agility Robotics and physical AI players (eg. leaderdrive, harmonic, etc) in public markets... As new potential opportunities in terms of capital rotation. But sadly no world model pure play exposure yet.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFQ2pHxJlvVgmdtGcT07MTZiCWPHFZAAIBEmsbC1FAVjfrYzWTxtweAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1320,8 +1126,6 @@ Just some public market read through from Chinese private VC markets: Institutio
 ## 2026-07-02 18:34:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I just realized Boston Dynamics CEO shared the same sentiment: “Robotics is next. America’s next 250 years will be built by robots”. However, currently China accounts for 54%+ of all global robotics deployments. - calls for Internet scaleable database of physical world (kinda got reminded of Niantic that has a huge dataset from Pokemon Go) - dedicated National robotics strategy to compete against China’s leadership in this space - ISO + regulation for robotics safety This is all high level: But my prioritize thought process is how do we support and scale a Made in USA supply chain for robotics/humanoids? I’ve been hammering home rare earths for the longest time, that the US isn’t doing enough to subsidize or scale this industry. But another thing to take note is subsidies for components, forcing $TSLA and others to use Chinese suppliers over Western ones, even if assembly is done in USA… to keep costs down. Which is why I’ve liked Agility Robotics $CCXI since they source 75% of parts from the US, despite higher BOM to start out with. Regardless it’s pretty clear this Robotics is coming and becoming a national security priority: From the days of backflipping humanoid YT videos.
 
@@ -1343,8 +1147,6 @@ I just realized Boston Dynamics CEO shared the same sentiment: “Robotics is ne
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $IREN founders award themselves $1.14B+ of stock based compensation. Vesting over 4 years timeframe. This is amid their active $6,000,000,000 ATM. I’m not going to say anything but I think it speaks for itself.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE8mpGLYR5PFm-Q_3PjSINVBUzDsdQAAKsEGsbg2U5VlYGp1NKHdWzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1356,8 +1158,6 @@ $IREN founders award themselves $1.14B+ of stock based compensation. Vesting ove
 ## 2026-07-02 14:53:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI. “Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower” Regarding Neoclouds: WF thinks it validated the massive AI infra opportunity as well as acquisition opportunities. Despite any potential competition for Neoclouds. I’m inclined to agree with Wells Fargo here and say markets completely misunderstood Meta’s excess compute comment.
 
@@ -1373,8 +1173,6 @@ Wells Fargo: $META intent to sell excess compute is a positive signal around und
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I feel like Trump is probably going to like this idea: OpenAI discussed giving the US gov a 5% stake in its company per FT. If this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop for their $1T+ in future capex/obligations.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE2GpGC_iI1wzytUAEosc9ykWpM83aAAKdFWsbg2UxVu0oXXiulJ7DAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1386,8 +1184,6 @@ I feel like Trump is probably going to like this idea: OpenAI discussed giving t
 ## 2026-07-02 01:09:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations. For the US robotic program doomposters: 1. “75% of parts” - sourced from the USA 2. Just eyeballing the graph, looks like <$30k BOM mass production. People were just looking at the ~$145K cost. 3. 10,000 RoboFab capacity, and they build in Salem/Pittsburgh/Fremont (USA). So looks like majority US supply chains with targets of <$30K mass production It does help they’re backed by $AMZN / SoftBank / Foxconn / $NVDA as investors to get this done. Just personal thoughts as a shareholder in $CCXI (NFA): My personal biggest fear were US humanoid leaders like $TSLA were just building out their entire supply chains in China. So US robotics could just be export controlled/halted down the road. eg. South China Morning Post: ‘Optimus chain’: Chinese suppliers form the backbone of Tesla’s humanoid robot initiative and engaged with hundreds of Chinese component suppliers. And that Western companies are not able to lower costs to a competitive level + are forced to use Chinese components. I'm still not sure how they're going to do it but if Agility can achieve those mass production targets with that BOM cost in the USA/West. It would be a great validation for Made in America US robotics programs. IMO the top 5 US humanoid programs right now in terms of commercialization potential are: 1. Tesla Optimus 2. Figure 3. Agility Robotics 4. Boston Dynamics (yeah KR parent) 5. Apptronik Tesla is a $1T+ company. Figure is private and valued around ~$39B. Owning Boston Dynamics through Hyundai is a bit messy. And I’d prefer not to invest in adversarial programs just as a personal preference. So I’ve been personally excited for Agility to be listed as early as September.
 
@@ -1406,8 +1202,6 @@ Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations. For 
 ## 2026-07-01 00:34:58
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Yep! Agility Robotics is currently my favorite humanoid/robotics position. They're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes). Just for informational purposes: Their V4 humanoid robot is already operating in sites like Amazon. And have V5 slated for mass production next year (they have a 10,000+ /year capacity). Investors include Foxconn, $NVDA, $AMZN, Softbank, and now Serenity. I've been personally waiting for humanoid exposure for awhile (Agility is set to be the first US pure-play listed one) to the point I was actually planning on investing in Unitree's IPO. But I'm glad now I personally have a compelling alternative now since I prefer to invest capital to build up Made in America supply chains (75% of their components are US-sourced from investor desks). There are risks assigned to SPACs such as listing delays, or cancellation. But excited to see what happens next with developments. I do hope this encourages other frontier companies to go public early on.
 
@@ -1437,8 +1231,6 @@ Yep! Agility Robotics is currently my favorite humanoid/robotics position. They'
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Just some of the more interesting news I came across recently: 1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year. 2. MS: Probe cards and test sockets likely to be priced hike (precious metal hikes + severe shortage of test pin capacity) 3. Capacitor price hikes: MLCC, aluminum electrolytic, tantalum, polymer aluminum, film, and super capacitors from Yageo. 4. $META Vistara architecture: Older DDR4 Memory with CXL as memory expansion 5. OpenAI achieved inference optimization breakthrough that halves costs and reduces GPU requirements. 6. LTAs are being signed with MLCC after Samsung signed LTA with US big tech customer 7. Grid power bottlenecks triggered 5x increase ($25B) in Brookfield's financing for $BE fuel cells. 8. Taiwan's chip packaging and testing supply chain includes major OSAT providers such as $ASX, Powertech, Winstek Semiconductor, Chipbond, ChipMOS, and ShunSin. Dedicated testing companies include KYEC, Ardentec, and Sigurd Microelectronics, while testing interface suppliers include WinWay, MPI, Keystone Microtech, Chunghwa Precision, and Hermes Testing Solutions. Leadframe makers include Jih Lin Tech, SDI, and CWTC, while major IC substrate suppliers include Unimicron, Kinsus, Nan Ya PCB, and Zhen Ding Tech. (Digitimes) - Taiwan-based OSAT providers are raising prices - Memory and IC packaging and testing capacity have both become bottlenecks in the semiconductor supply chain
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072178393878290789#m)
@@ -1448,8 +1240,6 @@ Just some of the more interesting news I came across recently: 1. MS: Revised Ch
 ## 2026-07-01 15:22:39
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 $SIVE: "Intent to complete the [NASDAQ] listing process over the next few quarters" This statement was largely missed by many screeners. Very material improvement from evaluation, to formal confirmation of timelines.
 
@@ -1463,8 +1253,6 @@ $SIVE: "Intent to complete the [NASDAQ] listing process over the next few quarte
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. It's like markets only care about physical AI and energy right now? And sold off memory and photonics that are bottlenecked past 2028?
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072242322688057579#m)
@@ -1475,8 +1263,6 @@ This market feels like an ADHD goldfish with a 5 second attention span, trading 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Just a random thought, leading US humanoid players strangely me of the current LLM dynamics: Agility ( $CCXI ) kinda feels like Anthropic for robotics. With $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). And it starts off with enterprise commercialization. Optimus is kinda off doing its own thing like xAI. Supported by Tesla/Elon and his visionary roadmap as usual. Figure is like ChatGPT With Microsoft/OpenAI investing (kinda like Microsoft), then ended up kinda competing them by building their own VlA and setting them behind. But ends up top 2 leaders anyway. Boston Dynamics is Gemini Kinda started the entire humanoids thing like transformers with backflip videos. With R&D supported by $GOOGL but somehow let everyone else leapfrog them in commercialization. And then there’s $NVDA just chilling, silently powering the entire humanoids ecosystem.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072275805330362648#m)
@@ -1486,8 +1272,6 @@ Just a random thought, leading US humanoid players strangely me of the current L
 ## 2026-07-01 20:49:56
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg. Thought Meta should go up against GCP, Azure, and AWS eventually to increase revenue streams. Meta up 6.65% premarket.
 
@@ -1501,8 +1285,6 @@ Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Basically pre-market right now with the Neoclouds like $NBIS in simpler terms. Costco: sells $5 chickens. Walmart: mass buys those rotisserie chickens and sells excess as “Walmart Chickens”. Stock Market: sells off Costco.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072307910223532245#m)
@@ -1513,8 +1295,6 @@ Basically pre-market right now with the Neoclouds like $NBIS in simpler terms. C
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”. This is an “if” they have excess capacity. And it looks like the opposite right now: Hyperscalers like $GOOGL are so compute constrained that they had to cut allocations to Meta back in March. Since Meta was using too much for internal projects. Meta was immediately constrained so it looks like they were forced to immediately sign massive $48B+ contracts with Neoclouds like $CRWV and $NBIS. Meta is selling excess capacity if there’s any, especially since their large contracts are take or pay from the Neoclouds. If anything, I’m expecting their guided capex to go up as they build out more independent capacity.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2072314906729455876#m)
@@ -1524,8 +1304,6 @@ There’s a lot of disinformation going around about $META “cutting capex” b
 ## 2026-06-30 07:01:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 For robotics companies, I have a favorable view on Unitree and Agility Robotics, two humanoid players. And I have largest concentration in Agility Robotics, since I personally prefer US humanoid players. For upstream component exposure, I currently own: - Harmonic Drive (6324) given high content BOM on things like harmonic reduction gear. - Vishay Precision for sensors and a possible candidate for Telsa Optimus. LeaderDrive (688017) and Schaeffler I have favorable views on but don't own personally. Many of the other AI DC players, I have indirect exposure to robotics like memory. Don't recommend anyone to copy, just sharing personal positions/thoughts. Humanoid sector is large, and as seen with Goldman Sachs report that "Korean companies will command a 30% direct and indirect share of global humanoid robot production". Lot of players out there globally. This was an older report but just linking it again since you see all of them pop up in GS institutional reports + what they cover. Agility Robotics is my personal favorite as of now.
 
@@ -1541,8 +1319,6 @@ For robotics companies, I have a favorable view on Unitree and Agility Robotics,
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I've reached 900k followers, thank you everyone! Just some reflection, it's actually a nightmare at higher counts... Which is new to me, since I started at almost nothing earlier this year. 1. Threats of safety, which I don't enjoy. - Random new accounts sending personal threats - Mysterious foreign accounts, sending coercive messages the moment I mention a foreign ticker If I hold an opinion about a stock, I'd prefer not to have anyone show up on the street with a knife at night since it's safety risk at this point... Never felt like I'd have to take that into consideration for holding an opinion. 2. Egregious media narratives - Lot of outlets try to dismiss my ideas like $RPI or $SIVE as "meme stocks" or me as "meme trader" when I talk about supply chain chokepoints or fundamental catalysts to revenue due to AI. Without ever covering the core ideas or hyperscaler mapping I've done. I let success validate my ideas, but it's annoying when they can just pretend their claims like "___ will imminently crash as a fact" which ends up not happening. Or that "___" is just a retail meme stock without mentioning $JBL, Ayar, $GFS or others for CPO scale up or pluggables. I'm grateful to some outlets, like in Belgium for $XFAB coverage, but many others try and paint their own narrative rather than covering a very nuanced thesis objectively. - When I mention a ticker in a foreign market, some try to frame me as some "adversarial account"! I'm just sharing ideas, and I'll always disclose positions/financial interest if I have them. If I say I have none, they just make up some narrative that I'm some foreign institution or random group inside their country that does. Some have even tried hilariously forging screenshots of me to harm my reputation, which was annoying to deal with. Since it's easier to textedit a photo and spread it around than it is to dispel disinformation. Lot of institutions know me personally by now. I just don't go broadcasting my identity to random people in the media/public, since personal security gets expensive and I just want to live about my day. 3. Endless X bot spam - I have endless hundreds of comments a day trying to link external communities pretending they're me. I manually delete, and block thousands of these accounts, sometimes hit regular people by accident. And it's extremely exhausting to the point my fingers cramp certain days. Even if I give the most blatant warnings in bio, people still get scammed and think it's me. Then I get blamed for it too. I actually had a conversation where someone asked if a scammer was me. I said no verbatim, then they double checked like 2-3 more times because they didn't believe I said no because someone had the same username on another scam platform. In another world, maybe we'll get automod type tools. But until then, it's mentally exhausting dealing with all of this. But I do so anyways since I don't want my followers to get scammed. 4. Endless engagement baiting - I have tons of people making up fake stuff about me, tagging me in posts, randomly bashing my ideas while missing any technical nuance in order to get me to comment or farm views. It's a catch 22 since the moment I reply, they get a lot of views, which was their goal. And if I don't reply it just looks like I'm avoiding something (which is not true). I'm very transparent, I always try and entertain people who disagree first. But when it gets into personal attacks or leading questions/disinformation rather than substance then I don't engage. It's a little sad though when people I've interacted with end up caring more about engagement over relationships down the road. 5. People missing the nuance - I share ideas pretty often and I always maintain I don't want people to copytrade or blindly follow, which is why I haven't set up any copytrading apps. Before it was just posting with a few $RDDT friends on ideas like $AXTI, $NBIS, or $ALAB, and people were more knowledgeable traders. Then seeing if markets validate my guesses like with InP substrate bottlenecks. But because many turned out directionally right, to the point it became a central talking point between China/US trade relations, lot of random folks started to follow my account last few months. But many of them miss nuances with float dilution, or material updates along the way such as rate hikes, and I get blamed if a thesis changes. Now since there's so many random people, even if I share an idea about $CBRS last Friday. At market open I had people panicking over a 2% drop, asking me if I did something to a $44B+ company, even if it went up 20%+ today. Now I have compliance review for posts, which delays things a lot but makes sure people don't get the wrong idea. And I have to be careful about my timing, so I post new ideas when markets close. Before, it was just sharing ideas the moment I had them during lunch or in the shower, so this is becoming a headache. 6. I post my core ideas for free. And I've always said this from the start. I actually made my subscribers chat literally by accident, and set the bare minimum amount on purpose since I didn't want to take people's money. But kept it so I could avoid the bots and not spam the main timeline with random thoughts/scrapped research. I think me becoming the #1 most subscribed to person on X was literally by accident. But lot of weird narratives out there when media or others don't believe that I just genuinely want to share my ideas for free. And that people shouldn't need to pay $300 in a paywalled community to see them. _ Not sure if people want to read it all, but just some things I've gone through. It's not as much fun at higher numbers and it would be nice to go back to when I was smaller. Regardless, I'd rather not turn this into a job, or make it feel like one. Will probably take a break when I hit 1M as a milestone and do something else that will help out the community like sharing my research pipelines and such. Think a lot of my friends at 10-50K follower counts, seem to experience some of these issues too. But problems get magnified a lot at this level. I never needed the X creator fees or anything, just wanted to share ideas for fun if people wanted to listen. And didn't expect any popularity, but it's nice to see that people find my ideas compelling.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEhGpDHzc7OKtH796zSy5McvrDVv9JAAJwD2sb3DwhVjjR1ZhYowvGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1554,8 +1330,6 @@ I've reached 900k followers, thank you everyone! Just some reflection, it's actu
 ## 2026-06-30 18:27:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META. When China entities like 360 go and claim: They now have a "AI cyber nuclear weapon" that can hack Western companies and governments. (Zhou claimed Mythos was like an AI era cyber nuclear weapon, then claimed they built a Chinese equivalent). We're probably witnessing the modern cold war. But instead of nuclear stockpiles, it's racing to build superintelligence both offensively and defensively. With many different "battles" happening concurrently like supply chain export controls between China -> Japan -> US hyperscalers. The funny thing is that everyone still depends on one another: - US with things like rare earths and feedstock from China. - China with EUV to EDA and engineered substrates. So there's still give or takes trades to build up capabilities like Nvidia/AMD AI chips access for rare-earth/magnets access. Which is exactly why it's important for the US to build up rare earths supply chains ASAP. And not piss off allied supply chain chokepoints like European EUV partners with $ASML to Japanese vacuum/furnace makers like Ulvac with things like tariffs, if the US wants to use it as leverage for negotiations. But we're getting dangerously closer to a point where supply chain interdependence is not a deterrent against escalation. Especially as China grows closer to becoming self-reliant. And that might be the tipping point.
 
@@ -1569,8 +1343,6 @@ Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit. On $CBRS + OpenAI: - Needs 1-2K tokens/sec so tries to use Cerebras. - Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler. - Stated alternatives with Groq’s API not accessible to them Feels bad. But it does show how few players / limited capacity there is for fast inference.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEnGpD1MJVc_JBnMka0GUMWSqHb9ANAALbEWsbitEhVkYttoYupgJFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1583,8 +1355,6 @@ There was a pretty funny anecdotal complaint from the Machine Learning $RDDT sub
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics. Like a skin bottleneck. Or Aespa KPOP robot makeover as a service. So if $TSLA Optimus makes tens of millions of humanoids: Who’s going to make them all look hot?
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2071977219002613768#m)
@@ -1595,8 +1365,6 @@ I wonder if humanoids is going to spark a new bottleneck/industry for robot cosm
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Honestly this decade from 2020-2030 might be the most goated in human history. - Scaling massive reusable rockets for orbital compute with $RKLB to $SPCX. - on the cusp of ASI and recursive learning with Anthropic and OpenAI - Backflipping Boston Dynamics and Unitree humanoids to replace the human workforce - Star Wars laser beams from $EOS.ASX to AI DC lasers like $LITE. - Waymo and $TSLA self driving cars everywhere in urban cities - and we get industry Quantum commercialization end of decade This is kinda crazy to be an investor in this timeframe. Feels like every movie from the Star Wars Death Star to Skynet is coming to life. What’s next?
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2071465314794233905#m)
@@ -1606,8 +1374,6 @@ Honestly this decade from 2020-2030 might be the most goated in human history. -
 ## 2026-06-29 14:57:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just some notes on $POET AGM and read through on optical markets: - "The top three laser suppliers control 68% of the market, and they’re completely sold out for the next two years" $LITE CEO said into 2028, so POET implicitly confirms laser shortage is going into 2029 now. - NRE with a new customer, building on POET’s interposer for high-power external light source. This is high confidence $SIVE as laser supplier given the Sept 29, 2025 PR on ELS, and new customer qualification would be material for revenue if it goes into volume ramp. - Poet expects Lumilens commercial agreement to scale to over $500 million over the next 5 years. Lumilens claimed a top-3 hyperscaler was their initial customer (Linkedin OSINT) - $830M cash on hand on balance sheet (this is more for Poet fundamentals). - "The entire optical components industry today is facing a severe shortage of critical components." Reaffirming what we know already regarding optical bottlenecks. - "Production ramp in the second half of 2026 this year." Just production timelines H2. In terms of $POET volumes: - existing capacity around 1 million optical engines per year - projected demand exiting 2027 around 1 million optical engines per month - roughly 10x capacity expansion I don't own Poet, but if management delivers on these projections it directionally looks very positive. However something to note is that unlike other suppliers that have named hyperscaler customers to to back up capacity revenues like $AAOI: $POET seems more questionable. But this does look like a very positive outlook for $POET if they match projections.
 
@@ -1620,8 +1386,6 @@ Just some notes on $POET AGM and read through on optical markets: - "The top thr
 ## 2026-06-29 17:54:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $GM cuts 1,000 workers and replaces them with 50 robots (Jun 22nd report) Reports also show GM is working on a deal with $NVDA on factory robotics. This is industry validation for robotics, since it likely demonstrates increased opex margins + efficiency from employee automation. Especially from companies like $AMZN to General Motors with assembly/warehouse lines that have high headcount. I think the technology is already here and use cases are already proven. Robotics/Humanoids are just pre-scale right now. The wording from large companies is “assistive robotics”… But in all honesty, it’s here to automate away the human workforce and increase profitability. I don’t think companies want to be paying insurance, salaries, etc. when robots can do a better job, and 24/7, so very sad to see potential job losses in the future from robotics automation. Whether people like it or not; seems like the inflection point for robotics is here.
 
@@ -1639,8 +1403,6 @@ $GM cuts 1,000 workers and replaces them with 50 robots (Jun 22nd report) Report
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei. "The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan"
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEbGpCU8LxhMGRdgwuzEuBZJ3sWkKRAAJKEWsb3DwZVklDF0EUMnPdAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1655,8 +1417,6 @@ Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race” China’s Zhipu AI, has matched Anthropic’s Mythos in certain benchmarks, such as exploiting cybersecurity bugs. Well, that’s not good. Instead of blaming the administration which did the correct thing… Anthropic’s clearly at fault for not setting enough guardrails to prevent distillation. Even before Fable release there were a lot of rumors that China had backdoors to distill it. Part of it is the trillions of capex to accelerate the AI moat. And the second part is not handing that work over on a silver platter for millions in API calls.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIERmpAmIeNWnrmjF_CCOg-TYiCZwyLAALXD2sb85EAAVaPfg_NCSBVvwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1668,8 +1428,6 @@ WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race” China
 ## 2026-06-28 15:37:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March... And why Gemini got super nerfed. $GOOGL reportedly restricted Meta's capacity in March 2026 because of compute restraints. Google's CEO said from last earnings computing power restrictions prevented Google Cloud from taking on more customer needs and made the department's backlog nearly double the previous quarter. This is probably positive for the AI DC capex buildout since hyperscalers capacity is way below what is needed, and especially so if they can't rely on one another.
 
@@ -1684,8 +1442,6 @@ Guess we finally found why $META signed massive agreements with Neoclouds like $
 ## 2026-06-28 17:32:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Yup, Schaeffler $SHA0 is the ideal example for automotive players. ~ €7.47B MC auto player. - but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher) - covers bearings, gearboxes, sensors/ECUs, actuators, power electronics. -ests. They can be roughly 50% BOM of a humanoid - targeting 10% market share of that. But only projecting a few hundred million revenue by 2030 (extremely sandbagged) if we’re using Elon’s projections for the market. Then’s theres auto players like Nabtesco (6268) for joints. And then Sanhua in China for $TSLA Optimus. Many of them are trade at lower valuations from drag from auto. But humanoids + AI Auto (TSM chairman cited this as a growth vector) should be a good catalyst past 2027 for automotive players. IMO there just needs to be a ChatGPT/Anthropic breakout downstream leader first for humanoids. That brings up the entire ecosystem that has robotics exposure. But as of now it’s probably like 1% of many of their overall revenue figures, and markets are focusing on immediate upside from bottlenecks like memory or MLCC. I’m sure we’ll see some random Toto-HBM type surprise as different humanoid architecture evolve.
 
@@ -1703,8 +1459,6 @@ Yup, Schaeffler $SHA0 is the ideal example for automotive players. ~ €7.47B MC
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Brooo, OpenAI is back and they're releasing their new model GPT-5.6 Sol. With their benchmarks, OpenAI claims: - Sol Ultra beats Mythos 5 and mogs it for coding/workflow. - And is better for bio/cybersecurity too. Pretty bullish on OpenAI again if they leapfrogged Anthropic.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEHWo-uLwZEQvwIkzzjzO40aBGFnxjAAKdDmsbrrv4VUunNFtpF2FCAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1716,8 +1470,6 @@ Brooo, OpenAI is back and they're releasing their new model GPT-5.6 Sol. With th
 ## 2026-06-27 10:11:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $SPCX / Elon Musk acquires Mesh, an optical networking startup. Which is working on 1.6T OSFP (pluggable). It’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. $SIVE is one of the more startup friendly plausible merchant suppliers as seen with Ayar to $POET? Maybe $LITE and $MTSI that were have a little history too, but less so. Regardless it’s very positive a lot of startups recently like Celestial have been acquired by Marvell. For both merchant laser supplier revenue (working with startups -> having hyperscalers like SpaceX drive revenue after being designed in already). As well as valuations from M&A desirability. Goes to show how optical interconnects is the right direction if Elon Musk is directly buying these companies.
 
@@ -1733,8 +1485,6 @@ $SPCX / Elon Musk acquires Mesh, an optical networking startup. Which is working
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS. At up to 750 tokens/sec, which is obscene performance. American inference go brrr. I actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after seeing this news yesterday. Feels like validation of its tech. IMO a bit overvalued compared to profitable companies like $JBL at the same valuation. But there’s likely premiums for OpenAI exposure, as long as they stay the leader.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEPWo_dd0R93ysu5kvcKXWu0OSRP8_AAJ0EGsbrrsAAVZcjxL2pYhNOQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1749,8 +1499,6 @@ Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $C
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Robotics is next. Both deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z) Good thing is: the same AI DC exposure often has cross-exposure to humanoid ramp. Like DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing). Right now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. So global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEPmo_kvS_m7cTXUn9GvOlIL3y50ZYAAJGEWsbrrsAAVZtCIP4pQqMVAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1763,8 +1511,6 @@ Robotics is next. Both deal count and investment amounts are skyrocketing per pi
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 oh i think u misunderstand... I'm actually more bullish than ever as prices go down. $SIVE at ~$1.9B MC you have: - $GFS reference laser - laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up - $POET and others for CPO scale out - $JBL and others for 1.6T+ pluggable optical transcivers - O-Net for ELS mass production So you have all these hyperscaler suppliers trying to create as much as possible with Sivers as the laser bottleneck... And it's just a matter of how much Win Semi + others partners can make, with $SIVE receiving ~60% gross margins + optionality to TAM expand downward. The 15% recent share expansion that Swedish media have been bearposting is for NASDAQ listing float + M&A (and it's authorization). You just have potential short sellers running illegal bot farms, Swedish media bearposting a company Swedish exchange, on top of a general macro drop. The ~$140M convertible note is real, but it's pennies to US institutions. We'll likely see more institutional ownership when data comes out. But this is also why it's good for $SIVE to prioritize NASDAQ listing so they don't need to deal with this noise and local media. With $AAOI at $10B, you have: - A end-to-end US laser/design/assembly player projecting $471m month revenue H1 entering H2 2027. - With other hyperscalers like $AMD apparently discussing LTAs. And they probably are sitting on a ton of cash after running ~$1.4B in ATMs (400M + 400m+ 600m). Kinda all that needs to be said with those insane revenue projections as long as management doesn't BS. This just reminds me of when $NBIS crashed to $70 last year even while projecting $7-9B ARR, and as timelines got closer it recovered to $250+. Feels like dejavu. I'm just waiting for both volume ramps to hit. Photonics are generally more volatile than the rest.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2070179074048409662#m)
@@ -1775,8 +1521,6 @@ oh i think u misunderstand... I'm actually more bullish than ever as prices go d
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Nah, gonna fill out the job application for $WEN and set up camp behind the dumpsters. Even $MU and $SNDK ridiculous performance today couldn't save my port. Cheering on Japan though, hoping Sweden gets mogged with a 2-0 to represent the 20% drop.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2070189253573890167#m)
@@ -1786,8 +1530,6 @@ Nah, gonna fill out the job application for $WEN and set up camp behind the dump
 ## 2026-06-26 08:34:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Looks like Power Semis are already starting price hikes. Which is bullish thematically for US power semi trade from $AOSL to $POWI, before the 800V DC shift fully hits. China's Yangjie Technology, announced a 2nd price increase this year, raising prices across its full product range by 10%-15%, July 1. Chongqing China Resources Micro, Silan Microelectronics, and NCE Power also price hiked. “Demand is playing a larger role than costs in the latest round of price increases” from AI DCs, to energy systems, and new EVs. Another potential beneficiary is the upstream material companies that make these: - nonferrous metals like copper and tin. -Plastic molding compounds - chemicals, and packaging consumables “Nearly all major Chinese power semiconductor makers have raised prices in 2026.” (Digitimes) So positive read through on power semi adjacent (reduce China-driven price pressure + better pricing + demand validation)
 
@@ -1803,8 +1545,6 @@ Looks like Power Semis are already starting price hikes. Which is bullish themat
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 There's a global correction right now, no clue when it stops. Kospi is down -8.18% (Sk hynix/Samsung) Nikkei is down -4.8% TWSE Index is down -3.82% As you've seen with $SOI or $RKLB dropping 30-40%. From personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops. And they typically recover earlier? Aside from Korea which is typically volatile, when major indexes start correcting 3-4% a day, usually not a fun time.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEDWo9-9F1FAp8sByRg8r88cSvt0F7AAK9DmsbrrvwVTGN64Tf5z0eAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1818,8 +1558,6 @@ There's a global correction right now, no clue when it stops. Kospi is down -8.1
 ## 2026-06-26 13:06:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 “What matters is not the eggs, it is the Goose itself” SoftBank probably down -13.5% today after markets saw this investor presentation today. Also the OpenAI IPO possible 2027 delay cause Altman wanted a $1T valuation might have been a small cause…
 
@@ -1837,8 +1575,6 @@ There's a global correction right now, no clue when it stops. Kospi is down -8.1
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Just Elon Musk casually sounding the alarm. On the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply. He probably has higher visibility into the memory bottleneck than others…
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEFWo-NfL0OM8wmFpeIu2PZGQhCe-QAAIGEGsbrrvwVcBqs4CZ6Z_kAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1851,8 +1587,6 @@ Just Elon Musk casually sounding the alarm. On the massive demand + price hikes 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. And yes, I still have my million+ share position. Not sure if people realize this: but I'm only here to share my thoughts/ideas. I don't control market volatility, what decisions you all make, or how markets react to new information synthesis. It's much safer for analysts to just reactively tag along Morgan Stanley/JP Morgan/Goldman Sachs research whenever it's created and just summarize. Rather than coming up with new ideas from OSINT mapping and waiting them get validated. Because when you discover a new angle: Everyone keeps heatedly debating topics of 4-6 inch InP fabs, employee count, who their hyperscaler customers are, volume ramp timelines, etc to try and play devils advocate with a thesis. Then actively monitoring every single 5-20% price movement. I'm forced to stay on this topic more since it's less validated + there's always heated discussions. Just like $EWY in Feb, which I did memory projections on + Helium/LNG/Oil analysis. But months later everyone sees memory looks structural with Micron's 16+ LTAs and LNG isn't taking down SK Hynix margins. Or $NBIS from last year in terms of sum-of-parts / dilution structures vs $IREN. And now it's close to ATHs and listed on $QQQ. I'm personally just waiting Sivers to volume ramp in 2027 + listing on NASDAQ to support their M&A efforts. So they can walk down the same path as $LITE when they scaled from $3B to $60B+.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2070444675337503166#m)
@@ -1862,8 +1596,6 @@ OFC I'm aware. But I'm personally sleeping comfortably since I have conviction i
 ## 2026-06-26 21:06:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 just throwing out a random thought, the UBS report is anecdotally true + and it's interesting there's more Chinese reports on Anthropic distillation. Many US startups/companies using AI: Are using Chinese models like DeepSeek since they’re much cheaper than Gemini/OpenAI/Anthropic reasoning models for cost per task. Kinda a catch 22 when US is built on capitalism and everyone goes for the cheaper options. I think the US just has to get good and out innovate here: - both with heavy KYC-auth frontier models for US only like Mythos given those are being distilled by competitors. and amybe staggered tiers for allied partners so US is always ahead Maybe something like dedicated AI Google auth like FaceID + Persona would do the trick before access/key creation for the newer models, then short lived scopes. At least addressing those simpler fake/stolen account + pool allegations, requiring biometrics before use. Then US Gov drafting new regulations making it illegal for sharing access similar to identity forgery with bank accounts. - then the most obvious one is just heavily optimized reasoning models that mogs DeepSeek and others. Kinda good Trump admin paused Fable/Mythos access, imo not quite sure why a trillion dollar company keeps letting itself get distilled over and over again. There should be friction added if you’re accessing something close to ASI. TLDR: US just needs to good at cheap inference and add bank-grade authentication to AI model access. Easier said than done tho.
 
@@ -1881,8 +1613,6 @@ just throwing out a random thought, the UBS report is anecdotally true + and it'
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest rates through year-end (no rate hikes). Michael Gapen said incoming data since the June FOMC meeting has made it "marginally more comfortable" in its no-hike baseline.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEGmo-ovCuSOS4sOsQ1dS1DjjR-nywAAJwDmsbrrv4VcFIZTDxKWFAAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1894,8 +1624,6 @@ Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest r
 ## 2026-06-25 05:16:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $25.11 vs. $20.78 est. Forecasts: Revenue: $49B to $51B, vs $43.24B est EPS: $30.00 to $32.00, vs. $25.31. “Micron said on Wednesday that it has signed 16 long-term agreements” "When completed, we expect approximately half or more of our company revenue to be under these" Looks like memory demand has become structural… But great earnings to show up the AI trade is continuing to ramp up.
 
@@ -1911,8 +1639,6 @@ Always amazing looking at $MU earnings: Revenue: $41.46B vs. $35.8B est. EPS: $2
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Today, Anthropic has directly accused the $BABA Qwen AI lab of distilling its frontier AI models. By creating thousands of fake accounts and over 28.8 million exchanges. Feels like this is kind of known by now... but there's been no real penalties enforced yet. We'll see what happens.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDzmo8en0kCYkuIiMi8lnMh2HdIy_ZAAJdE2sbQ-XhVbWMX6soTEcvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1924,8 +1650,6 @@ Today, Anthropic has directly accused the $BABA Qwen AI lab of distilling its fr
 ## 2026-06-25 10:15:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Think so. But in the meantime, I call my strategy: Diversified Losses. With $AXTI, $SOI, $AAOI, and many others. Had a massive drawdown recently, CPO exposure was hit the hardest (Foci, Msscorp, etc) and adjacent names, feels bad. Probably lesson personally, I had too much concentration in photonics vs. memory/other sectors without weighting/hedging properly. With Soitec, there's been a few negative institutional reports that I'd disagree with. Think AXT was hit harder in specific just because of float expansion/dilution concerns. AAOI, probably just brought down with the theme. I can't give advice on buying, so completely up to you to make for cost averaging or entering positions. But I do think we're still early in the Supercycle with photonics, there's bound to be corrections/crashes along the way up. If my personal thesis is correct though, many of these names will have a major inflection point in midway through 2027 scaling up to 2028. Markets don't typically wait to price things in advance, but some ideas might be a tad early or in the buildout given it's H2 2026 now. Which is why it's important to build your own conviction.
 
@@ -1943,8 +1667,6 @@ Think so. But in the meantime, I call my strategy: Diversified Losses. With $AXT
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots. "Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles." "And that demand wave is set to begin before the decade is out." Something as well as was "Over time, we expect the value of on-device AI combined with pent-up unit replacement demand to drive memory demand growth" Which is also another trend (Apple Intelligence is currently dog, but I'm sure we'll see innovations with localized/edge AI). Feels like all the industry leaders from $TSM Chairman, $TSLA Elon Musk, to $MU CEO see humanoids as the next major trend so physical AI is probably next. I wonder if the world is going to have enough memory. Or if we'll see enough breakthroughs to shrink memory usage.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID02o8rVkVluB-TlTIryuXuZytpIxyAALDE2sbQ-XhVQN2ODG6iYagAQADAgADeQADPAQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1957,8 +1679,6 @@ Very interesting statement today: $MU CEO predicts a multi-decade memory demand 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Global markets in a nutshell: Japanese Company: Active monopoly over random chokepoints in the hyperscaler AI buildout. Valuation: $150m-$350M Silicon Valley: Here's a $200m for a "Seed Round".
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID2Go8ynDmsaA2ibIINONt0_RPDPc_AALcFGsbQ-XpVXgQ7BNWrkIvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -1970,8 +1690,6 @@ Global markets in a nutshell: Japanese Company: Active monopoly over random chok
 ## 2026-06-25 13:46:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The $WEN meme traders made it to Global Media from Japan to US! The burger fast food chain is now up ~50%, which is pretty impressive. Feels bad to be sidelined and see my AI memory/optical portfolio perform worse than a $RDDT memestock tho. Did anyone take positions?
 
@@ -1991,8 +1709,6 @@ The $WEN meme traders made it to Global Media from Japan to US! The burger fast 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Feels like the only thing that hasn’t crashed… Is memory like $MU, indexes, or large cap semis like Intel so far. - Photonics from $AXTI to $SIVE down 40%. - Space from $ASTS and $RKLB down 40% 1M. - Popular AI names like $PLTR is down ~35% YTD. - Software like $CRM down -40%. - Bitcoin sub <60k, Ethereum sub <$16k. Not a fun time with a hawkish fed narrative and potential rate hikes. However this does sorta feel overshot due to margin liquidations on less liquid assets compared to mega caps. But we’ll see what happens, usually fundamentals override liquidity shock in the longer run. I’m still personally bullish on the AI buildout + upstream AI capex beneficiaries, but 1-2 potential rate hikes certainly don’t help.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID8Wo9Ri08DC4gGg9z39npICHRlyQ4AALEFmsbQ-XpVfkDr8LyjYMAAQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2011,8 +1727,6 @@ Feels like the only thing that hasn’t crashed… Is memory like $MU, indexes, 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I find it interesting that the degens on $RDDT are starting a viral campaign to save Wendy’s ( $WEN ). The US fast food burger chain. And the stock price is now up 20% overnight. Just for background: Wendy’s is a popular community meme, where people work behind the dumpsters after their portfolios go to 0 from 0DTE options. (No positions, just found it amusing) I wonder if it’s going to work?
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDtWo7XzFbGPVawBPM6aeiZKU3K2MgAAJSEGsbMUvYVYAOxtzKVCs7AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2027,8 +1741,6 @@ I find it interesting that the degens on $RDDT are starting a viral campaign to 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Don’t quite think “siphoned off” is the correct term. It’s capex for massive revenue increase or margin increase down the line. $AMZN is probably my favorite hyperscaler right now and example to give. Amazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs. Then transitioning into physical AI: - things from self driving (deliveries) - robotics (Amazon warehouses, shipping automation). + revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat. It’s probably the clearest path forward compared to every hyperscaler out there. $TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization. As for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT They also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs. Gemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too. But there’s less clear paths with physical AI stuff ig? Microsoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. As for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. But think that will change down the road like the 180 with Google. I’m sure all the hyperscalers are seeing the leader effect right now: If you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural. Which is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2069655980456149142#m)
@@ -2038,8 +1750,6 @@ Don’t quite think “siphoned off” is the correct term. It’s capex for mas
 ## 2026-06-24 14:52:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 OpenLight (private) seems to get bigger and bigger every time I look at it. If you’re curious about their public ecosystem outside of Advantest: $JBL ( $SIVE partner ) for scaling PICs $MRVL and $MXL for DSPs $TSEM for the foundry. $300394.SZ / TFC Optical (OSAT/subassembly) Can often get exposure into private growth through public equities if you’re not an accredited investor. Since optical players look very interconnected.
 
@@ -2053,8 +1763,6 @@ OpenLight (private) seems to get bigger and bigger every time I look at it. If y
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Fun new information discovery from Poet OSINT community: Seems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google). Given a Linkedin update from Ankur Singla (CEO of Lumilens). Who stated their customer is one of the top 3 hyperscalers with their post focusing on CPO/NPO. With that clue, seems more likely the Sivers CW DFB light source path over other EML suppliers given it's CPO Scale Out/NPO. If you don't remember, Sivers is the laser supplier to Poet. And Poet has purchase agreements with Lumilens. Always fun to find major potential breadcrumbs in the wild before they're officially confirmed. (Disclosure, long Sive)
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDwGo74ecKxUsL20n_pdJuHlSNS7jyAAJ8EmsbQ-XhVVPiA4-SV0YiAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2066,8 +1774,6 @@ Fun new information discovery from Poet OSINT community: Seems likely that $POET
 ## 2026-06-24 21:53:11
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Nancy Pelosi just disclosed: - $1 million - $5 million of $INTC March 2027 calls - 200 $UBER March 19, 2027 call option contracts with a $50 strike price This was done last month May 29th. (her husband is the active trader executing this). Just for the people who like following along Pelosi family trades.
 
@@ -2249,8 +1955,6 @@ Curious if anyone's portfolio is green after today's fun day. $KORU: -32.06% $SO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Jeez, Japanese markets seem happy. Everything from Furukawa, Towa, Harmonic Drive, Ibiden, are up today. Probably after winning the World Cup game 4-0?
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDU2o4j4HZg0wujwd-2D00WZOL5SCHAAI9EWsbgMfIVeorUYpVkkfdAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2266,8 +1970,6 @@ Jeez, Japanese markets seem happy. Everything from Furukawa, Towa, Harmonic Driv
 ## 2026-06-22 09:20:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Wow, 3 limit ups in a row with WUS TW. Pretty sad I didn't take larger positions. WUS TW is 1 my 2 NAV arbitrage + independent growth trades. If you want context: WUS TW is a ~$1.12B PCB player with AI DC growth. Their stake in WUS Kunshan is $4.79B (11.4% of 42.04 billion) So basically they're a $1.1B PCB player growing independently, sitting on ~$4.79B worth of another company that looks to IPOed on Hong Kong markets soon. And a successful activist investor in Palliser (with Ajinomoto and Toto), is pressuring them to trim some holdings along with a few others. Seems like a pretty insane disconnect, and I think there's a lot of potential here.
 
@@ -2285,8 +1987,6 @@ Wow, 3 limit ups in a row with WUS TW. Pretty sad I didn't take larger positions
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I expect Japan to mog Sweden in the World Cup tomorrow. Probably another 4-0 after Japan's soccer players saw how Swedish media treated $SIVE.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDV2o4nf-hrTMi4D942F4h9-N7H_2oAAJVEWsbgMfIVfodqWg4VLNZAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2303,8 +2003,6 @@ I expect Japan to mog Sweden in the World Cup tomorrow. Probably another 4-0 aft
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. Feels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates. Small machine supplier chokepoints usually cap out from TAM though and don't go to $20B+ unless you're ASML or hold many chokepoints like KLAC. Not many dominant "monopolies" like these out there right before volume ramp this small: Maybe you have stuff like: - Aixtron (MOCVD) ~$8B - Towa (compression bonding) ~$2B - Techwing (memory handler/cube probes) ~$1.5B - MSScorps (CPO inspection), but pre-ramp. $850M - Riber (quantum MBE), very pre-ramp ~$350M Then LPK Laser for glass core substrates (about to ramp) at ~$730M, which thematically should have more premiums than memory. (eg. major advanced packaging shift, CPO adjacent, etc). Lot of obscure chemical monopolies I know of, but those don't get as much attention cause BOM is much lower than equipment. But for lpk you have: eg. “80% of customers among major global players have selected LPKF equipment”. 70% of LIDE market share target for TGV in the glass-core ramp, should be very material. (disclosure: own, the listed names above aside from techwing/aixtron, NFI). Just kinda the path they go if you follow $AEHR at ~$3.5B now: - <$500m: "Oh they have no customers!" ---> (probably somewhere in the middle here). - < $1.5B: "Maybe volume comes soon!" - $3B+ onward: "Looks like they're starting to volume ramp. Just a lesson for the cycle of the chokepoint machine suppliers from my personal experiences.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2069005921318281566#m)
@@ -2315,8 +2013,6 @@ As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 That’s for you to decide. But just throwing this out there: If $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC. My guess is that the $471m/month will keep going up as demand seems to scale exponentially into 2028. I’d expect ASP/margins to go up across the board as well. Especially as the industry is bottlenecked and $AMD + CSPs are going around hunting for LTAs.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2069062745308254434#m)
@@ -2326,8 +2022,6 @@ That’s for you to decide. But just throwing this out there: If $AAOI hits proj
 ## 2026-06-22 22:43:38
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Wow, $SPCX is now down over $583B in MC... Since Jim Cramer gave a bullish call at $210. Pretty amazing to witness tbh. Inverse Cramer would have returned ~21% in 3 trading days, outperforming a year in your largest indexes?
 
@@ -2342,8 +2036,6 @@ Wow, $SPCX is now down over $583B in MC... Since Jim Cramer gave a bullish call 
 ## 2026-06-21 11:32:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Trump administration is prob realizing now that the key to winning Trade Wars:
 
@@ -2370,8 +2062,6 @@ But not too late imo to repair relations and weaponize global supply chains thro
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Well, looks like prediction markets are about to get a ton of extra regulatory scrutiny.
 
 They should also investigate how Polymarket pays influencers for undisclosed paid comments to game the X algorithm.
@@ -2389,8 +2079,6 @@ But as you know, I don’t do paid promotions since I want my research to be wit
 ## 2026-06-21 14:18:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Apparently gym bros are the new hyperscalers.
 
@@ -2410,8 +2098,6 @@ Maybe creatine is next with shortages.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I've been getting a lot of questions about OE Solutions (138080) recently. Here's my research/thoughts so far on it: They're a small Korean optical transceiver company, similar to $AAOI. And they've become one the few EML players in the world (eg. $COHR, $LITE, Mitsubishi, Source, Sumitomo), with scarce 100G EML laser capacity for 800G/1.6T. OE appears to be trying to make the full transceiver, not just the EML. They also have finished ELSFP CPO products, with UHP CW lasers, which is sampling Q3. Likewise, OE also seems to be building out the full ELSFP, rather than selling CW laser dies, so that's more market share. So you can think of it as Korean AAOI but EML instead of CW, and less capacity/qualifications. And playing catch-up to the rest of the world. However in terms of timelines: 1. 23dBm cooled ELSFP samples start in Q3 2026 2. Sales base for 800G, and 2027 1.6T "full force" 3. Late H2 2027, H1 2028 onward probably their ELSFP enters the volume production. And it seems they're working on 200G EML capability from their investor snipper 2025 OE IR snippet referenced “100GBaud EML / 200G PAM". This seems promising given their IP/demos. ELS has just been unveiled recently, sampling starts Q3. 800G/1.6T Optical transceivers are also likely 2027. So this is basically Korea's sovereign photonics player, playing catchup to $LITE, $AAOI, and the bigger players. (Disclosure: I have positions in OE Solutions (138080). This is fundamental research for informational purposes, not financial advice). As for OE solution valuations: 1. Doesn't seem like there's confirmed customers yet for these growth verticals. 2. Probably not many people understood what they're building toward yet. 3. Yields data kinda uncertain 1. Customers: We're actually in a major EML/CW laser shortage, so any independent capacity will be sought after. I personally don't think they'll have a hard time finding customers here. I would assume anything they make might get bought out and would get extra support from Korea. 2. Institutional support: Probably not much since it doesn't meet threshold for many US institution given MC size + KR listing. I also don't think many people understood what they're building yet. 3. Yields/Capacity: OE's disclosed wafer/module utilization is low (i remember was around 31% underutilized off the top of my head), so there's enough material revenue they can generate before they need to spend on capex. I'm also not sure about EML/CW and other yields. Probably need to go ask the company. Is this some random crap co? No. It's been doing optical transceivers stuff for more than 20Y, has R&D in the U.S. and Netherlands. But their entire AI growth vertical seems to happen next year, and hinges mainly around capacity/yields. And I personally think the EML/CW tech is probably worth a lot more than their current MC, if it were an acquisition target. Especially from a larger player that wanted to vertically integrate EML for pluggables and CW lasers for CPO. Markets are probably waiting on more certainty around qualifications after Q3 sampling or earnings projections announcements. TLDR on thoughts: Some of my friends discussed this last year, was probably way too early. Saw it got many comments 2 months ago, still too early. I still think now is early, but later in Q3-Q4 might be more interesting. I personally think it's a lot higher risk than a major CPO player like $SIVE, that's embedded in Ayar, $JBL, $GFS, and many other hyperscaler suppliers. Which also has Win Semi and others de-risking volume ramp. As OE Solutions looks like a new player trying to build out an $AAOI for the optical transceivers but sovereign EML and CW laser production for CPO products. And there's a lot of answered questions around customers + volume ramp, which presents material risk. But if you believe Korea can build out an 800G/1.6T transceiver EML supply chain and ELSFP with CW lasers. With OE Solutions, it might be worth taking a look into. Still researching the company tho, just initial thoughts.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDP2o3n64s3Zi1Vbvg05KPH3W4zutUAAJkFGsbgMfAVWLdpS74wsDeAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -2424,8 +2110,6 @@ I've been getting a lot of questions about OE Solutions (138080) recently. Here'
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 That’s a misconception: $SIVE is the laser supplier for next gen architectures, not just CPO scale up. Pluggable, scale out CPO, scale up CPO, NPO, etc. - Sivers and $JBL went god-mode and developed 1.6T optical transceivers with CW lasers. Effectively designing around the EML bottlenecks, and even made things more power efficient. From quotes from Jabil management they created a “relatively dramatic moat”. So for the next gen of 1.6T pluggable transceivers, Sivers seems immediately used. Markets missed this nuance too: after Jabil’s announcement, other pluggable players reached out, and SIVE is working with them now (prob codevelopment, qualification stage). There’s not too many players that build optical transceivers that aren’t vertically integrated like Lumentum (think: Innolight/eoptolink, and maybe others). So these are active developments, just not public material yet and could be a new press release anytime. - for CPO scale out which happens H2 2026 onward like $POET, $SIVE is a laser supplier for those players. - scale up CPO is h2 2027, from Ayar and Nvidia’a NVLink CPO ecosystem and that’s the main volume ramp across optical players. But this is where $SIVE looks like they mog every other player from supply chain mapping. Since they’ve likely been working + designed in with $MRVL Celestial, Lightmatter, Lightelligence and the others since they were small way back when. On top of things like this: For foundries like $GFS, $SIVE is the reference laser. Not even including massive companies like O-Net building ELS with $SIVE, likely for the Asian hyperscalers supply chains. This is why $SIVE is by far my favorite laser chokepoint long. Feels like they’re everywhere in new optical architectures starting beginning of 2027.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2068651355422814294#m)
@@ -2435,8 +2119,6 @@ That’s a misconception: $SIVE is the laser supplier for next gen architectures
 ## 2026-06-20 11:52:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 In terms of personal notes:
 
@@ -2478,8 +2160,6 @@ I'm still doing research, normally this goes in shower thoughts since I haven't 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I’m just posting this since people seem really curious about X’s revenue sharing program.
 
 Genuinely didn’t expect to get seen 100M+ times every 2 weeks!
@@ -2497,8 +2177,6 @@ Would keep doing the same thing tho, even if it were free and I just had a few f
 ## 2026-06-20 19:52:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I think u must be new here. 
 
@@ -2566,8 +2244,6 @@ Good thing is markets are the final arbiter of what’s right or wrong, not the 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Anyone got a list or ideas of the biggest NAV discounts. But independently has AI growth?
 
 Stuff more extreme end like $ACMR and WUS (2316) compared to SK Square.
@@ -2584,8 +2260,6 @@ Seems to be getting noticed recently
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 How does China manage to smuggle in something the size of a school bus from $ASML? 
 
 Is the real question.
@@ -2599,8 +2273,6 @@ Is the real question.
 ## 2026-06-19 12:15:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just a random thought, maybe someone can do a startup to solve this:
 
@@ -2624,8 +2296,6 @@ So you have a feedback loop of low tier AI feeding into frontier AI. With model 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Bernstein is basically the institutional version of Jim Cramer:
 
 Tells retail Kioxia looks like it’s going to crash, gives a -50% PT.
@@ -2643,8 +2313,6 @@ Stock proceeds to skyrocket right after, with another +12% today.
 ## 2026-06-19 20:19:38
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I think something to highlight also is not all my ideas are green, especially on short term timeframes!
 
@@ -2686,8 +2354,6 @@ But regardless, I'd prefer to judge how ideas play out on medium term timeframes
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Remind me whenever I call out a bottleneck, I should go long myself.
 
 Just floated this idea out around MLCC bottlenecks awhile back. 
@@ -2714,8 +2380,6 @@ Feels bad.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow, I completely missed this with $LPK meeting notes. 
 
 And I think markets did too. My biggest takeaway:
@@ -2735,8 +2399,6 @@ I do think LPK is very undervalued based on these discussions (disclosure: own p
 ## 2026-06-18 09:01:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I agree with Palliser Capital here.
 
@@ -2767,8 +2429,6 @@ WUS TW management should really reconsider.
 ## 2026-06-18 10:10:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The 1st large scale X study on stock market net worth has finished! 
 
@@ -2801,8 +2461,6 @@ Definitely not representative of the total population, but just those active on 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $ALRIB general meeting notes came out today.
 
 -2nd ROSIE System expected to be delivered shortly to a leading quantum computing player” in the US.
@@ -2831,8 +2489,6 @@ Positive development overall.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 非常感谢中文社区对我最看好股票的投资思路进行的深度剖析！
 
 总的来说，像 $AAOI 和 $SIVE 这样的激光公司是我个人的最爱，因为它们在拓展营收方面有着极大的想象空间。它们可以不仅仅局限于销售激光器，还能制造完整的光模块 以及各种光引擎或 ELS (外部光源) 组件。
@@ -2853,8 +2509,6 @@ Positive development overall.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I think Jim Cramer’s law needs to be studied in history books.
 
 Even $SPCX can’t withstand his blessing.
@@ -2870,8 +2524,6 @@ Even $SPCX can’t withstand his blessing.
 ## 2026-06-18 22:54:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just a reminder: 99% of X was bearish on memory 3 months ago...
 
@@ -2903,8 +2555,6 @@ I do think photonics and memory are the 2 top themes though, with optics being v
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Trump announced Intel + Apple partnership, sending $INTC up 8% today. 
 
 Intel execs were reportedly surprised by the $AAPL announcement by Donald Trump.
@@ -2922,8 +2572,6 @@ Feel's like he's hard carrying the stock.
 ## 2026-06-17 07:57:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Mizuho Research: No delays on CPO or 800v dc. 
 
@@ -2946,8 +2594,6 @@ What a stupid CPO related selloff recently.
 ## 2026-06-17 10:26:55
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I’m not sure why many folks are super bearish on my high conviction $AAOI long… 
 
@@ -2981,8 +2627,6 @@ I haven’t seen such fast revenue ramp since $NBIS.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Bernstein is legit the dumbest analyst firm I’ve seen calling for a 50% crash in Kioxia.
 
 They gave $INTC a $36 PT back in Jan and now it’s $118.
@@ -3001,8 +2645,6 @@ They’re not here to help retail investors.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 European Media HATES this one trick:
 
 The same ideas, just behind $2000 paywalls.
@@ -3016,8 +2658,6 @@ The same ideas, just behind $2000 paywalls.
 ## 2026-06-17 19:24:26
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders...
 
@@ -3051,8 +2691,6 @@ But my opinion is that this just goes and show how invaluable this CW laser chok
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I mean... if i had to guess, $LPK did claim "80% of customers among major global players have selected LPKF equipment".
 
 Kinda clear glass substrates is the next packaging shift! 
@@ -3074,8 +2712,6 @@ Don't think there needs to be any major news, probably just getting closer to HV
 ## 2026-06-17 21:18:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Don’t think there’s any new news from $XFAB. 
 
@@ -3105,8 +2741,6 @@ Regardless, I’m just curious how this plays out.  (Disclosure, own positions)
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 And 7 months later... $NBIS is all time highs. 
 
 While $IREN bagholders are still funding the $6,000,000,000 ATM and stuck at the same price back in November. 
@@ -3124,8 +2758,6 @@ Guess this settles the debate?
 ## 2026-06-17 23:24:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $AEHR receives follow up production order from major Silicon Photonics Customer for wafer level burn in systems.
 
@@ -3147,8 +2779,6 @@ Only 2 months ago it was in the $30's, good times.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Jim Cramer gave $SPCX his blessing.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC2GoyxDQlO3aWTmtVkcNW7Og95KKCAAJMEGsbC5-YVVmTcFI0sukRAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3161,8 +2791,6 @@ Jim Cramer gave $SPCX his blessing.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 tbh I wasted like 5 minutes thinking if this question was stupid or genius.
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2066554149622399421#m)
@@ -3172,8 +2800,6 @@ tbh I wasted like 5 minutes thinking if this question was stupid or genius.
 ## 2026-06-16 08:19:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Apparently, $SPCX is a $2.5T company now. 
 
@@ -3191,8 +2817,6 @@ I guess everything in Murica go brrr.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I'm actually curious about the wealth distribution on finance X (this is anonymous). 
 
 I don't think there's been any studies before.
@@ -3204,8 +2828,6 @@ I don't think there's been any studies before.
 ## 2026-06-16 10:20:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 New reports that $AMD is scrambling for CW laser supply. 
 
@@ -3235,8 +2857,6 @@ To not get bottlenecked by Nvidia.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Fun throwback to random ideas back in 2025.
 
 Back then, $AAOI was $2B MC, $LITE was a $26B MC, $AXTI was $500M
@@ -3264,8 +2884,6 @@ Feels like dejavu seeing current $3B MC optical longs like $SIVE.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I did say $MU looked like the next $NVDA. Now we're at a $1.23T MC.
 
 Started talking more about Samsung Electronics/Sk Hynix back in 2025. 
@@ -3287,8 +2905,6 @@ Hope people had fun with $EWY longs too, those are up a lot.
 ## 2026-06-16 18:00:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Yeah... I'm not quite sure why everyone likes just throwing personal accusations.
 
@@ -3322,8 +2938,6 @@ Over just making up narratives or personal accusations like "memestock" or "fore
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Woah, $SPCX acquired Cursor for $60B.
 
 I did not think it was worth that much…
@@ -3341,8 +2955,6 @@ I’m sure Elon has a plan in mind, the Twitter acquisition paid extreme dividen
 ## 2026-06-16 21:00:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just some random thoughts, I do think AI is the most disruptive technology in human history. 
 
@@ -3396,8 +3008,6 @@ So I think the music will keep playing for this year at the bare minimum.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $NVDA and $GOOGL lead 800V DC ahead of schedule. 
 
 "Ahead of schedule", pulled up to Q3 2026 with small volume shipments starting . 
@@ -3430,8 +3040,6 @@ The power semi trade should be happy to hear this.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Today, there's a new report that China eased InP substrate exports. 
 
 Which is expected to relieve mass production bottlenecks in the photonics market (source: Digitimes)
@@ -3459,8 +3067,6 @@ So if you're able to make more = more revenue.
 ## 2026-06-15 11:21:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Yep, very stupid to be a bear.
 
@@ -3494,8 +3100,6 @@ But basically: Murica go brrrr.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I did say Foosung (093370) was going to be a major winner from the bottleneck created by Chinese export controls on Japan…
 
 Most people chase 7.5% index returns, yet random bottlenecks spotted might be 21% in a day lol
@@ -3511,8 +3115,6 @@ Most people chase 7.5% index returns, yet random bottlenecks spotted might be 21
 ## 2026-06-15 15:25:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Wow, $IQE and $TSEM sign a multi year InP epiwafer deal.
 
@@ -3534,8 +3136,6 @@ Now there’s another critical deal with Tower Semi.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Ur welcome with $IQE
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICoGovuJrE8Wq3TeJh0sC8pKqe81eQAAKWEmsbNgqAVVRou5HzSv3DAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -3549,8 +3149,6 @@ Ur welcome with $IQE
 ## 2026-06-15 20:31:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $SIVE is the next SIVE.
 
@@ -3583,8 +3181,6 @@ Following what $LITE did to grow into a $75B company.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I’ve written a thesis on these 3 themes early on:
 
 Neoclouds, Photonics, and Memory.
@@ -3612,8 +3208,6 @@ And $MU / SK Hynix / Samsung potentially end up like a mini $NVDA if memory dema
 ## 2026-06-15 22:56:05
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just as a recap, these were all my core European longs:
 
@@ -3681,8 +3275,6 @@ These are the ones I've liked the most.
 
 ## 2026-06-14 06:51:12
 
-**内容**:
-
 If I had to stereotype my X experiences with markets:
 
 China 🇨🇳: set on cloning me with AI, can only think of trades in short term timeframes from A-shares PTSD.
@@ -3703,8 +3295,6 @@ Not enough data on other places yet like Latin America, but will have some soon 
 
 ## 2026-06-14 09:43:24
 
-**内容**:
-
 Do people in Sweden have a hard time making plans for lunch a day in advance?
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2065973347897557093#m)
@@ -3712,8 +3302,6 @@ Do people in Sweden have a hard time making plans for lunch a day in advance?
 ---
 
 ## 2026-06-14 23:27:22
-
-**内容**:
 
 This is gonna upset a lot of people: 
 
@@ -3751,8 +3339,6 @@ For determining where the stock heads, just throw the tyrannosaurs rex omega-gre
 
 ## 2026-06-13 12:20:16
 
-**内容**:
-
 The AI supremacy Wars begins.
 
 Think a lot of the upstream supply chain bottlenecks caused by each Country export controlling each other (eg. $AXTI)
@@ -3774,8 +3360,6 @@ I don’t think Superintelligence should be global access, since we’re startin
 ---
 
 ## 2026-06-13 18:03:47
-
-**内容**:
 
 Okay my fellow Koreans, it's been awhile. 
 
@@ -3801,8 +3385,6 @@ Don't have positions, just wanted to publish an idea.
 
 ## 2026-06-13 19:27:47
 
-**内容**:
-
 한국 어머니들은 원래 이렇게 사기캐인가요?
 어머님이 WF6의 3차 파급 효과(third-order effect)에 따른 공급망 차질을 파악하셨다니 정말 놀랍습니다.
 
@@ -3820,8 +3402,6 @@ Don't have positions, just wanted to publish an idea.
 ---
 
 ## 2026-06-13 20:53:13
-
-**内容**:
 
 It’s been officially 3 months since I posted my $SIVE long thesis back at 4 SEK.
 
@@ -3842,8 +3422,6 @@ Did you listen anon?
 ## 2026-06-12 00:13:28 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Markets should be cheering on domestic champions like $AAOI. 
 
@@ -3875,8 +3453,6 @@ US/EU don't just hand out subsidies or CHIPS act grants to anyone.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 If you haven’t noticed too with my other investment themes with 800V DC and CPO recently.
 
 It’s investing in $NVDA, America’s national champion in AI, and securing their supply chains. 
@@ -3901,8 +3477,6 @@ Also I believe in Jensen.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 New Anthropic news looks like a potential tailwind for the Neocloud colo sector.
 
 Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet). 
@@ -3921,8 +3495,6 @@ As Anthropic is pursuing its first DC leases.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Just in case you’re wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now.
 
 Trump just cancelled attacks on Iran.
@@ -3939,8 +3511,6 @@ This market is so volatile…
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100!
 
 Fun to see both Astera, Rocketlab and Weebius grow up from being small companies…
@@ -3956,8 +3526,6 @@ Into the largest ones on Nasdaq
 ## 2026-06-12 12:26:43 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just some reflection, my core high conviction ideas from 2025 aged super well!
 
@@ -3996,8 +3564,6 @@ And I think a large part of my recent following growth is just other seeing my i
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 VPEC new price hikes on Epiwafers today. 
 
 Positive bottleneck read through on companies like $IQE and Landmark (3081) in terms of pricing power/demand for epiwafers.
@@ -4018,8 +3584,6 @@ This follows $MTSI investment into IQE to secure capacity, and shows how importa
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Bro I still can't believe Japan's WF6 supply chain got shut down from China export controls.
 
 Which affects $TSM, Samsung, and SK Hynix. 
@@ -4039,8 +3603,6 @@ So I wonder if this is the start of a slippery slope?
 ## 2026-06-12 19:39:53 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Price action now is probably just large US institutions positioning with $SIVE.
 
@@ -4064,8 +3626,6 @@ Regardless, glad the large US institutions validated my thesis if they’re taki
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 All the $SNDK short sellers went extinct.
 
 Can’t believe it’s almost $2000 now?
@@ -4084,8 +3644,6 @@ That aside feels like everyone is just waiting for the $SPCX IPO in a few hours.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $SPCX is now trading! 
 
 And it’s now over $2.15T+ MC.
@@ -4099,8 +3657,6 @@ And it’s now over $2.15T+ MC.
 ## 2026-06-11 00:07:43 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just in case you weren’t aware…
 
@@ -4121,8 +3677,6 @@ Curious what my follower portfolios look like you’re green this week + long on
 ## 2026-06-11 09:38:21 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Basically this… and it’s how cycles work.
 
@@ -4164,8 +3718,6 @@ They don’t work in the best interest of retail investors.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 这周我自己的投资组合表现令人失望。
 
 目前今年迄今（YTD）仅上涨了 +3,612.10%。
@@ -4190,8 +3742,6 @@ They don’t work in the best interest of retail investors.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Oh look… a new report by Reuters shows China’s control over InP threatens the AI DC buildout.
 
 Who could have guessed $AXTI would have been a major point of failure?
@@ -4210,8 +3760,6 @@ Who could have guessed $AXTI would have been a major point of failure?
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 I like $SIVE
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2064983882802565169#m)
@@ -4221,8 +3769,6 @@ I like $SIVE
 ## 2026-06-11 16:46:38 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just thought this was interesting: $LPK is an unknown SpaceX supplier.
 
@@ -4245,8 +3791,6 @@ Just a fun, new direct relationship between $LPK and SpaceX if people want to do
 ## 2026-06-11 17:54:56 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Why do I keep getting these questions!!! 
 
@@ -4277,8 +3821,6 @@ Otherwise people can take the de-risked route with Tower directly (which I also 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 There was interesting research published called "Democratization of Retail Trading".
 
 That did a study on 1.6 Million $RDDT WSB comments. 
@@ -4307,8 +3849,6 @@ I think X is where all the alpha is at nowadays.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Woah, Frankfurt Bank strategists say:
 
 8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ( $SPCX ) shares.
@@ -4326,8 +3866,6 @@ Don't think there's been any historical precedence like this yet?
 ## 2026-06-11 23:05:53 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro.
 
@@ -4350,8 +3888,6 @@ Anyone know?
 ## 2026-06-10 09:33:54 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 CPO scale out earlier than expected:
 
@@ -4387,8 +3923,6 @@ Appreciate the buying opportunity though.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 $NVDA Networking Senior Vice President refuting recent analyst reports on delays:
 
 - “ the most exciting stuff is co-packaged optics.”
@@ -4412,8 +3946,6 @@ Yeah… I’m extremely bullish on CPO alongside Nvidia.
 ## 2026-06-10 12:29:21 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 $LITE Management Speech from Mizuho Technology at today’s conference.
 
@@ -4446,8 +3978,6 @@ And both are incredibly bullish on TAM and opportunities.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 If you want a TLDR of today:
 
 > be $NVDA, $5T company. Force shift to 800V DC and CPO
@@ -4467,8 +3997,6 @@ If you want a TLDR of today:
 ## 2026-06-10 15:20:22 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Yep, Blackrock has now entered $SIVE positions as passive owners following index listing.
 
@@ -4492,8 +4020,6 @@ This looks like US institutions validated Sivers’s position in photonics and a
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back.
 
 Recent SemiAnalysis reports run contrary to our own checks at Computex.
@@ -4516,8 +4042,6 @@ Since the selloff from their claim $MU had 0 share of Nvidia HBM4
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should.
 
 The initial selloff was just stupid.
@@ -4535,8 +4059,6 @@ The initial selloff was just stupid.
 ## 2026-06-09 08:25:18 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 For people out there citing Bank of America quotes now about selling.
 
@@ -4566,8 +4088,6 @@ Usually when an unusual flood of negative news, they need liquidity.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Nah, Jim Cramer is like the 4th Newton’s Law. 
 
 Inverse Cramer just written into the laws of the universe.
@@ -4592,8 +4112,6 @@ So it’s been flat.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Can someone tell me what caused $INHD to go up 3660.95%?
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB_GonbdZggPzl8QVxMeg-uxmRL-ZRAAKeD2sbj4RBVUAeihETKerXAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -4605,8 +4123,6 @@ Can someone tell me what caused $INHD to go up 3660.95%?
 ## 2026-06-09 09:58:57 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 我怎么有种奇怪的感觉…
 
@@ -4623,8 +4139,6 @@ Can someone tell me what caused $INHD to go up 3660.95%?
 ## 2026-06-09 13:42:08 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 I do see a lot of comments about "harvesting the leeks".
 
@@ -4651,8 +4165,6 @@ and yes, English is my primary language, i typo sometimes since I post 20+ a day
 ## 2026-06-09 14:44:07 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Just a random thought: $JBL seems highkey compelling long idea at $38B.
 
@@ -4682,8 +4194,6 @@ Prob H1 2027 is when everyone starts realizing. Maybe 40% rereating seems plausi
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 A massive catalyst arrived today with $SIVE:
 
 Sivers announced $8.2M volume orders starting for Space applications (allspace). 
@@ -4711,8 +4221,6 @@ This win aside, I'm expecting more volume ramps to be coming soon as well from t
 ## 2026-06-09 16:37:12 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Given my recent popularity, might be a good time to put out a PSA. 
 
@@ -4782,8 +4290,6 @@ And grateful Elon / X gave me an opportunity through X.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Names like:
 
 - $ASX
@@ -4823,8 +4329,6 @@ Still feels like many of these have room to go.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 $EWY 32% IV into 58% IV expansion trade.
 
 Into underlying SK Hynix / Samsung increase way ITM.
@@ -4851,8 +4355,6 @@ Still super proud of predicting South Korea index volatility increase due to mem
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 I don’t quite think photonics from $AAOI to $LITE or $SIVE are disappearing anytime soon…
 
 Just extremely volatile.
@@ -4874,8 +4376,6 @@ Anyway, curious what other people are buying today?
 ## 2026-06-08 09:39:36 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 I appreciate the objective coverage from 中国证券报 (China Securities Journal) on my LeaderDrive (688017) analysis!
 
@@ -4908,8 +4408,6 @@ As well as the recent support from the Chinese community.
 ## 2026-06-08 13:11:38 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 I do think LeaderDrive (688017) is China's standout component leader in the robotics sector.
 
@@ -4965,8 +4463,6 @@ Moreso a long term investment idea about how this company could capture a materi
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Okay chat, here's your compiled list chat of your favorite 800V DC related ideas. 
 
 1. $IFNNY - $115.8B 
@@ -5019,8 +4515,6 @@ We'll see how your highest conviction ideas do.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ????
 
 大家都知道这只是个众包名单吧？
@@ -5036,8 +4530,6 @@ We'll see how your highest conviction ideas do.
 ## 2026-06-08 15:31:50 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Surprised $SIVE is only up 3.36% off the news JP Morgan (institutional) bought 5%+ ownership of Sivers.
 
@@ -5059,8 +4551,6 @@ First major signal of major institutional buying of the float for Sivers.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 All the outlets in China are just as confused as I am about 300376.
 
 Just an FYI, these are all follower recommended stock ideas, not mine. 
@@ -5080,8 +4570,6 @@ I’m just compiling all the shoutouts into a list of 30+ names related/adjacent
 ## 2026-06-08 19:48:25 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 I think the implications of JP Morgan's disclosure of buying 5.25%+ of $SIVE is a lot greater than people think.
 
@@ -5111,8 +4599,6 @@ Of course, most of all, this is validating thesis of giving ideas to retail firs
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Still think this US list from $MRVL to $ARM to $INTC was goated. 
 
 Just as a recap if new followers were wondering what US equities I like.
@@ -5130,8 +4616,6 @@ Especially because I've been talking about international companies recently.
 ## 2026-06-07 10:07:23 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just very helpful timelines reiterated around glass substrate (source: Trendforce):
 
@@ -5156,8 +4640,6 @@ Also applies to $LPK and upstream equipment seller around these ramps.
 ## 2026-06-07 11:37:40 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 I think my personal style of investing is a bit different, just some reflection:
 
@@ -5227,8 +4709,6 @@ Of course, much of what I'm doing is just high conviction inference based on unc
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Well, looks like it’s time to do some research on how to profit off of Cuba’s economic collapse.
 
 Following US sanctions last month.
@@ -5244,8 +4724,6 @@ Anyone got ideas?
 ## 2026-06-07 18:39:16 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Sure, #1 thing is toxic financing structure/float dynamics. 
 
@@ -5282,8 +4760,6 @@ There's endless types of these share structures you need to look when screening 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Oh look… $NVDA CEO warned memory shortage is expected to persist for many years, due to massive scaling demand of AI infrastructure.
 
 With further announcements tomorrow.
@@ -5302,8 +4778,6 @@ $MU and $EWY (Samsung/SK Hynix) operating profit projections aren’t looking to
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 On top: $NVDA CEO also called out Silicon Photonics (optical networking) with memory. 
 
 Stating that Nvidia would require “supply volumes beyond imagination”.
@@ -5321,8 +4795,6 @@ What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nv
 ## 2026-06-07 21:10:28 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 哇？我的粉丝数竟然突破70万了……而且在过去的短短3天里，我又额外收获了5000名订阅者。
 
@@ -5343,8 +4815,6 @@ What a bullish read through on the SiPH supply chain from $SIVE (now upstream Nv
 ## 2026-06-06 07:59:23 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Sigh. 
 
@@ -5375,8 +4845,6 @@ JP Morgan went from .4% ownership last month to 5%+ ownership this month…
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 真是让我受宠若惊，围绕着我的 X（推特）帖子居然建立起了一个完整的微型经济圈？
 
 -> 追踪我做多股票的网站
@@ -5402,8 +4870,6 @@ JP Morgan went from .4% ownership last month to 5%+ ownership this month…
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 How are all you regards on $RDDT down -99% after 2 red days? 
 
 Is it that hard just to hold indiviudal stocks like $AAOI or $MRVL that are already high-beta?
@@ -5423,8 +4889,6 @@ One extra week or month makes a huge difference.
 ## 2026-06-06 16:37:22 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Okay... just some more weekend shower thoughts about $XFAB.
 
@@ -5482,8 +4946,6 @@ I think markets are probably missing something here...  there's almost 0 value b
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Apparently I’m all over Chinese news now?
 
 I just published some research on LeaderDrive (688017) and their role in humanoid supply chains.
@@ -5509,8 +4971,6 @@ I appreciate they called me “Overseas God”.
 ## 2026-06-06 20:22:51 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 If you’re curious:
 
@@ -5544,8 +5004,6 @@ So genuinely thank you all for that, makes me happy.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Anthropic: “Urges Global Pause in AI Development”
 
 Translation: “please let us take the lead, stop building!”
@@ -5563,8 +5021,6 @@ Implications are profound from fields of medicine, math, and basically everythin
 ## 2026-06-05 08:46:54 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $AAOI is one of the names I keep averaging up on since $28.
 
@@ -5595,8 +5051,6 @@ Could see unexpected price hikes + margin expansion across the board from $AAOI,
 ## 2026-06-05 10:31:16 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 专门写给我的中文读者：
 
@@ -5642,8 +5096,6 @@ Could see unexpected price hikes + margin expansion across the board from $AAOI,
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $RPI: $283 -> $983, up 247% from my thesis post.
 
 Quote: Strong AI-related demand was expected to result in core profit "significantly ahead" of market expectations.
@@ -5664,8 +5116,6 @@ Was actually was backed by revenue growth from AI?
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Apparently my Chinese name is “白毛股神”
 
 Which translates to “White Hair Stock God” in English.
@@ -5681,8 +5131,6 @@ I’ll gladly accept it.
 ## 2026-06-05 22:25:29 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $SIVE is my favorite CPO / photonics stock after AAOI. 
 
@@ -5718,8 +5166,6 @@ Just a matter of time before volume ramps.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Xintec (3374) also looks like an interesting idea (TSMC packaging/test subsidary). 
 
 MC is at ~ $2.18B. 
@@ -5745,8 +5191,6 @@ Especially $TSM related companies (Xintec looks more compelling than VisEra, at 
 ## 2026-06-05 23:58:58 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Fun times with market corrections.  
 
@@ -5775,8 +5219,6 @@ Personally wouldn't try and trade fed decision probabilities and stay long on cu
 ## 2026-06-04 07:56:25 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Just some random notes about $AVGO earnings transcript 
 
@@ -5833,8 +5275,6 @@ TLDR: Strongly bullish AI demand, especially networking. Stocks don’t move in 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Well, looks like it’s that time of the year again for $COIN, $HOOD, $CRCL and co.
 
 So much for a “friendly administration” and “strategic reserve” if they’re trying to ram through Bank Lobbied Clarity Act bills…
@@ -5856,8 +5296,6 @@ Valuations do seem compelling again if you’re swing trading.
 ## 2026-06-04 11:39:54 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Yeah… I think all your upstream semi supply chain companies are going much higher.
 
@@ -5884,8 +5322,6 @@ but is just the beginning of the next Industrial Revolution as we move from  R&D
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Pinned: I now am the #1 most subscribed to account on the entire X platform!
 
 After overtaking Elon Musk today.
@@ -5903,8 +5339,6 @@ Thank you everyone for helping me achieve my goal.
 ## 2026-06-04 15:15:47 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $SIVE looks like both a chokepoint and a bottleneck for CPO next year. 
 
@@ -5969,8 +5403,6 @@ And it’s still trading less than a company with $50M in purchase agreements th
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 LOL. I’m honestly laughing there’s new media articles for each one of my X posts.
 
 I appreciate any objective coverage though since it helps combat a lot of the disinformation online. 
@@ -5988,8 +5420,6 @@ Am I that popular now?
 ## 2026-06-04 17:25:39 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 This timeline keeps getting more and more unreal…
 
@@ -6012,8 +5442,6 @@ So this is a nice symbolic message for a return to Nvidia’s roots.
 ## 2026-06-04 21:04:25 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Found this news funny about a new Swedish Hedge fund:
 
@@ -6041,8 +5469,6 @@ Especially if they’re facing infinite losses?
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $RDDT was driving me insane.
 
 > massive earnings beat
@@ -6065,8 +5491,6 @@ Was just flat for months. Glad to see it getting more attention.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Okay yeah should have trusted Jensen more on $MRVL after what he did with $NBIS.
 
 He actually gave a $1T price target this time with Marvell. 
@@ -6087,8 +5511,6 @@ Marvell up 35% with one remark…
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Good times with $AEHR, it’s now ~$3.5B MC.
 
 Haven’t mentioned it as much since there’s nothing too new. 
@@ -6106,8 +5528,6 @@ Just waiting on volume orders for these types of players like $LPK, and others.
 ## 2026-06-03 09:18:54 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 There we go. 
 
@@ -6131,8 +5551,6 @@ Just waiting on Win Semi, Msscorp, and Nextronics to catch up.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Is majority of the next generation stuck in the permanent underclass?
 
 > Missed out on gaining control of AI through ownership of infra/compute today
@@ -6152,8 +5570,6 @@ Gg?
 ## 2026-06-03 13:37:07 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Europe is releasing its Tech Sovereignty Package, today June 3rd. 
 
@@ -6183,8 +5599,6 @@ More details will be announced today, but this is a structural tailwind to photo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow… new extremely transformative news got released today.
 
 Making a certain photonics company:
@@ -6202,8 +5616,6 @@ Can anyone guess the name?
 ## 2026-06-03 15:50:21 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 GUESS WHAT ANON?
 
@@ -6250,8 +5662,6 @@ Given Sivers now holds one of the most important structural laser chokepoint ove
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Fun to see my highest conviction Neocloud pick in $NBIS age well.
 
 I wrote a thesis last year on the Neocloud sector becoming a major theme.
@@ -6276,8 +5686,6 @@ Thesis validated by markets.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Wow, only 1K more subscribers until I  overtake Elon Musk!
 
 Right now I’m at 46K. Elon is at 47K.
@@ -6297,8 +5705,6 @@ What a fun timeline.
 ## 2026-06-03 19:50:32 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 The difference between NASDAQ and EU listing:
 
@@ -6321,8 +5727,6 @@ $POET: $2.4B MC
 ## 2026-06-03 22:14:28 GMT+08:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 EU CHIPS Act 2.0 proposal is now released. 
 
@@ -6380,8 +5784,6 @@ We'll likely see the individual photonics names come out after this release, wit
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 $ARM is just ridiculous.
 
 $134 straight to $413 in just 2 1/2 months. 
@@ -6399,8 +5801,6 @@ Should have went options, would have been up thousands of percent instead of onl
 ## 2026-06-02 01:22:45 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 I did say $AAOI was my favorite US optical long...
 
@@ -6425,8 +5825,6 @@ That revenue ramp inflection point is coming, more of a matter of when, waiting 
 ## 2026-06-02 04:01:50 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 -> IP acquisition
 -> Just waiting for CPO to take off
@@ -6481,8 +5879,6 @@ Just needs to get listed on NASDAQ for premiums to bridge that gap.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Macron announces that $NBIS invests €8B to build out AI Cloud Infrastructure in France. 
 
 This was my favorite comment: 
@@ -6498,8 +5894,6 @@ This was my favorite comment:
 ## 2026-06-02 07:51:46 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 I never thought I’d see the day where $GOOGL needs to raise $80b for AI capex…
 
@@ -6520,8 +5914,6 @@ Not sure if the Google holders are though, given this massive capex scale isn’
 ## 2026-06-02 09:41:08 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 Just a heads up, I've uncovered a bot farm with dozens of accounts used to spread disinformation about $SIVE in the past few days.
 
@@ -6551,8 +5943,6 @@ While the regulators investigate, maybe not a good idea follow along false bot f
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 $NVDA Jensen Huang:
 
 “ $MRVL the next $1T company ladies and gentlemen “.
@@ -6573,8 +5963,6 @@ I have positions in Marvell… but how much faith do we have in Jensen for the 5
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 The most consequential event of an entire company’s history.
 
 Got released today with a photonics player.
@@ -6592,8 +5980,6 @@ Does anyone know the name?
 ## 2026-06-02 15:55:22 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 DID YOU LISTEN ANON?
 
@@ -6621,8 +6007,6 @@ To have Sivers be the standard laser route for the many hyperscalers that use th
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 Tbh $XFAB lowkey reminds me of early $TSEM.
 
 Just sub <$2B MC.
@@ -6648,8 +6032,6 @@ Or did markets miss something?
 ## 2026-06-02 22:19:41 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 $LITE rode the first optical wave from $3B to $75B in 2 years time with EML and pluggables.
 

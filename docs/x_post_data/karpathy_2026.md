@@ -15,8 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like "switching to speech recognition sorry for any typos...". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.
 
 [查看原文](https://nitter.net/karpathy/status/2079610838143623371#m)
@@ -26,8 +24,6 @@ One pattern I find useful for working with LLMs is a nice long ramble session. S
 ## 2026-07-09 05:47:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust
 
@@ -41,8 +37,6 @@ RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 RT by @karpathy: I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post. https://www.youtube.com/watch?v=rTc2_-1KuRE
 
 <img src="/images/karpathy/card_img_2073047029127802882_J8phVX553Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -54,8 +48,6 @@ RT by @karpathy: I spent a LOT of time through the hardest 3D prompts at Fable, 
 ## 2026-06-30 23:00:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @karpathy: We're coming out of stealth. We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised. Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads. Our first racks ship this summer.
 
@@ -69,8 +61,6 @@ RT by @karpathy: We're coming out of stealth. We've built our first racks after 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @karpathy: Introducing Engram: Scaling compute on your context
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDsmo7LEDCulh03wxh4IYsOQ898uSKAAKoD2sbMUvYVWZReJTV3v7zAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -82,8 +72,6 @@ RT by @karpathy: Introducing Engram: Scaling compute on your context
 ## 2026-06-24 06:26:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 This is a new paradigm for interacting with Claude that is significantly more "inline" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this "just work" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads. Imo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.
 
@@ -97,8 +85,6 @@ This is a new paradigm for interacting with Claude that is significantly more "i
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀
 
 [查看原文](https://nitter.net/karpathy/status/2065490793092337691#m)
@@ -108,8 +94,6 @@ In awe of SpaceX and its story - past, present and the future. You can think abo
 ## 2026-06-10 02:10:00 GMT+08:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model "gets it" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.
 
@@ -125,8 +109,6 @@ I feel a lot of things changing as working software increasingly comes out on a 
 
 <a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-**内容**:
-
 RT by @karpathy: x.com/i/article/206185053570…
 
 [查看原文](https://nitter.net/trq212/status/2061907337154367865#m)
@@ -134,8 +116,6 @@ RT by @karpathy: x.com/i/article/206185053570…
 ---
 
 ## 2026-05-31 23:38:25 GMT+08:00
-
-**内容**:
 
 RT by @karpathy: This has quietly been a miracle month in medicine. 
 
@@ -157,8 +137,6 @@ This stuff is at varying levels of evidence. Retatrutide is ~100% on its way, ot
 
 ## 2026-05-19 23:05:42 GMT+08:00
 
-**内容**:
-
 Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D. I remain deeply passionate about education and plan to resume my work on it in time.
 
 [查看原文](https://nitter.net/karpathy/status/2056753169888334312#m)
@@ -166,8 +144,6 @@ Personal update: I've joined Anthropic. I think the next few years at the fronti
 ---
 
 ## 2026-05-12 00:20:21 GMT+08:00
-
-**内容**:
 
 This works really well btw, at the end of your query ask your LLM to "structure your response as HTML", then view the generated file in your browser. I've also had some success asking the LLM to present its output as slideshows, etc.
 
@@ -191,8 +167,6 @@ TLDR The input/output mind meld between humans and AIs is ongoing and there is a
 
 ## 2026-05-01 01:28:50 GMT+08:00
 
-**内容**:
-
 Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:
 
 The first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons:
@@ -215,8 +189,6 @@ Last theme is the agent-native economy. The decomposition of products and servic
 
 ## 2026-05-01 01:43:06 GMT+08:00
 
-**内容**:
-
 This is the the quote I've been citing a lot recently.
 
 [查看原文](https://nitter.net/karpathy/status/2049907410303865030#m)
@@ -224,8 +196,6 @@ This is the the quote I've been citing a lot recently.
 ---
 
 ## 2026-04-28 05:34:34 GMT+08:00
-
-**内容**:
 
 RT by @karpathy: New work with @AlecRad and @DavidDuvenaud:
 
@@ -241,8 +211,6 @@ Vintage models should help us to understand how LMs generalize (e.g., can we tea
 
 ## 2026-04-23 00:00:05 GMT+08:00
 
-**内容**:
-
 RT by @karpathy: Imagine every pixel on your screen, streamed live directly from a model. No HTML, no layout engine, no code. Just exactly what you want to see.
 
 @eddiejiao_obj, @drewocarr and I built a prototype to see how this could actually work, and set out to make it real. We're calling it Flipbook. (1/5)
@@ -254,8 +222,6 @@ RT by @karpathy: Imagine every pixel on your screen, streamed live directly from
 ---
 
 ## 2026-04-10 04:10:52 GMT+08:00
-
-**内容**:
 
 Judging by my tl there is a growing gap in understanding of AI capability.
 
@@ -273,8 +239,6 @@ TLDR the people in these two groups are speaking past each other. It really is s
 
 ## 2026-04-10 04:38:48 GMT+08:00
 
-**内容**:
-
 R to @karpathy: Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.
 
 [查看原文](https://nitter.net/karpathy/status/2042341482531864741#m)
@@ -282,8 +246,6 @@ R to @karpathy: Someone recently suggested to me that the reason OpenClaw moment
 ---
 
 ## 2026-04-05 00:45:23 GMT+08:00
-
-**内容**:
 
 Wow, this tweet went very viral!
 
@@ -300,8 +262,6 @@ You can give this to your agent and it can build you your own LLM wiki and guide
 ---
 
 ## 2026-04-05 05:57:57 GMT+08:00
-
-**内容**:
 
 Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.
 
@@ -320,8 +280,6 @@ Certainly, the same tools can easily cut the other way and it's worth being very
 ---
 
 ## 2026-04-05 07:28:36 GMT+08:00
-
-**内容**:
 
 Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.
 
@@ -344,8 +302,6 @@ Certainly this is not the simplest way to get an AI to know you - it does requir
 
 ## 2026-04-05 22:58:44 GMT+08:00
 
-**内容**:
-
 R to @karpathy: Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?
 
 Suddenly feeling like I should gist more.
@@ -356,8 +312,6 @@ Suddenly feeling like I should gist more.
 ---
 
 ## 2026-04-03 04:42:21 GMT+08:00
-
-**内容**:
 
 LLM Knowledge Bases
 
@@ -392,8 +346,6 @@ TLDR: raw data from a given number of sources is collected, then compiled by an 
 
 ## 2026-03-31 13:23:32 GMT+08:00
 
-**内容**:
-
 New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads.
 
 Scanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The installed version (luckily) resolved to an unaffected 1.13.5, but the project dependency is not pinned, meaning that if I did this earlier today the code would have resolved to latest and I'd be pwned.
@@ -411,8 +363,6 @@ https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-dro
 
 ## 2026-03-28 23:56:10 GMT+08:00
 
-**内容**:
-
 - Drafted a blog post
 - Used an LLM to meticulously improve the argument over 4 hours.
 - Wow, feeling great, it’s so convincing!
@@ -428,8 +378,6 @@ The LLMs may elicit an opinion when asked but are extremely competent in arguing
 
 ## 2026-03-27 00:10:52 GMT+08:00
 
-**内容**:
-
 When I built menugen ~1 year ago, I observed that the hardest part by far was not the code itself, it was the plethora of services you have to assemble like IKEA furniture to make it real, the DevOps: services, payments, auth, database, security, domain names, etc...
 
 I am really looking forward to a day where I could simply tell my agent: "build menugen" (referencing the post) and it would just work. The whole thing up to the deployed web page. The agent would have to browse a number of services, read the docs, get all the api keys, make everything work, debug it in dev, and deploy to prod. This is the actually hard part, not the code itself. Or rather, the better way to think about it is that the entire DevOps lifecycle has to become code, in addition to the necessary sensors/actuators of the CLIs/APIs with agent-native ergonomics. And there should be no need to visit web pages, click buttons, or anything like that for the human. 
@@ -442,8 +390,6 @@ It's easy to state, it's now just barely technically possible and expected to wo
 
 ## 2026-03-26 00:05:14 GMT+08:00
 
-**内容**:
-
 One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.
 
 [查看原文](https://nitter.net/karpathy/status/2036836816654147718#m)
@@ -452,8 +398,6 @@ One common issue with personalization in all LLMs is how distracting memory seem
 
 ## 2026-03-26 00:22:08 GMT+08:00
 
-**内容**:
-
 R to @karpathy: (I cycle through all LLMs over time and all of them seem to do this so it's not any particular implementation but something deeper, e.g. maybe during training, a lot of the information in the context window is relevant to the task, so the LLMs develop a bias to use what is given, then at test time overfit to anything that happens to RAG its way there via a memory feature (?))
 
 [查看原文](https://nitter.net/karpathy/status/2036841069636370467#m)
@@ -461,8 +405,6 @@ R to @karpathy: (I cycle through all LLMs over time and all of them seem to do t
 ---
 
 ## 2026-03-25 00:56:24 GMT+08:00
-
-**内容**:
 
 Software horror: litellm PyPI supply chain attack. 
 
@@ -481,8 +423,6 @@ Classical software engineering would have you believe that dependencies are good
 ---
 
 ## 2026-03-21 08:55:37 GMT+08:00
-
-**内容**:
 
 Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&A in the replies.
 
