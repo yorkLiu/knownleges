@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1377 条推文
+> 📊 推文存档 - 共 1378 条推文
 
 ---
 
@@ -257,8 +257,6 @@ RT by @elonmusk: Today in AI.
 
 RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST OPEN AI
 
-[查看原文](https://nitter.net/adeoressi/status/2079772638273319365#m)
-
 ---
 
 ## 2026-07-22 12:14:39
@@ -436,6 +434,20 @@ Yes
 **内容**:
 
 Their next step is to agree that there are large numbers of illegals voting (or usually getting harvested by Dem operatives who pick up their ballots and fill them out) and that it is a good thing and anyone who opposes it is racist
+
+---
+
+## 2026-07-22 23:56:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Ethiopian migrant accused of executing three apartment staffers due to a parking dispute in Minnesota. 30-year-old Tsegaab Binessu was reportedly upset that he wasn't allowed to cancel his $ 65-a-month parking garage contract, so he decided to murder three people. Nansi Fuentes Zambrano, 25, Dena Silcox, 56, and Adam Wilwerding, 43, were shot and killed. "No, no... no no," Silcox, an assistant manager, was heard screaming as Wilwerding, the community manager, was shot. Binessu then turned the gun on her and Fuentes Zambrano, killing them both. 21 shell casings were found by investigators in the office. While being arrested, Binessu reportedly said he "hated the American system" and was mad that his family couldn't immigrate to the U.S. from Ethiopia. He also claimed he was "treated unfairly because he is black and an immigrant," according to court documents. Binessu has been charged with second-degree murder. Absolutely infuriating. He should have never been in this country in the first place.
+
+<img src="/images/elonmusk/amplify_video_thumb_2079957406805839872_img_fCrjcuHmVAxKWKnH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/CollinRugg/status/2079958827404034384#m)
 
 ---
 
