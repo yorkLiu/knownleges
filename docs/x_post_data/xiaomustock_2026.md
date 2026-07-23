@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 267 条推文
+> 📊 推文存档 - 共 268 条推文
+
+---
+
+## 2026-07-24 00:50:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+交易是最好玩的对手最多的全球竞技游戏
+
+[查看原文](https://nitter.net/xiaomustock/status/2080334809445118410#m)
 
 ---
 
