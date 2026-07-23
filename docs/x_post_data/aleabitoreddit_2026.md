@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 322 条推文
+> 📊 推文存档 - 共 324 条推文
 
 ---
 
@@ -15,7 +15,11 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-$GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. Cloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. Capex: $44.92B vs ~$44.15B (basically in line). So initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand. Their former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... Should be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. And that should be in 3 minutes.
+**内容**:
+
+
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2080027058063958323#m)
 
 ---
 
@@ -23,7 +27,9 @@ $GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail rea
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI capex will slow down given.
+**内容**:
+
+
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIeWphNEgH2i13ywiYozsfHuD16nBuAAIzGWsbKZ0JV59gWR5VigU-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
@@ -37,11 +43,47 @@ $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compa
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-$GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler.
+**内容**:
+
+
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIeGphNEUYtbGA1IrIfww57xqoE51gAAIyGWsbKZ0JVySZy-KDIplrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2080035769062916479#m)
+
+---
+
+## 2026-07-23 12:35:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just some notes from $TSLA transcripts: Elon Musk: "I think Optimus will be the biggest product ever" from Q2 earnings transcripts. Even from Q1, Elon Stated: "I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever. And I remain convinced of that conclusion". It's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise. In terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: "We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies..." And that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones. Just pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. On a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: "We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days." (Just for structural memory demand). Elon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. Just takeaways from Tesla earnings TLDR: Elon tends to be directionally correct on where the future is heading, such as with EV or Space. He seems extremely bullish on humanoids.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIimphoUmWaHGlUq7KNMlzuiIeWKR9AAKtEWsbnJkQV384wFl33jUsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIi2phoU0l2l_ygRlXd9XrVt5xh2nRAAKuEWsbnJkQV3YnfM4UWD_vAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIjGphoVBJF6ozwxkCyuD5uJszZpldAAKvEWsbnJkQV9JQMOgLlovCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIjWphoVTA3dJCwiW1LGw26K8wtXpLAAKwEWsbnJkQV4CJcjJxH65RAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2080149813065396454#m)
+
+---
+
+## 2026-07-23 12:49:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, following CPU ratios due to AI inference... But the broader trend of LTAs seems to be appearing from: - Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs. - Photonics, with $LITE, $COHR signing EML LTAs. And recent Trendforce reports that $AMD and hyperscalers are now pursuing CW LTAs. And I'm sure there's many more from MLCCs to all the way to substrates. +1 for the bottleneck investors... hard to be a "bubble that pops" if you have take or pay demand spanning multiple years.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIiWphoUWJcZ3VakkECsR-xtKrfCEEAAKsEWsbnJkQV0DHMe6hz7pGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2080153334888182065#m)
 
 ---
 
