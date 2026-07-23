@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1409 条推文
+> 📊 推文存档 - 共 1413 条推文
 
 ---
 
@@ -81,6 +81,20 @@ Truth is stranger than fiction
 
 ---
 
+## 2026-07-24 04:13:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Amazing clip of Elon Musk shutting down a journalist who uses the term 'Far-Right' "If you go back 10 or 15 years these were completely normal policies" Secure borders Safe cities Sensible spending "These are not far right, these are normal people"
+
+<img src="/images/elonmusk/amplify_video_thumb_2080376559991504897_img_v0x_KcSqLgnuHmyQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BasilTheGreat/status/2080385854984302974#m)
+
+---
+
 ## 2026-07-24 04:28:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -88,12 +102,6 @@ Truth is stranger than fiction
 **内容**:
 
 Grok 4.5 making progress
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIn2pigom0hNkjCzVQ7aHFXUyB4_FlAAI_EGsbnJkYVzZVR63lkfPnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIoGpigo0YBXtW5o2_noflp7KlfdXyAAJAEGsbnJkYV4N9Z1Bxmw__AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080389505438396555#m)
 
 ---
 
@@ -105,9 +113,49 @@ Grok 4.5 making progress
 
 Just common sense!
 
-<img src="/images/elonmusk/amplify_video_thumb_2080376559991504897_img_v0x_KcSqLgnuHmyQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080390728228970729#m)
+## 2026-07-24 06:10:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The public does not trust the legacy mainstream media for good reason
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIoWpimFnDdtjcdS8k6UFHoOVE57mRAAJCEGsbnJkYVxC5jXWjzCjsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080377741308841984_img_mRZdBbOFBqftb82K.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080415223773827554#m)
+
+---
+
+## 2026-07-24 06:11:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+<img src="/images/elonmusk/amplify_video_thumb_2080349806338420736_img_m6fB5bJAEY3_pA66.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080415440611037424#m)
+
+---
+
+## 2026-07-24 06:22:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="/images/elonmusk/amplify_video_thumb_2080386360184115200_img_FeNrKq4qsCyxfKc3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080418389512867865#m)
 
 ---
 
