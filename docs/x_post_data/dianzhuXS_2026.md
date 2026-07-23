@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 228 条推文
+> 📊 推文存档 - 共 229 条推文
+
+---
+
+## 2026-07-24 06:43:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+跟我學的 就不要先看身強身弱 那是祖師爺留下的護法「煙霧彈」 愛好者陷入到「迷魂陣」裡 就一輩子也入不了門嘍 https://open.substack.com/pub/dianzhuxs/p/b05?utm_source=app-post-stats-page&r=8moxkp&utm_medium=ios
+
+[查看原文](https://nitter.net/dianzhuXS/status/2080423696754507786#m)
 
 ---
 
