@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1423 条推文
+> 📊 推文存档 - 共 1425 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Elon Musk in new interview: "One of the reasons I took @SpaceX public is so that the public could participate, so they could own a piece of SpaceX, whereas as a private company we're very limited in the number of shareholders we're allowed to have before going public; As a private company we're limited to just a few thousand shareholders." via @TheEconomist: https://www.economist.com/insider/the-insider/an-interview-with-elon-musk
-
-<img src="/images/elonmusk/amplify_video_thumb_2080344628906147840_img_VPjxFdAOws-YFGwp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2080345058549628999#m)
 
 ---
 
@@ -93,8 +89,6 @@ Yes
 
 RT by @elonmusk: I listened to 85 minutes of The Economist’s interview of Elon so you don’t have to. Besides, it’s behind a paywall. Elon’s predictions: In five years, AI compute will exceed the sum of all human intelligence. In ten years, we will have reached the age of abundance. Money won’t matter. Everyone will have what they need or want (at least in economies that embrace AI). Ms. Beddoes tried to pin Elon down on how the economy will transform that way, but he wouldn’t get into specifics beyond noting that widespread AI robotics is a deflationary force. This means governments won’t need to raise taxes for universal basic income schemes, or, as Elon likes to call it, universal high income, since they will simply be able to print money to ward off deflation caused by the robot economy. She noted that Elon appears to have a more sanguine view of AI lately. He replied that he’s concluded superintelligent AI is now inevitable, so there’s no point trying to stop or slow it down, it can’t be done. We might as well enjoy the ride. The interviewer also noted that Mars no longer seems to be Elon’s overall ambition. He answered that his real mission was always to propagate and preserve human consciousness into the far future. Mars was just a vehicle for that. But now AI is a very important part of that goal. AI will necessarily be part of any future plan. And then came the oh-so-typical, increasingly tiresome part of most long journalist interviews: the interviewer constructs a straw-man version of Elon and argues against it. Elon carefully explained that he isn’t a raging far-right extremist, racist Nazi who kills puppies … and the journalist still didn't believe it. It is so effing tiresome. The lack of self-awareness on the part of journalists is off the charts. She complained about Elon’s supposed misperception of how dangerous London is, while remaining oblivious to the role she plays in creating the giant misperception of Elon as a person in her own writing. Elon defended his political views, saying he is for secure borders, locking up criminals, and balanced government spending, something even she had to admit didn’t sound crazy. And… that’s about it for an 85-minute interview. I couldn’t help but think that the next long-form interview Elon does should be conducted by an AI.
 
-[查看原文](https://nitter.net/PTrubey/status/2080376355783381132#m)
-
 ---
 
 ## 2026-07-24 03:38:22
@@ -145,7 +139,19 @@ Just common sense!
 
 RT by @elonmusk: It's not "far-right" to protect the borders. It's normal. It's not "far-right" to reject the woke agenda. It's normal. It's not "far-right" to embrace your heritage. It's normal.
 
-[查看原文](https://nitter.net/PeterSweden7/status/2080398253766385685#m)
+---
+
+## 2026-07-24 05:38:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: We love you. We hate her. Thank you for sitting down with someone like her to remind people like us what we are fighting. The woke is so baked in, she doesn’t even know it’s happening. Her smug face says it all.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080373096666820608_img_zPj9a8L68V9PrVRJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/HistoryBoutique/status/2080407348347048176#m)
 
 ---
 
@@ -157,10 +163,6 @@ RT by @elonmusk: It's not "far-right" to protect the borders. It's normal. It's 
 
 RT by @elonmusk: Elon is an absolute legend
 
-<img src="/images/elonmusk/amplify_video_thumb_2080386360184115200_img_FeNrKq4qsCyxfKc3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/shaunmmaguire/status/2080407986896359532#m)
-
 ---
 
 ## 2026-07-24 06:02:27
@@ -170,10 +172,6 @@ RT by @elonmusk: Elon is an absolute legend
 **内容**:
 
 RT by @elonmusk: Try the Tavily plugin for LLM-driven search inside Grok Build
-
-<img src="/images/elonmusk/amplify_video_thumb_2080309362850160640_img_PlAVKIe3iqyHrSx0.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceXAI/status/2080413259140882721#m)
 
 ---
 
@@ -185,10 +183,6 @@ RT by @elonmusk: Try the Tavily plugin for LLM-driven search inside Grok Build
 
 RT by @elonmusk: Yep. Nothing but love for @elonmusk!
 
-<img src="/images/elonmusk/amplify_video_thumb_2040325155012947968_img_1cxK8iXorWAXKAmb.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/GadSaad/status/2080413875514552751#m)
-
 ---
 
 ## 2026-07-24 06:06:26
@@ -198,10 +192,6 @@ RT by @elonmusk: Yep. Nothing but love for @elonmusk!
 **内容**:
 
 RT by @elonmusk: Je suis Français. Et je préfère 100 fois Elon Musk et je lui fais 100 fois plus confiance que à nos politiciens corrompus jusqu’à la moelle pour défendre les démocraties en Europe. Elon est un Occidental. Nous allons bientôt ré-unifier l’Occident et chasser les idées globalo-communistes. Et avoir une vraie renaissance. Vive cette PLS intergalactique.
-
-<img src="/images/elonmusk/amplify_video_thumb_2080397241445920768_img_wg0aEBPaYiYU1enJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/brivael/status/2080414261059141656#m)
 
 ---
 
@@ -225,6 +215,20 @@ Yup
 
 ---
 
+## 2026-07-24 06:21:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk slams “Soros DAs” for releasing repeat violent offenders in America. 💯 “Where there is danger in this country is because we fail to incarcerate repeat violent offenders. You have the classic sort of Soros DAs or judges who fail to incarcerate repeat violent offenders. If somebody gets arrested 50 times, literally for violent crimes, eventually they’re going to kill somebody. So you either incarcerate them, or people will die.”
+
+<img src="/images/elonmusk/amplify_video_thumb_2080418051187671040_img_P7MB9laFTM9AzDOJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2080418121714958383#m)
+
+---
+
 ## 2026-07-24 06:22:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -242,8 +246,6 @@ Yes
 **内容**:
 
 Grok 4.5 is the best value for money AI
-
-[查看原文](https://nitter.net/elonmusk/status/2080421213411946941#m)
 
 ---
 
