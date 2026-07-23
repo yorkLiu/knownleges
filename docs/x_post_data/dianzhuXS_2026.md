@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 227 条推文
+> 📊 推文存档 - 共 228 条推文
 
 ---
 
@@ -17,12 +17,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIgGphQuceYPK7hGMkupYMJSsa7ZXaAAI7GWsbKZ0JV6FQ4aCqoMUiAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2080051100301054345#m)
-
 ---
 
 ## 2026-07-23 07:12:15
@@ -30,20 +24,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/dianzhuXS/card_img_2079867257874976768_6Ty-nLwj3Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIgWphUViHia27WssGI7VINYg3MgUWAAJBGWsbKZ0JV4L4ZisZowXKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIgGphQuceYPK7hGMkupYMJSsa7ZXaAAI7GWsbKZ0JV6FQ4aCqoMUiAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIg2phUWAlCcxuNTmAH1DDuM0hv9HFAAJCGWsbKZ0JVx_NmCLjQpqLAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIhGphUWQ2__BaW8NV66Dz3o1_XlVTAAJDGWsbKZ0JV8s9eo-Q1WwgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2080068435665686666#m)
 
 ---
 
@@ -55,7 +35,17 @@ tags: ["2026"]
 
 Substack 同步「冷不防」 https://x.com/i/spaces/1vKpPPAEZWkKE
 
-[查看原文](https://nitter.net/dianzhuXS/status/2080241685599326407#m)
+---
+
+## 2026-07-23 19:25:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1vKpPPAEZWkKE
+
+[查看原文](https://nitter.net/dianzhuXS/status/2080252913134588242#m)
 
 ---
 
