@@ -15,8 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail reactions to EPS blowout is kinda just accounting noise, since $SPCX, Anthropic, and others were likely large contributors. Revenue: $119.7B actual vs. $116.98B expected Google Cloud Revenue: $24.77B +82% Y/Y, vs. 63-65% expected ($22.2-$22.6B) - this is a very large beat and most material part so far. Cloud Operating Income: ~$8.81B, implying 35.6% margin vs. 32.9% Q1. Capex: $44.92B vs ~$44.15B (basically in line). So initial read through is Google Cloud accelerating growth with expanding margins is genuinely bullish for AI demand. Their former $180-$190B capex guidance is already extremely large, and as long as we get around these numbers in the earnings call + forward projections... Should be good to go for $LITE and the other optics/networking trade. (eg. last earnings, they said DC and networking would be ~40% of capex spend). Hyperscaler earnings transcripts are probably the most important thing to pay attention to with the AI capex trade. And that should be in 3 minutes.
 
 ---
@@ -24,8 +22,6 @@ $GOOGL reported earnings today: EPS: $9.11 actual vs $2.91 expected - retail rea
 ## 2026-07-23 04:45:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compared to 750M back in February. Absurd growth adding 200 million more users in a few months. Kinda explains why they ran out of compute, then cut allocations to $META and others. Very unlikely AI capex will slow down given.
 
@@ -41,8 +37,6 @@ $GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. Compa
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 $GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Google is also expected to significantly increase capex in 2027. This is perhaps the most bullish read through on upstream semis from a hyperscaler.
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIeGphNEUYtbGA1IrIfww57xqoE51gAAIyGWsbKZ0JVySZy-KDIplrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
@@ -55,10 +49,6 @@ $GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Goog
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
-
-
 [查看原文](https://nitter.net/aleabitoreddit/status/2079622706572804368#m)
 
 ---
@@ -66,10 +56,6 @@ $GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Goog
 ## 2026-07-22 05:02:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
-
-
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITmpf5cIfAqz7vvB3ghTZs-c7QGYdAAL7EmsbKZ0BV3c7qP9FekTnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
@@ -85,10 +71,6 @@ $GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Goog
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
-
-
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIaWpgd0s8ymooK6UeTCj5KtLgCCpTAAIBGGsbKZ0JV0jTDvaojUHCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/aleabitoreddit/status/2079833415948566832#m)
@@ -98,8 +80,6 @@ $GOOGL updates FY 2026 capex guidance: To $195B-$205B. Up from $180B-$190B. Goog
 ## 2026-07-22 23:10:40
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 $AMD to invest $5B in Anthropic. Anthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars. Looks like they’re copying the $NVDA playbook with Anthropic last year.
 

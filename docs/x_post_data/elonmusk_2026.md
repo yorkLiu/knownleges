@@ -15,8 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: France’s Transport Minister says Tesla FSD is not yet safe enough to be approved in its current form. But in reality, Tesla FSD is safer than human driving. • 12.1B+ miles driven with FSD • 4.5B+ city miles driven • 7x fewer major collisions than the U.S. average • 7x fewer minor collisions • 5x fewer collisions on non-highway roads • Improves U.S. road safety by over 80%, reducing collisions caused by human error • 32,000+ lives potentially saved per year • 1,900,000+ injuries could potentially be avoided per year • Tesla vehicles have earned 5-star safety ratings from NHTSA, Euro NCAP and ANCAP.
 
 ---
@@ -24,8 +22,6 @@ RT by @elonmusk: France’s Transport Minister says Tesla FSD is not yet safe en
 ## 2026-07-23 01:38:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Zero stories is a low number …
 
@@ -35,8 +31,6 @@ Zero stories is a low number …
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: It's really fun to direct a character's emotion in Grok Imagine. All four of these videos are the same scene, the only thing that changes is the performance. Detailed breakdown below.
 
 ---
@@ -44,8 +38,6 @@ RT by @elonmusk: It's really fun to direct a character's emotion in Grok Imagine
 ## 2026-07-23 04:13:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Elon Musk is not merely building companies He is building the infrastructure humanity needs to move entire civilization forward • SpaceX — making life multiplanetary • Tesla — accelerating sustainable energy, autonomy and robotics • 𝕏 — defending free speech and protecting the global town square • SpaceXAI— pursuing truth and understanding the universe • Starbase — building the launch gateway to humanity’s multiplanetary future • Starlink — connecting humanity everywhere, from the world’s largest cities to its most remote regions • The Boring Company — building three-dimensional transportation networks for three-dimensional cities • Neuralink — restoring communication, mobility and human capability Different companies, different missions, one goal One man pushing every frontier forward Elon Musk has dedicated his entire life to expanding the boundaries of what humanity can achieve Elon is on Team Humanity
 
@@ -55,8 +47,6 @@ RT by @elonmusk: Elon Musk is not merely building companies He is building the i
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Tesla shareholder update underway right now!
 
 ---
@@ -64,8 +54,6 @@ Tesla shareholder update underway right now!
 ## 2026-07-23 05:53:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Pinned: Tesla Earnings Call
 
@@ -75,8 +63,6 @@ Pinned: Tesla Earnings Call
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Try out Grok Build! http://X.ai/cli
 
 ---
@@ -84,8 +70,6 @@ Try out Grok Build! http://X.ai/cli
 ## 2026-07-23 07:31:49
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 Easy to make video games with Grok!
 
@@ -97,15 +81,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 00:36:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -113,15 +93,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 00:53:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -129,15 +105,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 01:30:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -145,15 +117,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 02:48:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -161,15 +129,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 04:03:59
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -177,15 +141,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 04:19:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -193,15 +153,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 04:52:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -209,15 +165,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 07:36:40
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -225,15 +177,11 @@ Easy to make video games with Grok!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 09:07:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Dear @ZohranKMamdani, thank you for improving the lives of New Yorkers by spending your days either explaining to the Americans that Islam should rule the US, and/or why Israel is an evil entity. The United States failed its citizens when they allowed your family to become Americans. You are as American as a man who sleeps in a stable becoming a horse.
 
@@ -243,8 +191,6 @@ RT by @elonmusk: Dear @ZohranKMamdani, thank you for improving the lives of New 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accused of the anti-ICE arson terror attack in Manhattan, at a 2025 protest wearing a Luigi hat with a pro-Palestine symbol. He repeatedly calls a Jewish man the n-word.
 
 ---
@@ -253,15 +199,11 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 09:49:53
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -269,15 +211,11 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 09:55:27
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -285,15 +223,11 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 10:55:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -301,23 +235,17 @@ RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accu
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 11:20:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 11:24:54
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Today in AI.
 
@@ -327,15 +255,11 @@ RT by @elonmusk: Today in AI.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 11:36:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST OPEN AI
 
@@ -345,15 +269,11 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 13:12:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -361,15 +281,11 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 13:39:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -377,15 +293,11 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 13:42:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -393,15 +305,11 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 14:47:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -409,15 +317,11 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 14:50:08
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -425,15 +329,11 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 14:59:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -441,15 +341,11 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 15:30:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -457,23 +353,17 @@ RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 16:13:51
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-22 18:17:46
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build continues to strengthen the developer experience with safer extension management, better session recovery, and more resilient auto-compaction when authentication expires Release Notes: v0.2.110 Features: • Removing MCP servers, plugins, or hook sources in the Extensions modal now asks for confirmation (press y to proceed) Bug Fixes: • Session creation failures (including disk full) now show an error message instead of hanging on "Starting session…". • Auto-compact that fails due to an expired token now lets you log in and automatically retry the compact + original prompt
 
@@ -482,8 +372,6 @@ RT by @elonmusk: Grok Build continues to strengthen the developer experience wit
 ## 2026-07-22 18:26:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains. - The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π. - The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx totals π. - The sinc function ∫_{-∞}^{∞} sin(x)/x dx also equals π. These identities, established through techniques such as contour integration, link analysis across mathematics. Engineers apply the sinc integral within the sampling theorem to perfectly reconstruct continuous-time signals from discrete samples in digital communications systems.
 
@@ -497,8 +385,6 @@ RT by @elonmusk: Three fundamental integrals stand out for their elegant closed 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Exactly
 
 ---
@@ -506,8 +392,6 @@ Exactly
 ## 2026-07-22 20:11:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Weird how the mainstream media is suddenly very quiet about the attacks on democracy currently happening in Hungary.
 
@@ -517,8 +401,6 @@ RT by @elonmusk: Weird how the mainstream media is suddenly very quiet about the
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Yes
 
 ---
@@ -527,8 +409,6 @@ Yes
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 Their next step is to agree that there are large numbers of illegals voting (or usually getting harvested by Dem operatives who pick up their ballots and fill them out) and that it is a good thing and anyone who opposes it is racist
 
 ---
@@ -536,8 +416,6 @@ Their next step is to agree that there are large numbers of illegals voting (or 
 ## 2026-07-22 20:28:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Grok Build just got another powerful plugin: Exa The new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build With Exa, you can: • Search the web semantically instead of relying only on keywords • Filter results across companies, people, news, research papers and financial reports • Extract webpages as clean Markdown • Run structured, multi-step research workflows with deduplicated, cited results Setup is simple: install the plugin, sign in to your Exa account through the browser and start using it No API key is required, and new accounts receive free credits at signup The Grok Build plugin ecosystem keeps expanding Instead of constantly switching between research tools and your development environment, you can bring high-quality web search and content extraction directly into the same AI workflow
 
@@ -551,8 +429,6 @@ RT by @elonmusk: Grok Build just got another powerful plugin: Exa The new Exa pl
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 RT by @elonmusk: Jetzt aufgrund des großen medialen Interesses auch in Englisch, was da gestern im Wahlausschuss passiert ist:
 
 ---
@@ -560,8 +436,6 @@ RT by @elonmusk: Jetzt aufgrund des großen medialen Interesses auch in Englisch
 ## 2026-07-22 23:56:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 RT by @elonmusk: Ethiopian migrant accused of executing three apartment staffers due to a parking dispute in Minnesota. 30-year-old Tsegaab Binessu was reportedly upset that he wasn't allowed to cancel his $ 65-a-month parking garage contract, so he decided to murder three people. Nansi Fuentes Zambrano, 25, Dena Silcox, 56, and Adam Wilwerding, 43, were shot and killed. "No, no... no no," Silcox, an assistant manager, was heard screaming as Wilwerding, the community manager, was shot. Binessu then turned the gun on her and Fuentes Zambrano, killing them both. 21 shell casings were found by investigators in the office. While being arrested, Binessu reportedly said he "hated the American system" and was mad that his family couldn't immigrate to the U.S. from Ethiopia. He also claimed he was "treated unfairly because he is black and an immigrant," according to court documents. Binessu has been charged with second-degree murder. Absolutely infuriating. He should have never been in this country in the first place.
 
@@ -571,15 +445,11 @@ RT by @elonmusk: Ethiopian migrant accused of executing three apartment staffers
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 01:45:59
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -587,15 +457,11 @@ RT by @elonmusk: Ethiopian migrant accused of executing three apartment staffers
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 06:14:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: No threat of violence against my life is going to stop me from pushing for the SAVE America Act.
 
@@ -609,15 +475,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 08:20:13
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -625,15 +487,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 10:13:22
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -641,15 +499,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 12:17:06
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -657,15 +511,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 12:19:08
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -673,15 +523,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 12:56:59
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -689,15 +535,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 14:09:01
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -705,15 +547,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 15:59:17
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -721,15 +559,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 22:13:19
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -737,15 +571,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 22:35:09
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -753,15 +583,11 @@ RT by @elonmusk: No threat of violence against my life is going to stop me from 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 23:13:36
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 RT by @elonmusk: The Crown Prosecution Service has confirmed our dear friend Ann Widdecombe was eating lunch when Joshua Kerry allegedly arrived at her house and entered through the front door. He then allegedly hit her on the head with a hammer 21 times. Before allegedly driving off. Why did the police and Keir Starmer tell Nigel Farage it was a “burglary gone wrong”? The authorities had better preserve all files and records. As Home Secretary in a Reform government I will take a keen interest in all communications in those initial hours. I will ensure the public learns the truth.
 
@@ -771,15 +597,11 @@ RT by @elonmusk: The Crown Prosecution Service has confirmed our dear friend Ann
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-21 23:53:27
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -3151,13 +2973,13 @@ RT by @elonmusk: Socialists imagine a class struggle. In their made-up fantasy t
 
 ---
 
-## 2026-07-09 20:17:43-2
+## 2026-07-09 20:17:43-1
 
 RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
 
 ---
 
-## 2026-07-09 20:17:43
+## 2026-07-09 20:17:43-2
 
 RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
 

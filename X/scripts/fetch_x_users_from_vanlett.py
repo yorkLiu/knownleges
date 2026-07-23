@@ -127,9 +127,21 @@ def parse_existing_tweets(content, username):
             time_obj = datetime.now()
         
         tweet_body = section
-        # Extract content (strip any embedded <img> tags to prevent duplication on re-runs)
+        # Extract content: try **内容**: format first, then fall back to raw content between tags and [查看原文]
         content_match = re.search(r'\*\*内容\*\*:\s*\n\n(.+?)(?=\n\n\*\*图片\*\*:|$)', tweet_body, re.DOTALL)
-        tweet_content = content_match.group(1).strip() if content_match else ""
+        if content_match:
+            tweet_content = content_match.group(1).strip()
+        else:
+            # New format (no **内容**: label): extract content between tags/time and [查看原文]/---/img
+            # Remove the time header line and tags
+            body_after_header = re.sub(r'^## .+?\n+', '', tweet_body, flags=re.DOTALL)
+            body_after_header = re.sub(r'^<a href="[^"]*tag=[^"]+">[^<]+</a>\s*\n+', '', body_after_header)
+            # Content ends at [查看原文], <img, or ---
+            content_end = re.search(r'(\[查看原文\]|<img|---)', body_after_header)
+            if content_end:
+                tweet_content = body_after_header[:content_end.start()].strip()
+            else:
+                tweet_content = body_after_header.strip()
         # Remove any <img> tags or [查看原文] links that leaked into content from previous runs
         tweet_content = re.sub(r'<img[^>]+>', '', tweet_content)
         tweet_content = re.sub(r'\[查看原文\]\([^)]+\)', '', tweet_content)
@@ -357,12 +369,23 @@ def build_yearly_summary():
                         if section.strip().startswith("## "):
                             # 提取时间戳和内容作为去重键
                             ts_match = re.match(r'^## (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})', section.strip(), re.MULTILINE)
+                            # Try **内容**: format, then fall back to content between tags and [查看原文]/img
                             content_match = re.search(r'\*\*内容\*\*:\s*\n\n(.+?)(?=\n\n\*\*图片\*\*:|$)', section.strip(), re.DOTALL)
-                            if ts_match and content_match:
-                                key = (ts_match.group(1), content_match.group(1).strip())
+                            if ts_match:
+                                if content_match:
+                                    key = (ts_match.group(1), content_match.group(1).strip())
+                                else:
+                                    # New format: extract content from section for dedup key
+                                    raw = re.sub(r'^## .+?\n+', '', section.strip(), flags=re.DOTALL)
+                                    raw = re.sub(r'^<a href="[^"]*tag=[^"]+">[^<]+</a>\s*\n+', '', raw)
+                                    raw = re.sub(r'\s*\[查看原文\]\([^)]+\).*$', '', raw, flags=re.DOTALL)
+                                    raw = re.sub(r'\s*<img[^>]+>.*$', '', raw, flags=re.DOTALL)
+                                    key = (ts_match.group(1), raw.strip())
                                 if key not in seen_keys:
                                     seen_keys.add(key)
-                                    all_tweets.append(section.strip())
+                                    # Strip any **内容**: label before writing to yearly summary
+                                    cleaned_section = re.sub(r'\*\*内容\*\*:\s*\n\n', '', section.strip())
+                                    all_tweets.append(cleaned_section)
             except Exception as e:
                 print(f"    ⚠️ 读取 {daily_file.name} 失败：{e}")
         
