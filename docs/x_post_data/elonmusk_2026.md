@@ -7,7 +7,35 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1399 条推文
+> 📊 推文存档 - 共 1401 条推文
+
+---
+
+## 2026-07-24 01:52:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Banger 😂
+
+<img src="/images/elonmusk/amplify_video_thumb_2080089205502545920_img_qpITTzrf8uAU80fI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080350336309686470#m)
+
+---
+
+## 2026-07-24 01:53:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah
+
+<img src="/images/elonmusk/amplify_video_thumb_2080095935502454784_img_vJr3gzYWyx8MIzhe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080350615658749956#m)
 
 ---
 
