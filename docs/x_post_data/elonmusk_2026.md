@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1401 条推文
+> 📊 推文存档 - 共 1406 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 Banger 😂
 
-<img src="/images/elonmusk/amplify_video_thumb_2080089205502545920_img_qpITTzrf8uAU80fI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080350336309686470#m)
-
 ---
 
 ## 2026-07-24 01:53:32
@@ -33,9 +29,59 @@ Banger 😂
 
 Yeah
 
-<img src="/images/elonmusk/amplify_video_thumb_2080095935502454784_img_vJr3gzYWyx8MIzhe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080350615658749956#m)
+## 2026-07-24 01:56:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2080351324580004343#m)
+
+---
+
+## 2026-07-24 01:57:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 now on all platforms
+
+<img src="/images/elonmusk/amplify_video_thumb_2080320701005963264_img_4aqabNC4QaWOagvA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080351573675544984#m)
+
+---
+
+## 2026-07-24 02:08:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This happens a lot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIm2piZX3kdCgwBF1AtJgHExTlpzVgAAI3EGsbnJkYV4hz_biNc8oGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080354424028045404#m)
+
+---
+
+## 2026-07-24 02:38:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="/images/elonmusk/amplify_video_thumb_2080341679274680320_img_AWsM052wv0T93MuF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080361977164304618#m)
 
 ---
 
@@ -123,8 +169,6 @@ RT by @elonmusk: 0 notable incidents across over 380,000 miles traveled by Robot
 
 RT by @elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default
 
-[查看原文](https://nitter.net/BHolmesDev/status/2080056695477129649#m)
-
 ---
 
 ## 2026-07-23 07:31:49
@@ -192,6 +236,20 @@ Grok Build gets better every day http://X.ai/cli
 **内容**:
 
 Cool
+
+---
+
+## 2026-07-23 21:48:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore found him dead by suicide in his bedroom after constant bullying for being white by "Asian" bullies in Birmingham. His family say that Aaron was threatened with a plastic knife by one "asian" pupil - who warned him: "Next time it will be a real one," Whites are a minority in Birmingham, England's second largest city. This is the future for all if not reversed.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIImmpiZXhBCtNteRBE9VCqRku_mWM7AAI2EGsbnJkYV9geCxZmTtvWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TRobinsonNewEra/status/2080289014876078537#m)
 
 ---
 
