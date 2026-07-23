@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1394 条推文
+> 📊 推文存档 - 共 1398 条推文
 
 ---
 
@@ -17,12 +17,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2079960914124775424_img_psuCR9QtjrvAZaxt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2079962763041136691#m)
-
 ---
 
 ## 2026-07-23 01:38:29
@@ -31,14 +25,6 @@ tags: ["2026"]
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIdmphCKmupcB-UG_3jdETEqMajusyAAIiGWsbKZ0JV08eFVfVqeYTAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIId2phCK2DZtmCGlB2Gd9QY2lq4u6hAAIjGWsbKZ0JV6xk_Lpd6kwmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2079984441179684961#m)
-
 ---
 
 ## 2026-07-23 03:09:52
@@ -46,18 +32,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2080007371187687424_img_eOXJFnBcJYrF9Khz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2080007371158323200_img_1xM2tMCRkeNLRmvj.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2080007371116482560_img_GvvsYtWccOvns_iB.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2080007371183546368_img_J8GCUS6ZVH0-v4ce.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/heavypulp/status/2080007437470302237#m)
 
 ---
 
@@ -69,10 +43,6 @@ tags: ["2026"]
 
 RT by @elonmusk: The European Commission rejected the registration of the @SaveEuropeAct. They claim it’s “racist” and goes against “European values” to want to keep Europe, European. We’re not accepting the madness anymore. Europe belongs to us. See you in court.
 
-<img src="/images/elonmusk/amplify_video_thumb_2080009378778718208_img_27uuJvYQvdCF8JCY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EvaVlaar/status/2080009485242798267#m)
-
 ---
 
 ## 2026-07-23 04:13:47
@@ -80,12 +50,6 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIe2phO4ieyV-c5wUO_C5QDYQhYk57AAI1GWsbKZ0JV-JwWY-RwSKPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2080023521653354730#m)
 
 ---
 
@@ -95,18 +59,6 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfGphQtYwsMRToB6BKlcnyC95a_19AAI3GWsbKZ0JV3A-TjUw9foEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfWphQtmigszpkixUB0jCCczAtMYsAAI4GWsbKZ0JV9rtd4mMYWphAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfmphQt1N0puZPirtHoB6xt9HztZbAAI5GWsbKZ0JV7vh_gQF409aAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIf2phQuFxdRkvtCD8LQ4soVbwoj-UAAI6GWsbKZ0JVx5119XZaEFZAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080048415443157502#m)
-
 ---
 
 ## 2026-07-23 05:53:46
@@ -114,12 +66,6 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/card_img_2080054936713437184_wPJAyTE23Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080048685522837664#m)
 
 ---
 
@@ -129,11 +75,17 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 **内容**:
 
+---
 
+## 2026-07-23 06:18:49
 
-<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/elonmusk/status/2080049853036728541#m)
+**内容**:
+
+RT by @elonmusk: 0 notable incidents across over 380,000 miles traveled by Robotaxi
+
+[查看原文](https://nitter.net/Tesla/status/2080054990337622379#m)
 
 ---
 
@@ -143,9 +95,33 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 **内容**:
 
+---
 
+## 2026-07-23 08:28:40
 
-[查看原文](https://nitter.net/elonmusk/status/2080073361343054247#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: FSD Supervised helps save lives
+
+<img src="/images/elonmusk/amplify_video_thumb_2080083816736313344_img_MOEYo6Ebw7iqiRVx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Tesla/status/2080087667119898780#m)
+
+---
+
+## 2026-07-23 12:35:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions! It can do so, because, FSD is trained on corner cases extracted from more than a 1000 lifetimes of driving. It has learnt to accurately predict the probability of collision even for crazy cases such others running red lights, swerving into us, kids running into roads and such. Do watch the full video for some highlights. A no-brainer way to significantly improve your and your family's safety is to get a Tesla with FSD. It also completely takes the stress out of driving. Not saying this just because I work at Tesla, rather that it's genuinely a great product already and is continuing to get even better.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080083816736313344_img_MOEYo6Ebw7iqiRVx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aelluswamy/status/2080149830467547297#m)
 
 ---
 
@@ -157,10 +133,6 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIkGphr9Qz6Ue6kv23R1qTFg2RrmbTAALREWsbnJkQVyuKpmlOzCnAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080165738464280725#m)
-
 ---
 
 ## 2026-07-23 13:50:02
@@ -170,8 +142,6 @@ Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years
 **内容**:
 
 Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and gets the job done
-
-[查看原文](https://nitter.net/elonmusk/status/2080168539420594481#m)
 
 ---
 
@@ -183,12 +153,6 @@ Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and 
 
 Grok Build gets better every day http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIj2phr9DWRDpXFqWs0SXa3g8AAWKUFgAC0BFrG5yZEFfFZ5yfyq4KHgEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080170228554903796#m)
-
 ---
 
 ## 2026-07-23 13:57:19
@@ -199,309 +163,683 @@ Grok Build gets better every day http://X.ai/cli
 
 Cool
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIjmphr80zQcfXgSChqwur6WRYZOAwAALPEWsbnJkQV-ueI0KmS-wiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080170375363891250#m)
-
 ---
 
 ## 2026-07-22 00:17:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079597967929999360_img_qnbgpZxIxpsyGfQr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/libsoftiktok/status/2079601674415427801#m)
 
 ---
 
 ## 2026-07-22 00:36:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRWpfpF3H4YBaUGpNZl-rgROBqK07AALPEmsbKZ0BV9PcBNTk8iAxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIRmpfpGHOiA9i6IIlocFf2naAjjfYAALQEmsbKZ0BV_05suNeFVG5AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079606389631332659#m)
 
 ---
 
 ## 2026-07-22 00:53:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/karpathy/status/2079610838143623371#m)
 
 ---
 
 ## 2026-07-22 00:53:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIUmpgJydQP50qNCRQA9eZz1Oeq936AAJJE2sbKZ0BV6leXS4MhPQrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2079610848927195407#m)
 
 ---
 
 ## 2026-07-22 01:12:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/cursor_ai/status/2079615536963485815#m)
 
 ---
 
 ## 2026-07-22 01:30:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/multiplanet1/status/2079619917406425594#m)
 
 ---
 
 ## 2026-07-22 02:20:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVWpgPP-PDPwiBv5aYOFU1KCETx-QAAKZE2sbKZ0BV0m-ZEiNLtXNAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/america/status/2079632608950911270#m)
 
 ---
 
 ## 2026-07-22 02:48:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/engineers_feed/status/2079639690567729647#m)
 
 ---
 
 ## 2026-07-22 03:44:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIV2pgPQc1iJWHfpSf4PYRzDDdLUQWAAKbE2sbKZ0BV-r4MK6FryuQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AJamesMcCarthy/status/2079653799929749653#m)
 
 ---
 
 ## 2026-07-22 04:03:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIcGpgfq9hFhscZvsDjRRJmWtNbYVAAAIkGGsbKZ0JV1312enKxaCRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIcWpgfrG3J1qtFuCxy2pPinaFyvuZAAIlGGsbKZ0JV_-epqqfS4k1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2079658668279423360#m)
 
 ---
 
 ## 2026-07-22 04:12:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIISmpf1zrsZoLRlbjpqscIVFFGl-sZAALvEmsbKZ0BV5_FwJjiLo8FAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIS2pf1z-fdf8Wpb2019t2YoZDWaZ-AALwEmsbKZ0BV8DS6PjJbvHTAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITGpf10JYZbnnKksIhMeBwRre3yX6AALxEmsbKZ0BVxRrz7p0O5DCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIITWpf10UnXiURD8tNCvIjBJpg4XuzAALyEmsbKZ0BV8GwtyaUzeSRAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079660702592086188#m)
 
 ---
 
 ## 2026-07-22 04:19:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079662501109833728_img_HO07yvkSphRdfyVw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tesla_na/status/2079662582139613236#m)
 
 ---
 
 ## 2026-07-22 04:35:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079666387010887680_img_RltS7Vb-2aIC_5ZF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/kimbal/status/2079666603504075239#m)
 
 ---
 
 ## 2026-07-22 04:52:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZWpgdzoFyBTIsD0h_ONX8SYY6e_ZAAL9F2sbKZ0JV93cswuBBcS_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZmpgdz6bnHV5DOTFmQvC_VOE2uheAAL-F2sbKZ0JV6UdVhP0l_SUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZ2pgd0Lr5WVvCT4gVXA6cUxMmW42AAL_F2sbKZ0JVyTq6Eq3lezLAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIaGpgd0YFOlBFsQMhgZxCCTaPOuxYAAMYaxspnQlXkjf2pzY2bXABAAMCAAN5AAM9BA.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/doganuraldesign/status/2079670888622850053#m)
 
 ---
 
 ## 2026-07-22 06:39:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079696188824272897_img_L00NCwDzdvWxYHbo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tesla_na/status/2079697840792871154#m)
 
 ---
 
 ## 2026-07-22 07:36:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/Riley_Gaines_/status/2079712192346157531#m)
 
 ---
 
 ## 2026-07-22 08:54:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/GadSaad/status/2079731838197600484#m)
 
 ---
 
 ## 2026-07-22 09:07:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Dear @ZohranKMamdani, thank you for improving the lives of New Yorkers by spending your days either explaining to the Americans that Islam should rule the US, and/or why Israel is an evil entity. The United States failed its citizens when they allowed your family to become Americans. You are as American as a man who sleeps in a stable becoming a horse.
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079717921392152576_img_EOITNltI6evO0heY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GadSaad/status/2079734938811711807#m)
 
 ---
 
 ## 2026-07-22 09:09:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Footage has re-emerged showing Andrew​ Arrabaca, the man accused of the anti-ICE arson terror attack in Manhattan, at a 2025 protest wearing a Luigi hat with a pro-Palestine symbol. He repeatedly calls a Jewish man the n-word.
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079723316546269184_img_t2w8n7Oe7OYsqR4q.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MrAndyNgo/status/2079735652216693156#m)
 
 ---
 
 ## 2026-07-22 09:47:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079745107881017576#m)
 
 ---
 
 ## 2026-07-22 09:49:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079745716575248538#m)
 
 ---
 
 ## 2026-07-22 09:53:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079746636990001378#m)
 
 ---
 
 ## 2026-07-22 09:55:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079747118525534603#m)
 
 ---
 
 ## 2026-07-22 10:41:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079623240972939265_img_WPnju49YIuz5b0uh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079758604656316619#m)
 
 ---
 
 ## 2026-07-22 10:55:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVmpgPQPGQ9EII5KVnqZ6koN-YeKBAAKaE2sbKZ0BVxcr1Yzq3Y0-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079762316669898880#m)
 
 ---
 
 ## 2026-07-22 11:19:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079768318471442845#m)
 
 ---
 
 ## 2026-07-22 11:20:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIVGpgPPx6ZwABWqS14WSVR4l4W-UrLAACmBNrGymdAVf3VRfLr7IojQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079768591206117877#m)
 
 ---
 
 ## 2026-07-22 11:24:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Today in AI.
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIcmpguLtvaU7iR3NsowJXcKHpeS7QAAKvGGsbKZ0JV6bcu48jKSqpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/bgurley/status/2079769629329952947#m)
 
 ---
 
 ## 2026-07-22 11:26:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIY2pgdzE86P9bgtRIJpBSdjKpB34wAAL7F2sbKZ0JV1NsVx3nB3RVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIZGpgdzSdJCGAOxVNK15GLzXJal4FAAL8F2sbKZ0JV46klYBtcUzUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2079769949422403696#m)
 
 ---
 
 ## 2026-07-22 11:36:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: I think there is now overwhelming evidence to say: DO NOT TRUST OPEN AI
+**内容**:
+
+
+
+[查看原文](https://nitter.net/adeoressi/status/2079772638273319365#m)
 
 ---
 
 ## 2026-07-22 12:14:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIbGpgfqDI41LlAfPm44FeUVV0-RJNAAIgGGsbKZ0JV_t9vwkGLaTNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIbWpgfqM8eqxpjceGHBdlFmUrgptsAAIhGGsbKZ0JV3xn-8BjiOxEAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIbmpgfqgIj7YneSTE_sq__aNk3YK7AAIiGGsbKZ0JVwF1V3EXoSWPAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIb2pgfqyVDnE_gJ1mSyK-9e8L9ovJAAIjGGsbKZ0JVyEYl3Jpzte8AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/sundarpichai/status/2079782148605641102#m)
 
 ---
 
 ## 2026-07-22 13:12:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYmpgdy45mo14f0ahf-ZFVMBFF-01AAL6F2sbKZ0JVwG78DsVeRVQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/libsoftiktok/status/2079796799460585629#m)
 
 ---
 
 ## 2026-07-22 13:21:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079799034387337216_img_tg67vvo-Xpk8Q8IP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/paranoidream/status/2079799074325422343#m)
 
 ---
 
 ## 2026-07-22 13:39:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079803429325877544#m)
 
 ---
 
 ## 2026-07-22 13:41:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2025059567978045440_img_HMcCUD5YsvIlOxn4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079804007305089275#m)
 
 ---
 
 ## 2026-07-22 13:42:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079804227518599478#m)
 
 ---
 
 ## 2026-07-22 14:12:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079811908069405105#m)
 
 ---
 
 ## 2026-07-22 14:47:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYWpgdyqjhj8J-DyiDMm_G4CXUzYnAAL5F2sbKZ0JVxogZVllzTiWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079820726476144749#m)
 
 ---
 
 ## 2026-07-22 14:48:37
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYGpgdyg88beqvJf9DnbbkYCoMvX_AAL4F2sbKZ0JV3-H9mKXi1HzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079820895997366771#m)
 
 ---
 
 ## 2026-07-22 14:50:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079816985660026880_img_c-i2XphkQYNVDmTT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079821278681379159#m)
 
 ---
 
 ## 2026-07-22 14:52:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079821812930879874#m)
 
 ---
 
 ## 2026-07-22 14:59:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXmpgdx-Fga1X8x9mqLODNVc5gpYAA_YXaxspnQlXLiBikja_mdwBAAMCAAN4AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIX2pgdyL0VvdR9Cks59bG1R4r19CLAAL3F2sbKZ0JV6nA3qKAvRrFAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079823654481953219#m)
 
 ---
 
 ## 2026-07-22 15:27:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079830622353408478#m)
 
 ---
 
 ## 2026-07-22 15:30:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIXGpgdxgMVpibYunaEy9rJk0EKD0lAAL0F2sbKZ0JVwGySzYRVSL5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079831399969042845#m)
 
 ---
 
 ## 2026-07-22 16:02:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079839398959697982#m)
 
 ---
 
 ## 2026-07-22 16:13:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIampgfpif1XUPbAABMRSOWY7NKN87HgACHhhrGymdCVfv7yJS5uyq9AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079842345668022641#m)
+
+---
+
+## 2026-07-22 17:57:08
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIkWphtxFhvvmLt9_ot6VXlVPdQKeYAALmEWsbnJkQV_84_vB018UTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/techdevnotes/status/2079868339002687524#m)
 
 ---
 
 ## 2026-07-22 18:17:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Grok Build continues to strengthen the developer experience with safer extension management, better session recovery, and more resilient auto-compaction when authentication expires Release Notes: v0.2.110 Features: • Removing MCP servers, plugins, or hook sources in the Extensions modal now asks for confirmation (press y to proceed) Bug Fixes: • Session creation failures (including disk full) now show an error message instead of hanging on "Starting session…". • Auto-compact that fails due to an expired token now lets you log in and automatically retry the compact + original prompt
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIc2pguL7-Jm5-xRb3R9hzj6QXuiEbAAKxGGsbKZ0JV9woOQUwNrqWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIYWpgdyqjhj8J-DyiDMm_G4CXUzYnAAL5F2sbKZ0JVxogZVllzTiWAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2079873531387711985#m)
 
 ---
 
 ## 2026-07-22 18:26:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains. - The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π. - The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx totals π. - The sinc function ∫_{-∞}^{∞} sin(x)/x dx also equals π. These identities, established through techniques such as contour integration, link analysis across mathematics. Engineers apply the sinc integral within the sampling theorem to perfectly reconstruct continuous-time signals from discrete samples in digital communications systems.
+**内容**:
+
+
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIhWphWJh73v7cXRlOtkQq6_I4PbukAAJIGWsbKZ0JVxTvEROqBO-AAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
@@ -511,41 +849,61 @@ RT by @elonmusk: Three fundamental integrals stand out for their elegant closed 
 
 ## 2026-07-22 20:11:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-Exactly
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079902044882968832#m)
 
 ---
 
 ## 2026-07-22 20:11:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Weird how the mainstream media is suddenly very quiet about the attacks on democracy currently happening in Hungary.
+**内容**:
+
+
+
+[查看原文](https://nitter.net/PeterSweden7/status/2079902263745618379#m)
 
 ---
 
 ## 2026-07-22 20:12:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-Yes
+**内容**:
+
+
+
+[查看原文](https://nitter.net/elonmusk/status/2079902487511978269#m)
 
 ---
 
 ## 2026-07-22 20:18:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-Their next step is to agree that there are large numbers of illegals voting (or usually getting harvested by Dem operatives who pick up their ballots and fill them out) and that it is a good thing and anyone who opposes it is racist
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079808018737205248_img_RkW-ehNAcCZ-WkzY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079903803227455928#m)
 
 ---
 
 ## 2026-07-22 20:28:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Grok Build just got another powerful plugin: Exa The new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build With Exa, you can: • Search the web semantically instead of relying only on keywords • Filter results across companies, people, news, research papers and financial reports • Extract webpages as clean Markdown • Run structured, multi-step research workflows with deduplicated, cited results Setup is simple: install the plugin, sign in to your Exa account through the browser and start using it No API key is required, and new accounts receive free credits at signup The Grok Build plugin ecosystem keeps expanding Instead of constantly switching between research tools and your development environment, you can bring high-quality web search and content extraction directly into the same AI workflow
+**内容**:
+
+
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIhmphWJzqATieI8lmSXp9MQdAnayOAAJJGWsbKZ0JV8vqqgb09rjqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
@@ -555,17 +913,29 @@ RT by @elonmusk: Grok Build just got another powerful plugin: Exa The new Exa pl
 
 ## 2026-07-22 22:32:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Jetzt aufgrund des großen medialen Interesses auch in Englisch, was da gestern im Wahlausschuss passiert ist:
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079937524210769920_img_prAJdIVFr8j7gTAK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Martin_Sichert/status/2079937641722650669#m)
 
 ---
 
 ## 2026-07-22 23:56:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-RT by @elonmusk: Ethiopian migrant accused of executing three apartment staffers due to a parking dispute in Minnesota. 30-year-old Tsegaab Binessu was reportedly upset that he wasn't allowed to cancel his $ 65-a-month parking garage contract, so he decided to murder three people. Nansi Fuentes Zambrano, 25, Dena Silcox, 56, and Adam Wilwerding, 43, were shot and killed. "No, no... no no," Silcox, an assistant manager, was heard screaming as Wilwerding, the community manager, was shot. Binessu then turned the gun on her and Fuentes Zambrano, killing them both. 21 shell casings were found by investigators in the office. While being arrested, Binessu reportedly said he "hated the American system" and was mad that his family couldn't immigrate to the U.S. from Ethiopia. He also claimed he was "treated unfairly because he is black and an immigrant," according to court documents. Binessu has been charged with second-degree murder. Absolutely infuriating. He should have never been in this country in the first place.
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079957406805839872_img_fCrjcuHmVAxKWKnH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/CollinRugg/status/2079958827404034384#m)
 
 ---
 
