@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1406 条推文
+> 📊 推文存档 - 共 1407 条推文
 
 ---
 
@@ -39,8 +39,6 @@ Yeah
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2080351324580004343#m)
-
 ---
 
 ## 2026-07-24 01:57:20
@@ -50,10 +48,6 @@ True
 **内容**:
 
 Grok 4.5 now on all platforms
-
-<img src="/images/elonmusk/amplify_video_thumb_2080320701005963264_img_4aqabNC4QaWOagvA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080351573675544984#m)
 
 ---
 
@@ -65,10 +59,6 @@ Grok 4.5 now on all platforms
 
 This happens a lot
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIm2piZX3kdCgwBF1AtJgHExTlpzVgAAI3EGsbnJkYV4hz_biNc8oGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080354424028045404#m)
-
 ---
 
 ## 2026-07-24 02:38:41
@@ -79,9 +69,19 @@ This happens a lot
 
 Yes
 
-<img src="/images/elonmusk/amplify_video_thumb_2080341679274680320_img_AWsM052wv0T93MuF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080361977164304618#m)
+## 2026-07-24 03:38:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Truth is stranger than fiction
+
+<img src="/images/elonmusk/amplify_video_thumb_2080102902417240064_img_ih9Jltak_dKdfOlN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080376998367813926#m)
 
 ---
 
