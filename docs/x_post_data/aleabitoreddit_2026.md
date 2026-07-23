@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 326 条推文
+> 📊 推文存档 - 共 327 条推文
 
 ---
 
@@ -29,13 +29,23 @@ I have this feeling that Lisa from $AMD likes AI. It’s cool getting to meet so
 
 $AMD reached out directly to hand me some special swag! Apparently they only made 30 of these bandanas? I love AMD and Lisa Su now.
 
+---
+
+## 2026-07-24 04:04:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @aleabitoreddit: The feelings mutual. 🤝
+
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInGpidAS7q7LNKNV11_1nPglR4gH1AAI8EGsbnJkYV7b7Jm0LrZi9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInWpidAgAAe-8jHZUXJ611jGzfJVOtQACPRBrG5yZGFcxOIC6Sl1NAAEBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInmpidAyU4I0vQPVnjc2vWCFQoK1jAAI-EGsbnJkYV5zKd9jdP9bCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2080379612736221325#m)
+[查看原文](https://nitter.net/AMD/status/2080383555767804141#m)
 
 ---
 
