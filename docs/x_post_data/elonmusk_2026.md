@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1398 条推文
+> 📊 推文存档 - 共 1399 条推文
 
 ---
 
@@ -85,7 +85,17 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 RT by @elonmusk: 0 notable incidents across over 380,000 miles traveled by Robotaxi
 
-[查看原文](https://nitter.net/Tesla/status/2080054990337622379#m)
+---
+
+## 2026-07-23 06:25:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default
+
+[查看原文](https://nitter.net/BHolmesDev/status/2080056695477129649#m)
 
 ---
 
@@ -105,10 +115,6 @@ RT by @elonmusk: 0 notable incidents across over 380,000 miles traveled by Robot
 
 RT by @elonmusk: FSD Supervised helps save lives
 
-<img src="/images/elonmusk/amplify_video_thumb_2080083816736313344_img_MOEYo6Ebw7iqiRVx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Tesla/status/2080087667119898780#m)
-
 ---
 
 ## 2026-07-23 12:35:41
@@ -118,10 +124,6 @@ RT by @elonmusk: FSD Supervised helps save lives
 **内容**:
 
 RT by @elonmusk: Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions! It can do so, because, FSD is trained on corner cases extracted from more than a 1000 lifetimes of driving. It has learnt to accurately predict the probability of collision even for crazy cases such others running red lights, swerving into us, kids running into roads and such. Do watch the full video for some highlights. A no-brainer way to significantly improve your and your family's safety is to get a Tesla with FSD. It also completely takes the stress out of driving. Not saying this just because I work at Tesla, rather that it's genuinely a great product already and is continuing to get even better.
-
-<img src="/images/elonmusk/amplify_video_thumb_2080083816736313344_img_MOEYo6Ebw7iqiRVx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/aelluswamy/status/2080149830467547297#m)
 
 ---
 
