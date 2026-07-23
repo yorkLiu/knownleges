@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1389 条推文
+> 📊 推文存档 - 共 1394 条推文
 
 ---
 
@@ -15,7 +15,13 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-RT by @elonmusk: France’s Transport Minister says Tesla FSD is not yet safe enough to be approved in its current form. But in reality, Tesla FSD is safer than human driving. • 12.1B+ miles driven with FSD • 4.5B+ city miles driven • 7x fewer major collisions than the U.S. average • 7x fewer minor collisions • 5x fewer collisions on non-highway roads • Improves U.S. road safety by over 80%, reducing collisions caused by human error • 32,000+ lives potentially saved per year • 1,900,000+ injuries could potentially be avoided per year • Tesla vehicles have earned 5-star safety ratings from NHTSA, Euro NCAP and ANCAP.
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079960914124775424_img_psuCR9QtjrvAZaxt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2079962763041136691#m)
 
 ---
 
@@ -23,7 +29,15 @@ RT by @elonmusk: France’s Transport Minister says Tesla FSD is not yet safe en
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-Zero stories is a low number …
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIdmphCKmupcB-UG_3jdETEqMajusyAAIiGWsbKZ0JV08eFVfVqeYTAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIId2phCK2DZtmCGlB2Gd9QY2lq4u6hAAIjGWsbKZ0JV6xk_Lpd6kwmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2079984441179684961#m)
 
 ---
 
@@ -31,7 +45,33 @@ Zero stories is a low number …
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-RT by @elonmusk: It's really fun to direct a character's emotion in Grok Imagine. All four of these videos are the same scene, the only thing that changes is the performance. Detailed breakdown below.
+**内容**:
+
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371187687424_img_eOXJFnBcJYrF9Khz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371158323200_img_1xM2tMCRkeNLRmvj.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371116482560_img_GvvsYtWccOvns_iB.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080007371183546368_img_J8GCUS6ZVH0-v4ce.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/heavypulp/status/2080007437470302237#m)
+
+---
+
+## 2026-07-23 03:18:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The European Commission rejected the registration of the @SaveEuropeAct. They claim it’s “racist” and goes against “European values” to want to keep Europe, European. We’re not accepting the madness anymore. Europe belongs to us. See you in court.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080009378778718208_img_27uuJvYQvdCF8JCY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/EvaVlaar/status/2080009485242798267#m)
 
 ---
 
@@ -39,7 +79,13 @@ RT by @elonmusk: It's really fun to direct a character's emotion in Grok Imagine
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-RT by @elonmusk: Elon Musk is not merely building companies He is building the infrastructure humanity needs to move entire civilization forward • SpaceX — making life multiplanetary • Tesla — accelerating sustainable energy, autonomy and robotics • 𝕏 — defending free speech and protecting the global town square • SpaceXAI— pursuing truth and understanding the universe • Starbase — building the launch gateway to humanity’s multiplanetary future • Starlink — connecting humanity everywhere, from the world’s largest cities to its most remote regions • The Boring Company — building three-dimensional transportation networks for three-dimensional cities • Neuralink — restoring communication, mobility and human capability Different companies, different missions, one goal One man pushing every frontier forward Elon Musk has dedicated his entire life to expanding the boundaries of what humanity can achieve Elon is on Team Humanity
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIe2phO4ieyV-c5wUO_C5QDYQhYk57AAI1GWsbKZ0JV-JwWY-RwSKPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2080023521653354730#m)
 
 ---
 
@@ -47,7 +93,19 @@ RT by @elonmusk: Elon Musk is not merely building companies He is building the i
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-Tesla shareholder update underway right now!
+**内容**:
+
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfGphQtYwsMRToB6BKlcnyC95a_19AAI3GWsbKZ0JV3A-TjUw9foEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfWphQtmigszpkixUB0jCCczAtMYsAAI4GWsbKZ0JV9rtd4mMYWphAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIfmphQt1N0puZPirtHoB6xt9HztZbAAI5GWsbKZ0JV7vh_gQF409aAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIf2phQuFxdRkvtCD8LQ4soVbwoj-UAAI6GWsbKZ0JVx5119XZaEFZAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080048415443157502#m)
 
 ---
 
@@ -55,7 +113,13 @@ Tesla shareholder update underway right now!
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-Pinned: Tesla Earnings Call
+**内容**:
+
+
+
+<img src="/images/elonmusk/card_img_2080054936713437184_wPJAyTE23Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080048685522837664#m)
 
 ---
 
@@ -63,7 +127,13 @@ Pinned: Tesla Earnings Call
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-Try out Grok Build! http://X.ai/cli
+**内容**:
+
+
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080049853036728541#m)
 
 ---
 
@@ -71,9 +141,67 @@ Try out Grok Build! http://X.ai/cli
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-Easy to make video games with Grok!
+**内容**:
+
+
 
 [查看原文](https://nitter.net/elonmusk/status/2080073361343054247#m)
+
+---
+
+## 2026-07-23 13:38:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIkGphr9Qz6Ue6kv23R1qTFg2RrmbTAALREWsbnJkQVyuKpmlOzCnAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080165738464280725#m)
+
+---
+
+## 2026-07-23 13:50:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and gets the job done
+
+[查看原文](https://nitter.net/elonmusk/status/2080168539420594481#m)
+
+---
+
+## 2026-07-23 13:56:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build gets better every day http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2075694989988786178_PvegyvB43Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIj2phr9DWRDpXFqWs0SXa3g8AAWKUFgAC0BFrG5yZEFfFZ5yfyq4KHgEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080170228554903796#m)
+
+---
+
+## 2026-07-23 13:57:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIjmphr80zQcfXgSChqwur6WRYZOAwAALPEWsbnJkQV-ueI0KmS-wiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080170375363891250#m)
 
 ---
 
