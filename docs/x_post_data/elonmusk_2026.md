@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1407 条推文
+> 📊 推文存档 - 共 1409 条推文
 
 ---
 
@@ -79,9 +79,35 @@ Yes
 
 Truth is stranger than fiction
 
-<img src="/images/elonmusk/amplify_video_thumb_2080102902417240064_img_ih9Jltak_dKdfOlN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080376998367813926#m)
+## 2026-07-24 04:28:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 making progress
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIn2pigom0hNkjCzVQ7aHFXUyB4_FlAAI_EGsbnJkYVzZVR63lkfPnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIoGpigo0YBXtW5o2_noflp7KlfdXyAAJAEGsbnJkYV4N9Z1Bxmw__AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080389505438396555#m)
+
+---
+
+## 2026-07-24 04:32:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just common sense!
+
+<img src="/images/elonmusk/amplify_video_thumb_2080376559991504897_img_v0x_KcSqLgnuHmyQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080390728228970729#m)
 
 ---
 
