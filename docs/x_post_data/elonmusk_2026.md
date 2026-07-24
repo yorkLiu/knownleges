@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1473 条推文
+> 📊 推文存档 - 共 1475 条推文
 
 ---
 
@@ -229,9 +229,33 @@ Wow
 
 Pinned: Flight 13 of Starship launch attempt in 10 minutes!
 
-<img src="/images/elonmusk/card_img_2080787388377210880_4xMwtxZv3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080785172622868516#m)
+## 2026-07-25 06:54:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starship’s Raptor engines ignite during hot-staging separation. Super Heavy is boosting back towards its splashdown site in the Gulf of America
+
+<img src="/images/elonmusk/amplify_video_thumb_2080788686791135232_img_otZudRWC4A4GO6st.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2080788786863095890#m)
+
+---
+
+## 2026-07-25 07:04:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Live views brought to you by @Starlink
+
+<img src="/images/elonmusk/amplify_video_thumb_2080791247946452992_img_mdIVR4vNTbqHWKBz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2080791337712955648#m)
 
 ---
 
