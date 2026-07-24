@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1461 条推文
+> 📊 推文存档 - 共 1462 条推文
 
 ---
 
@@ -571,10 +571,6 @@ Soon, this will happen to your town
 
 RT by @elonmusk: "My partner, Shivon, is half Indian, and one of my son’s middle names is Sekhar, named after Aragorn and the great Indian physicist Chandrasekhar. Our daughter, Comet Azure, is named after the most powerful spell in Elden Ring." 一 Elon Musk
 
-<img src="/images/elonmusk/amplify_video_thumb_1995200731012616192_img_tyuOzxWQAeQCbWKZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2080574192739856456#m)
-
 ---
 
 ## 2026-07-24 18:40:06
@@ -625,13 +621,23 @@ Video
 
 RT by @elonmusk: America's tech leadership has always come from ecosystems where the best ideas compete. AI is no different. Open-weight models expand access, speed innovation, and give organizations real control, and long-term leadership requires choice across the full ecosystem. Dell is proud to co-sign this letter and help build that future here.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIItGpjs8Bb9TcYbg-cOF6GQwjD-m62AAKZFmsbze4ZV7lvdHrq-E-QAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIItWpjs8X9k8ZoYoNVwSWBx1slrYwVAAKaFmsbze4ZVxzfHyWPRv-2AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-24 23:53:52
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIItmpjs8mx5h0F_M3IorOdIBHWUv0PAAKbFmsbze4ZV3ulbBUqxs7aAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/MichaelDell/status/2080678316667740491#m)
+**内容**:
+
+RT by @elonmusk: excellent
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/jack/status/2080682887280546153#m)
 
 ---
 
