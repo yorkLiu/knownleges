@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1465 条推文
+> 📊 推文存档 - 共 1470 条推文
 
 ---
 
@@ -18,14 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/nvidia/status/2080686579400765517#m)
 
 ---
 
@@ -69,6 +61,20 @@ Yup 😑
 
 ---
 
+## 2026-07-25 01:30:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Tesla Diner turns 1 🎂
+
+<img src="/images/elonmusk/amplify_video_thumb_2080707130655645696_img_OYke4PycciskMibK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tesla_na/status/2080707328454844660#m)
+
+---
+
 ## 2026-07-25 01:32:02
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -86,10 +92,6 @@ Madness
 **内容**:
 
 RT by @elonmusk: New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence per $ will be the only metric that matters over time. K3 probably joins the frontier once available on the inference clouds.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIumpjyYreiUD9kM0K7fJUWGvVLbcSAALOFmsbze4ZV8pJbEoqEpJKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/GavinSBaker/status/2080711105349906786#m)
 
 ---
 
@@ -170,6 +172,58 @@ Grok 4.5 and Opus 5 are alone on Pareto frontier
 **内容**:
 
 R to @elonmusk: Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks
+
+---
+
+## 2026-07-25 03:12:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok is now available directly inside Google Workspace One add-on brings Grok into Google Sheets, Slides and Docs, where it works beside the file you already have open In Sheets, Grok can: • Read selected ranges and explain the data • Cite the exact cells behind its answers • Write and fill real spreadsheet formulas • Update values and rebuild financial scenarios In Slides, it can: • Generate a complete presentation from an outline • Add new slides that match the existing theme • Restructure entire sections • Rewrite titles so every slide communicates a clear takeaway In Docs, it can: • Draft directly inside the document • Turn rough notes into formatted sections • Correct grammar and rewrite content • Apply consistent headings and styles across the file Everything happens through a side panel, without constantly copying information between tabs or rebuilding the output manually One installation works across all three apps, and organizations can deploy it across their entire workforce Grok is rapidly becoming a native intelligence layer for the tools people already use every day
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIvWpj2BLv9pFDpCqpbCeMH3uMqK7pAAJkF2sbze4hV0qfz_p_ujmuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2080732812131664187#m)
+
+---
+
+## 2026-07-25 04:43:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just as Tesla made the original Roadster design & software open source, we plan to do the same with Model S & X
+
+[查看原文](https://nitter.net/elonmusk/status/2080755686615437501#m)
+
+---
+
+## 2026-07-25 04:57:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Overwhelming support for open source
+
+[查看原文](https://nitter.net/elonmusk/status/2080759312029294871#m)
+
+---
+
+## 2026-07-25 04:58:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 is excellent for real-world work
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIvmpj2BZxG4jf9FHzRAABru_4zgSKLAACZRdrG83uIVfeunShRENd8AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080759547753361804#m)
 
 ---
 
