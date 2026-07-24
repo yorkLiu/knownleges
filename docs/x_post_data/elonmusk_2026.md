@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1470 条推文
+> 📊 推文存档 - 共 1471 条推文
 
 ---
 
@@ -68,10 +68,6 @@ Yup 😑
 **内容**:
 
 RT by @elonmusk: Tesla Diner turns 1 🎂
-
-<img src="/images/elonmusk/amplify_video_thumb_2080707130655645696_img_OYke4PycciskMibK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tesla_na/status/2080707328454844660#m)
 
 ---
 
@@ -183,10 +179,6 @@ R to @elonmusk: Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks
 
 RT by @elonmusk: Grok is now available directly inside Google Workspace One add-on brings Grok into Google Sheets, Slides and Docs, where it works beside the file you already have open In Sheets, Grok can: • Read selected ranges and explain the data • Cite the exact cells behind its answers • Write and fill real spreadsheet formulas • Update values and rebuild financial scenarios In Slides, it can: • Generate a complete presentation from an outline • Add new slides that match the existing theme • Restructure entire sections • Rewrite titles so every slide communicates a clear takeaway In Docs, it can: • Draft directly inside the document • Turn rough notes into formatted sections • Correct grammar and rewrite content • Apply consistent headings and styles across the file Everything happens through a side panel, without constantly copying information between tabs or rebuilding the output manually One installation works across all three apps, and organizations can deploy it across their entire workforce Grok is rapidly becoming a native intelligence layer for the tools people already use every day
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIvWpj2BLv9pFDpCqpbCeMH3uMqK7pAAJkF2sbze4hV0qfz_p_ujmuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2080732812131664187#m)
-
 ---
 
 ## 2026-07-25 04:43:08
@@ -196,8 +188,6 @@ RT by @elonmusk: Grok is now available directly inside Google Workspace One add-
 **内容**:
 
 Just as Tesla made the original Roadster design & software open source, we plan to do the same with Model S & X
-
-[查看原文](https://nitter.net/elonmusk/status/2080755686615437501#m)
 
 ---
 
@@ -209,8 +199,6 @@ Just as Tesla made the original Roadster design & software open source, we plan 
 
 Overwhelming support for open source
 
-[查看原文](https://nitter.net/elonmusk/status/2080759312029294871#m)
-
 ---
 
 ## 2026-07-25 04:58:29
@@ -221,9 +209,17 @@ Overwhelming support for open source
 
 Grok 4.5 is excellent for real-world work
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIvmpj2BZxG4jf9FHzRAABru_4zgSKLAACZRdrG83uIVfeunShRENd8AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080759547753361804#m)
+## 2026-07-25 05:21:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+[查看原文](https://nitter.net/elonmusk/status/2080765392855707884#m)
 
 ---
 
