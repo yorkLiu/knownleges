@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1432 条推文
+> 📊 推文存档 - 共 1434 条推文
 
 ---
 
@@ -239,10 +239,6 @@ Yes
 
 RT by @elonmusk: Across the country, our government has identified hundreds of thousands of ineligible voters—so far. With at least hundreds of non-citizens voting there, New Jersey is no exception! The @CivilRights Division @TheJusticeDept is investigating.
 
-<img src="/images/elonmusk/amplify_video_thumb_2080419329477066752_img_vVtFSoyvwJK9n-_o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AAGDhillon/status/2080419367838159066#m)
-
 ---
 
 ## 2026-07-24 06:34:04
@@ -303,9 +299,33 @@ Video
 
 Neuralink helping those who have lost their mind to body connection
 
-<img src="/images/elonmusk/amplify_video_thumb_2080402252204740608_img_z94eEZnOYFLX0hHk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080496660598436146#m)
+## 2026-07-24 12:00:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is worth trusting
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIpmpi6EcAAZ5h-3qeOZZIgfjj_X1LQwAC3RBrG5yZGFfMhvlYQ_yPpwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080503470499717429#m)
+
+---
+
+## 2026-07-24 12:16:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🎯
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIpWpi6ENUAAGu1O1q_yKR0R2nZ2uV0wAC3BBrG5yZGFcrXlaluplxQgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080507373786186228#m)
 
 ---
 
