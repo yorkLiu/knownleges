@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1451 条推文
+> 📊 推文存档 - 共 1461 条推文
 
 ---
 
@@ -29,10 +29,6 @@ tags: ["2026"]
 
 Zany interview with Zanny
 
-<img src="/images/elonmusk/card_img_2080233359410622464_plkmThCi3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080706424342990985#m)
-
 ---
 
 ## 2026-07-25 01:28:56
@@ -42,10 +38,6 @@ Zany interview with Zanny
 **内容**:
 
 That’s what he said
-
-<img src="/images/elonmusk/amplify_video_thumb_2011858026488102912_img_iECr34AYTHX4GbRt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080706813662482472#m)
 
 ---
 
@@ -57,10 +49,6 @@ That’s what he said
 
 Yup 😑
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIsmpjpTYkBf2lSaSHzEuWkqebpdjIAAKJFmsbze4ZV0YMb7HIgXxsAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080707240391020766#m)
-
 ---
 
 ## 2026-07-25 01:32:02
@@ -71,9 +59,117 @@ Yup 😑
 
 Madness
 
-<img src="/images/elonmusk/amplify_video_thumb_2080558404834414592_img__zSqbH5rf6nwy6KL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080707591127134689#m)
+## 2026-07-25 02:02:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: If it wasn't for @elonmusk we wouldn't be able to have open, public discussions in the Town Square Elon has transformed the relationship between the Public, politicians & the Media - they don’t like it - we LOVE it!
+
+<img src="/images/elonmusk/amplify_video_thumb_2080713111867125760_img_X4J5OCkLsCo7dzp9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/alanvibe/status/2080715305001595187#m)
+
+---
+
+## 2026-07-25 02:03:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must itself be distributed. Agree with Jensen that this is a future worth building.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/miramurati/status/2080715390179766646#m)
+
+---
+
+## 2026-07-25 02:09:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Next month, every line of code touching the 𝕏 system will be open source and third-party audited. Only total transparency deserves trust.
+
+[查看原文](https://nitter.net/elonmusk/status/2080717110146146585#m)
+
+---
+
+## 2026-07-25 02:15:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Satya is right
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080718435944730806#m)
+
+---
+
+## 2026-07-25 02:16:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+(Former) Trillionaire
+
+[查看原文](https://nitter.net/elonmusk/status/2080718833040470357#m)
+
+---
+
+## 2026-07-25 02:27:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Extinctionists should be reviled for being the genocidal lunatics they are
+
+[查看原文](https://nitter.net/elonmusk/status/2080721662215954444#m)
+
+---
+
+## 2026-07-25 02:36:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 and Opus 5 are alone on Pareto frontier
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIs2pjs7xWYo2dpXn9vGoP9ffsSP11AAKYFmsbze4ZV7ibqHCO1L19AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080723860073091158#m)
+
+---
+
+## 2026-07-25 02:37:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks
+
+[查看原文](https://nitter.net/elonmusk/status/2080724087593226311#m)
 
 ---
 
@@ -467,6 +563,20 @@ Soon, this will happen to your town
 
 ---
 
+## 2026-07-24 16:41:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: "My partner, Shivon, is half Indian, and one of my son’s middle names is Sekhar, named after Aragorn and the great Indian physicist Chandrasekhar. Our daughter, Comet Azure, is named after the most powerful spell in Elden Ring." 一 Elon Musk
+
+<img src="/images/elonmusk/amplify_video_thumb_1995200731012616192_img_tyuOzxWQAeQCbWKZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2080574192739856456#m)
+
+---
+
 ## 2026-07-24 18:40:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -474,10 +584,6 @@ Soon, this will happen to your town
 **内容**:
 
 RT by @elonmusk: Marlon West is one of the bravest people I know. His work on ending the rape gangs, following what happened to his daughter, shows remarkable courage. I am very proud to support his campaign to become the next mayor of Greater Manchester.
-
-<img src="/images/elonmusk/amplify_video_thumb_2080603340560355328_img_q5LSPr2jOHBZvNE4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/RupertLowe10/status/2080603926403879130#m)
 
 ---
 
@@ -488,10 +594,6 @@ RT by @elonmusk: Marlon West is one of the bravest people I know. His work on en
 **内容**:
 
 RT by @elonmusk: Let's take a walk through the "American justice system," shall we? Sharmake Omar is the Somali man who filmed Shiloh Hendrix on the playground in Minnesota that day in April 2025. In January 2022, he and another Somali man "allegedly" spent two days raping an underage foster care runaway in a trailer, keeping her falsely imprisoned. In March 2025, all charges were dismissed "in the interest of justice." Weeks later, in April 2025, he turned his camera phone on at the playground after a young Somali thief attempted to steal from a White mom, Shiloh Hendrix, and began haranguing that White mom for having said the word "nigger." Omar demanded that Hendrix repeat the word on camera, which she did - four times, while Omar himself said the word five times in the less-than-one-minute video. Four long months later, multiple "disorderly conduct" charges were maliciously brought against Shiloh Hendrix for the playground incident in which she was the only victim, and Sharmake Omar was the videographer. Then, last night, Shiloh Hendrix was CONVICTED - specifically for saying "nigger" to Sharmake Omar AFTER he demanded she say it, while he himself said it repeatedly. Her sentence is a $1,000 fine and 200 hours of community service. By the way, Sharmake Omar WAS NEVER CALLED TO TESTIFY in the Hendrix trial. But don't worry, that's not all the justice we have in store for today. Just keep the substance of Shiloh's "crime" - as well as her sentence - in mind as we move forward. Rewind to April 2020. That's when Sharmake Omar, our favorite Somali videographer, along with another Somali friend of his (separate from his alleged co-raper), committed a violent assault in the street. Omar threw a rock at a car, then attacked and beat the 16-year-old driver. A bystander tried to intervene, but Omar's accomplice threatened him with a knife. For this, Sharmake Omar was charged merely with DISORDERLY CONDUCT. Yes, for hurling a deadly weapon at a vehicle, then beating the teenage driver while his criminal pal held off onlookers at knifepoint, Omar faced the EXACT SAME CHARGE that Shiloh Hendrix faced for saying a word that Omar asked her to say, as she held her child in her arms and fled the playground before Omar could assault her, too. Like Shiloh Hendrix, Sharmake Omar was convicted on his count of disorderly conduct. His sentence? A $200 fine. That's it. That's the entire thing. So, to review: Rape an underage foster child for two days (allegedly)? Clean slate. Hurl a deadly weapon at a car and assault its driver? $200. Say a word to an accused rapist/kidnapper and convicted violent criminal who demands you say it while saying it himself? $1,000 and 200 hours - not to mention international infamy. Could the anti-White standard be any more egregiously in our faces? Seriously, everyone involved in prosecuting the Shiloh Hendrix case is unspeakably evil. This includes, but is not limited to: ~ Rochester City Attorney Michael Spindler-Krage ~ Lead prosecutor Nicholas Shabel ~ Judge Christa Daily, who ensured Shiloh's conviction ~ The Rochester NAACP ~ Rochester's "Community Engagement Response Team" ~ Rochester Mayor Kim Norton ~ Rochester City Council President Randy Schubring ~ Minnesota Attorney General Keith Ellison ~ Minnesota's Council on American-Islamic Relations ~ Sharmake Omar, without whom none of this would have happened ~ The young Somali thief's non-English speaking parents ~ Innumerable members of the local Somali scam network ~ Six jurors - two men and four women (reportedly all White) - who unanimously agreed that White people are not protected under the US Constitution While we're here, a special dishonorable mention must go to every single "FIRST AMENDMENT" organization in this hollowed-out country of ours. You know the ones - they relentlessly solicit and collect large sums of money to "DEFEND FREE SPEECH" while continuously, cravenly shrinking away from EVERY meaningful case where White people - LITERALLY THE ONLY GROUP WITH MAJORITY SUPPORT FOR THE FIRST AMENDMENT - are so clearly maliciously persecuted. Similarly, NOT ONE official at any level of government has spoken up to defend Shiloh Hendrix or her Constitutional rights, nor to condemn the flagrantly anti-White, utterly unconstitutional witch hunt she's endured. Not one. And on that note, we conclude today's review of the good ol' "American justice system." Lady Justice isn't blind. She's anti-White. And it's never been plainer to see.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrmpjlrEzpyrlAU2vC24ZpxI7s_FtAAJyFmsbze4ZV25ivr07DuxbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/TooWhiteToTweet/status/2080646959736537115#m)
 
 ---
 
@@ -512,6 +614,24 @@ This has my full support. Jensen is right.
 **内容**:
 
 Video
+
+---
+
+## 2026-07-24 23:35:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: America's tech leadership has always come from ecosystems where the best ideas compete. AI is no different. Open-weight models expand access, speed innovation, and give organizations real control, and long-term leadership requires choice across the full ecosystem. Dell is proud to co-sign this letter and help build that future here.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIItGpjs8Bb9TcYbg-cOF6GQwjD-m62AAKZFmsbze4ZV7lvdHrq-E-QAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIItWpjs8X9k8ZoYoNVwSWBx1slrYwVAAKaFmsbze4ZVxzfHyWPRv-2AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIItmpjs8mx5h0F_M3IorOdIBHWUv0PAAKbFmsbze4ZV3ulbBUqxs7aAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MichaelDell/status/2080678316667740491#m)
 
 ---
 
