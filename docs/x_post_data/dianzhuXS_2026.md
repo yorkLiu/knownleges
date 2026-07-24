@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 231 条推文
+> 📊 推文存档 - 共 232 条推文
 
 ---
 
@@ -39,9 +39,19 @@ tags: ["2026"]
 
 【中國私企老闆現狀】 早關少賠 晚關多賠 不關人沒
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2080374684311564288_img_Ieu6oFg9DCVbIbVT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2080522800113307745#m)
+## 2026-07-24 20:34:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+赤馬紅羊 | 日本後半年要起勢了，但有個隱患不能不防 第二解 (下) https://youtu.be/8auKyLiOAq0
+
+<img src="/images/dianzhuXS/card_img_2080632732414357504_qD_kY_n13Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2080632736273039432#m)
 
 ---
 
