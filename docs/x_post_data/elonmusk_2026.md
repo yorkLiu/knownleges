@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1472 条推文
+> 📊 推文存档 - 共 1473 条推文
 
 ---
 
@@ -219,7 +219,19 @@ Grok 4.5 is excellent for real-world work
 
 Wow
 
-[查看原文](https://nitter.net/elonmusk/status/2080765392855707884#m)
+---
+
+## 2026-07-25 06:40:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Flight 13 of Starship launch attempt in 10 minutes!
+
+<img src="/images/elonmusk/card_img_2080787388377210880_4xMwtxZv3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080785172622868516#m)
 
 ---
 
