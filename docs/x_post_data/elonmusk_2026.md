@@ -7,7 +7,35 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1434 条推文
+> 📊 推文存档 - 共 1441 条推文
+
+---
+
+## 2026-07-24 01:02:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I’ve arrived in Manchester. I’m out tomorrow with Restore Britain and their candidate Marlon West. Be great to see you all! @RestoreBritain
+
+<img src="/images/elonmusk/amplify_video_thumb_2080337558500732929_img_dRyIbOjMh8hL6T0y.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/officialsammyuk/status/2080337698758242471#m)
+
+---
+
+## 2026-07-24 01:19:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: CAISI’s latest report shows that Kimi K3 remains behind America’s leading frontier AI models. The United States continues to lead in frontier AI because we’re home to the greatest innovators and technologists the world has ever seen.
+
+<img src="/images/elonmusk/card_img_2078443139350536192_vzawKgF13Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/howardlutnick/status/2080342038113890604#m)
 
 ---
 
@@ -281,6 +309,20 @@ Zero
 
 ---
 
+## 2026-07-24 08:16:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceXAI has released a blog on Workflows in Grok Build
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqWpjInGqXAH-VYyvildyaJ0dGIpLAAKaEWsbnJkYV69W4XIWvdohAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/techdevnotes/status/2080446958213181468#m)
+
+---
+
 ## 2026-07-24 08:17:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -309,10 +351,6 @@ Neuralink helping those who have lost their mind to body connection
 
 Grok is worth trusting
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIpmpi6EcAAZ5h-3qeOZZIgfjj_X1LQwAC3RBrG5yZGFfMhvlYQ_yPpwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080503470499717429#m)
-
 ---
 
 ## 2026-07-24 12:16:26
@@ -323,9 +361,59 @@ Grok is worth trusting
 
 🎯
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIpWpi6ENUAAGu1O1q_yKR0R2nZ2uV0wAC3BBrG5yZGFcrXlaluplxQgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080507373786186228#m)
+## 2026-07-24 12:17:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A guy followed a mother around with his camera while she tried to get away from him and told her to say “nigger” over and over, and when she finally does it that’s apparently a crime. Completely absurd and unacceptable. She must appeal and we must fund it. No magic word crimes.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIp2pjImfDwqDg8wkjynOt151Ij_1tAAKYEWsbnJkYV9FkDTIdQ-NwAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArtemisConsort/status/2080507561447743915#m)
+
+---
+
+## 2026-07-24 16:12:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+<img src="/images/elonmusk/amplify_video_thumb_2011858026488102912_img_iECr34AYTHX4GbRt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080566660105208310#m)
+
+---
+
+## 2026-07-24 16:17:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My pronouns are …
+
+[查看原文](https://nitter.net/elonmusk/status/2080567916857004131#m)
+
+---
+
+## 2026-07-24 16:18:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Soon, this will happen to your town
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqGpjImsPSmDePeW9Lyar0G-WkeLvAAKZEWsbnJkYV0W9JGAqgvpwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080568307678085122#m)
 
 ---
 
