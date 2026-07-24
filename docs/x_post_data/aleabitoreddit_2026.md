@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 332 条推文
+> 📊 推文存档 - 共 333 条推文
 
 ---
 
@@ -19,13 +19,21 @@ tags: ["2026"]
 
 Jensen from $NVDA has joined X for the first time to share his letter on open models.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-25 04:22:41
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2080689966045348047#m)
+**内容**:
+
+There you have it, $GOOGL Waymo to explore split with $UBER per FT. My view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up. And that $NBIS Avride, other neutral players, or vertical integration would be the optimal path forward. Now their own partner Waymo looks to be the strongest disruptor to Uber.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIu2pj0M6Yy6P40ncQB1k63K8SUg34AAJdF2sbze4hV81lITlDnVQgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIvGpj0NLm6hI0YjVsQrnPmA5NqD4FAAJeF2sbze4hV8fiDTxBQ_MkAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2080750537121874206#m)
 
 ---
 
