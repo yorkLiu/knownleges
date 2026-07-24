@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1447 条推文
+> 📊 推文存档 - 共 1451 条推文
 
 ---
 
@@ -19,9 +19,61 @@ tags: ["2026"]
 
 𝕏 is the global town square
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrWpjlq0rg1qJr0XdCRieRPurmX4fAAL2EmsbnJkgV0A1TjZohsNlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080692487539007638#m)
+## 2026-07-25 01:27:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Zany interview with Zanny
+
+<img src="/images/elonmusk/card_img_2080233359410622464_plkmThCi3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080706424342990985#m)
+
+---
+
+## 2026-07-25 01:28:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That’s what he said
+
+<img src="/images/elonmusk/amplify_video_thumb_2011858026488102912_img_iECr34AYTHX4GbRt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080706813662482472#m)
+
+---
+
+## 2026-07-25 01:30:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup 😑
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIsmpjpTYkBf2lSaSHzEuWkqebpdjIAAKJFmsbze4ZV0YMb7HIgXxsAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080707240391020766#m)
+
+---
+
+## 2026-07-25 01:32:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Madness
+
+<img src="/images/elonmusk/amplify_video_thumb_2080558404834414592_img__zSqbH5rf6nwy6KL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080707591127134689#m)
 
 ---
 
