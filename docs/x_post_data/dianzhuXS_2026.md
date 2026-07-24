@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 230 条推文
+> 📊 推文存档 - 共 231 条推文
 
 ---
 
@@ -29,9 +29,19 @@ tags: ["2026"]
 
 7月24日早，颱風「紅霞」 又與台灣擦邊而過 直奔中共國廣東揭陽 大盧從不詛咒某地 我只想說「惡行引天怒」
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIpGpitXHS4KJlB52FrgXSs07UYAP0AAJPEGsbnJkYVx3mfa1mzbqQAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2080453147445862640#m)
+## 2026-07-24 13:17:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【中國私企老闆現狀】 早關少賠 晚關多賠 不關人沒
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2080374684311564288_img_Ieu6oFg9DCVbIbVT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2080522800113307745#m)
 
 ---
 
