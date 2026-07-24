@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 329 条推文
+> 📊 推文存档 - 共 330 条推文
 
 ---
 
@@ -49,8 +49,6 @@ RT by @aleabitoreddit: The feelings mutual. 🤝
 
 RT @AMD: The feelings mutual. 🤝
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2080383615826030772#m)
-
 ---
 
 ## 2026-07-24 04:46:57
@@ -61,7 +59,23 @@ RT @AMD: The feelings mutual. 🤝
 
 From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. And expects other hyperscalers + industry to go down the CPO route. One AI infra executive at a company involved in a hyperscaler CPO programs said they had seen no indication of CPO scale up supply chain delays. Pushing back on recent 3rd party delay reports. This was informal commentary, not official AMD or partner guidance.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2080394259535221222#m)
+---
+
+## 2026-07-24 04:47:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @aleabitoreddit: The feeling’s mutual. 🤝
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInGpidAS7q7LNKNV11_1nPglR4gH1AAI8EGsbnJkYV7b7Jm0LrZi9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInWpidAgAAe-8jHZUXJ611jGzfJVOtQACPRBrG5yZGFcxOIC6Sl1NAAEBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInmpidAyU4I0vQPVnjc2vWCFQoK1jAAI-EGsbnJkYV5zKd9jdP9bCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AMD/status/2080394309845860668#m)
 
 ---
 
