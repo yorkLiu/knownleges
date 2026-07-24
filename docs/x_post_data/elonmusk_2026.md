@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1429 条推文
+> 📊 推文存档 - 共 1432 条推文
 
 ---
 
@@ -231,6 +231,20 @@ Yes
 
 ---
 
+## 2026-07-24 06:26:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Across the country, our government has identified hundreds of thousands of ineligible voters—so far. With at least hundreds of non-citizens voting there, New Jersey is no exception! The @CivilRights Division @TheJusticeDept is investigating.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080419329477066752_img_vVtFSoyvwJK9n-_o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AAGDhillon/status/2080419367838159066#m)
+
+---
+
 ## 2026-07-24 06:34:04
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -249,10 +263,6 @@ Grok 4.5 is the best value for money AI
 
 RT by @elonmusk: ELON MUSK: “I’m in favor of immigration. I’d be hypocritical if I wasn’t since I’m an immigrant to the United States. I’m in favor of immigration if the person immigrating is going to be a productive member of society, if they’re going to be honest, and if they’re not going to mistreat people in that country.”
 
-<img src="/images/elonmusk/amplify_video_thumb_2080423210487848960_img_U9xur_GQlO2Z2qZz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2080423253378744321#m)
-
 ---
 
 ## 2026-07-24 08:14:34
@@ -262,10 +272,6 @@ RT by @elonmusk: ELON MUSK: “I’m in favor of immigration. I’d be hypocriti
 **内容**:
 
 Just common sense
-
-<img src="/images/elonmusk/amplify_video_thumb_2080424620394684416_img_3ehCdjwKtAOSnXTw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080446507925577795#m)
 
 ---
 
@@ -277,10 +283,6 @@ Just common sense
 
 Zero
 
-<img src="/images/elonmusk/amplify_video_thumb_2080382144019636225_img_gvLFvvpi2ZrtZOAq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080446731628798309#m)
-
 ---
 
 ## 2026-07-24 08:17:01
@@ -291,15 +293,25 @@ Zero
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2080375147828068352_img_9wDMkV8MjU1dYuj2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080447123745919254#m)
+## 2026-07-24 11:33:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Neuralink helping those who have lost their mind to body connection
+
+<img src="/images/elonmusk/amplify_video_thumb_2080402252204740608_img_z94eEZnOYFLX0hHk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080496660598436146#m)
 
 ---
 
 ## 2026-07-23 00:12:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,7 +319,7 @@ Video
 
 ## 2026-07-23 01:38:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -315,7 +327,7 @@ Video
 
 ## 2026-07-23 03:09:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -323,7 +335,7 @@ Video
 
 ## 2026-07-23 03:18:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -331,9 +343,23 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 ---
 
+## 2026-07-23 03:51:08
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: This is how the durable medical equipment (DME) fraud scam works: - Operate around adult daycares - Provide “equipment” for ghost clients (wheelchairs, knee braces, etc) - Easier to open than a bank account - Bill Medicare for millions EXPOSE IT ALL.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080016778252652544_img_-JLAUwxmsklhsWgQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nickshirleyy/status/2080017824547053794#m)
+
+---
+
 ## 2026-07-23 04:13:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -341,7 +367,7 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 ## 2026-07-23 05:52:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -349,7 +375,7 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 ## 2026-07-23 05:53:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +383,7 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 ## 2026-07-23 05:58:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -365,7 +391,7 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 ## 2026-07-23 06:18:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -375,7 +401,7 @@ RT by @elonmusk: 0 notable incidents across over 380,000 miles traveled by Robot
 
 ## 2026-07-23 06:25:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -385,7 +411,7 @@ RT by @elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. 
 
 ## 2026-07-23 07:31:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -393,7 +419,7 @@ RT by @elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. 
 
 ## 2026-07-23 08:28:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -403,21 +429,17 @@ RT by @elonmusk: FSD Supervised helps save lives
 
 ## 2026-07-23 09:49:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: The colors tonight took my breath away. The fully stacked Starship sits bathed in the light from its last sunset on Earth. T- 21 hours until the launch window opens.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIompin5zWrGAu4LLXEXRMTPwtZymLAAJDEGsbnJkYV8ZPcMEJO0vWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AJamesMcCarthy/status/2080108035360337933#m)
-
 ---
 
 ## 2026-07-23 12:35:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -427,7 +449,7 @@ RT by @elonmusk: Using FSD is far safer than driving manually, as measured over 
 
 ## 2026-07-23 13:38:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -437,7 +459,7 @@ Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years
 
 ## 2026-07-23 13:50:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -447,7 +469,7 @@ Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and 
 
 ## 2026-07-23 13:56:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -457,7 +479,7 @@ Grok Build gets better every day http://X.ai/cli
 
 ## 2026-07-23 13:57:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -467,19 +489,17 @@ Cool
 
 ## 2026-07-23 17:09:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Beaucoup disent en off que le système globaliste est vraiment à deux doigts de tomber. Même eux savent que c'est bientôt la fin. Ils ont tout le monde contre eux : – les peuples ; – les vrais entrepreneurs, ceux qui créent de la valeur nette ; – les chiffres l’Argentine les dérange profondément ; – la perte du contrôle du discours et du narratif, qui érode encore davantage leur emprise. Bref, je n’ai jamais été aussi optimiste pour l’avenir de l’Europe et de l’Occident. Nous allons vivre une renaissance exceptionnelle de la civilisation occidentale.
 
-[查看原文](https://nitter.net/brivael/status/2080218772598587443#m)
-
 ---
 
 ## 2026-07-23 21:48:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
