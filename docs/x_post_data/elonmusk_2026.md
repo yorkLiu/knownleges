@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1462 条推文
+> 📊 推文存档 - 共 1465 条推文
+
+---
+
+## 2026-07-25 00:08:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nvidia/status/2080686579400765517#m)
 
 ---
 
@@ -61,6 +79,20 @@ Madness
 
 ---
 
+## 2026-07-25 01:45:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence per $ will be the only metric that matters over time. K3 probably joins the frontier once available on the inference clouds.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIumpjyYreiUD9kM0K7fJUWGvVLbcSAALOFmsbze4ZV8pJbEoqEpJKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GavinSBaker/status/2080711105349906786#m)
+
+---
+
 ## 2026-07-25 02:02:41
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -68,10 +100,6 @@ Madness
 **内容**:
 
 RT by @elonmusk: If it wasn't for @elonmusk we wouldn't be able to have open, public discussions in the Town Square Elon has transformed the relationship between the Public, politicians & the Media - they don’t like it - we LOVE it!
-
-<img src="/images/elonmusk/amplify_video_thumb_2080713111867125760_img_X4J5OCkLsCo7dzp9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/alanvibe/status/2080715305001595187#m)
 
 ---
 
@@ -83,14 +111,6 @@ RT by @elonmusk: If it wasn't for @elonmusk we wouldn't be able to have open, pu
 
 RT by @elonmusk: The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must itself be distributed. Agree with Jensen that this is a future worth building.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/miramurati/status/2080715390179766646#m)
-
 ---
 
 ## 2026-07-25 02:09:51
@@ -100,8 +120,6 @@ RT by @elonmusk: The knowledge that makes AI useful is diffused. It lives with s
 **内容**:
 
 Next month, every line of code touching the 𝕏 system will be open source and third-party audited. Only total transparency deserves trust.
-
-[查看原文](https://nitter.net/elonmusk/status/2080717110146146585#m)
 
 ---
 
@@ -113,14 +131,6 @@ Next month, every line of code touching the 𝕏 system will be open source and 
 
 Satya is right
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080718435944730806#m)
-
 ---
 
 ## 2026-07-25 02:16:42
@@ -130,8 +140,6 @@ Satya is right
 **内容**:
 
 (Former) Trillionaire
-
-[查看原文](https://nitter.net/elonmusk/status/2080718833040470357#m)
 
 ---
 
@@ -143,8 +151,6 @@ Satya is right
 
 RT by @elonmusk: Extinctionists should be reviled for being the genocidal lunatics they are
 
-[查看原文](https://nitter.net/elonmusk/status/2080721662215954444#m)
-
 ---
 
 ## 2026-07-25 02:36:40
@@ -155,10 +161,6 @@ RT by @elonmusk: Extinctionists should be reviled for being the genocidal lunati
 
 Grok 4.5 and Opus 5 are alone on Pareto frontier
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIs2pjs7xWYo2dpXn9vGoP9ffsSP11AAKYFmsbze4ZV7ibqHCO1L19AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080723860073091158#m)
-
 ---
 
 ## 2026-07-25 02:37:35
@@ -168,8 +170,6 @@ Grok 4.5 and Opus 5 are alone on Pareto frontier
 **内容**:
 
 R to @elonmusk: Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks
-
-[查看原文](https://nitter.net/elonmusk/status/2080724087593226311#m)
 
 ---
 
@@ -523,6 +523,20 @@ RT by @elonmusk: A guy followed a mother around with his camera while she tried 
 
 ---
 
+## 2026-07-24 14:57:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Economist Elon Musk July 23rd 2026
+
+<img src="/images/elonmusk/amplify_video_thumb_2080546923698679809_img_PfbqAnFpfPl7hwbK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/_lordwithers/status/2080547884726919201#m)
+
+---
+
 ## 2026-07-24 16:12:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -630,14 +644,6 @@ RT by @elonmusk: America's tech leadership has always come from ecosystems where
 **内容**:
 
 RT by @elonmusk: excellent
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIqmpjiCT6ZM6THqbnQCVaXLKqJHXXAALbEmsbnJkgV4HlqWOuk8MUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIq2pjiClDuHucxVbk0FPqXcb_UDhaAALcEmsbnJkgV1RhtI2YUE8ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrGpjiC3zVm4d-nCXAAGBerAFzRprmAAC3RJrG5yZIFctn3f2fpm3kwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/jack/status/2080682887280546153#m)
 
 ---
 
