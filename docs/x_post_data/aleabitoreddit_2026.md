@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 330 条推文
+> 📊 推文存档 - 共 331 条推文
 
 ---
 
@@ -69,13 +69,19 @@ From $AMD Advancing AI, channel checks: Helios networking partners told me they 
 
 RT by @aleabitoreddit: The feeling’s mutual. 🤝
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInGpidAS7q7LNKNV11_1nPglR4gH1AAI8EGsbnJkYV7b7Jm0LrZi9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInWpidAgAAe-8jHZUXJ611jGzfJVOtQACPRBrG5yZGFcxOIC6Sl1NAAEBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-24 08:11:40
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIInmpidAyU4I0vQPVnjc2vWCFQoK1jAAI-EGsbnJkYV5zKd9jdP9bCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/AMD/status/2080394309845860668#m)
+**内容**:
+
+Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: "Market Insights: Photonics & AI". Most interesting take was: "Pluggables will be around for the next 10 years". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIo2pitWzWFVkEv5x4FXiQcXugU2lsAAJOEGsbnJkYV_0RSmrhepYsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2080445777395298454#m)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1425 条推文
+> 📊 推文存档 - 共 1429 条推文
 
 ---
 
@@ -149,10 +149,6 @@ RT by @elonmusk: It's not "far-right" to protect the borders. It's normal. It's 
 
 RT by @elonmusk: We love you. We hate her. Thank you for sitting down with someone like her to remind people like us what we are fighting. The woke is so baked in, she doesn’t even know it’s happening. Her smug face says it all.
 
-<img src="/images/elonmusk/amplify_video_thumb_2080373096666820608_img_zPj9a8L68V9PrVRJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/HistoryBoutique/status/2080407348347048176#m)
-
 ---
 
 ## 2026-07-24 05:41:30
@@ -223,10 +219,6 @@ Yup
 
 RT by @elonmusk: Elon Musk slams “Soros DAs” for releasing repeat violent offenders in America. 💯 “Where there is danger in this country is because we fail to incarcerate repeat violent offenders. You have the classic sort of Soros DAs or judges who fail to incarcerate repeat violent offenders. If somebody gets arrested 50 times, literally for violent crimes, eventually they’re going to kill somebody. So you either incarcerate them, or people will die.”
 
-<img src="/images/elonmusk/amplify_video_thumb_2080418051187671040_img_P7MB9laFTM9AzDOJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2080418121714958383#m)
-
 ---
 
 ## 2026-07-24 06:22:51
@@ -246,6 +238,62 @@ Yes
 **内容**:
 
 Grok 4.5 is the best value for money AI
+
+---
+
+## 2026-07-24 06:42:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: ELON MUSK: “I’m in favor of immigration. I’d be hypocritical if I wasn’t since I’m an immigrant to the United States. I’m in favor of immigration if the person immigrating is going to be a productive member of society, if they’re going to be honest, and if they’re not going to mistreat people in that country.”
+
+<img src="/images/elonmusk/amplify_video_thumb_2080423210487848960_img_U9xur_GQlO2Z2qZz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2080423253378744321#m)
+
+---
+
+## 2026-07-24 08:14:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just common sense
+
+<img src="/images/elonmusk/amplify_video_thumb_2080424620394684416_img_3ehCdjwKtAOSnXTw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080446507925577795#m)
+
+---
+
+## 2026-07-24 08:15:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Zero
+
+<img src="/images/elonmusk/amplify_video_thumb_2080382144019636225_img_gvLFvvpi2ZrtZOAq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080446731628798309#m)
+
+---
+
+## 2026-07-24 08:17:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2080375147828068352_img_9wDMkV8MjU1dYuj2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080447123745919254#m)
 
 ---
 
