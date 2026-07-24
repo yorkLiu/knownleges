@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1471 条推文
+> 📊 推文存档 - 共 1472 条推文
 
 ---
 
@@ -573,6 +573,18 @@ RT by @elonmusk: A guy followed a mother around with his camera while she tried 
 
 ---
 
+## 2026-07-24 13:32:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: If you curate your feed right, 𝕏 is your best bet for predicting the future.
+
+[查看原文](https://nitter.net/doganuraldesign/status/2080526418585214999#m)
+
+---
+
 ## 2026-07-24 14:57:25
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -580,10 +592,6 @@ RT by @elonmusk: A guy followed a mother around with his camera while she tried 
 **内容**:
 
 RT by @elonmusk: The Economist Elon Musk July 23rd 2026
-
-<img src="/images/elonmusk/amplify_video_thumb_2080546923698679809_img_PfbqAnFpfPl7hwbK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/_lordwithers/status/2080547884726919201#m)
 
 ---
 
