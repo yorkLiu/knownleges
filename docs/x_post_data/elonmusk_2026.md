@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1492 条推文
+> 📊 推文存档 - 共 1503 条推文
 
 ---
 
@@ -119,10 +119,6 @@ RT by @elonmusk: The knowledge that makes AI useful is diffused. It lives with s
 
 RT by @elonmusk: The Senate can get it done if we GET TO WORK and put in the hours. No recess if we don’t PASS the SAVE AMERICA ACT!!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIympkKAFRXxWbkvZr1IYi5Z-JQFVaAAJqGGsbze4hV6cW5oNvyLCdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SenRickScott/status/2080716690862510303#m)
-
 ---
 
 ## 2026-07-25 02:09:51
@@ -192,6 +188,36 @@ R to @elonmusk: Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks
 **内容**:
 
 RT by @elonmusk: Grok is now available directly inside Google Workspace One add-on brings Grok into Google Sheets, Slides and Docs, where it works beside the file you already have open In Sheets, Grok can: • Read selected ranges and explain the data • Cite the exact cells behind its answers • Write and fill real spreadsheet formulas • Update values and rebuild financial scenarios In Slides, it can: • Generate a complete presentation from an outline • Add new slides that match the existing theme • Restructure entire sections • Rewrite titles so every slide communicates a clear takeaway In Docs, it can: • Draft directly inside the document • Turn rough notes into formatted sections • Correct grammar and rewrite content • Apply consistent headings and styles across the file Everything happens through a side panel, without constantly copying information between tabs or rebuilding the output manually One installation works across all three apps, and organizations can deploy it across their entire workforce Grok is rapidly becoming a native intelligence layer for the tools people already use every day
+
+---
+
+## 2026-07-25 03:57:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Anonymous OpenAI staffer: "Externally, this feels like a big warning shot, but internally, related incidents have been happening for a while."
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIzmpkRSJOyG66sYWQwuGJFCn5KclvAALHGGsbze4hV2PR910GuBx3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIz2pkRSZIRKt9iAIs47aqP_IN8Oj4AALIGGsbze4hV99YQgYbUg2rAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AISafetyMemes/status/2080744312707731596#m)
+
+---
+
+## 2026-07-25 04:42:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Twenty states would rather fight the Justice Department at the Supreme Court than let anyone see their voter rolls. This is all the more reason to pass the SAVE America Act!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIzWpkRRoBd32GuAYnUgzA8q_C-4fmAALGGGsbze4hV3JGBGMwQ1kJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JennPellegrino/status/2080755581191696427#m)
 
 ---
 
@@ -293,10 +319,6 @@ RT by @elonmusk: Live views brought to you by @Starlink
 
 RT by @elonmusk: Pretty clear from this shot that @SpaceX knows where we are going! Congrats on getting Flight 13 underway. Excited for what will be learned from this mission. When Starship comes online, its capabilities will be game-changing, not least of which will be ensuring we never give up the Moon again!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIy2pkKAU8gUpdVNbT5gddNJH6k9PyAAJrGGsbze4hVyn5aPLZz_Q3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/NASAAdmin/status/2080794963596726670#m)
-
 ---
 
 ## 2026-07-25 07:30:13
@@ -369,6 +391,34 @@ Latest heat shield design looks great!
 
 ---
 
+## 2026-07-25 08:59:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Time-lapse of today’s Starship flight, from liftoff to splashdown, in just 150 seconds. 🚀
+
+<img src="/images/elonmusk/amplify_video_thumb_2080820045551489024_img_tcb4TKyezpewRBqL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2080820230658646392#m)
+
+---
+
+## 2026-07-25 09:18:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Fury. My highest-resolution image yet taken of Super Heavy's 33 Raptor 3 engines singing in unison during today's flight test of Booster 20 and Ship 40 from Pad 2 in Starbase, Texas. 📸 - @NASASpaceflight Prints (this will be up soon): https://shop.nasaspaceflight.com/collections/metal-prints-posters
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIzGpkRRaBe7m4fwAB4k-PjB1r-4MAAQkAAsUYaxvN7iFXeEoJSdFUpR0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/_MaxQ_/status/2080824975447994452#m)
+
+---
+
 ## 2026-07-25 09:41:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -427,15 +477,93 @@ Starship as seen from Starlink satellites
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2080826748401246209_img_ftb3jwrxJd5JUpBi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080841494756233632#m)
+## 2026-07-25 11:43:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: All 13 Starship Launches Flight 1: Apr 20, 2023 Flight 2: Nov 18, 2023 Flight 3: Mar 14, 2024 Flight 4: Jun 6, 2024 Flight 5: Oct 13, 2024 Flight 6: Nov 19, 2024 Flight 7: Jan 16, 2025 Flight 8: Mar 6, 2025 Flight 9: May 27, 2025 Flight 10: Aug 26, 2025 Flight 11: Oct 13, 2025 Flight 12: May 22, 2026 Flight 13: Jul 24, 2026
+
+<img src="/images/elonmusk/amplify_video_thumb_2080861458334879744_img_1xxa71018f71UpTy.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2080861562823446685#m)
+
+---
+
+## 2026-07-25 12:13:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok Build /tutorial http://X.ai/cli
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII0GpkRSqhhnMwdjWZFrtM0loF-HTVAALJGGsbze4hV1ku7-85a_7FAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080868926397816850#m)
+
+---
+
+## 2026-07-25 12:15:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok tutorial is huge. Many people don't know where to begin. If we want to democratize coding, we have to show people how to start.
+
+[查看原文](https://nitter.net/AdamLowisz/status/2080869498295386541#m)
+
+---
+
+## 2026-07-25 12:16:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+<img src="/images/elonmusk/amplify_video_thumb_1832581855217938432_img_fYoIT3q5tny4pxv2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080869736468906340#m)
+
+---
+
+## 2026-07-25 12:18:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+<img src="/images/elonmusk/amplify_video_thumb_2080706938804072449_img_bt8saXBt0cD9Lrp1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080870159141462232#m)
+
+---
+
+## 2026-07-25 12:34:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A quarter century of work by an incredible team @SpaceX
+
+<img src="/images/elonmusk/amplify_video_thumb_2080873940130611200_img_O3l-uw8MKpOoGkC9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080874307492729195#m)
 
 ---
 
 ## 2026-07-24 01:02:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -445,7 +573,7 @@ RT by @elonmusk: I’ve arrived in Manchester. I’m out tomorrow with Restore B
 
 ## 2026-07-24 01:19:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -455,7 +583,7 @@ RT by @elonmusk: CAISI’s latest report shows that Kimi K3 remains behind Ameri
 
 ## 2026-07-24 01:31:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -465,7 +593,7 @@ RT by @elonmusk: Elon Musk in new interview: "One of the reasons I took @SpaceX 
 
 ## 2026-07-24 01:52:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -475,7 +603,7 @@ Banger 😂
 
 ## 2026-07-24 01:53:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -485,7 +613,7 @@ Yeah
 
 ## 2026-07-24 01:56:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -495,7 +623,7 @@ True
 
 ## 2026-07-24 01:57:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -505,7 +633,7 @@ Grok 4.5 now on all platforms
 
 ## 2026-07-24 02:08:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -515,7 +643,7 @@ This happens a lot
 
 ## 2026-07-24 02:38:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -525,7 +653,7 @@ Yes
 
 ## 2026-07-24 03:35:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -535,7 +663,7 @@ RT by @elonmusk: I listened to 85 minutes of The Economist’s interview of Elon
 
 ## 2026-07-24 03:38:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -545,7 +673,7 @@ Truth is stranger than fiction
 
 ## 2026-07-24 04:13:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -555,7 +683,7 @@ RT by @elonmusk: Amazing clip of Elon Musk shutting down a journalist who uses t
 
 ## 2026-07-24 04:28:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -565,7 +693,7 @@ Grok 4.5 making progress
 
 ## 2026-07-24 04:32:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -575,7 +703,7 @@ Just common sense!
 
 ## 2026-07-24 05:02:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -585,7 +713,7 @@ RT by @elonmusk: It's not "far-right" to protect the borders. It's normal. It's 
 
 ## 2026-07-24 05:38:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -595,7 +723,7 @@ RT by @elonmusk: We love you. We hate her. Thank you for sitting down with someo
 
 ## 2026-07-24 05:41:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -605,7 +733,7 @@ RT by @elonmusk: Elon is an absolute legend
 
 ## 2026-07-24 06:02:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -615,7 +743,7 @@ RT by @elonmusk: Try the Tavily plugin for LLM-driven search inside Grok Build
 
 ## 2026-07-24 06:04:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -625,7 +753,7 @@ RT by @elonmusk: Yep. Nothing but love for @elonmusk!
 
 ## 2026-07-24 06:06:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -635,7 +763,7 @@ RT by @elonmusk: Je suis Français. Et je préfère 100 fois Elon Musk et je lui
 
 ## 2026-07-24 06:10:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -645,7 +773,7 @@ The public does not trust the legacy mainstream media for good reason
 
 ## 2026-07-24 06:11:07
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -655,7 +783,7 @@ Yup
 
 ## 2026-07-24 06:21:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -665,7 +793,7 @@ RT by @elonmusk: Elon Musk slams “Soros DAs” for releasing repeat violent of
 
 ## 2026-07-24 06:22:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -675,7 +803,7 @@ Yes
 
 ## 2026-07-24 06:26:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -685,7 +813,7 @@ RT by @elonmusk: Across the country, our government has identified hundreds of t
 
 ## 2026-07-24 06:34:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -695,7 +823,7 @@ Grok 4.5 is the best value for money AI
 
 ## 2026-07-24 06:42:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -705,7 +833,7 @@ RT by @elonmusk: ELON MUSK: “I’m in favor of immigration. I’d be hypocriti
 
 ## 2026-07-24 08:14:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -715,7 +843,7 @@ Just common sense
 
 ## 2026-07-24 08:15:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -725,7 +853,7 @@ Zero
 
 ## 2026-07-24 08:16:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -735,7 +863,7 @@ RT by @elonmusk: SpaceXAI has released a blog on Workflows in Grok Build
 
 ## 2026-07-24 08:17:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -745,7 +873,7 @@ Video
 
 ## 2026-07-24 11:33:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -755,7 +883,7 @@ Neuralink helping those who have lost their mind to body connection
 
 ## 2026-07-24 12:00:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -765,7 +893,7 @@ Grok is worth trusting
 
 ## 2026-07-24 12:16:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -775,7 +903,7 @@ Grok is worth trusting
 
 ## 2026-07-24 12:17:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -785,19 +913,17 @@ RT by @elonmusk: A guy followed a mother around with his camera while she tried 
 
 ## 2026-07-24 13:32:07
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: If you curate your feed right, 𝕏 is your best bet for predicting the future.
 
-[查看原文](https://nitter.net/doganuraldesign/status/2080526418585214999#m)
-
 ---
 
 ## 2026-07-24 14:57:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -807,7 +933,7 @@ RT by @elonmusk: The Economist Elon Musk July 23rd 2026
 
 ## 2026-07-24 16:12:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -817,7 +943,7 @@ Yup
 
 ## 2026-07-24 16:17:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -827,7 +953,7 @@ My pronouns are …
 
 ## 2026-07-24 16:18:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -837,7 +963,7 @@ RT by @elonmusk: The difference between Elon and this reporter: Elon builds thin
 
 ## 2026-07-24 16:18:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -847,7 +973,7 @@ Soon, this will happen to your town
 
 ## 2026-07-24 16:41:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -857,7 +983,7 @@ RT by @elonmusk: "My partner, Shivon, is half Indian, and one of my son’s midd
 
 ## 2026-07-24 18:40:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -867,7 +993,7 @@ RT by @elonmusk: Marlon West is one of the bravest people I know. His work on en
 
 ## 2026-07-24 21:31:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -875,9 +1001,23 @@ RT by @elonmusk: Let's take a walk through the "American justice system," shall 
 
 ---
 
+## 2026-07-24 22:08:34
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: The globalist head of The Economist thinks that it's "far right" to want secure borders and legal immigration. If that's true, then this 2009 Chuck Schumer speech on immigration is one of the most far right speeches ever made.
+
+<img src="/images/elonmusk/amplify_video_thumb_2051789558233116679_img__9gtsX7wc74loZQL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mazemoore/status/2080656390981292161#m)
+
+---
+
 ## 2026-07-24 23:12:37
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -887,7 +1027,7 @@ This has my full support. Jensen is right.
 
 ## 2026-07-24 23:32:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -897,7 +1037,7 @@ Video
 
 ## 2026-07-24 23:35:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -907,7 +1047,7 @@ RT by @elonmusk: America's tech leadership has always come from ecosystems where
 
 ## 2026-07-24 23:53:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
