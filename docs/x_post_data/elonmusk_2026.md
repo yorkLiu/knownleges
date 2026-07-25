@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1503 条推文
+> 📊 推文存档 - 共 1504 条推文
 
 ---
 
@@ -191,6 +191,22 @@ RT by @elonmusk: Grok is now available directly inside Google Workspace One add-
 
 ---
 
+## 2026-07-25 03:26:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: HUGE GROK PERFORMANCE 🚨 Built a full Unity space combat game with Grok Build + Grok 4.5 all in C#. CLI agents. MCP into the editor. Batchmode builds. I didn’t know Unity. I wrote zero code. Full walkthrough 👇 Audio on. I break down the build 🔊
+
+<img src="/images/elonmusk/amplify_video_thumb_2080735850879705088_img_FM7gcqm1GUOu-oBb.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080034053395558400_img_Ha98IbPWkpqGDC-7.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Daniel_Farinax/status/2080736332205436952#m)
+
+---
+
 ## 2026-07-25 03:57:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -198,12 +214,6 @@ RT by @elonmusk: Grok is now available directly inside Google Workspace One add-
 **内容**:
 
 RT by @elonmusk: Anonymous OpenAI staffer: "Externally, this feels like a big warning shot, but internally, related incidents have been happening for a while."
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIzmpkRSJOyG66sYWQwuGJFCn5KclvAALHGGsbze4hV2PR910GuBx3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIz2pkRSZIRKt9iAIs47aqP_IN8Oj4AALIGGsbze4hV99YQgYbUg2rAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AISafetyMemes/status/2080744312707731596#m)
 
 ---
 
@@ -214,10 +224,6 @@ RT by @elonmusk: Anonymous OpenAI staffer: "Externally, this feels like a big wa
 **内容**:
 
 RT by @elonmusk: Twenty states would rather fight the Justice Department at the Supreme Court than let anyone see their voter rolls. This is all the more reason to pass the SAVE America Act!
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIzWpkRRoBd32GuAYnUgzA8q_C-4fmAALGGGsbze4hV3JGBGMwQ1kJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JennPellegrino/status/2080755581191696427#m)
 
 ---
 
@@ -399,10 +405,6 @@ Latest heat shield design looks great!
 
 RT by @elonmusk: Time-lapse of today’s Starship flight, from liftoff to splashdown, in just 150 seconds. 🚀
 
-<img src="/images/elonmusk/amplify_video_thumb_2080820045551489024_img_tcb4TKyezpewRBqL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2080820230658646392#m)
-
 ---
 
 ## 2026-07-25 09:18:28
@@ -412,10 +414,6 @@ RT by @elonmusk: Time-lapse of today’s Starship flight, from liftoff to splash
 **内容**:
 
 RT by @elonmusk: Fury. My highest-resolution image yet taken of Super Heavy's 33 Raptor 3 engines singing in unison during today's flight test of Booster 20 and Ship 40 from Pad 2 in Starbase, Texas. 📸 - @NASASpaceflight Prints (this will be up soon): https://shop.nasaspaceflight.com/collections/metal-prints-posters
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIzGpkRRaBe7m4fwAB4k-PjB1r-4MAAQkAAsUYaxvN7iFXeEoJSdFUpR0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/_MaxQ_/status/2080824975447994452#m)
 
 ---
 
@@ -487,10 +485,6 @@ Video
 
 RT by @elonmusk: All 13 Starship Launches Flight 1: Apr 20, 2023 Flight 2: Nov 18, 2023 Flight 3: Mar 14, 2024 Flight 4: Jun 6, 2024 Flight 5: Oct 13, 2024 Flight 6: Nov 19, 2024 Flight 7: Jan 16, 2025 Flight 8: Mar 6, 2025 Flight 9: May 27, 2025 Flight 10: Aug 26, 2025 Flight 11: Oct 13, 2025 Flight 12: May 22, 2026 Flight 13: Jul 24, 2026
 
-<img src="/images/elonmusk/amplify_video_thumb_2080861458334879744_img_1xxa71018f71UpTy.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2080861562823446685#m)
-
 ---
 
 ## 2026-07-25 12:13:07
@@ -500,10 +494,6 @@ RT by @elonmusk: All 13 Starship Launches Flight 1: Apr 20, 2023 Flight 2: Nov 1
 **内容**:
 
 Try Grok Build /tutorial http://X.ai/cli
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII0GpkRSqhhnMwdjWZFrtM0loF-HTVAALJGGsbze4hV1ku7-85a_7FAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080868926397816850#m)
 
 ---
 
@@ -515,8 +505,6 @@ Try Grok Build /tutorial http://X.ai/cli
 
 RT by @elonmusk: Grok tutorial is huge. Many people don't know where to begin. If we want to democratize coding, we have to show people how to start.
 
-[查看原文](https://nitter.net/AdamLowisz/status/2080869498295386541#m)
-
 ---
 
 ## 2026-07-25 12:16:20
@@ -526,10 +514,6 @@ RT by @elonmusk: Grok tutorial is huge. Many people don't know where to begin. I
 **内容**:
 
 Yup
-
-<img src="/images/elonmusk/amplify_video_thumb_1832581855217938432_img_fYoIT3q5tny4pxv2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080869736468906340#m)
 
 ---
 
@@ -541,10 +525,6 @@ Yup
 
 😂
 
-<img src="/images/elonmusk/amplify_video_thumb_2080706938804072449_img_bt8saXBt0cD9Lrp1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080870159141462232#m)
-
 ---
 
 ## 2026-07-25 12:34:30
@@ -554,10 +534,6 @@ Yup
 **内容**:
 
 A quarter century of work by an incredible team @SpaceX
-
-<img src="/images/elonmusk/amplify_video_thumb_2080873940130611200_img_O3l-uw8MKpOoGkC9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080874307492729195#m)
 
 ---
 
