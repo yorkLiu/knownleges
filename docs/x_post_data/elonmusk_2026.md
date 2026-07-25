@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1515 条推文
+> 📊 推文存档 - 共 1519 条推文
 
 ---
 
@@ -19,15 +19,49 @@ tags: ["2026"]
 
 RT by @elonmusk: Liftoff of Starship on its thirteenth flight test
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII0mplCUmZ76F4a1vEKlRDvF8FskluAAL-EWsbze4pV1sTzb-ccf3RAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII02plCU1akycgHfEEHuww7ymbKTBuAAL_EWsbze4pVycmj1vHqmLlAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-26 03:19:11
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII1GplCVG8eQRS5C9WuiNvtcDYOurUAAMSaxvN7ilXErndkmuDJj0BAAMCAAN5AAM9BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII1WplCVTt4iZHy6n9vwvHF0PyXxWsAAIBEmsbze4pV29lDbsto--cAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/SpaceX/status/2081088918703759549#m)
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2081090484118679552_img_dlgUrhPmwJX0lRTG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081096946953945509#m)
+
+---
+
+## 2026-07-26 03:22:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Real photo of Starship taken by Starlink satellites
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2GplEJOp4On0NlbfgiKPd19dVG7zAAIIEmsbze4pV1hU7Jmigo3dAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081097702624952714#m)
+
+---
+
+## 2026-07-26 03:26:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+beautiful engineering
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII1mplEItRGJlFMtn5DWe9cXBn5RgBAAIGEmsbze4pV7utm6PYst1YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII12plEJB3LLE2iIwPB045FDyvAAFmMQACBxJrG83uKVdGC_jHbrdMygEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081098739104571671#m)
 
 ---
 
@@ -619,10 +653,6 @@ RT by @elonmusk: Elon Musk on early days of SpaceX: "When I started SpaceX, one 
 
 RT by @elonmusk: It’s almost like deporting illegal migrants and securing your borders isn’t “far-right”. Who’d have thought it?
 
-<img src="/images/elonmusk/amplify_video_thumb_2080933068441858049_img__3BoQaDpTaCcJ1z1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Alexarmstrong/status/2080933118328922281#m)
-
 ---
 
 ## 2026-07-25 17:00:26
@@ -632,10 +662,6 @@ RT by @elonmusk: It’s almost like deporting illegal migrants and securing your
 **内容**:
 
 RT by @elonmusk: Geoffrey Hinton says a big language model runs on about 1% of your brain's connections and still ends up knowing more than you: "So in your brain, you have a hundred trillion connections, roughly speaking. Okay. That's a lot. And you only live for about two billion seconds. That's not much." "If you compare how many seconds you live for, with how many connections you've got, you have a whole lot more connections than experiences." "Now with these neural nets, it's sort of the other way round. They only have of the order of a trillion connections. So like 1% of your connections, even in a big language model, many of them fewer, but they get thousands of times more experience than you." "So the big language models are solving the problem with not many connections, only a trillion. How do I make use of a huge amount of experience?" "And back propagation is really, really good at packing huge amounts of knowledge into not many connections." "But that's not the problem we're solving. We've got huge numbers of connections, not much experience. We need to sort of extract the most we can from each experience." Two to three billion seconds is the whole budget. Everything you know, you learned inside it. So evolution built you to squeeze a lot out of very little. Hinton's point is that a language model has the opposite problem and the opposite fix, and backprop turned out to be extremely good at that fix. Worth noticing what this predicts about failure. A system running on 1% of your wiring and thousands of times your experience is not going to fail the way you do. You fail from having seen too few examples. It fails from compressing too many into too little, and the compression is where the errors get made. That is a strange thing to be deploying into hospitals and courts with no way to inspect it. We test these systems by asking them questions, which tells you what came out. Nobody can yet look at a trillion connections and say what got packed in. - Geoffrey Hinton, Nobel laureate and Turing Award winner, on StarTalk (@StarTalkRadio) with Neil deGrasse Tyson.
-
-<img src="/images/elonmusk/amplify_video_thumb_2080941160433123328_img_1j1_nF_VvGkKT8Mz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/karlmehta/status/2080941231425904673#m)
 
 ---
 
@@ -647,9 +673,19 @@ RT by @elonmusk: Geoffrey Hinton says a big language model runs on about 1% of y
 
 RT by @elonmusk: Unlimited tolerance is how open societies commit suicide. Elon Musk just warned that societies holding incompatible values eventually hit a reckoning. Karl Popper made the exact same point in 1945 while watching fascists and communists use open societies’ own tolerance against them. Popper wrote that unlimited tolerance must lead to the disappearance of tolerance. If a society keeps extending tolerance to people who openly want to destroy it and refuses to defend itself, the intolerant win and tolerance dies with them. He never demanded censorship first. Argue with intolerant ideas. Suppress them only when they stop arguing and start using force. 80 years later Musk is asking the same question: how much can a tolerant society tolerate before it stops being one?
 
-<img src="/images/elonmusk/amplify_video_thumb_2081026925271687169_img_YryMJcO-LTCjjVJJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Rothmus/status/2081026997367579033#m)
+## 2026-07-25 23:41:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1vKpPPAeQvoKE
+
+<img src="/images/elonmusk/card_img_2081099605408894976_-RZmkdaK3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2081042187584741573#m)
 
 ---
 
