@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1519 条推文
+> 📊 推文存档 - 共 1520 条推文
 
 ---
 
@@ -29,10 +29,6 @@ RT by @elonmusk: Liftoff of Starship on its thirteenth flight test
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2081090484118679552_img_dlgUrhPmwJX0lRTG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081096946953945509#m)
-
 ---
 
 ## 2026-07-26 03:22:11
@@ -42,10 +38,6 @@ Video
 **内容**:
 
 Real photo of Starship taken by Starlink satellites
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2GplEJOp4On0NlbfgiKPd19dVG7zAAIIEmsbze4pV1hU7Jmigo3dAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081097702624952714#m)
 
 ---
 
@@ -57,11 +49,19 @@ Real photo of Starship taken by Starlink satellites
 
 beautiful engineering
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII1mplEItRGJlFMtn5DWe9cXBn5RgBAAIGEmsbze4pV7utm6PYst1YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII12plEJB3LLE2iIwPB045FDyvAAFmMQACBxJrG83uKVdGC_jHbrdMygEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-26 04:37:55
 
-[查看原文](https://nitter.net/elonmusk/status/2081098739104571671#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The most powerful moving object ever created by humans
+
+<img src="/images/elonmusk/amplify_video_thumb_2081102071114149888_img_c-fJCdpghqpcVk0M.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081116761085100213#m)
 
 ---
 
