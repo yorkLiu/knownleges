@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1504 条推文
+> 📊 推文存档 - 共 1506 条推文
 
 ---
 
@@ -198,12 +198,6 @@ RT by @elonmusk: Grok is now available directly inside Google Workspace One add-
 **内容**:
 
 RT by @elonmusk: HUGE GROK PERFORMANCE 🚨 Built a full Unity space combat game with Grok Build + Grok 4.5 all in C#. CLI agents. MCP into the editor. Batchmode builds. I didn’t know Unity. I wrote zero code. Full walkthrough 👇 Audio on. I break down the build 🔊
-
-<img src="/images/elonmusk/amplify_video_thumb_2080735850879705088_img_FM7gcqm1GUOu-oBb.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2080034053395558400_img_Ha98IbPWkpqGDC-7.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Daniel_Farinax/status/2080736332205436952#m)
 
 ---
 
@@ -534,6 +528,32 @@ Yup
 **内容**:
 
 A quarter century of work by an incredible team @SpaceX
+
+---
+
+## 2026-07-25 13:38:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+If you’re interested in learning why I switched Starship from carbon fiber to stainless steel
+
+<img src="/images/elonmusk/amplify_video_thumb_2080827135678115840_img_uhf1c_luCoyaAz9R.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080890414244958427#m)
+
+---
+
+## 2026-07-25 13:55:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+What has happened to towns who did nothing to deserve it, like little Piddington village, will happen to all of Britain, unless there is fundamental political change. It’s not right. Not right at all.
+
+[查看原文](https://nitter.net/elonmusk/status/2080894727130435596#m)
 
 ---
 
