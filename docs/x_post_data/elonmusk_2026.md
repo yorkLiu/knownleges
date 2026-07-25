@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1489 条推文
+> 📊 推文存档 - 共 1492 条推文
 
 ---
 
@@ -108,6 +108,20 @@ RT by @elonmusk: If it wasn't for @elonmusk we wouldn't be able to have open, pu
 **内容**:
 
 RT by @elonmusk: The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must itself be distributed. Agree with Jensen that this is a future worth building.
+
+---
+
+## 2026-07-25 02:08:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Senate can get it done if we GET TO WORK and put in the hours. No recess if we don’t PASS the SAVE AMERICA ACT!!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIympkKAFRXxWbkvZr1IYi5Z-JQFVaAAJqGGsbze4hV6cW5oNvyLCdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SenRickScott/status/2080716690862510303#m)
 
 ---
 
@@ -271,6 +285,20 @@ RT by @elonmusk: Live views brought to you by @Starlink
 
 ---
 
+## 2026-07-25 07:19:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Pretty clear from this shot that @SpaceX knows where we are going! Congrats on getting Flight 13 underway. Excited for what will be learned from this mission. When Starship comes online, its capabilities will be game-changing, not least of which will be ensuring we never give up the Moon again!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIy2pkKAU8gUpdVNbT5gddNJH6k9PyAAJrGGsbze4hVyn5aPLZz_Q3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/NASAAdmin/status/2080794963596726670#m)
+
+---
+
 ## 2026-07-25 07:30:13
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -389,9 +417,19 @@ Yikes
 
 Starship as seen from Starlink satellites
 
+---
+
+## 2026-07-25 10:24:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
 <img src="/images/elonmusk/amplify_video_thumb_2080826748401246209_img_ftb3jwrxJd5JUpBi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/elonmusk/status/2080834619998363897#m)
+[查看原文](https://nitter.net/elonmusk/status/2080841494756233632#m)
 
 ---
 
