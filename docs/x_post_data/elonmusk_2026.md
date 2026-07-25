@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1509 条推文
+> 📊 推文存档 - 共 1511 条推文
 
 ---
 
@@ -38,10 +38,6 @@ RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs bot
 **内容**:
 
 RT by @elonmusk: Let me just reiterate what’s happening in Piddington. They want to put 1250 illegal migrants next to a village of just 350 people. Outnumbered. They are free to roam, come and go as they please. They are also ALL men. No women or children. No consultation. Disgrace.
-
-<img src="/images/elonmusk/amplify_video_thumb_2080576615298314240_img__7gk77W8Kw1CvLha.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Benleo/status/2080703901959876691#m)
 
 ---
 
@@ -223,10 +219,6 @@ RT by @elonmusk: HUGE GROK PERFORMANCE 🚨 Built a full Unity space combat game
 
 RT by @elonmusk: Driving the chair with my mind was such an exhilarating feeling. The most hope I have felt since my ALS diagnosis. I am honored to be developing this technology that will change the world and improve the lives of millions of people.
 
-<img src="/images/elonmusk/amplify_video_thumb_2080402252204740608_img_z94eEZnOYFLX0hHk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/PairedWith_P7/status/2080740194798416266#m)
-
 ---
 
 ## 2026-07-25 03:57:57
@@ -406,10 +398,6 @@ Video
 **内容**:
 
 RT by @elonmusk: Could somebody show this to Lenny Henry
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII0WpkWuLJvIrsjvJpC_9O7oqdBedWAAMZaxvN7iFXxchy8yFUxKABAAMCAAN4AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JohnCleese/status/2080816231880302794#m)
 
 ---
 
@@ -593,6 +581,20 @@ What has happened to towns who did nothing to deserve it, like little Piddington
 
 ---
 
+## 2026-07-25 14:53:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk on early days of SpaceX: "When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high"
+
+<img src="/images/elonmusk/amplify_video_thumb_2018576206137057280_img_GiJDwwQX5uaedgEy.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2080909204664275268#m)
+
+---
+
 ## 2026-07-24 01:02:12
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
@@ -740,6 +742,18 @@ Just common sense!
 **内容**:
 
 RT by @elonmusk: It's not "far-right" to protect the borders. It's normal. It's not "far-right" to reject the woke agenda. It's normal. It's not "far-right" to embrace your heritage. It's normal.
+
+---
+
+## 2026-07-24 05:08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: JUST IN: Grok 4.5 overtakes GPT-5.6 Sol & Fable 5 in OpenRouter token volume, cracking the top 10 closed models.
+
+[查看原文](https://nitter.net/Polymarket/status/2080399553594024298#m)
 
 ---
 
@@ -1040,10 +1054,6 @@ RT by @elonmusk: Let's take a walk through the "American justice system," shall 
 **内容**:
 
 RT by @elonmusk: The globalist head of The Economist thinks that it's "far right" to want secure borders and legal immigration. If that's true, then this 2009 Chuck Schumer speech on immigration is one of the most far right speeches ever made.
-
-<img src="/images/elonmusk/amplify_video_thumb_2051789558233116679_img__9gtsX7wc74loZQL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mazemoore/status/2080656390981292161#m)
 
 ---
 
