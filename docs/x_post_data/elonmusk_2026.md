@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1476 条推文
+> 📊 推文存档 - 共 1478 条推文
 
 ---
 
@@ -259,9 +259,33 @@ RT by @elonmusk: Live views brought to you by @Starlink
 
 Starlink V3 satellites deployed to test how they operate in space
 
-<img src="/images/elonmusk/amplify_video_thumb_2080794933267456000_img_neUgwFNXIgXxdEba.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080797733611286686#m)
+## 2026-07-25 07:33:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Possibly the most beautiful thing I have ever seen. SpaceX and Starlink are opening our eyes to the universe.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080797925555187712_img_iwkeZh-BxMwpJkJl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/OwenSparks/status/2080798494932029655#m)
+
+---
+
+## 2026-07-25 08:09:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship is intact, floating in the ocean and transmitting telemetry!
+
+<img src="/images/elonmusk/amplify_video_thumb_2080807515198050304_img_PmtSFJ_8Y273PCbq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080807557992443969#m)
 
 ---
 
