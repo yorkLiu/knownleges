@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1478 条推文
+> 📊 推文存档 - 共 1482 条推文
 
 ---
 
@@ -241,6 +241,20 @@ RT by @elonmusk: Starship’s Raptor engines ignite during hot-staging separatio
 
 ---
 
+## 2026-07-25 06:56:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Tesla Diner live-streaming Starship Test Flight 13 on their large screens! @SpaceX @tesla_na
+
+<img src="/images/elonmusk/amplify_video_thumb_2080788972977229824_img_L7ZfCZfwnkkQF1Kz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BLKMDL3/status/2080789134441144732#m)
+
+---
+
 ## 2026-07-25 07:04:48
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -269,9 +283,25 @@ Starlink V3 satellites deployed to test how they operate in space
 
 RT by @elonmusk: Possibly the most beautiful thing I have ever seen. SpaceX and Starlink are opening our eyes to the universe.
 
-<img src="/images/elonmusk/amplify_video_thumb_2080797925555187712_img_iwkeZh-BxMwpJkJl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/OwenSparks/status/2080798494932029655#m)
+## 2026-07-25 08:03:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Unreal! Starship didn't blow up on upon landing in the ocean! It's still floating in the ocean and Starlink is still giving us live views haha
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIwmpkCvaW-u1_Wal6kDcyGBSh9eqBAALtF2sbze4hV8o0A7dkBHBSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIw2pkCvnwWLj44eqSi5b-JOyEmNNJAALuF2sbze4hV2hyCr5iGAZgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIxGpkCv3U0Ub8CI5ZeFaXUP2P9l8QAALvF2sbze4hV2-eSd33bLXzAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIxWpkCwE8GkjVch5wMaO1L7O8QQ8WAALwF2sbze4hV1kYppHaMWHdAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2080806091256897857#m)
 
 ---
 
@@ -283,9 +313,33 @@ RT by @elonmusk: Possibly the most beautiful thing I have ever seen. SpaceX and 
 
 Starship is intact, floating in the ocean and transmitting telemetry!
 
-<img src="/images/elonmusk/amplify_video_thumb_2080807515198050304_img_PmtSFJ_8Y273PCbq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2080807557992443969#m)
+## 2026-07-25 08:27:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2080805972508016640_img_UifwEOvS9k8DvvXy.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080812111656050904#m)
+
+---
+
+## 2026-07-25 08:48:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Latest heat shield design looks great!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIwWpkCu-_A1KEhbtAUZsPeO-XuVPnAALsF2sbze4hV3L0yx215rLSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080817350069084561#m)
 
 ---
 
