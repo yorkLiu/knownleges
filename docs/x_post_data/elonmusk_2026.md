@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1483 条推文
+> 📊 推文存档 - 共 1488 条推文
 
 ---
 
@@ -219,12 +219,6 @@ Grok 4.5 is excellent for real-world work
 
 RT by @elonmusk: Our view of Starbase from space!  Here's to a successful launch.  Send it!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIxmpkEjTSHsr33-4kBRXN5Pt0eOFuAAL2F2sbze4hV_N8r8iOV03aAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIx2pkEjiEs9MUYSMibt5UmtYTwX6XAAL4F2sbze4hV7YkrkgPAvIpAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/astro_anil/status/2080765208000155882#m)
-
 ---
 
 ## 2026-07-25 05:21:43
@@ -327,6 +321,20 @@ Video
 
 ---
 
+## 2026-07-25 08:47:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: STUNNING New SpaceX Starship Rocket Launch (Starship 13 w/ Starlink v3) This is an edit of the entire launch. It removes all dead space and highlights all the best parts. Enjoy!
+
+<img src="/images/elonmusk/amplify_video_thumb_2080816119691018240_img_ac5gZ87-v8C2V29G.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/farzyness/status/2080817270570320220#m)
+
+---
+
 ## 2026-07-25 08:48:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -334,6 +342,66 @@ Video
 **内容**:
 
 Latest heat shield design looks great!
+
+---
+
+## 2026-07-25 09:41:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The most incredible 60 seconds from today’s Starship flight.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080830779874258944_img_XXBLjrnNqxEoJWBb.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2080830885545611595#m)
+
+---
+
+## 2026-07-25 09:44:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Episodes of the Starship documentary are posted to http://SpaceX.com for those who’d like to understand more about how it all works
+
+<img src="/images/elonmusk/card_img_2077404043358437376_sjS41Lea3Fformat3Djpg26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2080781443676938240_img_FfI4HfOxwbPVq3ym.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080831467559530867#m)
+
+---
+
+## 2026-07-25 09:45:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build update http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2078172396918583296_vSwD_jVE3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIyWpkGX5Qk_QNZjT3NDzGENGAS4L2AAIQGGsbze4hV0tZu6Idr33kAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080831716550209981#m)
+
+---
+
+## 2026-07-25 09:46:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yikes
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIyGpkGXmlFNC0dg1TbXiwadblR8USAAIPGGsbze4hV36c8_8Xt6fpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2080832017164370164#m)
 
 ---
 
