@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1506 条推文
+> 📊 推文存档 - 共 1509 条推文
 
 ---
 
@@ -28,6 +28,20 @@ RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs bot
 **内容**:
 
 𝕏 is the global town square
+
+---
+
+## 2026-07-25 01:17:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Let me just reiterate what’s happening in Piddington. They want to put 1250 illegal migrants next to a village of just 350 people. Outnumbered. They are free to roam, come and go as they please. They are also ALL men. No women or children. No consultation. Disgrace.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080576615298314240_img__7gk77W8Kw1CvLha.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Benleo/status/2080703901959876691#m)
 
 ---
 
@@ -201,6 +215,20 @@ RT by @elonmusk: HUGE GROK PERFORMANCE 🚨 Built a full Unity space combat game
 
 ---
 
+## 2026-07-25 03:41:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Driving the chair with my mind was such an exhilarating feeling. The most hope I have felt since my ALS diagnosis. I am honored to be developing this technology that will change the world and improve the lives of millions of people.
+
+<img src="/images/elonmusk/amplify_video_thumb_2080402252204740608_img_z94eEZnOYFLX0hHk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/PairedWith_P7/status/2080740194798416266#m)
+
+---
+
 ## 2026-07-25 03:57:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -368,6 +396,20 @@ Starship is intact, floating in the ocean and transmitting telemetry!
 **内容**:
 
 Video
+
+---
+
+## 2026-07-25 08:43:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Could somebody show this to Lenny Henry
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII0WpkWuLJvIrsjvJpC_9O7oqdBedWAAMZaxvN7iFXxchy8yFUxKABAAMCAAN4AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JohnCleese/status/2080816231880302794#m)
 
 ---
 
@@ -539,10 +581,6 @@ A quarter century of work by an incredible team @SpaceX
 
 If you’re interested in learning why I switched Starship from carbon fiber to stainless steel
 
-<img src="/images/elonmusk/amplify_video_thumb_2080827135678115840_img_uhf1c_luCoyaAz9R.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2080890414244958427#m)
-
 ---
 
 ## 2026-07-25 13:55:38
@@ -552,8 +590,6 @@ If you’re interested in learning why I switched Starship from carbon fiber to 
 **内容**:
 
 What has happened to towns who did nothing to deserve it, like little Piddington village, will happen to all of Britain, unless there is fundamental political change. It’s not right. Not right at all.
-
-[查看原文](https://nitter.net/elonmusk/status/2080894727130435596#m)
 
 ---
 
