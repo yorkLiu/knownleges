@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 237 条推文
+> 📊 推文存档 - 共 238 条推文
 
 ---
 
@@ -59,7 +59,17 @@ tags: ["2026"]
 
 Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
-[查看原文](https://nitter.net/dianzhuXS/status/2080805353110094147#m)
+---
+
+## 2026-07-25 09:32:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【重要通知】 今天的直播改了！ 因為我覺得今天的知識點 沒有畫面說不清楚 所以改為油管真人出鏡直播 時間不變 請互相轉告，謝謝大家
+
+[查看原文](https://nitter.net/dianzhuXS/status/2080828385224515947#m)
 
 ---
 
