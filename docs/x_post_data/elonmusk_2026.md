@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1530 条推文
+> 📊 推文存档 - 共 1532 条推文
 
 ---
 
@@ -69,10 +69,6 @@ The most powerful moving object ever created by humans
 
 🔥💯
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2WplQ3HRoeblZEPvVT84K-M-IOhsAAI4Emsbze4pVxF8b0HDVxU1AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081134752225009879#m)
-
 ---
 
 ## 2026-07-26 05:50:32
@@ -82,10 +78,6 @@ The most powerful moving object ever created by humans
 **内容**:
 
 Cool
-
-<img src="/images/elonmusk/amplify_video_thumb_2080793159752183808_img_34yf4AlgvYt2jbgQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081135033352347783#m)
 
 ---
 
@@ -97,10 +89,6 @@ Cool
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2081113104776142849_img_gghB5XMbzdqretl1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081136328004063352#m)
-
 ---
 
 ## 2026-07-26 06:18:05
@@ -110,8 +98,6 @@ Video
 **内容**:
 
 RT by @elonmusk: Peter is not correct about me in this case. I have always known that dangers from Earth will also pose dangers to Mars. Obviously so. However, the immense difficulty of traveling to Mars means that there is a much higher likelihood of mitigating risks originating from Earth. A clear example of major risk reduction would be a deadly pandemic. Since it takes 6 months to reach Mars, there is an automatic 6 month quarantine! Even traveling at the speed of light, a deadly computer virus or AI attack can potentially be stopped due to Mars being ~4 to ~20 light-minutes from Earth. This doesn’t mean that a Mars civilization eliminates all risk, but it absolutely greatly reduces the risk of consciousness being extinguished. Moreover, Mars is a stepping stone to extending consciousness broadly within our solar system and ultimately to millions of stars within our galaxy, which would extend the probable lifespan of consciousness as we know it by many orders of magnitude. That said, what I personally find most motivating is not the risk reduction aspect of extending life beyond Earth, but rather the inspiring nature of exploration and being out there among the stars! Perhaps we will meet aliens or find the remains of long-dead civilizations that lasted millions of years …
-
-[查看原文](https://nitter.net/elonmusk/status/2081141965651898709#m)
 
 ---
 
@@ -123,8 +109,6 @@ RT by @elonmusk: Peter is not correct about me in this case. I have always known
 
 Asimov’s Foundation series was a major influence on me. That and the fall of Rome, from which Foundation takes inspiration, is what convinced me that we need to extend consciousness beyond Earth to avoid a potentially infinite dark age.
 
-[查看原文](https://nitter.net/elonmusk/status/2081143591615742236#m)
-
 ---
 
 ## 2026-07-26 06:34:01
@@ -134,10 +118,6 @@ Asimov’s Foundation series was a major influence on me. That and the fall of R
 **内容**:
 
 RT by @elonmusk: ELON MUSK: “One of the things that is overlooked by probably most historians is the role of low birth rate in the decline of civilizations. Around 50 BC, Rome passed a bill to give a bonus to any Roman citizen that would have a third child. So a birth rate was a problem in Rome in 50 BC. The Romans weren’t making Romans. The same is true of ancient Greece. The birth rate far exceeded the death rate, which is why you had Greek cities popping up all over the Mediterranean. But then it seems to be that prosperity destroys the birth rate. When a civilization feels like it has no meaningful external threat and is very prosperous, that is what causes the birth rate to plummet.”
-
-<img src="/images/elonmusk/amplify_video_thumb_2081145864102502400_img_p_X-LMdnvFj-7Rm7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2081145977243856918#m)
 
 ---
 
@@ -149,8 +129,6 @@ RT by @elonmusk: ELON MUSK: “One of the things that is overlooked by probably 
 
 Exactly. Incentives explain outcomes.
 
-[查看原文](https://nitter.net/elonmusk/status/2081146893048959338#m)
-
 ---
 
 ## 2026-07-26 06:50:40
@@ -160,10 +138,6 @@ Exactly. Incentives explain outcomes.
 **内容**:
 
 True
-
-<img src="/images/elonmusk/amplify_video_thumb_2081149677232078848_img_fLTSdd1GJD3sad3s.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081150165902061619#m)
 
 ---
 
@@ -175,10 +149,6 @@ True
 
 Good analysis
 
-<img src="/images/elonmusk/card_img_2081068240684388352_nPRoGUkY3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081151056872951842#m)
-
 ---
 
 ## 2026-07-26 06:58:50
@@ -189,7 +159,31 @@ Good analysis
 
 They are invading just as surely as a conventional army would, but slow enough to avoid triggering an armed defense by Britain
 
-[查看原文](https://nitter.net/elonmusk/status/2081152222121869635#m)
+---
+
+## 2026-07-26 07:06:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Any civilization that loses faith in the future will die. Exploring the stars is an exciting future that you can believe in.
+
+[查看原文](https://nitter.net/elonmusk/status/2081154036338692413#m)
+
+---
+
+## 2026-07-26 07:25:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yesterday’s Starship launch
+
+<img src="/images/elonmusk/amplify_video_thumb_2081155453590126592_img_5zIaIOC0URWnaPxq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081159033461895500#m)
 
 ---
 
