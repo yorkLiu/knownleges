@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 239 条推文
+> 📊 推文存档 - 共 240 条推文
 
 ---
 
@@ -79,9 +79,19 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 【加急直播】 200斤七殺治國來勢洶洶，正常人如何「智慧自救」（2026.7.25） https://www.youtube.com/live/R7UNb0-_4Nc?si=ZGeklZ_cyBF-YIfD 來自 @YouTube
 
-<img src="/images/dianzhuXS/card_img_2080845246506913792_0p8ZoIk23Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2080845335212245126#m)
+## 2026-07-25 19:59:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+做了個封皮，今天直播了兩個半小時，不知道大家聽著累不累，反正我過了嘴癮了，強烈需要「熱推」中🤗🤗🤗 https://youtube.com/live/R7UNb0-_4Nc?feature=share
+
+<img src="/images/dianzhuXS/card_img_2080985467403767808_aBvDV7XJ3Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2080986304725348406#m)
 
 ---
 
