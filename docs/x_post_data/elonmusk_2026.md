@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1532 条推文
+> 📊 推文存档 - 共 1537 条推文
 
 ---
 
@@ -169,8 +169,6 @@ They are invading just as surely as a conventional army would, but slow enough t
 
 Any civilization that loses faith in the future will die. Exploring the stars is an exciting future that you can believe in.
 
-[查看原文](https://nitter.net/elonmusk/status/2081154036338692413#m)
-
 ---
 
 ## 2026-07-26 07:25:54
@@ -181,9 +179,75 @@ Any civilization that loses faith in the future will die. Exploring the stars is
 
 Yesterday’s Starship launch
 
-<img src="/images/elonmusk/amplify_video_thumb_2081155453590126592_img_5zIaIOC0URWnaPxq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081159033461895500#m)
+## 2026-07-26 07:35:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A low birth rate due to extended periods of prosperity and low perceived external danger is the primary reason that Rome and most other powerful civilizations collapsed. Rome had a very high birth rate when under extreme pressure from Carthage and a low birth rate a few generations after Carthage, their last serious threat, was finally destroyed.
+
+<img src="/images/elonmusk/amplify_video_thumb_2081094583706963968_img_tzo3FS7yyaMDPCpt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081161498588496106#m)
+
+---
+
+## 2026-07-26 07:59:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hardcore
+
+<img src="/images/elonmusk/amplify_video_thumb_2080936182167351296_img_ytbRHvdXn1VY8q67.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081167595164581923#m)
+
+---
+
+## 2026-07-26 08:06:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+<img src="/images/elonmusk/amplify_video_thumb_2080713336136601600_img_UfMXGJYuQigk-mr7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081169231656132647#m)
+
+---
+
+## 2026-07-26 08:09:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2081164698666340352_img_XhazIUU7iGduEPY9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081169947372184053#m)
+
+---
+
+## 2026-07-26 08:25:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Download Grok Build and type /tutorial http://X.ai/cli
+
+<img src="/images/elonmusk/amplify_video_thumb_2081167775192715264_img_GxXORZHadMpi_hEw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081174079969632347#m)
 
 ---
 
