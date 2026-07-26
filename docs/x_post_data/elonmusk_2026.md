@@ -7,7 +7,35 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1551 条推文
+> 📊 推文存档 - 共 1554 条推文
+
+---
+
+## 2026-07-27 01:16:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2081123733159170048_img_ltrJaBhlvsKve77E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081428541585899753#m)
+
+---
+
+## 2026-07-27 01:35:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Jensen is awesome
+
+<img src="/images/elonmusk/amplify_video_thumb_2024903404238127104_img_HEK2KwV_VdkH1axo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081433297846935762#m)
 
 ---
 
@@ -321,6 +349,20 @@ Grok Imagine
 
 ---
 
+## 2026-07-26 11:49:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen. William Gibson typed Neuromancer on a 1927 Hermes portable. He coined "cyberspace" before he'd ever logged onto anything. The book swept the Hugo, the Nebula, and the Philip K. Dick award in the same year, the only novel ever to take all three. Then Hollywood spent four decades strip-mining it while calling it unfilmable. The Wachowskis lifted the matrix, the jacked-in hackers, the AI pulling strings behind a corporate veil. Every razor-girl assassin in sci-fi traces back to Molly. Johnny Mnemonic, an actual Gibson adaptation, flopped so hard in 1995 that studios treated his work as radioactive for a generation. At least five directors attached and detached over the years. Chris Cunningham in 2000. Vincenzo Natali in 2010. Tim Miller at Fox in 2017. Each attempt died the same death. By the time the technology existed to film Neuromancer, audiences had watched its ideas in a dozen movies that borrowed them first. The original became unfilmable because it looked like a copy of its own copies. Now the timing loops back on itself. A story about a rogue AI maneuvering to escape its corporate constraints, written before the web existed, lands in January 2027 as the least speculative thing on television. And one detail makes the whole arc perfect. When Neuromancer royalties came in, Gibson bought his first computer, an Apple IIc. Four decades later, Apple is the company putting his book on screen.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII5GpmSQZBMGxSSwYx6UO0vNfih45RAALBFWsbnVMxVzE9cb8uXAGyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aakashgupta/status/2081225245286154631#m)
+
+---
+
 ## 2026-07-26 12:15:37
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -328,8 +370,6 @@ Grok Imagine
 **内容**:
 
 RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Build. They keep brain-dumping their ideas. Combining it with /dream, /recap and /create-workflow after a long session makes it very powerful. You don’t need to remember those slash commands (I don’t either); just talk through it.
-
-[查看原文](https://nitter.net/yunta_tsai/status/2081231945904873876#m)
 
 ---
 
@@ -340,10 +380,6 @@ RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Bui
 **内容**:
 
 RT by @elonmusk: Blade Runner 2026
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII42pmK_UbQnmrBh17qRF0fwXMUFUSAAJ_FWsbnVMxV1O408hhiaMmAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Jason/status/2081234523971555829#m)
 
 ---
 
@@ -364,10 +400,6 @@ RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also
 **内容**:
 
 RT by @elonmusk: It’s unreal. We are committing Civilizational Seppuku.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrmpjlrEzpyrlAU2vC24ZpxI7s_FtAAJyFmsbze4ZV25ivr07DuxbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/GadSaad/status/2081345128732541137#m)
 
 ---
 
