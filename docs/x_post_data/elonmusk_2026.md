@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1537 条推文
+> 📊 推文存档 - 共 1542 条推文
 
 ---
 
@@ -189,9 +189,19 @@ Yesterday’s Starship launch
 
 A low birth rate due to extended periods of prosperity and low perceived external danger is the primary reason that Rome and most other powerful civilizations collapsed. Rome had a very high birth rate when under extreme pressure from Carthage and a low birth rate a few generations after Carthage, their last serious threat, was finally destroyed.
 
-<img src="/images/elonmusk/amplify_video_thumb_2081094583706963968_img_tzo3FS7yyaMDPCpt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081161498588496106#m)
+## 2026-07-26 07:38:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilization grows wealthy This is disastrous and has ended great civilizations We are not immune from this fate
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3GplfZJH_7EIz7WWLw1XpMeZBfuSAAJ6Emsbze4pV9ic9FXEJgIQAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArthurMacwaters/status/2081162179282391307#m)
 
 ---
 
@@ -203,10 +213,6 @@ A low birth rate due to extended periods of prosperity and low perceived externa
 
 Hardcore
 
-<img src="/images/elonmusk/amplify_video_thumb_2080936182167351296_img_ytbRHvdXn1VY8q67.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081167595164581923#m)
-
 ---
 
 ## 2026-07-26 08:06:25
@@ -216,10 +222,6 @@ Hardcore
 **内容**:
 
 Yup
-
-<img src="/images/elonmusk/amplify_video_thumb_2080713336136601600_img_UfMXGJYuQigk-mr7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081169231656132647#m)
 
 ---
 
@@ -231,10 +233,6 @@ Yup
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2081164698666340352_img_XhazIUU7iGduEPY9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081169947372184053#m)
-
 ---
 
 ## 2026-07-26 08:25:41
@@ -245,9 +243,65 @@ Video
 
 Download Grok Build and type /tutorial http://X.ai/cli
 
-<img src="/images/elonmusk/amplify_video_thumb_2081167775192715264_img_GxXORZHadMpi_hEw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081174079969632347#m)
+## 2026-07-26 08:44:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Another trans person has been arrested over the m—rder of his parent. 36-year-old Safford James Wolfson, who identifies as female, was arrested on suspicion of the m—rder of Angela Caprioli. The 61-year-old woman was found dead at her home in Laguna Beach on July 20. The suspect formerly worked at Spin magazine, according to his Linkedin. He attended the private liberal arts college Pitzer College. Multiple trans people have been arrested over the m—rders of their parents in just the last couple of years. In extreme trans ideology, parricide — killing one's own mother or father — is often a recurring theme. In my research of the Zizian trans death cult, I found that its members believed strongly in m—rdering "transphobic" parents. They believed that's how they would get justice. More info about my book: https://www.hachettebookgroup.com/titles/andy-ngo/the-zizians/9780316599030/
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3WplfZj1924HZld-UEkvuM0ItG96AAJ7Emsbze4pV7e8JGcj67qTAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3mplfZxpAAE4wJ5khGa_sKFS4qxSwQACfBJrG83uKVdCsGv8UjgTNwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII32plfZ_dFjCFAfxjnTMqvxphg3PMAAJ9Emsbze4pVxT46zPCn24oAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII4GplfaN3DeS_Rq329H8ksye6WLpbAAJ-Emsbze4pV5b-gRTui3-HAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MrAndyNgo/status/2081178849455276484#m)
+
+---
+
+## 2026-07-26 10:18:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+You can just talk to Grok Build
+
+[查看原文](https://nitter.net/elonmusk/status/2081202568282169661#m)
+
+---
+
+## 2026-07-26 10:26:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Great video of Starship launching
+
+<img src="/images/elonmusk/amplify_video_thumb_2081187613160148992_img_mjd0OwRccYAi8ihE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081204422281949372#m)
+
+---
+
+## 2026-07-26 10:49:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s time.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII22plfY2dvqSfoLK84u-O-xYWWu_qAAJ5Emsbze4pVw94jvUSHECGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081210321050435990#m)
 
 ---
 
