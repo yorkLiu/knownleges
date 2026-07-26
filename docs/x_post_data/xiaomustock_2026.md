@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 269 条推文
+> 📊 推文存档 - 共 270 条推文
+
+---
+
+## 2026-07-26 09:02:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月， 谷歌这些云厂和claude他们投资回报的转化速度可以更快。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2mplYHwNskcLeOD5uHqFvM9x7CmRAAJKEmsbze4pV6Bo25FLEHwVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2081183424342270321#m)
 
 ---
 
