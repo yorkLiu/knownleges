@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1554 条推文
+> 📊 推文存档 - 共 1555 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2081123733159170048_img_ltrJaBhlvsKve77E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081428541585899753#m)
-
 ---
 
 ## 2026-07-27 01:35:44
@@ -33,9 +29,19 @@ Video
 
 Jensen is awesome
 
-<img src="/images/elonmusk/amplify_video_thumb_2024903404238127104_img_HEK2KwV_VdkH1axo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081433297846935762#m)
+## 2026-07-27 02:40:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build /deep-research
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII5WpmV4-XPfwMPLVgojep49LMBALUAALXFWsbnVMxV2g4uvQbRcuAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081449658363134075#m)
 
 ---
 
