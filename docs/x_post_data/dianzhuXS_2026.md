@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 243 条推文
+> 📊 推文存档 - 共 244 条推文
 
 ---
 
@@ -39,7 +39,17 @@ tags: ["2026"]
 
 【冷不防】Substack同步直播 https://x.com/i/spaces/1nxnRRpXjByxO
 
-[查看原文](https://nitter.net/dianzhuXS/status/2081193273247559841#m)
+---
+
+## 2026-07-26 11:25:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+x.com/i/spaces/1nxnRRpXjByxO
+
+[查看原文](https://nitter.net/dianzhuXS/status/2081219443003470023#m)
 
 ---
 

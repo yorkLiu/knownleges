@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1542 条推文
+> 📊 推文存档 - 共 1546 条推文
 
 ---
 
@@ -199,10 +199,6 @@ A low birth rate due to extended periods of prosperity and low perceived externa
 
 RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilization grows wealthy This is disastrous and has ended great civilizations We are not immune from this fate
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3GplfZJH_7EIz7WWLw1XpMeZBfuSAAJ6Emsbze4pV9ic9FXEJgIQAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ArthurMacwaters/status/2081162179282391307#m)
-
 ---
 
 ## 2026-07-26 07:59:55
@@ -253,16 +249,6 @@ Download Grok Build and type /tutorial http://X.ai/cli
 
 RT by @elonmusk: Another trans person has been arrested over the m—rder of his parent. 36-year-old Safford James Wolfson, who identifies as female, was arrested on suspicion of the m—rder of Angela Caprioli. The 61-year-old woman was found dead at her home in Laguna Beach on July 20. The suspect formerly worked at Spin magazine, according to his Linkedin. He attended the private liberal arts college Pitzer College. Multiple trans people have been arrested over the m—rders of their parents in just the last couple of years. In extreme trans ideology, parricide — killing one's own mother or father — is often a recurring theme. In my research of the Zizian trans death cult, I found that its members believed strongly in m—rdering "transphobic" parents. They believed that's how they would get justice. More info about my book: https://www.hachettebookgroup.com/titles/andy-ngo/the-zizians/9780316599030/
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3WplfZj1924HZld-UEkvuM0ItG96AAJ7Emsbze4pV7e8JGcj67qTAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3mplfZxpAAE4wJ5khGa_sKFS4qxSwQACfBJrG83uKVdCsGv8UjgTNwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII32plfZ_dFjCFAfxjnTMqvxphg3PMAAJ9Emsbze4pVxT46zPCn24oAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII4GplfaN3DeS_Rq329H8ksye6WLpbAAJ-Emsbze4pV5b-gRTui3-HAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MrAndyNgo/status/2081178849455276484#m)
-
 ---
 
 ## 2026-07-26 10:18:53
@@ -272,8 +258,6 @@ RT by @elonmusk: Another trans person has been arrested over the m—rder of his
 **内容**:
 
 You can just talk to Grok Build
-
-[查看原文](https://nitter.net/elonmusk/status/2081202568282169661#m)
 
 ---
 
@@ -285,10 +269,6 @@ You can just talk to Grok Build
 
 Great video of Starship launching
 
-<img src="/images/elonmusk/amplify_video_thumb_2081187613160148992_img_mjd0OwRccYAi8ihE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081204422281949372#m)
-
 ---
 
 ## 2026-07-26 10:49:42
@@ -299,9 +279,59 @@ Great video of Starship launching
 
 It’s time.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII22plfY2dvqSfoLK84u-O-xYWWu_qAAJ5Emsbze4pVw94jvUSHECGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081210321050435990#m)
+## 2026-07-26 11:16:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2080885823449280512_img_3bjXxGgn7xhj4S5C.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081217033543286834#m)
+
+---
+
+## 2026-07-26 11:18:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+/dream
+
+[查看原文](https://nitter.net/elonmusk/status/2081217444186554672#m)
+
+---
+
+## 2026-07-26 11:21:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2079982135394631680_img_za1-E0sbaDsYPIsp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081218380321714381#m)
+
+---
+
+## 2026-07-26 11:25:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2021386326168195072_img_S71K7stqe8zzV0AA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081219220415652110#m)
 
 ---
 
