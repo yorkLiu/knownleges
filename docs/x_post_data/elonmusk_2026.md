@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1547 条推文
+> 📊 推文存档 - 共 1548 条推文
 
 ---
 
@@ -289,10 +289,6 @@ It’s time.
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2080885823449280512_img_3bjXxGgn7xhj4S5C.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081217033543286834#m)
-
 ---
 
 ## 2026-07-26 11:18:00
@@ -302,8 +298,6 @@ Video
 **内容**:
 
 /dream
-
-[查看原文](https://nitter.net/elonmusk/status/2081217444186554672#m)
 
 ---
 
@@ -315,10 +309,6 @@ Video
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2079982135394631680_img_za1-E0sbaDsYPIsp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081218380321714381#m)
-
 ---
 
 ## 2026-07-26 11:25:03
@@ -329,9 +319,19 @@ Video
 
 Grok Imagine
 
-<img src="/images/elonmusk/amplify_video_thumb_2021386326168195072_img_S71K7stqe8zzV0AA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081219220415652110#m)
+## 2026-07-26 12:57:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also, the left has ran so far left that they now call normal things far right.
+
+<img src="/images/elonmusk/amplify_video_thumb_2081242363695976448_img_kavTqSdFdas_L8nH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/the_jefferymead/status/2081242421447344449#m)
 
 ---
 
