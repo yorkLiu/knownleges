@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 270 条推文
+> 📊 推文存档 - 共 271 条推文
 
 ---
 
@@ -19,9 +19,17 @@ tags: ["2026"]
 
 只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月， 谷歌这些云厂和claude他们投资回报的转化速度可以更快。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2mplYHwNskcLeOD5uHqFvM9x7CmRAAJKEmsbze4pV6Bo25FLEHwVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2081183424342270321#m)
+## 2026-07-26 10:21:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+市场还有一个非常严重的误区， 大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多， 但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。 马斯克已经因为买卡赚死了。 而我们大陆，只能买3倍价格的卡， 美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。 其他成本占比如人力成本和电力成本占比都很低， ai研究本身是人才密度极高的行业，员工数都极其少。 电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。
+
+[查看原文](https://nitter.net/xiaomustock/status/2081203163928109207#m)
 
 ---
 
