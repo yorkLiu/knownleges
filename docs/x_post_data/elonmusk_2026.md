@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1548 条推文
+> 📊 推文存档 - 共 1551 条推文
 
 ---
 
@@ -321,6 +321,32 @@ Grok Imagine
 
 ---
 
+## 2026-07-26 12:15:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Build. They keep brain-dumping their ideas. Combining it with /dream, /recap and /create-workflow after a long session makes it very powerful. You don’t need to remember those slash commands (I don’t either); just talk through it.
+
+[查看原文](https://nitter.net/yunta_tsai/status/2081231945904873876#m)
+
+---
+
+## 2026-07-26 12:25:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Blade Runner 2026
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII42pmK_UbQnmrBh17qRF0fwXMUFUSAAJ_FWsbnVMxV1O408hhiaMmAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Jason/status/2081234523971555829#m)
+
+---
+
 ## 2026-07-26 12:57:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -329,9 +355,19 @@ Grok Imagine
 
 RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also, the left has ran so far left that they now call normal things far right.
 
-<img src="/images/elonmusk/amplify_video_thumb_2081242363695976448_img_kavTqSdFdas_L8nH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/the_jefferymead/status/2081242421447344449#m)
+## 2026-07-26 19:45:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: It’s unreal. We are committing Civilizational Seppuku.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrmpjlrEzpyrlAU2vC24ZpxI7s_FtAAJyFmsbze4ZV25ivr07DuxbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GadSaad/status/2081345128732541137#m)
 
 ---
 
