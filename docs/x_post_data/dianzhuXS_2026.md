@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 245 条推文
+> 📊 推文存档 - 共 246 条推文
 
 ---
 
@@ -59,9 +59,21 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 今天直播用到的圖
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII4Wplk1-LszTB84PLQ_pFxY6AbpxmAAKoEmsbze4pV3_9QAN10RfgAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2081237300638621785#m)
+## 2026-07-26 17:24:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【颱風紅霞】中國大陸廣東惠州 記錄大盧2026年5月21日神準預測 【牆國後半年大風災】
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2081309553673826304_img_lzPEkxMbgDK_SgAl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII4mpl1MPrVzcvMEE-Mv2iCB3w82NdAALmFGsbnVMxV8tz3nCFhtUcAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2081309603422458035#m)
 
 ---
 
