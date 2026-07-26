@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1555 条推文
+> 📊 推文存档 - 共 1556 条推文
 
 ---
 
@@ -39,9 +39,17 @@ Jensen is awesome
 
 Grok Build /deep-research
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII5WpmV4-XPfwMPLVgojep49LMBALUAALXFWsbnVMxV2g4uvQbRcuAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081449658363134075#m)
+## 2026-07-27 05:01:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 is a solid workhorse
+
+[查看原文](https://nitter.net/elonmusk/status/2081485024872796427#m)
 
 ---
 
