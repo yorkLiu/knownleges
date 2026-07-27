@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 335 条推文
+> 📊 推文存档 - 共 336 条推文
 
 ---
 
@@ -29,9 +29,21 @@ Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung 
 
 Nvidia in talks to backstop $250B worth of OpenAI DC financing. - Softbank’s SB energy develops 10 GW Ohio campus - OpenAI signs long term lease - $NVDA guarantees $250B in financing - OpenAI discussing separate agreement to buy up to $350B in Nvidia chips. Not quite sure if this circular financing is healthy long term, but given the massive size of AI infrastructure spending… Feels like capex beneficiaries will be extremely happy.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII52pmtglke14EnqCIkxc-aVl-So5GAAIPFmsbnVMxV2U6JuCGpf-rAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2081548360818004299#m)
+## 2026-07-27 11:17:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow, $CMXT is up a very normal +469.98% after going public today. Now valuing it at ~$487.31 billion, up from $85.5 billion. Did any of my Chinese followers buy into the IPO?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII6mpm0yH0GpXLq7GIvRjl1DOFzND6AAJmFWsbnVM5V4IIC9oXbYKYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII62pm0yYFTSsdKUG3sBezU1kiybPHAAJnFWsbnVM5V-atGNeUdRi5AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2081579593815978273#m)
 
 ---
 
