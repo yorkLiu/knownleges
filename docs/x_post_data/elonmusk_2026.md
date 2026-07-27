@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1556 条推文
+> 📊 推文存档 - 共 1557 条推文
 
 ---
 
@@ -49,7 +49,19 @@ Grok Build /deep-research
 
 Grok 4.5 is a solid workhorse
 
-[查看原文](https://nitter.net/elonmusk/status/2081485024872796427#m)
+---
+
+## 2026-07-27 08:08:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A newspaper clipping from 2003, when Elon Musk risked everything to make humanity multiplanetary.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII7Wpm8Cp7tWG1kNF41PUrx8fiSeYSAAKeFWsbnVM5Vy7yrqYviS3pAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2081532204283556059#m)
 
 ---
 
