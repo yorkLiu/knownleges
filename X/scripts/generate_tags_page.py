@@ -222,13 +222,11 @@ def generate_tags_page(output_file, data_dir):
             # 推文内容（完整，非摘要，移除重复标记等）
             content = tweet['content']
             
+            # 移除所有的 **内容**: 标记（各种形式）
+            content = re.sub(r'\*\*内容\*?:?\s*', '', content)
+            content = re.sub(r'<strong>内容</strong>:\s*', '', content)
+            
             # 移除所有标签标记（可能多个，包括前后的换行）
-            content = re.sub(r'\s*<a href="[^"]*\\?tag=[^"]+">🏷️ [^<]+</a>\s*', '', content)
-            
-            # 移除重复的 **内容**: 标记
-            content = re.sub(r'\s*\*\*内容\*\*:\s*', '', content)
-            
-            # 移除 [查看原文](...) 这些内部链接
             content = re.sub(r'\s*\[查看原文\]\([^)]+\)', '', content)
             
             # 移除 {MMDD-HHMM} 这种短锚点遗留
