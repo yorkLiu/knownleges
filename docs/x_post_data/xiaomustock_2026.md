@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 273 条推文
+> 📊 推文存档 - 共 274 条推文
 
 ---
 
@@ -16,14 +16,6 @@ tags: ["2026"]
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII6Gpm0xeLBnvDaTwCdJK7NStDG1E1AAJkFWsbnVM5V_SM3p7Ruw-oAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII6Wpm0xvViyqCMHbw383dLhbbWQ7WAAJlFWsbnVM5V1e4HOmD9-fCAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2081583233792413948#m)
 
 ---
 
@@ -35,15 +27,17 @@ tags: ["2026"]
 
 gate这一路的操作真是离谱， 催受害人报警立案， 真立案了又刁难推诿踢皮球就是不配合调查。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII82pnQBkAAVT-KjAAAcyoPsIDItUqzhQAAmYWaxudUzlXv7L6F7ERlksBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII9GpnQB2Q_24jh8772iJ3N_NwuwTQAAJnFmsbnVM5V7Wzv4wKYIlyAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-27 22:40:04
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII9WpnQCHWSaLxV-6oZqu8ZaU01zwWAAJoFmsbnVM5V8yHKSLUtWL6AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII9mpnQCUeRpeDcH9RlXU9YkCMYQtkAAJpFmsbnVM5V1cLOzFBA5sDAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/xiaomustock/status/2081688609078538487#m)
+我买到了美股百年大顶
+
+[查看原文](https://nitter.net/xiaomustock/status/2081751480021946522#m)
 
 ---
 
