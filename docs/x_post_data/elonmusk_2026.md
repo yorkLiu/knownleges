@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1557 条推文
+> 📊 推文存档 - 共 1568 条推文
 
 ---
 
@@ -31,6 +31,20 @@ Jensen is awesome
 
 ---
 
+## 2026-07-27 01:40:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Turns out I was throttled in 2020 for opinions AGREEING with the bias of 10/12 scientists; Fauci and his ilk believe in different rules for the elites versus the rest of us. This SHOULD open the eyes of many who were “shocked” that I and @elonmusk et al “rudely” attacked Fauci.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII8Wpm_sQoaRu3yUkrGWg5R_Vr5QvzAAKyFWsbnVM5V9j9yJlKOt8WAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JTLonsdale/status/2081434450349510886#m)
+
+---
+
 ## 2026-07-27 02:40:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -51,6 +65,18 @@ Grok 4.5 is a solid workhorse
 
 ---
 
+## 2026-07-27 05:35:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Hating any group besides straight white men is racism, sexism, homophobia, transphobia, etc. But hating straight white men? Well, that's social justice, obviously.
+
+[查看原文](https://nitter.net/kevinnbass/status/2081493665738887290#m)
+
+---
+
 ## 2026-07-27 08:08:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -59,15 +85,119 @@ Grok 4.5 is a solid workhorse
 
 RT by @elonmusk: A newspaper clipping from 2003, when Elon Musk risked everything to make humanity multiplanetary.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII7Wpm8Cp7tWG1kNF41PUrx8fiSeYSAAKeFWsbnVM5Vy7yrqYviS3pAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/cb_doge/status/2081532204283556059#m)
+## 2026-07-27 08:43:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Build with Grok 4.5 stands far ahead on the efficiency frontier....completely alone inside the chart’s most attractive quadrant It delivers top-tier coding-agent performance while using only around 3.5 million tokens per task, the lowest token usage anywhere near this level of performance Most competing agents in the same performance range consume roughly 7 million to 18 million tokens per task That means some are burning up to around 5× more tokens to achieve comparable scores That is the real advantage of Grok Build: • Powerful • Extremely fast • Highly token-efficient • Better use of your limits • Capable of completing serious work without burning through enormous amounts of usage Grok Build is dominating the efficiency frontier More intelligence per token. More work from your limits More building
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII8mpm_spCTdWSbEAVWdAf4WqqaVzSAAKzFWsbnVM5V2p7cAhr3JhdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2081540824677175708#m)
+
+---
+
+## 2026-07-27 13:13:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨BREAKING: Germany's Anti-Immigration party the AfD have topped a poll in liberal/left leaning BERLIN for the FIRST TIME EVER This is unprecedented Remigration is inevitable
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII72pm_rYbjfQbVZGayMWrdsA2sqzgAAKwFWsbnVM5VwehsM_rkCRGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BasilTheGreat/status/2081608857256657382#m)
+
+---
+
+## 2026-07-27 13:36:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2080974553740947456_img_5yDSqyq-gBCuwIx2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081614718414831810#m)
+
+---
+
+## 2026-07-27 13:44:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2081472991909564416_img_9iSNo8Zs6TVqq-uc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081616755823186385#m)
+
+---
+
+## 2026-07-27 14:06:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2068460925833678848_img_ezMkMxIhKRPF4wAF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081622225023611265#m)
+
+---
+
+## 2026-07-27 14:09:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: These two photos were taken 22 years apart.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII8Gpm_ruIRszdN7W-jwABp0BlMWJHDAACsRVrG51TOVfp9_noZZDlzAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2081623049665663430#m)
+
+---
+
+## 2026-07-27 14:16:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I don’t pay the protection money to the media
+
+[查看原文](https://nitter.net/elonmusk/status/2081624723432124681#m)
+
+---
+
+## 2026-07-27 14:26:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I will not forget about Mars
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII7mpm_rKeqDMmblRTiy2BfbPYk2yLAAKvFWsbnVM5V0T5rc1ADIKpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081627240777895998#m)
 
 ---
 
 ## 2026-07-26 02:47:17
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -77,8 +207,6 @@ RT by @elonmusk: Liftoff of Starship on its thirteenth flight test
 
 ## 2026-07-26 03:19:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Video
@@ -86,8 +214,6 @@ Video
 ---
 
 ## 2026-07-26 03:22:11
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -97,8 +223,6 @@ Real photo of Starship taken by Starlink satellites
 
 ## 2026-07-26 03:26:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 beautiful engineering
@@ -106,8 +230,6 @@ beautiful engineering
 ---
 
 ## 2026-07-26 04:37:55
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -117,8 +239,6 @@ The most powerful moving object ever created by humans
 
 ## 2026-07-26 05:49:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 🔥💯
@@ -126,8 +246,6 @@ The most powerful moving object ever created by humans
 ---
 
 ## 2026-07-26 05:50:32
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -137,8 +255,6 @@ Cool
 
 ## 2026-07-26 05:55:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Video
@@ -146,8 +262,6 @@ Video
 ---
 
 ## 2026-07-26 06:18:05
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -157,8 +271,6 @@ RT by @elonmusk: Peter is not correct about me in this case. I have always known
 
 ## 2026-07-26 06:24:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Asimov’s Foundation series was a major influence on me. That and the fall of Rome, from which Foundation takes inspiration, is what convinced me that we need to extend consciousness beyond Earth to avoid a potentially infinite dark age.
@@ -166,8 +278,6 @@ Asimov’s Foundation series was a major influence on me. That and the fall of R
 ---
 
 ## 2026-07-26 06:34:01
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -177,8 +287,6 @@ RT by @elonmusk: ELON MUSK: “One of the things that is overlooked by probably 
 
 ## 2026-07-26 06:37:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Exactly. Incentives explain outcomes.
@@ -186,8 +294,6 @@ Exactly. Incentives explain outcomes.
 ---
 
 ## 2026-07-26 06:50:40
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -197,8 +303,6 @@ True
 
 ## 2026-07-26 06:54:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Good analysis
@@ -206,8 +310,6 @@ Good analysis
 ---
 
 ## 2026-07-26 06:58:50
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -217,8 +319,6 @@ They are invading just as surely as a conventional army would, but slow enough t
 
 ## 2026-07-26 07:06:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Any civilization that loses faith in the future will die. Exploring the stars is an exciting future that you can believe in.
@@ -226,8 +326,6 @@ Any civilization that loses faith in the future will die. Exploring the stars is
 ---
 
 ## 2026-07-26 07:25:54
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -237,8 +335,6 @@ Yesterday’s Starship launch
 
 ## 2026-07-26 07:35:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 A low birth rate due to extended periods of prosperity and low perceived external danger is the primary reason that Rome and most other powerful civilizations collapsed. Rome had a very high birth rate when under extreme pressure from Carthage and a low birth rate a few generations after Carthage, their last serious threat, was finally destroyed.
@@ -246,8 +342,6 @@ A low birth rate due to extended periods of prosperity and low perceived externa
 ---
 
 ## 2026-07-26 07:38:24
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -257,8 +351,6 @@ RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilizat
 
 ## 2026-07-26 07:59:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Hardcore
@@ -266,8 +358,6 @@ Hardcore
 ---
 
 ## 2026-07-26 08:06:25
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -277,8 +367,6 @@ Yup
 
 ## 2026-07-26 08:09:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Video
@@ -286,8 +374,6 @@ Video
 ---
 
 ## 2026-07-26 08:25:41
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -297,8 +383,6 @@ Download Grok Build and type /tutorial http://X.ai/cli
 
 ## 2026-07-26 08:44:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Another trans person has been arrested over the m—rder of his parent. 36-year-old Safford James Wolfson, who identifies as female, was arrested on suspicion of the m—rder of Angela Caprioli. The 61-year-old woman was found dead at her home in Laguna Beach on July 20. The suspect formerly worked at Spin magazine, according to his Linkedin. He attended the private liberal arts college Pitzer College. Multiple trans people have been arrested over the m—rders of their parents in just the last couple of years. In extreme trans ideology, parricide — killing one's own mother or father — is often a recurring theme. In my research of the Zizian trans death cult, I found that its members believed strongly in m—rdering "transphobic" parents. They believed that's how they would get justice. More info about my book: https://www.hachettebookgroup.com/titles/andy-ngo/the-zizians/9780316599030/
@@ -306,8 +390,6 @@ RT by @elonmusk: Another trans person has been arrested over the m—rder of his
 ---
 
 ## 2026-07-26 10:18:53
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -317,8 +399,6 @@ You can just talk to Grok Build
 
 ## 2026-07-26 10:26:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Great video of Starship launching
@@ -326,8 +406,6 @@ Great video of Starship launching
 ---
 
 ## 2026-07-26 10:49:42
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -337,8 +415,6 @@ It’s time.
 
 ## 2026-07-26 11:16:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Video
@@ -346,8 +422,6 @@ Video
 ---
 
 ## 2026-07-26 11:18:00
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -357,8 +431,6 @@ Video
 
 ## 2026-07-26 11:21:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Video
@@ -366,8 +438,6 @@ Video
 ---
 
 ## 2026-07-26 11:25:03
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -377,21 +447,13 @@ Grok Imagine
 
 ## 2026-07-26 11:49:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen. William Gibson typed Neuromancer on a 1927 Hermes portable. He coined "cyberspace" before he'd ever logged onto anything. The book swept the Hugo, the Nebula, and the Philip K. Dick award in the same year, the only novel ever to take all three. Then Hollywood spent four decades strip-mining it while calling it unfilmable. The Wachowskis lifted the matrix, the jacked-in hackers, the AI pulling strings behind a corporate veil. Every razor-girl assassin in sci-fi traces back to Molly. Johnny Mnemonic, an actual Gibson adaptation, flopped so hard in 1995 that studios treated his work as radioactive for a generation. At least five directors attached and detached over the years. Chris Cunningham in 2000. Vincenzo Natali in 2010. Tim Miller at Fox in 2017. Each attempt died the same death. By the time the technology existed to film Neuromancer, audiences had watched its ideas in a dozen movies that borrowed them first. The original became unfilmable because it looked like a copy of its own copies. Now the timing loops back on itself. A story about a rogue AI maneuvering to escape its corporate constraints, written before the web existed, lands in January 2027 as the least speculative thing on television. And one detail makes the whole arc perfect. When Neuromancer royalties came in, Gibson bought his first computer, an Apple IIc. Four decades later, Apple is the company putting his book on screen.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII5GpmSQZBMGxSSwYx6UO0vNfih45RAALBFWsbnVMxVzE9cb8uXAGyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/aakashgupta/status/2081225245286154631#m)
-
 ---
 
 ## 2026-07-26 12:15:37
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -401,8 +463,6 @@ RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Bui
 
 ## 2026-07-26 12:25:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Blade Runner 2026
@@ -411,17 +471,25 @@ RT by @elonmusk: Blade Runner 2026
 
 ## 2026-07-26 12:57:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also, the left has ran so far left that they now call normal things far right.
 
 ---
 
-## 2026-07-26 19:45:22
+## 2026-07-26 16:32:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+**内容**:
+
+RT by @elonmusk: Tribute to VLOP
+
+<img src="/images/elonmusk/amplify_video_thumb_2081296464894939136_img_BUuW-VfWiRHZOO1S.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2081296500324209045#m)
+
+---
+
+## 2026-07-26 19:45:22
 
 **内容**:
 
