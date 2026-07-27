@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 249 条推文
+> 📊 推文存档 - 共 251 条推文
 
 ---
 
@@ -39,9 +39,31 @@ tags: ["2026"]
 
 什麼是「如法」的鐵板神數？
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2081590111800889344_img_hSDPcB--2G0T8uaa.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2081590382203478412#m)
+## 2026-07-27 12:46:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這回指法對了嗎？
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2081601899309281280_img_ncXjoAKy9t3VCs8K.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2081602092339462342#m)
+
+---
+
+## 2026-07-27 13:13:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+散人這段話說到頭了 👍👍👍 出生地被你們佔領了 咱沒本事改變你們 不想跪著还能怎麼辦？ 只能出來被人家篩選唄！ 😮‍💨😮‍💨😮‍💨 前面來的人還給挖了這麼多坑 我們只能讓自己比及格線高點 同時不再給後面的人挖坑了唄
+
+[查看原文](https://nitter.net/dianzhuXS/status/2081608771449847995#m)
 
 ---
 
