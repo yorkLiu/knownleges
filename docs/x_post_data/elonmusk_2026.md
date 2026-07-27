@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1581 条推文
+> 📊 推文存档 - 共 1582 条推文
 
 ---
 
@@ -39,8 +39,6 @@ True
 
 RT by @elonmusk: In the last couple weeks, X has been joined by: Mark Zuckerberg Jensen Huang Denny’s Bernard Arnault Welcome to the global town square.
 
-[查看原文](https://nitter.net/nikitabier/status/2081790015995248960#m)
-
 ---
 
 ## 2026-07-28 01:46:27
@@ -50,8 +48,6 @@ RT by @elonmusk: In the last couple weeks, X has been joined by: Mark Zuckerberg
 **内容**:
 
 Extremely important point
-
-[查看原文](https://nitter.net/elonmusk/status/2081798385833570773#m)
 
 ---
 
@@ -63,10 +59,6 @@ Extremely important point
 
 This is so funny 🤣🤣
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJBGpnnpyQX21-uFHXnT3qW5dUaZq_AAKzE2sb6lBBV0EHum6cv9MAAQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081799342948524075#m)
-
 ---
 
 ## 2026-07-28 01:57:13
@@ -76,8 +68,6 @@ This is so funny 🤣🤣
 **内容**:
 
 R to @elonmusk: “Not having symptoms is one of the symptoms” 🙄 🤦‍♂️🤡
-
-[查看原文](https://nitter.net/elonmusk/status/2081801094791823522#m)
 
 ---
 
@@ -89,7 +79,19 @@ R to @elonmusk: “Not having symptoms is one of the symptoms” 🙄 🤦‍♂
 
 Actual footage 😂
 
-[查看原文](https://nitter.net/elonmusk/status/2081801843022111055#m)
+---
+
+## 2026-07-28 02:08:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJAAFqZ5AfrP06SWeN3zWHY3MKTxwVXgACXRdrG51TOVeLdUzvRV2yawEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081803897883046220#m)
 
 ---
 
