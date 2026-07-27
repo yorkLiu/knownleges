@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1573 条推文
+> 📊 推文存档 - 共 1581 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT by @elonmusk: BREAKING: President Javier Milei announced Starlink will connect 6,000 rural schools across Argentina. 🇦🇷 "Thanks to Starlink, 6,000 rural schools that until today had poor internet connection or no connectivity at all will be added. That is a huge amount. Thank you, Elon"
 
-<img src="/images/elonmusk/amplify_video_thumb_2081777001996632064_img_qXvsYQRBEprN_f8M.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2081777064152019100#m)
-
 ---
 
 ## 2026-07-28 00:42:30
@@ -33,9 +29,67 @@ RT by @elonmusk: BREAKING: President Javier Milei announced Starlink will connec
 
 True
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII_GpnkA8GUrLEJ2wSJaapTdvm93GWAAJZF2sbnVM5V_VFO3NhKNyTAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081782292591104077#m)
+## 2026-07-28 01:13:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: In the last couple weeks, X has been joined by: Mark Zuckerberg Jensen Huang Denny’s Bernard Arnault Welcome to the global town square.
+
+[查看原文](https://nitter.net/nikitabier/status/2081790015995248960#m)
+
+---
+
+## 2026-07-28 01:46:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Extremely important point
+
+[查看原文](https://nitter.net/elonmusk/status/2081798385833570773#m)
+
+---
+
+## 2026-07-28 01:50:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is so funny 🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJBGpnnpyQX21-uFHXnT3qW5dUaZq_AAKzE2sb6lBBV0EHum6cv9MAAQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081799342948524075#m)
+
+---
+
+## 2026-07-28 01:57:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: “Not having symptoms is one of the symptoms” 🙄 🤦‍♂️🤡
+
+[查看原文](https://nitter.net/elonmusk/status/2081801094791823522#m)
+
+---
+
+## 2026-07-28 02:00:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Actual footage 😂
+
+[查看原文](https://nitter.net/elonmusk/status/2081801843022111055#m)
 
 ---
 
@@ -45,12 +99,6 @@ True
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2081123733159170048_img_ltrJaBhlvsKve77E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081428541585899753#m)
-
 ---
 
 ## 2026-07-27 01:35:44
@@ -58,12 +106,6 @@ True
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2024903404238127104_img_HEK2KwV_VdkH1axo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081433297846935762#m)
 
 ---
 
@@ -73,12 +115,6 @@ True
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII8Wpm_sQoaRu3yUkrGWg5R_Vr5QvzAAKyFWsbnVM5V9j9yJlKOt8WAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JTLonsdale/status/2081434450349510886#m)
-
 ---
 
 ## 2026-07-27 02:40:44
@@ -86,12 +122,6 @@ True
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII5WpmV4-XPfwMPLVgojep49LMBALUAALXFWsbnVMxV2g4uvQbRcuAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081449658363134075#m)
 
 ---
 
@@ -101,10 +131,6 @@ True
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2081485024872796427#m)
-
 ---
 
 ## 2026-07-27 05:35:36
@@ -112,10 +138,6 @@ True
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-[查看原文](https://nitter.net/kevinnbass/status/2081493665738887290#m)
 
 ---
 
@@ -125,12 +147,6 @@ True
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII7Wpm8Cp7tWG1kNF41PUrx8fiSeYSAAKeFWsbnVM5Vy7yrqYviS3pAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2081532204283556059#m)
-
 ---
 
 ## 2026-07-27 08:43:00
@@ -138,12 +154,6 @@ True
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII8mpm_spCTdWSbEAVWdAf4WqqaVzSAAKzFWsbnVM5V2p7cAhr3JhdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2081540824677175708#m)
 
 ---
 
@@ -153,12 +163,6 @@ True
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII72pm_rYbjfQbVZGayMWrdsA2sqzgAAKwFWsbnVM5VwehsM_rkCRGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/BasilTheGreat/status/2081608857256657382#m)
-
 ---
 
 ## 2026-07-27 13:36:38
@@ -166,12 +170,6 @@ True
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2080974553740947456_img_5yDSqyq-gBCuwIx2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081614718414831810#m)
 
 ---
 
@@ -181,12 +179,6 @@ True
 
 **内容**:
 
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2081472991909564416_img_9iSNo8Zs6TVqq-uc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081616755823186385#m)
-
 ---
 
 ## 2026-07-27 14:06:27
@@ -194,12 +186,6 @@ True
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="/images/elonmusk/amplify_video_thumb_2068460925833678848_img_ezMkMxIhKRPF4wAF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081622225023611265#m)
 
 ---
 
@@ -209,12 +195,6 @@ True
 
 **内容**:
 
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII8Gpm_ruIRszdN7W-jwABp0BlMWJHDAACsRVrG51TOVfp9_noZZDlzAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2081623049665663430#m)
-
 ---
 
 ## 2026-07-27 14:16:23
@@ -223,10 +203,6 @@ True
 
 **内容**:
 
-
-
-[查看原文](https://nitter.net/elonmusk/status/2081624723432124681#m)
-
 ---
 
 ## 2026-07-27 14:26:23
@@ -234,12 +210,6 @@ True
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
-
-
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII7mpm_rKeqDMmblRTiy2BfbPYk2yLAAKvFWsbnVM5V0T5rc1ADIKpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2081627240777895998#m)
 
 ---
 
@@ -251,16 +221,6 @@ True
 
 RT by @elonmusk: J’ai été très sensible aux nombreux messages que vous m’avez adressés à la suite de ma lettre ouverte au Monde. Je tenais à vous en remercier toutes et tous, directement et personnellement, ici, sur X. Merci! Bernard Arnault
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJAAFqZ5AfrP06SWeN3zWHY3MKTxwVXgACXRdrG51TOVeLdUzvRV2yawEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII_WpnkBU7RtBmOtKGtg_47EryRiXMAAJaF2sbnVM5V6UTt4X-ihHcAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII_mpnkBpZxVZCHikRgzxW7HT8DNL5AAJbF2sbnVM5Vx7SjyVCA-fyAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII_2pnkB0XQc4nqrXz6gn5hJMFFBx9AAJcF2sbnVM5VzeCtOpDK8wSAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/BernardArnault/status/2081648588342395258#m)
-
 ---
 
 ## 2026-07-27 19:40:18
@@ -271,13 +231,33 @@ RT by @elonmusk: J’ai été très sensible aux nombreux messages que vous m’
 
 RT by @elonmusk: Worth a read. Bernard Arnault responds to the press. @X has shifted the balance of power away from the media and back to the people. Thank you @elonmusk!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII_WpnkBU7RtBmOtKGtg_47EryRiXMAAJaF2sbnVM5V6UTt4X-ihHcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII_mpnkBpZxVZCHikRgzxW7HT8DNL5AAJbF2sbnVM5Vx7SjyVCA-fyAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-27 20:28:45
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII_2pnkB0XQc4nqrXz6gn5hJMFFBx9AAJcF2sbnVM5VzeCtOpDK8wSAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/BillAckman/status/2081706238153261278#m)
+**内容**:
+
+RT by @elonmusk: Proud to join @nvidia as a founding member of the Open Secure AI Alliance. Defenders need open tools, collaboration, and transparency to secure AI agents and systems. And customers want the ability to choose the best open or closed models.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJAmpnnpQXCDpRCTaEsF31Lxa_mSrxAAKxE2sb6lBBVwzPvvBj8jiQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MichaelDell/status/2081718431393402884#m)
+
+---
+
+## 2026-07-27 21:39:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: No results, NO RECESS. Pass SAVE America NOW!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJA2pnnpiuV2aG41pueWStuPPxiNBlAAKyE2sb6lBBVzXDuOkyOEq2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SenRickScott/status/2081736246041154005#m)
 
 ---
 
@@ -289,9 +269,17 @@ RT by @elonmusk: Worth a read. Bernard Arnault responds to the press. @X has shi
 
 Fauci smelled it and he also dealt it
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJAWpnkCNmEcHgJ_DT2lKXFBmqO0PLAAJeF2sbnVM5V9n7fD1sAAE0YQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081765886617067831#m)
+## 2026-07-27 23:42:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Glad to join this important alliance to advance AI security across the frontier ecosystem
+
+[查看原文](https://nitter.net/satyanadella/status/2081767219957277083#m)
 
 ---
 
