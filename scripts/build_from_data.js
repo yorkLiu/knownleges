@@ -175,7 +175,7 @@ tags: []
         
         output += `## ${timeDisplay}  {#${anchorId}}\n\n`;
         output += `🏷️ ${post.tags.join(' ')}\n\n`;
-        output += `**内容**:\n\n${post.content}\n\n`;
+        output += `${post.content}\n\n`;
         
         // 添加图片
         if (post.images && post.images.length > 0) {
@@ -318,7 +318,7 @@ function main() {
             
             output += `## ${timeDisplay}  {#${anchorId}}\n\n`;
             output += `🏷️ **[${post.dateTag}](./tags/${post.dateTag}.html)** ${post.tags.join(' ')}\n\n`;
-            output += `**内容**:\n\n${post.content}\n\n`;
+            output += `${post.content}\n\n`;
             
             // 添加图片
             if (post.images && post.images.length > 0) {
@@ -368,7 +368,7 @@ function main() {
                 userTweets.forEach(t => {
                     const timeDisplay = t.time.replace(' GMT+08:00', '');
                     tagPage += `### ${timeDisplay}\n\n`;
-                    tagPage += `**内容**:\n\n${t.content}\n\n`;
+                    tagPage += `${t.content}\n\n`;
                     
                     if (t.images && t.images.length > 0) {
                         t.images.forEach((img, i) => {
