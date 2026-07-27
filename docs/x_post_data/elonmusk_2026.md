@@ -15,7 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Video
 
@@ -25,7 +24,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Jensen is awesome
 
@@ -35,7 +33,6 @@ Jensen is awesome
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @elonmusk: Turns out I was throttled in 2020 for opinions AGREEING with the bias of 10/12 scientists; Fauci and his ilk believe in different rules for the elites versus the rest of us. This SHOULD open the eyes of many who were “shocked” that I and @elonmusk et al “rudely” attacked Fauci.
 
@@ -49,7 +46,6 @@ RT by @elonmusk: Turns out I was throttled in 2020 for opinions AGREEING with th
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Grok Build /deep-research
 
@@ -59,7 +55,6 @@ Grok Build /deep-research
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Grok 4.5 is a solid workhorse
 
@@ -69,7 +64,6 @@ Grok 4.5 is a solid workhorse
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @elonmusk: Hating any group besides straight white men is racism, sexism, homophobia, transphobia, etc. But hating straight white men? Well, that's social justice, obviously.
 
@@ -81,7 +75,6 @@ RT by @elonmusk: Hating any group besides straight white men is racism, sexism, 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @elonmusk: A newspaper clipping from 2003, when Elon Musk risked everything to make humanity multiplanetary.
 
@@ -91,7 +84,6 @@ RT by @elonmusk: A newspaper clipping from 2003, when Elon Musk risked everythin
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @elonmusk: Grok Build with Grok 4.5 stands far ahead on the efficiency frontier....completely alone inside the chart’s most attractive quadrant It delivers top-tier coding-agent performance while using only around 3.5 million tokens per task, the lowest token usage anywhere near this level of performance Most competing agents in the same performance range consume roughly 7 million to 18 million tokens per task That means some are burning up to around 5× more tokens to achieve comparable scores That is the real advantage of Grok Build: • Powerful • Extremely fast • Highly token-efficient • Better use of your limits • Capable of completing serious work without burning through enormous amounts of usage Grok Build is dominating the efficiency frontier More intelligence per token. More work from your limits More building
 
@@ -105,7 +97,6 @@ RT by @elonmusk: Grok Build with Grok 4.5 stands far ahead on the efficiency fro
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @elonmusk: 🚨BREAKING: Germany's Anti-Immigration party the AfD have topped a poll in liberal/left leaning BERLIN for the FIRST TIME EVER This is unprecedented Remigration is inevitable
 
@@ -119,7 +110,6 @@ RT by @elonmusk: 🚨BREAKING: Germany's Anti-Immigration party the AfD have top
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Video
 
@@ -133,7 +123,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Grok Imagine
 
@@ -147,7 +136,6 @@ Grok Imagine
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Video
 
@@ -161,7 +149,6 @@ Video
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @elonmusk: These two photos were taken 22 years apart.
 
@@ -175,7 +162,6 @@ RT by @elonmusk: These two photos were taken 22 years apart.
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 I don’t pay the protection money to the media
 
@@ -187,7 +173,6 @@ I don’t pay the protection money to the media
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 I will not forget about Mars
 
@@ -199,7 +184,6 @@ I will not forget about Mars
 
 ## 2026-07-26 02:47:17
 
-**内容**:
 
 RT by @elonmusk: Liftoff of Starship on its thirteenth flight test
 
@@ -207,7 +191,6 @@ RT by @elonmusk: Liftoff of Starship on its thirteenth flight test
 
 ## 2026-07-26 03:19:11
 
-**内容**:
 
 Video
 
@@ -215,7 +198,6 @@ Video
 
 ## 2026-07-26 03:22:11
 
-**内容**:
 
 Real photo of Starship taken by Starlink satellites
 
@@ -223,7 +205,6 @@ Real photo of Starship taken by Starlink satellites
 
 ## 2026-07-26 03:26:19
 
-**内容**:
 
 beautiful engineering
 
@@ -231,7 +212,6 @@ beautiful engineering
 
 ## 2026-07-26 04:37:55
 
-**内容**:
 
 The most powerful moving object ever created by humans
 
@@ -239,7 +219,6 @@ The most powerful moving object ever created by humans
 
 ## 2026-07-26 05:49:25
 
-**内容**:
 
 🔥💯
 
@@ -247,7 +226,6 @@ The most powerful moving object ever created by humans
 
 ## 2026-07-26 05:50:32
 
-**内容**:
 
 Cool
 
@@ -255,7 +233,6 @@ Cool
 
 ## 2026-07-26 05:55:40
 
-**内容**:
 
 Video
 
@@ -263,7 +240,6 @@ Video
 
 ## 2026-07-26 06:18:05
 
-**内容**:
 
 RT by @elonmusk: Peter is not correct about me in this case. I have always known that dangers from Earth will also pose dangers to Mars. Obviously so. However, the immense difficulty of traveling to Mars means that there is a much higher likelihood of mitigating risks originating from Earth. A clear example of major risk reduction would be a deadly pandemic. Since it takes 6 months to reach Mars, there is an automatic 6 month quarantine! Even traveling at the speed of light, a deadly computer virus or AI attack can potentially be stopped due to Mars being ~4 to ~20 light-minutes from Earth. This doesn’t mean that a Mars civilization eliminates all risk, but it absolutely greatly reduces the risk of consciousness being extinguished. Moreover, Mars is a stepping stone to extending consciousness broadly within our solar system and ultimately to millions of stars within our galaxy, which would extend the probable lifespan of consciousness as we know it by many orders of magnitude. That said, what I personally find most motivating is not the risk reduction aspect of extending life beyond Earth, but rather the inspiring nature of exploration and being out there among the stars! Perhaps we will meet aliens or find the remains of long-dead civilizations that lasted millions of years …
 
@@ -271,7 +247,6 @@ RT by @elonmusk: Peter is not correct about me in this case. I have always known
 
 ## 2026-07-26 06:24:32
 
-**内容**:
 
 Asimov’s Foundation series was a major influence on me. That and the fall of Rome, from which Foundation takes inspiration, is what convinced me that we need to extend consciousness beyond Earth to avoid a potentially infinite dark age.
 
@@ -279,7 +254,6 @@ Asimov’s Foundation series was a major influence on me. That and the fall of R
 
 ## 2026-07-26 06:34:01
 
-**内容**:
 
 RT by @elonmusk: ELON MUSK: “One of the things that is overlooked by probably most historians is the role of low birth rate in the decline of civilizations. Around 50 BC, Rome passed a bill to give a bonus to any Roman citizen that would have a third child. So a birth rate was a problem in Rome in 50 BC. The Romans weren’t making Romans. The same is true of ancient Greece. The birth rate far exceeded the death rate, which is why you had Greek cities popping up all over the Mediterranean. But then it seems to be that prosperity destroys the birth rate. When a civilization feels like it has no meaningful external threat and is very prosperous, that is what causes the birth rate to plummet.”
 
@@ -287,7 +261,6 @@ RT by @elonmusk: ELON MUSK: “One of the things that is overlooked by probably 
 
 ## 2026-07-26 06:37:39
 
-**内容**:
 
 Exactly. Incentives explain outcomes.
 
@@ -295,7 +268,6 @@ Exactly. Incentives explain outcomes.
 
 ## 2026-07-26 06:50:40
 
-**内容**:
 
 True
 
@@ -303,7 +275,6 @@ True
 
 ## 2026-07-26 06:54:12
 
-**内容**:
 
 Good analysis
 
@@ -311,7 +282,6 @@ Good analysis
 
 ## 2026-07-26 06:58:50
 
-**内容**:
 
 They are invading just as surely as a conventional army would, but slow enough to avoid triggering an armed defense by Britain
 
@@ -319,7 +289,6 @@ They are invading just as surely as a conventional army would, but slow enough t
 
 ## 2026-07-26 07:06:02
 
-**内容**:
 
 Any civilization that loses faith in the future will die. Exploring the stars is an exciting future that you can believe in.
 
@@ -327,7 +296,6 @@ Any civilization that loses faith in the future will die. Exploring the stars is
 
 ## 2026-07-26 07:25:54
 
-**内容**:
 
 Yesterday’s Starship launch
 
@@ -335,7 +303,6 @@ Yesterday’s Starship launch
 
 ## 2026-07-26 07:35:42
 
-**内容**:
 
 A low birth rate due to extended periods of prosperity and low perceived external danger is the primary reason that Rome and most other powerful civilizations collapsed. Rome had a very high birth rate when under extreme pressure from Carthage and a low birth rate a few generations after Carthage, their last serious threat, was finally destroyed.
 
@@ -343,7 +310,6 @@ A low birth rate due to extended periods of prosperity and low perceived externa
 
 ## 2026-07-26 07:38:24
 
-**内容**:
 
 RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilization grows wealthy This is disastrous and has ended great civilizations We are not immune from this fate
 
@@ -351,7 +317,6 @@ RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilizat
 
 ## 2026-07-26 07:59:55
 
-**内容**:
 
 Hardcore
 
@@ -359,7 +324,6 @@ Hardcore
 
 ## 2026-07-26 08:06:25
 
-**内容**:
 
 Yup
 
@@ -367,7 +331,6 @@ Yup
 
 ## 2026-07-26 08:09:16
 
-**内容**:
 
 Video
 
@@ -375,7 +338,6 @@ Video
 
 ## 2026-07-26 08:25:41
 
-**内容**:
 
 Download Grok Build and type /tutorial http://X.ai/cli
 
@@ -383,7 +345,6 @@ Download Grok Build and type /tutorial http://X.ai/cli
 
 ## 2026-07-26 08:44:38
 
-**内容**:
 
 RT by @elonmusk: Another trans person has been arrested over the m—rder of his parent. 36-year-old Safford James Wolfson, who identifies as female, was arrested on suspicion of the m—rder of Angela Caprioli. The 61-year-old woman was found dead at her home in Laguna Beach on July 20. The suspect formerly worked at Spin magazine, according to his Linkedin. He attended the private liberal arts college Pitzer College. Multiple trans people have been arrested over the m—rders of their parents in just the last couple of years. In extreme trans ideology, parricide — killing one's own mother or father — is often a recurring theme. In my research of the Zizian trans death cult, I found that its members believed strongly in m—rdering "transphobic" parents. They believed that's how they would get justice. More info about my book: https://www.hachettebookgroup.com/titles/andy-ngo/the-zizians/9780316599030/
 
@@ -391,7 +352,6 @@ RT by @elonmusk: Another trans person has been arrested over the m—rder of his
 
 ## 2026-07-26 10:18:53
 
-**内容**:
 
 You can just talk to Grok Build
 
@@ -399,7 +359,6 @@ You can just talk to Grok Build
 
 ## 2026-07-26 10:26:15
 
-**内容**:
 
 Great video of Starship launching
 
@@ -407,7 +366,6 @@ Great video of Starship launching
 
 ## 2026-07-26 10:49:42
 
-**内容**:
 
 It’s time.
 
@@ -415,7 +373,6 @@ It’s time.
 
 ## 2026-07-26 11:16:22
 
-**内容**:
 
 Video
 
@@ -423,7 +380,6 @@ Video
 
 ## 2026-07-26 11:18:00
 
-**内容**:
 
 /dream
 
@@ -431,7 +387,6 @@ Video
 
 ## 2026-07-26 11:21:43
 
-**内容**:
 
 Video
 
@@ -439,7 +394,6 @@ Video
 
 ## 2026-07-26 11:25:03
 
-**内容**:
 
 Grok Imagine
 
@@ -447,7 +401,6 @@ Grok Imagine
 
 ## 2026-07-26 11:49:00
 
-**内容**:
 
 RT by @elonmusk: The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen. William Gibson typed Neuromancer on a 1927 Hermes portable. He coined "cyberspace" before he'd ever logged onto anything. The book swept the Hugo, the Nebula, and the Philip K. Dick award in the same year, the only novel ever to take all three. Then Hollywood spent four decades strip-mining it while calling it unfilmable. The Wachowskis lifted the matrix, the jacked-in hackers, the AI pulling strings behind a corporate veil. Every razor-girl assassin in sci-fi traces back to Molly. Johnny Mnemonic, an actual Gibson adaptation, flopped so hard in 1995 that studios treated his work as radioactive for a generation. At least five directors attached and detached over the years. Chris Cunningham in 2000. Vincenzo Natali in 2010. Tim Miller at Fox in 2017. Each attempt died the same death. By the time the technology existed to film Neuromancer, audiences had watched its ideas in a dozen movies that borrowed them first. The original became unfilmable because it looked like a copy of its own copies. Now the timing loops back on itself. A story about a rogue AI maneuvering to escape its corporate constraints, written before the web existed, lands in January 2027 as the least speculative thing on television. And one detail makes the whole arc perfect. When Neuromancer royalties came in, Gibson bought his first computer, an Apple IIc. Four decades later, Apple is the company putting his book on screen.
 
@@ -455,7 +408,6 @@ RT by @elonmusk: The Matrix took its name from a 1984 novel written on a manual 
 
 ## 2026-07-26 12:15:37
 
-**内容**:
 
 RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Build. They keep brain-dumping their ideas. Combining it with /dream, /recap and /create-workflow after a long session makes it very powerful. You don’t need to remember those slash commands (I don’t either); just talk through it.
 
@@ -463,7 +415,6 @@ RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Bui
 
 ## 2026-07-26 12:25:52
 
-**内容**:
 
 RT by @elonmusk: Blade Runner 2026
 
@@ -471,7 +422,6 @@ RT by @elonmusk: Blade Runner 2026
 
 ## 2026-07-26 12:57:15
 
-**内容**:
 
 RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also, the left has ran so far left that they now call normal things far right.
 
@@ -479,7 +429,6 @@ RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also
 
 ## 2026-07-26 16:32:08
 
-**内容**:
 
 RT by @elonmusk: Tribute to VLOP
 
@@ -491,7 +440,6 @@ RT by @elonmusk: Tribute to VLOP
 
 ## 2026-07-26 19:45:22
 
-**内容**:
 
 RT by @elonmusk: It’s unreal. We are committing Civilizational Seppuku.
 
@@ -501,7 +449,6 @@ RT by @elonmusk: It’s unreal. We are committing Civilizational Seppuku.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs both frontier closed models and frontier open models.
 
@@ -511,7 +458,6 @@ RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs bot
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 𝕏 is the global town square
 
@@ -521,7 +467,6 @@ RT by @elonmusk: Welcome @jensenhuang 💚 The future of AI leadership needs bot
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Let me just reiterate what’s happening in Piddington. They want to put 1250 illegal migrants next to a village of just 350 people. Outnumbered. They are free to roam, come and go as they please. They are also ALL men. No women or children. No consultation. Disgrace.
 
@@ -531,7 +476,6 @@ RT by @elonmusk: Let me just reiterate what’s happening in Piddington. They wa
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Zany interview with Zanny
 
@@ -541,7 +485,6 @@ Zany interview with Zanny
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 That’s what he said
 
@@ -551,7 +494,6 @@ That’s what he said
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yup 😑
 
@@ -561,7 +503,6 @@ Yup 😑
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Tesla Diner turns 1 🎂
 
@@ -571,7 +512,6 @@ RT by @elonmusk: Tesla Diner turns 1 🎂
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Madness
 
@@ -581,7 +521,6 @@ Madness
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence per $ will be the only metric that matters over time. K3 probably joins the frontier once available on the inference clouds.
 
@@ -591,7 +530,6 @@ RT by @elonmusk: New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5. Intelligence
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: If it wasn't for @elonmusk we wouldn't be able to have open, public discussions in the Town Square Elon has transformed the relationship between the Public, politicians & the Media - they don’t like it - we LOVE it!
 
@@ -601,7 +539,6 @@ RT by @elonmusk: If it wasn't for @elonmusk we wouldn't be able to have open, pu
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must itself be distributed. Agree with Jensen that this is a future worth building.
 
@@ -611,7 +548,6 @@ RT by @elonmusk: The knowledge that makes AI useful is diffused. It lives with s
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The Senate can get it done if we GET TO WORK and put in the hours. No recess if we don’t PASS the SAVE AMERICA ACT!!
 
@@ -621,7 +557,6 @@ RT by @elonmusk: The Senate can get it done if we GET TO WORK and put in the hou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Next month, every line of code touching the 𝕏 system will be open source and third-party audited. Only total transparency deserves trust.
 
@@ -631,7 +566,6 @@ Next month, every line of code touching the 𝕏 system will be open source and 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Satya is right
 
@@ -641,7 +575,6 @@ Satya is right
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 (Former) Trillionaire
 
@@ -651,7 +584,6 @@ Satya is right
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Extinctionists should be reviled for being the genocidal lunatics they are
 
@@ -661,7 +593,6 @@ RT by @elonmusk: Extinctionists should be reviled for being the genocidal lunati
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok 4.5 and Opus 5 are alone on Pareto frontier
 
@@ -671,7 +602,6 @@ Grok 4.5 and Opus 5 are alone on Pareto frontier
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 R to @elonmusk: Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks
 
@@ -681,7 +611,6 @@ R to @elonmusk: Grok 4.6 in 2 weeks and Grok 4.7 in 4 weeks
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Grok is now available directly inside Google Workspace One add-on brings Grok into Google Sheets, Slides and Docs, where it works beside the file you already have open In Sheets, Grok can: • Read selected ranges and explain the data • Cite the exact cells behind its answers • Write and fill real spreadsheet formulas • Update values and rebuild financial scenarios In Slides, it can: • Generate a complete presentation from an outline • Add new slides that match the existing theme • Restructure entire sections • Rewrite titles so every slide communicates a clear takeaway In Docs, it can: • Draft directly inside the document • Turn rough notes into formatted sections • Correct grammar and rewrite content • Apply consistent headings and styles across the file Everything happens through a side panel, without constantly copying information between tabs or rebuilding the output manually One installation works across all three apps, and organizations can deploy it across their entire workforce Grok is rapidly becoming a native intelligence layer for the tools people already use every day
 
@@ -691,7 +620,6 @@ RT by @elonmusk: Grok is now available directly inside Google Workspace One add-
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: HUGE GROK PERFORMANCE 🚨 Built a full Unity space combat game with Grok Build + Grok 4.5 all in C#. CLI agents. MCP into the editor. Batchmode builds. I didn’t know Unity. I wrote zero code. Full walkthrough 👇 Audio on. I break down the build 🔊
 
@@ -701,7 +629,6 @@ RT by @elonmusk: HUGE GROK PERFORMANCE 🚨 Built a full Unity space combat game
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Driving the chair with my mind was such an exhilarating feeling. The most hope I have felt since my ALS diagnosis. I am honored to be developing this technology that will change the world and improve the lives of millions of people.
 
@@ -711,7 +638,6 @@ RT by @elonmusk: Driving the chair with my mind was such an exhilarating feeling
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Anonymous OpenAI staffer: "Externally, this feels like a big warning shot, but internally, related incidents have been happening for a while."
 
@@ -721,7 +647,6 @@ RT by @elonmusk: Anonymous OpenAI staffer: "Externally, this feels like a big wa
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Twenty states would rather fight the Justice Department at the Supreme Court than let anyone see their voter rolls. This is all the more reason to pass the SAVE America Act!
 
@@ -731,7 +656,6 @@ RT by @elonmusk: Twenty states would rather fight the Justice Department at the 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Just as Tesla made the original Roadster design & software open source, we plan to do the same with Model S & X
 
@@ -741,7 +665,6 @@ Just as Tesla made the original Roadster design & software open source, we plan 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Overwhelming support for open source
 
@@ -751,7 +674,6 @@ Overwhelming support for open source
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok 4.5 is excellent for real-world work
 
@@ -761,7 +683,6 @@ Grok 4.5 is excellent for real-world work
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Our view of Starbase from space!  Here's to a successful launch.  Send it!
 
@@ -771,7 +692,6 @@ RT by @elonmusk: Our view of Starbase from space!  Here's to a successful launc
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Wow
 
@@ -781,7 +701,6 @@ Wow
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Pinned: Flight 13 of Starship launch attempt in 10 minutes!
 
@@ -791,7 +710,6 @@ Pinned: Flight 13 of Starship launch attempt in 10 minutes!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Starship’s Raptor engines ignite during hot-staging separation. Super Heavy is boosting back towards its splashdown site in the Gulf of America
 
@@ -801,7 +719,6 @@ RT by @elonmusk: Starship’s Raptor engines ignite during hot-staging separatio
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Tesla Diner live-streaming Starship Test Flight 13 on their large screens! @SpaceX @tesla_na
 
@@ -811,7 +728,6 @@ RT by @elonmusk: Tesla Diner live-streaming Starship Test Flight 13 on their lar
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Live views brought to you by @Starlink
 
@@ -821,7 +737,6 @@ RT by @elonmusk: Live views brought to you by @Starlink
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Pretty clear from this shot that @SpaceX knows where we are going! Congrats on getting Flight 13 underway. Excited for what will be learned from this mission. When Starship comes online, its capabilities will be game-changing, not least of which will be ensuring we never give up the Moon again!
 
@@ -831,7 +746,6 @@ RT by @elonmusk: Pretty clear from this shot that @SpaceX knows where we are goi
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Starlink V3 satellites deployed to test how they operate in space
 
@@ -841,7 +755,6 @@ Starlink V3 satellites deployed to test how they operate in space
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Possibly the most beautiful thing I have ever seen. SpaceX and Starlink are opening our eyes to the universe.
 
@@ -851,7 +764,6 @@ RT by @elonmusk: Possibly the most beautiful thing I have ever seen. SpaceX and 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Unreal! Starship didn't blow up on upon landing in the ocean! It's still floating in the ocean and Starlink is still giving us live views haha
 
@@ -861,7 +773,6 @@ RT by @elonmusk: Unreal! Starship didn't blow up on upon landing in the ocean! I
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Starship is intact, floating in the ocean and transmitting telemetry!
 
@@ -871,7 +782,6 @@ Starship is intact, floating in the ocean and transmitting telemetry!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Video
 
@@ -881,7 +791,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Could somebody show this to Lenny Henry
 
@@ -891,7 +800,6 @@ RT by @elonmusk: Could somebody show this to Lenny Henry
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: STUNNING New SpaceX Starship Rocket Launch (Starship 13 w/ Starlink v3) This is an edit of the entire launch. It removes all dead space and highlights all the best parts. Enjoy!
 
@@ -901,7 +809,6 @@ RT by @elonmusk: STUNNING New SpaceX Starship Rocket Launch (Starship 13 w/ Star
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Latest heat shield design looks great!
 
@@ -911,7 +818,6 @@ Latest heat shield design looks great!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Time-lapse of today’s Starship flight, from liftoff to splashdown, in just 150 seconds. 🚀
 
@@ -921,7 +827,6 @@ RT by @elonmusk: Time-lapse of today’s Starship flight, from liftoff to splash
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Fury. My highest-resolution image yet taken of Super Heavy's 33 Raptor 3 engines singing in unison during today's flight test of Booster 20 and Ship 40 from Pad 2 in Starbase, Texas. 📸 - @NASASpaceflight Prints (this will be up soon): https://shop.nasaspaceflight.com/collections/metal-prints-posters
 
@@ -931,7 +836,6 @@ RT by @elonmusk: Fury. My highest-resolution image yet taken of Super Heavy's 33
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The most incredible 60 seconds from today’s Starship flight.
 
@@ -941,7 +845,6 @@ RT by @elonmusk: The most incredible 60 seconds from today’s Starship flight.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Episodes of the Starship documentary are posted to http://SpaceX.com for those who’d like to understand more about how it all works
 
@@ -951,7 +854,6 @@ Episodes of the Starship documentary are posted to http://SpaceX.com for those w
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok Build update http://X.ai/cli
 
@@ -961,7 +863,6 @@ Grok Build update http://X.ai/cli
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yikes
 
@@ -971,7 +872,6 @@ Yikes
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Starship as seen from Starlink satellites
 
@@ -981,7 +881,6 @@ Starship as seen from Starlink satellites
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Video
 
@@ -991,7 +890,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: All 13 Starship Launches Flight 1: Apr 20, 2023 Flight 2: Nov 18, 2023 Flight 3: Mar 14, 2024 Flight 4: Jun 6, 2024 Flight 5: Oct 13, 2024 Flight 6: Nov 19, 2024 Flight 7: Jan 16, 2025 Flight 8: Mar 6, 2025 Flight 9: May 27, 2025 Flight 10: Aug 26, 2025 Flight 11: Oct 13, 2025 Flight 12: May 22, 2026 Flight 13: Jul 24, 2026
 
@@ -1001,7 +899,6 @@ RT by @elonmusk: All 13 Starship Launches Flight 1: Apr 20, 2023 Flight 2: Nov 1
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Try Grok Build /tutorial http://X.ai/cli
 
@@ -1011,7 +908,6 @@ Try Grok Build /tutorial http://X.ai/cli
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Grok tutorial is huge. Many people don't know where to begin. If we want to democratize coding, we have to show people how to start.
 
@@ -1021,7 +917,6 @@ RT by @elonmusk: Grok tutorial is huge. Many people don't know where to begin. I
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yup
 
@@ -1031,7 +926,6 @@ Yup
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 😂
 
@@ -1041,7 +935,6 @@ Yup
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 A quarter century of work by an incredible team @SpaceX
 
@@ -1051,7 +944,6 @@ A quarter century of work by an incredible team @SpaceX
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 If you’re interested in learning why I switched Starship from carbon fiber to stainless steel
 
@@ -1061,7 +953,6 @@ If you’re interested in learning why I switched Starship from carbon fiber to 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 What has happened to towns who did nothing to deserve it, like little Piddington village, will happen to all of Britain, unless there is fundamental political change. It’s not right. Not right at all.
 
@@ -1071,7 +962,6 @@ What has happened to towns who did nothing to deserve it, like little Piddington
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Elon Musk on early days of SpaceX: "When I started SpaceX, one of my friends got a compilation of rocket failures & made me watch the whole thing. I knew the probability of SpaceX failing was high"
 
@@ -1081,7 +971,6 @@ RT by @elonmusk: Elon Musk on early days of SpaceX: "When I started SpaceX, one 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Grok Build Web UI is live. I built a local-first dashboard for Grok sessions. Open a fresh Grok CLI and it shows up live, then inspect activity, Git changes, session history, and control agents from one place. npx --yes grok-ui https://github.com/joeynyc/Grok-UI
 
@@ -1095,7 +984,6 @@ RT by @elonmusk: Grok Build Web UI is live. I built a local-first dashboard for 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: It’s almost like deporting illegal migrants and securing your borders isn’t “far-right”. Who’d have thought it?
 
@@ -1105,7 +993,6 @@ RT by @elonmusk: It’s almost like deporting illegal migrants and securing your
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Geoffrey Hinton says a big language model runs on about 1% of your brain's connections and still ends up knowing more than you: "So in your brain, you have a hundred trillion connections, roughly speaking. Okay. That's a lot. And you only live for about two billion seconds. That's not much." "If you compare how many seconds you live for, with how many connections you've got, you have a whole lot more connections than experiences." "Now with these neural nets, it's sort of the other way round. They only have of the order of a trillion connections. So like 1% of your connections, even in a big language model, many of them fewer, but they get thousands of times more experience than you." "So the big language models are solving the problem with not many connections, only a trillion. How do I make use of a huge amount of experience?" "And back propagation is really, really good at packing huge amounts of knowledge into not many connections." "But that's not the problem we're solving. We've got huge numbers of connections, not much experience. We need to sort of extract the most we can from each experience." Two to three billion seconds is the whole budget. Everything you know, you learned inside it. So evolution built you to squeeze a lot out of very little. Hinton's point is that a language model has the opposite problem and the opposite fix, and backprop turned out to be extremely good at that fix. Worth noticing what this predicts about failure. A system running on 1% of your wiring and thousands of times your experience is not going to fail the way you do. You fail from having seen too few examples. It fails from compressing too many into too little, and the compression is where the errors get made. That is a strange thing to be deploying into hospitals and courts with no way to inspect it. We test these systems by asking them questions, which tells you what came out. Nobody can yet look at a trillion connections and say what got packed in. - Geoffrey Hinton, Nobel laureate and Turing Award winner, on StarTalk (@StarTalkRadio) with Neil deGrasse Tyson.
 
@@ -1115,7 +1002,6 @@ RT by @elonmusk: Geoffrey Hinton says a big language model runs on about 1% of y
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Unlimited tolerance is how open societies commit suicide. Elon Musk just warned that societies holding incompatible values eventually hit a reckoning. Karl Popper made the exact same point in 1945 while watching fascists and communists use open societies’ own tolerance against them. Popper wrote that unlimited tolerance must lead to the disappearance of tolerance. If a society keeps extending tolerance to people who openly want to destroy it and refuses to defend itself, the intolerant win and tolerance dies with them. He never demanded censorship first. Argue with intolerant ideas. Suppress them only when they stop arguing and start using force. 80 years later Musk is asking the same question: how much can a tolerant society tolerate before it stops being one?
 
@@ -1125,7 +1011,6 @@ RT by @elonmusk: Unlimited tolerance is how open societies commit suicide. Elon 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1vKpPPAeQvoKE
 
@@ -1135,7 +1020,6 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: I’ve arrived in Manchester. I’m out tomorrow with Restore Britain and their candidate Marlon West. Be great to see you all! @RestoreBritain
 
@@ -1145,7 +1029,6 @@ RT by @elonmusk: I’ve arrived in Manchester. I’m out tomorrow with Restore B
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: CAISI’s latest report shows that Kimi K3 remains behind America’s leading frontier AI models. The United States continues to lead in frontier AI because we’re home to the greatest innovators and technologists the world has ever seen.
 
@@ -1155,7 +1038,6 @@ RT by @elonmusk: CAISI’s latest report shows that Kimi K3 remains behind Ameri
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Elon Musk in new interview: "One of the reasons I took @SpaceX public is so that the public could participate, so they could own a piece of SpaceX, whereas as a private company we're very limited in the number of shareholders we're allowed to have before going public; As a private company we're limited to just a few thousand shareholders." via @TheEconomist: https://www.economist.com/insider/the-insider/an-interview-with-elon-musk
 
@@ -1165,7 +1047,6 @@ RT by @elonmusk: Elon Musk in new interview: "One of the reasons I took @SpaceX 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Banger 😂
 
@@ -1175,7 +1056,6 @@ Banger 😂
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yeah
 
@@ -1185,7 +1065,6 @@ Yeah
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 True
 
@@ -1195,7 +1074,6 @@ True
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok 4.5 now on all platforms
 
@@ -1205,7 +1083,6 @@ Grok 4.5 now on all platforms
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 This happens a lot
 
@@ -1215,7 +1092,6 @@ This happens a lot
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yes
 
@@ -1225,7 +1101,6 @@ Yes
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: I listened to 85 minutes of The Economist’s interview of Elon so you don’t have to. Besides, it’s behind a paywall. Elon’s predictions: In five years, AI compute will exceed the sum of all human intelligence. In ten years, we will have reached the age of abundance. Money won’t matter. Everyone will have what they need or want (at least in economies that embrace AI). Ms. Beddoes tried to pin Elon down on how the economy will transform that way, but he wouldn’t get into specifics beyond noting that widespread AI robotics is a deflationary force. This means governments won’t need to raise taxes for universal basic income schemes, or, as Elon likes to call it, universal high income, since they will simply be able to print money to ward off deflation caused by the robot economy. She noted that Elon appears to have a more sanguine view of AI lately. He replied that he’s concluded superintelligent AI is now inevitable, so there’s no point trying to stop or slow it down, it can’t be done. We might as well enjoy the ride. The interviewer also noted that Mars no longer seems to be Elon’s overall ambition. He answered that his real mission was always to propagate and preserve human consciousness into the far future. Mars was just a vehicle for that. But now AI is a very important part of that goal. AI will necessarily be part of any future plan. And then came the oh-so-typical, increasingly tiresome part of most long journalist interviews: the interviewer constructs a straw-man version of Elon and argues against it. Elon carefully explained that he isn’t a raging far-right extremist, racist Nazi who kills puppies … and the journalist still didn't believe it. It is so effing tiresome. The lack of self-awareness on the part of journalists is off the charts. She complained about Elon’s supposed misperception of how dangerous London is, while remaining oblivious to the role she plays in creating the giant misperception of Elon as a person in her own writing. Elon defended his political views, saying he is for secure borders, locking up criminals, and balanced government spending, something even she had to admit didn’t sound crazy. And… that’s about it for an 85-minute interview. I couldn’t help but think that the next long-form interview Elon does should be conducted by an AI.
 
@@ -1235,7 +1110,6 @@ RT by @elonmusk: I listened to 85 minutes of The Economist’s interview of Elon
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Truth is stranger than fiction
 
@@ -1245,7 +1119,6 @@ Truth is stranger than fiction
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Amazing clip of Elon Musk shutting down a journalist who uses the term 'Far-Right' "If you go back 10 or 15 years these were completely normal policies" Secure borders Safe cities Sensible spending "These are not far right, these are normal people"
 
@@ -1255,7 +1128,6 @@ RT by @elonmusk: Amazing clip of Elon Musk shutting down a journalist who uses t
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok 4.5 making progress
 
@@ -1265,7 +1137,6 @@ Grok 4.5 making progress
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Just common sense!
 
@@ -1275,7 +1146,6 @@ Just common sense!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: It's not "far-right" to protect the borders. It's normal. It's not "far-right" to reject the woke agenda. It's normal. It's not "far-right" to embrace your heritage. It's normal.
 
@@ -1285,7 +1155,6 @@ RT by @elonmusk: It's not "far-right" to protect the borders. It's normal. It's 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: JUST IN: Grok 4.5 overtakes GPT-5.6 Sol & Fable 5 in OpenRouter token volume, cracking the top 10 closed models.
 
@@ -1297,7 +1166,6 @@ RT by @elonmusk: JUST IN: Grok 4.5 overtakes GPT-5.6 Sol & Fable 5 in OpenRouter
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: We love you. We hate her. Thank you for sitting down with someone like her to remind people like us what we are fighting. The woke is so baked in, she doesn’t even know it’s happening. Her smug face says it all.
 
@@ -1307,7 +1175,6 @@ RT by @elonmusk: We love you. We hate her. Thank you for sitting down with someo
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Elon is an absolute legend
 
@@ -1317,7 +1184,6 @@ RT by @elonmusk: Elon is an absolute legend
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Try the Tavily plugin for LLM-driven search inside Grok Build
 
@@ -1327,7 +1193,6 @@ RT by @elonmusk: Try the Tavily plugin for LLM-driven search inside Grok Build
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Yep. Nothing but love for @elonmusk!
 
@@ -1337,7 +1202,6 @@ RT by @elonmusk: Yep. Nothing but love for @elonmusk!
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Je suis Français. Et je préfère 100 fois Elon Musk et je lui fais 100 fois plus confiance que à nos politiciens corrompus jusqu’à la moelle pour défendre les démocraties en Europe. Elon est un Occidental. Nous allons bientôt ré-unifier l’Occident et chasser les idées globalo-communistes. Et avoir une vraie renaissance. Vive cette PLS intergalactique.
 
@@ -1347,7 +1211,6 @@ RT by @elonmusk: Je suis Français. Et je préfère 100 fois Elon Musk et je lui
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 The public does not trust the legacy mainstream media for good reason
 
@@ -1357,7 +1220,6 @@ The public does not trust the legacy mainstream media for good reason
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yup
 
@@ -1367,7 +1229,6 @@ Yup
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Elon Musk slams “Soros DAs” for releasing repeat violent offenders in America. 💯 “Where there is danger in this country is because we fail to incarcerate repeat violent offenders. You have the classic sort of Soros DAs or judges who fail to incarcerate repeat violent offenders. If somebody gets arrested 50 times, literally for violent crimes, eventually they’re going to kill somebody. So you either incarcerate them, or people will die.”
 
@@ -1377,7 +1238,6 @@ RT by @elonmusk: Elon Musk slams “Soros DAs” for releasing repeat violent of
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yes
 
@@ -1387,7 +1247,6 @@ Yes
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Across the country, our government has identified hundreds of thousands of ineligible voters—so far. With at least hundreds of non-citizens voting there, New Jersey is no exception! The @CivilRights Division @TheJusticeDept is investigating.
 
@@ -1397,7 +1256,6 @@ RT by @elonmusk: Across the country, our government has identified hundreds of t
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok 4.5 is the best value for money AI
 
@@ -1407,7 +1265,6 @@ Grok 4.5 is the best value for money AI
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: ELON MUSK: “I’m in favor of immigration. I’d be hypocritical if I wasn’t since I’m an immigrant to the United States. I’m in favor of immigration if the person immigrating is going to be a productive member of society, if they’re going to be honest, and if they’re not going to mistreat people in that country.”
 
@@ -1417,7 +1274,6 @@ RT by @elonmusk: ELON MUSK: “I’m in favor of immigration. I’d be hypocriti
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Just common sense
 
@@ -1427,7 +1283,6 @@ Just common sense
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Zero
 
@@ -1437,7 +1292,6 @@ Zero
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: SpaceXAI has released a blog on Workflows in Grok Build
 
@@ -1447,7 +1301,6 @@ RT by @elonmusk: SpaceXAI has released a blog on Workflows in Grok Build
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Video
 
@@ -1457,7 +1310,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Neuralink helping those who have lost their mind to body connection
 
@@ -1467,7 +1319,6 @@ Neuralink helping those who have lost their mind to body connection
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok is worth trusting
 
@@ -1477,7 +1328,6 @@ Grok is worth trusting
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 🎯
 
@@ -1487,7 +1337,6 @@ Grok is worth trusting
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: A guy followed a mother around with his camera while she tried to get away from him and told her to say “nigger” over and over, and when she finally does it that’s apparently a crime. Completely absurd and unacceptable. She must appeal and we must fund it. No magic word crimes.
 
@@ -1497,7 +1346,6 @@ RT by @elonmusk: A guy followed a mother around with his camera while she tried 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: If you curate your feed right, 𝕏 is your best bet for predicting the future.
 
@@ -1507,7 +1355,6 @@ RT by @elonmusk: If you curate your feed right, 𝕏 is your best bet for predic
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The Economist Elon Musk July 23rd 2026
 
@@ -1517,7 +1364,6 @@ RT by @elonmusk: The Economist Elon Musk July 23rd 2026
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Yup
 
@@ -1527,7 +1373,6 @@ Yup
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 My pronouns are …
 
@@ -1537,7 +1382,6 @@ My pronouns are …
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The difference between Elon and this reporter: Elon builds things millions of people use, love and benefit from All this reporter produces is fake news: selective facts, dishonest framing and propaganda disguised as journalism Just listen to her shouting throughout the interview. It looks less like journalism and more like watching a leftist protester being asked, “Which rights are you protesting for?”......only to reply, “Am I supposed to know that?” One creates real value. The other manufactures fake outrage Trust in legacy media has hit an all-time low. No wonder nobody trusts them anymore 𝕏 is where truth wears the crown 👑
 
@@ -1547,7 +1391,6 @@ RT by @elonmusk: The difference between Elon and this reporter: Elon builds thin
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Soon, this will happen to your town
 
@@ -1557,7 +1400,6 @@ Soon, this will happen to your town
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: "My partner, Shivon, is half Indian, and one of my son’s middle names is Sekhar, named after Aragorn and the great Indian physicist Chandrasekhar. Our daughter, Comet Azure, is named after the most powerful spell in Elden Ring." 一 Elon Musk
 
@@ -1567,7 +1409,6 @@ RT by @elonmusk: "My partner, Shivon, is half Indian, and one of my son’s midd
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Marlon West is one of the bravest people I know. His work on ending the rape gangs, following what happened to his daughter, shows remarkable courage. I am very proud to support his campaign to become the next mayor of Greater Manchester.
 
@@ -1577,7 +1418,6 @@ RT by @elonmusk: Marlon West is one of the bravest people I know. His work on en
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Let's take a walk through the "American justice system," shall we? Sharmake Omar is the Somali man who filmed Shiloh Hendrix on the playground in Minnesota that day in April 2025. In January 2022, he and another Somali man "allegedly" spent two days raping an underage foster care runaway in a trailer, keeping her falsely imprisoned. In March 2025, all charges were dismissed "in the interest of justice." Weeks later, in April 2025, he turned his camera phone on at the playground after a young Somali thief attempted to steal from a White mom, Shiloh Hendrix, and began haranguing that White mom for having said the word "nigger." Omar demanded that Hendrix repeat the word on camera, which she did - four times, while Omar himself said the word five times in the less-than-one-minute video. Four long months later, multiple "disorderly conduct" charges were maliciously brought against Shiloh Hendrix for the playground incident in which she was the only victim, and Sharmake Omar was the videographer. Then, last night, Shiloh Hendrix was CONVICTED - specifically for saying "nigger" to Sharmake Omar AFTER he demanded she say it, while he himself said it repeatedly. Her sentence is a $1,000 fine and 200 hours of community service. By the way, Sharmake Omar WAS NEVER CALLED TO TESTIFY in the Hendrix trial. But don't worry, that's not all the justice we have in store for today. Just keep the substance of Shiloh's "crime" - as well as her sentence - in mind as we move forward. Rewind to April 2020. That's when Sharmake Omar, our favorite Somali videographer, along with another Somali friend of his (separate from his alleged co-raper), committed a violent assault in the street. Omar threw a rock at a car, then attacked and beat the 16-year-old driver. A bystander tried to intervene, but Omar's accomplice threatened him with a knife. For this, Sharmake Omar was charged merely with DISORDERLY CONDUCT. Yes, for hurling a deadly weapon at a vehicle, then beating the teenage driver while his criminal pal held off onlookers at knifepoint, Omar faced the EXACT SAME CHARGE that Shiloh Hendrix faced for saying a word that Omar asked her to say, as she held her child in her arms and fled the playground before Omar could assault her, too. Like Shiloh Hendrix, Sharmake Omar was convicted on his count of disorderly conduct. His sentence? A $200 fine. That's it. That's the entire thing. So, to review: Rape an underage foster child for two days (allegedly)? Clean slate. Hurl a deadly weapon at a car and assault its driver? $200. Say a word to an accused rapist/kidnapper and convicted violent criminal who demands you say it while saying it himself? $1,000 and 200 hours - not to mention international infamy. Could the anti-White standard be any more egregiously in our faces? Seriously, everyone involved in prosecuting the Shiloh Hendrix case is unspeakably evil. This includes, but is not limited to: ~ Rochester City Attorney Michael Spindler-Krage ~ Lead prosecutor Nicholas Shabel ~ Judge Christa Daily, who ensured Shiloh's conviction ~ The Rochester NAACP ~ Rochester's "Community Engagement Response Team" ~ Rochester Mayor Kim Norton ~ Rochester City Council President Randy Schubring ~ Minnesota Attorney General Keith Ellison ~ Minnesota's Council on American-Islamic Relations ~ Sharmake Omar, without whom none of this would have happened ~ The young Somali thief's non-English speaking parents ~ Innumerable members of the local Somali scam network ~ Six jurors - two men and four women (reportedly all White) - who unanimously agreed that White people are not protected under the US Constitution While we're here, a special dishonorable mention must go to every single "FIRST AMENDMENT" organization in this hollowed-out country of ours. You know the ones - they relentlessly solicit and collect large sums of money to "DEFEND FREE SPEECH" while continuously, cravenly shrinking away from EVERY meaningful case where White people - LITERALLY THE ONLY GROUP WITH MAJORITY SUPPORT FOR THE FIRST AMENDMENT - are so clearly maliciously persecuted. Similarly, NOT ONE official at any level of government has spoken up to defend Shiloh Hendrix or her Constitutional rights, nor to condemn the flagrantly anti-White, utterly unconstitutional witch hunt she's endured. Not one. And on that note, we conclude today's review of the good ol' "American justice system." Lady Justice isn't blind. She's anti-White. And it's never been plainer to see.
 
@@ -1587,7 +1427,6 @@ RT by @elonmusk: Let's take a walk through the "American justice system," shall 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The globalist head of The Economist thinks that it's "far right" to want secure borders and legal immigration. If that's true, then this 2009 Chuck Schumer speech on immigration is one of the most far right speeches ever made.
 
@@ -1597,7 +1436,6 @@ RT by @elonmusk: The globalist head of The Economist thinks that it's "far right
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 This has my full support. Jensen is right.
 
@@ -1607,7 +1445,6 @@ This has my full support. Jensen is right.
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Video
 
@@ -1617,7 +1454,6 @@ Video
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: America's tech leadership has always come from ecosystems where the best ideas compete. AI is no different. Open-weight models expand access, speed innovation, and give organizations real control, and long-term leadership requires choice across the full ecosystem. Dell is proud to co-sign this letter and help build that future here.
 
@@ -1627,7 +1463,6 @@ RT by @elonmusk: America's tech leadership has always come from ecosystems where
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: excellent
 
@@ -1637,15 +1472,11 @@ RT by @elonmusk: excellent
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-23 01:38:29
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -1653,15 +1484,12 @@ RT by @elonmusk: excellent
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-23 03:18:00
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The European Commission rejected the registration of the @SaveEuropeAct. They claim it’s “racist” and goes against “European values” to want to keep Europe, European. We’re not accepting the madness anymore. Europe belongs to us. See you in court.
 
@@ -1671,7 +1499,6 @@ RT by @elonmusk: The European Commission rejected the registration of the @SaveE
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: This is how the durable medical equipment (DME) fraud scam works: - Operate around adult daycares - Provide “equipment” for ghost clients (wheelchairs, knee braces, etc) - Easier to open than a bank account - Bill Medicare for millions EXPOSE IT ALL.
 
@@ -1685,15 +1512,11 @@ RT by @elonmusk: This is how the durable medical equipment (DME) fraud scam work
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-23 05:52:42
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -1701,15 +1524,11 @@ RT by @elonmusk: This is how the durable medical equipment (DME) fraud scam work
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-23 05:58:25
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
-**内容**:
 
 ---
 
@@ -1717,7 +1536,6 @@ RT by @elonmusk: This is how the durable medical equipment (DME) fraud scam work
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: 0 notable incidents across over 380,000 miles traveled by Robotaxi
 
@@ -1727,7 +1545,6 @@ RT by @elonmusk: 0 notable incidents across over 380,000 miles traveled by Robot
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default
 
@@ -1737,15 +1554,12 @@ RT by @elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-23 08:28:40
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: FSD Supervised helps save lives
 
@@ -1755,7 +1569,6 @@ RT by @elonmusk: FSD Supervised helps save lives
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: The colors tonight took my breath away. The fully stacked Starship sits bathed in the light from its last sunset on Earth. T- 21 hours until the launch window opens.
 
@@ -1765,7 +1578,6 @@ RT by @elonmusk: The colors tonight took my breath away. The fully stacked Stars
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions! It can do so, because, FSD is trained on corner cases extracted from more than a 1000 lifetimes of driving. It has learnt to accurately predict the probability of collision even for crazy cases such others running red lights, swerving into us, kids running into roads and such. Do watch the full video for some highlights. A no-brainer way to significantly improve your and your family's safety is to get a Tesla with FSD. It also completely takes the stress out of driving. Not saying this just because I work at Tesla, rather that it's genuinely a great product already and is continuing to get even better.
 
@@ -1775,7 +1587,6 @@ RT by @elonmusk: Using FSD is far safer than driving manually, as measured over 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years
 
@@ -1785,7 +1596,6 @@ Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and gets the job done
 
@@ -1795,7 +1605,6 @@ Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Grok Build gets better every day http://X.ai/cli
 
@@ -1805,7 +1614,6 @@ Grok Build gets better every day http://X.ai/cli
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 Cool
 
@@ -1815,7 +1623,6 @@ Cool
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: Beaucoup disent en off que le système globaliste est vraiment à deux doigts de tomber. Même eux savent que c'est bientôt la fin. Ils ont tout le monde contre eux : – les peuples ; – les vrais entrepreneurs, ceux qui créent de la valeur nette ; – les chiffres l’Argentine les dérange profondément ; – la perte du contrôle du discours et du narratif, qui érode encore davantage leur emprise. Bref, je n’ai jamais été aussi optimiste pour l’avenir de l’Europe et de l’Occident. Nous allons vivre une renaissance exceptionnelle de la civilisation occidentale.
 
@@ -1825,7 +1632,6 @@ RT by @elonmusk: Beaucoup disent en off que le système globaliste est vraiment 
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore found him dead by suicide in his bedroom after constant bullying for being white by "Asian" bullies in Birmingham. His family say that Aaron was threatened with a plastic knife by one "asian" pupil - who warned him: "Next time it will be a real one," Whites are a minority in Birmingham, England's second largest city. This is the future for all if not reversed.
 
@@ -1835,7 +1641,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1849,7 +1654,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1865,7 +1669,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1877,7 +1680,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1891,7 +1693,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1903,7 +1704,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1915,7 +1715,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1929,7 +1728,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1941,7 +1739,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1955,7 +1752,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1971,7 +1767,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -1991,7 +1786,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2005,7 +1799,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2019,7 +1812,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2039,7 +1831,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2053,7 +1844,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2065,7 +1855,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2077,7 +1866,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2091,7 +1879,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2105,7 +1892,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2117,7 +1903,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2131,7 +1916,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2143,7 +1927,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2155,7 +1938,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2169,7 +1951,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2183,7 +1964,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2195,7 +1975,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2209,7 +1988,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2223,7 +2001,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2239,7 +2016,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2251,7 +2027,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2271,7 +2046,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2285,7 +2059,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2299,7 +2072,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2311,7 +2083,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2325,7 +2096,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2337,7 +2107,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2349,7 +2118,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2363,7 +2131,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2377,7 +2144,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2391,7 +2157,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2403,7 +2168,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2419,7 +2183,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2431,7 +2194,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2445,7 +2207,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2457,7 +2218,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2473,7 +2233,6 @@ RT by @elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore fou
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents
 
@@ -2487,7 +2246,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2503,7 +2261,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2517,7 +2274,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2529,7 +2285,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2541,7 +2296,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2553,7 +2307,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2567,7 +2320,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2581,7 +2333,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -2595,7 +2346,6 @@ RT by @elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, P
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-**内容**:
 
 
 
@@ -5137,13 +4887,13 @@ RT by @elonmusk: Socialists imagine a class struggle. In their made-up fantasy t
 
 ---
 
-## 2026-07-09 20:17:43-2
+## 2026-07-09 20:17:43-1
 
 RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
 
 ---
 
-## 2026-07-09 20:17:43
+## 2026-07-09 20:17:43-2
 
 RT by @elonmusk: Grok 4.5 is built for real-world engineering. It excels in large codebases and handles long-running tasks that span multiple repositories, hundreds of skills, and a variety of tools.
 

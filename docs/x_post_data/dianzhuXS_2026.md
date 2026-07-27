@@ -15,7 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 一條視頻用畫面感說明白了，我在直播中提到的，後面牆國大概率會發生地震災害的原因，太平洋的水都被搬運到鹽鹼地了，還有幻想嗎？早點離開，是唯一解😮‍💨
 
@@ -25,7 +24,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 【直播乾貨預告】 這星期，我計劃主要給大家講明白一個問題～「喜用神」到底是個啥？網抄二創「大明白」們害人不淺，望文生義劣幣驅逐良幣。 如果您聽大盧說的有道理，那就多長點心眼兒，知識大爆炸的網絡社會，最應該具備的是「對錯識別能力」。 那麼問題來了，非專業人士怎麼分辨對錯？多觀察輸出信息者的為人處事有沒有底線，有底線的人不一定把全部的「真」都告訴你，但他一定「不假」不胡說😮‍💨
 
@@ -35,7 +33,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 什麼是「如法」的鐵板神數？
 
@@ -45,7 +42,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 這回指法對了嗎？
 
@@ -59,7 +55,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 散人這段話說到頭了 👍👍👍 出生地被你們佔領了 咱沒本事改變你們 不想跪著还能怎麼辦？ 只能出來被人家篩選唄！ 😮‍💨😮‍💨😮‍💨 前面來的人還給挖了這麼多坑 我們只能讓自己比及格線高點 同時不再給後面的人挖坑了唄
 
@@ -71,7 +66,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 我原來以為是不會有多少中國人，出將近700萬人冥幣移民韓國這地方的，聽銀行和移民中介的朋友說，這幾天居然從日本來了一批😮‍💨 兩個感慨 一，中國人裡有錢的群體，還沒都完全反貧，至少瘦死的駱駝比馬大。 二，大部分中國人，非要等人家要求嚴格了，才主動合規，只要有空子就不會「主動」，這一點跟有錢沒錢無關。 三，在中國人這個群體中，必須做極少數，就安全了。
 
@@ -81,7 +75,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 我原來以為是不會有多少中國人，出將近700萬人冥幣移民韓國這地方的，聽銀行和移民中介的朋友說，這幾天居然從日本來了一批😮‍💨 兩個感慨 一，中國人裡有錢的群體，還沒都完全反貧，至少瘦死的駱駝比馬大。 二，大部分中國人，非要等人家要求嚴格了，才主動合規，只要有空子就不會「主動」，這一點跟有錢沒錢無關。 三，在中國人這個群體中，必須做極少數，就安全了。 不是說「兩個」感慨嗎？怎麼還有「三」？第三條是真理🤗🤗🤗
 
@@ -91,7 +84,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 【冷不防】Substack同步直播 https://x.com/i/spaces/1nxnRRpXjByxO
 
@@ -101,7 +93,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 x.com/i/spaces/1nxnRRpXjByxO
 
@@ -111,7 +102,6 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 今天直播用到的圖
 
@@ -121,7 +111,6 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 【颱風紅霞】中國大陸廣東惠州 記錄大盧2026年5月21日神準預測 【牆國後半年大風災】
 
@@ -137,7 +126,6 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 這一點，大家真的不能學高市 很多人其實都活反了 越是人過中年才應該多睡 腦子裡一堆事 很多人睡不著是事實 所以能「按需睡眠」是福氣 跟吃飯的「少食多餐」一樣 有錢有閒每天都要多睡「幾次」 這比「保溫杯裡泡枸杞」養生 高市早苗身體堪憂 這是從她出來競選 我就一直在說的「短板」
 
@@ -147,7 +135,6 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 7月25日早 颱風「紅霞」連台灣的邊都不擦了 加速蓄力直奔廣東揭陽 正常人類群體不能「沒底線」 換句話說 失去「底線」就不算「人」了
 
@@ -157,7 +144,6 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 老石這篇說到點子上了 作為持豬肝護照的群體 從哪方面說都得支持高市早苗 小粉紅認為她讓日本經濟崩潰 那你們還不支持？ 反賊認為她是中共的剋星 那也必須支持💪 只有日本人才⋯⋯ 同理，持外國護照了，當然可以對「牆人劣根性」表示溫和包容，因為從護照顏色上說，那幫玩意再怎麼全世界散德行，也代表不了人家，與人家無關。但我們不行！
 
@@ -167,7 +153,6 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 此帖中表達的觀點，如把「高市早苗」替換成「川普」，依然有效🤗🤗🤗
 
@@ -177,7 +162,6 @@ x.com/i/spaces/1nxnRRpXjByxO
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
@@ -187,7 +171,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 【重要通知】 今天的直播改了！ 因為我覺得今天的知識點 沒有畫面說不清楚 所以改為油管真人出鏡直播 時間不變 請互相轉告，謝謝大家
 
@@ -197,7 +180,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 【加急直播】 200斤七殺治國來勢洶洶，正常人如何「智慧自救」（2026.7.25） https://www.youtube.com/live/R7UNb0-_4Nc?si=ZGeklZ_cyBF-YIfD 來自 @YouTube
 
@@ -207,7 +189,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 做了個封皮，今天直播了兩個半小時，不知道大家聽著累不累，反正我過了嘴癮了，強烈需要「熱推」中🤗🤗🤗 https://youtube.com/live/R7UNb0-_4Nc?feature=share
 
@@ -221,7 +202,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 跟我學的 就不要先看身強身弱 那是祖師爺留下的護法「煙霧彈」 愛好者陷入到「迷魂陣」裡 就一輩子也入不了門嘍 https://open.substack.com/pub/dianzhuxs/p/b05?utm_source=app-post-stats-page&r=8moxkp&utm_medium=ios
 
@@ -231,7 +211,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 7月24日早，颱風「紅霞」 又與台灣擦邊而過 直奔中共國廣東揭陽 大盧從不詛咒某地 我只想說「惡行引天怒」
 
@@ -241,7 +220,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 【中國私企老闆現狀】 早關少賠 晚關多賠 不關人沒
 
@@ -251,7 +229,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 赤馬紅羊 | 日本後半年要起勢了，但有個隱患不能不防 第二解 (下) https://youtu.be/8auKyLiOAq0
 
@@ -265,15 +242,11 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
-
 ---
 
 ## 2026-07-23 07:12:15
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
 
 ---
 
@@ -281,7 +254,6 @@ Substack同步直播 https://x.com/i/spaces/1qGoNNAqMQEKv
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Substack 同步「冷不防」 https://x.com/i/spaces/1vKpPPAEZWkKE
 
@@ -291,7 +263,6 @@ Substack 同步「冷不防」 https://x.com/i/spaces/1vKpPPAEZWkKE
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 x.com/i/spaces/1vKpPPAEZWkKE
 

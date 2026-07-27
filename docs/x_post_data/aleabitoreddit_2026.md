@@ -15,7 +15,6 @@ tags: ["2026"]
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. - Samsung + $AVGO sign memory + foundry AI framework through 2030, expected to exceed $200b - $SOI expects FY2027 silicon photonics revenue to double compared to the previous year, surpassing Morgan Stanley's 60% growth projection. Photonics thesis go brrr. - SK Group + $NVDA sign $500B+ partnership to build out AI DCs and HBM4 memory. - SKC Absolics glass core delay to 2027 from reports. Targeting final reliability testing EOY, mass production next year. So if you're curious, this does push back some ramps from $LPK and others (hence drop on ER). - $QCOM price hikes by double digits for smartphone processors, due to upstream supplier hike pricing. - $META expected to issue $12B in project-level/SPV financing for El Paso, Texas AI DC expansion - Naver announced a $10 billion investment from $NVDA and Brookfield to construct a 1GW-scale AI Factory. Near term plan is 200MW by 2028. (Nvidia $1B investment, Brookfield nonbinding $9B) - 64GB DDR5 server modules rises 146% versus end-June contract pricing - $INTC brought forward 14A process mass production by a year, risk production H2 2027 and volume production in 2028, vs. 2029 HVM expectations. - Samsung Electro-Mechanics wins $200m MLCC order (existing bottleneck). - $AMD (the Bandana bottleneck), announces Helios is in full production with shipments Q3 2026. Including an up to 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. Gave new >50% CAGR TAM to $220B by 2030 from $26b in 2025 for CPU market. Rolls out optical interconnects for Mi500 in 2027. From channel checks, AMD is heading down to the CPO route (seems likely to use Ayar). - $ORCL wins $7B Department of War enterprise software contract - JX metal doubles semi target capacity at its KR subsidary with a 4B yen investment, with operations to begin H2 2027, amid surging demand from major customers Samsung Electronics and SK Hynix - Tungsten hexafluoride spot prices surged 2.1-2.5x Y/Y following Japan's Kanto Denka and Chuo Gas announcing permanent production halts. Fluorinated liquid supply faces a vacuum as 3M plans to exit PFAS production. - From the four optical chipmaker earnings, Yuanjie/Eoptolink/TFC Optical/Dongshan Precision: no major order cuts, 1.6T shipments expected to accelerate into 2027. Optical chip suppliers expected to capture outsized margins from shortages. - Unitree Robotics Targets 30,000 Humanoid Robot Production Capacity by 2026. Read through on humanoid TAM scaling like $CCXI and others. - Energy storage lithium batteries orders increase first half orders by 2,900% apparently in China. Not as familiar with EVE Energy and other battery makers.
 
@@ -25,7 +24,6 @@ Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Nvidia in talks to backstop $250B worth of OpenAI DC financing. - Softbank’s SB energy develops 10 GW Ohio campus - OpenAI signs long term lease - $NVDA guarantees $250B in financing - OpenAI discussing separate agreement to buy up to $350B in Nvidia chips. Not quite sure if this circular financing is healthy long term, but given the massive size of AI infrastructure spending… Feels like capex beneficiaries will be extremely happy.
 
@@ -35,7 +33,6 @@ Nvidia in talks to backstop $250B worth of OpenAI DC financing. - Softbank’s S
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Wow, $CMXT is up a very normal +469.98% after going public today. Now valuing it at ~$487.31 billion, up from $85.5 billion. Did any of my Chinese followers buy into the IPO?
 
@@ -51,7 +48,6 @@ Wow, $CMXT is up a very normal +469.98% after going public today. Now valuing it
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Jensen from $NVDA has joined X for the first time to share his letter on open models.
 
@@ -61,7 +57,6 @@ Jensen from $NVDA has joined X for the first time to share his letter on open mo
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 There you have it, $GOOGL Waymo to explore split with $UBER per FT. My view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up. And that $NBIS Avride, other neutral players, or vertical integration would be the optimal path forward. Now their own partner Waymo looks to be the strongest disruptor to Uber.
 
@@ -77,7 +72,6 @@ There you have it, $GOOGL Waymo to explore split with $UBER per FT. My view last
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 I have this feeling that Lisa from $AMD likes AI. It’s cool getting to meet some of you at the event!
 
@@ -87,7 +81,6 @@ I have this feeling that Lisa from $AMD likes AI. It’s cool getting to meet so
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 $AMD reached out directly to hand me some special swag! Apparently they only made 30 of these bandanas? I love AMD and Lisa Su now.
 
@@ -97,7 +90,6 @@ $AMD reached out directly to hand me some special swag! Apparently they only mad
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @aleabitoreddit: The feelings mutual. 🤝
 
@@ -107,7 +99,6 @@ RT by @aleabitoreddit: The feelings mutual. 🤝
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT @AMD: The feelings mutual. 🤝
 
@@ -117,7 +108,6 @@ RT @AMD: The feelings mutual. 🤝
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 From $AMD Advancing AI, channel checks: Helios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. And expects other hyperscalers + industry to go down the CPO route. One AI infra executive at a company involved in a hyperscaler CPO programs said they had seen no indication of CPO scale up supply chain delays. Pushing back on recent 3rd party delay reports. This was informal commentary, not official AMD or partner guidance.
 
@@ -127,7 +117,6 @@ From $AMD Advancing AI, channel checks: Helios networking partners told me they 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 RT by @aleabitoreddit: The feeling’s mutual. 🤝
 
@@ -137,7 +126,6 @@ RT by @aleabitoreddit: The feeling’s mutual. 🤝
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization). There's a podcast that featured the $SIVE CEO recently called: "Market Insights: Photonics & AI". Most interesting take was: "Pluggables will be around for the next 10 years". There's a lot of CPO + RNG/MRC optimization TAM cannablization arguments for pluggables recently, but looks like it's here to stay. And that there's going to be multiple architecture paths going forward (CEO also NPO alongside CPO as an major opportunity in the next 5 years). As for challenges: Vickram stated manufacturing capacity + availability of raw material is the main bottleneck. Likely referencing the existing bottlenecks with upstream CW laser ramp. From the podcast, seems like a large focus was on pluggable markets due to larger near-term TAM (which is understandable with $JBL + other players), with CPO being the north star. So it might be interesting if $SIVE M&A ambitions were to acquire more pluggable optical transceiver IP, like what $LITE did with Cloud Light. But TLDR: Lot of different paths moving forward, pluggable here to stay, CPO seems like North Star for where industry is heading. Feels like there's room for every qualified laser supplier given the industry demand is growing faster than what they can all collectively make.
 
@@ -151,7 +139,6 @@ Not exactly for $AAOI (they're working on CPO too, just a little further behind 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 
 
@@ -163,7 +150,6 @@ Not exactly for $AAOI (they're working on CPO too, just a little further behind 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 
 
@@ -179,7 +165,6 @@ Not exactly for $AAOI (they're working on CPO too, just a little further behind 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 
 
@@ -193,7 +178,6 @@ Not exactly for $AAOI (they're working on CPO too, just a little further behind 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 Just some notes from $TSLA transcripts: Elon Musk: "I think Optimus will be the biggest product ever" from Q2 earnings transcripts. Even from Q1, Elon Stated: "I think Optimus will be our biggest product. Not just Tesla's biggest product ever, but probably the biggest product ever. And I remain convinced of that conclusion". It's very rare to see such high conviction reiterated from Elon regarding humanoids both directionally and TAM-wise. In terms of upstream suppliers opportunities, Karn Budhiraj, VP of $TSLA supply chains stated: "We’re seeing the same level of investment going to memory and also new specific items like metal injection molded parts, flexible printed circuits, and all sorts of nonlinear technologies..." And that they had to build new supply chains from scratch. So would be interesting to look at for new supply chain supplier opportunities apart from the known ones. Just pulled older slides and it looks like capacity targets for Fremont are 1M and Giga Texas was 10M, so at scale, $TSLA seems to be the clear US leader. If you're looking at that S-Curve opportunity ramp. On a side note, Elon also gave a shoutout to $MU with likely reasonably priced LTAs, given his statement: "We really appreciate Micron making room for Tesla in the years to come and giving us actually a very significant allocation on reasonable terms given the pretty insane pricing of memory these days." (Just for structural memory demand). Elon also gave a shoutout to Panasonic which had invested many billions in increasing battery cell production (will need to do deeper DD into Panasonic after this), then Samsung and $TSM. Just takeaways from Tesla earnings TLDR: Elon tends to be directionally correct on where the future is heading, such as with EV or Space. He seems extremely bullish on humanoids.
 
@@ -213,7 +197,6 @@ Just some notes from $TSLA transcripts: Elon Musk: "I think Optimus will be the 
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-**内容**:
 
 $INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). - Prices of some CPU products have risen more than 40% in China since the start of the year from sources. - Month-on-month increases topping 10% for some products CPUs were already a bottleneck, following CPU ratios due to AI inference... But the broader trend of LTAs seems to be appearing from: - Memory, with $MU, Samsung, $SNDK, and SK Hynix signing DRAM/NAND LTAs. - Photonics, with $LITE, $COHR signing EML LTAs. And recent Trendforce reports that $AMD and hyperscalers are now pursuing CW LTAs. And I'm sure there's many more from MLCCs to all the way to substrates. +1 for the bottleneck investors... hard to be a "bubble that pops" if you have take or pay demand spanning multiple years.
 
