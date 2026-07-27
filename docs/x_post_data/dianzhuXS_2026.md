@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 248 条推文
+> 📊 推文存档 - 共 249 条推文
 
 ---
 
@@ -29,9 +29,19 @@ tags: ["2026"]
 
 【直播乾貨預告】 這星期，我計劃主要給大家講明白一個問題～「喜用神」到底是個啥？網抄二創「大明白」們害人不淺，望文生義劣幣驅逐良幣。 如果您聽大盧說的有道理，那就多長點心眼兒，知識大爆炸的網絡社會，最應該具備的是「對錯識別能力」。 那麼問題來了，非專業人士怎麼分辨對錯？多觀察輸出信息者的為人處事有沒有底線，有底線的人不一定把全部的「真」都告訴你，但他一定「不假」不胡說😮‍💨
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII5mpmp4DA7ysN-tnWxbtsDoyt801iAAIHFmsbnVMxV4YSrguYbvJQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2081535291140288815#m)
+## 2026-07-27 11:59:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+什麼是「如法」的鐵板神數？
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2081590111800889344_img_hSDPcB--2G0T8uaa.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2081590382203478412#m)
 
 ---
 
