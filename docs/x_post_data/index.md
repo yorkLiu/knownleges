@@ -11,16 +11,14 @@ title: 推文数据
 ## 📊 数据概览
 
 | 用户 | 推文数 | 今日更新 | 图片数 | 操作 |
-|------|--------|----------|--------|------|
-| [@JonathanDi3614](./JonathanDi3614_2026.md) | 51 | 1 | 60 | [查看](./JonathanDi3614_2026.md) |
-| [@Mimiwftt](./Mimiwftt_2026.md) | 511 | 0 | 372 | [查看](./Mimiwftt_2026.md) |
-| [@aleabitoreddit](./aleabitoreddit_2026.md) | 340 | 3 | 471 | [查看](./aleabitoreddit_2026.md) |
-| [@dianzhuXS](./dianzhuXS_2026.md) | 259 | 5 | 191 | [查看](./dianzhuXS_2026.md) |
-| [@elonmusk](./elonmusk_2026.md) | 1567 | 15 | 817 | [查看](./elonmusk_2026.md) |
-| [@karpathy](./karpathy_2026.md) | 30 | 0 | 6 | [查看](./karpathy_2026.md) |
-| [@paulg](./paulg_2026.md) | 0 | 0 | 0 | [查看](./paulg_2026.md) |
-| [@xiaomustock](./xiaomustock_2026.md) | 283 | 1 | 309 | [查看](./xiaomustock_2026.md) |
-
+|------|
+|| [@JonathanDi3614](./JonathanDi3614_2026.md) | 51 | ✅ | 57 | [查看](./JonathanDi3614_2026.md) |
+|| [@xiaomustock](./xiaomustock_2026.md) | 273 | ✅ | 382 | [查看](./xiaomustock_2026.md) |
+|| [@elonmusk](./elonmusk_2026.md) | 1568 | ✅ | 1315 | [查看](./elonmusk_2026.md) |
+|| [@karpathy](./karpathy_2026.md) | 30 | ✅ | 15 | [查看](./karpathy_2026.md) |
+|| [@aleabitoreddit](./aleabitoreddit_2026.md) | 336 | ✅ | 434 | [查看](./aleabitoreddit_2026.md) |
+|| [@dianzhuXS](./dianzhuXS_2026.md) | 251 | ✅ | 229 | [查看](./dianzhuXS_2026.md) |
+|| [@Mimiwftt](./Mimiwftt_2026.md) | 483 | ✅ | 161 | [查看](./Mimiwftt_2026.md) |
 ---
 
 ## 📅 [日期归档](./tags/index.md)
