@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 51 条推文
+> 📊 推文存档 - 共 52 条推文
+
+---
+
+## 2026-07-28 00:46:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+三重催化共振，今天这口气算是续上了。 长鑫大涨点燃情绪，宁德回购预期托底，超跌反弹本身自带修复动能——三个方向凑到一起，指数就被推上去了。但别急着下结论，每一层都得拆开看： 长鑫这根大阳线，情绪价值大于实质意义。涨完了要消化，后面是横是调，取决于资金愿不愿意在这个位置接。宁德时代回购，中长线利好，短期别指望它天天拉。 超跌反弹阶段，板块轮动会很快，减仓动作也会频繁出现。这时候要盯的不是谁涨得猛，而是全时科技内部分歧带来的低位机会。 分歧，才是安全边际的来源。符合进场条件就参与，不符合就继续等。这个位置不怕踏空，怕的是在轮动中乱伸手。手一乱，节奏就没了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII-2pnkAkZAy0f4X_JVGPMAAG5rftD0QACWBdrG51TOVdhevgOjaAiKgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2081783260179567059#m)
 
 ---
 
