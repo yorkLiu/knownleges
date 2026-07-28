@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 275 条推文
+> 📊 推文存档 - 共 276 条推文
 
 ---
 
@@ -19,7 +19,21 @@ tags: ["2026"]
 
 亏钱亏的超出认知了， 真他娘的最美的故事套最多的家人。 反弹给个机会再不玩了
 
-[查看原文](https://nitter.net/xiaomustock/status/2081933731833794688#m)
+---
+
+## 2026-07-28 12:07:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+现在亏的呼吸都是痛的， 上个月要是那天清仓真不玩了， 真的他妈的天麻，现在是血亏，骨髓都亏出来了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJCmpoL-tDug8M9IR1drDjq6nWzHHxAAKQEWsb6lBJVwH_FxaY375XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDimo6SocJj3E9V83o3lzcIxtvTdXgAAI8D2sbMUvQVeH9jQVKRBO7AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2081954751147876406#m)
 
 ---
 
