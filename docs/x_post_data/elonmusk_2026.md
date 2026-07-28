@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1590 条推文
+> 📊 推文存档 - 共 1595 条推文
 
 ---
 
@@ -151,6 +151,20 @@ RT @WR4NYGov: 2002-2004: Software guy thinks he can build rockets and cars 2016:
 
 ---
 
+## 2026-07-28 12:43:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Looking forward to more integration with X -Direct messages should have a quick send/request -Group chats could have a split the bill feature -Tipping on articles/informative well researched posts Future P2P features that could work well: Ebay/Etsy/Kickstarter
+
+<img src="/images/elonmusk/amplify_video_thumb_2081799044624474112_img_P6R4Nryfd_A2go7a.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/wmorrill3/status/2081963764916830714#m)
+
+---
+
 ## 2026-07-28 13:21:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -159,9 +173,59 @@ RT @WR4NYGov: 2002-2004: Software guy thinks he can build rockets and cars 2016:
 
 Common sense
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJDGpoPngPwcrxzptxEVcil1fospvqAALQEWsb6lBJVw0z0KtYiOaVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081973255296934043#m)
+## 2026-07-28 13:33:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Humans for scale
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJD2poz8wj0pXtcUc3M2rk78A5d0jgAAJ4E2sb6lBJVxaf6GwJtjWHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArthurMacwaters/status/2081976295748157678#m)
+
+---
+
+## 2026-07-28 20:52:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 👏👏👏 @Starlink
+
+<img src="/images/elonmusk/amplify_video_thumb_2081777001996632064_img_qXvsYQRBEprN_f8M.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mayemusk/status/2082086874735059330#m)
+
+---
+
+## 2026-07-28 23:20:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting. Grok 4.6 releases around August 7. This will be the 1.5T model with significantly improved SFT & RL. Grok 4.7 will be the 2.1T model released a few weeks later. This will be better than 4.6 in every way, except slightly slower to serve, albeit with even better token efficiency.
+
+<img src="/images/elonmusk/card_img_2081583555591966720_A_CHuuTG3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082123925283041545#m)
+
+---
+
+## 2026-07-28 23:30:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Gad is right again
+
+[查看原文](https://nitter.net/elonmusk/status/2082126582873821412#m)
 
 ---
 
