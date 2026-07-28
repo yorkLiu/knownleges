@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1589 条推文
+> 📊 推文存档 - 共 1590 条推文
 
 ---
 
@@ -167,7 +167,7 @@ Common sense
 
 ## 2026-07-27 01:16:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -175,7 +175,7 @@ Common sense
 
 ## 2026-07-27 01:35:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -183,7 +183,7 @@ Common sense
 
 ## 2026-07-27 01:40:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -191,7 +191,7 @@ Common sense
 
 ## 2026-07-27 02:40:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -199,7 +199,7 @@ Common sense
 
 ## 2026-07-27 05:01:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -207,7 +207,7 @@ Common sense
 
 ## 2026-07-27 05:35:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -215,7 +215,7 @@ Common sense
 
 ## 2026-07-27 08:08:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -223,7 +223,7 @@ Common sense
 
 ## 2026-07-27 08:43:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -231,7 +231,7 @@ Common sense
 
 ## 2026-07-27 13:13:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -239,7 +239,7 @@ Common sense
 
 ## 2026-07-27 13:36:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,7 +247,7 @@ Common sense
 
 ## 2026-07-27 13:44:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -255,7 +255,7 @@ Common sense
 
 ## 2026-07-27 14:06:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -263,7 +263,7 @@ Common sense
 
 ## 2026-07-27 14:09:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -271,7 +271,7 @@ Common sense
 
 ## 2026-07-27 14:16:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -279,7 +279,7 @@ Common sense
 
 ## 2026-07-27 14:26:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +287,7 @@ Common sense
 
 ## 2026-07-27 15:51:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +297,7 @@ RT by @elonmusk: J’ai été très sensible aux nombreux messages que vous m’
 
 ## 2026-07-27 19:40:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,35 +307,41 @@ RT by @elonmusk: Worth a read. Bernard Arnault responds to the press. @X has shi
 
 ## 2026-07-27 20:28:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Proud to join @nvidia as a founding member of the Open Secure AI Alliance. Defenders need open tools, collaboration, and transparency to secure AI agents and systems. And customers want the ability to choose the best open or closed models.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJAmpnnpQXCDpRCTaEsF31Lxa_mSrxAAKxE2sb6lBBVwzPvvBj8jiQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MichaelDell/status/2081718431393402884#m)
-
 ---
 
 ## 2026-07-27 21:39:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: No results, NO RECESS. Pass SAVE America NOW!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJA2pnnpiuV2aG41pueWStuPPxiNBlAAKyE2sb6lBBVzXDuOkyOEq2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SenRickScott/status/2081736246041154005#m)
+## 2026-07-27 23:04:57
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: A throwback to Elon Musk walking through the engineering behind Falcon 9’s payload fairing Explaining the massive carbon-composite structure… large enough to fit a full-size city bus inside Early SpaceX energy hits different From factory-floor tours to making rocket reuse routine and launching at a cadence the rest of the industry can only dream of Insane how far SpaceX has come
+
+<img src="/images/elonmusk/amplify_video_thumb_2081757658655432704_img_uACOC226JVyAN1QA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2081757742268867022#m)
 
 ---
 
 ## 2026-07-27 23:37:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -345,13 +351,11 @@ Fauci smelled it and he also dealt it
 
 ## 2026-07-27 23:42:37
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Glad to join this important alliance to advance AI security across the frontier ecosystem
-
-[查看原文](https://nitter.net/satyanadella/status/2081767219957277083#m)
 
 ---
 
