@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1588 条推文
+> 📊 推文存档 - 共 1589 条推文
 
 ---
 
@@ -129,8 +129,6 @@ Unfiltered reality
 
 Where we are going there is no training data
 
-[查看原文](https://nitter.net/elonmusk/status/2081936825313038348#m)
-
 ---
 
 ## 2026-07-28 10:56:50
@@ -140,8 +138,6 @@ Where we are going there is no training data
 **内容**:
 
 True
-
-[查看原文](https://nitter.net/elonmusk/status/2081936891184566514#m)
 
 ---
 
@@ -153,7 +149,19 @@ True
 
 RT @WR4NYGov: 2002-2004: Software guy thinks he can build rockets and cars 2016: Car guy thinks he can do brain surgery 2018: American gu…
 
-[查看原文](https://nitter.net/elonmusk/status/2081942019283255449#m)
+---
+
+## 2026-07-28 13:21:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Common sense
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJDGpoPngPwcrxzptxEVcil1fospvqAALQEWsb6lBJVw0z0KtYiOaVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081973255296934043#m)
 
 ---
 

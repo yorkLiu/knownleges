@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 276 条推文
+> 📊 推文存档 - 共 277 条推文
 
 ---
 
@@ -29,11 +29,19 @@ tags: ["2026"]
 
 现在亏的呼吸都是痛的， 上个月要是那天清仓真不玩了， 真的他妈的天麻，现在是血亏，骨髓都亏出来了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJCmpoL-tDug8M9IR1drDjq6nWzHHxAAKQEWsb6lBJVwH_FxaY375XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDimo6SocJj3E9V83o3lzcIxtvTdXgAAI8D2sbMUvQVeH9jQVKRBO7AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-28 13:05:10
 
-[查看原文](https://nitter.net/xiaomustock/status/2081954751147876406#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+释怀了，听泉也炒股， 因为劝爸妈拿养老金炒股， 被爹妈都拉黑掉😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJC2poPnTzKDyjXUmNtFE3P49830gBAALPEWsb6lBJV2gz_GZenFG_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2081969190198706642#m)
 
 ---
 
