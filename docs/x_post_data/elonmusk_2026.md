@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1583 条推文
+> 📊 推文存档 - 共 1585 条推文
 
 ---
 
@@ -99,9 +99,39 @@ The best way to communicate with the world is directly in your own words, not th
 
 This is money
 
-<img src="/images/elonmusk/amplify_video_thumb_2081799044624474112_img_P6R4Nryfd_A2go7a.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2081916459647660205#m)
+## 2026-07-28 09:51:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+❤️🇺🇸
+
+<img src="/images/elonmusk/amplify_video_thumb_2081844414134001664_img_0lCA_4buxs79HLhJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081920546355241321#m)
+
+---
+
+## 2026-07-28 09:54:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Unfiltered reality
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJBmpoEtkjC6Uz1cxs2__QrQfPWJ7mAAIsEWsb6lBJV7FGM4CgfRWBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJB2poEt3BTVE6zXcwK8wwfEt9WteGAAItEWsb6lBJV3FHzI_-JQ3-AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJCGpoEuGIvPbeS0mwEpUznG_eJGZMAAIuEWsb6lBJV7eSIxW0fD0CAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJCWpoEuSdKD_eDpZi87XsmOYBgYGcAAIvEWsb6lBJVx3EhNVA4fmcAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081921143397572945#m)
 
 ---
 
