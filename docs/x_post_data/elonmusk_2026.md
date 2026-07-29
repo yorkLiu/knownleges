@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1603 条推文
+> 📊 推文存档 - 共 1604 条推文
 
 ---
 
@@ -28,8 +28,6 @@ RT by @elonmusk: Today we're launching app builder for Grok. It lets you build f
 **内容**:
 
 RT by @elonmusk: I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.
-
-[查看原文](https://nitter.net/finkd/status/2082160210399948869#m)
 
 ---
 
@@ -90,6 +88,20 @@ Landing videos of Starship
 **内容**:
 
 We’re sending a ship out to recover Starship
+
+---
+
+## 2026-07-29 13:39:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship still floating in the ocean
+
+<img src="/images/elonmusk/amplify_video_thumb_2082340087187267584_img__Obuv73doZjTm4-T.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082340308680135085#m)
 
 ---
 
