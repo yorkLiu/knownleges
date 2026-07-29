@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1604 条推文
+> 📊 推文存档 - 共 1606 条推文
 
 ---
 
@@ -99,9 +99,33 @@ We’re sending a ship out to recover Starship
 
 Starship still floating in the ocean
 
-<img src="/images/elonmusk/amplify_video_thumb_2082340087187267584_img__Obuv73doZjTm4-T.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082340308680135085#m)
+## 2026-07-29 13:53:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, which tests how well AI agents update technical specifications from code changes. Grok delivered the best combination of quality and operational efficiency, finishing ahead of Claude and GPT.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJGGppnWCDJZxv_ggLtSgWxHDd7ojbAAMTaxtSwlFXG2K9B8J9ergBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2082343862178116018#m)
+
+---
+
+## 2026-07-29 14:01:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+(Not satire)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJGWppnWS4jyejUIRYdZ06CS7oa45kAAIBE2sbUsJRV2LaFvk2kvetAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082345838676947404#m)
 
 ---
 
