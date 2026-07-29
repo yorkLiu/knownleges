@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 339 条推文
+> 📊 推文存档 - 共 340 条推文
 
 ---
 
@@ -19,13 +19,19 @@ tags: ["2026"]
 
 US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT. This is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. (For reference, Sivers and Lumentum were the only two public laser suppliers named in GFS presentation slides. Sivers laser arrays was named recently as a reference design in Globalfoundries SCALE for CPO). Per US Gov announcement: "GlobalFoundries will receive up to $300 million to accelerate domestic CPO R&D by two to three years" (NIST) Never thought we'd see the US Gov / $INTC foundry playbook for CPO in specific...
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJKGpqNfwzkcSmYFMkSNAo7B3dGeEEAAJ9FGsbUsJRVxLspAFP6MPfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJKWpqNgAB99r0rv7TG8IfyNsqRVna9QACfhRrG1LCUVedL0KhSwscTwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-30 02:10:55
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJKmpqNgV9MAVn0nADy02qff8z7xwGAAJ_FGsbUsJRV734HxOROB_5AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2082513405219631384#m)
+**内容**:
+
+Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%. So far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already). Think everyone is waiting for the Fed Chair commentary now.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJK2pqRIeCFs65N32z66e3HgUe89vTAAKQFGsbUsJRV8dZw8gP9o_MAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2082529316655763703#m)
 
 ---
 
