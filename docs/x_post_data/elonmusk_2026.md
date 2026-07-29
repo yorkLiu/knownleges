@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1636 条推文
+> 📊 推文存档 - 共 1639 条推文
+
+---
+
+## 2026-07-30 02:24:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: SpaceXAI's newly released Grok Voice Think Fast 2.0 beats voice models from OpenAI, Google, Alibaba, and DeepSlate in the Artificial Analysis Speech-to-Speech benchmark.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJLWpqYZYlh5D64J5HODPxITjFnnWEAAKmFGsbUsJRV6WIAThuiY0LAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2082532816202408314#m)
 
 ---
 
@@ -19,9 +33,17 @@ tags: ["2026"]
 
 Try the new Grok Voice
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJLGpqWlC5fj3nj1CXmkrQ-wZYr44UAAKhFGsbUsJRV9PLYRhDGnlaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082545217455243373#m)
+## 2026-07-30 03:17:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceXAI has built the best voice model I’ve ever used Once you experience how precisely Grok Voice recognizes speech and understands what you mean, it’s hard to go back The best part of Think Fast 2.0 is that it reasons in parallel and begins taking action while it is still talking to you...without adding any latency
+
+[查看原文](https://nitter.net/XFreeze/status/2082546012628062402#m)
 
 ---
 
@@ -102,6 +124,20 @@ RT by @elonmusk: Sweden did not lock down
 **内容**:
 
 RT by @elonmusk: As it turns out FSD is part of my "the singularity is already here" video released today: https://youtu.be/hMvJxmkNvd4
+
+---
+
+## 2026-07-29 05:11:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Happy birthday Grok Imagine ❣️
+
+<img src="/images/elonmusk/amplify_video_thumb_2082211697729671169_img_XP2NTDnscDhvzbWT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2082212261154672888#m)
 
 ---
 
@@ -382,10 +418,6 @@ Grok Build updates
 **内容**:
 
 😂
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJJ2pqGOpYYacNY1Nbpw0WU3h6aqr9AAJcFGsbUsJRV2TD7sSDUm35AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082478679498822118#m)
 
 ---
 

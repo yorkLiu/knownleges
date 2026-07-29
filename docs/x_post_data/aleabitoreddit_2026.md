@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 340 条推文
+> 📊 推文存档 - 共 341 条推文
 
 ---
 
@@ -29,9 +29,17 @@ US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT. This
 
 Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%. So far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already). Think everyone is waiting for the Fed Chair commentary now.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJK2pqRIeCFs65N32z66e3HgUe89vTAAKQFGsbUsJRV8dZw8gP9o_MAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2082529316655763703#m)
+## 2026-07-30 04:03:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+To show solidarity with the $IREN holders: I now own 1 share of IREN.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2082557648298516918#m)
 
 ---
 
