@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 341 条推文
+> 📊 推文存档 - 共 342 条推文
 
 ---
 
@@ -39,7 +39,21 @@ Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%. So far so 
 
 To show solidarity with the $IREN holders: I now own 1 share of IREN.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2082557648298516918#m)
+---
+
+## 2026-07-30 05:27:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agreed to pay a deposit of $43.5M as a reservation for capacity.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJMGpqd2P2XAkVNirx5ILKfKZ99A68AAICEGsbUsJZV6SDIzbYqgl8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJMWpqd2e8AnSgr-fDiXuab2eIDhmaAAIDEGsbUsJZV3XkYUj-wJMjAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2082578803189268855#m)
 
 ---
 
