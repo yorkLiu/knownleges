@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1639 条推文
+> 📊 推文存档 - 共 1642 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: BREAKING: SpaceXAI's newly released Grok Voice Think Fast 2.0 beats voice models from OpenAI, Google, Alibaba, and DeepSlate in the Artificial Analysis Speech-to-Speech benchmark.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJLWpqYZYlh5D64J5HODPxITjFnnWEAAKmFGsbUsJRV6WIAThuiY0LAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2082532816202408314#m)
 
 ---
 
@@ -43,7 +39,19 @@ Try the new Grok Voice
 
 RT by @elonmusk: SpaceXAI has built the best voice model I’ve ever used Once you experience how precisely Grok Voice recognizes speech and understands what you mean, it’s hard to go back The best part of Think Fast 2.0 is that it reasons in parallel and begins taking action while it is still talking to you...without adding any latency
 
-[查看原文](https://nitter.net/XFreeze/status/2082546012628062402#m)
+---
+
+## 2026-07-30 04:12:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Voice is now #1 in agentic performance
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJL2pqaNwgZYCNILntmTwioChAi8hLAAKvFGsbUsJRV_NE78N2rOwXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082559894264430870#m)
 
 ---
 
@@ -134,10 +142,6 @@ RT by @elonmusk: As it turns out FSD is part of my "the singularity is already h
 **内容**:
 
 RT by @elonmusk: Happy birthday Grok Imagine ❣️
-
-<img src="/images/elonmusk/amplify_video_thumb_2082211697729671169_img_XP2NTDnscDhvzbWT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dvorahfr/status/2082212261154672888#m)
 
 ---
 
@@ -331,6 +335,18 @@ RT by @elonmusk: According to Google it is OK to only want a Black doctor, but n
 
 ---
 
+## 2026-07-29 21:00:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A joint statement from the WFA and X Corp. Today the World Federation of Advertisers (WFA) and X Corp. are putting the litigation involving the Global Alliance for Responsible Media (GARM) behind them. This resets the relationship between the two organizations. WFA reiterates its commitment to freedom of speech, a principle first included in WFA’s founding constitution back in 1953, and a principle it shares with X. On August 9, 2024, WFA discontinued GARM. WFA will not form or restart GARM or a similar initiative. WFA and X are fully aligned in the view that brands, platforms and consumers will all benefit from brand-safety innovation.
+
+[查看原文](https://nitter.net/XBusiness/status/2082451125601436106#m)
+
+---
+
 ## 2026-07-29 21:05:24
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -388,6 +404,20 @@ RT by @elonmusk: Americans buried parents alone. Children lost years of childhoo
 **内容**:
 
 Because he would incriminate himself. https://grok.com/share/bGVnYWN5_2bf90655-fca1-4f62-a51e-484b3a945056
+
+---
+
+## 2026-07-29 22:13:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Economist uploaded their full Elon interview to YouTube and left the comments on 🔥 😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJLmpqaNihz3ALjw1d1apG4ua6ZPVYAAKuFGsbUsJRVzqKEYUrHCfOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/DirtyTesLa/status/2082469637216727234#m)
 
 ---
 
