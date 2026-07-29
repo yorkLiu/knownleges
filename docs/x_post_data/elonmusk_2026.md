@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1623 条推文
+> 📊 推文存档 - 共 1634 条推文
+
+---
+
+## 2026-07-29 00:00:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Build apps from http://grok.com, iOS, and Android. With one prompt, turn an idea into a published product with its own domain. Now available for SuperGrok Heavy users.
+
+<img src="/images/elonmusk/amplify_video_thumb_2082133229524676608_img_0szutyTXc-kC7vgi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/grok/status/2082134072793637196#m)
 
 ---
 
@@ -41,6 +55,20 @@ RT by @elonmusk: I wrote about why we believe the future is for everyone. More c
 
 ---
 
+## 2026-07-29 02:27:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Neuralink just shared that participants living with paralysis are now controlling a powered wheelchair using nothing but their thoughts. No joystick. Just intention. Next up Neuralink will likely connect these individuals to an Optimus robot where they get complete independence, effectively telepresense – seeing and hearing, and ambulating through a robot. The singularity is really hear!
+
+<img src="/images/elonmusk/amplify_video_thumb_2080402252204740608_img_z94eEZnOYFLX0hHk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/PeterDiamandis/status/2082171000637333702#m)
+
+---
+
 ## 2026-07-29 04:25:52
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -58,6 +86,20 @@ RT by @elonmusk: Emails show leading officials at NIH, including Fauci, knew the
 **内容**:
 
 RT by @elonmusk: Sweden did not lock down
+
+---
+
+## 2026-07-29 04:54:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: As it turns out FSD is part of my "the singularity is already here" video released today: https://youtu.be/hMvJxmkNvd4
+
+<img src="/images/elonmusk/card_img_2082122051457036288_gY6WrB073Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/DrKnowItAll16/status/2082208203102728278#m)
 
 ---
 
@@ -209,10 +251,6 @@ Cool
 
 RT by @elonmusk: I’m on vacation and haven’t been able to read the entire diary, but someone sent me a page where Fauci complained about my September 2022 interview with former CDC Director Robert Redfield. Redfield told me in the interview that during the first few months of the pandemic he tried to get a CDC team into China but was cut out of critical government meetings by Fauci. Redfield suspected that Fauci began to isolate him for saying the government needed to investigate whether the pandemic started from a lab in Wuhan, China. Science reporters allied with Tony Fauci later labeled Redfield a “conspiracy theorist” for saying he thought the pandemic likely started from a lab accident. https://disinformationchronicle.substack.com/p/fauci-labelled-me-a-totally-weird
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJImpqCml_Ec6_NBGw3Ar_KoYcjG_gAAI_FGsbUsJRVyd5sUFT3nQVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/thackerpd/status/2082414064207020489#m)
-
 ---
 
 ## 2026-07-29 19:38:52
@@ -223,9 +261,33 @@ RT by @elonmusk: I’m on vacation and haven’t been able to read the entire di
 
 RT by @elonmusk: What's mind-blowing is Starship is the size of a 35-story high-rise. Imagine the tallest building in your city literally landing on the ocean 🤯
 
-<img src="/images/elonmusk/amplify_video_thumb_2082234615444434944_img_JS7qHlmdQdf4HuO5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/profstonge/status/2082430653841244663#m)
+## 2026-07-29 19:41:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Fashion 🫦
+
+<img src="/images/elonmusk/amplify_video_thumb_2082431213218779136_img_Px69gTwiHkiXPRrB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2082431409302479017#m)
+
+---
+
+## 2026-07-29 20:35:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: An illegal migrant has been sent to prison after turning up at a Heywood school armed with a hammer, hatchet and kitchen knife. A South Sudanese national named Both Douk Deng. He was stopped at the school with a hammer, hatcher, seven-inch kitchen knife, and jerry can containing half a litre of petrol. I dread to think - it would have been a pure massacre. How much more of this do we have to tolerate? Are we going to gamble with the lives of British children to accommodate these animals? On day one of a Restore Britain Government, every single of these scumbags who has broken into our country will be detained, and they will be deported. ENOUGH is ENOUGH.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJJWpqEbFs8-eHxSwV5TVQTPKFXacfAAJQFGsbUsJRV9tFBZzAkjK7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/RupertLowe10/status/2082444853258969408#m)
 
 ---
 
@@ -237,9 +299,19 @@ RT by @elonmusk: What's mind-blowing is Starship is the size of a 35-story high-
 
 RT by @elonmusk: According to Google it is OK to only want a Black doctor, but not a White doctor. @Google produces clearly different answers based on race. This is peak woke.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJIWpqCmUsdhz4sUi0u3BsgwiL6fTjAAI-FGsbUsJRV3pAIow3fTeQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/KatieMiller/status/2082449029674172654#m)
+## 2026-07-29 21:05:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Jensen Huang was asked about the people technology left behind. He didn't offer a plan. He said the gap already closed. Huang: "All of a sudden artificial intelligence closed that technology divide." That divide was never a gap in ability. It was a language requirement. Huang: "Anybody could be a software programmer now." Every tool we ever built charged admission, and the price was always a language. The press needed literacy. The engine needed the manual. The computer needed code. Every tool in history had the same shape. The human moved toward the machine, compressed into a form it could parse. Whoever couldn't compress stayed outside. Code was always a human speaking machine. Seventy years of people translating themselves down into something a processor would accept. It just learned to speak back. Nothing has ever moved in that direction before. So we sorted people by the toll and pretended we were sorting by mind. The ones who paid became skilled. Everyone else became unskilled, a word that has never once described a real person. It only meant fluent in nothing the market was buying. Huang: "Everybody who are really gifted at their craft but maybe they don't know how to scale themselves with technology, they now have AI to help scale them." The best cook in a village of four thousand died the best cook in a village of four thousand. Not from a shortage of ability, but from a second requirement that had nothing to do with the first. Go back far enough in your own family and there is someone who was extraordinary at something. The world never found out. Neither did they. Ability was never distributed by geography. Access was, and access is the only thing that got recorded. Every system you move through in a day was built by the narrow band who could speak to a machine. Not the best ideas anyone had. The ideas that survived translation. We have never once seen what the rest of the species would have made. The scarcity was never in the talent. It was in the distance between holding it and reaching anyone. That distance was the product the technology industry sold. Huang: "They're welcomed into the world's economy, not burdened by technology anymore because AI made that possible." Burdened. Technology sold itself as leverage for a century, and the man supplying the whole industry just called it a weight. A developer you couldn't afford. A site that broke on a Sunday with no one to call. You paid the technology industry for permission to be findable. Nobody on earth got smarter this decade. The door stopped asking for a password. Huang: "Five years from now, it is likely that we're all going to be more gainfully employed. The economy is gonna be more productive." He grounds that in the labor shortage already on the books. Open work with nobody there to do it, inside an economy panicking about a machine that takes work away. Both cannot be true. The fear says there won't be enough work for us. The ledger says there aren't enough of us for the work. Every time a tool stopped requiring a specialist, the specialist lost a monopoly and everyone else gained a century. Writing left the scribes. The press left the church. The computer left the lab. The barrier was also a shelter. Everyone left outside got to keep the version of themselves that was never tested. For most of history that was a mercy. The wall did the refusing, so you never had to hear it from anyone else. The wall is gone. Now you find out. Nothing about you changed. The requirement did. For the first time, the only thing between what you can do and who it reaches is whether you do it.
+
+<img src="/images/elonmusk/amplify_video_thumb_2082443594808299520_img_LZvfQYPN0Yilh9T-.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/r0ck3t23/status/2082452430596211126#m)
 
 ---
 
@@ -273,6 +345,20 @@ Video
 
 ---
 
+## 2026-07-29 21:35:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Americans buried parents alone. Children lost years of childhood. Families watched businesses they had built over a lifetime disappear. And while the country suffered, Anthony Fauci was writing in his diary about becoming “the most famous and talked about person in the country” and marveling that his fame was “explosive and really unimaginable.” There was no camera he couldn’t find. No interview he couldn’t give. No American life he wouldn’t micromanage. He said one thing to the public, and would write the opposite in his diary. Today, when the country finally demanded answers, the man who never stopped talking suddenly went silent.
+
+<img src="/images/elonmusk/amplify_video_thumb_2082454686464905217_img_rhZwWOxnlYXBzwR2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tedcruz/status/2082459891801760143#m)
+
+---
+
 ## 2026-07-29 21:58:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -281,11 +367,33 @@ Video
 
 Because he would incriminate himself. https://grok.com/share/bGVnYWN5_2bf90655-fca1-4f62-a51e-484b3a945056
 
-<img src="/images/elonmusk/card_img_2082465702372638720_VRoshPsN3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/elonmusk/amplify_video_thumb_2082458073981980672_img_r6Mx966yyxeaSYAB.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-29 22:23:42
 
-[查看原文](https://nitter.net/elonmusk/status/2082465700401361192#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Grok 4.5 ranked #1 on LaurenBench with a score of 56.9%, ahead of Claude Sonnet 5, GLM 5.2, Claude Opus 5, Kimi K3 and GPT-5.6. The benchmark tests real-world AI agents across conversation, tool use, memory and safety.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJI2pqEaaWbelac75aTfjbxHpc59W2AAJOFGsbUsJRVyoQG6QIfDswAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2082472135910473976#m)
+
+---
+
+## 2026-07-29 22:23:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build updates
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJJGpqEa35PVaboi5Ef7h_5-kKN3TWAAJPFGsbUsJRV1la3UxYOyHTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082472190575034548#m)
 
 ---
 
@@ -467,9 +575,33 @@ RT by @elonmusk: Humans for scale
 
 RT by @elonmusk: This is a fantastic article about @Tesla's FSD by The Detroit News: "Determined to maintain their individual transportation independence, they are using Tesla’s hands-free FSD system as a driver assist. Though by no means exclusive to seniors in its ability to add another set of eyes to the road, FSD helps elderly drivers maintain a cocoon around their car as their confidence in reflexes and eyesight naturally deteriorate. 92-year-old Leonard Kraus uses Tesla FSD (Supervised) for 87% of his miles. He recommended Tesla FSD to his 95-year-old brother-in-law. “I don't think I would be driving without it.” “It's as good a driver as I am,” said Dick Amacher, 78, a retired General Motors engineer from Rochester Hills who drives his Model Y and Model 3 on FSD 98% of the time. “Here's the thing, it will not go through a red light. It will not go through a stop sign. Every once in a while, I've driven through neighborhoods where stop signs were partially obscured by low hanging branches, for example. . . and (the Tesla) sees them before I do.” Driving into Detroit, FSD exited the expressway near Wayne State. “All of a sudden the Tesla pulls over to the curb. I'm like: ‘what is going on?’” said the 78-year old. “Turns out there was an emergency vehicle coming from behind. FSD saw that it was an emergency vehicle before I did. It has vision in every direction simultaneously. A human being cannot replicate that.” Full article: https://www.detroitnews.com/story/business/autos/2026/07/28/i-wouldnt-be-driving-without-it-seniors-adopt-self-driving-teslas/91059037007/
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHGppszKErT_j6f__Ntwzt6AWt-G8AAJOE2sbUsJRV1918_c1q3GGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SawyerMerritt/status/2081977918000140362#m)
+## 2026-07-28 16:47:50
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Like Amnesty, a once-great institution brought down by activists working within it.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJJmpqEbW-brRAWLrp6OlGQ4LUKYUEAAJRFGsbUsJRV31Uws4Mm3yWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Glinner/status/2082025223101272530#m)
+
+---
+
+## 2026-07-28 19:20:44
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: “If I died knowing that I did what was right or did my best to do what was right and even If in the history books they said I did wrong, I would still feel okay about that, I care about the reality of goodness and not the perception of it” -Elon Musk
+
+<img src="/images/elonmusk/ext_tw_video_thumb_1899506874061402112_pu_img_ajPFsEcCZBnd-Dd7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/iam_smx/status/2082063705269772586#m)
 
 ---
 
@@ -500,10 +632,6 @@ Interesting. Grok 4.6 releases around August 7. This will be the 1.5T model with
 **内容**:
 
 RT by @elonmusk: This has been my experience as well. I "drive" almost exclusively on FSD now, without incident, and it feels remarkable. I've told my soon-to-be 80-year-old father that his next car must have this technology for driving and navigation.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHGppszKErT_j6f__Ntwzt6AWt-G8AAJOE2sbUsJRV1918_c1q3GGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SciGuySpace/status/2082126570852843529#m)
 
 ---
 
