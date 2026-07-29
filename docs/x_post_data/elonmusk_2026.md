@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1616 条推文
+> 📊 推文存档 - 共 1619 条推文
 
 ---
 
@@ -28,10 +28,6 @@ RT by @elonmusk: Today we're launching app builder for Grok. It lets you build f
 **内容**:
 
 RT by @elonmusk: Help build the AI that advances humanity. SpaceXAI is hiring exceptional engineers to work on @Grok. Explore all open roles through the @SpaceXAI profile and apply directly from 𝕏
-
-<img src="/images/elonmusk/amplify_video_thumb_2082140292614955008_img_AcWo60BFYghIBOlh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2082140310553931980#m)
 
 ---
 
@@ -62,10 +58,6 @@ RT by @elonmusk: Emails show leading officials at NIH, including Fauci, knew the
 **内容**:
 
 RT by @elonmusk: Sweden did not lock down
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJH2ppsz8uzlniGUVZYMVLtvHvtBziAAJRE2sbUsJRV5Vzn16EQ5QbAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/kevinnbass/status/2082204743678529689#m)
 
 ---
 
@@ -167,10 +159,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 
 RT by @elonmusk: BREAKING: Grok 4.5 just claimed the top spot on the new HighWalk Benchmark. The independent test measures how well AI models update real technical specifications from 46 Laravel commits — heavy on code analysis, abstraction, and precise writing. Results: • Grok 4.5 (high) → overall #1 (best quality + efficiency combo) • Claude Opus 5 (high) → highest raw quality, zero hard failures • GLM 5.2 → strongest open-weight model Higher reasoning effort didn’t always help. Full results just dropped.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJG2ppsy5AQJP2vAOZ02SlJqXDGIsGAAJNE2sbUsJRVyuSg3uSVBvaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2082346176922407060#m)
-
 ---
 
 ## 2026-07-29 15:01:58
@@ -201,10 +189,6 @@ John Cleese has (all too rare) common sense
 
 The ship landing was precise, meaning that it would have been caught by the tower arms
 
-<img src="/images/elonmusk/amplify_video_thumb_2082340087187267584_img__Obuv73doZjTm4-T.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082367610835157028#m)
-
 ---
 
 ## 2026-07-29 15:31:29
@@ -215,11 +199,47 @@ The ship landing was precise, meaning that it would have been caught by the towe
 
 Cool
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHWppszjnstjV0AKoWwmf9nOM9TEHAAJPE2sbUsJRV1iHKoTc6KYoAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHmppszwGDl7B7s0VU-H_VGJTFUazAAJQE2sbUsJRV-eKC6R-e09-AQADAgADeAADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-29 21:28:16
 
-[查看原文](https://nitter.net/elonmusk/status/2082368400702226588#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2082243649643892736_img_nw-NdR13c7GVGylG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082458184913195344#m)
+
+---
+
+## 2026-07-29 21:28:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2081788239728238593_img_CXwpYEaBu_WwMJmQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082458212662661293#m)
+
+---
+
+## 2026-07-29 21:31:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2082258352248131584_img_oNABvPOnapkzLLxU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082458959248834596#m)
 
 ---
 
