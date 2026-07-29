@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1606 条推文
+> 📊 推文存档 - 共 1609 条推文
 
 ---
 
@@ -28,6 +28,20 @@ RT by @elonmusk: Today we're launching app builder for Grok. It lets you build f
 **内容**:
 
 RT by @elonmusk: I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.
+
+---
+
+## 2026-07-29 04:25:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Emails show leading officials at NIH, including Fauci, knew the best data indicated no benefit from masks. Why did they proclaim great benefits of masks then? Because these officials were not managing a virus using science. They were managing a population using psychology.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJGmppq-vjV25iH3_PGn2bwHGPY-Q8AAIwE2sbUsJRV4MP-ssDu0urAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/kevinnbass/status/2082200890564378992#m)
 
 ---
 
@@ -109,10 +123,6 @@ Starship still floating in the ocean
 
 RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, which tests how well AI agents update technical specifications from code changes. Grok delivered the best combination of quality and operational efficiency, finishing ahead of Claude and GPT.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJGGppnWCDJZxv_ggLtSgWxHDd7ojbAAMTaxtSwlFXG2K9B8J9ergBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2082343862178116018#m)
-
 ---
 
 ## 2026-07-29 14:01:50
@@ -123,9 +133,31 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 
 (Not satire)
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJGWppnWS4jyejUIRYdZ06CS7oa45kAAIBE2sbUsJRV2LaFvk2kvetAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082345838676947404#m)
+## 2026-07-29 15:01:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok now in Copilot
+
+<img src="/images/elonmusk/card_img_2082209524367396864_rwW5SMFa3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082360969150529649#m)
+
+---
+
+## 2026-07-29 15:04:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+John Cleese has (all too rare) common sense
+
+[查看原文](https://nitter.net/elonmusk/status/2082361703833243972#m)
 
 ---
 
