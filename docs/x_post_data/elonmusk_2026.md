@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1609 条推文
+> 📊 推文存档 - 共 1616 条推文
 
 ---
 
@@ -18,6 +18,20 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Today we're launching app builder for Grok. It lets you build fully functional apps and publish them instantly, on a unique domain, all from within Grok. Available now on http://grok.com.
+
+---
+
+## 2026-07-29 00:25:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Help build the AI that advances humanity. SpaceXAI is hiring exceptional engineers to work on @Grok. Explore all open roles through the @SpaceXAI profile and apply directly from 𝕏
+
+<img src="/images/elonmusk/amplify_video_thumb_2082140292614955008_img_AcWo60BFYghIBOlh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2082140310553931980#m)
 
 ---
 
@@ -39,9 +53,19 @@ RT by @elonmusk: I wrote about why we believe the future is for everyone. More c
 
 RT by @elonmusk: Emails show leading officials at NIH, including Fauci, knew the best data indicated no benefit from masks. Why did they proclaim great benefits of masks then? Because these officials were not managing a virus using science. They were managing a population using psychology.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJGmppq-vjV25iH3_PGn2bwHGPY-Q8AAIwE2sbUsJRV4MP-ssDu0urAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/kevinnbass/status/2082200890564378992#m)
+## 2026-07-29 04:41:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Sweden did not lock down
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJH2ppsz8uzlniGUVZYMVLtvHvtBziAAJRE2sbUsJRV5Vzn16EQ5QbAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/kevinnbass/status/2082204743678529689#m)
 
 ---
 
@@ -135,6 +159,20 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 
 ---
 
+## 2026-07-29 14:03:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Grok 4.5 just claimed the top spot on the new HighWalk Benchmark. The independent test measures how well AI models update real technical specifications from 46 Laravel commits — heavy on code analysis, abstraction, and precise writing. Results: • Grok 4.5 (high) → overall #1 (best quality + efficiency combo) • Claude Opus 5 (high) → highest raw quality, zero hard failures • GLM 5.2 → strongest open-weight model Higher reasoning effort didn’t always help. Full results just dropped.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJG2ppsy5AQJP2vAOZ02SlJqXDGIsGAAJNE2sbUsJRVyuSg3uSVBvaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2082346176922407060#m)
+
+---
+
 ## 2026-07-29 15:01:58
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -142,10 +180,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 **内容**:
 
 Grok now in Copilot
-
-<img src="/images/elonmusk/card_img_2082209524367396864_rwW5SMFa3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082360969150529649#m)
 
 ---
 
@@ -157,13 +191,41 @@ Grok now in Copilot
 
 John Cleese has (all too rare) common sense
 
-[查看原文](https://nitter.net/elonmusk/status/2082361703833243972#m)
+---
+
+## 2026-07-29 15:28:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The ship landing was precise, meaning that it would have been caught by the tower arms
+
+<img src="/images/elonmusk/amplify_video_thumb_2082340087187267584_img__Obuv73doZjTm4-T.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082367610835157028#m)
+
+---
+
+## 2026-07-29 15:31:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHWppszjnstjV0AKoWwmf9nOM9TEHAAJPE2sbUsJRV1iHKoTc6KYoAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHmppszwGDl7B7s0VU-H_VGJTFUazAAJQE2sbUsJRV-eKC6R-e09-AQADAgADeAADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082368400702226588#m)
 
 ---
 
 ## 2026-07-28 00:21:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -173,7 +235,7 @@ RT by @elonmusk: BREAKING: President Javier Milei announced Starlink will connec
 
 ## 2026-07-28 00:42:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -183,7 +245,7 @@ True
 
 ## 2026-07-28 01:13:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -193,7 +255,7 @@ RT by @elonmusk: In the last couple weeks, X has been joined by: Mark Zuckerberg
 
 ## 2026-07-28 01:46:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -203,7 +265,7 @@ Extremely important point
 
 ## 2026-07-28 01:50:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -213,7 +275,7 @@ This is so funny 🤣🤣
 
 ## 2026-07-28 01:57:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -223,7 +285,7 @@ R to @elonmusk: “Not having symptoms is one of the symptoms” 🙄 🤦‍♂
 
 ## 2026-07-28 02:00:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -233,7 +295,7 @@ Actual footage 😂
 
 ## 2026-07-28 02:08:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -243,7 +305,7 @@ The best way to communicate with the world is directly in your own words, not th
 
 ## 2026-07-28 09:35:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -253,7 +315,7 @@ This is money
 
 ## 2026-07-28 09:51:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -263,7 +325,7 @@ This is money
 
 ## 2026-07-28 09:54:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -273,7 +335,7 @@ Unfiltered reality
 
 ## 2026-07-28 10:56:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -283,7 +345,7 @@ Where we are going there is no training data
 
 ## 2026-07-28 10:56:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -293,7 +355,7 @@ True
 
 ## 2026-07-28 11:17:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -303,21 +365,17 @@ RT @WR4NYGov: 2002-2004: Software guy thinks he can build rockets and cars 2016:
 
 ## 2026-07-28 12:43:37
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Looking forward to more integration with X -Direct messages should have a quick send/request -Group chats could have a split the bill feature -Tipping on articles/informative well researched posts Future P2P features that could work well: Ebay/Etsy/Kickstarter
 
-<img src="/images/elonmusk/amplify_video_thumb_2081799044624474112_img_P6R4Nryfd_A2go7a.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/wmorrill3/status/2081963764916830714#m)
-
 ---
 
 ## 2026-07-28 13:21:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,55 +385,69 @@ Common sense
 
 ## 2026-07-28 13:33:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Humans for scale
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJD2poz8wj0pXtcUc3M2rk78A5d0jgAAJ4E2sb6lBJVxaf6GwJtjWHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/ArthurMacwaters/status/2081976295748157678#m)
+## 2026-07-28 13:39:51
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: This is a fantastic article about @Tesla's FSD by The Detroit News: "Determined to maintain their individual transportation independence, they are using Tesla’s hands-free FSD system as a driver assist. Though by no means exclusive to seniors in its ability to add another set of eyes to the road, FSD helps elderly drivers maintain a cocoon around their car as their confidence in reflexes and eyesight naturally deteriorate. 92-year-old Leonard Kraus uses Tesla FSD (Supervised) for 87% of his miles. He recommended Tesla FSD to his 95-year-old brother-in-law. “I don't think I would be driving without it.” “It's as good a driver as I am,” said Dick Amacher, 78, a retired General Motors engineer from Rochester Hills who drives his Model Y and Model 3 on FSD 98% of the time. “Here's the thing, it will not go through a red light. It will not go through a stop sign. Every once in a while, I've driven through neighborhoods where stop signs were partially obscured by low hanging branches, for example. . . and (the Tesla) sees them before I do.” Driving into Detroit, FSD exited the expressway near Wayne State. “All of a sudden the Tesla pulls over to the curb. I'm like: ‘what is going on?’” said the 78-year old. “Turns out there was an emergency vehicle coming from behind. FSD saw that it was an emergency vehicle before I did. It has vision in every direction simultaneously. A human being cannot replicate that.” Full article: https://www.detroitnews.com/story/business/autos/2026/07/28/i-wouldnt-be-driving-without-it-seniors-adopt-self-driving-teslas/91059037007/
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHGppszKErT_j6f__Ntwzt6AWt-G8AAJOE2sbUsJRV1918_c1q3GGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2081977918000140362#m)
 
 ---
 
 ## 2026-07-28 20:52:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: 👏👏👏 @Starlink
 
-<img src="/images/elonmusk/amplify_video_thumb_2081777001996632064_img_qXvsYQRBEprN_f8M.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mayemusk/status/2082086874735059330#m)
-
 ---
 
 ## 2026-07-28 23:20:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Interesting. Grok 4.6 releases around August 7. This will be the 1.5T model with significantly improved SFT & RL. Grok 4.7 will be the 2.1T model released a few weeks later. This will be better than 4.6 in every way, except slightly slower to serve, albeit with even better token efficiency.
 
-<img src="/images/elonmusk/card_img_2081583555591966720_A_CHuuTG3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082123925283041545#m)
+## 2026-07-28 23:30:33
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: This has been my experience as well. I "drive" almost exclusively on FSD now, without incident, and it feels remarkable. I've told my soon-to-be 80-year-old father that his next car must have this technology for driving and navigation.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJHGppszKErT_j6f__Ntwzt6AWt-G8AAJOE2sbUsJRV1918_c1q3GGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SciGuySpace/status/2082126570852843529#m)
 
 ---
 
 ## 2026-07-28 23:30:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Gad is right again
-
-[查看原文](https://nitter.net/elonmusk/status/2082126582873821412#m)
 
 ---
 
