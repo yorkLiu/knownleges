@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 256 条推文
+> 📊 推文存档 - 共 257 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 這個月念經團成員準備增加一部經，自願誦持，大家可以先熟悉一下 誦經《太上玄靈北斗本命延生真經》（轉發功德無量） https://youtu.be/xnguO7KEccg?si=cTSdf4ZKuT1XOKje 來自 @YouTube
 
-<img src="/images/dianzhuXS/card_img_2082409199913537536_UlT4NK4Q3Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2082409667372933521#m)
+## 2026-07-29 18:40:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韓國股市暴跌，一幫中簡幸災樂禍，還有拿三星罷工老視頻出來，說爆發大遊行維權博流量的，說的就跟自己親眼看見了似的🤪 好吧，既然你們這麼髒，那大盧就不得不再沖一下肺管子啦。如圖，我們這裡的受眾現在都應該是子彈充足，準備伺機「開張吃三年」嘍。 十賭九輸，你們被套牢是因為你們爛賭，跟韓國人沒關係。韓國股市就是跌到0，你們還是沒救，比爛尋找心理安慰，也解不了三世窮鬼附體🤗
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJIGpp3sr6PE61NXWguLVAYRr7_9uiAALlE2sbUsJRVxuBQCrX9EfQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2082416055985811686#m)
 
 ---
 
