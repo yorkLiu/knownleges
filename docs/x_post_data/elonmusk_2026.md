@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1619 条推文
+> 📊 推文存档 - 共 1623 条推文
 
 ---
 
@@ -201,6 +201,48 @@ Cool
 
 ---
 
+## 2026-07-29 18:32:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I’m on vacation and haven’t been able to read the entire diary, but someone sent me a page where Fauci complained about my September 2022 interview with former CDC Director Robert Redfield. Redfield told me in the interview that during the first few months of the pandemic he tried to get a CDC team into China but was cut out of critical government meetings by Fauci. Redfield suspected that Fauci began to isolate him for saying the government needed to investigate whether the pandemic started from a lab in Wuhan, China. Science reporters allied with Tony Fauci later labeled Redfield a “conspiracy theorist” for saying he thought the pandemic likely started from a lab accident. https://disinformationchronicle.substack.com/p/fauci-labelled-me-a-totally-weird
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJImpqCml_Ec6_NBGw3Ar_KoYcjG_gAAI_FGsbUsJRVyd5sUFT3nQVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/thackerpd/status/2082414064207020489#m)
+
+---
+
+## 2026-07-29 19:38:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: What's mind-blowing is Starship is the size of a 35-story high-rise. Imagine the tallest building in your city literally landing on the ocean 🤯
+
+<img src="/images/elonmusk/amplify_video_thumb_2082234615444434944_img_JS7qHlmdQdf4HuO5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/profstonge/status/2082430653841244663#m)
+
+---
+
+## 2026-07-29 20:51:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: According to Google it is OK to only want a Black doctor, but not a White doctor. @Google produces clearly different answers based on race. This is peak woke.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJIWpqCmUsdhz4sUi0u3BsgwiL6fTjAAI-FGsbUsJRV3pAIow3fTeQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/KatieMiller/status/2082449029674172654#m)
+
+---
+
 ## 2026-07-29 21:28:16
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -208,10 +250,6 @@ Cool
 **内容**:
 
 Video
-
-<img src="/images/elonmusk/amplify_video_thumb_2082243649643892736_img_nw-NdR13c7GVGylG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082458184913195344#m)
 
 ---
 
@@ -223,10 +261,6 @@ Video
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2081788239728238593_img_CXwpYEaBu_WwMJmQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082458212662661293#m)
-
 ---
 
 ## 2026-07-29 21:31:20
@@ -237,9 +271,21 @@ Video
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2082258352248131584_img_oNABvPOnapkzLLxU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082458959248834596#m)
+## 2026-07-29 21:58:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Because he would incriminate himself. https://grok.com/share/bGVnYWN5_2bf90655-fca1-4f62-a51e-484b3a945056
+
+<img src="/images/elonmusk/card_img_2082465702372638720_VRoshPsN3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2082458073981980672_img_r6Mx966yyxeaSYAB.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082465700401361192#m)
 
 ---
 
