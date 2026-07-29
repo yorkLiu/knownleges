@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 255 条推文
+> 📊 推文存档 - 共 256 条推文
+
+---
+
+## 2026-07-29 18:15:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這個月念經團成員準備增加一部經，自願誦持，大家可以先熟悉一下 誦經《太上玄靈北斗本命延生真經》（轉發功德無量） https://youtu.be/xnguO7KEccg?si=cTSdf4ZKuT1XOKje 來自 @YouTube
+
+<img src="/images/dianzhuXS/card_img_2082409199913537536_UlT4NK4Q3Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2082409667372933521#m)
 
 ---
 
