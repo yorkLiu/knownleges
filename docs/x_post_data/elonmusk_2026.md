@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1602 条推文
+> 📊 推文存档 - 共 1603 条推文
 
 ---
 
@@ -19,9 +19,17 @@ tags: ["2026"]
 
 RT by @elonmusk: Today we're launching app builder for Grok. It lets you build fully functional apps and publish them instantly, on a unique domain, all from within Grok. Available now on http://grok.com.
 
-<img src="/images/elonmusk/amplify_video_thumb_2082133229524676608_img_0szutyTXc-kC7vgi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/benjitaylor/status/2082137145507254440#m)
+## 2026-07-29 01:44:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.
+
+[查看原文](https://nitter.net/finkd/status/2082160210399948869#m)
 
 ---
 
@@ -33,10 +41,6 @@ RT by @elonmusk: Today we're launching app builder for Grok. It lets you build f
 
 Supervised FSD unequivocally saves lives, which means delays in country approvals costs lives!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJF2ppVM1fSIWlx1xgkLx6_VKaQtAgAAJOEWsb6lBRVwgEuzP15iDCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082241806713205087#m)
-
 ---
 
 ## 2026-07-29 07:12:40
@@ -46,10 +50,6 @@ Supervised FSD unequivocally saves lives, which means delays in country approval
 **内容**:
 
 Never forget how fragile the tiny candle of consciousness is
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJFmppVMjgW1SECjsdv-g3olR18JjgAAJNEWsb6lBRVyRjWsEY8exzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082242865724580279#m)
 
 ---
 
@@ -61,10 +61,6 @@ Never forget how fragile the tiny candle of consciousness is
 
 Video
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJFWppVMWWt7kJ_yLhQzo3Knu83sE9AAJMEWsb6lBRV8VnQ9uf6DiFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082243743013614012#m)
-
 ---
 
 ## 2026-07-29 07:16:46
@@ -74,10 +70,6 @@ Video
 **内容**:
 
 Stayin’ Alive
-
-<img src="/images/elonmusk/amplify_video_thumb_2082197704193527808_img_gvcC-uNBE93Inh5a.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082243900719460745#m)
 
 ---
 
@@ -89,14 +81,6 @@ Stayin’ Alive
 
 Landing videos of Starship
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJFGppVL3ztA5MHwdexVyJ6mkZYH46AAJLEWsb6lBRV4xZuWKL15u6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2082186248727281665_img_G47myPlA6IMWLf5r.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2082186268385923072_img_I04D-i5p6nTDneM4.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082244044261064874#m)
-
 ---
 
 ## 2026-07-29 07:17:49
@@ -106,12 +90,6 @@ Landing videos of Starship
 **内容**:
 
 We’re sending a ship out to recover Starship
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJEmppVLSC3MAucMGteUNSVeRYTvCpAAJJEWsb6lBRV1RpM2jQdZIOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJE2ppVLnPCRkdm2DgAVXZAjkYpxdyAAJKEWsb6lBRVwzAnDfqrdtZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082244164197183805#m)
 
 ---
 
