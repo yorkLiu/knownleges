@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 344 条推文
+> 📊 推文存档 - 共 345 条推文
 
 ---
 
@@ -69,11 +69,17 @@ Just some takeaways from $META | $MSFT earnings calls: Microsoft: - Expected to 
 
 Just some interesting takeaways from $FORM earnings call on CPO: Since they attributed systems revenue nearly doubled due to: "accelerating growth in co-packaged optics or CPO". Q1 2026: "we now expect 2026 CPO revenues to come in at the high end of the $10 million to $20 million range" Q2 2026 (now): "expect to exceed that range by the end of the third quarter, and to significantly exceed the $20 million level for the year overall." Management stated "We’re seeing some significant acceleration in this [CPO] business". Q: CPO adoption outlook. Are we perhaps expecting the timeline to accelerate a little bit? A: "What I would say is there’s acceleration here in the very short term." But management stated there's not a significant pull-in on timelines. Citing production infrastructure (not just R&D) for: - The growing volumes of CPO chips planned for later this year + test insertion for scale-up and scale-out switches. - Seems like that CPO piece flows through $TSM COUPE [ likely maps to $NVDA CPO products] - "The CPO piece does flow through that 10% customer" So now, test is ramping given management cited growing volumes of CPO chips. "The rapid recent growth of our CPO business is an exciting development, which we believe represents the very early stages of widespread adoption of silicon photonics in the broader semiconductor industry" TLDR: Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp). Personally once all the deleveraging stops, I think markets will start to care more.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJPWpq-pHAAakewHopNBPEA7-rYQybAAKPFGsbUsJZV1Gmg20B3lIuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJPmpq-pkFVwsZW7ozSQMREXzFBpkCAAKQFGsbUsJZV3IckDgLDnFkAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-30 16:10:00
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2082720873908494456#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+There's a lot of stupid commentary around Leopold raising funds. After names like $BE, $SNDK, $SHAZ, and others all had very sharp drawdowns in July. Just remember... here's a man in finance that's 1. 6'5 2. Blue Eyes 3. Hedge Fund Probably better looking than you, and was up 439% through June YTD. Regarding the drawdown, Aschenbrenner acknowledged that the fund had "not been immune" to the market turmoil, particularly in Asia. FT separately reported that leverage amplified both its extraordinary gains and recent losses. He described the sell-off as potentially the best buying opportunity since early 2025 I'd agree with him and hope he succeeds with the raise. Since a lot of the current selloff looks like it overshot its mark through forced deleveraging.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2082740477795745942#m)
 
 ---
 
