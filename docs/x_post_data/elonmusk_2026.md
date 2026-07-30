@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1669 条推文
+> 📊 推文存档 - 共 1672 条推文
 
 ---
 
@@ -58,6 +58,20 @@ Try the new Grok Voice
 **内容**:
 
 RT by @elonmusk: SpaceXAI has built the best voice model I’ve ever used Once you experience how precisely Grok Voice recognizes speech and understands what you mean, it’s hard to go back The best part of Think Fast 2.0 is that it reasons in parallel and begins taking action while it is still talking to you...without adding any latency
+
+---
+
+## 2026-07-30 03:18:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Build now has a way to enable/disable MCP grok mcp enable <name> grok mcp disable <name>
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJP2prAlTbB4POVgs615xRzS6wZKw0AAKYFGsbUsJZVyiYKYH00P--AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/techdevnotes/status/2082546312608719207#m)
 
 ---
 
@@ -259,10 +273,6 @@ Pinned: Congratulations to the Tesla Team! 10 million vehicles manufactured is a
 
 RT by @elonmusk: Congrats to all Tesla teams. Proud to be part of this amazing journey. And we’re just getting started.
 
-<img src="/images/elonmusk/amplify_video_thumb_2082707383021895680_img_Jcdd4-BLmEYcoGUm.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tomzhu_nz/status/2082715175795482909#m)
-
 ---
 
 ## 2026-07-30 14:41:03
@@ -273,9 +283,19 @@ RT by @elonmusk: Congrats to all Tesla teams. Proud to be part of this amazing j
 
 RT by @elonmusk: NVIDIA CEO, Jensen Huang: I want to be involved in nearly everything Elon Musk does. "For xAI, we're an investor already. The only regret I have is I didn't give him more money. Almost everything that @elonmusk is part of you really want to be part of as well, and and he gave us the opportunity to invest, I'm just delighted by that."
 
-<img src="/images/elonmusk/amplify_video_thumb_2082718060473901056_img_4PTxMTZrg2DHXfUj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/cb_doge/status/2082718093608944035#m)
+## 2026-07-30 14:59:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mission from pad 40 in Florida https://x.com/i/broadcasts/1DxLddLoqayxm
+
+<img src="/images/elonmusk/card_img_2082734030492176385_ljpqmwcI3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2082722674732626193#m)
 
 ---
 
@@ -697,9 +717,19 @@ RT by @elonmusk: Time Magazine, February 24th 1961 In the 5 years that followed 
 
 RT by @elonmusk: Starlink is helping transform healthcare across Sierra Leone 🇸🇱 The country’s Minister of Health, Dr. Austin Demby, has launched Starlink internet connectivity for 300 government health facilities nationwide For clinics where reliable terrestrial internet is limited, this will strengthen communication, digital health services, emergency coordination and access to critical information Starlink is not just connecting homes and businesses It is now becoming essential infrastructure for healthcare, education and public services across the world This is a life-saving infrastructure
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJNmpqzpdYEmUQ-cb0a6HxTENwhCahAALME2sbUsJZVw3SOazziashAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/XFreeze/status/2082479722567766269#m)
+## 2026-07-29 23:51:12
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Gates-ism perfectly epitomized.
+
+<img src="/images/elonmusk/amplify_video_thumb_2082155893958049792_img_Ee1j0jHQmHivCudo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xenocosmography/status/2082494156987871642#m)
 
 ---
 
@@ -710,10 +740,6 @@ RT by @elonmusk: Starlink is helping transform healthcare across Sierra Leone �
 **内容**:
 
 RT by @elonmusk: To justify mRNA vaccine mandates, Americans were told the shots would stop infection, block transmission, and end the spread of COVID. None of that was true, and Fauci knew it. Trust collapsed not because Americans became “anti-science,” but because Fauci misled the public, moved the goalposts, and worked with Big Tech to silence dissent. In August 2022, Fauci wrote in his own diary that he pushed the CDC to avoid saying the vaccines were “not effective at all in preventing infection and transmission.” Why? Because it “would undermine the DOJ’s efforts at mandates.” He suppressed the truth to protect the mandates, not the public. Meanwhile, the people chanting “trust the science” were silencing scientists: Dr. @RWMaloneMD: banned from Twitter. Dr. @P_McCulloughMD: smeared and deplatformed. Dr. @DrJBhattacharya: smeared and shadowbanned. Millions of other Americans were censored, mocked, or branded “conspiracy theorists” for questioning lockdowns, school closures, treatment protocols, natural immunity, or vaccine efficacy. The same Left and media that attacked them still runs cover for Fauci and his agency’s funding of GOF coronavirus research in Wuhan. Science advances through skepticism, open debate, and challenges to established claims. Fauci and the Left's COVID playbook relied on the opposite: captured agencies, Big Tech, and corporate media working together to crush dissent and protect the official narrative. Fauci wanted to become the world’s most famous scientist. Instead, he did more to destroy public trust in science than anyone in our lifetime.
-
-<img src="/images/elonmusk/amplify_video_thumb_2082490275222663168_img_BPoZnW5KDb3wAcNW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/KanekoaTheGreat/status/2082495907787112712#m)
 
 ---
 
