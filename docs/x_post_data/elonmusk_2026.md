@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1672 条推文
+> 📊 推文存档 - 共 1673 条推文
 
 ---
 
@@ -68,10 +68,6 @@ RT by @elonmusk: SpaceXAI has built the best voice model I’ve ever used Once y
 **内容**:
 
 RT by @elonmusk: Grok Build now has a way to enable/disable MCP grok mcp enable <name> grok mcp disable <name>
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJP2prAlTbB4POVgs615xRzS6wZKw0AAKYFGsbUsJZVyiYKYH00P--AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/techdevnotes/status/2082546312608719207#m)
 
 ---
 
@@ -293,9 +289,19 @@ RT by @elonmusk: NVIDIA CEO, Jensen Huang: I want to be involved in nearly every
 
 RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mission from pad 40 in Florida https://x.com/i/broadcasts/1DxLddLoqayxm
 
-<img src="/images/elonmusk/card_img_2082734030492176385_ljpqmwcI3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SpaceX/status/2082722674732626193#m)
+## 2026-07-30 21:49:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Moroccan media reports that over 30,000 Moroccans are currently invading Ceuta On the eve of Throne Day, Moroccan King Mohammed VI pardoned 1,788 prisoners. In May, he pardoned 1,376 prisoners, including terrorists. They are now entering Spain with no controls 🇪🇸🇲🇦
+
+<img src="/images/elonmusk/amplify_video_thumb_2082825835484975104_img_WquJ4EDfm_q7faiE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/visegrad24/status/2082825977353076848#m)
 
 ---
 
