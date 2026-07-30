@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 343 条推文
+> 📊 推文存档 - 共 344 条推文
 
 ---
 
@@ -59,7 +59,21 @@ $AXTI enters long term agreement with $LITE for InP substrates. Lumentum has agr
 
 Just some takeaways from $META | $MSFT earnings calls: Microsoft: - Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income) - "Free cash flow was $19.6 billion, reflecting higher capital expenditures" - Quartely capex was $41B, roughly 2/3rds were "short lived assets, primarily CPUs and GPUs" - Expects capex spend will be over $50 billion for next quarter - Capex Guidance at ~$175 billion and 2027 capex roughly the same. Spending plans unchanged and in line. - "Extending the estimated useful life of our data centers from 15 to 25 years" - "We will be among the first cloud providers to deploy next generation rack-scale AI infrastructure based on $AMD Helios and $NVDA Vera Rubin" - "Customer demand continues to exceed available capacity" Meta: - Capex $130-$145 billion (narrowed range), from $125B-$145B. - Meta is receiving offers at a "significant premium" to what they paid for it (compute scarcity, positive for neoclouds like $IREN / $NBIS ) - Expects significant portion of compute (like the 1 GW DC in El Paso) to develop internal models. - Meta has multiple ROI-positive uses for additional compute across its core business (internally, not Meta Compute) - "Finally, we believe that overall industry capacity is going to remain tight for the foreseeable future" - "The industry has under-built historically for the wave of AI adoption, making existing capacity, including our own, extremely valuable" - Susan Li TLDR: - $MSFT and $GOOGL largely sustaining AI capex buildout while remaining FCF positive or through operating incomes. - $META flags available compute materially below demand at least through 2027. And $MSFT also flags compute demand far exceeds supply. - All three hyperscaler capex largely in line with Google hiking capex figures. AI selloff seems extremely overblown now, hyperscalers continuing capex in line (with Microsoft being FCF positive) or even hiked with $GOOGL. Compute scarcity is visible throughout every single hyperscaler ER.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2082605568699871284#m)
+---
+
+## 2026-07-30 14:52:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just some interesting takeaways from $FORM earnings call on CPO: Since they attributed systems revenue nearly doubled due to: "accelerating growth in co-packaged optics or CPO". Q1 2026: "we now expect 2026 CPO revenues to come in at the high end of the $10 million to $20 million range" Q2 2026 (now): "expect to exceed that range by the end of the third quarter, and to significantly exceed the $20 million level for the year overall." Management stated "We’re seeing some significant acceleration in this [CPO] business". Q: CPO adoption outlook. Are we perhaps expecting the timeline to accelerate a little bit? A: "What I would say is there’s acceleration here in the very short term." But management stated there's not a significant pull-in on timelines. Citing production infrastructure (not just R&D) for: - The growing volumes of CPO chips planned for later this year + test insertion for scale-up and scale-out switches. - Seems like that CPO piece flows through $TSM COUPE [ likely maps to $NVDA CPO products] - "The CPO piece does flow through that 10% customer" So now, test is ramping given management cited growing volumes of CPO chips. "The rapid recent growth of our CPO business is an exciting development, which we believe represents the very early stages of widespread adoption of silicon photonics in the broader semiconductor industry" TLDR: Fundamentally, CPO as a theme is very early, and should start to go brrr soon since it's starting to show up in earnings now (equipment/test players usually appear up first before optical engines / laser volumes ramp). Personally once all the deleveraging stops, I think markets will start to care more.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJPWpq-pHAAakewHopNBPEA7-rYQybAAKPFGsbUsJZV1Gmg20B3lIuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJPmpq-pkFVwsZW7ozSQMREXzFBpkCAAKQFGsbUsJZV3IckDgLDnFkAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2082720873908494456#m)
 
 ---
 

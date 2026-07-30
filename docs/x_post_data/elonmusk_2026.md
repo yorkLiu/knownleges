@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1667 条推文
+> 📊 推文存档 - 共 1669 条推文
 
 ---
 
@@ -219,10 +219,6 @@ And Grok 4.6 is a significant improvement
 
 RT by @elonmusk: • Hostile Media Outlet Gets DESTROYED By Own Audience After Posting Elon Musk Interview Online THIS IS GLORIOUS 😂😂😂😂😂😂😂😂
 
-<img src="/images/elonmusk/amplify_video_thumb_2082692222190006273_img_FXN09GXCxpP0mX04.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/stevenmarkryan/status/2082696438514143655#m)
-
 ---
 
 ## 2026-07-30 13:50:34
@@ -232,10 +228,6 @@ RT by @elonmusk: • Hostile Media Outlet Gets DESTROYED By Own Audience After P
 **内容**:
 
 Grok Build update
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJPGpq8vCEcTMsSG7jNmxTSH9v7lX_AAI-FGsbUsJZV0NbhjNmhB4PAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082705390358212687#m)
 
 ---
 
@@ -247,10 +239,6 @@ Grok Build update
 
 And Grok 4.6 comes out in a week
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJI2pqEaaWbelac75aTfjbxHpc59W2AAJOFGsbUsJRVyoQG6QIfDswAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082707547203518569#m)
-
 ---
 
 ## 2026-07-30 14:17:39
@@ -261,9 +249,33 @@ And Grok 4.6 comes out in a week
 
 Pinned: Congratulations to the Tesla Team! 10 million vehicles manufactured is an incredible amount of work.
 
+---
+
+## 2026-07-30 14:29:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Congrats to all Tesla teams. Proud to be part of this amazing journey. And we’re just getting started.
+
 <img src="/images/elonmusk/amplify_video_thumb_2082707383021895680_img_Jcdd4-BLmEYcoGUm.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/elonmusk/status/2082712206169256279#m)
+[查看原文](https://nitter.net/tomzhu_nz/status/2082715175795482909#m)
+
+---
+
+## 2026-07-30 14:41:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: NVIDIA CEO, Jensen Huang: I want to be involved in nearly everything Elon Musk does. "For xAI, we're an investor already. The only regret I have is I didn't give him more money. Almost everything that @elonmusk is part of you really want to be part of as well, and and he gave us the opportunity to invest, I'm just delighted by that."
+
+<img src="/images/elonmusk/amplify_video_thumb_2082718060473901056_img_4PTxMTZrg2DHXfUj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2082718093608944035#m)
 
 ---
 
