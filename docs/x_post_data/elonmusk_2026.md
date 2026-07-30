@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1679 条推文
+> 📊 推文存档 - 共 1681 条推文
 
 ---
 
@@ -19,9 +19,17 @@ tags: ["2026"]
 
 Spain’s entire budget will be destroyed by illegal migrants. It’s basic math: if Spain offers free stuff to migrants that is above 90% of the living standard of Earth, they create a forcing function for 90% of Earth to move to Spain, which is around 7 billion people!
 
-<img src="/images/elonmusk/amplify_video_thumb_2082903152932814848_img_MvqhY6niNw2AGC0m.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082927356893683771#m)
+## 2026-07-31 05:02:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wake up, before it is too late
+
+[查看原文](https://nitter.net/elonmusk/status/2082934814756282751#m)
 
 ---
 
@@ -305,6 +313,20 @@ RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mi
 
 ---
 
+## 2026-07-30 17:36:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🇪🇸 Residents in Barcelona are installing barbed wire along their balconies to protect their homes from burglaries and squatters.
+
+<img src="/images/elonmusk/amplify_video_thumb_2082762065022783488_img_kW0zOjr1nhuL82Nv.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/RMXnews/status/2082762131125023044#m)
+
+---
+
 ## 2026-07-30 20:04:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -312,10 +334,6 @@ RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mi
 **内容**:
 
 RT by @elonmusk: Huge congratulations. Bringing happiness and safety to 10 million families. 🎉🎉
-
-<img src="/images/elonmusk/amplify_video_thumb_2082765380443885568_img_UXtBZLsX7XlXr-Mg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mayemusk/status/2082799407989133594#m)
 
 ---
 
@@ -337,10 +355,6 @@ RT by @elonmusk: BREAKING: Moroccan media reports that over 30,000 Moroccans are
 
 RT by @elonmusk: The Trump Administration today announced a series of actions to "cut red tape and accelerate American automated vehicle innovation." Secretary Sean Duffy has directed NHTSA to implement the following AV policy changes: 1) Accelerate development of first-ever AV performance standards through a partnership with SAE Industry Technologies Consortia (ITC): This partnership will fund a three-year, $5 million “A2SCEND” consortium, bringing together experts to gather data and accelerate creation of the first-ever AV performance standards. This project will inform a single national standard for AV safety to eliminate the patchwork regulatory landscape that has stifled innovation for years. 2) Allow Zoox to commercially deploy its robotaxis through a temporary exemption: This temporary exemption will allow the commercial deployment of up to 2,500 vehicles annually for two years, subject to an enhanced, adaptable oversight structure that can evolve as Zoox’s technology advances. 3) Publish an interim final rule that allows vehicles manufactured prior to an exemption to be eligible for a commercial deployment exemption: This rule will modernize the application process and improve access to exemptions for innovators, including AV developers, by granting the NHTSA Administrator the discretion to apply temporary exemptions to vehicles manufactured prior to the effective date of an exemption grant. 4) Establish a new Federal Docket for public feedback on NHTSA’s updated safe AV development and deployment guidance: NHTSA is updating its technical guidance for AVs for the first time since 2017—focusing on key safety areas like emergency responder interactions, safety management systems, remote assistance, and post-crash behavior to help the industry scale up driverless deployments safely. 5) Streamline the application process for Part 555 exemptions by updating guidance and soliciting feedback from the public: By updating the Part 555 exemption process—which allows automakers to temporarily sell a limited number of non-compliant vehicles, primarily to test new technologies—NHTSA is aiming to create a more flexible oversight structure for exemptions and summarize recent AV framework activities, including expanded exemption pathways, streamlined crash reporting, and ongoing efforts to modernize Federal Motor Vehicle Safety Standards (FMVSS).
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJQmprdq5V6YzQfFlnYL1KHP0Envt9AAKdD2sbUsJhV7cPWg0PO0a-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2082835692208763011#m)
-
 ---
 
 ## 2026-07-30 22:34:29
@@ -350,8 +364,6 @@ RT by @elonmusk: The Trump Administration today announced a series of actions to
 **内容**:
 
 RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrated, weak, lobotomized ideologues.
-
-[查看原文](https://nitter.net/GadSaad/status/2082837239185203484#m)
 
 ---
 
@@ -363,10 +375,6 @@ RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrate
 
 Big difference
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJQWprdqjaJAGZr9YYjci7x39fMtNGAAKcD2sbUsJhV4gRrIxkJpS9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082847730653610409#m)
-
 ---
 
 ## 2026-07-30 23:21:21
@@ -376,8 +384,6 @@ Big difference
 **内容**:
 
 Given that AI from 2 years ago feels so old that it should be in a museum, then obviously AI 2 years from now will be mind-blowing
-
-[查看原文](https://nitter.net/elonmusk/status/2082849031483470066#m)
 
 ---
 
