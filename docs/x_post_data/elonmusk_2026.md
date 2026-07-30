@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1643 条推文
+> 📊 推文存档 - 共 1644 条推文
 
 ---
 
@@ -59,9 +59,19 @@ Grok Voice is now #1 in agentic performance
 
 RT by @elonmusk: "Amnesty has moved so far away from their original mission... They are now acting like the types of authoritarian regimes that they have always sought to expose.” -- @iseult, granddaughter of Amnesty founder. https://www.thetimes.com/uk/scotland/article/amnesty-trans-jk-rowling-trans-anti-rights-2cmn6mhb0
 
-<img src="/images/elonmusk/card_img_2082500537677676544_k5Rqx0Za3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/jk_rowling/status/2082608226999169122#m)
+## 2026-07-30 08:05:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good analysis
+
+<img src="/images/elonmusk/amplify_video_thumb_2082474649439322112_img_jeGE2YQlScZX5-dr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082618654248861761#m)
 
 ---
 
