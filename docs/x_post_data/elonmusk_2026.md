@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1644 条推文
+> 📊 推文存档 - 共 1653 条推文
 
 ---
 
@@ -18,6 +18,18 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: BREAKING: SpaceXAI's newly released Grok Voice Think Fast 2.0 beats voice models from OpenAI, Google, Alibaba, and DeepSlate in the Artificial Analysis Speech-to-Speech benchmark.
+
+---
+
+## 2026-07-30 02:28:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨The Police have confirmed they will take NO action against Zack Polanski for sharing a photo of a man wearing a T-shirt calling for the beheading of Nigel Farage. PROOF of two tier policing in Britain. Just imagine if it had been the other way round.
+
+[查看原文](https://nitter.net/ZiaYusufUK/status/2082533756389200172#m)
 
 ---
 
@@ -51,6 +63,34 @@ Grok Voice is now #1 in agentic performance
 
 ---
 
+## 2026-07-30 04:13:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Allison Pearson receives payout and apology from Essex policing chief Hurrah @AllisonPearson !! Roger Hirst says he is ‘very sorry’ for accusations made after officers visited Telegraph columnist over post on X Well done Allison for being brave and consistent Everyone needs to have courage. We are stronger when we insist on our freedom together
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJM2pqwBFmIrmcZ1GdIPcVG1fR8Y_vAAKUE2sbUsJZV2BgHfrrlinKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/alanvibe/status/2082560078876434882#m)
+
+---
+
+## 2026-07-30 04:19:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Any old men or women or children ? No. Only young men of fighting age How odd !
+
+<img src="/images/elonmusk/amplify_video_thumb_2082448031127904256_img_1kO_dd5odK2AlVSy.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JohnCleese/status/2082561721902719361#m)
+
+---
+
 ## 2026-07-30 07:24:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -69,15 +109,69 @@ RT by @elonmusk: "Amnesty has moved so far away from their original mission... T
 
 Good analysis
 
-<img src="/images/elonmusk/amplify_video_thumb_2082474649439322112_img_jeGE2YQlScZX5-dr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082618654248861761#m)
+## 2026-07-30 09:58:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink Internet works even in the middle of nowhere
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJNGpqwBXz4jndRB7Fj0htcyooO4_jAAKVE2sbUsJZVz6Tcvs6FjTLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2082583442479599616_img_4kaz12DCgHwZQTwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082646903402229872#m)
+
+---
+
+## 2026-07-30 10:33:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJFWppVMWWt7kJ_yLhQzo3Knu83sE9AAJMEWsb6lBRV8VnQ9uf6DiFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082655819657875858#m)
+
+---
+
+## 2026-07-30 10:34:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It will happen
+
+<img src="/images/elonmusk/amplify_video_thumb_2082498494116294656_img_sZpsMKCH708aCK8I.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082656083404026262#m)
+
+---
+
+## 2026-07-30 10:35:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2082542178320973826_img_8VG6AYsBnroDEMjz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082656239780266487#m)
 
 ---
 
 ## 2026-07-29 00:00:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -87,7 +181,7 @@ RT by @elonmusk: Build apps from http://grok.com, iOS, and Android. With one pro
 
 ## 2026-07-29 00:12:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -97,7 +191,7 @@ RT by @elonmusk: Today we're launching app builder for Grok. It lets you build f
 
 ## 2026-07-29 00:25:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -107,7 +201,7 @@ RT by @elonmusk: Help build the AI that advances humanity. SpaceXAI is hiring ex
 
 ## 2026-07-29 01:44:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -117,7 +211,7 @@ RT by @elonmusk: I wrote about why we believe the future is for everyone. More c
 
 ## 2026-07-29 02:27:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -127,7 +221,7 @@ RT by @elonmusk: Neuralink just shared that participants living with paralysis a
 
 ## 2026-07-29 04:25:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -137,7 +231,7 @@ RT by @elonmusk: Emails show leading officials at NIH, including Fauci, knew the
 
 ## 2026-07-29 04:41:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -147,7 +241,7 @@ RT by @elonmusk: Sweden did not lock down
 
 ## 2026-07-29 04:54:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -157,7 +251,7 @@ RT by @elonmusk: As it turns out FSD is part of my "the singularity is already h
 
 ## 2026-07-29 05:11:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -167,7 +261,7 @@ RT by @elonmusk: Happy birthday Grok Imagine ❣️
 
 ## 2026-07-29 07:08:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -177,7 +271,7 @@ Supervised FSD unequivocally saves lives, which means delays in country approval
 
 ## 2026-07-29 07:12:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -187,7 +281,7 @@ Never forget how fragile the tiny candle of consciousness is
 
 ## 2026-07-29 07:16:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -197,7 +291,7 @@ Video
 
 ## 2026-07-29 07:16:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -207,7 +301,7 @@ Stayin’ Alive
 
 ## 2026-07-29 07:17:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -217,7 +311,7 @@ Landing videos of Starship
 
 ## 2026-07-29 07:17:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -227,7 +321,7 @@ We’re sending a ship out to recover Starship
 
 ## 2026-07-29 13:39:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -237,7 +331,7 @@ Starship still floating in the ocean
 
 ## 2026-07-29 13:53:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,7 +341,7 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 
 ## 2026-07-29 14:01:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -257,7 +351,7 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 
 ## 2026-07-29 14:03:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -267,7 +361,7 @@ RT by @elonmusk: BREAKING: Grok 4.5 just claimed the top spot on the new HighWal
 
 ## 2026-07-29 15:01:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -277,7 +371,7 @@ Grok now in Copilot
 
 ## 2026-07-29 15:04:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +381,7 @@ John Cleese has (all too rare) common sense
 
 ## 2026-07-29 15:28:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +391,7 @@ The ship landing was precise, meaning that it would have been caught by the towe
 
 ## 2026-07-29 15:31:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -305,9 +399,21 @@ Cool
 
 ---
 
+## 2026-07-29 17:08:56
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: So, the rules are if you have right wing views and post incitement to violence to almost no followers you go to jail instantly. If you do so as the leader of a left wing party with one of the biggest social followings in the UK, you don’t even have to apologise. Britain, 2026.
+
+[查看原文](https://nitter.net/ZiaYusufUK/status/2082392920984781256#m)
+
+---
+
 ## 2026-07-29 18:32:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -317,7 +423,7 @@ RT by @elonmusk: I’m on vacation and haven’t been able to read the entire di
 
 ## 2026-07-29 19:38:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,7 +433,7 @@ RT by @elonmusk: What's mind-blowing is Starship is the size of a 35-story high-
 
 ## 2026-07-29 19:41:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -337,7 +443,7 @@ RT by @elonmusk: Fashion 🫦
 
 ## 2026-07-29 20:35:17
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -347,7 +453,7 @@ RT by @elonmusk: An illegal migrant has been sent to prison after turning up at 
 
 ## 2026-07-29 20:51:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,19 +463,17 @@ RT by @elonmusk: According to Google it is OK to only want a Black doctor, but n
 
 ## 2026-07-29 21:00:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: A joint statement from the WFA and X Corp. Today the World Federation of Advertisers (WFA) and X Corp. are putting the litigation involving the Global Alliance for Responsible Media (GARM) behind them. This resets the relationship between the two organizations. WFA reiterates its commitment to freedom of speech, a principle first included in WFA’s founding constitution back in 1953, and a principle it shares with X. On August 9, 2024, WFA discontinued GARM. WFA will not form or restart GARM or a similar initiative. WFA and X are fully aligned in the view that brands, platforms and consumers will all benefit from brand-safety innovation.
 
-[查看原文](https://nitter.net/XBusiness/status/2082451125601436106#m)
-
 ---
 
 ## 2026-07-29 21:05:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -379,7 +483,7 @@ RT by @elonmusk: Jensen Huang was asked about the people technology left behind.
 
 ## 2026-07-29 21:28:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -389,7 +493,7 @@ Video
 
 ## 2026-07-29 21:28:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -399,7 +503,7 @@ Video
 
 ## 2026-07-29 21:31:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -409,7 +513,7 @@ Video
 
 ## 2026-07-29 21:35:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -419,7 +523,7 @@ RT by @elonmusk: Americans buried parents alone. Children lost years of childhoo
 
 ## 2026-07-29 21:58:07
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -429,21 +533,17 @@ Because he would incriminate himself. https://grok.com/share/bGVnYWN5_2bf90655-f
 
 ## 2026-07-29 22:13:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: The Economist uploaded their full Elon interview to YouTube and left the comments on 🔥 😂
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJLmpqaNihz3ALjw1d1apG4ua6ZPVYAAKuFGsbUsJRVzqKEYUrHCfOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/DirtyTesLa/status/2082469637216727234#m)
-
 ---
 
 ## 2026-07-29 22:23:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -453,7 +553,7 @@ RT by @elonmusk: BREAKING: Grok 4.5 ranked #1 on LaurenBench with a score of 56.
 
 ## 2026-07-29 22:23:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -461,9 +561,23 @@ Grok Build updates
 
 ---
 
+## 2026-07-29 22:44:41
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Time Magazine, February 24th 1961 In the 5 years that followed the labor force grew by 6.4% and real wages grew by 9.9%. Some quotes: The number of jobs lost to more efficient machines is only part of the problem. What worries many job experts more is that automation may prevent the economy from creating enough new jobs. Many of the losses in factory jobs have been countered by an increase in the service industries or in office jobs. But automation is beginning to move in and eliminate office jobs too. In the past, new industries hired far more people than those they put out of business. But this is not true of many of today’s new industries. The switch from manned military aircraft to missiles has cost 200,000 production jobs, even though the aircraft industry’s dollar volume is up.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJNWpqwBsJVIPzYWemCmojHawvOXYOAAKWE2sbUsJZV75t3Tj-SHBhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/wintonARK/status/2082477415217922064#m)
+
+---
+
 ## 2026-07-29 22:49:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
