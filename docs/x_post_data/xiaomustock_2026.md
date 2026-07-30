@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 278 条推文
+> 📊 推文存档 - 共 279 条推文
+
+---
+
+## 2026-07-30 21:30:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+能拉盘了吧，跌了一个多月。 【2026-07-30 21:28:59】 白宫国家经济委员会主任哈塞特：我并不认为市场由于AI方面的进展处于泡沫状态。 (金十数据APP)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJQGprWZanih5HztnDailJBJ0Q4ItIAAKEFWsbUsJZV6VdzIQc2G6HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2082821127613927926#m)
 
 ---
 
