@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 345 条推文
+> 📊 推文存档 - 共 346 条推文
+
+---
+
+## 2026-07-31 02:31:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Did Citadel really just liquidate Situational Awareness… Then brought up entire markets the next day? $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKHY +16.98% $INTC +12.16% Amid many others. This has gotta be one of the wildest liquidations I’ve seen.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJQ2prmv-7OsMkpo8rzp5ddNFtp1z3AAI0E2sbdvdhVylGdSlhPTVxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2082896789880119590#m)
 
 ---
 
