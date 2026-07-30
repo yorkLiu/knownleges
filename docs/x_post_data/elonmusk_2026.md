@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1662 条推文
+> 📊 推文存档 - 共 1663 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: O'ahu homeowners generate and store clean energy to power their homes and EVs No fossil fuels, no grid dependence
-
-<img src="/images/elonmusk/amplify_video_thumb_2082502362791546880_img_1flxHOl0lWoBUAGA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaenergy/status/2082502757060354284#m)
 
 ---
 
@@ -103,10 +99,6 @@ RT by @elonmusk: Any old men or women or children ? No. Only young men of fighti
 
 RT by @elonmusk: FRAUD IS THE NEW DOPE PART 1: NYC Clerks Caught Undercover Processing EBT Cards For Drug & Alcohol Purchases As “EBT Cash” & “EBT Food” “The [EBT] Cash Can Use it. 100%.” "I did EBT Food." “You're gonna be chilling with the aliens [Getting So High].”
 
-<img src="/images/elonmusk/amplify_video_thumb_2082563266534846464_img_wHbBSUg8zO6Rsf2o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JamesOKeefeIII/status/2082563867310444660#m)
-
 ---
 
 ## 2026-07-30 07:24:28
@@ -177,10 +169,6 @@ Grok Imagine
 
 The invasion continues …
 
-<img src="/images/elonmusk/amplify_video_thumb_2081693464735977472_img_qiqDGG09DvS0ChWm.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082666044854804986#m)
-
 ---
 
 ## 2026-07-30 11:35:41
@@ -190,16 +178,6 @@ The invasion continues …
 **内容**:
 
 RT by @elonmusk: The @Tesla Diner averages 1,600 charging sessions per day. Yes, PER DAY. I just showed up tonight on a random Wednesday evening, and literally every one of the 80 charging stalls was occupied. This place is not “dead” as some claim.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJN2pqzp4fwYo-m9Vwgqngl7aycZOxAALNE2sbUsJZV8xs90BekQ6KAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJOGpqzqVn41jITYzGml95SV-AuH-nAALOE2sbUsJZV0NBrcnyY5WlAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJOWpqzqn0T-Z-Bx9OX4yx4BXnOAVZAALPE2sbUsJZV9uSYZr8_wABDAEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2082671248325406720_img_q8UDvhyKVyAiacyr.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2082671447844262131#m)
 
 ---
 
@@ -211,10 +189,6 @@ RT by @elonmusk: The @Tesla Diner averages 1,600 charging sessions per day. Yes,
 
 No kidding …
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJO2pqzrM94cRqr5yzN-DhuNkx-VT2AALTE2sbUsJZVyAICJGf6C4pAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2082671693806379245#m)
-
 ---
 
 ## 2026-07-30 11:45:38
@@ -225,9 +199,17 @@ No kidding …
 
 True
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJOmpqzq7GfE0wprcFmivtqM-EmVLqAALQE2sbUsJZV3sZ1hF8t4kkAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2082673948404208034#m)
+## 2026-07-30 12:05:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+And Grok 4.6 is a significant improvement
+
+[查看原文](https://nitter.net/elonmusk/status/2082679015161069831#m)
 
 ---
 
