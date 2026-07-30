@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1678 条推文
+> 📊 推文存档 - 共 1679 条推文
+
+---
+
+## 2026-07-31 04:32:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Spain’s entire budget will be destroyed by illegal migrants. It’s basic math: if Spain offers free stuff to migrants that is above 90% of the living standard of Earth, they create a forcing function for 90% of Earth to move to Spain, which is around 7 billion people!
+
+<img src="/images/elonmusk/amplify_video_thumb_2082903152932814848_img_MvqhY6niNw2AGC0m.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082927356893683771#m)
 
 ---
 
