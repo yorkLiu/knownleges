@@ -7,7 +7,61 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1681 条推文
+> 📊 推文存档 - 共 1689 条推文
+
+---
+
+## 2026-07-31 01:38:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: What’s happening in Spain is what is coming for America if Democrats regain power. Complain about Republicans all you want, they’re the only avenue to secure borders. We need better Republicans, but electing Democrats is a death sentence.
+
+[查看原文](https://nitter.net/WallStreetMav/status/2082883655186124825#m)
+
+---
+
+## 2026-07-31 01:40:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Everyone is a real-world AI engineer. They don’t just make cars, but autonomous robots with frontier capabilities. Thanks for their hard work keeping the line smooth and running. It’s my pleasure working with manufacturing teams—a truly unique experience not found in any other AI lab.
+
+<img src="/images/elonmusk/amplify_video_thumb_2082765380443885568_img_UXtBZLsX7XlXr-Mg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/yunta_tsai/status/2082884013837165030#m)
+
+---
+
+## 2026-07-31 03:40:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is like a Black Mirror episode
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJRGpr46iGP_OIdB8oHL1ZZMU8jf98AAJZE2sbdvdhV3fytImd7SQZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/michaelmalice/status/2082914257562177916#m)
+
+---
+
+## 2026-07-31 04:06:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Emirates is reportedly removing Viasat equipment from its new Airbus A350s as it moves to standardize its fleet on Starlink. • Incoming A350s are expected to transition from Viasat GX Aviation to Starlink • Starlink is already active on dozens of Emirates Boeing 777s and a growing number of A380s • Emirates plans to equip approximately 232 aircraft by mid-2027 • Passengers have already made more than 1 million Starlink connections • More than 1 petabyte of data has been used since the rollout began.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJSGpr47SdPvfbmHq2ZGV129QaEWaCAAJdE2sbdvdhV8s8iuju8mDeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2082920807919939655#m)
 
 ---
 
@@ -29,7 +83,61 @@ Spain’s entire budget will be destroyed by illegal migrants. It’s basic math
 
 Wake up, before it is too late
 
-[查看原文](https://nitter.net/elonmusk/status/2082934814756282751#m)
+---
+
+## 2026-07-31 06:25:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All military age males means it is an invasion
+
+<img src="/images/elonmusk/amplify_video_thumb_2082911541398237184_img_f2FeQZ-7MrQAYP_j.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082955718743761002#m)
+
+---
+
+## 2026-07-31 06:29:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Looks like World War Z!
+
+[查看原文](https://nitter.net/elonmusk/status/2082956678400541160#m)
+
+---
+
+## 2026-07-31 06:38:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Ahead of our first earnings webcast, investors can submit questions using a new tool built with @grok → http://ir.spacex.com/events/default.aspx
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJR2pr47KwhDBvx8nF_ZIQim2QwuoxAAJcE2sbdvdhV17o2p721FjDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2082958972093669752#m)
+
+---
+
+## 2026-07-31 06:49:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink V3 is a gamechanger
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJRWpr46y-miuhuva9nPEVFM1lLM20AAJaE2sbdvdhV3aV-T2vUa2-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJRmpr467mScb9j2d5VCMezOMGqkGKAAJbE2sbdvdhV29wBQz_vIvGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2082961814409605545#m)
 
 ---
 
