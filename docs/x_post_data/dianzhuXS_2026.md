@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 258 条推文
+> 📊 推文存档 - 共 259 条推文
 
 ---
 
@@ -19,9 +19,17 @@ tags: ["2026"]
 
 中國所有的「福利」，都是建立在對大多數牛馬的壓榨上。需要強調的是「所有」二字，被套上「福利」外衣的玩意無一例外。最可笑的是，也只有牛馬才把那些玩意叫「福利」😮‍💨😮‍💨😮‍💨
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJMmpqjTBQCuUZJhiFPFIVnyxLfbtoAAISEGsbUsJZV9QPlSUMpFNmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2082606191881175040#m)
+## 2026-07-30 07:49:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+下載網抄看書自學為什麼學不會？ 因為祖師爺著書的時候，大多就是「筆記」。所謂筆記，就是記錄自己認為該記的。 怹該記的不一定是你該記的。 舉個例子，一個建築師他記錄了怎麼評價一扇門的貴賤，材料，工藝，安全，美觀，價格⋯⋯那是因為他覺得門上有鎖這概念，人人都知道不用記。同理，進門要用鑰匙開鎖，也不用特意說⋯⋯ 而現在網抄大明白們研究的，都是在說門的事。根本不重視鎖怎麼開，不開鎖是永遠入不了門的。 網抄學不會，看書最多就是學成個「評論家」。玄學數理，真想開門進到屋子裡，得找鑰匙，鑰匙是銅，是鐵，看個人的造化，但一個門檻必須跨過去，就是得有開鎖的能力才叫「門裡人」。 今晚Substack同步直播 https://twitter.com/i/spaces/1nxeLLpVYBRJX
+
+[查看原文](https://nitter.net/dianzhuXS/status/2082614498444427659#m)
 
 ---
 
