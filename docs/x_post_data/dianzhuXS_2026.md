@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 267 条推文
+> 📊 推文存档 - 共 268 条推文
 
 ---
 
@@ -79,13 +79,19 @@ tags: ["2026"]
 
 好了，不要再讓股市這點碎銀子干擾我們的節奏了。 這次從提前預警喊「現金為王」到精準抄底「開張吃三年」完美展示完畢，還不明白散戶只能【玩週期】的，你就繼續賭，沒人攔著。 但我這裡關於股市的話題不再聊了，因為存的子彈都用在最該用的時候了，現在已經可以安心睡大覺了。我不會給賭徒任何投資建議！ 非要聽這方面的分析，得等下次喊「現金為王」的時候再說了。記住了，不賭就是贏，噢耶💪
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJSmpsCAABhvJdICn2AAG5t4FaDfLmViQAAp0Taxt292FXQfjr7xU9yp0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJS2psCAT53k6bXz5bEZY641cRklLqAAKeE2sbdvdhVzLRBG4FaebTAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-31 20:38:24
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJTGpsCAggP0EvPlvScxvDdxKE3I4UAAKfE2sbdvdhV4F1GfnkhuAQAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/dianzhuXS/status/2083103994185175512#m)
+**内容**:
+
+赤馬紅羊 | 韓國選了一條看似最聰明，卻最難走的路 第一解 (上) https://youtu.be/2IaFJN6E6iU?si=9eGfPbkjafmhtkks 來自 @YouTube
+
+<img src="/images/dianzhuXS/card_img_2083170412024967168_luLiNjKo3Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083170411668467862#m)
 
 ---
 
