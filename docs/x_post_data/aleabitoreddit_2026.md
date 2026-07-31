@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 349 条推文
+> 📊 推文存档 - 共 350 条推文
 
 ---
 
@@ -49,11 +49,17 @@ For $XFAB ER transcript: Just to recap, my idea on $XFAB foundry growth opportun
 
 Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was "readiness" for EOY 2026. But $POET upgraded that wording, by stating "production" with Sivers lasers projected EOY 2026. So a volume orders from across $JBL to $POET, should hit in H1 2027. Which makes a bit of sense, since Sivers did raise an institutional oversubscribed round for future mass production. On a side note, can't believe it's already August and 5 months left until 2027... Which was my inflection window for glass substrates, CPO, 800v, and new architectures to ramp.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJXGpsZnhtP7MIRT7iL-RZ3eJHHPzfAAKGFGsbdvdhV2-lXUqaiQ0JAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJXWpsZnxHgRb29D2bkGHghT0SEoScAAKHFGsbdvdhV6jGBdektB2ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-31 18:10:30
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2083114743729107236#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just a TLDR of this week: Media: Hyperscalers overbuilt and are selling excess compute. -> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr. Institutions: Emergency rate hike or 3x rate hikes, it's all over. -> Kevin Warsh: No rate Hike. Retail/Media: AI is crashing because it's a bubble. -> Citadel looking to buy AI leveraged hedge funds positions: 👀 Jim Cramer: Sell all your leveraged DC stocks. -> Koreans: SK Hynix +30%, Samsung +26.81%
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2083133191112843575#m)
 
 ---
 
