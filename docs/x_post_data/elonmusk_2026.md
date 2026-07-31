@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1709 条推文
+> 📊 推文存档 - 共 1712 条推文
 
 ---
 
@@ -239,8 +239,6 @@ Seriously
 
 They prey upon your empathy
 
-[查看原文](https://nitter.net/elonmusk/status/2083061553880805744#m)
-
 ---
 
 ## 2026-07-31 13:27:05
@@ -250,8 +248,6 @@ They prey upon your empathy
 **内容**:
 
 Absolutely
-
-[查看原文](https://nitter.net/elonmusk/status/2083061867119800659#m)
 
 ---
 
@@ -263,10 +259,6 @@ Absolutely
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2082880359759282177_img_UsL0bNgvK8RbSZHB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083062407245516802#m)
-
 ---
 
 ## 2026-07-31 13:46:37
@@ -276,10 +268,6 @@ Video
 **内容**:
 
 That’s my actual car that I drove for 3 years that is currently orbiting the Sun between the Earth and the edge of the asteroid belt
-
-<img src="/images/elonmusk/amplify_video_thumb_2082778999537721344_img_wGg82OWboLoolgYi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083066783859101915#m)
 
 ---
 
@@ -291,7 +279,53 @@ That’s my actual car that I drove for 3 years that is currently orbiting the S
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2083066952373715353#m)
+---
+
+## 2026-07-31 13:53:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hot staging
+
+<img src="/images/elonmusk/amplify_video_thumb_2082882637530865664_img_EnuFlZtoHC31QYGn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083068604648395015#m)
+
+---
+
+## 2026-07-31 13:54:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Imagine upgrade
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJVGpsQiL3SX-jcDMdLypRqo83mpnmAAIvFGsbdvdhVwnh0W9dzeB6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJVWpsQibVfAJEYxb9wmzA_TLiS8o0AAIwFGsbdvdhVzJ3pPg5Qqm5AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJVmpsQimD71p-6QHkXpP_7GMZ9mixAAIxFGsbdvdhV44_gVu_E8L8AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJV2psQi3tE03TkDzq23XGPWTEEIf5AAIyFGsbdvdhV4O3TU90CpOaAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083068786731553123#m)
+
+---
+
+## 2026-07-31 14:14:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2082863625232953345_img_7HXDtX_Yo-vtB5Nk.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083073907163041981#m)
 
 ---
 
