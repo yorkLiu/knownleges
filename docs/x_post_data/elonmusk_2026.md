@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1713 条推文
+> 📊 推文存档 - 共 1719 条推文
+
+---
+
+## 2026-08-01 00:19:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is extremely important to understand. The birth rate you see in the West is the BLENDED number of ~90% who have a fertility rate half that of replacement and ~10% who have a birth rate double that of replacement. Demographics is destiny.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJX2ps6UJes1ACEjBPmGuGz4RskzBZAALzEmsbdvdpV6943_L3FbE9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083226039371628562#m)
 
 ---
 
@@ -319,9 +333,65 @@ Video
 
 Yes
 
-<img src="/images/elonmusk/amplify_video_thumb_2083068777831297024_img_Fy76QsU3aQlB72Fl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083079293354095039#m)
+## 2026-07-31 16:27:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The whole you owe us X because Y happened a trillion years ago argument is fucking retarded
+
+[查看原文](https://nitter.net/wraith_/status/2083107303725629469#m)
+
+---
+
+## 2026-07-31 22:40:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Immigration is the meta-issue because it determines who will get to decide every other issue. It must be the top priority. No other issue is even close to it in importance. Vote for whoever credibly promises closed borders and remigration. We’ll work out everything else later.
+
+[查看原文](https://nitter.net/ArtemisConsort/status/2083201138682458456#m)
+
+---
+
+## 2026-07-31 23:22:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It must be done
+
+[查看原文](https://nitter.net/elonmusk/status/2083211708777066746#m)
+
+---
+
+## 2026-07-31 23:37:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: What happened in Ceuta is happening across Europe and in the U.K. The scale is smaller and the rate of influx slower. But the net result will be the same. Europe and the U.K. will be overwhelmed. Our borders need military enforcement
+
+[查看原文](https://nitter.net/benhabib6/status/2083215573358379265#m)
+
+---
+
+## 2026-07-31 23:43:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+There is still time, but not much time
+
+[查看原文](https://nitter.net/elonmusk/status/2083216984959864971#m)
 
 ---
 
