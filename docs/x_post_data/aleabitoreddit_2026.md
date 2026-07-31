@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 348 条推文
+> 📊 推文存档 - 共 349 条推文
 
 ---
 
@@ -39,11 +39,21 @@ Few earnings TLDRs with my favorite $AXTI and $AMZN: Amazon: - Raised 2026 capex
 
 For $XFAB ER transcript: Just to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability. - $XFAB: "We are making progress in co-packaged optics". - "The transition to 800v... is expected to support demand for both SiC and GaN... for XFAB" So those analysts/people that were confidently bearposting about $XFAB that they had "0 exposure to 800V, photonics, CPO" just turned out plainly wrong. At the time I shared my idea, industry materials showed ASE and others cited photonixfab + XFAB as an upcoming CPO player in EU. And filings showed they had exposure names like $NVTS / $POWI in general. So glad $XFAB went out to explicitly clear things up to state they were developing in CPO/800v. Okay back to the ER: - "We continue to expect photonics volume production to start in 2028". Company currently has three silicon photonics projects in development with key partners. I thought it would ramp sometime in H2 2027, but was probably early by a few months. - Several new data center design wins, eg. 3 new SiC design wins (consistent with general 2027 ramp as 800v deployment takes off). So once those ramp in 2027-2028, (markets tend to price things ahead of time), I'd expect $XFAB to be rerated based on growth opportunities. TLDR: - Current revenue numbers not as impressive. - $XFAB confirmed direct exposure to CPO and 800V shifts (biggest win for thesis) - 800V exposure opportunities for SiC (should be 2027) - Timeline is 2028 ramp for photonics volume production Happy exposure thesis to CPO/800V was confirmed from this ER. Might be a bit of waiting for revenue ramp.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJWmpsXzJH_FBibKpic6Rec5CeJYTJAAJuFGsbdvdhV-yWEL-9STDxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJW2psXzb-xBfbY9kZSDzyBJpur9qIAAJvFGsbdvdhV4qPOLbz8RfSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-31 16:57:11
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2083106805949878330#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. Originally the wording was "readiness" for EOY 2026. But $POET upgraded that wording, by stating "production" with Sivers lasers projected EOY 2026. So a volume orders from across $JBL to $POET, should hit in H1 2027. Which makes a bit of sense, since Sivers did raise an institutional oversubscribed round for future mass production. On a side note, can't believe it's already August and 5 months left until 2027... Which was my inflection window for glass substrates, CPO, 800v, and new architectures to ramp.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJXGpsZnhtP7MIRT7iL-RZ3eJHHPzfAAKGFGsbdvdhV2-lXUqaiQ0JAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJXWpsZnxHgRb29D2bkGHghT0SEoScAAKHFGsbdvdhV6jGBdektB2ZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2083114743729107236#m)
 
 ---
 
