@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1702 条推文
+> 📊 推文存档 - 共 1709 条推文
 
 ---
 
@@ -219,10 +219,6 @@ R to @elonmusk: And this was the US under Biden:
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2082892145245945856_img_zbskAqZO6Nqr4hWp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083048643615957215#m)
-
 ---
 
 ## 2026-07-31 12:41:32
@@ -233,9 +229,69 @@ Video
 
 Seriously
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJUGpsM5cBHkZAIwJC-t2jnKK1yjOjAAIBFGsbdvdhV5KfRJdQuSp1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083050405349482668#m)
+## 2026-07-31 13:25:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+They prey upon your empathy
+
+[查看原文](https://nitter.net/elonmusk/status/2083061553880805744#m)
+
+---
+
+## 2026-07-31 13:27:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Absolutely
+
+[查看原文](https://nitter.net/elonmusk/status/2083061867119800659#m)
+
+---
+
+## 2026-07-31 13:29:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2082880359759282177_img_UsL0bNgvK8RbSZHB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083062407245516802#m)
+
+---
+
+## 2026-07-31 13:46:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That’s my actual car that I drove for 3 years that is currently orbiting the Sun between the Earth and the edge of the asteroid belt
+
+<img src="/images/elonmusk/amplify_video_thumb_2082778999537721344_img_wGg82OWboLoolgYi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083066783859101915#m)
+
+---
+
+## 2026-07-31 13:47:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2083066952373715353#m)
 
 ---
 
@@ -527,10 +583,6 @@ RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mi
 
 RT by @elonmusk: Falcon 9’s first stage lands on LZ-2
 
-<img src="/images/elonmusk/amplify_video_thumb_2082727730601242624_img_Kt0qCUK1q87GH9oE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2082727931244417170#m)
-
 ---
 
 ## 2026-07-30 17:36:02
@@ -540,6 +592,24 @@ RT by @elonmusk: Falcon 9’s first stage lands on LZ-2
 **内容**:
 
 RT by @elonmusk: 🇪🇸 Residents in Barcelona are installing barbed wire along their balconies to protect their homes from burglaries and squatters.
+
+---
+
+## 2026-07-30 18:14:06
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9 launches NROL-95 to orbit from pad 40 in Florida
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJUWpsOt15CB3RzDgK0db4ogT84wJXAAISFGsbdvdhV72Q3bFGTrTSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJUmpsOuEPi-ATkS_X0BsX0b65vhEzAAITFGsbdvdhV9gM3b0URcViAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJU2psOuTa_Vez7KUclYIyMtn9A0ZBAAIUFGsbdvdhVxsNQNDCYLLWAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2082771710818869482#m)
 
 ---
 
@@ -580,6 +650,18 @@ RT by @elonmusk: The Trump Administration today announced a series of actions to
 **内容**:
 
 RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrated, weak, lobotomized ideologues.
+
+---
+
+## 2026-07-30 22:35:42
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: I have a new job. I will now lead Global Brand Strategy for McDonald's. For those who do not know me, I use @X to share news and behind the scenes about the brand, but more importantly to get live feedback and hear from fans directly. The good, the bad, the not good enough yet. I mostly heard from US fans in the past - thank you. Of course, I want this to continue, but now I also want to get insights and feedback from McDonald's fans all around the world, whether you're in Japan, China or really anywhere! Please feel free to comment and say hi! I speak French, English and Spanish, but you can reply to me in any language if easier for you and I will use the translation tool from Grok. If you think the feedback won't make a difference, I can tell you the return of the Snack Wrap, Szechuan sauce, Hi-C or the come back of the Changeables Happy Meal in the US all happened because of what we've heard here. I will also share more campaigns from countries around the world in the near future. If you have never come across my profile before, I started my career at McDonald's in France as an intern and joined the US market as a Social Media Manager in February 2020. First mission was to reset our social media strategy and make us a modern brand. I then took over all US campaigns starting in 2024 with cool moments like the return of the Snack Wrap, Kai Cenat Chicken Big Mac, Minecraft, KPOP Demon Hunters and other fun things. Thank you to everyone here who's ever interacted with me. Grateful for the feedback and advices we get here everyday. I aspire to be a decent marketer and a CMO one day, and every time I get to read one of your comments, I feel like it is getting me closer to that goal.
+
+[查看原文](https://nitter.net/HuinGuillaume/status/2082837545096810781#m)
 
 ---
 
