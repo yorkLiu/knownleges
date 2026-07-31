@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1700 条推文
+> 📊 推文存档 - 共 1702 条推文
 
 ---
 
@@ -48,10 +48,6 @@ RT by @elonmusk: Everyone is a real-world AI engineer. They don’t just make ca
 **内容**:
 
 RT by @elonmusk: A reminder that the book that explains all this is still available, in an updated version, wherever books are sold.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJTmpsJRNXon_kypcyiOQK0eNofNGdAALaE2sbdvdhVxLLQo4zfCpQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/DouglasKMurray/status/2082910592470257685#m)
 
 ---
 
@@ -143,10 +139,6 @@ Starlink V3 is a gamechanger
 
 This will happen frequently as AI becomes smarter and more agentic
 
-<img src="/images/elonmusk/card_img_2082965101678927872_rX0mZdeQ3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083029580453966241#m)
-
 ---
 
 ## 2026-07-31 11:20:02
@@ -156,10 +148,6 @@ This will happen frequently as AI becomes smarter and more agentic
 **内容**:
 
 Magneto Jr
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJT2psJRy72ywkq8UYIb959_2ut11mAALbE2sbdvdhV37_6MpYQ64rAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083029896679293391#m)
 
 ---
 
@@ -171,10 +159,6 @@ Magneto Jr
 
 Grok Imagine
 
-<img src="/images/elonmusk/amplify_video_thumb_2082879120883470336_img_D70iAtG2jQdjU56f.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083031362756313410#m)
-
 ---
 
 ## 2026-07-31 11:31:25
@@ -184,10 +168,6 @@ Grok Imagine
 **内容**:
 
 Hmm
-
-<img src="/images/elonmusk/amplify_video_thumb_2082905982871404545_img_VsXys4Tf8slN7LxH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083032759941910593#m)
 
 ---
 
@@ -199,10 +179,6 @@ Hmm
 
 Wow, the situation in Spain looks crazy!
 
-<img src="/images/elonmusk/amplify_video_thumb_2083034652650975233_img_IgHB0MtvLI0y1wnN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083034836097192096#m)
-
 ---
 
 ## 2026-07-31 11:48:50
@@ -212,10 +188,6 @@ Wow, the situation in Spain looks crazy!
 **内容**:
 
 Video
-
-<img src="/images/elonmusk/amplify_video_thumb_2082998241893687296_img_S1NstalPYh-2QT49.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083037142356271155#m)
 
 ---
 
@@ -227,10 +199,6 @@ Video
 
 R to @elonmusk: Just kidding, this is the actual footage …
 
-<img src="/images/elonmusk/amplify_video_thumb_2083038762196492289_img_gWcEubTj2CO_B39d.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083038830089687353#m)
-
 ---
 
 ## 2026-07-31 11:56:27
@@ -241,9 +209,33 @@ R to @elonmusk: Just kidding, this is the actual footage …
 
 R to @elonmusk: And this was the US under Biden:
 
-<img src="/images/elonmusk/amplify_video_thumb_1840453294621437952_img_gspCrWpkt5KukbQ8.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083039060554072471#m)
+## 2026-07-31 12:34:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2082892145245945856_img_zbskAqZO6Nqr4hWp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083048643615957215#m)
+
+---
+
+## 2026-07-31 12:41:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Seriously
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJUGpsM5cBHkZAIwJC-t2jnKK1yjOjAAIBFGsbdvdhV5KfRJdQuSp1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083050405349482668#m)
 
 ---
 
