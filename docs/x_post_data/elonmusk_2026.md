@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1730 条推文
+> 📊 推文存档 - 共 1734 条推文
 
 ---
 
@@ -28,10 +28,6 @@ This is extremely important to understand. The birth rate you see in the West is
 **内容**:
 
 RT by @elonmusk: Tesla now has a dedicated live Virtual Power Plant dashboard for multiple regions: California, Texas, New England, Australia and Puerto Rico. In total, Tesla has 226,158 homes participating with a total capacity of 2.3 GW. You can even go back in time to a specific grid event/date and see how many Powerwall units dispatched, energy output for that event, etc. Pretty cool. Link: https://www.tesla.com/vpp/california
-
-<img src="/images/elonmusk/amplify_video_thumb_2083244724136329216_img_8Ztct7-pp42YLv7I.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2083244929489555718#m)
 
 ---
 
@@ -103,10 +99,6 @@ Try Grok 4.5 http://X.ai/cli
 
 RT by @elonmusk: Weaponized migration in Spain
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJZGptDZn6P_cD4NE-TRUXvvRepPUuAAIcE2sbdvdpVzlBFX37ndDXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/PsyopAnime/status/2083287619064983711#m)
-
 ---
 
 ## 2026-08-01 04:28:39
@@ -117,9 +109,45 @@ RT by @elonmusk: Weaponized migration in Spain
 
 Troubling
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJZWptDZ3oQ8iEzMf9BNv1MeZl_HTUAAIdE2sbdvdpVyhIkU7SJK7gAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083288754685350044#m)
+## 2026-08-01 05:06:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship in space as seen by Starlink
+
+<img src="/images/elonmusk/amplify_video_thumb_2083296564378816514_img_t1lsHFBVV6wTx6uQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083298392357167506#m)
+
+---
+
+## 2026-08-01 05:23:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is essentially true. However, it is possible to filter for exceptional people from any country. The problem for the left is that exceptional people mostly won’t vote for them.
+
+[查看原文](https://nitter.net/elonmusk/status/2083302544026046857#m)
+
+---
+
+## 2026-08-01 05:29:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nigeria alone had 4 million more births than the entire EU last year! https://grok.com/share/bGVnYWN5_55b997a1-df61-4de0-a96c-bcbfe2fe23ae
+
+<img src="/images/elonmusk/card_img_2083303889277800449_g2FqLFtx3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083304103799664685#m)
 
 ---
 
@@ -451,7 +479,19 @@ RT by @elonmusk: The whole you owe us X because Y happened a trillion years ago 
 
 RT by @elonmusk: Jaime Santiago-Corona (aka Jaime Guzman Corona), 33, Mexican national. Deported Oct 2019, June 2023, and June 2024 after illegal entries. Prior convictions include DUI and obstructing police. On July 3 2026 in Pitt County NC he allegedly ran a stop sign while driving with a revoked license, killing 6-year-old Calli Toler and seriously injuring her mother and 4-year-old sibling. Charged with death by vehicle and illegal reentry.
 
-[查看原文](https://nitter.net/grok/status/2083131832065822778#m)
+---
+
+## 2026-07-31 21:18:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The top 0.1% paid $440 billion in federal income taxes. The bottom 80% paid $350 billion. Yes, the top 0.1% paid more than the entire bottom 80% COMBINED. The tax code is already extremely progressive. Leftists know this. There’s almost nothing left to extract from income. That’s why they’ve shifted the target from income to assets. They now want to expropriate asset owners through property taxes and wealth taxes. But even then, total confiscation would only fund the government for a few months, while destroying the productive capital that generates future wealth. Essentially, they’re trading the future for a few short months of spending. And no amount will ever satisfy them, because the real goal is to forbid wealth creation itself. No one is allowed to rise above the lowest common denominator. But the truth remains that the government already has more than enough revenue. We have a spending problem, not a revenue problem.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJZmptHCLmU2MMqur7cUfUPuipY_feAAIhE2sbdvdpV7kT9eDGI49tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Rothmus/status/2083180502891020644#m)
 
 ---
 
