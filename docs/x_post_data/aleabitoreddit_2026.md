@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 351 条推文
+> 📊 推文存档 - 共 352 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 $RDDT ER in a nutshell: Revenue: $804.9M vs. $730.4M (expected). EPS: $1.25 vs. ~$0.95. Net income: $252.8M vs. $196.5M Q3 guidance: Revenue: $860–870M vs. 829.1M Adjusted EBITDA: $385-395M vs. $369M Blowout financials, market always like to explain the drop 22.6% off some new BS narrative. Last quarter: "AI will disrupt Reddit causing revenue loss!" This quarter: "See, DAU fell .6%!" (proceeds to ignore any revenue/profitability growth)
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJXmpszDOytJdBFv145vrtrnDQL88lAAK3EmsbdvdpV_2t-gOG3AbMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2083225872207937687#m)
+## 2026-08-01 03:16:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion. Up from $695-$725B Billion previously. Amazon: $220B Google: $195B-$205B Meta: $130B-$145B Microsoft: $175B We've already seen significant deleveraging and retail/institutional margin liquidations (maybe it continues for more time, who knows). But medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds. Given each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking. My "bottleneck" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Lot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. Gets rerated when their inflection period hits and capex flows into their balance sheets. As seen with $NVDA GPUs past few years, memory this year, CPUs/MLCCs next few years, CPO in 2027, Glass Substrates in 2027, 800V in 2027, and so on.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJYGps984ujNN5ecBnlu9HEMQF91_dAAIGE2sbdvdpV9NEHDSgotq-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2083270545320386734#m)
 
 ---
 
