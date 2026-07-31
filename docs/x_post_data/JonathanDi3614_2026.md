@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 53 条推文
+> 📊 推文存档 - 共 54 条推文
+
+---
+
+## 2026-07-31 15:02:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+双创指数跌了7%，光模块的“易中天”持续逼近20cm，跌势止不住。韩股熔断，A股只能被动跟跌——护盘呢？看不到。这个问题，没人能替你回答。 调仓 光模块是这轮科技行情最早起来的，现在也是跌得最凶的。领头羊变成领跌羊，本身就是市场风险偏好转弱的信号。 韩股熔断，我们跟跌。表面看是外部传导，但本质是A股自身还撑不起独立行情。护盘资金不出手，说明当前跌幅还没到需要干预的位置——或者，他们也在等更好的时机。 别急着抄底。等真正企稳。强趋势股补跌，往往是调整末期的特征。但“末期”有多长，没人知道。 多看少动，现金为王。等盘面给出明确信号，再动手不迟。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJWGpsUKf5ORd6DjqgBjysLgJJNoIpAAJLFGsbdvdhV7K5fPQCr8y8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2083085885378359701#m)
 
 ---
 

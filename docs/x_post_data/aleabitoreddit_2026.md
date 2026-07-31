@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 346 条推文
+> 📊 推文存档 - 共 347 条推文
 
 ---
 
@@ -19,9 +19,17 @@ tags: ["2026"]
 
 Did Citadel really just liquidate Situational Awareness… Then brought up entire markets the next day? $NBIS +26.25% $IREN +25.96% $SHAZ +22.82% $SNDK + 23.98% $BE +23.67% $SKHY +16.98% $INTC +12.16% Amid many others. This has gotta be one of the wildest liquidations I’ve seen.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJQ2prmv-7OsMkpo8rzp5ddNFtp1z3AAI0E2sbdvdhVylGdSlhPTVxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2082896789880119590#m)
+## 2026-07-31 15:14:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Few earnings TLDRs with my favorite $AXTI and $AMZN: Amazon: - Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung) - Even at $220B, Amazon will not have enough capacity to meet all 2026 demand; Jassy expects the same in 2027. - Most incoming 2027 capacity is already reserved, with substantial 2028 capacity also reserved. Mostly read through on upstream semis. $GOOGL, $META, $AMZN, and $MSFT all identified compute shortage. All the narratives a few weeks earlier was "excess compute" from Meta and others + hyperscalers cutting back on spend... All BS. Amazon earnings was very bullish on AI semi trade. AXTI: - AXT to double InP capacity during 2026. Then double again in 2027. This is expected to make AXT "by far the largest indium phosphide producer in the world." - LFG - Q2 rev was $47.6M, the highest quarterly revenue in AXT history (InP revenue reached a record $30.7M, from DC applications.) - Revenue increased 77% sequentially and 164% year over year. - InP revenue-capacity targets: $60M per quarter exiting 2026. - $130M per quarter exiting 2027 That $130m target could be hiked too since management stated they find "whatever ways to increase that capacity expansion" - Management said the reported backlog remains well above $100M, but that number no longer reflects all available demand. "Customer demand continues to outpace supply, no matter how fast we add capacity." 800G/1.6T is driving the current cycle, while NPO/CPO extends it beyond 2027. Also they're targeting 50%-plus gross margin: "We should definitely be targeting a number that begins with a five." China demand more than doubled, and their agreements with Casela, $COHR and $LITE did not materially drive Q2. This is not even considering my projected massive ASP hikes yet as InP substrates get more bottlenecked. TLDR: - Amazon too much compute demands, needs capex to fufill it, so upstream semis go brrr. - AXT world largest InP substrate supplier, high gross margins, expansion, and supply can't keep up with demand. Bullish on demand side from Amazon + capex. Bullish on upstream optical supply chains from too much demand.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2083088870942642391#m)
 
 ---
 
