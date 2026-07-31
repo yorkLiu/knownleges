@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1720 条推文
+> 📊 推文存档 - 共 1726 条推文
 
 ---
 
@@ -29,9 +29,69 @@ This is extremely important to understand. The birth rate you see in the West is
 
 😑
 
-<img src="/images/elonmusk/amplify_video_thumb_2083001527044853760_img_3ayQ1BvDo8S7HAB5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083261719334338718#m)
+## 2026-08-01 03:04:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Product Perfection Produces Prosperity
+
+[查看原文](https://nitter.net/elonmusk/status/2083267485269110978#m)
+
+---
+
+## 2026-08-01 03:05:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talk to @Grok. You can leave Grok voice on and just tap mute when you’re talking to someone else.
+
+[查看原文](https://nitter.net/elonmusk/status/2083267800227815725#m)
+
+---
+
+## 2026-08-01 03:05:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah, the incentives need to change
+
+[查看原文](https://nitter.net/elonmusk/status/2083267937977217414#m)
+
+---
+
+## 2026-08-01 03:15:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+You will be alerted via 𝕏 messaging if there is something you interacted with and perhaps thought was true later turned out to be untrue or incompletely true
+
+[查看原文](https://nitter.net/elonmusk/status/2083270285344616656#m)
+
+---
+
+## 2026-08-01 03:44:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.5 http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJY2ps_xn5v6aAg6FAJ1GaV5SLTQTkAAIRE2sbdvdpV5f-lyId9Xs1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083277696939786565#m)
 
 ---
 
@@ -353,7 +413,19 @@ Yes
 
 RT by @elonmusk: The whole you owe us X because Y happened a trillion years ago argument is fucking retarded
 
-[查看原文](https://nitter.net/wraith_/status/2083107303725629469#m)
+---
+
+## 2026-07-31 21:46:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: NASA Administrator Jared Isaacman: SpaceX helped lead America’s shift to methane rocket fuel. "SpaceX was one of the first to move on from their current propellant structure, which is basically refined diesel and liquid oxygen, to liquid methane or liquid natural gas and liquid oxygen. But we know so very little about it and what we get concerned about very early on is what happens if something goes wrong during testing? And we assumed a lot of worst case scenarios. But other companies, so Blue Origin, for example, decided, this is the right path we should go on to. Now the problem is you have all these companies working on this new propellant system, and we had to take very conservative views, which would have actually shut down testing and launch operations at multiple centers across the United States. And this employee, Berkowitz, he came up with the analysis that determined, actually, it's a lot safer than we may think it is, and it's permitted us to conduct lots of simultaneous operations. It was a real enabling breakthrough work he did, and that's why he was honored."
+
+<img src="/images/elonmusk/amplify_video_thumb_2083187313278889984_img_Sd-L2NhzNV0Gwt6i.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2083187570083545199#m)
 
 ---
 
@@ -365,8 +437,6 @@ RT by @elonmusk: The whole you owe us X because Y happened a trillion years ago 
 
 RT by @elonmusk: Immigration is the meta-issue because it determines who will get to decide every other issue. It must be the top priority. No other issue is even close to it in importance. Vote for whoever credibly promises closed borders and remigration. We’ll work out everything else later.
 
-[查看原文](https://nitter.net/ArtemisConsort/status/2083201138682458456#m)
-
 ---
 
 ## 2026-07-31 23:22:30
@@ -376,8 +446,6 @@ RT by @elonmusk: Immigration is the meta-issue because it determines who will ge
 **内容**:
 
 It must be done
-
-[查看原文](https://nitter.net/elonmusk/status/2083211708777066746#m)
 
 ---
 
@@ -389,8 +457,6 @@ It must be done
 
 RT by @elonmusk: What happened in Ceuta is happening across Europe and in the U.K. The scale is smaller and the rate of influx slower. But the net result will be the same. Europe and the U.K. will be overwhelmed. Our borders need military enforcement
 
-[查看原文](https://nitter.net/benhabib6/status/2083215573358379265#m)
-
 ---
 
 ## 2026-07-31 23:43:28
@@ -400,8 +466,6 @@ RT by @elonmusk: What happened in Ceuta is happening across Europe and in the U.
 **内容**:
 
 There is still time, but not much time
-
-[查看原文](https://nitter.net/elonmusk/status/2083216984959864971#m)
 
 ---
 
