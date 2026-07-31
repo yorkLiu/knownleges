@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 262 条推文
+> 📊 推文存档 - 共 264 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 昨晚又聊了兩個多小時 https://substack.com/@dianzhuxs/note/p-209049811?r=8moxkp&utm_medium=ios&utm_source=notes-share-action
 
-[查看原文](https://nitter.net/dianzhuXS/status/2082969782492786827#m)
-
 ---
 
 ## 2026-07-31 07:30:42
@@ -31,9 +29,39 @@ tags: ["2026"]
 
 太平洋深處，又形成了一股叫「白海豚」的颱風。【17級風王】往哪走呢？我只想說，以前兩股的數據看，今年的颱風，反共意識很強呦🧐
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJSWpr47t3Y-KnwVwr5WE2-C-5EWFrAAJeE2sbdvdhV83TVofUxoERAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2082972182293221753#m)
+## 2026-07-31 10:10:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這種留言以後都注意啊，別用自己的理解替代我的原話。 如圖，最近在駁斥大明白們對「身弱不擔財官」的誤解。上次直播說到的原話是「身只要不極弱都能擔」，天干只要有一個比劫，哪怕地支無根，都不能論「身極弱」，換句話說，就都能擔點財，只是財大小的問題。 差一個「極」字謬之千里，我從沒說過「只要有一個比劫，就不算身弱」。原話的中心意思是「只要不是極弱就都能擔點財」，請周知！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJTWpsCAxvRHEbKAr_3h8heBtvJUMjAAKgE2sbdvdhVyebCwABQ7A-NQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083012271182434520#m)
+
+---
+
+## 2026-07-31 10:25:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+怎麼樣？咱就說「節點」卡的準不準就完事了。「開張吃三年」真實不虛💪
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJSmpsCAABhvJdICn2AAG5t4FaDfLmViQAAp0Taxt292FXQfjr7xU9yp0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJS2psCAT53k6bXz5bEZY641cRklLqAAKeE2sbdvdhVzLRBG4FaebTAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJTGpsCAggP0EvPlvScxvDdxKE3I4UAAKfE2sbdvdhV4F1GfnkhuAQAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJIGpp3sr6PE61NXWguLVAYRr7_9uiAALlE2sbUsJRVxuBQCrX9EfQAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083016044730515522#m)
 
 ---
 
