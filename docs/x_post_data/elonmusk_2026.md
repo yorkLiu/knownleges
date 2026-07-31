@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1719 条推文
+> 📊 推文存档 - 共 1720 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 This is extremely important to understand. The birth rate you see in the West is the BLENDED number of ~90% who have a fertility rate half that of replacement and ~10% who have a birth rate double that of replacement. Demographics is destiny.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJX2ps6UJes1ACEjBPmGuGz4RskzBZAALzEmsbdvdpV6943_L3FbE9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083226039371628562#m)
+## 2026-08-01 02:41:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😑
+
+<img src="/images/elonmusk/amplify_video_thumb_2083001527044853760_img_3ayQ1BvDo8S7HAB5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083261719334338718#m)
 
 ---
 
