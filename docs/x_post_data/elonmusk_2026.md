@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1690 条推文
+> 📊 推文存档 - 共 1700 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Autobidder, our battery optimization service, is maximizing the value of one of France’s largest battery storage projects The Chevire project was developed by @Harmony_Energy_ on the site of a former coal power plant and is providing clean and reliable power to the local area
-
-<img src="/images/elonmusk/amplify_video_thumb_2082861471462019073_img_kjob4S84Cpnks2Q7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Tesla_Megapack/status/2082861891873886699#m)
 
 ---
 
@@ -42,6 +38,20 @@ RT by @elonmusk: What’s happening in Spain is what is coming for America if De
 **内容**:
 
 RT by @elonmusk: Everyone is a real-world AI engineer. They don’t just make cars, but autonomous robots with frontier capabilities. Thanks for their hard work keeping the line smooth and running. It’s my pleasure working with manufacturing teams—a truly unique experience not found in any other AI lab.
+
+---
+
+## 2026-07-31 03:25:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A reminder that the book that explains all this is still available, in an updated version, wherever books are sold.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJTmpsJRNXon_kypcyiOQK0eNofNGdAALaE2sbdvdhVxLLQo4zfCpQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/DouglasKMurray/status/2082910592470257685#m)
 
 ---
 
@@ -125,9 +135,121 @@ Starlink V3 is a gamechanger
 
 ---
 
-## 2026-07-30 00:25:22
+## 2026-07-31 11:18:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This will happen frequently as AI becomes smarter and more agentic
+
+<img src="/images/elonmusk/card_img_2082965101678927872_rX0mZdeQ3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083029580453966241#m)
+
+---
+
+## 2026-07-31 11:20:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Magneto Jr
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJT2psJRy72ywkq8UYIb959_2ut11mAALbE2sbdvdhV37_6MpYQ64rAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083029896679293391#m)
+
+---
+
+## 2026-07-31 11:25:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2082879120883470336_img_D70iAtG2jQdjU56f.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083031362756313410#m)
+
+---
+
+## 2026-07-31 11:31:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hmm
+
+<img src="/images/elonmusk/amplify_video_thumb_2082905982871404545_img_VsXys4Tf8slN7LxH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083032759941910593#m)
+
+---
+
+## 2026-07-31 11:39:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow, the situation in Spain looks crazy!
+
+<img src="/images/elonmusk/amplify_video_thumb_2083034652650975233_img_IgHB0MtvLI0y1wnN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083034836097192096#m)
+
+---
+
+## 2026-07-31 11:48:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2082998241893687296_img_S1NstalPYh-2QT49.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083037142356271155#m)
+
+---
+
+## 2026-07-31 11:55:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: Just kidding, this is the actual footage …
+
+<img src="/images/elonmusk/amplify_video_thumb_2083038762196492289_img_gWcEubTj2CO_B39d.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083038830089687353#m)
+
+---
+
+## 2026-07-31 11:56:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: And this was the US under Biden:
+
+<img src="/images/elonmusk/amplify_video_thumb_1840453294621437952_img_gspCrWpkt5KukbQ8.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083039060554072471#m)
+
+---
+
+## 2026-07-30 00:25:22
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -137,7 +259,7 @@ RT by @elonmusk: O'ahu homeowners generate and store clean energy to power their
 
 ## 2026-07-30 02:24:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -147,7 +269,7 @@ RT by @elonmusk: BREAKING: SpaceXAI's newly released Grok Voice Think Fast 2.0 b
 
 ## 2026-07-30 02:28:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -157,7 +279,7 @@ RT by @elonmusk: 🚨The Police have confirmed they will take NO action against 
 
 ## 2026-07-30 03:14:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -167,7 +289,7 @@ Try the new Grok Voice
 
 ## 2026-07-30 03:17:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -177,7 +299,7 @@ RT by @elonmusk: SpaceXAI has built the best voice model I’ve ever used Once y
 
 ## 2026-07-30 03:18:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -187,7 +309,7 @@ RT by @elonmusk: Grok Build now has a way to enable/disable MCP grok mcp enable 
 
 ## 2026-07-30 04:12:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -197,7 +319,7 @@ Grok Voice is now #1 in agentic performance
 
 ## 2026-07-30 04:13:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -207,7 +329,7 @@ RT by @elonmusk: Allison Pearson receives payout and apology from Essex policing
 
 ## 2026-07-30 04:19:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -217,7 +339,7 @@ RT by @elonmusk: Any old men or women or children ? No. Only young men of fighti
 
 ## 2026-07-30 04:28:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -227,7 +349,7 @@ RT by @elonmusk: FRAUD IS THE NEW DOPE PART 1: NYC Clerks Caught Undercover Proc
 
 ## 2026-07-30 07:24:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -237,7 +359,7 @@ RT by @elonmusk: "Amnesty has moved so far away from their original mission... T
 
 ## 2026-07-30 08:05:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,7 +369,7 @@ Good analysis
 
 ## 2026-07-30 09:58:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -257,7 +379,7 @@ Starlink Internet works even in the middle of nowhere
 
 ## 2026-07-30 10:33:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -267,7 +389,7 @@ True
 
 ## 2026-07-30 10:34:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -277,7 +399,7 @@ It will happen
 
 ## 2026-07-30 10:35:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +409,7 @@ Grok Imagine
 
 ## 2026-07-30 11:14:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +419,7 @@ The invasion continues …
 
 ## 2026-07-30 11:35:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,7 +429,7 @@ RT by @elonmusk: The @Tesla Diner averages 1,600 charging sessions per day. Yes,
 
 ## 2026-07-30 11:36:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -317,7 +439,7 @@ No kidding …
 
 ## 2026-07-30 11:45:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,7 +449,7 @@ True
 
 ## 2026-07-30 12:05:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -337,7 +459,7 @@ And Grok 4.6 is a significant improvement
 
 ## 2026-07-30 13:15:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -347,7 +469,7 @@ RT by @elonmusk: • Hostile Media Outlet Gets DESTROYED By Own Audience After P
 
 ## 2026-07-30 13:50:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +479,7 @@ Grok Build update
 
 ## 2026-07-30 13:59:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -367,7 +489,7 @@ And Grok 4.6 comes out in a week
 
 ## 2026-07-30 14:17:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -377,7 +499,7 @@ Pinned: Congratulations to the Tesla Team! 10 million vehicles manufactured is a
 
 ## 2026-07-30 14:29:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -387,7 +509,7 @@ RT by @elonmusk: Congrats to all Tesla teams. Proud to be part of this amazing j
 
 ## 2026-07-30 14:41:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -397,7 +519,7 @@ RT by @elonmusk: NVIDIA CEO, Jensen Huang: I want to be involved in nearly every
 
 ## 2026-07-30 14:59:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -405,23 +527,33 @@ RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mi
 
 ---
 
+## 2026-07-30 15:20:08
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9’s first stage lands on LZ-2
+
+<img src="/images/elonmusk/amplify_video_thumb_2082727730601242624_img_Kt0qCUK1q87GH9oE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2082727931244417170#m)
+
+---
+
 ## 2026-07-30 17:36:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: 🇪🇸 Residents in Barcelona are installing barbed wire along their balconies to protect their homes from burglaries and squatters.
 
-<img src="/images/elonmusk/amplify_video_thumb_2082762065022783488_img_kW0zOjr1nhuL82Nv.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/RMXnews/status/2082762131125023044#m)
-
 ---
 
 ## 2026-07-30 20:04:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -431,7 +563,7 @@ RT by @elonmusk: Huge congratulations. Bringing happiness and safety to 10 milli
 
 ## 2026-07-30 21:49:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -441,7 +573,7 @@ RT by @elonmusk: BREAKING: Moroccan media reports that over 30,000 Moroccans are
 
 ## 2026-07-30 22:28:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -451,7 +583,7 @@ RT by @elonmusk: The Trump Administration today announced a series of actions to
 
 ## 2026-07-30 22:34:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -461,7 +593,7 @@ RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrate
 
 ## 2026-07-30 23:16:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -471,7 +603,7 @@ Big difference
 
 ## 2026-07-30 23:21:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
