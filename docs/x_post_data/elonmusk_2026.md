@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1726 条推文
+> 📊 推文存档 - 共 1730 条推文
 
 ---
 
@@ -18,6 +18,20 @@ tags: ["2026"]
 **内容**:
 
 This is extremely important to understand. The birth rate you see in the West is the BLENDED number of ~90% who have a fertility rate half that of replacement and ~10% who have a birth rate double that of replacement. Demographics is destiny.
+
+---
+
+## 2026-08-01 01:34:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Tesla now has a dedicated live Virtual Power Plant dashboard for multiple regions: California, Texas, New England, Australia and Puerto Rico. In total, Tesla has 226,158 homes participating with a total capacity of 2.3 GW. You can even go back in time to a specific grid event/date and see how many Powerwall units dispatched, energy output for that event, etc. Pretty cool. Link: https://www.tesla.com/vpp/california
+
+<img src="/images/elonmusk/amplify_video_thumb_2083244724136329216_img_8Ztct7-pp42YLv7I.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2083244929489555718#m)
 
 ---
 
@@ -39,8 +53,6 @@ This is extremely important to understand. The birth rate you see in the West is
 
 Product Perfection Produces Prosperity
 
-[查看原文](https://nitter.net/elonmusk/status/2083267485269110978#m)
-
 ---
 
 ## 2026-08-01 03:05:23
@@ -50,8 +62,6 @@ Product Perfection Produces Prosperity
 **内容**:
 
 Talk to @Grok. You can leave Grok voice on and just tap mute when you’re talking to someone else.
-
-[查看原文](https://nitter.net/elonmusk/status/2083267800227815725#m)
 
 ---
 
@@ -63,8 +73,6 @@ Talk to @Grok. You can leave Grok voice on and just tap mute when you’re talki
 
 Yeah, the incentives need to change
 
-[查看原文](https://nitter.net/elonmusk/status/2083267937977217414#m)
-
 ---
 
 ## 2026-08-01 03:15:15
@@ -74,8 +82,6 @@ Yeah, the incentives need to change
 **内容**:
 
 You will be alerted via 𝕏 messaging if there is something you interacted with and perhaps thought was true later turned out to be untrue or incompletely true
-
-[查看原文](https://nitter.net/elonmusk/status/2083270285344616656#m)
 
 ---
 
@@ -87,11 +93,33 @@ You will be alerted via 𝕏 messaging if there is something you interacted with
 
 Try Grok 4.5 http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJY2ps_xn5v6aAg6FAJ1GaV5SLTQTkAAIRE2sbdvdpV5f-lyId9Xs1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-01 04:24:08
 
-[查看原文](https://nitter.net/elonmusk/status/2083277696939786565#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Weaponized migration in Spain
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJZGptDZn6P_cD4NE-TRUXvvRepPUuAAIcE2sbdvdpVzlBFX37ndDXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/PsyopAnime/status/2083287619064983711#m)
+
+---
+
+## 2026-08-01 04:28:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Troubling
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJZWptDZ3oQ8iEzMf9BNv1MeZl_HTUAAIdE2sbdvdpVyhIkU7SJK7gAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083288754685350044#m)
 
 ---
 
@@ -415,6 +443,18 @@ RT by @elonmusk: The whole you owe us X because Y happened a trillion years ago 
 
 ---
 
+## 2026-07-31 18:05:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Jaime Santiago-Corona (aka Jaime Guzman Corona), 33, Mexican national. Deported Oct 2019, June 2023, and June 2024 after illegal entries. Prior convictions include DUI and obstructing police. On July 3 2026 in Pitt County NC he allegedly ran a stop sign while driving with a revoked license, killing 6-year-old Calli Toler and seriously injuring her mother and 4-year-old sibling. Charged with death by vehicle and illegal reentry.
+
+[查看原文](https://nitter.net/grok/status/2083131832065822778#m)
+
+---
+
 ## 2026-07-31 21:46:35
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -422,10 +462,6 @@ RT by @elonmusk: The whole you owe us X because Y happened a trillion years ago 
 **内容**:
 
 RT by @elonmusk: NASA Administrator Jared Isaacman: SpaceX helped lead America’s shift to methane rocket fuel. "SpaceX was one of the first to move on from their current propellant structure, which is basically refined diesel and liquid oxygen, to liquid methane or liquid natural gas and liquid oxygen. But we know so very little about it and what we get concerned about very early on is what happens if something goes wrong during testing? And we assumed a lot of worst case scenarios. But other companies, so Blue Origin, for example, decided, this is the right path we should go on to. Now the problem is you have all these companies working on this new propellant system, and we had to take very conservative views, which would have actually shut down testing and launch operations at multiple centers across the United States. And this employee, Berkowitz, he came up with the analysis that determined, actually, it's a lot safer than we may think it is, and it's permitted us to conduct lots of simultaneous operations. It was a real enabling breakthrough work he did, and that's why he was honored."
-
-<img src="/images/elonmusk/amplify_video_thumb_2083187313278889984_img_Sd-L2NhzNV0Gwt6i.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2083187570083545199#m)
 
 ---
 
