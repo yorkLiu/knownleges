@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 265 条推文
+> 📊 推文存档 - 共 266 条推文
 
 ---
 
@@ -59,13 +59,19 @@ tags: ["2026"]
 
 除了「中國人扎堆準沒好」 之外 關於投資還有一條真理 【中簡氣人有笑人無之時，就是別人掙錢的時候到了】 綜上，中簡圈相當於「賭場明燈」，簡稱「衰神」，曾子曰～反指。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJSmpsCAABhvJdICn2AAG5t4FaDfLmViQAAp0Taxt292FXQfjr7xU9yp0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJS2psCAT53k6bXz5bEZY641cRklLqAAKeE2sbdvdhVzLRBG4FaebTAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-31 15:40:40
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJTGpsCAggP0EvPlvScxvDdxKE3I4UAAKfE2sbdvdhV4F1GfnkhuAQAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/dianzhuXS/status/2083023561237885325#m)
+**内容**:
+
+用「中简」发一条 SK海力士确实没涨30% 是涨了29.95%，行了吗？ 气死你们这帮「气人有笑人无」的Loser 🤭
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJWWpsV_HORLYIaGG6Dpltn5R0dloGAAJYFGsbdvdhV2b48_cgCOGcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083095485829751283#m)
 
 ---
 
