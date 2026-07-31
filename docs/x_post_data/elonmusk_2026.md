@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1737 条推文
+> 📊 推文存档 - 共 1740 条推文
 
 ---
 
@@ -18,6 +18,22 @@ tags: ["2026"]
 **内容**:
 
 This is extremely important to understand. The birth rate you see in the West is the BLENDED number of ~90% who have a fertility rate half that of replacement and ~10% who have a birth rate double that of replacement. Demographics is destiny.
+
+---
+
+## 2026-08-01 00:51:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Zimbabwe destroyed itself the day it destroyed the people who produce. Confiscating 4,500 productive commercial farms from the people who actually knew how to run them and handing them to political allies with zero farming experience is precisely how you turn Africa’s breadbasket into a country that can’t feed itself and ends up printing 100 trillion dollar notes that won’t even cover a bus fare. Mugabe did exactly that in 2000. >commercial farmland lost 3/4 of its value in a single year >food production dropped 60% over the next decade >nearly 700 companies that depended on farm exports and food processing shut down within 2 years >the economy shrank more than 6% a year and average incomes fell by more than half “Just give poor people money, bro!” And so they did with the tax base gone! >printed money to fill the hole >prices were doubling every 24 hours by late 2008 >official inflation numbers stopped being published and an independent economist calculated monthly inflation at 79.6 billion %. Communism is grand.
+
+<img src="/images/elonmusk/amplify_video_thumb_2083233969395433472_img_PId0EguxeQwW3Jsz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2083206114645041152_img_kAF9e4aPu7ToB0QC.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Rothmus/status/2083234027146752329#m)
 
 ---
 
@@ -111,6 +127,20 @@ Troubling
 
 ---
 
+## 2026-08-01 05:05:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is the most impossible launch moments ever captured this close A camera sat beneath Starship’s Super Heavy booster as all 33 Raptor engines ignited at once Inside each Raptor, methane and oxygen produce combustion gases approaching 3,000°C, or roughly 5,400°F Then the full engine array erupts, hammering the launch mount with supersonic exhaust, violent shockwaves, extreme acoustic energy, vibration, water spray and enormous clouds of steam Yet the camera kept recording through the entire ignition sequence from directly beneath the mount, without the view ever clouding or fogging SpaceX team engineered a way to capture footage from the most brutal launch environments imaginable The camera system behind this shot may be almost as impressive as the footage itself
+
+<img src="/images/elonmusk/amplify_video_thumb_2083294589625016320_img_SIxT_sGcM4QmyGgZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2083298049112367272#m)
+
+---
+
 ## 2026-08-01 05:06:57
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -149,10 +179,6 @@ Nigeria alone had 4 million more births than the entire EU last year! https://gr
 
 RT by @elonmusk: I finally have all 1.2 million raw image files from my latest mission to ISS! Here is a sample of one of my favorite Milky Way photos, taken from the Cupola with Nikon Z9, Arri Zeiss 15mm lens, T1.8 with custom sidereal drive that cancelled out star motion relative to our orbit.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJZ2ptKq0jUtAV3js0fCFjnlh4ZaTDAAI7E2sbdvdpV9IpJEhFhY2YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/astro_Pettit/status/2083310808927293700#m)
-
 ---
 
 ## 2026-08-01 06:01:22
@@ -162,10 +188,6 @@ RT by @elonmusk: I finally have all 1.2 million raw image files from my latest m
 **内容**:
 
 RT by @elonmusk: Connect Superwhisper to Grok Build with your SuperGrok or X Premium subscription
-
-<img src="/images/elonmusk/amplify_video_thumb_2083284675028500480_img_g2m43QMe-6goyQyY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceXAI/status/2083312089620222378#m)
 
 ---
 
@@ -177,7 +199,19 @@ RT by @elonmusk: Connect Superwhisper to Grok Build with your SuperGrok or X Pre
 
 Most countries are dying
 
-[查看原文](https://nitter.net/elonmusk/status/2083323403134439684#m)
+---
+
+## 2026-08-01 06:53:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+21 out of 27 EU countries have more deaths than births
+
+<img src="/images/elonmusk/amplify_video_thumb_2083307138168901632_img_nY5-7yfPyM7X6N6_.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083325295369564560#m)
 
 ---
 

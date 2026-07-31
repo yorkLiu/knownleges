@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 352 条推文
+> 📊 推文存档 - 共 353 条推文
 
 ---
 
@@ -29,9 +29,17 @@ $RDDT ER in a nutshell: Revenue: $804.9M vs. $730.4M (expected). EPS: $1.25 vs. 
 
 As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion. Up from $695-$725B Billion previously. Amazon: $220B Google: $195B-$205B Meta: $130B-$145B Microsoft: $175B We've already seen significant deleveraging and retail/institutional margin liquidations (maybe it continues for more time, who knows). But medium-long term, I'm not quite sure how anyone can be bearish the upstream semis or neoclouds. Given each hyperscaler has flagged either compute shortages, rising cloud demand + pricing power, or increased spending for chips/networking. My "bottleneck" thesis with many of these upstream semi supply chains is that when trillions in capital flows into things from InP substrates or memory (which were both treated as cheap commodities) or even energy. Lot of these current AI names that were treated as useless before in telecom cycles or even toilet sellers. Gets rerated when their inflection period hits and capex flows into their balance sheets. As seen with $NVDA GPUs past few years, memory this year, CPUs/MLCCs next few years, CPO in 2027, Glass Substrates in 2027, 800V in 2027, and so on.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJYGps984ujNN5ecBnlu9HEMQF91_dAAIGE2sbdvdpV9NEHDSgotq-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2083270545320386734#m)
+## 2026-08-01 06:52:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The media framing and X reactions around Leopold are egregious. Framing his successful multi-year thesis from $SNDK to $BE as a "collapse" or "failure". After July's surprising crash, then personally attacking him on top is just pathetic to witness. It's almost like everyone is cheering for the downfall of others. Yes, July's crash exposed problems with SA’s leverage, liquidity management, and hedging. But his current YTD performance remains +80%, ranking among the best performing hedge funds. And he still has public equities after all this (just removed leverage). I think he's doing something unique while being successful at it. And this draws the envy of others.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2083324920214536208#m)
 
 ---
 
