@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1734 条推文
+> 📊 推文存档 - 共 1737 条推文
 
 ---
 
@@ -119,10 +119,6 @@ Troubling
 
 Starship in space as seen by Starlink
 
-<img src="/images/elonmusk/amplify_video_thumb_2083296564378816514_img_t1lsHFBVV6wTx6uQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083298392357167506#m)
-
 ---
 
 ## 2026-08-01 05:23:27
@@ -132,8 +128,6 @@ Starship in space as seen by Starlink
 **内容**:
 
 This is essentially true. However, it is possible to filter for exceptional people from any country. The problem for the left is that exceptional people mostly won’t vote for them.
-
-[查看原文](https://nitter.net/elonmusk/status/2083302544026046857#m)
 
 ---
 
@@ -145,9 +139,45 @@ This is essentially true. However, it is possible to filter for exceptional peop
 
 Nigeria alone had 4 million more births than the entire EU last year! https://grok.com/share/bGVnYWN5_55b997a1-df61-4de0-a96c-bcbfe2fe23ae
 
-<img src="/images/elonmusk/card_img_2083303889277800449_g2FqLFtx3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083304103799664685#m)
+## 2026-08-01 05:56:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I finally have all 1.2 million raw image files from my latest mission to ISS! Here is a sample of one of my favorite Milky Way photos, taken from the Cupola with Nikon Z9, Arri Zeiss 15mm lens, T1.8 with custom sidereal drive that cancelled out star motion relative to our orbit.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJZ2ptKq0jUtAV3js0fCFjnlh4ZaTDAAI7E2sbdvdpV9IpJEhFhY2YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/astro_Pettit/status/2083310808927293700#m)
+
+---
+
+## 2026-08-01 06:01:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Connect Superwhisper to Grok Build with your SuperGrok or X Premium subscription
+
+<img src="/images/elonmusk/amplify_video_thumb_2083284675028500480_img_g2m43QMe-6goyQyY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceXAI/status/2083312089620222378#m)
+
+---
+
+## 2026-08-01 06:46:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Most countries are dying
+
+[查看原文](https://nitter.net/elonmusk/status/2083323403134439684#m)
 
 ---
 
