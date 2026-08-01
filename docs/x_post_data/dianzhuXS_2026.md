@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 270 条推文
+> 📊 推文存档 - 共 271 条推文
 
 ---
 
@@ -29,9 +29,17 @@ tags: ["2026"]
 
 我老婆發現了一個好東西 這包裝，哈哈哈🤣
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJbWptXYq6uwmUIe3xGlewVzDHNQV8AAKeE2sbdvdpVzx4okHcYUd_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2083376403081568287#m)
+## 2026-08-01 16:31:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+再用中简发一条 最近很多人在骂日本 说日本不宜居住了 我想说 韩国更不宜居住 比日本还不宜居住 尤其墙人 千万不要来了 千万不要来了 千万不要来了！ 重要的事儿说三遍 都去左疯当政的国家吧 那里最适合 这是真心的建议 不是调侃 爱信不信
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083470543207231688#m)
 
 ---
 
