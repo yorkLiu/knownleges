@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1757 条推文
+> 📊 推文存档 - 共 1758 条推文
 
 ---
 
@@ -219,10 +219,6 @@ RT by @elonmusk: Connect Superwhisper to Grok Build with your SuperGrok or X Pre
 
 RT by @elonmusk: Read this Fauci diary entry closely. Officials would not admit the vaccine was not stopping spread because it might weaken the legal case for mandates. That is not science. That is a cover-up to justify coercion.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJcGptkGs7iske0KcYp3umKMbs5knVAAInE2sbdvdxV_0SV3j6dUHFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/RandPaul/status/2083318034505109688#m)
-
 ---
 
 ## 2026-08-01 06:46:20
@@ -272,10 +268,6 @@ Moonlight Sonata Starship
 **内容**:
 
 RT by @elonmusk: They smashed babies against trees and murdered nearly 2 million Cambodians in under 4 years chasing a pure agrarian communist utopia with no cities, no money, and no private property. On April 17 1975, the Khmer Rouge rolled into Phnom Penh and within hours emptied the entire city, marching hospital patients and the elderly into the countryside on foot as they declared Year Zero and set out to erase every trace of the old society. Anyone tied to the past became a target and wearing glasses alone could get you killed because it proved you could read, while doctors, teachers, engineers, and monks were executed as enemies of the revolution. They turned a high school into a prison where roughly 20,000 people were tortured into confessing crimes that never happened, after which they were trucked to mass graves in the killing fields where executioners smashed infants against the killing tree to save bullets. But they never achieved a classless utopia so it wasn’t like real communism.
-
-<img src="/images/elonmusk/amplify_video_thumb_2083349762548318208_img_r-DZS3Slc7O_B5Bq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Rothmus/status/2083349818110300672#m)
 
 ---
 
@@ -357,10 +349,6 @@ Grok Build can do almost anything you can think of http://X.ai/cli
 
 Cool
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJcWptkG_fcoV2bJo9PD525IuHvY9xAAIoE2sbdvdxV_aP2NpxHY01AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083430685411299374#m)
-
 ---
 
 ## 2026-08-01 14:02:35
@@ -370,10 +358,6 @@ Cool
 **内容**:
 
 💯
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJb2ptkGfXCo6Zj7VaT7_66_Ueqr06AAImE2sbdvdxVyz4ZtH4juzDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083433190941691982#m)
 
 ---
 
@@ -385,9 +369,19 @@ Cool
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2083240159865163776_img_pv7jlknlZZ1a80Cb.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083433406998663647#m)
+## 2026-08-01 14:13:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+They are far along the road to extinction
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJcmptl6lwLJkt70EhBEaalMgNnpk8AAJsFWsbW_9oV4_eR5cOlV_7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083435949187367406#m)
 
 ---
 

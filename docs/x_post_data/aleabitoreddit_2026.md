@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 353 条推文
+> 📊 推文存档 - 共 354 条推文
 
 ---
 
@@ -39,7 +39,19 @@ As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined cape
 
 The media framing and X reactions around Leopold are egregious. Framing his successful multi-year thesis from $SNDK to $BE as a "collapse" or "failure". After July's surprising crash, then personally attacking him on top is just pathetic to witness. It's almost like everyone is cheering for the downfall of others. Yes, July's crash exposed problems with SA’s leverage, liquidity management, and hedging. But his current YTD performance remains +80%, ranking among the best performing hedge funds. And he still has public equities after all this (just removed leverage). I think he's doing something unique while being successful at it. And this draws the envy of others.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2083324920214536208#m)
+---
+
+## 2026-08-01 14:24:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs: Is facing a more severe supply chain crisis than memory. And with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand. This is especially visible with EMLs today but is already expanding to CW, especially as CPO ramps. I've always been a fan of the laser chokepoint + bottleneck from $AAOI, $SIVE, $LITE, and $COHR. And glad this thesis is starting to see validation.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJc2ptl7BjYSmOp2LJZBXz0rn65EBXAAJtFWsbW_9oVwWm0H6S_6QaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2083438823548293140#m)
 
 ---
 
