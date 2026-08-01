@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 268 条推文
+> 📊 推文存档 - 共 269 条推文
+
+---
+
+## 2026-08-01 08:39:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有人問，那地方又出新的『出入境管理規定』了，大盧你們不「苦口婆心」了？怎麼不再分析分析形勢，勸人趕緊辦護照，趕緊潤了？ 我喊了六年了，累了，聽得進去的，能跑的早跑了。現在我不喊了，因為沒啥用，如果非要喊點什麼的話，那我覺得現在最應該對海外常居的群體喊～換國籍，趕緊！
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJaGptQHmkCgtZFuHEKCgTZxZyWFY5AAJIE2sbdvdpV8bGLB8ocYoTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083351771213341032#m)
 
 ---
 
