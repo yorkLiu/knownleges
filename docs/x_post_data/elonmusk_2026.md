@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1764 条推文
+> 📊 推文存档 - 共 1765 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT by @elonmusk: A friend of mine said that we should welcome illegal immigrants, so long as they don’t live near her. She’s now a former friend. My mom used to say, you cannot argue with stupid or crazy people. Her quote is in my new book. I still try, but without success.
 
-<img src="/images/elonmusk/amplify_video_thumb_2083382147751301120_img_Vto4M70n0_ydwumS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mayemusk/status/2083585386022862876#m)
-
 ---
 
 ## 2026-08-02 00:45:52
@@ -32,8 +28,6 @@ RT by @elonmusk: A friend of mine said that we should welcome illegal immigrants
 **内容**:
 
 Exactly
-
-[查看原文](https://nitter.net/elonmusk/status/2083595079357239628#m)
 
 ---
 
@@ -45,9 +39,19 @@ Exactly
 
 A special effect like this used to take months of effort by a specialized company
 
-<img src="/images/elonmusk/amplify_video_thumb_2083521358282067968_img_i56bx-vT5AoxuHKi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083595725552734528#m)
+## 2026-08-02 04:57:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The Moon base will be even more epic
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJgGpuYyFx5wYO0TEJrxKfBKWSFUXVAAI0FGsbW_9wVwABSXd-D_XokQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083658315582632272#m)
 
 ---
 
