@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1752 条推文
+> 📊 推文存档 - 共 1757 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: 🕐Annonce : http://ReplacementClock.org est en ligne ! Il y a un an, j’ai cherché un outil de suivi du « Grand Remplacement » : un site qui rassemblerait les données démographiques de l’ensemble du monde occidental et permettrait de mesurer l’ampleur des changements en cours. À ma grande surprise, rien de tel n’existait. Il y a six mois, j’ai donc décidé de le créer moi-même. Aujourd’hui, j’annonce le lancement de la première version de la « Great Replacement Clock ». Cet outil permet de suivre l’évolution de la part de la population d’ascendance européenne dans le monde et dans 45 pays historiquement à majorité européenne. Il réunit données historiques et projections modélisées au sein d’une même frise chronologique interactive. Chaque estimation est documentée et vérifiable, et la méthode employée est présentée en toute transparence. Dans les pays occidentaux, il est particulièrement difficile d’accéder à des données fiables sur l’origine ethnique des populations. Aucun pays ne mesure directement la part de sa population qui est d’ascendance européenne. Plusieurs États interdisent ou restreignent fortement la collecte de telles données. La France, connue pour ses restrictions en matière de statistiques ethniques, en est l’exemple le plus souvent cité, mais elle est loin d’être la seule. Ailleurs, les statistiques officielles rendent les tendances de long terme difficiles à discerner en raison de catégories de recensement changeantes ou de méthodes de regroupement qui gomment des distinctions pourtant significatives. Les problèmes de comptage et de classification prennent des formes récurrentes : inclure les populations originaires du Moyen-Orient et d’Afrique du Nord dans la catégorie « Blancs », classer les immigrés de deuxième ou troisième génération parmi la population « autochtone », ou encore comptabiliser comme simplement « étrangers » les Européens installés dans un autre pays européen. Les États-Unis en offrent un bon exemple : jusqu’en 2020, les normes fédérales classaient les populations originaires du Moyen-Orient et d’Afrique du Nord parmi les Blancs. Il en résulte un paysage informationnel dans lequel certains des faits les plus déterminants pour l’avenir des sociétés occidentales comptent aussi parmi les plus difficiles à établir avec précision. Ce projet vise à combler cette lacune. Il s’appuie sur les meilleures données démographiques disponibles afin de reconstituer, au fil du temps, la part d’ascendance européenne de chaque population selon une définition cohérente d’un pays et d’une époque à l’autre. Les sources, les hypothèses et les ajustements qui sous-tendent chaque estimation sont publiés afin que chacun puisse les examiner. Il s’agit d’une première version. Si un chiffre vous paraît douteux, n’hésitez pas à le signaler. Vos remarques et vos contributions sont les bienvenues. L’outil continuera de s’enrichir et de gagner en précision. La composition démographique relève de l'intérêt public, pas du secret d'État. Les peuples occidentaux ont le droit de savoir quelle heure il est. @RenaudCamus @LibrairieRCamus @jylgallou @InstitutILIADE @EgoNon3 @JRochedy @gannat_JEG @brivael
-
-<img src="/images/elonmusk/amplify_video_thumb_2083219223405334528_img_gWPrMlOGVuWZ6YxO.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Leo_Pier_/status/2083222305770008593#m)
 
 ---
 
@@ -215,6 +211,20 @@ RT by @elonmusk: Connect Superwhisper to Grok Build with your SuperGrok or X Pre
 
 ---
 
+## 2026-08-01 06:25:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Read this Fauci diary entry closely. Officials would not admit the vaccine was not stopping spread because it might weaken the legal case for mandates. That is not science. That is a cover-up to justify coercion.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJcGptkGs7iske0KcYp3umKMbs5knVAAInE2sbdvdxV_0SV3j6dUHFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/RandPaul/status/2083318034505109688#m)
+
+---
+
 ## 2026-08-01 06:46:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -252,6 +262,20 @@ RT by @elonmusk: Starlink with @SostGlobalMX, is providing high-speed internet t
 **内容**:
 
 Moonlight Sonata Starship
+
+---
+
+## 2026-08-01 08:31:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: They smashed babies against trees and murdered nearly 2 million Cambodians in under 4 years chasing a pure agrarian communist utopia with no cities, no money, and no private property. On April 17 1975, the Khmer Rouge rolled into Phnom Penh and within hours emptied the entire city, marching hospital patients and the elderly into the countryside on foot as they declared Year Zero and set out to erase every trace of the old society. Anyone tied to the past became a target and wearing glasses alone could get you killed because it proved you could read, while doctors, teachers, engineers, and monks were executed as enemies of the revolution. They turned a high school into a prison where roughly 20,000 people were tortured into confessing crimes that never happened, after which they were trucked to mass graves in the killing fields where executioners smashed infants against the killing tree to save bullets. But they never achieved a classless utopia so it wasn’t like real communism.
+
+<img src="/images/elonmusk/amplify_video_thumb_2083349762548318208_img_r-DZS3Slc7O_B5Bq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Rothmus/status/2083349818110300672#m)
 
 ---
 
@@ -323,11 +347,47 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 
 Grok Build can do almost anything you can think of http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJbmptepqqZyIet_Zb2HJpmmyl2p7BAALZE2sbdvdpV-ODsxHta8jZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-01 13:52:38
 
-[查看原文](https://nitter.net/elonmusk/status/2083406375955177911#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJcWptkG_fcoV2bJo9PD525IuHvY9xAAIoE2sbdvdxV_aP2NpxHY01AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083430685411299374#m)
+
+---
+
+## 2026-08-01 14:02:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+💯
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJb2ptkGfXCo6Zj7VaT7_66_Ueqr06AAImE2sbdvdxVyz4ZtH4juzDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083433190941691982#m)
+
+---
+
+## 2026-08-01 14:03:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2083240159865163776_img_pv7jlknlZZ1a80Cb.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083433406998663647#m)
 
 ---
 
