@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 272 条推文
+> 📊 推文存档 - 共 273 条推文
 
 ---
 
@@ -49,7 +49,19 @@ tags: ["2026"]
 
 一個問題 五中全會都開始排期了 怎麼沒人傳「拿下200斤」了呢？ 上次四中全會有陰影了？ 這屆聽床不給力呀？ 這波流量不要了？
 
-[查看原文](https://nitter.net/dianzhuXS/status/2083507890418294871#m)
+---
+
+## 2026-08-01 19:59:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天調試新麥克風 順手給節目加了 一個水印～盧家 明天有直播 明天有直播 明天有直播 重要的事說三遍 🤗🤗🤗
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJe2pt4FchD8pkjhWmWMJaIm8OgS6qAAKsE2sbW_9wV51pgqyXDLiRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083522945377599541#m)
 
 ---
 
