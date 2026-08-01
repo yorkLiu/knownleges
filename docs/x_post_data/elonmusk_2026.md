@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1740 条推文
+> 📊 推文存档 - 共 1741 条推文
 
 ---
 
@@ -28,12 +28,6 @@ This is extremely important to understand. The birth rate you see in the West is
 **内容**:
 
 RT by @elonmusk: Zimbabwe destroyed itself the day it destroyed the people who produce. Confiscating 4,500 productive commercial farms from the people who actually knew how to run them and handing them to political allies with zero farming experience is precisely how you turn Africa’s breadbasket into a country that can’t feed itself and ends up printing 100 trillion dollar notes that won’t even cover a bus fare. Mugabe did exactly that in 2000. >commercial farmland lost 3/4 of its value in a single year >food production dropped 60% over the next decade >nearly 700 companies that depended on farm exports and food processing shut down within 2 years >the economy shrank more than 6% a year and average incomes fell by more than half “Just give poor people money, bro!” And so they did with the tax base gone! >printed money to fill the hole >prices were doubling every 24 hours by late 2008 >official inflation numbers stopped being published and an independent economist calculated monthly inflation at 79.6 billion %. Communism is grand.
-
-<img src="/images/elonmusk/amplify_video_thumb_2083233969395433472_img_PId0EguxeQwW3Jsz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2083206114645041152_img_kAF9e4aPu7ToB0QC.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Rothmus/status/2083234027146752329#m)
 
 ---
 
@@ -135,10 +129,6 @@ Troubling
 
 RT by @elonmusk: This is the most impossible launch moments ever captured this close A camera sat beneath Starship’s Super Heavy booster as all 33 Raptor engines ignited at once Inside each Raptor, methane and oxygen produce combustion gases approaching 3,000°C, or roughly 5,400°F Then the full engine array erupts, hammering the launch mount with supersonic exhaust, violent shockwaves, extreme acoustic energy, vibration, water spray and enormous clouds of steam Yet the camera kept recording through the entire ignition sequence from directly beneath the mount, without the view ever clouding or fogging SpaceX team engineered a way to capture footage from the most brutal launch environments imaginable The camera system behind this shot may be almost as impressive as the footage itself
 
-<img src="/images/elonmusk/amplify_video_thumb_2083294589625016320_img_SIxT_sGcM4QmyGgZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2083298049112367272#m)
-
 ---
 
 ## 2026-08-01 05:06:57
@@ -209,9 +199,19 @@ Most countries are dying
 
 21 out of 27 EU countries have more deaths than births
 
-<img src="/images/elonmusk/amplify_video_thumb_2083307138168901632_img_nY5-7yfPyM7X6N6_.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083325295369564560#m)
+## 2026-08-01 08:06:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Moonlight Sonata Starship
+
+<img src="/images/elonmusk/amplify_video_thumb_2083335686774788096_img_yyh5WD-LpsE0ttOz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083343510757892116#m)
 
 ---
 
