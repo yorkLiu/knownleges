@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1758 条推文
+> 📊 推文存档 - 共 1760 条推文
 
 ---
 
@@ -379,9 +379,37 @@ Video
 
 They are far along the road to extinction
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJcmptl6lwLJkt70EhBEaalMgNnpk8AAJsFWsbW_9oV4_eR5cOlV_7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083435949187367406#m)
+## 2026-08-01 22:45:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: NASA recently recognized one of America’s outstanding engineers.   At @SpaceX’s Rocket Development Facility in McGregor, Texas, I joined Congressman @PeteSessions and McGregor Mayor Jim Moody to present Andrew Berkowitz with NASA’s Exceptional Public Achievement Award.   Andrew’s pioneering research to better understand liquid methane and oxygen explosions is helping enable the next generation of rockets that will return Americans to the Moon, establish a sustained U.S. presence on the lunar surface, and prepare us for Mars.   America’s greatest achievements in space are built by extraordinary people whose work often happens behind the scenes. Andrew’s contributions will help shape the future of exploration for years to come.   Congratulations on this well-deserved honor, Andrew, and thank you for your contributions to NASA’s mission and America’s future in space.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJfGpuIbzKtwJNfhmLi_O1-z7YDUHEAAIQFGsbW_9wVwng1V1Vx3RMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJfWpuIcAq59Lesbq3bI9MJ5myr9snAAIRFGsbW_9wV5JentnEyEjrAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJfmpuIcRuE1CMYoBD79g2DoCQwCn8AAISFGsbW_9wV37tkIs0X9dMAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/NASAAdmin/status/2083564835111948792#m)
+
+---
+
+## 2026-08-01 23:01:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.5 is Pareto #1 when considering speed & cost
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJf2puIch6V3bFowweWlgpDRJSjJa1AAITFGsbW_9wVzFrNsPT8LEOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083568773294911788#m)
 
 ---
 
