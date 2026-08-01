@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1750 条推文
+> 📊 推文存档 - 共 1752 条推文
+
+---
+
+## 2026-08-01 00:04:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🕐Annonce : http://ReplacementClock.org est en ligne ! Il y a un an, j’ai cherché un outil de suivi du « Grand Remplacement » : un site qui rassemblerait les données démographiques de l’ensemble du monde occidental et permettrait de mesurer l’ampleur des changements en cours. À ma grande surprise, rien de tel n’existait. Il y a six mois, j’ai donc décidé de le créer moi-même. Aujourd’hui, j’annonce le lancement de la première version de la « Great Replacement Clock ». Cet outil permet de suivre l’évolution de la part de la population d’ascendance européenne dans le monde et dans 45 pays historiquement à majorité européenne. Il réunit données historiques et projections modélisées au sein d’une même frise chronologique interactive. Chaque estimation est documentée et vérifiable, et la méthode employée est présentée en toute transparence. Dans les pays occidentaux, il est particulièrement difficile d’accéder à des données fiables sur l’origine ethnique des populations. Aucun pays ne mesure directement la part de sa population qui est d’ascendance européenne. Plusieurs États interdisent ou restreignent fortement la collecte de telles données. La France, connue pour ses restrictions en matière de statistiques ethniques, en est l’exemple le plus souvent cité, mais elle est loin d’être la seule. Ailleurs, les statistiques officielles rendent les tendances de long terme difficiles à discerner en raison de catégories de recensement changeantes ou de méthodes de regroupement qui gomment des distinctions pourtant significatives. Les problèmes de comptage et de classification prennent des formes récurrentes : inclure les populations originaires du Moyen-Orient et d’Afrique du Nord dans la catégorie « Blancs », classer les immigrés de deuxième ou troisième génération parmi la population « autochtone », ou encore comptabiliser comme simplement « étrangers » les Européens installés dans un autre pays européen. Les États-Unis en offrent un bon exemple : jusqu’en 2020, les normes fédérales classaient les populations originaires du Moyen-Orient et d’Afrique du Nord parmi les Blancs. Il en résulte un paysage informationnel dans lequel certains des faits les plus déterminants pour l’avenir des sociétés occidentales comptent aussi parmi les plus difficiles à établir avec précision. Ce projet vise à combler cette lacune. Il s’appuie sur les meilleures données démographiques disponibles afin de reconstituer, au fil du temps, la part d’ascendance européenne de chaque population selon une définition cohérente d’un pays et d’une époque à l’autre. Les sources, les hypothèses et les ajustements qui sous-tendent chaque estimation sont publiés afin que chacun puisse les examiner. Il s’agit d’une première version. Si un chiffre vous paraît douteux, n’hésitez pas à le signaler. Vos remarques et vos contributions sont les bienvenues. L’outil continuera de s’enrichir et de gagner en précision. La composition démographique relève de l'intérêt public, pas du secret d'État. Les peuples occidentaux ont le droit de savoir quelle heure il est. @RenaudCamus @LibrairieRCamus @jylgallou @InstitutILIADE @EgoNon3 @JRochedy @gannat_JEG @brivael
+
+<img src="/images/elonmusk/amplify_video_thumb_2083219223405334528_img_gWPrMlOGVuWZ6YxO.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Leo_Pier_/status/2083222305770008593#m)
 
 ---
 
@@ -299,9 +313,21 @@ Grok Build improvements http://X.ai/cli
 
 RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1AxRnnrObgzxl
 
-<img src="/images/elonmusk/card_img_2083388721869549568_wqi9HlVy3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SpaceX/status/2083386927521153342#m)
+## 2026-08-01 12:16:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build can do almost anything you can think of http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJbmptepqqZyIet_Zb2HJpmmyl2p7BAALZE2sbdvdpV-ODsxHta8jZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083406375955177911#m)
 
 ---
 
