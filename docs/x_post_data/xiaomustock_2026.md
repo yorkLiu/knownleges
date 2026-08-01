@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 283 条推文
+> 📊 推文存档 - 共 285 条推文
 
 ---
 
@@ -49,11 +49,35 @@ tags: ["2026"]
 
 刚进入8月还有一件大事，AI界的卷王DeepSeek正式更新V4 Flash ，ds flash已经逼近GLM-5.2，价格只有十五分之一。 ds 的Coding Agent和软件工程能力大幅提升，在终端操作、代码仓库修改和复杂开发任务上的表现明显增强； ds的AI Agent和工具调用能力明显增强，更适合连续执行多步骤任务； 针对Codex也做了适配，更方便接入各类AI编程和Agent工具。 这次升级是冲着Coding和AI Agent来的， 而且pro版本也很快要发布，那到时候真是要准备对着Cladue的核心coding业务干。 最值得关注的点是ds只用了2840亿参数就实现了接近对手万亿参数规模的智能水平， 全世界可训练参数规模再往上堆可能也就kimi这种2万多亿，他们参数堆到极限再往上空间不大了。但ds还有10倍的堆参数空间，正儿八经的性能优化调参的工程级卷王。 这一波不仅冲击了国内模型定价连带也必然冲击了国外ai的定价，如果ds 的pro版本coding能力逼近claude和openai，那么他俩的高价也必然无法维持都得降价。 降价就会被动带来海量的用量提升，数据存储压力倍增，对存储又反而是利好。市场对存储最大的担忧就是长鑫这条鲶鱼，而不是对存储需求的担忧。但实际这种担忧对业绩的影响是远期的，这种利好和利空的左右脑互搏，市场肯定会上下来回震荡，直到存储紧缺到市场所有人都难受的时候，可能路径才会再次明确。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJd2ptu_6xY_l-Tab1o26OOdCbFQXuAAJgE2sbW_9wV6FeyQIELXd7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdmpttMG3Bq5ydTFawYZD3mEeSyvYAAJXE2sbW_9wVyW7R-2_5lqNAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-01 17:27:32
 
-[查看原文](https://nitter.net/xiaomustock/status/2083481209561141749#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+亚马逊2026 年 Q2 电话会中文翻译 今年早些时候，我们表示，计划在2026年投入约2000亿美元现金资本开支（Cash CapEx）。 其中绝大部分将用于支持 AI 和 AWS 的基础设施建设以及相关人员投入。 我们非常清楚，这些投资将带来十分可观的财务回报。下面我解释原因。 这项投资主要由两部分组成： 第一部分是数据中心（Data Centers）； 第二部分是部署在数据中心里的服务器（Servers）和网络设备（Networking Equipment）。 这两部分资产具有完全不同的资本投入周期。 数据中心通常需要提前约两年开始建设。 待数据中心建成后，我们再将服务器部署进去，即可开始产生收入。 一个数据中心一旦正式投入运营、服务器上线，我们几乎立刻便开始获得大量收入，并且这些数据中心未来30年以上都可以持续创造收益，而无需再次投入最初建设数据中心所需的大规模资本。 相比之下，服务器和网络设备属于更新周期较短的资产。 通常，我们会在正式投入使用前几个月才采购这些设备。 在决定采购之前，我们已经能够非常清楚地看到客户需求。 如果没有需求，我们就不会投入服务器和网络设备的资本。 平均而言，这类服务器投资不到三年即可收回成本（Break Even）。 目前服务器的使用寿命至少约为5～6年。 而如今，大多数 AI 算力合同的签约期限至少都是5年。 这意味着，在服务器和网络设备实现回本之后的未来2～3年，它们将持续产生大量自由现金流。 另外值得注意的是，AWS 一直拥有非常优秀的记录，能够不断缩短服务器投资的回本周期。 我们已经取得了实质性的进展，能够在不影响客户体验的前提下延长服务器设备的使用寿命。 对于寿命超过30年的数据中心而言，我们预计至少能够经历5～6代服务器升级。 正如前面所说，第二代、第三代以及之后的服务器，其整体经济效益都会优于第一代。 原因在于，我们无需再次投入最初建设数据中心的巨额资本。 因此，在短期内，由于市场需求迫使我们必须提前同步建设大量数据中心，而这些数据中心尚未开始产生收入，所以资本开支（CapEx）会维持在很高水平，自由现金流也会承受压力。 直到这些数据中心陆续上线并开始商业化运营之后，这种压力才会缓解。 随着服务器投入使用几年之后，收入增长最终将超过新增资本开支的增长速度——这一阶段迟早会到来。 届时，公司所产生的收入、自由现金流以及投入资本回报率（ROIC）都会非常具有吸引力。 我们其实在第一代云计算时代就已经经历过类似的发展过程。 只不过，当年的需求增长速度远没有今天 AI 时代这么快，而是更加循序渐进。 我们看到，如今 AI 业务的利润率和投资回报率，与当年 AWS 云计算业务发展到相同阶段时非常相似，甚至还要略好一些。 目前，我们预计2026年的现金资本开支将达到约2200亿美元。 相比此前约2000亿美元的预期有所提高。 主要原因是内存（Memory）成本上涨，推高了整体资本开支。 不过，即便投入达到2200亿美元，我们在2026年的算力仍然不足以满足全部客户需求。 我认为，这种供不应求的局面在2027年仍将持续。 事实上，我们目前已经收到的2028年需求规模都令人震惊。 请记住，目前企业客户在生产环境中大规模部署 AI 推理（Inference）仍处于非常早期阶段。 长期以来，我们一直认为 AWS 能够成长为一家数千亿美元年收入规模的业务。 而现在，我们认为它至少能够达到此前预期的两倍，并且非常有可能最终成为一家年收入达到1万亿美元的业务。 与此同时，它还将拥有极具吸引力的自由现金流和投入资本回报率（ROIC）。 上面那么多跟ai废话文学一样总结一下就是 亚马逊26q2ai核心观点： 开支：2200亿美元（原2000亿美元），主要因HBM/内存涨价。 需求：2026、2027算力仍供不应求，2028需求已非常强劲。 投资回本周期：服务器投资<3年回本，之后持续产生自由现金流。 数据中心寿命30+年，可支持5–6代服务器升级，后续ROI持续提升。 现金流状况：短期自由现金流承压，长期自由现金流和ROIC大幅增长。 AWS长期目标：年收入1万亿美元。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJemptw0rbI6yc_IE3Pb_jBSO_js0kAAJxE2sbW_9wV8dhIE9W7uYsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2083484767644004434#m)
+
+---
+
+## 2026-08-01 17:31:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+gate有放钱的赶紧走吧， 不要跟自己的资金安全过不去。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJeGptw0M6SZ2YPLB2i4zBRJ7CZ6HzAAJvE2sbW_9wVwt-GQnCnfK7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJeWptw0cZkY3-BdRxMkPi36AraUcUAAJwE2sbW_9wV44ZtCv9ksYSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2083485858909528143#m)
 
 ---
 
