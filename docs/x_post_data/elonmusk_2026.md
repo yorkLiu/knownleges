@@ -7,7 +7,47 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1760 条推文
+> 📊 推文存档 - 共 1764 条推文
+
+---
+
+## 2026-08-02 00:07:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A friend of mine said that we should welcome illegal immigrants, so long as they don’t live near her. She’s now a former friend. My mom used to say, you cannot argue with stupid or crazy people. Her quote is in my new book. I still try, but without success.
+
+<img src="/images/elonmusk/amplify_video_thumb_2083382147751301120_img_Vto4M70n0_ydwumS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mayemusk/status/2083585386022862876#m)
+
+---
+
+## 2026-08-02 00:45:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://nitter.net/elonmusk/status/2083595079357239628#m)
+
+---
+
+## 2026-08-02 00:48:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A special effect like this used to take months of effort by a specialized company
+
+<img src="/images/elonmusk/amplify_video_thumb_2083521358282067968_img_i56bx-vT5AoxuHKi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083595725552734528#m)
 
 ---
 
@@ -381,6 +421,18 @@ They are far along the road to extinction
 
 ---
 
+## 2026-08-01 22:40:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: AI will increasingly do more and more difficult tasks that would take longer and longer to comprehend. We will, at first, gasp. Then, over time, it will be just another normal day. Just like people expect Full Self-Driving to take them from Point A to Point B without questions.
+
+[查看原文](https://nitter.net/yunta_tsai/status/2083563616037658630#m)
+
+---
+
 ## 2026-08-01 22:45:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -388,14 +440,6 @@ They are far along the road to extinction
 **内容**:
 
 RT by @elonmusk: NASA recently recognized one of America’s outstanding engineers.   At @SpaceX’s Rocket Development Facility in McGregor, Texas, I joined Congressman @PeteSessions and McGregor Mayor Jim Moody to present Andrew Berkowitz with NASA’s Exceptional Public Achievement Award.   Andrew’s pioneering research to better understand liquid methane and oxygen explosions is helping enable the next generation of rockets that will return Americans to the Moon, establish a sustained U.S. presence on the lunar surface, and prepare us for Mars.   America’s greatest achievements in space are built by extraordinary people whose work often happens behind the scenes. Andrew’s contributions will help shape the future of exploration for years to come.   Congratulations on this well-deserved honor, Andrew, and thank you for your contributions to NASA’s mission and America’s future in space.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJfGpuIbzKtwJNfhmLi_O1-z7YDUHEAAIQFGsbW_9wVwng1V1Vx3RMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJfWpuIcAq59Lesbq3bI9MJ5myr9snAAIRFGsbW_9wV5JentnEyEjrAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJfmpuIcRuE1CMYoBD79g2DoCQwCn8AAISFGsbW_9wV37tkIs0X9dMAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/NASAAdmin/status/2083564835111948792#m)
 
 ---
 
@@ -406,10 +450,6 @@ RT by @elonmusk: NASA recently recognized one of America’s outstanding enginee
 **内容**:
 
 Grok 4.5 is Pareto #1 when considering speed & cost
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJf2puIch6V3bFowweWlgpDRJSjJa1AAITFGsbW_9wVzFrNsPT8LEOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083568773294911788#m)
 
 ---
 
