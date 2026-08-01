@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1746 条推文
+> 📊 推文存档 - 共 1749 条推文
 
 ---
 
@@ -28,10 +28,6 @@ This is extremely important to understand. The birth rate you see in the West is
 **内容**:
 
 RT by @elonmusk: SECRETARY RUBIO: We in America have no interest in being polite and orderly caretakers of the West's managed decline.
-
-<img src="/images/elonmusk/amplify_video_thumb_2022673104322097152_img_xNgvcKOVEnvFcseo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/StateDept/status/2083230240189436318#m)
 
 ---
 
@@ -72,10 +68,6 @@ RT by @elonmusk: Tesla now has a dedicated live Virtual Power Plant dashboard fo
 **内容**:
 
 RT by @elonmusk: Wake up Europe. You have civilizations worth preserving, and it’s not racist to make sure entrants are compatible with it. If Spain doesn’t handle this migrant invasion decisively, they’ll experience exactly what Paris does. Riots and chaos, even during celebrations.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJaWptR79jxWXxp1t65cTc9gqw0edOAAJQE2sbdvdpV30CRfj_tTFeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/thatsKAIZEN/status/2083266668596195721#m)
 
 ---
 
@@ -237,12 +229,6 @@ Most countries are dying
 
 RT by @elonmusk: Starlink with @SostGlobalMX, is providing high-speed internet to two community centers run by Indigenous Maya groups on Mexico’s Yucatán Peninsula. At these centers, several families can now access digital tools for education, improve farming projects and protect forest conservation 🛰️❤️
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJamptR8OAiXyOO_S4wZOUP4Alj4IEAAJRE2sbdvdpV6zoXs8N1_HHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJa2ptR8cLowfjTd_34gybwFPm4o50AAJSE2sbdvdpV6-8KqcRv4RmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Starlink/status/2083333504306401323#m)
-
 ---
 
 ## 2026-08-01 08:06:14
@@ -263,8 +249,6 @@ Moonlight Sonata Starship
 
 SpaceX is hiring exceptional engineering & skilled trades talent to build & operate the most powerful AI supercomputer clusters on & off Earth. If interested, please email 3 bullet points demonstrating evidence of exceptional ability & your resume to datacenters@spacex.com.
 
-[查看原文](https://nitter.net/elonmusk/status/2083353705504469233#m)
-
 ---
 
 ## 2026-08-01 08:58:58
@@ -275,9 +259,49 @@ SpaceX is hiring exceptional engineering & skilled trades talent to build & oper
 
 Imagine Video 1.5 improvements
 
+---
+
+## 2026-08-01 09:49:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try @Grok Build http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083369385616421314#m)
+
+---
+
+## 2026-08-01 09:55:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
 <img src="/images/elonmusk/amplify_video_thumb_2083353238913392640_img_r7DdIUkpb1GzUvFS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/elonmusk/status/2083356782693380350#m)
+[查看原文](https://nitter.net/elonmusk/status/2083371052067860671#m)
+
+---
+
+## 2026-08-01 10:02:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build improvements http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJbGptVkLUvcUWpnQR3YDCXxEHu-UaAAJrE2sbdvdpV-Hpjcqs7UIVAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083372850505781361#m)
 
 ---
 
