@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 282 条推文
+> 📊 推文存档 - 共 283 条推文
 
 ---
 
@@ -29,10 +29,6 @@ tags: ["2026"]
 
 刚进8月来了个鬼故事， 长鑫存储的lpddr6研发几乎完成，下半年就开始量产。 长鑫可以侵蚀掉dram份额， 不过三巨头的核心是hbm4，以及未来存算一体三位堆叠光电融合的共封装，这部分是 涉及到英伟达算力的hbm不可能撼动。美国佬不可能把算力交给长鑫来打包，而这是真正存储市场的爆发式的增长点。 长鑫吃国内厂商合作的存算一体hbm的算力基建也足够了，国家层面刚发了4万亿算力基建。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdmpttMG3Bq5ydTFawYZD3mEeSyvYAAJXE2sbW_9wVyW7R-2_5lqNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2083471859576979783#m)
-
 ---
 
 ## 2026-08-01 16:48:09
@@ -43,13 +39,21 @@ tags: ["2026"]
 
 虽然过去一个月亏了35%，账户接近腰斩，但是今年存储带来的收益还能剩268%。 不再激进求获得多高的收益， 只求能稳定健康点，祝老板们以后财富长虹。回看真正稳妥的大机会都是黑天鹅式的， 去年关税战暴跌到170的台积电，80多的英伟达， 今年美伊战争暴跌下来的存储，美光，闪迪，铠侠，三星海力士，全都跌成了白菜价。 以及7月份的存储俩周时间闪崩腰斩， 市场是真不缺机会，更不缺黑天鹅。 以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。像闪迪能一天拉40%，1000拉到1400。 这种时间直接梭哈带来的收益远超每年持有apy或者qqq平均带来的15%左右年化。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdGpttLrZ2lsKiLHyaXJxLL0hF_hwAAJVE2sbW_9wV4uwA4II8MwxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdWpttL0y8wXuskkVtKvJNulO4uaxAAJWE2sbW_9wV0BDFQ2N4md3AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-01 17:13:24
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJCmpoL-tDug8M9IR1drDjq6nWzHHxAAKQEWsb6lBJVwH_FxaY375XAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/xiaomustock/status/2083474854507069903#m)
+**内容**:
+
+刚进入8月还有一件大事，AI界的卷王DeepSeek正式更新V4 Flash ，ds flash已经逼近GLM-5.2，价格只有十五分之一。 ds 的Coding Agent和软件工程能力大幅提升，在终端操作、代码仓库修改和复杂开发任务上的表现明显增强； ds的AI Agent和工具调用能力明显增强，更适合连续执行多步骤任务； 针对Codex也做了适配，更方便接入各类AI编程和Agent工具。 这次升级是冲着Coding和AI Agent来的， 而且pro版本也很快要发布，那到时候真是要准备对着Cladue的核心coding业务干。 最值得关注的点是ds只用了2840亿参数就实现了接近对手万亿参数规模的智能水平， 全世界可训练参数规模再往上堆可能也就kimi这种2万多亿，他们参数堆到极限再往上空间不大了。但ds还有10倍的堆参数空间，正儿八经的性能优化调参的工程级卷王。 这一波不仅冲击了国内模型定价连带也必然冲击了国外ai的定价，如果ds 的pro版本coding能力逼近claude和openai，那么他俩的高价也必然无法维持都得降价。 降价就会被动带来海量的用量提升，数据存储压力倍增，对存储又反而是利好。市场对存储最大的担忧就是长鑫这条鲶鱼，而不是对存储需求的担忧。但实际这种担忧对业绩的影响是远期的，这种利好和利空的左右脑互搏，市场肯定会上下来回震荡，直到存储紧缺到市场所有人都难受的时候，可能路径才会再次明确。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJd2ptu_6xY_l-Tab1o26OOdCbFQXuAAJgE2sbW_9wV6FeyQIELXd7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdmpttMG3Bq5ydTFawYZD3mEeSyvYAAJXE2sbW_9wVyW7R-2_5lqNAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2083481209561141749#m)
 
 ---
 
