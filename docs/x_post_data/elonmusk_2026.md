@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1749 条推文
+> 📊 推文存档 - 共 1750 条推文
 
 ---
 
@@ -269,10 +269,6 @@ Imagine Video 1.5 improvements
 
 Try @Grok Build http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083369385616421314#m)
-
 ---
 
 ## 2026-08-01 09:55:40
@@ -282,10 +278,6 @@ Try @Grok Build http://X.ai/cli
 **内容**:
 
 Video
-
-<img src="/images/elonmusk/amplify_video_thumb_2083353238913392640_img_r7DdIUkpb1GzUvFS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083371052067860671#m)
 
 ---
 
@@ -297,11 +289,19 @@ Video
 
 Grok Build improvements http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2080814505035010048_wwfhYOLr3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJbGptVkLUvcUWpnQR3YDCXxEHu-UaAAJrE2sbdvdpV-Hpjcqs7UIVAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-01 10:58:45
 
-[查看原文](https://nitter.net/elonmusk/status/2083372850505781361#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1AxRnnrObgzxl
+
+<img src="/images/elonmusk/card_img_2083388721869549568_wqi9HlVy3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2083386927521153342#m)
 
 ---
 
