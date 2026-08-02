@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1770 条推文
+> 📊 推文存档 - 共 1771 条推文
 
 ---
 
@@ -49,11 +49,17 @@ A special effect like this used to take months of effort by a specialized compan
 
 RT by @elonmusk: Starlink enables fast, reliable connectivity where traditional infrastructure does not exist 🛰️🏔️
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJgWpulgAB20EjR0iO4AHlBFvCltFMIgACCRVrG1v_cFfyKFZ7ogKNpAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJgmpulgRPdSteJF6xzLuFjw7K-h2qAAIKFWsbW_9wV9fjja6tiwLSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-02 04:50:25
 
-[查看原文](https://nitter.net/Starlink/status/2083624518862684644#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Thank you, @cursor_ai, for providing free credits to several FFmpeg developers. These credits will support their ongoing work on FFmpeg, including development and code review. We greatly appreciate Cursor’s support for FFmpeg and its community.
+
+[查看原文](https://nitter.net/FFmpeg/status/2083656620576231556#m)
 
 ---
 
@@ -75,10 +81,6 @@ The Moon base will be even more epic
 
 Grok Imagine
 
-<img src="/images/elonmusk/amplify_video_thumb_2083219494231494656_img_bgPsxu7gA9ous5gh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083706250370449572#m)
-
 ---
 
 ## 2026-08-02 08:22:14
@@ -88,10 +90,6 @@ Grok Imagine
 **内容**:
 
 Made with Grok Imagine
-
-<img src="/images/elonmusk/amplify_video_thumb_2079623240972939265_img_WPnju49YIuz5b0uh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083709924236751300#m)
 
 ---
 
