@@ -90,11 +90,14 @@ function parseTweetsFromMD(content, username) {
             .replace(/^#.*$/mg, '') // 移除 ## 时间戳行（后面会单独处理）
             .replace(/<a[^>]+class="tag-badge[^"]*"[^>]*>.*?<\/a>/g, '') // 移除标签链接
             .replace(/<img[^>]+>/g, '') // 移除图片标签
+            .replace(/\*\*内容\*\*:?\s*/g, '') // 移除 **内容**: 标记
             .replace(/\[查看原文\]\([^)]+\)/g, '') // 移除链接
             .replace(/\[📖 原文\]\([^)]+\)/g, '')
             .replace(/\[🔗[^\]]+\]\([^)]+\)/g, '')
             .replace(/^\s*$/gm, '') // 移除空行
             .replace(/\n{3,}/g, '\n\n') // 压缩多余空行
+            .replace(/</g, '&lt;') // 转义 < 防止被当成 HTML 标签
+            .replace(/>/g, '&gt;') // 转义 > 防止被当成 HTML 标签
             .trim();
         
         tweets.push({
