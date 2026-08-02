@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 273 条推文
+> 📊 推文存档 - 共 274 条推文
+
+---
+
+## 2026-08-02 09:13:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天中午12:30（東九區），油管主頻道「大盧和小田」真人出鏡直播。提前半小時發直播連結。 張嘴就必是乾貨，大盧這沒有「水一期」一說，因為講乾貨還講不完了，只怕太乾了很多人聽不懂。 想學就踏下心來，跟著慢慢「薰」，我這裡沒有速成法，兩三句話「真傳」告訴你了，但你理解不了也是白搭。 不是說「大道不能至簡」，而是今時今日的人們，被泡在「大過卦」裡太久了，「簡」了他理解不了，或者自己去歪解，就偏了。我們這幾次公開直播，主要講的是怎麼才能「不偏」。 只要不偏，不誤入歧途，學成只是時間問題，一會兒見💪
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJe2pt4FchD8pkjhWmWMJaIm8OgS6qAAKsE2sbW_9wV51pgqyXDLiRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2083722945705201774#m)
 
 ---
 
