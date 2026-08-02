@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1775 条推文
+> 📊 推文存档 - 共 1777 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 Accurate 😂
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJhmpvjRE613Jyxl2P5U0U2z92EnxIAALWF2sbW_94V8EF-yCwW8PHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083979613156340154#m)
+## 2026-08-03 05:45:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The fake alive human fraud is 10 times worse in America & Europe
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJiGpvxzWGM_YkgLDrmk0OF6Lct93jAALqFWsbb9J5Vx6IQHc7XRCeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084032763280138546#m)
 
 ---
 
@@ -73,12 +83,6 @@ RT by @elonmusk: Starlink enables fast, reliable connectivity where traditional 
 
 RT by @elonmusk: In stark contrast to what Deng did in China, up to a million North Koreans starved to death in the 1990s because their government had already banned private farming and lived off Soviet handouts. The Soviet collapse in 1991 cut the free fuel and fertilizer that had kept the whole system afloat for decades, and energy imports dropped 75% almost overnight. North Korea had fully collectivized its farms since the 1950s, so farmers held almost no private plots and had zero reason to grow more than the state’s quota. When the free inputs vanished the system had no slack left. Floods in 1995 finished off what crops remained, and the Public Distribution System that nearly the entire population relied on for food simply collapsed in large parts of the country. City rations fell from 585 grams of grain a day in 1987 to 30 grams by 1997. The regime called it the “Arduous March”. And even after Kim Il Sung died the year the famine began, his son kept the exact same centrally planned system running for the next 17 years while hundreds of thousands starved. And that is the body count of full collectivization under communism.
 
-<img src="/images/elonmusk/amplify_video_thumb_2083629287299592192_img_AGwaAIDWstr04x_e.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2083262107219279872_img_BkCRc_tMFJzcwy1T.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Rothmus/status/2083629332816429240#m)
-
 ---
 
 ## 2026-08-02 04:50:25
@@ -129,10 +133,6 @@ Made with Grok Imagine
 
 True
 
-<img src="/images/elonmusk/amplify_video_thumb_2039032902558814209_img_WYMkQ2K8nAzqbD1L.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2083800687561908662#m)
-
 ---
 
 ## 2026-08-02 14:23:54
@@ -143,9 +143,19 @@ True
 
 Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b
 
-<img src="/images/elonmusk/card_img_2083800856118394880_0cVaNogi3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083800942927839307#m)
+## 2026-08-02 22:20:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Spain, I’ve come to assess the situation. The West must stand strong or fall.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJiWpvxzoEjyyGbRQMcMc2rlStH4eGAALrFWsbb9J5V0aFnyWGRFqUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nickshirleyy/status/2083920891314884633#m)
 
 ---
 
