@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1765 条推文
+> 📊 推文存档 - 共 1770 条推文
 
 ---
 
@@ -41,6 +41,22 @@ A special effect like this used to take months of effort by a specialized compan
 
 ---
 
+## 2026-08-02 02:42:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starlink enables fast, reliable connectivity where traditional infrastructure does not exist 🛰️🏔️
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJgWpulgAB20EjR0iO4AHlBFvCltFMIgACCRVrG1v_cFfyKFZ7ogKNpAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJgmpulgRPdSteJF6xzLuFjw7K-h2qAAIKFWsbW_9wV9fjja6tiwLSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Starlink/status/2083624518862684644#m)
+
+---
+
 ## 2026-08-02 04:57:09
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -49,15 +65,39 @@ A special effect like this used to take months of effort by a specialized compan
 
 The Moon base will be even more epic
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJgGpuYyFx5wYO0TEJrxKfBKWSFUXVAAI0FGsbW_9wVwABSXd-D_XokQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2083658315582632272#m)
+## 2026-08-02 08:07:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2083219494231494656_img_bgPsxu7gA9ous5gh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083706250370449572#m)
+
+---
+
+## 2026-08-02 08:22:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Made with Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2079623240972939265_img_WPnju49YIuz5b0uh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2083709924236751300#m)
 
 ---
 
 ## 2026-08-01 00:04:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -67,7 +107,7 @@ RT by @elonmusk: 🕐Annonce : http://ReplacementClock.org est en ligne ! Il y a
 
 ## 2026-08-01 00:19:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -77,7 +117,7 @@ This is extremely important to understand. The birth rate you see in the West is
 
 ## 2026-08-01 00:36:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -87,7 +127,7 @@ RT by @elonmusk: SECRETARY RUBIO: We in America have no interest in being polite
 
 ## 2026-08-01 00:51:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -97,7 +137,7 @@ RT by @elonmusk: Zimbabwe destroyed itself the day it destroyed the people who p
 
 ## 2026-08-01 01:34:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -107,7 +147,7 @@ RT by @elonmusk: Tesla now has a dedicated live Virtual Power Plant dashboard fo
 
 ## 2026-08-01 02:41:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -117,7 +157,7 @@ RT by @elonmusk: Tesla now has a dedicated live Virtual Power Plant dashboard fo
 
 ## 2026-08-01 03:00:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -127,7 +167,7 @@ RT by @elonmusk: Wake up Europe. You have civilizations worth preserving, and it
 
 ## 2026-08-01 03:04:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -137,7 +177,7 @@ Product Perfection Produces Prosperity
 
 ## 2026-08-01 03:05:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -147,7 +187,7 @@ Talk to @Grok. You can leave Grok voice on and just tap mute when you’re talki
 
 ## 2026-08-01 03:05:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -157,7 +197,7 @@ Yeah, the incentives need to change
 
 ## 2026-08-01 03:15:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -167,7 +207,7 @@ You will be alerted via 𝕏 messaging if there is something you interacted with
 
 ## 2026-08-01 03:44:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -177,7 +217,7 @@ Try Grok 4.5 http://X.ai/cli
 
 ## 2026-08-01 04:24:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -187,7 +227,7 @@ RT by @elonmusk: Weaponized migration in Spain
 
 ## 2026-08-01 04:28:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -197,7 +237,7 @@ Troubling
 
 ## 2026-08-01 05:05:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -207,7 +247,7 @@ RT by @elonmusk: This is the most impossible launch moments ever captured this c
 
 ## 2026-08-01 05:06:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -217,7 +257,7 @@ Starship in space as seen by Starlink
 
 ## 2026-08-01 05:23:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -227,7 +267,7 @@ This is essentially true. However, it is possible to filter for exceptional peop
 
 ## 2026-08-01 05:29:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -237,7 +277,7 @@ Nigeria alone had 4 million more births than the entire EU last year! https://gr
 
 ## 2026-08-01 05:56:17
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,7 +287,7 @@ RT by @elonmusk: I finally have all 1.2 million raw image files from my latest m
 
 ## 2026-08-01 06:01:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -257,7 +297,7 @@ RT by @elonmusk: Connect Superwhisper to Grok Build with your SuperGrok or X Pre
 
 ## 2026-08-01 06:25:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -267,7 +307,7 @@ RT by @elonmusk: Read this Fauci diary entry closely. Officials would not admit 
 
 ## 2026-08-01 06:46:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -277,7 +317,7 @@ Most countries are dying
 
 ## 2026-08-01 06:53:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +327,7 @@ Most countries are dying
 
 ## 2026-08-01 07:26:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +337,7 @@ RT by @elonmusk: Starlink with @SostGlobalMX, is providing high-speed internet t
 
 ## 2026-08-01 08:06:14
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,7 +347,7 @@ Moonlight Sonata Starship
 
 ## 2026-08-01 08:31:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -317,7 +357,7 @@ RT by @elonmusk: They smashed babies against trees and murdered nearly 2 million
 
 ## 2026-08-01 08:46:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,7 +367,7 @@ SpaceX is hiring exceptional engineering & skilled trades talent to build & oper
 
 ## 2026-08-01 08:58:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -337,7 +377,7 @@ Imagine Video 1.5 improvements
 
 ## 2026-08-01 09:49:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -347,7 +387,7 @@ Try @Grok Build http://X.ai/cli
 
 ## 2026-08-01 09:55:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +397,7 @@ Video
 
 ## 2026-08-01 10:02:49
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -367,7 +407,7 @@ Grok Build improvements http://X.ai/cli
 
 ## 2026-08-01 10:58:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -377,7 +417,7 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 
 ## 2026-08-01 12:16:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -387,7 +427,7 @@ Grok Build can do almost anything you can think of http://X.ai/cli
 
 ## 2026-08-01 13:52:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -397,7 +437,7 @@ Cool
 
 ## 2026-08-01 14:02:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -407,7 +447,7 @@ Cool
 
 ## 2026-08-01 14:03:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -417,7 +457,7 @@ Video
 
 ## 2026-08-01 14:13:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -425,21 +465,47 @@ They are far along the road to extinction
 
 ---
 
+## 2026-08-01 14:57:13
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX just completed its 90th Falcon-family launch of 2026 Falcon 9 lifted off from Vandenberg carrying 24 Starlink satellites, successfully deploying all of them into low Earth orbit Booster B1081 completed its 26th mission and landed on Of Course I Still Love You in the Pacific That is 89 Falcon 9 launches and one Falcon Heavy mission in just seven months
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJg2pulgnXUY2znSC48ydPMWb28jPgAAILFWsbW_9wVxLSOlx4XPI5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2083446940562243827#m)
+
+---
+
+## 2026-08-01 21:58:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: I would like to see a steampunk-style film
+
+<img src="/images/elonmusk/amplify_video_thumb_2083220647803564032_img_QCB3TCM0TM-xetXU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2083552831542370314#m)
+
+---
+
 ## 2026-08-01 22:40:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: AI will increasingly do more and more difficult tasks that would take longer and longer to comprehend. We will, at first, gasp. Then, over time, it will be just another normal day. Just like people expect Full Self-Driving to take them from Point A to Point B without questions.
 
-[查看原文](https://nitter.net/yunta_tsai/status/2083563616037658630#m)
-
 ---
 
 ## 2026-08-01 22:45:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -449,7 +515,7 @@ RT by @elonmusk: NASA recently recognized one of America’s outstanding enginee
 
 ## 2026-08-01 23:01:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
