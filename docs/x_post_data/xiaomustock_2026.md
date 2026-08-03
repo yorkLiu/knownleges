@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 293 条推文
+> 📊 推文存档 - 共 294 条推文
 
 ---
 
@@ -69,18 +69,6 @@ R to @xiaomustock: 当时这个特斯拉的合约图是我用btc合约给改的�
 
 伟大的川沐给韭菜指明了方向， $META 市值翻转开始了， 都高估和恐惧市场波动的时候， 低估资产就成了救命稻草， meta是美版腾讯，全球社交统治者。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJnGpwoTfn0ZlGwWyeOKbntsCh4gJoAAL1Emsbb9KBVyazEcbISj2uAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjWpwAVV35kTqAAEF3uNlGIlw3FLtLAACcxFrG2_SgVdQSF1fgTa4YQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjmpwAVgsfVtMsusSgDSheCjCjLSYAAJ0EWsbb9KBV7GhJgNt-uCzAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJj2pwAVzb9eedGElFF_3A8qmaC3z4AAJ1EWsbb9KBV4rvmwR_OSQtAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkGpwAWBDnou-fygxsw284myzVn0sAAJ2EWsbb9KBV8uvpWAx4q-OAQADAgADeQADPQQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2084274135052746772#m)
-
 ---
 
 ## 2026-08-03 22:00:52
@@ -91,9 +79,17 @@ R to @xiaomustock: 当时这个特斯拉的合约图是我用btc合约给改的�
 
 以后就是永远缺 $META 😂
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJm2pwoTPfHT_1QgxRoNrKxEtOVbWeAALzEmsbb9KBV2j3N9bhws7jAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2084278330908627293#m)
+## 2026-08-03 22:44:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韩老板赶紧把你的公关和风控审核的人开了吧，全是脑残。 再搞下去你的印钞机就被员工拆了， 他们大不了换个工作。
+
+[查看原文](https://nitter.net/xiaomustock/status/2084289370396442668#m)
 
 ---
 
