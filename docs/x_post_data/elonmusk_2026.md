@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1805 条推文
+> 📊 推文存档 - 共 1806 条推文
+
+---
+
+## 2026-08-04 00:28:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The next evolution of humanity will be written in space.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084315277362130944_img_VvxoYt1yYKvCipr5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2084315501778371018#m)
 
 ---
 
@@ -19,10 +33,6 @@ tags: ["2026"]
 
 Wow
 
-<img src="/images/elonmusk/amplify_video_thumb_2084310092170563584_img_6oVTIPM1LeI7px2Z.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084377228717010984#m)
-
 ---
 
 ## 2026-08-04 04:35:13
@@ -32,8 +42,6 @@ Wow
 **内容**:
 
 💯
-
-[查看原文](https://nitter.net/elonmusk/status/2084377571429433431#m)
 
 ---
 
