@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 356 条推文
+> 📊 推文存档 - 共 357 条推文
 
 ---
 
@@ -19,7 +19,21 @@ tags: ["2026"]
 
 The bears have gone back into hibernation
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2084388023689679001#m)
+---
+
+## 2026-08-04 07:35:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Be Citadel: > calls for unexpected rate hike few days ago, causing market panic > reaches out and buys billions of liquidated hedge fund AI assets > no rate hike > “Bull market drivers are fully intact”
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJompxK0o_uq3ydb2nOTo5DXlIYvCnAAK6EWsbb9KJV4lVCYfb0hFoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJo2pxK07L-v2dKGJGVZYNsP_AySReAAK7EWsbb9KJV-CKkRtm6HgqAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2084422873423519844#m)
 
 ---
 

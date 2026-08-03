@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1806 条推文
+> 📊 推文存档 - 共 1808 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: The next evolution of humanity will be written in space.
-
-<img src="/images/elonmusk/amplify_video_thumb_2084315277362130944_img_VvxoYt1yYKvCipr5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dvorahfr/status/2084315501778371018#m)
 
 ---
 
@@ -42,6 +38,34 @@ Wow
 **内容**:
 
 💯
+
+---
+
+## 2026-08-04 07:36:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink anywhere
+
+[查看原文](https://nitter.net/elonmusk/status/2084423245571252470#m)
+
+---
+
+## 2026-08-04 07:37:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build update http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2080814505035010048_Mws7PJ9a3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJoWpxK0Vx982AHhYDeAlSGwABF8XFRAACuRFrG2_SiVe5q1cMdqXtLgEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084423416493338866#m)
 
 ---
 
