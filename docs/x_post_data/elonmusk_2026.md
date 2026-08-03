@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1790 条推文
+> 📊 推文存档 - 共 1796 条推文
 
 ---
 
@@ -28,10 +28,6 @@ RT by @elonmusk: Did you know more white slaves were taken to Africa than Black 
 **内容**:
 
 RT by @elonmusk: Grok can now analyze any video. From identifying AI-generated content to explaining what's happening frame by frame, Grok's video understanding is taking another big step forward.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJlmpwNDTZllR5WdbxHAlwuJq8O4W7AAL-EWsbb9KBVyEgVYJ6b_qUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2083979013396279393#m)
 
 ---
 
@@ -62,12 +58,6 @@ The fake alive human fraud is 10 times worse in America & Europe
 **内容**:
 
 RT by @elonmusk: I was in Madrid when Spain won the World Cup. Almost 2 million people celebrated in the streets. I saw 0 violence. 0 property damage. 0 rioting. Spain’s government later reported a total of 6 arrests, and no serious incidents. Almost 2 million people. Almost entirely peaceful. When a Parisian team won the Champions League in 2026, riots broke out and trashed the city. And it happened before that, in 2025. And there was violence before that, in 2018, when France won the World Cup. Guess when their celebrations were peaceful? In 1998 - before their immigration policy created an entire population of people who didn’t assimilate. Immigration can be great for a country. But not when you do it without being thoughtful who you admit, how many, and for how long. If Spain makes the same mistakes as France, soon their “celebrations” will look like Paris’s. England is already well underway.
-
-<img src="/images/elonmusk/amplify_video_thumb_2084070280494804992_img_fxLZUvgsAfwMOztC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJaWptR79jxWXxp1t65cTc9gqw0edOAAJQE2sbdvdpV30CRfj_tTFeAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/thatsKAIZEN/status/2084070349734326303#m)
 
 ---
 
@@ -129,11 +119,71 @@ RT by @elonmusk: Damn... new Grok Imagine 1.5 update is wild
 
 Grok Build improvements http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2080814505035010048_Mws7PJ9a3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJl2pwNDkn8h2Lej6VrEOTMzEAAa80xwAC_xFrG2_SgVdUAnXb91iNwAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-03 16:17:42
 
-[查看原文](https://nitter.net/elonmusk/status/2084156097405849727#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Imagine Update We have now pre-recorded voices available ! We can select a voice for a character, ensuring perfect consistency throughout the animations featuring that character.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084191916162240512_img_R25DhNTM44S7BBaT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2084191968129683822#m)
+
+---
+
+## 2026-08-03 21:47:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department. Only the funding where they provided no evidence at all for who would receive the money was stopped. https://m.youtube.com/watch?v=gUOwPcfc1MM&ra=m
+
+<img src="/images/elonmusk/card_img_2083992541985144832_PxFx_QVV3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084274899065897011#m)
+
+---
+
+## 2026-08-03 21:51:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: Funding was also stopped where the cause described made no sense to be funded by US taxpayers, like cutting off the foreskins of dudes in foreign countries (at extremely high prices) 🤡
+
+[查看原文](https://nitter.net/elonmusk/status/2084276008073515443#m)
+
+---
+
+## 2026-08-03 21:54:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+As I was saying …
+
+[查看原文](https://nitter.net/elonmusk/status/2084276821722272149#m)
+
+---
+
+## 2026-08-03 21:56:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Oh, the irony is too much …
+
+<img src="/images/elonmusk/amplify_video_thumb_2083989591246225408_img_DCk9ekvMrhCGB8vo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084277243585384481#m)
 
 ---
 
@@ -177,6 +227,18 @@ RT by @elonmusk: In stark contrast to what Deng did in China, up to a million No
 
 ---
 
+## 2026-08-02 04:37:44
+
+**内容**:
+
+RT by @elonmusk: Fantastic take here:
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJnWpwqHzTLP1wPJz6tDVTUdCYdf4UAAIVE2sbb9KBV6ExB7bU-L3lAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SenRandPaul/status/2083653430879322196#m)
+
+---
+
 ## 2026-08-02 04:50:25
 
 **内容**:
@@ -214,10 +276,6 @@ Made with Grok Imagine
 **内容**:
 
 RT by @elonmusk: Midnight on Saturday at Boring Factory in Bastrop, TX! Team is welding Prufrock-MB3, which ships to Nashville in September.
-
-<img src="/images/elonmusk/amplify_video_thumb_2083788988414914560_img_3hZ4iXA7l8D9cFHn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/boringcompany/status/2083789039648268774#m)
 
 ---
 
