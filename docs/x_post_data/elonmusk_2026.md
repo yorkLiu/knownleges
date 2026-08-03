@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1778 条推文
+> 📊 推文存档 - 共 1782 条推文
 
 ---
 
@@ -39,15 +39,37 @@ The fake alive human fraud is 10 times worse in America & Europe
 
 Project Hail Mary has sick beats https://m.youtube.com/watch?v=LDU_Txk06tM&ra=m
 
-<img src="/images/elonmusk/card_img_2084107072699002880_qNRcWaVW3Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2084099749922165199#m)
+## 2026-08-03 10:48:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+AI is a supersonic tsunami
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkmpwD-PGIUgH9vE-__-IiZG8_AABHQACrBFrG2_SgVclU1BSud0vxgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084108995980108154#m)
+
+---
+
+## 2026-08-03 10:49:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Suicidal empathy
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkWpwD-AIUSTuSM-u0QjBp9NNKLKMAAKrEWsbb9KBV_ZgXckv_ERwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084109495827931344#m)
 
 ---
 
 ## 2026-08-02 00:07:21
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -57,8 +79,6 @@ RT by @elonmusk: A friend of mine said that we should welcome illegal immigrants
 
 ## 2026-08-02 00:45:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Exactly
@@ -66,8 +86,6 @@ Exactly
 ---
 
 ## 2026-08-02 00:48:26
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -77,8 +95,6 @@ A special effect like this used to take months of effort by a specialized compan
 
 ## 2026-08-02 02:42:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Starlink enables fast, reliable connectivity where traditional infrastructure does not exist 🛰️🏔️
@@ -86,8 +102,6 @@ RT by @elonmusk: Starlink enables fast, reliable connectivity where traditional 
 ---
 
 ## 2026-08-02 03:01:59
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -97,8 +111,6 @@ RT by @elonmusk: In stark contrast to what Deng did in China, up to a million No
 
 ## 2026-08-02 04:50:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Thank you, @cursor_ai, for providing free credits to several FFmpeg developers. These credits will support their ongoing work on FFmpeg, including development and code review. We greatly appreciate Cursor’s support for FFmpeg and its community.
@@ -106,8 +118,6 @@ RT by @elonmusk: Thank you, @cursor_ai, for providing free credits to several FF
 ---
 
 ## 2026-08-02 04:57:09
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -117,8 +127,6 @@ The Moon base will be even more epic
 
 ## 2026-08-02 08:07:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Grok Imagine
@@ -126,8 +134,6 @@ Grok Imagine
 ---
 
 ## 2026-08-02 08:22:14
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -137,8 +143,6 @@ Made with Grok Imagine
 
 ## 2026-08-02 14:22:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 True
@@ -147,25 +151,43 @@ True
 
 ## 2026-08-02 14:23:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b
 
 ---
 
-## 2026-08-02 22:20:32
+## 2026-08-02 22:16:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+**内容**:
+
+RT by @elonmusk: Emad Mostaque @EMostaque came on PostAGI and said AI had already found 121 years of missing algebra in Einstein's equations. A billion parameter model trained on nothing past 1911 got to general relativity by itself. Yesterday @OpenAI's Astra solved ten open problems in mathematics and theoretical computer science, most stuck for decades, on about $2,000 of compute. The machines are doing math humans couldn't.
+
+<img src="/images/elonmusk/amplify_video_thumb_2083917760254660608_img_g9Waw33QBavyfusc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/postagixyz/status/2083919892307382673#m)
+
+---
+
+## 2026-08-02 22:20:32
 
 **内容**:
 
 RT by @elonmusk: Spain, I’ve come to assess the situation. The West must stand strong or fall.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJiWpvxzoEjyyGbRQMcMc2rlStH4eGAALrFWsbb9J5V0aFnyWGRFqUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/nickshirleyy/status/2083920891314884633#m)
+## 2026-08-02 22:21:38
+
+**内容**:
+
+RT by @elonmusk: Every intellectual who invents excuses for mass murder eventually learns the commie regime has no permanent use for useful idiots. Take Malcolm Caldwell, who spent the 1970s as a University of London Marxist dismissing every report of Khmer Rouge mass murder as Western propaganda and calling their peasant revolution “valid and valuable.” In December 1978, the regime invited him in as one of the few Westerners allowed since they took power. He left the meeting with Pol Pot euphoric. Hours later, he was shot inside the Phnom Penh guesthouse. They never said why.
+
+<img src="/images/elonmusk/amplify_video_thumb_2083921035607351297_img_TaI7TazC180PLXSp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2083349762548318208_img_r-DZS3Slc7O_B5Bq.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Rothmus/status/2083921167698509873#m)
 
 ---
 
