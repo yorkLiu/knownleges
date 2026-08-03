@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1787 条推文
+> 📊 推文存档 - 共 1790 条推文
 
 ---
 
@@ -19,7 +19,19 @@ tags: ["2026"]
 
 RT by @elonmusk: Did you know more white slaves were taken to Africa than Black slaves taken to the United States of America Where are our reparations?
 
-[查看原文](https://nitter.net/BasilTheGreat/status/2083976409744081207#m)
+---
+
+## 2026-08-03 02:11:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok can now analyze any video. From identifying AI-generated content to explaining what's happening frame by frame, Grok's video understanding is taking another big step forward.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJlmpwNDTZllR5WdbxHAlwuJq8O4W7AAL-EWsbb9KBVyEgVYJ6b_qUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2083979013396279393#m)
 
 ---
 
@@ -40,6 +52,22 @@ Accurate 😂
 **内容**:
 
 The fake alive human fraud is 10 times worse in America & Europe
+
+---
+
+## 2026-08-03 08:14:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I was in Madrid when Spain won the World Cup. Almost 2 million people celebrated in the streets. I saw 0 violence. 0 property damage. 0 rioting. Spain’s government later reported a total of 6 arrests, and no serious incidents. Almost 2 million people. Almost entirely peaceful. When a Parisian team won the Champions League in 2026, riots broke out and trashed the city. And it happened before that, in 2025. And there was violence before that, in 2018, when France won the World Cup. Guess when their celebrations were peaceful? In 1998 - before their immigration policy created an entire population of people who didn’t assimilate. Immigration can be great for a country. But not when you do it without being thoughtful who you admit, how many, and for how long. If Spain makes the same mistakes as France, soon their “celebrations” will look like Paris’s. England is already well underway.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084070280494804992_img_fxLZUvgsAfwMOztC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJaWptR79jxWXxp1t65cTc9gqw0edOAAJQE2sbdvdpV30CRfj_tTFeAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/thatsKAIZEN/status/2084070349734326303#m)
 
 ---
 
@@ -81,10 +109,6 @@ Suicidal empathy
 
 RT by @elonmusk: my MacBook was heating up my lap and nearly cooking my balls, so I asked Grok Build to investigate It found the culprit 😂
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJlWpwLO-RUSWeJTgv9BiVqsgSpHQzAALlEWsbb9KBV_2tLFHDZXgYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2084122084297359607#m)
-
 ---
 
 ## 2026-08-03 11:59:24
@@ -95,9 +119,21 @@ RT by @elonmusk: my MacBook was heating up my lap and nearly cooking my balls, s
 
 RT by @elonmusk: Damn... new Grok Imagine 1.5 update is wild
 
-<img src="/images/elonmusk/amplify_video_thumb_2084126845583126528_img_pJXbxYLF_0qBVeF7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/minchoi/status/2084126964164542716#m)
+## 2026-08-03 13:55:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build improvements http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2080814505035010048_Mws7PJ9a3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJl2pwNDkn8h2Lej6VrEOTMzEAAa80xwAC_xFrG2_SgVdUAnXb91iNwAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084156097405849727#m)
 
 ---
 
