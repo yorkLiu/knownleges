@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1782 条推文
+> 📊 推文存档 - 共 1783 条推文
 
 ---
 
@@ -157,15 +157,23 @@ Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8c
 
 ---
 
+## 2026-08-02 18:04:52
+
+**内容**:
+
+RT by @elonmusk: The Pacific Ocean this morning from the cupola with an iPhone
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJk2pwFyLCjCuvPaT5Zx_6amzF_9wGAAK-EWsbb9KBV1ZnGTu_7wedAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/astro_anil/status/2083856550788043064#m)
+
+---
+
 ## 2026-08-02 22:16:34
 
 **内容**:
 
 RT by @elonmusk: Emad Mostaque @EMostaque came on PostAGI and said AI had already found 121 years of missing algebra in Einstein's equations. A billion parameter model trained on nothing past 1911 got to general relativity by itself. Yesterday @OpenAI's Astra solved ten open problems in mathematics and theoretical computer science, most stuck for decades, on about $2,000 of compute. The machines are doing math humans couldn't.
-
-<img src="/images/elonmusk/amplify_video_thumb_2083917760254660608_img_g9Waw33QBavyfusc.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/postagixyz/status/2083919892307382673#m)
 
 ---
 
@@ -182,12 +190,6 @@ RT by @elonmusk: Spain, I’ve come to assess the situation. The West must stand
 **内容**:
 
 RT by @elonmusk: Every intellectual who invents excuses for mass murder eventually learns the commie regime has no permanent use for useful idiots. Take Malcolm Caldwell, who spent the 1970s as a University of London Marxist dismissing every report of Khmer Rouge mass murder as Western propaganda and calling their peasant revolution “valid and valuable.” In December 1978, the regime invited him in as one of the few Westerners allowed since they took power. He left the meeting with Pol Pot euphoric. Hours later, he was shot inside the Phnom Penh guesthouse. They never said why.
-
-<img src="/images/elonmusk/amplify_video_thumb_2083921035607351297_img_TaI7TazC180PLXSp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2083349762548318208_img_r-DZS3Slc7O_B5Bq.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Rothmus/status/2083921167698509873#m)
 
 ---
 
