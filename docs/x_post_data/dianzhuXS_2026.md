@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 280 条推文
+> 📊 推文存档 - 共 282 条推文
 
 ---
 
@@ -49,9 +49,33 @@ tags: ["2026"]
 
 台灣的朋友們，問一下，這個牌子真的是台灣產的嗎？
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJmGpwO3o9aS3zkAnwTdYB9FqLBwrDAAIUEmsbb9KBV00RIs2Nj2F4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2084166433504903226#m)
+## 2026-08-03 18:02:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天直播中提到的「來氏太極圖」是這個樣子的，其實如果看懂了這個太極圖中藏的「河圖」，再加上我直播中說的莫比烏斯圈，就大概是我們這個世界的基本架構了。了解了幾本架構，八字的斷法就不會出偏，對網抄大明白們胡說八道也是「降維打擊」，各類數術一通百通。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJmWpwbljl1vcNPvNYj7X4N-ScK8FsAAKSEmsbb9KBV_jOvMKaLLh-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/dianzhuXS/card_img_2083836663537815552_4uhuhAVX3Fformat3Djpg26name3D1200x627" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2084218433475158270#m)
+
+---
+
+## 2026-08-03 18:15:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我發現還有人迷信「記筆記」 算了，你們也別費勁了 我給錄點「知識點」短視頻吧 真傳一句話，一「點」就懂了 比記筆記強萬倍
+
+[查看原文](https://nitter.net/dianzhuXS/status/2084221716272980287#m)
 
 ---
 
