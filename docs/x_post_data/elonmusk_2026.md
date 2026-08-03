@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1802 条推文
+> 📊 推文存档 - 共 1803 条推文
 
 ---
 
@@ -179,10 +179,6 @@ Oh, the irony is too much …
 
 RT by @elonmusk: Elon Musk explains the clearest path to building AI that remains safe and pro-human: AI will eventually become smarter than the smartest human, capable of discoveries and inventions we can barely imagine today That is why the values we give it now matter so much Train it to be maximally truthful Train it to remain curious Train it to follow reality, even when the truth is unpopular Because an intelligence that seeks truth and understands humanity is far more likely to protect life, expand knowledge and help civilization flourish Elon has spent years warning about the dangers of AI Now he is showing us how to build it in a way that helps humanity flourish: Maximally truthful, maximally curious and pro-human
 
-<img src="/images/elonmusk/amplify_video_thumb_2060370546060054530_img_5NM4GkdDjN_hvnmK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2084286333913027049#m)
-
 ---
 
 ## 2026-08-03 23:02:05
@@ -192,10 +188,6 @@ RT by @elonmusk: Elon Musk explains the clearest path to building AI that remain
 **内容**:
 
 RT by @elonmusk: BREAKING: Tesla registrations surged 86% year-over-year in France and 52% in Denmark in July. 🇫🇷🇩🇰
-
-<img src="/images/elonmusk/amplify_video_thumb_2084293241197780992_img_JKHYZMotQtpOiBPG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2084293736150728883#m)
 
 ---
 
@@ -207,10 +199,6 @@ RT by @elonmusk: BREAKING: Tesla registrations surged 86% year-over-year in Fran
 
 RT by @elonmusk: .@elonmusk — it’s not just ironic, it’s hypocritical! @NYCMayor Mamdani’s going to require an ID check for his grocery stores, but thinks it’s racist to require one for federal elections?!? We HAVE to pass the SAVE America Act to end this corruption!
 
-<img src="/images/elonmusk/amplify_video_thumb_2083989591246225408_img_DCk9ekvMrhCGB8vo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SenRickScott/status/2084298101460701372#m)
-
 ---
 
 ## 2026-08-03 23:26:46
@@ -221,7 +209,19 @@ RT by @elonmusk: .@elonmusk — it’s not just ironic, it’s hypocritical! @NY
 
 Nice work
 
-[查看原文](https://nitter.net/elonmusk/status/2084299948531531869#m)
+---
+
+## 2026-08-03 23:28:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Describe it once. Watch Grok Imagine bring your imaginations to life
+
+<img src="/images/elonmusk/amplify_video_thumb_2084300271858126848_img_KdG2o5GuOzpFMd8K.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2084300392876372395#m)
 
 ---
 
@@ -233,10 +233,6 @@ Nice work
 
 Slavery was ended primarily by Britain
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJnmpwvkUMJy3XLLEB-X7f0YCDrPRqAAJDE2sbb9KBV0m08B_g-OomAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084303392935936255#m)
-
 ---
 
 ## 2026-08-03 23:43:12
@@ -246,8 +242,6 @@ Slavery was ended primarily by Britain
 **内容**:
 
 This is exactly right. Source code is on the verge of becoming like assembly. The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.
-
-[查看原文](https://nitter.net/elonmusk/status/2084304083851034949#m)
 
 ---
 
