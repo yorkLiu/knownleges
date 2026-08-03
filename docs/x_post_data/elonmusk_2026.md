@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1796 条推文
+> 📊 推文存档 - 共 1802 条推文
 
 ---
 
@@ -129,10 +129,6 @@ Grok Build improvements http://X.ai/cli
 
 RT by @elonmusk: Grok Imagine Update We have now pre-recorded voices available ! We can select a voice for a character, ensuring perfect consistency throughout the animations featuring that character.
 
-<img src="/images/elonmusk/amplify_video_thumb_2084191916162240512_img_R25DhNTM44S7BBaT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dvorahfr/status/2084191968129683822#m)
-
 ---
 
 ## 2026-08-03 21:47:14
@@ -142,10 +138,6 @@ RT by @elonmusk: Grok Imagine Update We have now pre-recorded voices available !
 **内容**:
 
 Worth noting that any USAID funding that appeared to have the slightest merit whatsoever for helping people in need was moved to the State Department. Only the funding where they provided no evidence at all for who would receive the money was stopped. https://m.youtube.com/watch?v=gUOwPcfc1MM&ra=m
-
-<img src="/images/elonmusk/card_img_2083992541985144832_PxFx_QVV3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084274899065897011#m)
 
 ---
 
@@ -157,8 +149,6 @@ Worth noting that any USAID funding that appeared to have the slightest merit wh
 
 R to @elonmusk: Funding was also stopped where the cause described made no sense to be funded by US taxpayers, like cutting off the foreskins of dudes in foreign countries (at extremely high prices) 🤡
 
-[查看原文](https://nitter.net/elonmusk/status/2084276008073515443#m)
-
 ---
 
 ## 2026-08-03 21:54:52
@@ -168,8 +158,6 @@ R to @elonmusk: Funding was also stopped where the cause described made no sense
 **内容**:
 
 As I was saying …
-
-[查看原文](https://nitter.net/elonmusk/status/2084276821722272149#m)
 
 ---
 
@@ -181,9 +169,85 @@ As I was saying …
 
 Oh, the irony is too much …
 
+---
+
+## 2026-08-03 22:32:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk explains the clearest path to building AI that remains safe and pro-human: AI will eventually become smarter than the smartest human, capable of discoveries and inventions we can barely imagine today That is why the values we give it now matter so much Train it to be maximally truthful Train it to remain curious Train it to follow reality, even when the truth is unpopular Because an intelligence that seeks truth and understands humanity is far more likely to protect life, expand knowledge and help civilization flourish Elon has spent years warning about the dangers of AI Now he is showing us how to build it in a way that helps humanity flourish: Maximally truthful, maximally curious and pro-human
+
+<img src="/images/elonmusk/amplify_video_thumb_2060370546060054530_img_5NM4GkdDjN_hvnmK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2084286333913027049#m)
+
+---
+
+## 2026-08-03 23:02:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Tesla registrations surged 86% year-over-year in France and 52% in Denmark in July. 🇫🇷🇩🇰
+
+<img src="/images/elonmusk/amplify_video_thumb_2084293241197780992_img_JKHYZMotQtpOiBPG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2084293736150728883#m)
+
+---
+
+## 2026-08-03 23:19:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: .@elonmusk — it’s not just ironic, it’s hypocritical! @NYCMayor Mamdani’s going to require an ID check for his grocery stores, but thinks it’s racist to require one for federal elections?!? We HAVE to pass the SAVE America Act to end this corruption!
+
 <img src="/images/elonmusk/amplify_video_thumb_2083989591246225408_img_DCk9ekvMrhCGB8vo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/elonmusk/status/2084277243585384481#m)
+[查看原文](https://nitter.net/SenRickScott/status/2084298101460701372#m)
+
+---
+
+## 2026-08-03 23:26:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nice work
+
+[查看原文](https://nitter.net/elonmusk/status/2084299948531531869#m)
+
+---
+
+## 2026-08-03 23:40:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Slavery was ended primarily by Britain
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJnmpwvkUMJy3XLLEB-X7f0YCDrPRqAAJDE2sbb9KBV0m08B_g-OomAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084303392935936255#m)
+
+---
+
+## 2026-08-03 23:43:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is exactly right. Source code is on the verge of becoming like assembly. The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.
+
+[查看原文](https://nitter.net/elonmusk/status/2084304083851034949#m)
 
 ---
 
