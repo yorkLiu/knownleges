@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 279 条推文
+> 📊 推文存档 - 共 280 条推文
 
 ---
 
@@ -39,13 +39,19 @@ tags: ["2026"]
 
 升級話筒支架有感 「赤馬」代表什麼？有人說是大亂，有人說是劫難，有人說是清算，有人說是文革⋯⋯ 其實，說到底是「長期待而未決」的事，都拖不過去了而已。 比如我，以前隨便音頻聊著玩，要不就是錄影後，用軟件可以編輯，所以一直用WIFI 無線麥克風湊合。 現在真人出鏡直播，就拖不過去了，想節目中聲音是加分項，別給內容拖後腿，就得配置動圈播音級的麥克了。 而且越往後拖，付出的代價越大，人家會升級的，這不罗德podmic出了USB 款了，且想用著舒服看著好看，一個支架都不便宜😮‍💨😮‍💨😮‍💨
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJimpv64tGymk159vTqVUip47bjkoIAAJIEWsbb9KBVwgixp4yA8FzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJi2pv649CR_gBSK7FsvvL_IeaZG5XAAJKEWsbb9KBV_1qW6FHJ_cVAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-03 14:36:14
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjGpv65PYyp2YkkkOBKVm5S_cwGhFAAJLEWsbb9KBV9jkSkiHG2RKAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/dianzhuXS/status/2084110380843053149#m)
+**内容**:
+
+台灣的朋友們，問一下，這個牌子真的是台灣產的嗎？
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJmGpwO3o9aS3zkAnwTdYB9FqLBwrDAAIUEmsbb9KBV00RIs2Nj2F4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2084166433504903226#m)
 
 ---
 
