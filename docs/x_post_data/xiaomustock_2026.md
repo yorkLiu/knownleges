@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 289 条推文
+> 📊 推文存档 - 共 291 条推文
 
 ---
 
@@ -39,9 +39,31 @@ $META 相比于 $APPL 利润实际非常接近甚至如果meta像apple不搞巨�
 
 存储都快到纳米硅原子级别了为啥还没蛋白分子级别的dna存储效率高？
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJlGpwHmXl1nV6JUzN6xisDCLxwRWYAALMEWsbb9KBV0BMxSjvi-_3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2084131012267896966#m)
+## 2026-08-03 19:35:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+伟大的川沐一年前给交易所指明了方向， 现在每个交易所都这样了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJmmpwhCJo0bS07Mo6TigLoanLWwptAAK4Emsbb9KBV99xxIYmOGfkAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2084241849322197282#m)
+
+---
+
+## 2026-08-03 19:41:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @xiaomustock: 当时这个特斯拉的合约图是我用btc合约给改的😂
+
+[查看原文](https://nitter.net/xiaomustock/status/2084243202547359820#m)
 
 ---
 
