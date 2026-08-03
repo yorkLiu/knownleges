@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1784 条推文
+> 📊 推文存档 - 共 1787 条推文
+
+---
+
+## 2026-08-03 02:01:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Did you know more white slaves were taken to Africa than Black slaves taken to the United States of America Where are our reparations?
+
+[查看原文](https://nitter.net/BasilTheGreat/status/2083976409744081207#m)
 
 ---
 
@@ -49,10 +61,6 @@ Project Hail Mary has sick beats https://m.youtube.com/watch?v=LDU_Txk06tM&ra=m
 
 AI is a supersonic tsunami
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkmpwD-PGIUgH9vE-__-IiZG8_AABHQACrBFrG2_SgVclU1BSud0vxgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084108995980108154#m)
-
 ---
 
 ## 2026-08-03 10:49:59
@@ -63,9 +71,33 @@ AI is a supersonic tsunami
 
 Suicidal empathy
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkWpwD-AIUSTuSM-u0QjBp9NNKLKMAAKrEWsbb9KBV_ZgXckv_ERwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2084109495827931344#m)
+## 2026-08-03 11:40:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: my MacBook was heating up my lap and nearly cooking my balls, so I asked Grok Build to investigate It found the culprit 😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJlWpwLO-RUSWeJTgv9BiVqsgSpHQzAALlEWsbb9KBV_2tLFHDZXgYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2084122084297359607#m)
+
+---
+
+## 2026-08-03 11:59:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Damn... new Grok Imagine 1.5 update is wild
+
+<img src="/images/elonmusk/amplify_video_thumb_2084126845583126528_img_pJXbxYLF_0qBVeF7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/minchoi/status/2084126964164542716#m)
 
 ---
 
