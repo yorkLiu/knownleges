@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1783 条推文
+> 📊 推文存档 - 共 1784 条推文
 
 ---
 
@@ -141,6 +141,18 @@ Made with Grok Imagine
 
 ---
 
+## 2026-08-02 13:36:36
+
+**内容**:
+
+RT by @elonmusk: Midnight on Saturday at Boring Factory in Bastrop, TX! Team is welding Prufrock-MB3, which ships to Nashville in September.
+
+<img src="/images/elonmusk/amplify_video_thumb_2083788988414914560_img_3hZ4iXA7l8D9cFHn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/boringcompany/status/2083789039648268774#m)
+
+---
+
 ## 2026-08-02 14:22:53
 
 **内容**:
@@ -162,10 +174,6 @@ Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8c
 **内容**:
 
 RT by @elonmusk: The Pacific Ocean this morning from the cupola with an iPhone
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJk2pwFyLCjCuvPaT5Zx_6amzF_9wGAAK-EWsbb9KBV1ZnGTu_7wedAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/astro_anil/status/2083856550788043064#m)
 
 ---
 
