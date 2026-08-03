@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 288 条推文
+> 📊 推文存档 - 共 289 条推文
 
 ---
 
@@ -29,15 +29,19 @@ tags: ["2026"]
 
 $META 相比于 $APPL 利润实际非常接近甚至如果meta像apple不搞巨额ai投入，meta利润大概率超过苹果。 市值meta只有1万亿，apple4万亿。 长期80%的毛利率，营收一直在增长。 算美股巨头里面最有性价比的了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjWpwAVV35kTqAAEF3uNlGIlw3FLtLAACcxFrG2_SgVdQSF1fgTa4YQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjmpwAVgsfVtMsusSgDSheCjCjLSYAAJ0EWsbb9KBV7GhJgNt-uCzAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-03 12:15:29
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJj2pwAVzb9eedGElFF_3A8qmaC3z4AAJ1EWsbb9KBV4rvmwR_OSQtAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkGpwAWBDnou-fygxsw284myzVn0sAAJ2EWsbb9KBV8uvpWAx4q-OAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/xiaomustock/status/2084102919658565889#m)
+存储都快到纳米硅原子级别了为啥还没蛋白分子级别的dna存储效率高？
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJlGpwHmXl1nV6JUzN6xisDCLxwRWYAALMEWsbb9KBV0BMxSjvi-_3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2084131012267896966#m)
 
 ---
 
