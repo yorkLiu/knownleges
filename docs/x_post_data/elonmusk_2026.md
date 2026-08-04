@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1817 条推文
+> 📊 推文存档 - 共 1821 条推文
+
+---
+
+## 2026-08-05 00:31:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Indeed
+
+[查看原文](https://nitter.net/elonmusk/status/2084678514402271486#m)
 
 ---
 
@@ -91,6 +103,34 @@ RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for sta
 
 ---
 
+## 2026-08-04 20:13:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding the refrigerator in the kitchen of his then-girlfriend Jennifer's parents 😂
+
+<img src="/images/elonmusk/media_HO4ITeXWkAAUgVs.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/EvaFox/status/2084613682512724255#m)
+
+---
+
+## 2026-08-04 21:30:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A very small percentage of my academic colleagues have ever openly supported my efforts to fight against the parasitic rot in academia. Regrettably, most academics are astoundingly cowardly. They prefer to nod quietly that "men too can menstruate" rather than standing up and saying "Are you insane? No, men cannot menstruate." If you can get academics to reject the most fundamental markers of biological reality, you know that academia is not populated with intellectual NAVY seals.
+
+<img src="/images/elonmusk/media_HOzvyMVXcAAjjSY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GadSaad/status/2084633101230023088#m)
+
+---
+
 ## 2026-08-04 21:37:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -139,9 +179,19 @@ Yeah
 
 Can’t trust OpenAI
 
-<img src="/images/elonmusk/media_HO4FaCPXUAAypf9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2084652192024125768#m)
+## 2026-08-04 23:55:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🚀🚀
+
+<img src="/images/elonmusk/media_HO4lyshWAAAuzx8.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084669448376480185#m)
 
 ---
 
