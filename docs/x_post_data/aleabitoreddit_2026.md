@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 359 条推文
+> 📊 推文存档 - 共 360 条推文
 
 ---
 
@@ -49,9 +49,19 @@ SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. $SNDK, 
 
 A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: The Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. Which would likely hit China’s Innolight, Eoptolink, and other Chinese optical interconnect supply chains. "The agency would ban all imports of new transceiver models ​and then exempt many ⁠non-Chinese suppliers from the restrictions" We'll likely see a larger bifurcation of supply chains with even greater importance put on Western players.
 
-<img src="/images/aleabitoreddit/media_HO36RXTaoAAoYOw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2084597612175618342#m)
+## 2026-08-04 20:11:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Bessent says: "There may be deal Tuesday or Wednesday to open Strait of Hormuz with freedom of movement" I think markets might like the sound of this.
+
+<img src="/images/aleabitoreddit/media_HO4IeB1aUAADrKf.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2084613071423893692#m)
 
 ---
 
