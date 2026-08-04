@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1811 条推文
+> 📊 推文存档 - 共 1814 条推文
 
 ---
 
@@ -49,10 +49,6 @@ Wow
 
 RT by @elonmusk: The beauty of Grok, now in 1080p.
 
-<img src="/images/elonmusk/amplify_video_thumb_2084401075394670592_img_xv6hqyBU5W_ecgbX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/doganuraldesign/status/2084401142109233470#m)
-
 ---
 
 ## 2026-08-04 07:36:43
@@ -82,6 +78,46 @@ Grok Build update http://X.ai/cli
 **内容**:
 
 RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for starving Ethiopians bought guns for the Marxist factions fighting each other. This was the finding of a BBC investigation years after Bob Geldof’s concert raised over $125 million when the world saw the famine that killed over a million people. Ethiopia was never colonized, yet Western guilt and empathy were abused. Still remains a cautionary tale on why every dollar of aid has to be scrutinized hard or it ends up arming the people prolonging the suffering instead of feeding the ones who need it. Because as a result of this mismanagement, lives were lost DUE to millions in aid. Context: a drought hit at the same time the ruling Derg, a Marxist military junta, was collectivizing farms and diverting grain reserves to fight the rebels. The famine still happened because Marxist central planning had wrecked food production and the civil war made the drought catastrophic.
+
+---
+
+## 2026-08-04 21:37:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pension fraud is a global problem
+
+[查看原文](https://nitter.net/elonmusk/status/2084634855472603516#m)
+
+---
+
+## 2026-08-04 21:39:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Terafab
+
+<img src="/images/elonmusk/media_HO4Ws79W4AAuxGr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084635401566802217#m)
+
+---
+
+## 2026-08-04 21:40:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2084568517228048385_img_C8uUXqGxVj0mkvS0.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084635712515678600#m)
 
 ---
 
