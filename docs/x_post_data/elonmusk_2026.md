@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1831 条推文
+> 📊 推文存档 - 共 1833 条推文
 
 ---
 
@@ -41,6 +41,20 @@ RT by @elonmusk: Crew-13 completed training in California this past week. Falcon
 
 ---
 
+## 2026-08-05 04:09:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.
+
+<img src="/images/elonmusk/media_HO50x6xbUAAOf5s.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nvidia/status/2084733460690903204#m)
+
+---
+
 ## 2026-08-05 04:09:42
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -69,8 +83,6 @@ RT by @elonmusk: Tune into SpaceX’s first earnings audio-only webcast since go
 
 SpaceX has committed to using Nvidia GPUs exclusively because they are the best
 
-[查看原文](https://nitter.net/elonmusk/status/2084744157470351541#m)
-
 ---
 
 ## 2026-08-05 04:57:23
@@ -81,9 +93,19 @@ SpaceX has committed to using Nvidia GPUs exclusively because they are the best
 
 Pinned: SpaceX earnings call on now
 
-<img src="/images/elonmusk/card_img_2084761743021248512_-Ls5mEYl3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2084745539187273851#m)
+## 2026-08-05 05:35:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016
+
+<img src="/images/elonmusk/media_HO6JyYXWYAA9r_c.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Kristennetten/status/2084755184748486980#m)
 
 ---
 
