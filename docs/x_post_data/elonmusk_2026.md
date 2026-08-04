@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1827 条推文
+> 📊 推文存档 - 共 1831 条推文
 
 ---
 
@@ -29,12 +29,6 @@ Indeed
 
 RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
-<img src="/images/elonmusk/media_HO5fvipawAEybEN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/media_HO5fviqaIAAElqz.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2084709117265064416#m)
-
 ---
 
 ## 2026-08-05 02:55:01
@@ -44,14 +38,6 @@ RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 **内容**:
 
 RT by @elonmusk: Crew-13 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in September
-
-<img src="/images/elonmusk/media_HO5k5rRXsAA4ARN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/media_HO5k5rDWcAABSq0.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/media_HO5k5rMXIAAVk5G.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2084714741876871462#m)
 
 ---
 
@@ -63,14 +49,6 @@ RT by @elonmusk: Crew-13 completed training in California this past week. Falcon
 
 The same Starmind V1 satellite design (minus solar & radiator) will be deployed on the ground in our data centers. It’s a major improvement in data center efficiency.
 
-<img src="/images/elonmusk/media_HO5q0AEWsAAas_v.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/media_HO5q2pWXcAAPu4v.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2084721190325604353_img_BBAKPNe2yi0VVmEI.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084733538591486349#m)
-
 ---
 
 ## 2026-08-05 04:26:22
@@ -81,9 +59,31 @@ The same Starmind V1 satellite design (minus solar & radiator) will be deployed 
 
 RT by @elonmusk: Tune into SpaceX’s first earnings audio-only webcast since going public https://x.com/i/broadcasts/1XxyggqBZZRGM
 
-<img src="/images/elonmusk/card_img_2084738616660758528_5m2_KLKp3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SpaceX/status/2084737732732186903#m)
+## 2026-08-05 04:51:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX has committed to using Nvidia GPUs exclusively because they are the best
+
+[查看原文](https://nitter.net/elonmusk/status/2084744157470351541#m)
+
+---
+
+## 2026-08-05 04:57:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: SpaceX earnings call on now
+
+<img src="/images/elonmusk/card_img_2084761743021248512_-Ls5mEYl3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084745539187273851#m)
 
 ---
 
@@ -145,10 +145,6 @@ RT by @elonmusk: The beauty of Grok, now in 1080p.
 
 RT by @elonmusk: Learn how to use References on Grok Imagine: characters, locations and props.
 
-<img src="/images/elonmusk/amplify_video_thumb_2084273629034860544_img_fv89JbGcpFV8M5_V.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/imagine/status/2084411126876459300#m)
-
 ---
 
 ## 2026-08-04 07:36:43
@@ -178,6 +174,20 @@ Grok Build update http://X.ai/cli
 **内容**:
 
 RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for starving Ethiopians bought guns for the Marxist factions fighting each other. This was the finding of a BBC investigation years after Bob Geldof’s concert raised over $125 million when the world saw the famine that killed over a million people. Ethiopia was never colonized, yet Western guilt and empathy were abused. Still remains a cautionary tale on why every dollar of aid has to be scrutinized hard or it ends up arming the people prolonging the suffering instead of feeding the ones who need it. Because as a result of this mismanagement, lives were lost DUE to millions in aid. Context: a drought hit at the same time the ruling Derg, a Marxist military junta, was collectivizing farms and diverting grain reserves to fight the rebels. The famine still happened because Marxist central planning had wrecked food production and the civil war made the drought catastrophic.
+
+---
+
+## 2026-08-04 19:21:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Billionaire Whitey Basson says Elon Musk’s Starlink must launch in South Africa. 🇿🇦 He said that keeping @Starlink out of South Africa is discouraging businesspeople from investing in rural areas where there is no working communications infrastructure.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084600330549940224_img_GGXK7KSJ1Zz7UzzS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2084600591448203559#m)
 
 ---
 
@@ -251,6 +261,22 @@ Can’t trust OpenAI
 
 ---
 
+## 2026-08-04 23:02:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available
+
+<img src="/images/elonmusk/media_HO4vEzibAAAI0Nh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/media_HO4vEzjaIAE1BL7.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JensenHuang/status/2084656303046332747#m)
+
+---
+
 ## 2026-08-04 23:44:29
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -258,10 +284,6 @@ Can’t trust OpenAI
 **内容**:
 
 RT by @elonmusk: The scale of what Elon is building in Bastrop is not well understood.
-
-<img src="/images/elonmusk/media_HO45M0mbwAANdP-.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MrGoldBro/status/2084666793340326059#m)
 
 ---
 
