@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1809 条推文
+> 📊 推文存档 - 共 1811 条推文
 
 ---
 
@@ -41,6 +41,20 @@ Wow
 
 ---
 
+## 2026-08-04 06:08:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The beauty of Grok, now in 1080p.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084401075394670592_img_xv6hqyBU5W_ecgbX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/doganuraldesign/status/2084401142109233470#m)
+
+---
+
 ## 2026-08-04 07:36:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -69,17 +83,11 @@ Grok Build update http://X.ai/cli
 
 RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for starving Ethiopians bought guns for the Marxist factions fighting each other. This was the finding of a BBC investigation years after Bob Geldof’s concert raised over $125 million when the world saw the famine that killed over a million people. Ethiopia was never colonized, yet Western guilt and empathy were abused. Still remains a cautionary tale on why every dollar of aid has to be scrutinized hard or it ends up arming the people prolonging the suffering instead of feeding the ones who need it. Because as a result of this mismanagement, lives were lost DUE to millions in aid. Context: a drought hit at the same time the ruling Derg, a Marxist military junta, was collectivizing farms and diverting grain reserves to fight the rebels. The famine still happened because Marxist central planning had wrecked food production and the civil war made the drought catastrophic.
 
-<img src="/images/elonmusk/amplify_video_thumb_2084433574464204800_img_sx569JfUlJZXkzzq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2084114107850993664_img_87XVQf2hZQTuzeID.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Rothmus/status/2084433668597014727#m)
-
 ---
 
 ## 2026-08-03 02:01:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -89,7 +97,7 @@ RT by @elonmusk: Did you know more white slaves were taken to Africa than Black 
 
 ## 2026-08-03 02:11:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -99,7 +107,7 @@ RT by @elonmusk: Grok can now analyze any video. From identifying AI-generated c
 
 ## 2026-08-03 02:13:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -109,7 +117,7 @@ Accurate 😂
 
 ## 2026-08-03 05:45:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -119,7 +127,7 @@ The fake alive human fraud is 10 times worse in America & Europe
 
 ## 2026-08-03 08:14:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -129,7 +137,7 @@ RT by @elonmusk: I was in Madrid when Spain won the World Cup. Almost 2 million 
 
 ## 2026-08-03 10:11:15
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -139,7 +147,7 @@ Project Hail Mary has sick beats https://m.youtube.com/watch?v=LDU_Txk06tM&ra=m
 
 ## 2026-08-03 10:48:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -149,7 +157,7 @@ AI is a supersonic tsunami
 
 ## 2026-08-03 10:49:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -159,7 +167,7 @@ Suicidal empathy
 
 ## 2026-08-03 11:40:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -169,7 +177,7 @@ RT by @elonmusk: my MacBook was heating up my lap and nearly cooking my balls, s
 
 ## 2026-08-03 11:59:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -179,7 +187,7 @@ RT by @elonmusk: Damn... new Grok Imagine 1.5 update is wild
 
 ## 2026-08-03 13:55:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -189,7 +197,7 @@ Grok Build improvements http://X.ai/cli
 
 ## 2026-08-03 16:17:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -197,9 +205,23 @@ RT by @elonmusk: Grok Imagine Update We have now pre-recorded voices available !
 
 ---
 
+## 2026-08-03 16:41:20
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk with his first Tesla Roadster, in 2008.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJqmpxezSeGg-6T4IC7_wsS6Q_1RpZAAJWEmsbb9KJV3cwh8au2p1GAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2084197918412587513#m)
+
+---
+
 ## 2026-08-03 21:47:14
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -209,7 +231,7 @@ Worth noting that any USAID funding that appeared to have the slightest merit wh
 
 ## 2026-08-03 21:51:38
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -219,7 +241,7 @@ R to @elonmusk: Funding was also stopped where the cause described made no sense
 
 ## 2026-08-03 21:54:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -229,7 +251,7 @@ As I was saying …
 
 ## 2026-08-03 21:56:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -239,7 +261,7 @@ Oh, the irony is too much …
 
 ## 2026-08-03 22:32:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -249,7 +271,7 @@ RT by @elonmusk: Elon Musk explains the clearest path to building AI that remain
 
 ## 2026-08-03 23:02:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -259,7 +281,7 @@ RT by @elonmusk: BREAKING: Tesla registrations surged 86% year-over-year in Fran
 
 ## 2026-08-03 23:19:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -269,7 +291,7 @@ RT by @elonmusk: .@elonmusk — it’s not just ironic, it’s hypocritical! @NY
 
 ## 2026-08-03 23:26:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -279,21 +301,17 @@ Nice work
 
 ## 2026-08-03 23:28:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Describe it once. Watch Grok Imagine bring your imaginations to life
 
-<img src="/images/elonmusk/amplify_video_thumb_2084300271858126848_img_KdG2o5GuOzpFMd8K.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2084300392876372395#m)
-
 ---
 
 ## 2026-08-03 23:40:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -303,7 +321,7 @@ Slavery was ended primarily by Britain
 
 ## 2026-08-03 23:43:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
