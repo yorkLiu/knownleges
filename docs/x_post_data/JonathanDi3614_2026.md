@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 54 条推文
+> 📊 推文存档 - 共 55 条推文
+
+---
+
+## 2026-08-04 15:03:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+手里的稳步向上，做好自己的标准。 大盘还是盘整的阶段，冲高回落，银行、石油压盘，一点没意外。量能放出来了，是科技硬件反弹给的信心。但明天要是续不上量，那回踩一下也很正常。 不过别慌，今天科技涨，蓝筹压；明天就可能是蓝筹托，科技调。轮着来，节奏很清晰。总基调没变：震荡上行。低吸为主，别等涨起来了再问能不能追。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJrGpxmEeQnUxmKfcRDisRAV0ZYXVTAAJtFmsbDw-RV6a5wfXaM9XpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2084535655397495048#m)
 
 ---
 
