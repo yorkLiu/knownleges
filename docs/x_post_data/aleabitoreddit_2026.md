@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 357 条推文
+> 📊 推文存档 - 共 358 条推文
 
 ---
 
@@ -29,11 +29,21 @@ The bears have gone back into hibernation
 
 Be Citadel: > calls for unexpected rate hike few days ago, causing market panic > reaches out and buys billions of liquidated hedge fund AI assets > no rate hike > “Bull market drivers are fully intact”
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJompxK0o_uq3ydb2nOTo5DXlIYvCnAAK6EWsbb9KJV4lVCYfb0hFoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJo2pxK07L-v2dKGJGVZYNsP_AySReAAK7EWsbb9KJV-CKkRtm6HgqAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-04 10:34:48
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2084422873423519844#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM. $SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocations by August 2026. - Customers are being allocated only 60–70% of the volumes they initially requested - industry insiders pointed out that 2027 will enter the most severe moment of memory shortage - Allocation amounts are mostly decided, but final shipment pricing will be determined closer to delivery Source: Digitimes, citing industry sources. Hard to see those memory "oversupply" claims in early-mid 2027 when they're all sold out of capacity already.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJqGpxVuGowB1-Dh1cBXbX3JERslUlAALXEWsbb9KJVy5_aNzya8BcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJqWpxVuV_H1nChiXC0QwuLr0ZQru5AALYEWsbb9KJV4HBwtLHQDW-AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2084468063228060092#m)
 
 ---
 
