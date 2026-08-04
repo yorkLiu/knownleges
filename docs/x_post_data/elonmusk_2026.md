@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1814 条推文
+> 📊 推文存档 - 共 1815 条推文
 
 ---
 
@@ -18,6 +18,20 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: The next evolution of humanity will be written in space.
+
+---
+
+## 2026-08-04 03:36:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: After their slave revolt, Haiti’s founder ordered the killing of all white people on the island. Soldiers went house to house killing thousands including women and children. They took full control, purged the population they blamed, and turned the richest colony in the Caribbean into the poorest and most dysfunctional country in the Western Hemisphere. Today, their descendants demand entry into the West they fought to escape, refuse to return to the mess they and their ancestors created, and are for some reason strongly convinced that borders are racist.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084362733558890496_img_zP3tc4QdpjfcFXQ1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Rothmus/status/2084362788307116099#m)
 
 ---
 
@@ -89,8 +103,6 @@ RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for sta
 
 Pension fraud is a global problem
 
-[查看原文](https://nitter.net/elonmusk/status/2084634855472603516#m)
-
 ---
 
 ## 2026-08-04 21:39:45
@@ -101,10 +113,6 @@ Pension fraud is a global problem
 
 Terafab
 
-<img src="/images/elonmusk/media_HO4Ws79W4AAuxGr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084635401566802217#m)
-
 ---
 
 ## 2026-08-04 21:40:59
@@ -114,10 +122,6 @@ Terafab
 **内容**:
 
 Grok Imagine
-
-<img src="/images/elonmusk/amplify_video_thumb_2084568517228048385_img_C8uUXqGxVj0mkvS0.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084635712515678600#m)
 
 ---
 
