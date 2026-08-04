@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1816 条推文
+> 📊 推文存档 - 共 1817 条推文
 
 ---
 
@@ -129,9 +129,19 @@ Grok Imagine
 
 Yeah
 
-<img src="/images/elonmusk/amplify_video_thumb_2084504885832056832_img_ufhgyx9tHh8QUYLm.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2084651951774454093#m)
+## 2026-08-04 22:46:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Can’t trust OpenAI
+
+<img src="/images/elonmusk/media_HO4FaCPXUAAypf9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084652192024125768#m)
 
 ---
 
