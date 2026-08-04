@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 301 条推文
+> 📊 推文存档 - 共 302 条推文
 
 ---
 
@@ -69,11 +69,21 @@ tags: ["2026"]
 
 这条光收发器的新闻查了一下ai， 利好cohr，lite，avgo，mrvl
 
+---
+
+## 2026-08-04 19:11:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+光猛归猛一个都不敢买，业绩太虚了。
+
 <img src="/images/xiaomustock/media_HO33jb9aAAAew4w.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 <img src="/images/xiaomustock/media_HO33jcEaMAAFmtN.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/xiaomustock/status/2084594400685085136#m)
+[查看原文](https://nitter.net/xiaomustock/status/2084598196257603847#m)
 
 ---
 
