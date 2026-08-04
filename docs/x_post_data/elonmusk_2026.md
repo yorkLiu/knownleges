@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1821 条推文
+> 📊 推文存档 - 共 1827 条推文
 
 ---
 
@@ -19,7 +19,71 @@ tags: ["2026"]
 
 Indeed
 
-[查看原文](https://nitter.net/elonmusk/status/2084678514402271486#m)
+---
+
+## 2026-08-05 02:32:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
+
+<img src="/images/elonmusk/media_HO5fvipawAEybEN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/media_HO5fviqaIAAElqz.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2084709117265064416#m)
+
+---
+
+## 2026-08-05 02:55:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Crew-13 completed training in California this past week. Falcon 9 is targeted to launch Dragon and the crew to the @Space_Station in September
+
+<img src="/images/elonmusk/media_HO5k5rRXsAA4ARN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/media_HO5k5rDWcAABSq0.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/media_HO5k5rMXIAAVk5G.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2084714741876871462#m)
+
+---
+
+## 2026-08-05 04:09:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The same Starmind V1 satellite design (minus solar & radiator) will be deployed on the ground in our data centers. It’s a major improvement in data center efficiency.
+
+<img src="/images/elonmusk/media_HO5q0AEWsAAas_v.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/media_HO5q2pWXcAAPu4v.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2084721190325604353_img_BBAKPNe2yi0VVmEI.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084733538591486349#m)
+
+---
+
+## 2026-08-05 04:26:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Tune into SpaceX’s first earnings audio-only webcast since going public https://x.com/i/broadcasts/1XxyggqBZZRGM
+
+<img src="/images/elonmusk/card_img_2084738616660758528_5m2_KLKp3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2084737732732186903#m)
 
 ---
 
@@ -73,6 +137,20 @@ RT by @elonmusk: The beauty of Grok, now in 1080p.
 
 ---
 
+## 2026-08-04 06:48:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Learn how to use References on Grok Imagine: characters, locations and props.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084273629034860544_img_fv89JbGcpFV8M5_V.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/imagine/status/2084411126876459300#m)
+
+---
+
 ## 2026-08-04 07:36:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -111,10 +189,6 @@ RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for sta
 
 RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding the refrigerator in the kitchen of his then-girlfriend Jennifer's parents 😂
 
-<img src="/images/elonmusk/media_HO4ITeXWkAAUgVs.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EvaFox/status/2084613682512724255#m)
-
 ---
 
 ## 2026-08-04 21:30:36
@@ -124,10 +198,6 @@ RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding 
 **内容**:
 
 RT by @elonmusk: A very small percentage of my academic colleagues have ever openly supported my efforts to fight against the parasitic rot in academia. Regrettably, most academics are astoundingly cowardly. They prefer to nod quietly that "men too can menstruate" rather than standing up and saying "Are you insane? No, men cannot menstruate." If you can get academics to reject the most fundamental markers of biological reality, you know that academia is not populated with intellectual NAVY seals.
-
-<img src="/images/elonmusk/media_HOzvyMVXcAAjjSY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/GadSaad/status/2084633101230023088#m)
 
 ---
 
@@ -181,6 +251,20 @@ Can’t trust OpenAI
 
 ---
 
+## 2026-08-04 23:44:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The scale of what Elon is building in Bastrop is not well understood.
+
+<img src="/images/elonmusk/media_HO45M0mbwAANdP-.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MrGoldBro/status/2084666793340326059#m)
+
+---
+
 ## 2026-08-04 23:55:02
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -188,10 +272,6 @@ Can’t trust OpenAI
 **内容**:
 
 🚀🚀
-
-<img src="/images/elonmusk/media_HO4lyshWAAAuzx8.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084669448376480185#m)
 
 ---
 
