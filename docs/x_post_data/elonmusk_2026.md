@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1815 条推文
+> 📊 推文存档 - 共 1816 条推文
 
 ---
 
@@ -28,10 +28,6 @@ RT by @elonmusk: The next evolution of humanity will be written in space.
 **内容**:
 
 RT by @elonmusk: After their slave revolt, Haiti’s founder ordered the killing of all white people on the island. Soldiers went house to house killing thousands including women and children. They took full control, purged the population they blamed, and turned the richest colony in the Caribbean into the poorest and most dysfunctional country in the Western Hemisphere. Today, their descendants demand entry into the West they fought to escape, refuse to return to the mess they and their ancestors created, and are for some reason strongly convinced that borders are racist.
-
-<img src="/images/elonmusk/amplify_video_thumb_2084362733558890496_img_zP3tc4QdpjfcFXQ1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Rothmus/status/2084362788307116099#m)
 
 ---
 
@@ -122,6 +118,20 @@ Terafab
 **内容**:
 
 Grok Imagine
+
+---
+
+## 2026-08-04 22:45:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah
+
+<img src="/images/elonmusk/amplify_video_thumb_2084504885832056832_img_ufhgyx9tHh8QUYLm.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084651951774454093#m)
 
 ---
 
