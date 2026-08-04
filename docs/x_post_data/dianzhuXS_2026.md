@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 283 条推文
+> 📊 推文存档 - 共 284 条推文
 
 ---
 
@@ -19,15 +19,17 @@ tags: ["2026"]
 
 大盧2026年5月21日發帖神準預測 「後半年牆大風災」 即將又一次應驗 牆人三次意淫詛咒他國皆成「回旋鏢」 在「去日本」響徹雲霄的呼聲下 後半年第三路17級風王颱風「白海豚」依舊頭鐵的直奔精神病國 【敬畏天地，天佑善人】
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJpGpxK1O3fpmQzR0wvsmo2lOuAAFHsAACvBFrG2_SiVfj1pnZL_WGRgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJpWpxK1cRnVkZmlhhbT5Tic9KDapKAAK9EWsbb9KJVwPhc5vT5n0iAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-04 09:31:24
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIg2phUWAlCcxuNTmAH1DDuM0hv9HFAAJCGWsbKZ0JVx_NmCLjQpqLAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIhGphUWQ2__BaW8NV66Dz3o1_XlVTAAJDGWsbKZ0JV8s9eo-Q1WwgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/dianzhuXS/status/2084428493354578154#m)
+冷不防https://open.substack.com/live-stream/306081?r=8moxkp&utm_medium=ios
+
+[查看原文](https://nitter.net/dianzhuXS/status/2084452110272537087#m)
 
 ---
 
