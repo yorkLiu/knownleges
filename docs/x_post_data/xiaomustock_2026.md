@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 300 条推文
+> 📊 推文存档 - 共 301 条推文
 
 ---
 
@@ -59,9 +59,21 @@ tags: ["2026"]
 
 市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJrWpxmEzxSsGdE3vIQ-YCxdkPR5NRAAJuFmsbDw-RV5sUTTvHhMdRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2084543015864119375#m)
+## 2026-08-04 18:56:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这条光收发器的新闻查了一下ai， 利好cohr，lite，avgo，mrvl
+
+<img src="/images/xiaomustock/media_HO33jb9aAAAew4w.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/xiaomustock/media_HO33jcEaMAAFmtN.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2084594400685085136#m)
 
 ---
 
