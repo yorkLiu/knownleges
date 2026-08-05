@@ -539,7 +539,8 @@ def fetch_tweets_from_vanlett(browser, username):
             postBodies.forEach((body, i) => {
                 if (i < 20) {  // 最多取20条
                     const header = document.querySelectorAll('.post-header')[i]?.innerText?.trim() || '';
-                    const content = document.querySelectorAll('.post-content')[i]?.innerText?.trim() || '';
+                    // 使用 textContent 保留原始换行，而不是 innerText 会压缩空白
+                    const content = document.querySelectorAll('.post-content')[i]?.textContent || '';
                     const stats = document.querySelectorAll('.post-stats')[i]?.innerText?.trim() || '';
                     results.push({
                         header: header,
