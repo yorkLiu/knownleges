@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1849 条推文
+> 📊 推文存档 - 共 1851 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT by @elonmusk: New aspect ratio visualizer A small but delightful UI update to Grok Imagine Web.
 
-<img src="/images/elonmusk/amplify_video_thumb_2085043768944705537_img_EqBOqWS0fH7IEcHW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/doganuraldesign/status/2085043800301318384#m)
-
 ---
 
 ## 2026-08-06 00:46:59
@@ -32,8 +28,6 @@ RT by @elonmusk: New aspect ratio visualizer A small but delightful UI update to
 **内容**:
 
 Exactly
-
-[查看原文](https://nitter.net/elonmusk/status/2085044909351047205#m)
 
 ---
 
@@ -45,7 +39,29 @@ Exactly
 
 It will and then to the Moon too
 
-[查看原文](https://nitter.net/elonmusk/status/2085045708844134423#m)
+---
+
+## 2026-08-06 02:45:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated
+
+[查看原文](https://nitter.net/elonmusk/status/2085074733532590531#m)
+
+---
+
+## 2026-08-06 02:45:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2085074791648948401#m)
 
 ---
 
