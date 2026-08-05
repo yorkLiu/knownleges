@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 55 条推文
+> 📊 推文存档 - 共 56 条推文
+
+---
+
+## 2026-08-05 11:35:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+坤彩连拿3天强势涨停，全线上涨 A股一旦反转，很多人注定踏空。 下降趋势里，行情沿着5日、10日均线一路下行，低点不断刷新。每一次反弹到均线压力位，都被精准砸回。尤其是10日线，压得死死的。 而上涨趋势，正好反过来——低点逐步抬高，每一次回踩5日、10日线，都是一次拉起的起点。 所以，降势里高抛低吸，没问题。但一旦趋势反转，再用这套手法，成本只会越做越高。对于底部拿足筹码的人，卧倒，就是最好的策略。 而对于踏空的人，别再死盯着“还能跌多少”——前面的大跌已经把空间砸出来了。接下来，每一次回调都是洗盘，都是低吸的机会。怕的是你还没准备好，行情就已经走远了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJyGpys67Oaax6h94bpAIR8ShgCTSOAAJ1GWsbDw-ZVzcz8UmxzTaTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2084845789822743011#m)
 
 ---
 
