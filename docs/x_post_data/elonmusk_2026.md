@@ -7,7 +7,45 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1846 条推文
+> 📊 推文存档 - 共 1849 条推文
+
+---
+
+## 2026-08-06 00:42:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: New aspect ratio visualizer A small but delightful UI update to Grok Imagine Web.
+
+<img src="/images/elonmusk/amplify_video_thumb_2085043768944705537_img_EqBOqWS0fH7IEcHW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/doganuraldesign/status/2085043800301318384#m)
+
+---
+
+## 2026-08-06 00:46:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://nitter.net/elonmusk/status/2085044909351047205#m)
+
+---
+
+## 2026-08-06 00:50:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It will and then to the Moon too
+
+[查看原文](https://nitter.net/elonmusk/status/2085045708844134423#m)
 
 ---
 
