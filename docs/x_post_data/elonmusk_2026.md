@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1844 条推文
+> 📊 推文存档 - 共 1846 条推文
 
 ---
 
@@ -169,12 +169,6 @@ Bring any idea to life with Imagine
 
 RT by @elonmusk: An extraordinary graphic showing what will happen in Poland if fertility rates simply stay where they are. Most of the developed world is on a trajectory of population collapse similar to this. Nothing matters more than turning around birthrate decline.
 
-<img src="/images/elonmusk/amplify_video_thumb_2084856000104820736_img_uxn63VzoeiKTSTUX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2084319957177819136_img_PQbbffB2eFwhIAVT.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MoreBirths/status/2084856017859317948#m)
-
 ---
 
 ## 2026-08-05 12:21:47
@@ -195,9 +189,33 @@ Best way to use Grok is via our Build harness. Download at http://X.ai/cli
 
 RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship
 
-<img src="/images/elonmusk/amplify_video_thumb_2084912010492342272_img_6tKObmumrIoASZT9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SpaceX/status/2084912076502282341#m)
+## 2026-08-05 21:06:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJzmpzTFJ9AniwJPchJZkDj7mkpR4ZAALqEmsbDw-hVz8MNCd0Xr5OAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084989366590742585#m)
+
+---
+
+## 2026-08-05 21:44:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Perfecting the overnight mode on Grok Build to keep the main agent context clean, dropping compaction from 3 times to 1. Prompt: "Overnight mode on: <goal>. The role of the orchestrator is to a) make high-level strategy decisions, b) make sure sub-agents deliver useful information and keep going, c) validate sub-agent results (fan out another sub-agent as a validator), and make the next move."
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJzWpzTE6afHiOMN7WY_49fAFxo2YfAALpEmsbDw-hVxCaet0n8qWoAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/yunta_tsai/status/2084998906702901758#m)
 
 ---
 
