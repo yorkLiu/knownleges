@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 303 条推文
+> 📊 推文存档 - 共 304 条推文
+
+---
+
+## 2026-08-05 13:32:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+梁圣太权威了，它还没像kimi一样堆参数， 只是几个月突然公布出来一个接近全球顶级模型能力的版本，再把价格达到白菜价。 除此之外从不在公众视野中出现。 这么搞同样token预算，存储消耗量得倍增。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJzGpy0MERtqO9QMw98v-oNgFow8pPAAKfGWsbDw-ZVyLCCYfMX1NQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2084875235833348532#m)
 
 ---
 
