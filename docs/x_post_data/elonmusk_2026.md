@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1833 条推文
+> 📊 推文存档 - 共 1837 条推文
 
 ---
 
@@ -48,10 +48,6 @@ RT by @elonmusk: Crew-13 completed training in California this past week. Falcon
 **内容**:
 
 RT by @elonmusk: AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars. The next chapter of AI infrastructure boldly goes where no AI compute has gone before.
-
-<img src="/images/elonmusk/media_HO50x6xbUAAOf5s.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/nvidia/status/2084733460690903204#m)
 
 ---
 
@@ -103,15 +99,51 @@ Pinned: SpaceX earnings call on now
 
 RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016
 
-<img src="/images/elonmusk/media_HO6JyYXWYAA9r_c.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Kristennetten/status/2084755184748486980#m)
+## 2026-08-05 12:06:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My favorite piece of merch other than the (not a) flamethrower
+
+[查看原文](https://nitter.net/elonmusk/status/2084853510756282452#m)
+
+---
+
+## 2026-08-05 12:07:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Beautiful art from Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2084520532603539458_img_a12b6yqxnpFtm2e-.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084853838381711435#m)
+
+---
+
+## 2026-08-05 12:10:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Bring any idea to life with Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2084705597228728320_img_SzPiDyYqi-5BPypd.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084854619675754599#m)
 
 ---
 
 ## 2026-08-04 00:28:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -121,7 +153,7 @@ RT by @elonmusk: The next evolution of humanity will be written in space.
 
 ## 2026-08-04 03:36:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -131,7 +163,7 @@ RT by @elonmusk: After their slave revolt, Haiti’s founder ordered the killing
 
 ## 2026-08-04 04:33:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -141,7 +173,7 @@ Wow
 
 ## 2026-08-04 04:35:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -151,7 +183,7 @@ Wow
 
 ## 2026-08-04 06:08:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -161,7 +193,7 @@ RT by @elonmusk: The beauty of Grok, now in 1080p.
 
 ## 2026-08-04 06:48:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -171,7 +203,7 @@ RT by @elonmusk: Learn how to use References on Grok Imagine: characters, locati
 
 ## 2026-08-04 07:36:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -181,7 +213,7 @@ Starlink anywhere
 
 ## 2026-08-04 07:37:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -191,7 +223,7 @@ Grok Build update http://X.ai/cli
 
 ## 2026-08-04 08:18:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -201,21 +233,17 @@ RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for sta
 
 ## 2026-08-04 19:21:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: BREAKING: Billionaire Whitey Basson says Elon Musk’s Starlink must launch in South Africa. 🇿🇦 He said that keeping @Starlink out of South Africa is discouraging businesspeople from investing in rural areas where there is no working communications infrastructure.
 
-<img src="/images/elonmusk/amplify_video_thumb_2084600330549940224_img_GGXK7KSJ1Zz7UzzS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2084600591448203559#m)
-
 ---
 
 ## 2026-08-04 20:13:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -223,9 +251,23 @@ RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding 
 
 ---
 
+## 2026-08-04 21:15:23
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: This Grok Imagine 1.5 is pure magic. The lighting, atmosphere and flawless consistency make it look so real. Grok Imagine creates the most natural and heartfelt videos of any AI.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084628100655005696_img_WTyONbHvYZWfqmno.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/testerlabor/status/2084629270714806587#m)
+
+---
+
 ## 2026-08-04 21:30:36
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -235,7 +277,7 @@ RT by @elonmusk: A very small percentage of my academic colleagues have ever ope
 
 ## 2026-08-04 21:37:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -245,7 +287,7 @@ Pension fraud is a global problem
 
 ## 2026-08-04 21:39:45
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -255,7 +297,7 @@ Terafab
 
 ## 2026-08-04 21:40:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -265,7 +307,7 @@ Grok Imagine
 
 ## 2026-08-04 22:45:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -275,7 +317,7 @@ Yeah
 
 ## 2026-08-04 22:46:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -285,23 +327,17 @@ Can’t trust OpenAI
 
 ## 2026-08-04 23:02:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available
 
-<img src="/images/elonmusk/media_HO4vEzibAAAI0Nh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/media_HO4vEzjaIAE1BL7.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JensenHuang/status/2084656303046332747#m)
-
 ---
 
 ## 2026-08-04 23:44:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -311,7 +347,7 @@ RT by @elonmusk: The scale of what Elon is building in Bastrop is not well under
 
 ## 2026-08-04 23:55:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
