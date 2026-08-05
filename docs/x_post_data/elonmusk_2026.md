@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1842 条推文
+> 📊 推文存档 - 共 1844 条推文
 
 ---
 
@@ -69,12 +69,6 @@ The same Starmind V1 satellite design (minus solar & radiator) will be deployed 
 
 RT by @elonmusk: Grok 4.5 just turned Blender into a conversation. Instead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change. It builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio. The impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction. But Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices. It is replacing a suspicious amount of the boring work they had to do before the skilled part even started.
 
-<img src="/images/elonmusk/amplify_video_thumb_2084736324322390016_img_zkDO3KS5Pnnr73tD.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJyWpyyX5DfYtIQ5xrAAHUckWoh1d1XwAClBlrGw8PmVci0WiDWnGY6wEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/irinatoxi/status/2084737280204280212#m)
-
 ---
 
 ## 2026-08-05 04:26:22
@@ -115,10 +109,6 @@ Pinned: SpaceX earnings call on now
 
 RT by @elonmusk: Grok Imagine is truly an excellent app. This app inspires me to dream completely different dreams. @elonmusk You absolutely must try Grok Imagine. Thank you, Emperor Kekius Maximus ⚔️💪⚔️
 
-<img src="/images/elonmusk/amplify_video_thumb_2084751248356519937_img_6xglgWxqb-LQXe-t.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Emp_Kek_Max/status/2084754523541889448#m)
-
 ---
 
 ## 2026-08-05 05:35:43
@@ -138,10 +128,6 @@ RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016
 **内容**:
 
 RT by @elonmusk: SpaceX has launched more then every other company combined 🔥 🔥
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJy2pyyYdR_jCs14jYyxvmtgABDR8UrwAClhlrGw8PmVdTp90aPLFhFwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/TheRabbitHole/status/2084765597901152301#m)
 
 ---
 
@@ -175,6 +161,22 @@ Bring any idea to life with Imagine
 
 ---
 
+## 2026-08-05 12:16:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: An extraordinary graphic showing what will happen in Poland if fertility rates simply stay where they are. Most of the developed world is on a trajectory of population collapse similar to this. Nothing matters more than turning around birthrate decline.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084856000104820736_img_uxn63VzoeiKTSTUX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2084319957177819136_img_PQbbffB2eFwhIAVT.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MoreBirths/status/2084856017859317948#m)
+
+---
+
 ## 2026-08-05 12:21:47
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -183,9 +185,19 @@ Bring any idea to life with Imagine
 
 Best way to use Grok is via our Build harness. Download at http://X.ai/cli
 
-<img src="/images/elonmusk/card_img_2080814505035010048_Mws7PJ9a3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2084857373555101726#m)
+## 2026-08-05 15:59:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship
+
+<img src="/images/elonmusk/amplify_video_thumb_2084912010492342272_img_6tKObmumrIoASZT9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2084912076502282341#m)
 
 ---
 
