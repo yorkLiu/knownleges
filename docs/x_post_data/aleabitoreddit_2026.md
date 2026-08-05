@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 360 条推文
+> 📊 推文存档 - 共 361 条推文
+
+---
+
+## 2026-08-05 08:16:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$RKLB has been awarded a $397M contract by the US Space Force. To build out Flatellite satellites and launch them on their Medium Lift rocket, Neutron.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJx2pyiBe_VFLAFhFjpT2Tj3dGLPzDAAJHGWsbDw-ZV9MQ4-KsQIZgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2084795597417263442#m)
 
 ---
 
