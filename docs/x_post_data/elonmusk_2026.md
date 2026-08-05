@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1837 条推文
+> 📊 推文存档 - 共 1842 条推文
 
 ---
 
@@ -61,6 +61,22 @@ The same Starmind V1 satellite design (minus solar & radiator) will be deployed 
 
 ---
 
+## 2026-08-05 04:24:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.5 just turned Blender into a conversation. Instead of manually importing assets, fixing rigs, placing armies, adjusting cameras, and debugging objects that face the wrong direction, the user simply tells Grok what to change. It builds a medieval battlefield from existing 3D assets, adds horses, knights, a castle, siege machines, trees, animation paths, cameras, and even spatial audio. The impressive part is not that it gets everything right. It absolutely does not. Models spawn upside down, characters face the wrong way, and the scene needs constant correction. But Grok keeps editing the actual Blender project instead of generating another fake 3D image and hoping nobody notices. It is replacing a suspicious amount of the boring work they had to do before the skilled part even started.
+
+<img src="/images/elonmusk/amplify_video_thumb_2084736324322390016_img_zkDO3KS5Pnnr73tD.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJyWpyyX5DfYtIQ5xrAAHUckWoh1d1XwAClBlrGw8PmVci0WiDWnGY6wEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/irinatoxi/status/2084737280204280212#m)
+
+---
+
 ## 2026-08-05 04:26:22
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -91,6 +107,20 @@ Pinned: SpaceX earnings call on now
 
 ---
 
+## 2026-08-05 05:33:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Imagine is truly an excellent app. This app inspires me to dream completely different dreams. @elonmusk You absolutely must try Grok Imagine. Thank you, Emperor Kekius Maximus ⚔️💪⚔️
+
+<img src="/images/elonmusk/amplify_video_thumb_2084751248356519937_img_6xglgWxqb-LQXe-t.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Emp_Kek_Max/status/2084754523541889448#m)
+
+---
+
 ## 2026-08-05 05:35:43
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -98,6 +128,20 @@ Pinned: SpaceX earnings call on now
 **内容**:
 
 RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016
+
+---
+
+## 2026-08-05 06:17:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX has launched more then every other company combined 🔥 🔥
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJy2pyyYdR_jCs14jYyxvmtgABDR8UrwAClhlrGw8PmVdTp90aPLFhFwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheRabbitHole/status/2084765597901152301#m)
 
 ---
 
@@ -109,8 +153,6 @@ RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016
 
 My favorite piece of merch other than the (not a) flamethrower
 
-[查看原文](https://nitter.net/elonmusk/status/2084853510756282452#m)
-
 ---
 
 ## 2026-08-05 12:07:44
@@ -120,10 +162,6 @@ My favorite piece of merch other than the (not a) flamethrower
 **内容**:
 
 Beautiful art from Imagine
-
-<img src="/images/elonmusk/amplify_video_thumb_2084520532603539458_img_a12b6yqxnpFtm2e-.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084853838381711435#m)
 
 ---
 
@@ -135,9 +173,19 @@ Beautiful art from Imagine
 
 Bring any idea to life with Imagine
 
-<img src="/images/elonmusk/amplify_video_thumb_2084705597228728320_img_SzPiDyYqi-5BPypd.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2084854619675754599#m)
+## 2026-08-05 12:21:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Best way to use Grok is via our Build harness. Download at http://X.ai/cli
+
+<img src="/images/elonmusk/card_img_2080814505035010048_Mws7PJ9a3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2084857373555101726#m)
 
 ---
 
@@ -231,6 +279,20 @@ RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for sta
 
 ---
 
+## 2026-08-04 14:44:27
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. Another huge milestone for xAI as Grok continues to climb the rankings.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJympyyYMGls2-VtMT8RKqXa2mj17MAAKVGWsbDw-ZV-yLCHhpTGZNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2084530890093298013#m)
+
+---
+
 ## 2026-08-04 19:21:25
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
@@ -258,10 +320,6 @@ RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding 
 **内容**:
 
 RT by @elonmusk: This Grok Imagine 1.5 is pure magic. The lighting, atmosphere and flawless consistency make it look so real. Grok Imagine creates the most natural and heartfelt videos of any AI.
-
-<img src="/images/elonmusk/amplify_video_thumb_2084628100655005696_img_WTyONbHvYZWfqmno.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/testerlabor/status/2084629270714806587#m)
 
 ---
 
