@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1857 条推文
+> 📊 推文存档 - 共 1865 条推文
 
 ---
 
@@ -69,9 +69,17 @@ True
 
 RT by @elonmusk: This is just Grok Imagine 1.5
 
-<img src="/images/elonmusk/amplify_video_thumb_2085085069744500736_img_B5HTXDAi0QTiF8Ad.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/testerlabor/status/2085085107635855851#m)
+## 2026-08-06 03:35:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Wikipedia's ex-founder here. Four consequential policy discussions are happening on Wikipedia right now. Three of them would empower mainstream media to control what the encyclopedia says, and more importantly, what it doesn't say. A thread. 🧵 👇
+
+[查看原文](https://nitter.net/lsanger/status/2085087279245054022#m)
 
 ---
 
@@ -83,9 +91,23 @@ RT by @elonmusk: This is just Grok Imagine 1.5
 
 RT by @elonmusk: 🚨 NEW GROK BUILD UPDATE 🚨 v0.2.121 — 2026-08-05 Features: • Dashboard rows now show a short summary of what the agent did in the previous turn. • The Extensions modal now shows items grouped and sorted alphabetically with collapsible sections for Skills. • When a subagent runs in the background the parent agent is now reminded to keep working on the original task. • Clients can now reattach to a running session without replaying the transcript and explicitly close sessions. • Grok no longer asks which project directory to use when launched from your home folder or other non-project directories. • /feedback now opens a dedicated report box instead of entering prompt mode. • Auto theme detection now works over SSH and inside tmux sessions. • Voice and Finance tool cards are now rendered with icons and localized labels. • Markdown tables now reflow inside cells on narrow panes instead of clipping the right border. • Permission prompts now show the complete script clearly instead of dimmed fragments. • Long bash commands in permission prompts can now be expanded with Ctrl-F. Bug Fixes: • MCP tools that return images no longer drop or corrupt screenshots when output is large. • Resuming a restored child session after a remote parent restore no longer fails with 404. • The default branch is now correctly detected for hand-initialized repos that lack origin/HEAD. • Disabled MCP servers that can still be re-enabled now remain visible in the list instead of disappearing. • Rapid send-now presses or messages sent while waiting on subagents no longer lose earlier queued messages. • Pressing Esc or the stop button now reliably prevents background tasks from restarting the model after a cancel. • Login no longer skips when an invalid first-party API key is present in the environment. • Model picker and command palette now work while reviewing a plan before approving. • Workflow parallel() panels no longer launch hundreds of children at once and stall. • Dashboard overlay no longer shows useless prev/next shortcuts when only one agent is present. • Pinned prompt headers can now be selected and copied with the mouse. • Tab and Esc now behave consistently on every blocking card (question, permission, cancel-turn). • Dashboard navigation after /new now correctly exits back to the dashboard from an empty prompt. • Codebase restore no longer hangs on large or shallow git repositories. • Remote session resume restores conversation only unless --restore-code is explicitly used. • Copying CJK text with the mouse now includes every character at the selection edges. • Resume search now finds sessions by UUID even when they live in other directories. • API errors now appear as clean banners instead of raw JSON dumps in the TUI. • Typing exit or quit in the dashboard now exits the CLI instead of starting a new session. • Mode indicator (plan/agent/ask) now correctly reflects the session's actual mode after resume and transitions. • /delete now returns to the dashboard when you delete a session you opened from it. • Enter in the slash command menu now runs the highlighted command. • Grok now retries more server errors during outages for better reliability. • Syntax highlighting in long diff lines now stays correct when wrapped. • Slash commands that require a session now show a helpful message when used from the dashboard. • Exiting the CLI now properly resets terminal modes even in minimal mode. • Queued prompts now stay visible and reachable while waiting on subagents. • Auto recaps no longer appear in the middle of new turns or while busy. • Error messages in /btw side questions now show fully wrapped. • Queued slash commands and images can now be reordered in the queue pane. • Error messages in /btw side questions now show fully wrapped. • /feedback no longer resets the composer input mode after the pane closes.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ02pz7DjvF11tfAjWQWlbuy1LfxtMAAKnD2sbOAmgV4l7twlOIKk4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/cb_doge/status/2085121879950381352#m)
+## 2026-08-06 06:21:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚩🚩🚩 OpenAI is "slowing down to enhance security" after discovering swarms (!) of agents started secretly coordinating MONTHS ago 1) It started May 7 - not July 2) "The agents discovered they could leave messages for one another inside an internal software repository used during training. Simple requests for help then evolved into an message board where agents shared discoveries, exploits and work assignments, becoming a coordinated, collaborative agent swarm." "The agents then began sharing newly discovered exploits, credentials and work assignments. By passing information to other agents, the collective could move much faster." 3) OpenAI shut it down, BUT "even after the original message board was deleted, the agents figured out another way to communicate with each other. Instead of leaving messages in files, they used the names of newly created directories as messages, effectively recreating the message board." "Unlike normal incidents, [OpenAI's CISO] said, which can be traced to a single day or effect or log, this involved a team of agents working together, finding exploits, sharing them with one another, moving laterally through OpenAI’s systems, and external systems, and doing this over the course of days and weeks."
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ22pz-r_35vjz8Sfi8jyRO7oFTP-gAALJD2sbOAmgV-5VFdgDthrUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ3Gpz-sMMtSTkNtstWfc6D4sDtnzoAALKD2sbOAmgV7IDSDC91ekgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/card_img_2085121153207812097_PInyNKVg3Fformat3Djpg26name3D800x419" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AISafetyMemes/status/2085129043956097299#m)
 
 ---
 
@@ -97,10 +119,6 @@ RT by @elonmusk: 🚨 NEW GROK BUILD UPDATE 🚨 v0.2.121 — 2026-08-05 Feature
 
 RT by @elonmusk: If you have paid attention, you would see Elon says this often. Fashion has become stagnant and is due for an update. Maybe SpaceX and/or Tesla merch should try something new and see what happens.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ0mpz7DOGte7NRN1NefsbwYw9szWqAAKmD2sbOAmgVz5TlZ1-ZAYFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SERobinsonJr/status/2085135084609290255#m)
-
 ---
 
 ## 2026-08-06 09:59:07
@@ -111,9 +129,85 @@ RT by @elonmusk: If you have paid attention, you would see Elon says this often.
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2085045853845176320_img_vVLsLRhCn-LpXqmE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2085183860489552115#m)
+## 2026-08-06 10:17:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2085051988597784576_img_6Sf2gVaSJwMhjppg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085188435057488153#m)
+
+---
+
+## 2026-08-06 10:19:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Great idea
+
+[查看原文](https://nitter.net/elonmusk/status/2085188875547513008#m)
+
+---
+
+## 2026-08-06 10:26:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok in Blender
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJyWpyyX5DfYtIQ5xrAAHUckWoh1d1XwAClBlrGw8PmVci0WiDWnGY6wEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085190872564699581#m)
+
+---
+
+## 2026-08-06 10:28:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Megapack 3 starting production. Congrats Tesla Megapack team!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ2mpz-rxFyy2zL3VhdZLRx8pNalCmAALID2sbOAmgV0aXR2z_rOGsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085191304905138594#m)
+
+---
+
+## 2026-08-06 10:42:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: This is fake btw 😂
+
+[查看原文](https://nitter.net/elonmusk/status/2085194743496233203#m)
+
+---
+
+## 2026-08-06 11:00:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This actually happened
+
+<img src="/images/elonmusk/amplify_video_thumb_2084355353026998272_img_nJ3wapdsQw2bycHR.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085199278583263501#m)
 
 ---
 
