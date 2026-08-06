@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 56 条推文
+> 📊 推文存档 - 共 57 条推文
+
+---
+
+## 2026-08-06 15:10:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+调仓如图 3864，盘中数度回踩，一步都没破。这就是信号——该拿的拿住，别自己吓自己。分时图的低点，是用来寻找买点的，不是用来制造恐慌的。 银行先涨先调，白水、消费、电力、电池、证券，节奏依次排开。后涨的看前面就行——这轮谁先动，谁先歇，心里有数。卖完科技，回头去布局白水、食品、消费软件，方向要趁早转。 今天拉出煤炭，是暗藏的五朵金花之一。涨指数也涨个股，这是久违的共振。2.5万亿的成交虽然缩量，但盘面波动还在，情绪就没散。如果证券哪天助力一波，30日线3922随时可能摸到——到时候，千万冷静。 未来三天，检查一下手里持仓：那些连续三天没创反弹新高的，基本就是到位了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ32p0NNpUoTLtSaDHZlwdcQRTHChiAAKxEGsbOAmgV9qhxg5hUw9WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2085262312370544929#m)
 
 ---
 
