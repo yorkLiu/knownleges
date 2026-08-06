@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1884 条推文
+> 📊 推文存档 - 共 1886 条推文
 
 ---
 
@@ -19,9 +19,35 @@ tags: ["2026"]
 
 RT by @elonmusk: Precisely a 420 mile drive to Starbase, as foretold in the prophecy @elonmusk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ7Wp06o1PLAVqxsTl-cxUjAbdf7qYAAKIEGsbOAmoV1nC0g_gd072AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/carpetron_d/status/2085395640847069390#m)
+## 2026-08-07 04:13:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨BREAKING: RED CROSS DELETES VIDEO AFTER MIGRANT MURDERS BRITISH WOMAN The Red Cross made a sympathetic cartoon video showing the journey of Sharif, an Afghan travelling to Europe When Sharif got there he MURDERED a British Woman and stuffed her body into a suitcase They wanted you to feel sorry for him but he killed a young woman like the savage that he is The Red Cross must be held to account for the blood they have on their hands
+
+<img src="/images/elonmusk/amplify_video_thumb_2085458872609673217_img_aJGT1EriJ4rx653y.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ7mp0-RhDfjqWgHpyUrZrHmjEiWV-AAKNEGsbOAmoVznfytIqNZt9AQADAgADeAADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BasilTheGreat/status/2085459228337308135#m)
+
+---
+
+## 2026-08-07 05:04:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Whether or not an airline has Starlink will be a deciding factor for consumer choice, especially on long flights
+
+<img src="/images/elonmusk/amplify_video_thumb_2085419938781839360_img_D9JTx0nrxdc4oXtH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085472225340137703#m)
 
 ---
 
