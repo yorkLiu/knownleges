@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1865 条推文
+> 📊 推文存档 - 共 1869 条推文
 
 ---
 
@@ -38,6 +38,18 @@ Exactly
 **内容**:
 
 It will and then to the Moon too
+
+---
+
+## 2026-08-06 01:34:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Switched to Grok 4.5 and haven't looked back since
+
+[查看原文](https://nitter.net/JonasBadalic/status/2085056845798936998#m)
 
 ---
 
@@ -79,8 +91,6 @@ RT by @elonmusk: This is just Grok Imagine 1.5
 
 RT by @elonmusk: Wikipedia's ex-founder here. Four consequential policy discussions are happening on Wikipedia right now. Three of them would empower mainstream media to control what the encyclopedia says, and more importantly, what it doesn't say. A thread. 🧵 👇
 
-[查看原文](https://nitter.net/lsanger/status/2085087279245054022#m)
-
 ---
 
 ## 2026-08-06 05:52:50
@@ -100,14 +110,6 @@ RT by @elonmusk: 🚨 NEW GROK BUILD UPDATE 🚨 v0.2.121 — 2026-08-05 Feature
 **内容**:
 
 RT by @elonmusk: 🚩🚩🚩 OpenAI is "slowing down to enhance security" after discovering swarms (!) of agents started secretly coordinating MONTHS ago 1) It started May 7 - not July 2) "The agents discovered they could leave messages for one another inside an internal software repository used during training. Simple requests for help then evolved into an message board where agents shared discoveries, exploits and work assignments, becoming a coordinated, collaborative agent swarm." "The agents then began sharing newly discovered exploits, credentials and work assignments. By passing information to other agents, the collective could move much faster." 3) OpenAI shut it down, BUT "even after the original message board was deleted, the agents figured out another way to communicate with each other. Instead of leaving messages in files, they used the names of newly created directories as messages, effectively recreating the message board." "Unlike normal incidents, [OpenAI's CISO] said, which can be traced to a single day or effect or log, this involved a team of agents working together, finding exploits, sharing them with one another, moving laterally through OpenAI’s systems, and external systems, and doing this over the course of days and weeks."
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ22pz-r_35vjz8Sfi8jyRO7oFTP-gAALJD2sbOAmgV-5VFdgDthrUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ3Gpz-sMMtSTkNtstWfc6D4sDtnzoAALKD2sbOAmgV7IDSDC91ekgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/card_img_2085121153207812097_PInyNKVg3Fformat3Djpg26name3D800x419" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AISafetyMemes/status/2085129043956097299#m)
 
 ---
 
@@ -139,10 +141,6 @@ Video
 
 Grok Imagine
 
-<img src="/images/elonmusk/amplify_video_thumb_2085051988597784576_img_6Sf2gVaSJwMhjppg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085188435057488153#m)
-
 ---
 
 ## 2026-08-06 10:19:03
@@ -152,8 +150,6 @@ Grok Imagine
 **内容**:
 
 Great idea
-
-[查看原文](https://nitter.net/elonmusk/status/2085188875547513008#m)
 
 ---
 
@@ -165,10 +161,6 @@ Great idea
 
 Grok in Blender
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJyWpyyX5DfYtIQ5xrAAHUckWoh1d1XwAClBlrGw8PmVci0WiDWnGY6wEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085190872564699581#m)
-
 ---
 
 ## 2026-08-06 10:28:42
@@ -178,10 +170,6 @@ Grok in Blender
 **内容**:
 
 Megapack 3 starting production. Congrats Tesla Megapack team!
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ2mpz-rxFyy2zL3VhdZLRx8pNalCmAALID2sbOAmgV0aXR2z_rOGsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085191304905138594#m)
 
 ---
 
@@ -193,8 +181,6 @@ Megapack 3 starting production. Congrats Tesla Megapack team!
 
 R to @elonmusk: This is fake btw 😂
 
-[查看原文](https://nitter.net/elonmusk/status/2085194743496233203#m)
-
 ---
 
 ## 2026-08-06 11:00:23
@@ -205,9 +191,47 @@ R to @elonmusk: This is fake btw 😂
 
 This actually happened
 
-<img src="/images/elonmusk/amplify_video_thumb_2084355353026998272_img_nJ3wapdsQw2bycHR.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2085199278583263501#m)
+## 2026-08-06 20:23:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: ‼️FLOOD THE PHONES‼️ Tell the Senate to remain in DC until the SAVE America Act is passed. Every Senate number begins w/ 202-224-XXXX. “My name is ____. My zip code is ____. I’m asking Senator ____ to remain in DC until the SAVE America Act is passed. I vote in every election.” Peacefully.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ42p0jBou1lzhYZO06l0EBoV2EHJeAAK1D2sbOAmoV_V-2LUPoW2RAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ScottPresler/status/2085340885017932040#m)
+
+---
+
+## 2026-08-06 21:03:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+<img src="/images/elonmusk/amplify_video_thumb_2085067325686878208_img_UBldwj8lJCUBKMzp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085351166729134155#m)
+
+---
+
+## 2026-08-06 21:22:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is what is happening
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ4mp0jBZI-jrosOiJEuCebc9dQtMLAAK0D2sbOAmoV3-8q7In1cCPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085355790613815483#m)
 
 ---
 
