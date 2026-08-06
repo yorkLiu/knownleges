@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1851 条推文
+> 📊 推文存档 - 共 1857 条推文
 
 ---
 
@@ -49,8 +49,6 @@ It will and then to the Moon too
 
 Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated
 
-[查看原文](https://nitter.net/elonmusk/status/2085074733532590531#m)
-
 ---
 
 ## 2026-08-06 02:45:43
@@ -61,13 +59,67 @@ Critical feedback for the Grok Build harness, Grok foundation model and Imagine 
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2085074791648948401#m)
+---
+
+## 2026-08-06 03:26:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is just Grok Imagine 1.5
+
+<img src="/images/elonmusk/amplify_video_thumb_2085085069744500736_img_B5HTXDAi0QTiF8Ad.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/testerlabor/status/2085085107635855851#m)
+
+---
+
+## 2026-08-06 05:52:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨 NEW GROK BUILD UPDATE 🚨 v0.2.121 — 2026-08-05 Features: • Dashboard rows now show a short summary of what the agent did in the previous turn. • The Extensions modal now shows items grouped and sorted alphabetically with collapsible sections for Skills. • When a subagent runs in the background the parent agent is now reminded to keep working on the original task. • Clients can now reattach to a running session without replaying the transcript and explicitly close sessions. • Grok no longer asks which project directory to use when launched from your home folder or other non-project directories. • /feedback now opens a dedicated report box instead of entering prompt mode. • Auto theme detection now works over SSH and inside tmux sessions. • Voice and Finance tool cards are now rendered with icons and localized labels. • Markdown tables now reflow inside cells on narrow panes instead of clipping the right border. • Permission prompts now show the complete script clearly instead of dimmed fragments. • Long bash commands in permission prompts can now be expanded with Ctrl-F. Bug Fixes: • MCP tools that return images no longer drop or corrupt screenshots when output is large. • Resuming a restored child session after a remote parent restore no longer fails with 404. • The default branch is now correctly detected for hand-initialized repos that lack origin/HEAD. • Disabled MCP servers that can still be re-enabled now remain visible in the list instead of disappearing. • Rapid send-now presses or messages sent while waiting on subagents no longer lose earlier queued messages. • Pressing Esc or the stop button now reliably prevents background tasks from restarting the model after a cancel. • Login no longer skips when an invalid first-party API key is present in the environment. • Model picker and command palette now work while reviewing a plan before approving. • Workflow parallel() panels no longer launch hundreds of children at once and stall. • Dashboard overlay no longer shows useless prev/next shortcuts when only one agent is present. • Pinned prompt headers can now be selected and copied with the mouse. • Tab and Esc now behave consistently on every blocking card (question, permission, cancel-turn). • Dashboard navigation after /new now correctly exits back to the dashboard from an empty prompt. • Codebase restore no longer hangs on large or shallow git repositories. • Remote session resume restores conversation only unless --restore-code is explicitly used. • Copying CJK text with the mouse now includes every character at the selection edges. • Resume search now finds sessions by UUID even when they live in other directories. • API errors now appear as clean banners instead of raw JSON dumps in the TUI. • Typing exit or quit in the dashboard now exits the CLI instead of starting a new session. • Mode indicator (plan/agent/ask) now correctly reflects the session's actual mode after resume and transitions. • /delete now returns to the dashboard when you delete a session you opened from it. • Enter in the slash command menu now runs the highlighted command. • Grok now retries more server errors during outages for better reliability. • Syntax highlighting in long diff lines now stays correct when wrapped. • Slash commands that require a session now show a helpful message when used from the dashboard. • Exiting the CLI now properly resets terminal modes even in minimal mode. • Queued prompts now stay visible and reachable while waiting on subagents. • Auto recaps no longer appear in the middle of new turns or while busy. • Error messages in /btw side questions now show fully wrapped. • Queued slash commands and images can now be reordered in the queue pane. • Error messages in /btw side questions now show fully wrapped. • /feedback no longer resets the composer input mode after the pane closes.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ02pz7DjvF11tfAjWQWlbuy1LfxtMAAKnD2sbOAmgV4l7twlOIKk4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2085121879950381352#m)
+
+---
+
+## 2026-08-06 06:45:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: If you have paid attention, you would see Elon says this often. Fashion has become stagnant and is due for an update. Maybe SpaceX and/or Tesla merch should try something new and see what happens.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ0mpz7DOGte7NRN1NefsbwYw9szWqAAKmD2sbOAmgVz5TlZ1-ZAYFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SERobinsonJr/status/2085135084609290255#m)
+
+---
+
+## 2026-08-06 09:59:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2085045853845176320_img_vVLsLRhCn-LpXqmE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085183860489552115#m)
 
 ---
 
 ## 2026-08-05 00:31:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -77,7 +129,7 @@ Indeed
 
 ## 2026-08-05 02:32:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -87,7 +139,7 @@ RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
 ## 2026-08-05 02:55:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -97,7 +149,7 @@ RT by @elonmusk: Crew-13 completed training in California this past week. Falcon
 
 ## 2026-08-05 04:09:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -107,7 +159,7 @@ RT by @elonmusk: AI compute is going to orbit. 🚀 @SpaceX’s Starmind AI1 sat
 
 ## 2026-08-05 04:09:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -117,7 +169,7 @@ The same Starmind V1 satellite design (minus solar & radiator) will be deployed 
 
 ## 2026-08-05 04:24:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -127,7 +179,7 @@ RT by @elonmusk: Grok 4.5 just turned Blender into a conversation. Instead of ma
 
 ## 2026-08-05 04:26:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -137,7 +189,7 @@ RT by @elonmusk: Tune into SpaceX’s first earnings audio-only webcast since go
 
 ## 2026-08-05 04:51:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -147,7 +199,7 @@ SpaceX has committed to using Nvidia GPUs exclusively because they are the best
 
 ## 2026-08-05 04:57:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -157,7 +209,7 @@ Pinned: SpaceX earnings call on now
 
 ## 2026-08-05 05:33:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -167,7 +219,7 @@ RT by @elonmusk: Grok Imagine is truly an excellent app. This app inspires me to
 
 ## 2026-08-05 05:35:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -177,7 +229,7 @@ RT by @elonmusk: Elon & Jensen with NVIDIA GPUs August 2016
 
 ## 2026-08-05 06:17:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -187,7 +239,7 @@ RT by @elonmusk: SpaceX has launched more then every other company combined 🔥
 
 ## 2026-08-05 12:06:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -197,7 +249,7 @@ My favorite piece of merch other than the (not a) flamethrower
 
 ## 2026-08-05 12:07:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -207,7 +259,7 @@ Beautiful art from Imagine
 
 ## 2026-08-05 12:10:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -217,7 +269,7 @@ Bring any idea to life with Imagine
 
 ## 2026-08-05 12:16:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -227,7 +279,7 @@ RT by @elonmusk: An extraordinary graphic showing what will happen in Poland if 
 
 ## 2026-08-05 12:21:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -237,7 +289,7 @@ Best way to use Grok is via our Build harness. Download at http://X.ai/cli
 
 ## 2026-08-05 15:59:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -245,31 +297,41 @@ RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravi
 
 ---
 
+## 2026-08-05 17:43:05
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9 launches from pad 40 in Florida
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ1Wpz7EDZ2uU1mttNkcwHupX9UUPkAAKpD2sbOAmgV_Xpzgzzv00vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ1mpz7ENVYhZKzI0IQb7TVdpspdYTAAKqD2sbOAmgV51eoGCvS5BhAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ12pz7EbvqfkIXFYAAR3yq59pPRnumQACqw9rGzgJoFdYgKQ1Ci_YlwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2084938234291773730#m)
+
+---
+
 ## 2026-08-05 21:06:16
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Grok Build
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJzmpzTFJ9AniwJPchJZkDj7mkpR4ZAALqEmsbDw-hVz8MNCd0Xr5OAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2084989366590742585#m)
-
 ---
 
 ## 2026-08-05 21:44:11
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Perfecting the overnight mode on Grok Build to keep the main agent context clean, dropping compaction from 3 times to 1. Prompt: "Overnight mode on: <goal>. The role of the orchestrator is to a) make high-level strategy decisions, b) make sure sub-agents deliver useful information and keep going, c) validate sub-agent results (fan out another sub-agent as a validator), and make the next move."
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJzWpzTE6afHiOMN7WY_49fAFxo2YfAALpEmsbDw-hVxCaet0n8qWoAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/yunta_tsai/status/2084998906702901758#m)
 
 ---
 
@@ -290,6 +352,20 @@ RT by @elonmusk: The next evolution of humanity will be written in space.
 **内容**:
 
 RT by @elonmusk: After their slave revolt, Haiti’s founder ordered the killing of all white people on the island. Soldiers went house to house killing thousands including women and children. They took full control, purged the population they blamed, and turned the richest colony in the Caribbean into the poorest and most dysfunctional country in the Western Hemisphere. Today, their descendants demand entry into the West they fought to escape, refuse to return to the mess they and their ancestors created, and are for some reason strongly convinced that borders are racist.
+
+---
+
+## 2026-08-04 04:31:46
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Cursor can now read, write, and act across your Google Workspace. New plugins give agents direct access to Gmail, Google Drive, Calendar, Docs, and Sheets.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ1Gpz7Dv1wtKNHZl_wp9ngOJrL6jVAAKoD2sbOAmgV1LanvvbU3nQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cursor_ai/status/2084376701539405904#m)
 
 ---
 
@@ -370,10 +446,6 @@ RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for sta
 **内容**:
 
 RT by @elonmusk: Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. Another huge milestone for xAI as Grok continues to climb the rankings.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJympyyYMGls2-VtMT8RKqXa2mj17MAAKVGWsbDw-ZV-yLCHhpTGZNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/teslaownersSV/status/2084530890093298013#m)
 
 ---
 

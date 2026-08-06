@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 305 条推文
+> 📊 推文存档 - 共 306 条推文
 
 ---
 
@@ -19,11 +19,19 @@ tags: ["2026"]
 
 刚把snxx，muu，skhynix都减了一半仓位，怕闪迪财报向下波动，等闪迪财报波动结束，准备再把减掉的仓位集中干到muu和snxx上。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJz2pzd-nBL2N04jOI2cBj9yZ2cEJVAAI0E2sbDw-hVxuYjjG6YCLVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJtGpx73vtvPGfb26Abbedu0ZgkCItAAIQF2sbDw-RV3d2aZLypVK2AQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-06 09:49:50
 
-[查看原文](https://nitter.net/xiaomustock/status/2085053224386744756#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天minimax纳入港股通了， a股能买到的最小的ai大模型公司。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ0Wpz7C6zAAGZQqUS9d3o5gABB7ZlYMMAAqUPaxs4CaBXXZoiuQk2AAGcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2085181524555780491#m)
 
 ---
 
