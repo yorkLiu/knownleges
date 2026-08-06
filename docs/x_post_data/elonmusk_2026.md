@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1871 条推文
+> 📊 推文存档 - 共 1879 条推文
 
 ---
 
@@ -229,9 +229,57 @@ This is what is happening
 
 RT by @elonmusk: Terafab will be built in Grimes County, Texas In April, we broke ground on our research fab on the North Campus of Giga Texas – the precursor to Terafab. Both Tesla & SpaceX will need far more chips than current & future global production can supply. This is why we're building the largest chip manufacturing facility ever, with the goal of producing over 1 terawatt of compute per year The future is built in Texas http://spacex.com/updates#terafab
 
-<img src="/images/elonmusk/amplify_video_thumb_2085252679815839744_img_rXBP3PswT_cSSTSh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/Tesla/status/2085365278276284803#m)
+## 2026-08-06 22:01:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: How to make a short film with Grok Imagine, start to finish
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6Gp0qToAATC_m5KZkAZfW7kNoL43YwAC_Q9rGzgJqFd49dGA5tM-cAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tetsuoai/status/2085365652509040768#m)
+
+---
+
+## 2026-08-06 22:04:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Imagine Video 1.5
+
+<img src="/images/elonmusk/amplify_video_thumb_2085365861423235072_img_4S2MiyGLI4z7K_8g.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6Gp0qToAATC_m5KZkAZfW7kNoL43YwAC_Q9rGzgJqFd49dGA5tM-cAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tetsuoai/status/2085366368338350547#m)
+
+---
+
+## 2026-08-06 22:17:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is literally sci-fi 😍
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6Wp0qT4AAQOJKP-rl4h_5gYNbr5KmwAC_g9rGzgJqFfFow3KTwPxzQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6mp0qUFOd16YN6SMaVM20qxJhxnBAAL_D2sbOAmoV0smm5GoGBB_AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ62p0qUSj2BwWRWxIMTNxbmcON7AZAAMQaxs4CahXCHupdi-hppEBAAMCAAN5AAM9BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ7Gp0qUhaq9ToTOrwsiTZr--QjN81AAIBEGsbOAmoVwPBdk6ngZzgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2085361439267491840_img_hKoDHwGl-6I7_m6o.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2085369774763372783#m)
 
 ---
 
@@ -243,9 +291,75 @@ RT by @elonmusk: Terafab will be built in Grimes County, Texas In April, we brok
 
 Terafab Texas will be the largest and most valuable building on Earth by far. And it will be stunningly beautiful.
 
-<img src="/images/elonmusk/amplify_video_thumb_2085361439267491840_img_hKoDHwGl-6I7_m6o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2085377974396752305#m)
+## 2026-08-06 23:02:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ52p0qTX325CmE_T8CqXM4X8HkXciAAL8D2sbOAmoV5z-3aBwBafSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085380956236472553#m)
+
+---
+
+## 2026-08-06 23:02:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Terafab
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ5mp0qTFjiN9P7Lk0Hu5zrOTwLzDtAAL6D2sbOAmoV5f2xxUh_NX8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085381095248318721#m)
+
+---
+
+## 2026-08-06 23:04:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Futuristic scene with RoboVan + Cybercab + Tesla Semi + Optimus 🖤
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ5Wp0qSt_vr_1RRU8j872LLssmhiXAAL5D2sbOAmoVwQDk3jHmKaHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AdanGuajardo/status/2085381556219113586#m)
+
+---
+
+## 2026-08-06 23:06:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Sci-fi city is what we’re aiming for
+
+<img src="/images/elonmusk/amplify_video_thumb_2085372089205166081_img_hRQDLTX-cHoK_N3W.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085381911367614866#m)
+
+---
+
+## 2026-08-06 23:09:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Speed-Running Star Trek
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ5Gp0qSclIVxyE5nTHtremtq1NBkuAAL4D2sbOAmoV8bVNDpVyZ4jAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/PeterDiamandis/status/2085382693651431455#m)
 
 ---
 
