@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 363 条推文
+> 📊 推文存档 - 共 364 条推文
 
 ---
 
@@ -29,11 +29,17 @@ Funniest callout of the year from $VIAV on CPO timelines: "Well, there's been a 
 
 The unexpected thing of the week... Was $AEVA becoming a CPO/NPO optical source player. For background: $SIVE is viewed as the high confidence CW DFB laser supplier to Aeva (which is known for lidar). Today, Aeva reacted with +18.26% AH on news that they signed a JDA with an optical engine player for deployment at a major hyperscaler in H2 2027, production ramp 2028. "Optical Connectivity will leverage that foundation along with Aeva’s EXISTING high-volume manufacturing and foundry supply chain" for: - ELSFP (similar to O-Net/Enablence + $SIVE), with Sivers as the likely CW laser + potential amplifier supplier - On-chip integrated light source (likely $SIVE DFB + Aeva PIC on the architecture/integration side) TLDR: New TAM and a hyperscaler programs for Aeva for CPO/NPO, positive read through for upstream suppliers like $SIVE.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ3Wp0EIecpVSOaDj8rfzZKcCXrlG4AAIZEGsbOAmgV569xDpY2yEPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ3mp0EIuw2lZsMd75dT_5WToUIqbmAAIaEGsbOAmgVy8y7k-72JJDAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-06 17:56:42
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2085217487864643658#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. It’s one letter too long to say $TSM or $AMD. And nobody ever says to a friend“Wow, I like applied optoelectronics!”
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2085304045099696547#m)
 
 ---
 
