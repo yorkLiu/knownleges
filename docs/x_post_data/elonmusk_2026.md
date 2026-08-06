@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1886 条推文
+> 📊 推文存档 - 共 1887 条推文
 
 ---
 
@@ -261,6 +261,20 @@ This is what is happening
 
 ---
 
+## 2026-08-06 21:51:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Men are larger and stronger than women. Why should we even discuss this? Men must not be in women’s sports. Common sense.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ72p1B59oJepX_F6RwpVbKdRl6oaVAAKbEGsbOAmoV0ZOl0I385ZfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mayemusk/status/2085363171905151007#m)
+
+---
+
 ## 2026-08-06 22:00:01
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -308,10 +322,6 @@ RT by @elonmusk: This is literally sci-fi 😍
 **内容**:
 
 RT by @elonmusk: Elon Musk: “Path to Petawatts is Mass drivers on Moon” SpaceX’s Lunar Mass Driver is a planned electromagnetic launch system on the Moon, similar to a giant coilgun-style catapult, designed to launch solar-powered AI compute satellites into orbit or deep space at extremely low cost
-
-<img src="/images/elonmusk/amplify_video_thumb_2085370921024626688_img_muPV9s7s1GzN6aH5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/iam_smx/status/2085371462064697579#m)
 
 ---
 
@@ -383,8 +393,6 @@ RT by @elonmusk: Speed-Running Star Trek
 
 RT by @elonmusk: You’re right, but one step at a time. Next step is extending consciousness permanently beyond Earth ideally during this civilizational up cycle, rather than than some far future one.
 
-[查看原文](https://nitter.net/elonmusk/status/2085386542344810741#m)
-
 ---
 
 ## 2026-08-06 23:41:19
@@ -394,10 +402,6 @@ RT by @elonmusk: You’re right, but one step at a time. Next step is extending 
 **内容**:
 
 Yes
-
-<img src="/images/elonmusk/amplify_video_thumb_2085250299393167360_img_C5zyfuY14CMQqKTZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085390770672922657#m)
 
 ---
 
