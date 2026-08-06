@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1879 条推文
+> 📊 推文存档 - 共 1883 条推文
 
 ---
 
@@ -239,10 +239,6 @@ RT by @elonmusk: Terafab will be built in Grimes County, Texas In April, we brok
 
 RT by @elonmusk: How to make a short film with Grok Imagine, start to finish
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6Gp0qToAATC_m5KZkAZfW7kNoL43YwAC_Q9rGzgJqFd49dGA5tM-cAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tetsuoai/status/2085365652509040768#m)
-
 ---
 
 ## 2026-08-06 22:04:21
@@ -252,12 +248,6 @@ RT by @elonmusk: How to make a short film with Grok Imagine, start to finish
 **内容**:
 
 RT by @elonmusk: Grok Imagine Video 1.5
-
-<img src="/images/elonmusk/amplify_video_thumb_2085365861423235072_img_4S2MiyGLI4z7K_8g.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6Gp0qToAATC_m5KZkAZfW7kNoL43YwAC_Q9rGzgJqFd49dGA5tM-cAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tetsuoai/status/2085366368338350547#m)
 
 ---
 
@@ -269,17 +259,19 @@ RT by @elonmusk: Grok Imagine Video 1.5
 
 RT by @elonmusk: This is literally sci-fi 😍
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6Wp0qT4AAQOJKP-rl4h_5gYNbr5KmwAC_g9rGzgJqFfFow3KTwPxzQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ6mp0qUFOd16YN6SMaVM20qxJhxnBAAL_D2sbOAmoV0smm5GoGBB_AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-06 22:24:35
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ62p0qUSj2BwWRWxIMTNxbmcON7AZAAMQaxs4CahXCHupdi-hppEBAAMCAAN5AAM9BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ7Gp0qUhaq9ToTOrwsiTZr--QjN81AAIBEGsbOAmoVwPBdk6ngZzgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-<img src="/images/elonmusk/amplify_video_thumb_2085361439267491840_img_hKoDHwGl-6I7_m6o.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+RT by @elonmusk: Elon Musk: “Path to Petawatts is Mass drivers on Moon” SpaceX’s Lunar Mass Driver is a planned electromagnetic launch system on the Moon, similar to a giant coilgun-style catapult, designed to launch solar-powered AI compute satellites into orbit or deep space at extremely low cost
 
-[查看原文](https://nitter.net/XFreeze/status/2085369774763372783#m)
+<img src="/images/elonmusk/amplify_video_thumb_2085370921024626688_img_muPV9s7s1GzN6aH5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/iam_smx/status/2085371462064697579#m)
 
 ---
 
@@ -301,10 +293,6 @@ Terafab Texas will be the largest and most valuable building on Earth by far. An
 
 Yes
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ52p0qTX325CmE_T8CqXM4X8HkXciAAL8D2sbOAmoV5z-3aBwBafSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085380956236472553#m)
-
 ---
 
 ## 2026-08-06 23:02:52
@@ -314,10 +302,6 @@ Yes
 **内容**:
 
 Terafab
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ5mp0qTFjiN9P7Lk0Hu5zrOTwLzDtAAL6D2sbOAmoV5f2xxUh_NX8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085381095248318721#m)
 
 ---
 
@@ -329,10 +313,6 @@ Terafab
 
 RT by @elonmusk: Futuristic scene with RoboVan + Cybercab + Tesla Semi + Optimus 🖤
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ5Wp0qSt_vr_1RRU8j872LLssmhiXAAL5D2sbOAmoVwQDk3jHmKaHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AdanGuajardo/status/2085381556219113586#m)
-
 ---
 
 ## 2026-08-06 23:06:06
@@ -342,10 +322,6 @@ RT by @elonmusk: Futuristic scene with RoboVan + Cybercab + Tesla Semi + Optimus
 **内容**:
 
 Sci-fi city is what we’re aiming for
-
-<img src="/images/elonmusk/amplify_video_thumb_2085372089205166081_img_hRQDLTX-cHoK_N3W.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085381911367614866#m)
 
 ---
 
@@ -357,9 +333,31 @@ Sci-fi city is what we’re aiming for
 
 RT by @elonmusk: Speed-Running Star Trek
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ5Gp0qSclIVxyE5nTHtremtq1NBkuAAL4D2sbOAmoV8bVNDpVyZ4jAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/PeterDiamandis/status/2085382693651431455#m)
+## 2026-08-06 23:24:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: You’re right, but one step at a time. Next step is extending consciousness permanently beyond Earth ideally during this civilizational up cycle, rather than than some far future one.
+
+[查看原文](https://nitter.net/elonmusk/status/2085386542344810741#m)
+
+---
+
+## 2026-08-06 23:41:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="/images/elonmusk/amplify_video_thumb_2085250299393167360_img_C5zyfuY14CMQqKTZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085390770672922657#m)
 
 ---
 
@@ -483,6 +481,20 @@ RT by @elonmusk: SpaceX has launched more then every other company combined 🔥
 
 ---
 
+## 2026-08-05 08:42:38
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: I have been following this guy's content for 4 years. He's not an EV guy at all. Just listen to the great things he has to say about the @cybertruck and Self-Driving: @ Brandon_c_clark on Instagram
+
+<img src="/images/elonmusk/amplify_video_thumb_2084802161423077376_img_IQKZhFc1b-N_rmaP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/butala_aryan/status/2084802223075201046#m)
+
+---
+
 ## 2026-08-05 12:06:26
 
 <a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
@@ -550,14 +562,6 @@ RT by @elonmusk: Falcon 9’s first stage has landed on the A Shortfall of Gravi
 **内容**:
 
 RT by @elonmusk: Falcon 9 launches from pad 40 in Florida
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ1Wpz7EDZ2uU1mttNkcwHupX9UUPkAAKpD2sbOAmgV_Xpzgzzv00vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ1mpz7ENVYhZKzI0IQb7TVdpspdYTAAKqD2sbOAmgV51eoGCvS5BhAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ12pz7EbvqfkIXFYAAR3yq59pPRnumQACqw9rGzgJoFdYgKQ1Ci_YlwEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2084938234291773730#m)
 
 ---
 
