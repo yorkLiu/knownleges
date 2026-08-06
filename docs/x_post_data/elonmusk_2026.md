@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1869 条推文
+> 📊 推文存档 - 共 1871 条推文
 
 ---
 
@@ -48,8 +48,6 @@ It will and then to the Moon too
 **内容**:
 
 RT by @elonmusk: Switched to Grok 4.5 and haven't looked back since
-
-[查看原文](https://nitter.net/JonasBadalic/status/2085056845798936998#m)
 
 ---
 
@@ -201,10 +199,6 @@ This actually happened
 
 RT by @elonmusk: ‼️FLOOD THE PHONES‼️ Tell the Senate to remain in DC until the SAVE America Act is passed. Every Senate number begins w/ 202-224-XXXX. “My name is ____. My zip code is ____. I’m asking Senator ____ to remain in DC until the SAVE America Act is passed. I vote in every election.” Peacefully.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ42p0jBou1lzhYZO06l0EBoV2EHJeAAK1D2sbOAmoV_V-2LUPoW2RAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ScottPresler/status/2085340885017932040#m)
-
 ---
 
 ## 2026-08-06 21:03:56
@@ -214,10 +208,6 @@ RT by @elonmusk: ‼️FLOOD THE PHONES‼️ Tell the Senate to remain in DC un
 **内容**:
 
 True
-
-<img src="/images/elonmusk/amplify_video_thumb_2085067325686878208_img_UBldwj8lJCUBKMzp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085351166729134155#m)
 
 ---
 
@@ -229,9 +219,33 @@ True
 
 This is what is happening
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ4mp0jBZI-jrosOiJEuCebc9dQtMLAAK0D2sbOAmoV3-8q7In1cCPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2085355790613815483#m)
+## 2026-08-06 22:00:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Terafab will be built in Grimes County, Texas In April, we broke ground on our research fab on the North Campus of Giga Texas – the precursor to Terafab. Both Tesla & SpaceX will need far more chips than current & future global production can supply. This is why we're building the largest chip manufacturing facility ever, with the goal of producing over 1 terawatt of compute per year The future is built in Texas http://spacex.com/updates#terafab
+
+<img src="/images/elonmusk/amplify_video_thumb_2085252679815839744_img_rXBP3PswT_cSSTSh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Tesla/status/2085365278276284803#m)
+
+---
+
+## 2026-08-06 22:50:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Terafab Texas will be the largest and most valuable building on Earth by far. And it will be stunningly beautiful.
+
+<img src="/images/elonmusk/amplify_video_thumb_2085361439267491840_img_hKoDHwGl-6I7_m6o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085377974396752305#m)
 
 ---
 
