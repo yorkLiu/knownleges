@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 290 条推文
+> 📊 推文存档 - 共 291 条推文
 
 ---
 
@@ -29,9 +29,17 @@ tags: ["2026"]
 
 【知識點】 所謂「木星逆行」即『史記•天官書』中說的「歲星反逆」，其實就是地球跑的太快超車了而已。原理跟開車的時候，看到樹都往後倒的錯覺一樣。只不過地球的車道近似於圓形，才有周而復始的「歲星反逆」。下課💪
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ4Wp0Z8NKq4Rzd5nvawL9TzGeEwMUAAKdEWsbOAmgV2GlnB_gL0DMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2085318082529317307#m)
+## 2026-08-06 20:04:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+暫定本週日 2026年8月8日晚21:30（東九區） 開始【丙午八字免費收徒第八期】 🎉🎉🎉🎉🎉🎉🎉🎉
+
+[查看原文](https://nitter.net/dianzhuXS/status/2085336237578268702#m)
 
 ---
 
