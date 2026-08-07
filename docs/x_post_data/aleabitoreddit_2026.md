@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 370 条推文
+> 📊 推文存档 - 共 371 条推文
 
 ---
 
@@ -69,13 +69,23 @@ Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (
 
 I usually make fun of sellside, but Rosenblatt has pretty goated channel checks on optical names, and their reports are one of the few I like talking about. $AAOI, $LITE, $SIVE, and the laser party has started to recover around the est. timing windows. eg. last month: "Multiple short sellers told them they will likely close their positions... late July and early August". They might have missed that they believed $AMD would be $AAOI's first CPO customer... since AAOI said they would be missing from first-gen CPO (maybe future gen?) But lot of their talking points about China CPO laser positioning (eg. 2-3 years behind) got corroborated word-for-word from AAOI earnings today.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKBWp1oD54xezj37MvcdhJTAkHCyV8AAIoEWsbgi2pV0aFGh3LvwTkAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKBmp1oEViZB_h3lhLFHa8CDIUL1YyAAIpEWsbgi2pV_KdhFxHYTKtAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-07 20:55:47
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKB2p1oEnUCAzTglQ-YD8o94u3OZDuAAIqEWsbgi2pV6WeDDev7EkrAQADAgADeQADPQQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2085649654059016387#m)
+**内容**:
+
+Some more TLDR takeaways from $AAOI ER: - They also flagged DSP and TIA bottlenecks, which is a positive industry read through for names like $MXL, then $SMTC and $MTSI. - For revenue growth, they're expecting more than $500 million revenue Q4, which is absurd growth. For reference: Q2: $191.9M Q3: ~$255M-$290M Q4: $500M+ By mid-2027: ~$1.41B quarterly revenue run-rate Always impressed by the revenue ramp from some of these optical players.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKCGp12mIvg-mZuZv2Bhkd1USKb2L8AALZFmsbgi2xV6mqkBnCD8hYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ_mp1dKZd5ukxLFfP2GUsjr1rQmI3AAKJEWsbOAmoV1l9fMIumnmaAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ_2p1dKmdL3vsmlDhFzMpqpT1rv1fAAKKEWsbOAmoV3R28crenzQ9AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2085711500875116887#m)
 
 ---
 
