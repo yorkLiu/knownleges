@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1898 条推文
+> 📊 推文存档 - 共 1901 条推文
 
 ---
 
@@ -139,11 +139,47 @@ Terafab will be 50 times the size of the Pentagon when complete
 
 Grok Build V1.0 is now released. Try it out! http://X.ai/build
 
+---
+
+## 2026-08-07 22:30:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok Build http://X.ai/build
+
 <img src="/images/elonmusk/card_img_2085599089140621312_wOygNmjS3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ_Wp1dKFFCdvsK_Ujypcq0KqjRg8OAAKIEWsbOAmoVzuWRH4lzBmuAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKCWp18C0fX3xalRcJmuqxM_whFAhvAAL4Fmsbgi2xV_lql48Cy0NbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/elonmusk/status/2085594813840216212#m)
+[查看原文](https://nitter.net/elonmusk/status/2085735269525766343#m)
+
+---
+
+## 2026-08-07 22:30:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2085633120062300160_img_2LdAPy83D_yVdHQz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085735374651871702#m)
+
+---
+
+## 2026-08-07 22:38:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It really is this amazing
+
+[查看原文](https://nitter.net/elonmusk/status/2085737443228045492#m)
 
 ---
 
