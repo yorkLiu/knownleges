@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 371 条推文
+> 📊 推文存档 - 共 372 条推文
+
+---
+
+## 2026-08-08 04:21:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+There we go, White House finally invests in more breath in critical minerals/materials. Amazing policy move, as a TLDR: - $WWR receives $25M (graphite) - $SRL (ASX) receives $400M (Scandium) - $FEAM receives $8M (Boron) - $HREE receives $4.8M (magnet rare earths) out of the public companies. With more private investments from $150 million into Niron Magnetics or $85 million into Standard Bauxite. It's literally spare change to the US gov, for ENORMOUS amount of downstream applications. More should be done with funding amounts to accelerate development and derisk supply chains (don't own any of the above, just support the policy move), but great announcement.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKFmp2R2Jr7GW4AwuYUitx8CBqvAY8AALQF2sbgi2xV3uRIX48LXQrAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKF2p2R2Ys_3F-uXA-uk-fTSPCRQnVAALRF2sbgi2xV7ap_wSScUE0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2085823672569467005#m)
 
 ---
 
