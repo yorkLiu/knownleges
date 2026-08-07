@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 307 条推文
+> 📊 推文存档 - 共 308 条推文
 
 ---
 
@@ -19,11 +19,19 @@ tags: ["2026"]
 
 minimax330卖完了 江湖再见
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-Wp1Qb-ReiZkkxInd4owcQ13plU6AAMRaxs4CahXIGrPlqsNIDYBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ0Wpz7C6zAAGZQqUS9d3o5gABB7ZlYMMAAqUPaxs4CaBXXZoiuQk2AAGcAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-07 10:40:32
 
-[查看原文](https://nitter.net/xiaomustock/status/2085547354695082306#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+造孽了minimax卖飞了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-mp1SQQE4sT_G4OBdtkNfUQwAAFClQACDRFrGzgJqFfLD6ZMl5fk0wEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2085556671712297190#m)
 
 ---
 
