@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 294 条推文
+> 📊 推文存档 - 共 295 条推文
 
 ---
 
@@ -39,11 +39,21 @@ tags: ["2026"]
 
 轉發散人這一期，同時翻看「合訂本」，大盧預測的「如火如荼」已驗證😮‍💨
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ_Gp1Zhn1mYxLDD1W1vf--l5rfjT-AAJeEWsbOAmoVzVZ3d9qKECGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/dianzhuXS/card_img_2085581455607152640_Vv8lA15u3Fformat3Djpg26name3D800x320_1" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-07 14:27:38
 
-[查看原文](https://nitter.net/dianzhuXS/status/2085587196946641357#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+東方文明的數術根基就是古天文學，包括天干地支的誕生，很多基本邏輯源於「蓋天說」，興在「渾天說」。知道基本的法理，才不會膽兒肥到望文生義胡說八道。 嗯，在中簡圈這個不求甚解的大染缸裡，知道基本法理，就已經是「人尖子」，但也就自然升級成了，大明白們最恨的「眼中釘肉中刺」嘍🤭
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKAAFqdXvmMr00LXpUONE2cr5Q4IEPAwACZBNrGzgJsFed9HaAgkAcdwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ4Wp0Z8NKq4Rzd5nvawL9TzGeEwMUAAKdEWsbOAmgV2GlnB_gL0DMAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2085613820450631689#m)
 
 ---
 
