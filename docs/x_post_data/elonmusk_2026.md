@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1901 条推文
+> 📊 推文存档 - 共 1902 条推文
+
+---
+
+## 2026-08-08 02:05:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Inevitable
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKCmp2IwoboGLk_rVduFwbrpYWQBu-AAK4F2sbgi2xVxK5MUPsYvVMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085789334288908746#m)
 
 ---
 
