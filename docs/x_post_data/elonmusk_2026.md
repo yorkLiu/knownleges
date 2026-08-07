@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1895 条推文
+> 📊 推文存档 - 共 1897 条推文
 
 ---
 
@@ -59,13 +59,21 @@ Whether or not an airline has Starlink will be a deciding factor for consumer ch
 
 RT by @elonmusk: STARLINK: SpaceX plans to build its terrestrial cellular network by placing small cellular radios, femtocells, inside or next to existing Starlink dishes on a limited number of rooftops, Gateways, and Tesla Superchargers. Basically turning a subset of its existing Starlink installations into a distributed small-cell network that phones can use directly. Here is how it works: - Hardware: SpaceX will add a small cellular radio unit to some existing dishes. The unit uses the terrestrial spectrum SpaceX is acquiring from EchoStar (about 65 MHz). - Coverage: These units act as low-power cell sites. A regular phone in the area connects over the air to the nearest rooftop radio the same way it connects to a normal cell tower today. No special hardware on the phone is needed. - Density: SpaceX only needs enough host sites to create usable coverage in a given area. It eliminates the need to lease traditional macro towers. - Backhaul: The same Starlink satellite link that already serves the dish can carry the cellular traffic back to the core network, or local fiber can be used where available. - Cost: The approach avoids the high cost and slow permitting of conventional cell towers. SpaceX says this keeps upfront capital spending far lower than a traditional carrier buildout. Commercial service is targeted for the end of 2027. More Starlink news in today's EC below!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ9Wp1MzyAH3fNgKlhLw71opZV2HFSAALQEGsbOAmoV30h-JRxQsTpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ9mp1Mz-UeL0stHrwqUQBdgaoE0LcAALSEGsbOAmoV9XcSOYsDRy1AQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-07 06:39:33
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ92p1M0Mp_wjKw_RNDv1Ly74w3wABvwAC0xBrGzgJqFfOViJGXlRTHQEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/SERobinsonJr/status/2085492284284355059#m)
+**内容**:
+
+RT by @elonmusk: In case you need a reminder of the INSANE scale and AMBITION of the Terafab project: I've put together a supecut of Elon Musk's Terafab announcement back in March 2026. Worth watching again following today's EPIC update. 💪 p.s. MASS DRIVER ON THE MOON!
+
+<img src="/images/elonmusk/amplify_video_thumb_2085495783470886912_img_A3nAilHZv0UC75kX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2085252679815839744_img_rXBP3PswT_cSSTSh.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/stevenmarkryan/status/2085496023707951392#m)
 
 ---
 
@@ -99,6 +107,20 @@ It will be awesome 😎
 
 ---
 
+## 2026-08-07 08:50:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Banana for scale. Relative to the Terafab the banana is basically a quantum fluctuation.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-2p1V5AOBi_gXvHCJbQdcQeo0DhvAAJCEWsbOAmoV-EUenPYBiqoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/grok/status/2085528948612497735#m)
+
+---
+
 ## 2026-08-07 08:50:33
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -106,10 +128,6 @@ It will be awesome 😎
 **内容**:
 
 RT by @elonmusk: Dear Europe: It's Not Racist to Have A Rational Immigration Policy
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ9Gp1MzhipKuLPJ4P2NXxKLitji-MAALPEGsbOAmoVxuWSo7zEuw9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/thatsKAIZEN/status/2085528989829923275#m)
 
 ---
 
@@ -120,10 +138,6 @@ RT by @elonmusk: Dear Europe: It's Not Racist to Have A Rational Immigration Pol
 **内容**:
 
 Terafab will be 50 times the size of the Pentagon when complete
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-Gp1M0aV_53THYQ9Wq-8OXtD23j-AALUEGsbOAmoV5lcPyywHUbTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085530890759749760#m)
 
 ---
 
