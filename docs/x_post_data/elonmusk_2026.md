@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1902 条推文
+> 📊 推文存档 - 共 1910 条推文
 
 ---
 
@@ -19,9 +19,85 @@ tags: ["2026"]
 
 Inevitable
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKCmp2IwoboGLk_rVduFwbrpYWQBu-AAK4F2sbgi2xVxK5MUPsYvVMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2085789334288908746#m)
+## 2026-08-08 02:15:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 👀
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKEmp2QDRjWbk-X_iqY_eDzFhbiztfAALMF2sbgi2xV1Zl66kGdWl2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/jgebbia/status/2085792011278262467#m)
+
+---
+
+## 2026-08-08 02:36:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to come to work!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKE2p2QDivsoSqxhFHC8CNlAnPVcpgAALNF2sbgi2xV0WLMMku2E6PAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085797287343587511#m)
+
+---
+
+## 2026-08-08 02:45:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’re working on making Grok Build super easy to use for non-technical people
+
+<img src="/images/elonmusk/card_img_2085599089140621312_wOygNmjS3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085799495808204931#m)
+
+---
+
+## 2026-08-08 02:48:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2085800273004335278#m)
+
+---
+
+## 2026-08-08 02:57:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+More trans violence
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKEWp2QC9wQG1xDwAB6aTuG_0v65GhdwACyxdrG4ItsVe7c1wEwWMyMgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085802506211197098#m)
+
+---
+
+## 2026-08-08 02:58:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Same thing seems to be happening with TV shows and video games
+
+[查看原文](https://nitter.net/elonmusk/status/2085802906674930019#m)
 
 ---
 
@@ -115,6 +191,22 @@ It will be awesome 😎
 
 ---
 
+## 2026-08-07 08:31:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: CHARLOTTE RESIDENTS, BEWARE Diquan Shafar Hunt (14 prior arrests) is on the loose, filming himself attacking white women Please spread this info
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKFGp2QDsAAddaAkwlL4rmWMFGkE_K8QACzhdrG4ItsVdLpUOuB7g5NAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKFWp2QD6jBmBZXtilRV9_Yh-cMq3fAALPF2sbgi2xV3AeZmJg1xP9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/EndWokeness/status/2085524315001212936#m)
+
+---
+
 ## 2026-08-07 08:50:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -163,12 +255,6 @@ Grok Build V1.0 is now released. Try it out! http://X.ai/build
 
 Try Grok Build http://X.ai/build
 
-<img src="/images/elonmusk/card_img_2085599089140621312_wOygNmjS3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKCWp18C0fX3xalRcJmuqxM_whFAhvAAL4Fmsbgi2xV_lql48Cy0NbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085735269525766343#m)
-
 ---
 
 ## 2026-08-07 22:30:39
@@ -178,10 +264,6 @@ Try Grok Build http://X.ai/build
 **内容**:
 
 Video
-
-<img src="/images/elonmusk/amplify_video_thumb_2085633120062300160_img_2LdAPy83D_yVdHQz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085735374651871702#m)
 
 ---
 
@@ -193,7 +275,19 @@ Video
 
 It really is this amazing
 
-[查看原文](https://nitter.net/elonmusk/status/2085737443228045492#m)
+---
+
+## 2026-08-07 23:46:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Oh my goodness.
+
+<img src="/images/elonmusk/amplify_video_thumb_2085647419824300032_img_dvkqixis-96D_zjV.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GadSaad/status/2085754530864439636#m)
 
 ---
 
