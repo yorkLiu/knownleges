@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 369 条推文
+> 📊 推文存档 - 共 370 条推文
 
 ---
 
@@ -59,9 +59,23 @@ Earlier today, optical interconnect company Lumilens "emerges from stealth" at a
 
 Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). Derivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. $CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation. It will be interesting to see how markets price in America vs. Chinese Humanoid leaders.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKBGp1mPqH2V9pfkP3EoJAOBIU0Vq4AAIeEWsbgi2pV9v1E9R2jVX3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2085644051446108223#m)
+## 2026-08-07 16:50:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I usually make fun of sellside, but Rosenblatt has pretty goated channel checks on optical names, and their reports are one of the few I like talking about. $AAOI, $LITE, $SIVE, and the laser party has started to recover around the est. timing windows. eg. last month: "Multiple short sellers told them they will likely close their positions... late July and early August". They might have missed that they believed $AMD would be $AAOI's first CPO customer... since AAOI said they would be missing from first-gen CPO (maybe future gen?) But lot of their talking points about China CPO laser positioning (eg. 2-3 years behind) got corroborated word-for-word from AAOI earnings today.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKBWp1oD54xezj37MvcdhJTAkHCyV8AAIoEWsbgi2pV0aFGh3LvwTkAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKBmp1oEViZB_h3lhLFHa8CDIUL1YyAAIpEWsbgi2pV_KdhFxHYTKtAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKB2p1oEnUCAzTglQ-YD8o94u3OZDuAAIqEWsbgi2pV6WeDDev7EkrAQADAgADeQADPQQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2085649654059016387#m)
 
 ---
 
