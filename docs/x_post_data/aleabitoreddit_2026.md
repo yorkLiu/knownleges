@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 368 条推文
+> 📊 推文存档 - 共 369 条推文
 
 ---
 
@@ -49,13 +49,19 @@ Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player read
 
 Earlier today, optical interconnect company Lumilens "emerges from stealth" at a $5.5B valuation, after raising $700m. Just as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler customer. So we got confirmation of that a month later, along with the material figure that Lumilens has a "multi-billion-dollar customer agreement". And just for reference, $POET has existing contracts with Lumilens ($50m purchase order, up to $500m) + contracts with $SIVE (depending on product lines). I actually took tiny positions in POET again after reading this news, since it finally gives them visibility into extremely well funded hyperscaler suppliers (on top of Poet's really large balance sheet). But TLDR: > Lumilens around similar (or even higher) valuations as Lightmatter/Ayar, bigger than markets thought with hyperscaler customers. > nice read through upstream on $POET (derisking) / $SIVE. > Great for optical valuations in general, seeing a company go to $5.5B in 2 years.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKAWp1inEV32jVYKrewLJo0REQNWxsAAKJE2sbOAmwV2vbV9fKrqDlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKAmp1inV5PH_SbGrDYy3XL3DExnCPAAKKE2sbOAmwV22vHMvMUoijAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-07 16:27:45
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKA2p1innddD9DKULaesK4EArFzqQuAAKLE2sbOAmwV_iKvRlKKilmAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2085628664528662818#m)
+**内容**:
+
+Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). Derivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. $CCXI / Agility Robotics, the first US publicly listed pure play humanoid leader, is also going public later in Q4, at a ~$2.5B pre-money valuation. It will be interesting to see how markets price in America vs. Chinese Humanoid leaders.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKBGp1mPqH2V9pfkP3EoJAOBIU0Vq4AAIeEWsbgi2pV9v1E9R2jVX3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2085644051446108223#m)
 
 ---
 
