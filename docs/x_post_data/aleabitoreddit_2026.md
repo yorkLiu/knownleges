@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 366 条推文
+> 📊 推文存档 - 共 367 条推文
 
 ---
 
@@ -29,9 +29,21 @@ Just some TLDR notes on $AAOI earnings: - Expects full qualification of 1.6T pro
 
 $MTSI earnings transcript: "Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers" Emphasis on "Urgency", CW "DFB lasers", "coming to us". CW DFB names, such as like $SIVE and $LITE should be happy to hear about this laser bottleneck getting validated.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ8mp1JLAC0sn_gGwm0dQf2cJAYuaTAALAEGsbOAmoV174vKZok_UZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2085511646257332581#m)
+## 2026-08-07 13:46:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough. 1. AAOI not meaningfully participating in CPO first-gen deployments. "We just can’t make enough of them [CPO lasers] to be involved in their current first-generation [CPO] deployments because there’s just not enough capacity. We have to prioritize our ability to make lasers for our own transceivers first" So first-gen CPO laser deployments, might even be narrowed down further for Western players like $SIVE, $LITE, $AVGO, and $COHR. And independent CPO CW laser capacity became more valuable if $AAOI had to turn away more customers... Also remember Trendforce was talking about $AMD singing CW LTAs? $COHR / $LITE have capacity signed with $NVDA ... I thought it would be $AAOI, but they might be out of the equation. $MTSI also doesn't look meaningful with early CPO participation (eg. no mention in ER aside from NPO, and removal from Ayar website). So I wonder who players like $AMD is going to go with for Helios (eg. Sivers + Ayar more likely candidate now)? Btw, this is not bearish AAOI because they have too much demand for optical transceiver business. Just more bullish on the existing few qualified CPO laser names that have capacity. 2. Demand imbalance and bottleneck for InP lasers / optical transceivers. AOI's CEO stated kinda supported that when they said: "The customer demand is 20%-40% higher" than expanded built out capacity. "We are getting this kind of demand from several big customers almost every week. Lasers are the biggest bottleneck right now for the transceiver business" 3. China being years away from having CPO DWDM specification lasers. I covered this earlier when looking at CPO competition from channel checks. But AAOI confirming that China is "easily at least two, three years or even longer from having CPO lasers is incredible tread through on defensibility Western laser positioning in the CPO laser chokepoint. TLDR: - High demand imbalance for CW lasers and optical transceivers. - $AAOI not in first-gen CPO due to capacity constraints (not exactly bearish AAOI because they have too much demand for their optical transciver business, but even better news for the few independent players with capacity coming online like $SIVE) - China years behind in CPO lasers.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ_mp1dKZd5ukxLFfP2GUsjr1rQmI3AAKJEWsbOAmoV1l9fMIumnmaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ_2p1dKmdL3vsmlDhFzMpqpT1rv1fAAKKEWsbOAmoV3R28crenzQ9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2085603590903902621#m)
 
 ---
 
