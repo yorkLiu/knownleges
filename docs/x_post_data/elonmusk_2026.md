@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1887 条推文
+> 📊 推文存档 - 共 1892 条推文
 
 ---
 
@@ -21,6 +21,20 @@ RT by @elonmusk: Precisely a 420 mile drive to Starbase, as foretold in the prop
 
 ---
 
+## 2026-08-07 00:04:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Our goal is for no Tesla battery to end up in a landfill. Across our US operations, we’re recovering more than 90% of key battery materials like nickel & cobalt from cells that we recycle More details in our 2025 Impact Report https://www.tesla.com/impact
+
+<img src="/images/elonmusk/amplify_video_thumb_2085396199226671104_img_8zwAVjoQDvHSAk4f.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tesla_na/status/2085396555834814834#m)
+
+---
+
 ## 2026-08-07 04:13:20
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -28,12 +42,6 @@ RT by @elonmusk: Precisely a 420 mile drive to Starbase, as foretold in the prop
 **内容**:
 
 RT by @elonmusk: 🚨BREAKING: RED CROSS DELETES VIDEO AFTER MIGRANT MURDERS BRITISH WOMAN The Red Cross made a sympathetic cartoon video showing the journey of Sharif, an Afghan travelling to Europe When Sharif got there he MURDERED a British Woman and stuffed her body into a suitcase They wanted you to feel sorry for him but he killed a young woman like the savage that he is The Red Cross must be held to account for the blood they have on their hands
-
-<img src="/images/elonmusk/amplify_video_thumb_2085458872609673217_img_aJGT1EriJ4rx653y.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ7mp0-RhDfjqWgHpyUrZrHmjEiWV-AAKNEGsbOAmoVznfytIqNZt9AQADAgADeAADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/BasilTheGreat/status/2085459228337308135#m)
 
 ---
 
@@ -45,15 +53,51 @@ RT by @elonmusk: 🚨BREAKING: RED CROSS DELETES VIDEO AFTER MIGRANT MURDERS BRI
 
 Whether or not an airline has Starlink will be a deciding factor for consumer choice, especially on long flights
 
-<img src="/images/elonmusk/amplify_video_thumb_2085419938781839360_img_D9JTx0nrxdc4oXtH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2085472225340137703#m)
+## 2026-08-07 07:34:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://nitter.net/elonmusk/status/2085509921395605732#m)
+
+---
+
+## 2026-08-07 07:36:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Easy to tell who the bad guys are by looking at who has to build a wall to keep people from escaping!
+
+<img src="/images/elonmusk/amplify_video_thumb_2085394736718782464_img_dcpN-s497S0jShtT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085510467544314111#m)
+
+---
+
+## 2026-08-07 07:37:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It will be awesome 😎
+
+<img src="/images/elonmusk/amplify_video_thumb_2085361439267491840_img_hKoDHwGl-6I7_m6o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085510570753556940#m)
 
 ---
 
 ## 2026-08-06 00:42:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -63,7 +107,7 @@ RT by @elonmusk: New aspect ratio visualizer A small but delightful UI update to
 
 ## 2026-08-06 00:46:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -73,7 +117,7 @@ Exactly
 
 ## 2026-08-06 00:50:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -83,7 +127,7 @@ It will and then to the Moon too
 
 ## 2026-08-06 01:34:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -93,7 +137,7 @@ RT by @elonmusk: Switched to Grok 4.5 and haven't looked back since
 
 ## 2026-08-06 02:45:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -103,7 +147,7 @@ Critical feedback for the Grok Build harness, Grok foundation model and Imagine 
 
 ## 2026-08-06 02:45:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -113,7 +157,7 @@ True
 
 ## 2026-08-06 03:26:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -123,7 +167,7 @@ RT by @elonmusk: This is just Grok Imagine 1.5
 
 ## 2026-08-06 03:35:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -133,7 +177,7 @@ RT by @elonmusk: Wikipedia's ex-founder here. Four consequential policy discussi
 
 ## 2026-08-06 05:52:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -143,7 +187,7 @@ RT by @elonmusk: 🚨 NEW GROK BUILD UPDATE 🚨 v0.2.121 — 2026-08-05 Feature
 
 ## 2026-08-06 06:21:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -153,7 +197,7 @@ RT by @elonmusk: 🚩🚩🚩 OpenAI is "slowing down to enhance security" after
 
 ## 2026-08-06 06:45:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -163,7 +207,7 @@ RT by @elonmusk: If you have paid attention, you would see Elon says this often.
 
 ## 2026-08-06 09:59:07
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -173,7 +217,7 @@ Video
 
 ## 2026-08-06 10:17:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -183,7 +227,7 @@ Grok Imagine
 
 ## 2026-08-06 10:19:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -193,7 +237,7 @@ Great idea
 
 ## 2026-08-06 10:26:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -203,7 +247,7 @@ Grok in Blender
 
 ## 2026-08-06 10:28:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -213,7 +257,7 @@ Megapack 3 starting production. Congrats Tesla Megapack team!
 
 ## 2026-08-06 10:42:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -223,7 +267,7 @@ R to @elonmusk: This is fake btw 😂
 
 ## 2026-08-06 11:00:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -233,7 +277,7 @@ This actually happened
 
 ## 2026-08-06 20:23:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -243,7 +287,7 @@ RT by @elonmusk: ‼️FLOOD THE PHONES‼️ Tell the Senate to remain in DC un
 
 ## 2026-08-06 21:03:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -253,7 +297,7 @@ True
 
 ## 2026-08-06 21:22:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -263,21 +307,17 @@ This is what is happening
 
 ## 2026-08-06 21:51:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Men are larger and stronger than women. Why should we even discuss this? Men must not be in women’s sports. Common sense.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ72p1B59oJepX_F6RwpVbKdRl6oaVAAKbEGsbOAmoV0ZOl0I385ZfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mayemusk/status/2085363171905151007#m)
-
 ---
 
 ## 2026-08-06 22:00:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +327,7 @@ RT by @elonmusk: Terafab will be built in Grimes County, Texas In April, we brok
 
 ## 2026-08-06 22:01:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +337,7 @@ RT by @elonmusk: How to make a short film with Grok Imagine, start to finish
 
 ## 2026-08-06 22:04:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,7 +347,7 @@ RT by @elonmusk: Grok Imagine Video 1.5
 
 ## 2026-08-06 22:17:53
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -317,7 +357,7 @@ RT by @elonmusk: This is literally sci-fi 😍
 
 ## 2026-08-06 22:24:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,7 +367,7 @@ RT by @elonmusk: Elon Musk: “Path to Petawatts is Mass drivers on Moon” Spac
 
 ## 2026-08-06 22:50:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -337,7 +377,7 @@ Terafab Texas will be the largest and most valuable building on Earth by far. An
 
 ## 2026-08-06 23:02:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -347,7 +387,7 @@ Yes
 
 ## 2026-08-06 23:02:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +397,7 @@ Terafab
 
 ## 2026-08-06 23:04:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -367,7 +407,7 @@ RT by @elonmusk: Futuristic scene with RoboVan + Cybercab + Tesla Semi + Optimus
 
 ## 2026-08-06 23:06:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -377,7 +417,7 @@ Sci-fi city is what we’re aiming for
 
 ## 2026-08-06 23:09:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -387,7 +427,7 @@ RT by @elonmusk: Speed-Running Star Trek
 
 ## 2026-08-06 23:24:30
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -395,9 +435,23 @@ RT by @elonmusk: You’re right, but one step at a time. Next step is extending 
 
 ---
 
+## 2026-08-06 23:40:52
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk is literally turning science fiction into reality
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ82p1K_qNo2NYuflGz-oxjMkjJMPEAALGEGsbOAmoV-J0Z_OGJBIDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2085390660006494506#m)
+
+---
+
 ## 2026-08-06 23:41:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
