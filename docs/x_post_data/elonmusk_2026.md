@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1921 条推文
+> 📊 推文存档 - 共 1933 条推文
 
 ---
 
@@ -141,6 +141,20 @@ Video
 
 ---
 
+## 2026-08-08 11:30:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Announcing Imagine Image 2.0, our next generation image model with precision editing, crisp text rendering, improved factuality, and real world usefulness. Image 2.0 helps you make images for real work. https://x.ai/news/grok-imagine-image-2
+
+<img src="/images/elonmusk/card_img_2086061037300645888_jq30o8cg3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/grok/status/2085931542262526102#m)
+
+---
+
 ## 2026-08-08 11:54:50
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -161,6 +175,20 @@ Video
 
 ---
 
+## 2026-08-08 12:08:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Imagine image 2.0, non-agentic yet, more to come in a week or two 💙
+
+<img src="/images/elonmusk/card_img_2086061037300645888_jq30o8cg3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/hexiang/status/2085941279129780668#m)
+
+---
+
 ## 2026-08-08 13:01:00
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -169,9 +197,137 @@ Video
 
 RT by @elonmusk: A 17-year-old African student has been charged and placed in pretrial detention after attacking three women near the Villiers-sur-Marne train station, east of Paris, between June 17 and July 23. The first victim, 26, was attacked while walking home after traveling from Paris. Police later recovered DNA from her clothing. A month later, a 29-year-old woman was attacked in the same area. She had activated her phone’s audio recorder after becoming suspicious, and a nearby resident’s intervention caused the assailant to flee. Police then deployed officers around the station. They followed the suspect as he approached women and arrested him after he attacked a third woman, 31, with a knife. Investigators say the teenager admitted the three attacks during questioning and mentioned another possible victim from early June.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKH2p3PnGiWvY9wbM-VYUHYlnkJu9vAAIGFWsbgi25V2QtNDc40XWaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/visegrad24/status/2085954406822854988#m)
+## 2026-08-08 13:32:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Terafab x Blade Runner vibe by @imagine 2.0
+
+<img src="/images/elonmusk/amplify_video_thumb_2085961954146025472_img_GSlMo3_BCLOufuOi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/yunta_tsai/status/2085962259457872245#m)
+
+---
+
+## 2026-08-08 20:46:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: True. When I would take my kids to a shopping mall and Elon disappeared, I just needed to find the nearest bookstore. He would be sitting on the floor reading.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKIGp3VD9R3z4guiNC9k1jVqk2j6txAAJSFWsbgi25V1iVA1sxq1R8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mayemusk/status/2086071455423381914#m)
+
+---
+
+## 2026-08-08 22:57:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hitler was a left-wing socialist
+
+[查看原文](https://nitter.net/elonmusk/status/2086104561555583102#m)
+
+---
+
+## 2026-08-08 23:02:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dvorahfr: Examples of different Grok Imagine styles
+
+<img src="/images/elonmusk/amplify_video_thumb_2085744740465598465_img_MJBBXJXXGpKXTIwi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086105882786497005#m)
+
+---
+
+## 2026-08-08 23:04:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKIWp3VEesG1EGoWlagnL9tcMvbrZXAAJTFWsbgi25V5LlRco7SgVeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086106351722238304#m)
+
+---
+
+## 2026-08-08 23:19:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2086110038058246241#m)
+
+---
+
+## 2026-08-08 23:22:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2086110723239747584#m)
+
+---
+
+## 2026-08-08 23:24:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Why does Twitch have this double-standard?
+
+<img src="/images/elonmusk/amplify_video_thumb_2085813785692872704_img_6XPFDag2vlaTmd2X.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086111385449095456#m)
+
+---
+
+## 2026-08-08 23:40:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine image editing is greatly improved
+
+<img src="/images/elonmusk/amplify_video_thumb_2086114212825399296_img_-8m1JUC1pslQWRJe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086115414459719806#m)
+
+---
+
+## 2026-08-08 23:53:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+💯
+
+[查看原文](https://nitter.net/elonmusk/status/2086118514935345175#m)
 
 ---
 
