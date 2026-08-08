@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1914 条推文
+> 📊 推文存档 - 共 1919 条推文
 
 ---
 
@@ -89,10 +89,6 @@ Same thing seems to be happening with TV shows and video games
 
 RT by @elonmusk: Use /connect-grok to use an X Premium or SuperGrok subscription with Warp
 
-<img src="/images/elonmusk/amplify_video_thumb_2085813525662900224_img_YdhKXZjrKl5TzesK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceXAI/status/2085814657223209290#m)
-
 ---
 
 ## 2026-08-08 05:09:13
@@ -102,10 +98,6 @@ RT by @elonmusk: Use /connect-grok to use an X Premium or SuperGrok subscription
 **内容**:
 
 RT by @elonmusk: Today, we’re launching Original Content Rewards. The reality is that Revenue Sharing had reached a point where its incentives were misaligned. Creators should be focused on bringing net new content to the platform instead of maximizing payouts. We could have kept adding more rules and exceptions, but ultimately the better decision was to start fresh and build a program designed from day one to reward originality. Original Content Rewards is the result. This program is built around a simple idea: reward the creators who bring original ideas, expertise, creativity, and unique perspectives to 𝕏 -- not those who have become best at gaming the system. This is just the beginning. We’ll continue refining the program, improving our models, and raising the bar over time. But we’re so excited to keep investing in the creators who inform us, entertain us, make us laugh, teach us something new, and drive meaningful conversations on 𝕏 every day. To everyone who creates original content on 𝕏 and makes this a better platform every day: thank you. We’re excited to keep building for you.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKHGp2gYssPuriJF7S8Os03NFatFT8AAL9F2sbgi2xVwXYQdIXjxg6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/allegrajacchia/status/2085835677917221171#m)
 
 ---
 
@@ -117,9 +109,73 @@ RT by @elonmusk: Today, we’re launching Original Content Rewards. The reality 
 
 RT by @elonmusk: did you know Grok is the only AI you can also use as a verb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKGmp2gYLTBlPk1oJPO_aX7wwbe964AAL7F2sbgi2xV4Cm2kUSmhWGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/KettlebellDan/status/2085878569033715983#m)
+## 2026-08-08 08:46:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Texas continues to lead the way in chip innovation & advanced manufacturing.   @SpaceX & @Tesla’s new semiconductor fabrication facility in Grimes County has the potential to create thousands of jobs for Texans, strengthen America’s semiconductor and AI industry supply chains, & help bring critical chip manufacturing back home.    @SpaceX & @Tesla have also committed to invest millions of dollars in the local community and schools, and I look forward to seeing the benefits to Grimes County grow in the future.
+
+<img src="/images/elonmusk/amplify_video_thumb_2085361439267491840_img_hKoDHwGl-6I7_m6o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JohnCornyn/status/2085890347301843344#m)
+
+---
+
+## 2026-08-08 11:09:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @libsoftiktok: This guy went around Charlotte filming himself attacking white women for fun You probably won’t see this story in the le…
+
+[查看原文](https://nitter.net/elonmusk/status/2085926313118794087#m)
+
+---
+
+## 2026-08-08 11:10:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2085717310547849216_img_gxrTRTX-1aVTgYQl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085926590962164126#m)
+
+---
+
+## 2026-08-08 11:54:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2085070731512033281_img_XAkxYvwjNm50gGpn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085937755062685951#m)
+
+---
+
+## 2026-08-08 12:04:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2085727738267115520_img_fLTmjZihC2S1jUVr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2085940169245356114#m)
 
 ---
 
