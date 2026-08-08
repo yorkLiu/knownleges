@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1910 条推文
+> 📊 推文存档 - 共 1914 条推文
 
 ---
 
@@ -29,10 +29,6 @@ Inevitable
 
 RT by @elonmusk: 👀
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKEmp2QDRjWbk-X_iqY_eDzFhbiztfAALMF2sbgi2xV1Zl66kGdWl2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/jgebbia/status/2085792011278262467#m)
-
 ---
 
 ## 2026-08-08 02:36:40
@@ -42,10 +38,6 @@ RT by @elonmusk: 👀
 **内容**:
 
 Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to come to work!
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKE2p2QDivsoSqxhFHC8CNlAnPVcpgAALNF2sbgi2xV0WLMMku2E6PAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085797287343587511#m)
 
 ---
 
@@ -57,10 +49,6 @@ Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to 
 
 We’re working on making Grok Build super easy to use for non-technical people
 
-<img src="/images/elonmusk/card_img_2085599089140621312_wOygNmjS3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085799495808204931#m)
-
 ---
 
 ## 2026-08-08 02:48:32
@@ -70,8 +58,6 @@ We’re working on making Grok Build super easy to use for non-technical people
 **内容**:
 
 True
-
-[查看原文](https://nitter.net/elonmusk/status/2085800273004335278#m)
 
 ---
 
@@ -83,10 +69,6 @@ True
 
 More trans violence
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKEWp2QC9wQG1xDwAB6aTuG_0v65GhdwACyxdrG4ItsVe7c1wEwWMyMgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085802506211197098#m)
-
 ---
 
 ## 2026-08-08 02:58:59
@@ -97,13 +79,53 @@ More trans violence
 
 Same thing seems to be happening with TV shows and video games
 
-[查看原文](https://nitter.net/elonmusk/status/2085802906674930019#m)
+---
+
+## 2026-08-08 03:45:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Use /connect-grok to use an X Premium or SuperGrok subscription with Warp
+
+<img src="/images/elonmusk/amplify_video_thumb_2085813525662900224_img_YdhKXZjrKl5TzesK.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceXAI/status/2085814657223209290#m)
+
+---
+
+## 2026-08-08 05:09:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Today, we’re launching Original Content Rewards. The reality is that Revenue Sharing had reached a point where its incentives were misaligned. Creators should be focused on bringing net new content to the platform instead of maximizing payouts. We could have kept adding more rules and exceptions, but ultimately the better decision was to start fresh and build a program designed from day one to reward originality. Original Content Rewards is the result. This program is built around a simple idea: reward the creators who bring original ideas, expertise, creativity, and unique perspectives to 𝕏 -- not those who have become best at gaming the system. This is just the beginning. We’ll continue refining the program, improving our models, and raising the bar over time. But we’re so excited to keep investing in the creators who inform us, entertain us, make us laugh, teach us something new, and drive meaningful conversations on 𝕏 every day. To everyone who creates original content on 𝕏 and makes this a better platform every day: thank you. We’re excited to keep building for you.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKHGp2gYssPuriJF7S8Os03NFatFT8AAL9F2sbgi2xVwXYQdIXjxg6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/allegrajacchia/status/2085835677917221171#m)
+
+---
+
+## 2026-08-08 07:59:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: did you know Grok is the only AI you can also use as a verb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKGmp2gYLTBlPk1oJPO_aX7wwbe964AAL7F2sbgi2xV4Cm2kUSmhWGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/KettlebellDan/status/2085878569033715983#m)
 
 ---
 
 ## 2026-08-07 00:00:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -113,7 +135,7 @@ RT by @elonmusk: Precisely a 420 mile drive to Starbase, as foretold in the prop
 
 ## 2026-08-07 00:04:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -123,7 +145,7 @@ RT by @elonmusk: Our goal is for no Tesla battery to end up in a landfill. Acros
 
 ## 2026-08-07 04:13:20
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -133,7 +155,7 @@ RT by @elonmusk: 🚨BREAKING: RED CROSS DELETES VIDEO AFTER MIGRANT MURDERS BRI
 
 ## 2026-08-07 05:04:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -143,7 +165,7 @@ Whether or not an airline has Starlink will be a deciding factor for consumer ch
 
 ## 2026-08-07 06:24:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -153,7 +175,7 @@ RT by @elonmusk: STARLINK: SpaceX plans to build its terrestrial cellular networ
 
 ## 2026-08-07 06:39:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -163,7 +185,7 @@ RT by @elonmusk: In case you need a reminder of the INSANE scale and AMBITION of
 
 ## 2026-08-07 07:34:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -173,7 +195,7 @@ Starlink
 
 ## 2026-08-07 07:36:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -183,7 +205,7 @@ Easy to tell who the bad guys are by looking at who has to build a wall to keep 
 
 ## 2026-08-07 07:37:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -193,23 +215,17 @@ It will be awesome 😎
 
 ## 2026-08-07 08:31:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: CHARLOTTE RESIDENTS, BEWARE Diquan Shafar Hunt (14 prior arrests) is on the loose, filming himself attacking white women Please spread this info
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKFGp2QDsAAddaAkwlL4rmWMFGkE_K8QACzhdrG4ItsVdLpUOuB7g5NAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKFWp2QD6jBmBZXtilRV9_Yh-cMq3fAALPF2sbgi2xV3AeZmJg1xP9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EndWokeness/status/2085524315001212936#m)
-
 ---
 
 ## 2026-08-07 08:50:23
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -219,7 +235,7 @@ RT by @elonmusk: Banana for scale. Relative to the Terafab the banana is basical
 
 ## 2026-08-07 08:50:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -229,7 +245,7 @@ RT by @elonmusk: Dear Europe: It's Not Racist to Have A Rational Immigration Pol
 
 ## 2026-08-07 08:58:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -239,7 +255,7 @@ Terafab will be 50 times the size of the Pentagon when complete
 
 ## 2026-08-07 13:12:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,9 +263,23 @@ Grok Build V1.0 is now released. Try it out! http://X.ai/build
 
 ---
 
+## 2026-08-07 21:05:40
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: I am unsure how much longer I can keep posting these stories. It is soul-crushing.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKG2p2gYj9cZQ57c_SEBhbnjgxgriwAAL8F2sbgi2xV15Ql8CNKhUmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GadSaad/status/2085713988583592009#m)
+
+---
+
 ## 2026-08-07 22:30:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -259,7 +289,7 @@ Try Grok Build http://X.ai/build
 
 ## 2026-08-07 22:30:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -269,7 +299,7 @@ Video
 
 ## 2026-08-07 22:38:52
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -279,15 +309,11 @@ It really is this amazing
 
 ## 2026-08-07 23:46:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Oh my goodness.
-
-<img src="/images/elonmusk/amplify_video_thumb_2085647419824300032_img_dvkqixis-96D_zjV.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/GadSaad/status/2085754530864439636#m)
 
 ---
 
