@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1942 条推文
+> 📊 推文存档 - 共 1943 条推文
 
 ---
 
@@ -39,10 +39,6 @@ Try it out!
 
 RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1qxoNNApQWyJv
 
-<img src="/images/elonmusk/card_img_2086196020711469056_WP65QU883Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2086127049886838936#m)
-
 ---
 
 ## 2026-08-09 00:27:48
@@ -63,10 +59,6 @@ Major upgrade to Grok Imagine image editing
 
 Try version of Grok image editing
 
-<img src="/images/elonmusk/amplify_video_thumb_2086142475677081600_img_u2CC5QGD-jU7Y3QQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086193242232537208#m)
-
 ---
 
 ## 2026-08-09 04:51:25
@@ -77,9 +69,19 @@ Try version of Grok image editing
 
 Having Starlink on a long flight is a gamechanger in productivity
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKKGp3nOlajnSwdQ6zFk8hothNpj0IAAJRE2sbRszAV9ALebk8u_QmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2086193585880195297#m)
+## 2026-08-09 06:39:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Boring upgrades
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKKWp3srXGWdgPKwv5eUqbxxzzI9mkAAJWE2sbRszAV9Bjp4FhKUIKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086220716286845039#m)
 
 ---
 
