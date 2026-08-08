@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 309 条推文
+> 📊 推文存档 - 共 310 条推文
 
 ---
 
@@ -19,17 +19,19 @@ tags: ["2026"]
 
 gate真是说一套做一套，拖了这么多天gate都不给jc提供之前声称保存的手持视频和后台操作日志。 之前立案前口口声声催用户赶紧立案然后全力配合……恶心呐
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKDGp2QBtY1kuJdokcM2baXdwWM93DAALGF2sbgi2xVx8t91i3ZBRHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKDWp2QB_CWK_pdVA4vZPx67lS1BQnAALHF2sbgi2xV_WGomiLGzhHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-08 13:20:37
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKDmp2QCNrYVtSVT0Y3mNqHeZ7zbeZAALIF2sbgi2xV8-hkEHniP13AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKD2p2QCcFOw5b-4Z-rx6gjDyOwblIAALJF2sbgi2xV-7yo83R5ox9AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKEGp2QCtBnkIbTCB_LCKi8NAIWoXzAALKF2sbgi2xV4niH9-efY24AQADAgADeQADPQQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+现在局面比较诡异， 谷歌微软他们公司债推高了美债的利息， 即使不加息，债券市场也跟加息没区别。 美国这些产业数据大概率应该是为了稳住市场瞎编的。 美债规模最近也上来40万亿美金， 如此高的长期美债利息以及kimi和deepseek对美国AI的追赶降价打击让人对美元在未来的信誉有了不确定性。 同时7月科技持续暴跌导致资金对市场的避险需求催生了最近一个月老登资产和黄金白银的触底反弹。
 
-[查看原文](https://nitter.net/xiaomustock/status/2085819915202949219#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKHWp2wuhN55W4rmVdjSV6QvIz2iKmAAL1Emsbgi25V-DqKMKUoidzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2085959345200591001#m)
 
 ---
 
