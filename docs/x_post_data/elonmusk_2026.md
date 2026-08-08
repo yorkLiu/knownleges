@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1939 条推文
+> 📊 推文存档 - 共 1942 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 Yes
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKJmp3YtfHplyX5JVMtkmYeumXIS5RAAJgFWsbgi25V0Ndt3W1emVqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086125534812012877#m)
-
 ---
 
 ## 2026-08-09 00:25:33
@@ -33,9 +29,19 @@ Yes
 
 Try it out!
 
-<img src="/images/elonmusk/amplify_video_thumb_2085953483375874048_img_m6TUBxmVVwzr35hP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2086126679248740517#m)
+## 2026-08-09 00:27:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1qxoNNApQWyJv
+
+<img src="/images/elonmusk/card_img_2086196020711469056_WP65QU883Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2086127049886838936#m)
 
 ---
 
@@ -47,13 +53,33 @@ Try it out!
 
 Major upgrade to Grok Imagine image editing
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKImp3YshEyWO6gciE6Hh9VPbH_KtbAAJcFWsbgi25V9KyJmkoMfsuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKI2p3Ysz2V50Bk4LsgIX4f80qS54IAAJdFWsbgi25VxSeND_InintAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-09 04:50:03
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKJGp3YtBOQNzh18W56VrodsV4lc6CAAJeFWsbgi25V7gbuFqzlUrtAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/elonmusk/status/2086127247077843282#m)
+**内容**:
+
+Try version of Grok image editing
+
+<img src="/images/elonmusk/amplify_video_thumb_2086142475677081600_img_u2CC5QGD-jU7Y3QQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086193242232537208#m)
+
+---
+
+## 2026-08-09 04:51:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Having Starlink on a long flight is a gamechanger in productivity
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKKGp3nOlajnSwdQ6zFk8hothNpj0IAAJRE2sbRszAV9ALebk8u_QmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086193585880195297#m)
 
 ---
 
