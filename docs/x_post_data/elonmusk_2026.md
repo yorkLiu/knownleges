@@ -7,7 +7,53 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1933 条推文
+> 📊 推文存档 - 共 1938 条推文
+
+---
+
+## 2026-08-09 00:21:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKJmp3YtfHplyX5JVMtkmYeumXIS5RAAJgFWsbgi25V0Ndt3W1emVqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086125534812012877#m)
+
+---
+
+## 2026-08-09 00:25:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try it out!
+
+<img src="/images/elonmusk/amplify_video_thumb_2085953483375874048_img_m6TUBxmVVwzr35hP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086126679248740517#m)
+
+---
+
+## 2026-08-09 00:27:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Major upgrade to Grok Imagine image editing
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKImp3YshEyWO6gciE6Hh9VPbH_KtbAAJcFWsbgi25V9KyJmkoMfsuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKI2p3Ysz2V50Bk4LsgIX4f80qS54IAAJdFWsbgi25VxSeND_InintAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKJGp3YtBOQNzh18W56VrodsV4lc6CAAJeFWsbgi25V7gbuFqzlUrtAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086127247077843282#m)
 
 ---
 
@@ -101,6 +147,20 @@ RT by @elonmusk: Today, we’re launching Original Content Rewards. The reality 
 
 ---
 
+## 2026-08-08 05:28:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: ELON MUSK: “In order to ascend the Kardashev scale, in order to get to any meaningful percentage of the sun's energy harness, you have to go to space. If you want to get to, say, a millionth of the power output of the sun, you would have to increase civilizational energy harness by much more than a millionth. We currently use much less than a trillionth of the power output of the sun. And a trillion is a million times a million. So basically, we're basically practically nowhere on the Kardashev 2 scale.”
+
+<img src="/images/elonmusk/amplify_video_thumb_2085840398702788608_img_-SUMIJOiNoBvgaRN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/DimaZeniuk/status/2085840429522555221#m)
+
+---
+
 ## 2026-08-08 07:59:39
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -149,10 +209,6 @@ Video
 
 RT by @elonmusk: Announcing Imagine Image 2.0, our next generation image model with precision editing, crisp text rendering, improved factuality, and real world usefulness. Image 2.0 helps you make images for real work. https://x.ai/news/grok-imagine-image-2
 
-<img src="/images/elonmusk/card_img_2086061037300645888_jq30o8cg3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/grok/status/2085931542262526102#m)
-
 ---
 
 ## 2026-08-08 11:54:50
@@ -183,10 +239,6 @@ Video
 
 RT by @elonmusk: Imagine image 2.0, non-agentic yet, more to come in a week or two 💙
 
-<img src="/images/elonmusk/card_img_2086061037300645888_jq30o8cg3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/hexiang/status/2085941279129780668#m)
-
 ---
 
 ## 2026-08-08 13:01:00
@@ -207,10 +259,6 @@ RT by @elonmusk: A 17-year-old African student has been charged and placed in pr
 
 RT by @elonmusk: Terafab x Blade Runner vibe by @imagine 2.0
 
-<img src="/images/elonmusk/amplify_video_thumb_2085961954146025472_img_GSlMo3_BCLOufuOi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/yunta_tsai/status/2085962259457872245#m)
-
 ---
 
 ## 2026-08-08 20:46:06
@@ -220,10 +268,6 @@ RT by @elonmusk: Terafab x Blade Runner vibe by @imagine 2.0
 **内容**:
 
 RT by @elonmusk: True. When I would take my kids to a shopping mall and Elon disappeared, I just needed to find the nearest bookstore. He would be sitting on the floor reading.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKIGp3VD9R3z4guiNC9k1jVqk2j6txAAJSFWsbgi25V1iVA1sxq1R8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mayemusk/status/2086071455423381914#m)
 
 ---
 
@@ -235,8 +279,6 @@ RT by @elonmusk: True. When I would take my kids to a shopping mall and Elon dis
 
 Hitler was a left-wing socialist
 
-[查看原文](https://nitter.net/elonmusk/status/2086104561555583102#m)
-
 ---
 
 ## 2026-08-08 23:02:55
@@ -246,10 +288,6 @@ Hitler was a left-wing socialist
 **内容**:
 
 RT @dvorahfr: Examples of different Grok Imagine styles
-
-<img src="/images/elonmusk/amplify_video_thumb_2085744740465598465_img_MJBBXJXXGpKXTIwi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086105882786497005#m)
 
 ---
 
@@ -261,10 +299,6 @@ RT @dvorahfr: Examples of different Grok Imagine styles
 
 Wow
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKIWp3VEesG1EGoWlagnL9tcMvbrZXAAJTFWsbgi25V5LlRco7SgVeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086106351722238304#m)
-
 ---
 
 ## 2026-08-08 23:19:25
@@ -274,8 +308,6 @@ Wow
 **内容**:
 
 True
-
-[查看原文](https://nitter.net/elonmusk/status/2086110038058246241#m)
 
 ---
 
@@ -287,8 +319,6 @@ True
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2086110723239747584#m)
-
 ---
 
 ## 2026-08-08 23:24:47
@@ -298,10 +328,6 @@ True
 **内容**:
 
 Why does Twitch have this double-standard?
-
-<img src="/images/elonmusk/amplify_video_thumb_2085813785692872704_img_6XPFDag2vlaTmd2X.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086111385449095456#m)
 
 ---
 
@@ -313,10 +339,6 @@ Why does Twitch have this double-standard?
 
 Grok Imagine image editing is greatly improved
 
-<img src="/images/elonmusk/amplify_video_thumb_2086114212825399296_img_-8m1JUC1pslQWRJe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086115414459719806#m)
-
 ---
 
 ## 2026-08-08 23:53:06
@@ -326,8 +348,6 @@ Grok Imagine image editing is greatly improved
 **内容**:
 
 💯
-
-[查看原文](https://nitter.net/elonmusk/status/2086118514935345175#m)
 
 ---
 
@@ -3837,255 +3857,441 @@ RT by @elonmusk: Glad to join this important alliance to advance AI security acr
 
 ---
 
+## 2026-07-26 00:39:10
+
+**内容**:
+
+RT by @elonmusk: In the spirit of transparency, here’s what I asked @OpenAI: • Radical transparency: let’s release the traces from the “rogue” agents so the entire research community can study what happened. • More capabilities for defenders: let’s commit $100M in compute from OAI to help the Hugging Face community build powerful cyber defenses with the best open and closed models. The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKJWp3YtW38zxNiAbb7Tjev_enS5DpAAJfFWsbgi25VxO-pujMEKqRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ClementDelangue/status/2081056675558195657#m)
+
+---
+
 ## 2026-07-26 02:47:17
 
+**内容**:
 
-RT by @elonmusk: Liftoff of Starship on its thirteenth flight test
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII0mplCUmZ76F4a1vEKlRDvF8FskluAAL-EWsbze4pV1sTzb-ccf3RAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII02plCU1akycgHfEEHuww7ymbKTBuAAL_EWsbze4pVycmj1vHqmLlAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII1GplCVG8eQRS5C9WuiNvtcDYOurUAAMSaxvN7ilXErndkmuDJj0BAAMCAAN5AAM9BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII1WplCVTt4iZHy6n9vwvHF0PyXxWsAAIBEmsbze4pV29lDbsto--cAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2081088918703759549#m)
 
 ---
 
 ## 2026-07-26 03:19:11
 
+**内容**:
 
-Video
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081090484118679552_img_dlgUrhPmwJX0lRTG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081096946953945509#m)
 
 ---
 
 ## 2026-07-26 03:22:11
 
+**内容**:
 
-Real photo of Starship taken by Starlink satellites
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2GplEJOp4On0NlbfgiKPd19dVG7zAAIIEmsbze4pV1hU7Jmigo3dAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081097702624952714#m)
 
 ---
 
 ## 2026-07-26 03:26:19
 
+**内容**:
 
-beautiful engineering
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII1mplEItRGJlFMtn5DWe9cXBn5RgBAAIGEmsbze4pV7utm6PYst1YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII12plEJB3LLE2iIwPB045FDyvAAFmMQACBxJrG83uKVdGC_jHbrdMygEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081098739104571671#m)
 
 ---
 
 ## 2026-07-26 04:37:55
 
+**内容**:
 
-The most powerful moving object ever created by humans
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081102071114149888_img_c-fJCdpghqpcVk0M.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081116761085100213#m)
 
 ---
 
 ## 2026-07-26 05:49:25
 
+**内容**:
 
-🔥💯
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2WplQ3HRoeblZEPvVT84K-M-IOhsAAI4Emsbze4pVxF8b0HDVxU1AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081134752225009879#m)
 
 ---
 
 ## 2026-07-26 05:50:32
 
+**内容**:
 
-Cool
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2080793159752183808_img_34yf4AlgvYt2jbgQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081135033352347783#m)
 
 ---
 
 ## 2026-07-26 05:55:40
 
+**内容**:
 
-Video
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081113104776142849_img_gghB5XMbzdqretl1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081136328004063352#m)
 
 ---
 
 ## 2026-07-26 06:18:05
 
+**内容**:
 
-RT by @elonmusk: Peter is not correct about me in this case. I have always known that dangers from Earth will also pose dangers to Mars. Obviously so. However, the immense difficulty of traveling to Mars means that there is a much higher likelihood of mitigating risks originating from Earth. A clear example of major risk reduction would be a deadly pandemic. Since it takes 6 months to reach Mars, there is an automatic 6 month quarantine! Even traveling at the speed of light, a deadly computer virus or AI attack can potentially be stopped due to Mars being ~4 to ~20 light-minutes from Earth. This doesn’t mean that a Mars civilization eliminates all risk, but it absolutely greatly reduces the risk of consciousness being extinguished. Moreover, Mars is a stepping stone to extending consciousness broadly within our solar system and ultimately to millions of stars within our galaxy, which would extend the probable lifespan of consciousness as we know it by many orders of magnitude. That said, what I personally find most motivating is not the risk reduction aspect of extending life beyond Earth, but rather the inspiring nature of exploration and being out there among the stars! Perhaps we will meet aliens or find the remains of long-dead civilizations that lasted millions of years …
+
+
+[查看原文](https://nitter.net/elonmusk/status/2081141965651898709#m)
 
 ---
 
 ## 2026-07-26 06:24:32
 
+**内容**:
 
-Asimov’s Foundation series was a major influence on me. That and the fall of Rome, from which Foundation takes inspiration, is what convinced me that we need to extend consciousness beyond Earth to avoid a potentially infinite dark age.
+
+
+[查看原文](https://nitter.net/elonmusk/status/2081143591615742236#m)
 
 ---
 
 ## 2026-07-26 06:34:01
 
+**内容**:
 
-RT by @elonmusk: ELON MUSK: “One of the things that is overlooked by probably most historians is the role of low birth rate in the decline of civilizations. Around 50 BC, Rome passed a bill to give a bonus to any Roman citizen that would have a third child. So a birth rate was a problem in Rome in 50 BC. The Romans weren’t making Romans. The same is true of ancient Greece. The birth rate far exceeded the death rate, which is why you had Greek cities popping up all over the Mediterranean. But then it seems to be that prosperity destroys the birth rate. When a civilization feels like it has no meaningful external threat and is very prosperous, that is what causes the birth rate to plummet.”
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081145864102502400_img_p_X-LMdnvFj-7Rm7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2081145977243856918#m)
 
 ---
 
 ## 2026-07-26 06:37:39
 
+**内容**:
 
-Exactly. Incentives explain outcomes.
+
+
+[查看原文](https://nitter.net/elonmusk/status/2081146893048959338#m)
 
 ---
 
 ## 2026-07-26 06:50:40
 
+**内容**:
 
-True
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081149677232078848_img_fLTSdd1GJD3sad3s.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081150165902061619#m)
 
 ---
 
 ## 2026-07-26 06:54:12
 
+**内容**:
 
-Good analysis
+
+
+<img src="/images/elonmusk/card_img_2081068240684388352_nPRoGUkY3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081151056872951842#m)
 
 ---
 
 ## 2026-07-26 06:58:50
 
+**内容**:
 
-They are invading just as surely as a conventional army would, but slow enough to avoid triggering an armed defense by Britain
+
+
+[查看原文](https://nitter.net/elonmusk/status/2081152222121869635#m)
 
 ---
 
 ## 2026-07-26 07:06:02
 
+**内容**:
 
-Any civilization that loses faith in the future will die. Exploring the stars is an exciting future that you can believe in.
+
+
+[查看原文](https://nitter.net/elonmusk/status/2081154036338692413#m)
 
 ---
 
 ## 2026-07-26 07:25:54
 
+**内容**:
 
-Yesterday’s Starship launch
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081155453590126592_img_5zIaIOC0URWnaPxq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081159033461895500#m)
 
 ---
 
 ## 2026-07-26 07:35:42
 
+**内容**:
 
-A low birth rate due to extended periods of prosperity and low perceived external danger is the primary reason that Rome and most other powerful civilizations collapsed. Rome had a very high birth rate when under extreme pressure from Carthage and a low birth rate a few generations after Carthage, their last serious threat, was finally destroyed.
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081094583706963968_img_tzo3FS7yyaMDPCpt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081161498588496106#m)
 
 ---
 
 ## 2026-07-26 07:38:24
 
+**内容**:
 
-RT by @elonmusk: It’s counter intuitive, but birth rate falls when a civilization grows wealthy This is disastrous and has ended great civilizations We are not immune from this fate
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3GplfZJH_7EIz7WWLw1XpMeZBfuSAAJ6Emsbze4pV9ic9FXEJgIQAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArthurMacwaters/status/2081162179282391307#m)
 
 ---
 
 ## 2026-07-26 07:59:55
 
+**内容**:
 
-Hardcore
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2080936182167351296_img_ytbRHvdXn1VY8q67.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081167595164581923#m)
 
 ---
 
 ## 2026-07-26 08:06:25
 
+**内容**:
 
-Yup
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2080713336136601600_img_UfMXGJYuQigk-mr7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081169231656132647#m)
 
 ---
 
 ## 2026-07-26 08:09:16
 
+**内容**:
 
-Video
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081164698666340352_img_XhazIUU7iGduEPY9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081169947372184053#m)
 
 ---
 
 ## 2026-07-26 08:25:41
 
+**内容**:
 
-Download Grok Build and type /tutorial http://X.ai/cli
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081167775192715264_img_GxXORZHadMpi_hEw.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081174079969632347#m)
 
 ---
 
 ## 2026-07-26 08:44:38
 
+**内容**:
 
-RT by @elonmusk: Another trans person has been arrested over the m—rder of his parent. 36-year-old Safford James Wolfson, who identifies as female, was arrested on suspicion of the m—rder of Angela Caprioli. The 61-year-old woman was found dead at her home in Laguna Beach on July 20. The suspect formerly worked at Spin magazine, according to his Linkedin. He attended the private liberal arts college Pitzer College. Multiple trans people have been arrested over the m—rders of their parents in just the last couple of years. In extreme trans ideology, parricide — killing one's own mother or father — is often a recurring theme. In my research of the Zizian trans death cult, I found that its members believed strongly in m—rdering "transphobic" parents. They believed that's how they would get justice. More info about my book: https://www.hachettebookgroup.com/titles/andy-ngo/the-zizians/9780316599030/
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3WplfZj1924HZld-UEkvuM0ItG96AAJ7Emsbze4pV7e8JGcj67qTAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII3mplfZxpAAE4wJ5khGa_sKFS4qxSwQACfBJrG83uKVdCsGv8UjgTNwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII32plfZ_dFjCFAfxjnTMqvxphg3PMAAJ9Emsbze4pVxT46zPCn24oAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII4GplfaN3DeS_Rq329H8ksye6WLpbAAJ-Emsbze4pV5b-gRTui3-HAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MrAndyNgo/status/2081178849455276484#m)
 
 ---
 
 ## 2026-07-26 10:18:53
 
+**内容**:
 
-You can just talk to Grok Build
+
+
+[查看原文](https://nitter.net/elonmusk/status/2081202568282169661#m)
 
 ---
 
 ## 2026-07-26 10:26:15
 
+**内容**:
 
-Great video of Starship launching
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081187613160148992_img_mjd0OwRccYAi8ihE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081204422281949372#m)
 
 ---
 
 ## 2026-07-26 10:49:42
 
+**内容**:
 
-It’s time.
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII22plfY2dvqSfoLK84u-O-xYWWu_qAAJ5Emsbze4pVw94jvUSHECGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081210321050435990#m)
 
 ---
 
 ## 2026-07-26 11:16:22
 
+**内容**:
 
-Video
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2080885823449280512_img_3bjXxGgn7xhj4S5C.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081217033543286834#m)
 
 ---
 
 ## 2026-07-26 11:18:00
 
+**内容**:
 
-/dream
+
+
+[查看原文](https://nitter.net/elonmusk/status/2081217444186554672#m)
 
 ---
 
 ## 2026-07-26 11:21:43
 
+**内容**:
 
-Video
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2079982135394631680_img_za1-E0sbaDsYPIsp.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081218380321714381#m)
 
 ---
 
 ## 2026-07-26 11:25:03
 
+**内容**:
 
-Grok Imagine
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2021386326168195072_img_S71K7stqe8zzV0AA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2081219220415652110#m)
 
 ---
 
 ## 2026-07-26 11:49:00
 
+**内容**:
 
-RT by @elonmusk: The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen. William Gibson typed Neuromancer on a 1927 Hermes portable. He coined "cyberspace" before he'd ever logged onto anything. The book swept the Hugo, the Nebula, and the Philip K. Dick award in the same year, the only novel ever to take all three. Then Hollywood spent four decades strip-mining it while calling it unfilmable. The Wachowskis lifted the matrix, the jacked-in hackers, the AI pulling strings behind a corporate veil. Every razor-girl assassin in sci-fi traces back to Molly. Johnny Mnemonic, an actual Gibson adaptation, flopped so hard in 1995 that studios treated his work as radioactive for a generation. At least five directors attached and detached over the years. Chris Cunningham in 2000. Vincenzo Natali in 2010. Tim Miller at Fox in 2017. Each attempt died the same death. By the time the technology existed to film Neuromancer, audiences had watched its ideas in a dozen movies that borrowed them first. The original became unfilmable because it looked like a copy of its own copies. Now the timing loops back on itself. A story about a rogue AI maneuvering to escape its corporate constraints, written before the web existed, lands in January 2027 as the least speculative thing on television. And one detail makes the whole arc perfect. When Neuromancer royalties came in, Gibson bought his first computer, an Apple IIc. Four decades later, Apple is the company putting his book on screen.
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII5GpmSQZBMGxSSwYx6UO0vNfih45RAALBFWsbnVMxVzE9cb8uXAGyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aakashgupta/status/2081225245286154631#m)
 
 ---
 
 ## 2026-07-26 12:15:37
 
+**内容**:
 
-RT by @elonmusk: Many engineers in my teams find the power of /voice in Grok Build. They keep brain-dumping their ideas. Combining it with /dream, /recap and /create-workflow after a long session makes it very powerful. You don’t need to remember those slash commands (I don’t either); just talk through it.
+
+
+[查看原文](https://nitter.net/yunta_tsai/status/2081231945904873876#m)
 
 ---
 
 ## 2026-07-26 12:25:52
 
+**内容**:
 
-RT by @elonmusk: Blade Runner 2026
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII42pmK_UbQnmrBh17qRF0fwXMUFUSAAJ_FWsbnVMxV1O408hhiaMmAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Jason/status/2081234523971555829#m)
 
 ---
 
 ## 2026-07-26 12:57:15
 
+**内容**:
 
-RT by @elonmusk: Elon’s not wrong, much of the mainstream media is hated. Also, the left has ran so far left that they now call normal things far right.
+
+
+<img src="/images/elonmusk/amplify_video_thumb_2081242363695976448_img_kavTqSdFdas_L8nH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/the_jefferymead/status/2081242421447344449#m)
 
 ---
 
 ## 2026-07-26 16:32:08
 
+**内容**:
 
-RT by @elonmusk: Tribute to VLOP
+
 
 <img src="/images/elonmusk/amplify_video_thumb_2081296464894939136_img_BUuW-VfWiRHZOO1S.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
@@ -4095,8 +4301,13 @@ RT by @elonmusk: Tribute to VLOP
 
 ## 2026-07-26 19:45:22
 
+**内容**:
 
-RT by @elonmusk: It’s unreal. We are committing Civilizational Seppuku.
+
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIrmpjlrEzpyrlAU2vC24ZpxI7s_FtAAJyFmsbze4ZV25ivr07DuxbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GadSaad/status/2081345128732541137#m)
 
 ---
 
