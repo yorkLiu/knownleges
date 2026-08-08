@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 373 条推文
+> 📊 推文存档 - 共 374 条推文
+
+---
+
+## 2026-08-09 01:52:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes, I'm still bullish on memory like $MU / Samsung. As I said earlier, markets tend to rotate from bottleneck to bottleneck. This week it looks $AXTI to $LITE in the photonics sector is the focus again. The thing is... the primary thing that changed are the stock prices, followed by some narratives + updates sprinkled in here and there. For photonics: > We already knew $COHR / $LITE lasers were completely sold out for the next 2 years during July's drop. > We knew about demand imbalance from $AAOI from last quarter's earnings calls. Nothing deteriorated fundamentally during July's crash, other than listed price after liquidations. Yet tons of people called $AAOI a "scam" when it dropped to $75, or $AXTI a "scam" on its drop to $35... But are bullish again at $140 or $80, when the transciver/InP substrate bottleneck hasn't changed at all, but maybe even got worse... (eg. draft for US ban on new china optical transceivers, scale up demand projections) For Memory: I'm witnessing a lot of retail capitulation, but the same people I'm seeing were mega bullish after $MU signed 16 SCAs and gave exceptional projections a month ago. Or were celebrating Samsung having the highest operating profit in the world. There's updates here and there eg. Rubin Ultra with memory optimizations (which Nvidia strives for every generation), with prices no longer being hiked way above expectations to the extreme. But the operating income relative to MC is just absurd around current prices, especially memory becomes structural. And the demand imbalance should be even worse next year. People tend to capitulate and follow narratives when a sector drops (eg. Helium/LNG back in Iran war), even if the bottleneck or fundamental situation hasn't really changed much (eg. $SPCX Elon earnings call reiterating memory tightness). I can't tell others what to to do: But $AAOI at $140 and $AAOI at $75 are the same company. Samsung at a $1.5T MC and Samsung at a $980B MC are the same company. Just valuations and narratives (often noise) change, and markets rotate from sector to sector.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKJ2p3cVFls4wtUdgCrMVpDoGsRVwoAALJFWsbgi25V-c3_o5V3eadAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2086148557187461412#m)
 
 ---
 

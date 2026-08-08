@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1938 条推文
+> 📊 推文存档 - 共 1939 条推文
 
 ---
 
@@ -154,10 +154,6 @@ RT by @elonmusk: Today, we’re launching Original Content Rewards. The reality 
 **内容**:
 
 RT by @elonmusk: ELON MUSK: “In order to ascend the Kardashev scale, in order to get to any meaningful percentage of the sun's energy harness, you have to go to space. If you want to get to, say, a millionth of the power output of the sun, you would have to increase civilizational energy harness by much more than a millionth. We currently use much less than a trillionth of the power output of the sun. And a trillion is a million times a million. So basically, we're basically practically nowhere on the Kardashev 2 scale.”
-
-<img src="/images/elonmusk/amplify_video_thumb_2085840398702788608_img_-SUMIJOiNoBvgaRN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/DimaZeniuk/status/2085840429522555221#m)
 
 ---
 
@@ -318,6 +314,20 @@ True
 **内容**:
 
 True
+
+---
+
+## 2026-08-08 23:22:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: Terafab x Blade Runner vibe by @imagine 2.0
+
+<img src="/images/elonmusk/amplify_video_thumb_2085961954146025472_img_GSlMo3_BCLOufuOi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086110878965899436#m)
 
 ---
 
