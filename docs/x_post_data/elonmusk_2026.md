@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1919 条推文
+> 📊 推文存档 - 共 1921 条推文
 
 ---
 
@@ -119,10 +119,6 @@ RT by @elonmusk: did you know Grok is the only AI you can also use as a verb
 
 RT by @elonmusk: Texas continues to lead the way in chip innovation & advanced manufacturing.   @SpaceX & @Tesla’s new semiconductor fabrication facility in Grimes County has the potential to create thousands of jobs for Texans, strengthen America’s semiconductor and AI industry supply chains, & help bring critical chip manufacturing back home.    @SpaceX & @Tesla have also committed to invest millions of dollars in the local community and schools, and I look forward to seeing the benefits to Grimes County grow in the future.
 
-<img src="/images/elonmusk/amplify_video_thumb_2085361439267491840_img_hKoDHwGl-6I7_m6o.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JohnCornyn/status/2085890347301843344#m)
-
 ---
 
 ## 2026-08-08 11:09:22
@@ -132,8 +128,6 @@ RT by @elonmusk: Texas continues to lead the way in chip innovation & advanced m
 **内容**:
 
 RT @libsoftiktok: This guy went around Charlotte filming himself attacking white women for fun You probably won’t see this story in the le…
-
-[查看原文](https://nitter.net/elonmusk/status/2085926313118794087#m)
 
 ---
 
@@ -145,10 +139,6 @@ RT @libsoftiktok: This guy went around Charlotte filming himself attacking white
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2085717310547849216_img_gxrTRTX-1aVTgYQl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085926590962164126#m)
-
 ---
 
 ## 2026-08-08 11:54:50
@@ -158,10 +148,6 @@ Video
 **内容**:
 
 Video
-
-<img src="/images/elonmusk/amplify_video_thumb_2085070731512033281_img_XAkxYvwjNm50gGpn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2085937755062685951#m)
 
 ---
 
@@ -173,9 +159,19 @@ Video
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2085727738267115520_img_fLTmjZihC2S1jUVr.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2085940169245356114#m)
+## 2026-08-08 13:01:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A 17-year-old African student has been charged and placed in pretrial detention after attacking three women near the Villiers-sur-Marne train station, east of Paris, between June 17 and July 23. The first victim, 26, was attacked while walking home after traveling from Paris. Police later recovered DNA from her clothing. A month later, a 29-year-old woman was attacked in the same area. She had activated her phone’s audio recorder after becoming suspicious, and a nearby resident’s intervention caused the assailant to flee. Police then deployed officers around the station. They followed the suspect as he approached women and arrested him after he attacked a third woman, 31, with a knife. Investigators say the teenager admitted the three attacks during questioning and mentioned another possible victim from early June.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKH2p3PnGiWvY9wbM-VYUHYlnkJu9vAAIGFWsbgi25V2QtNDc40XWaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/visegrad24/status/2085954406822854988#m)
 
 ---
 
@@ -327,10 +323,6 @@ Grok Build V1.0 is now released. Try it out! http://X.ai/build
 
 RT by @elonmusk: I am unsure how much longer I can keep posting these stories. It is soul-crushing.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKG2p2gYj9cZQ57c_SEBhbnjgxgriwAAL8F2sbgi2xV15Ql8CNKhUmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/GadSaad/status/2085713988583592009#m)
-
 ---
 
 ## 2026-08-07 22:30:13
@@ -360,6 +352,18 @@ Video
 **内容**:
 
 It really is this amazing
+
+---
+
+## 2026-08-07 23:02:54
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Suicidal Empathy is spreading fast in the United States. I urge all American patriots to get involved in fighting for American freedoms and liberties. Please don't be apathetic. The loss of our civilization will not happen overnight but it will happen if good people do not stand up against the massive attempts to colonize and destroy the West (and the United States). Please wake up.
+
+[查看原文](https://nitter.net/GadSaad/status/2085743491334738340#m)
 
 ---
 
