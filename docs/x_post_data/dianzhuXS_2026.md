@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 297 条推文
+> 📊 推文存档 - 共 299 条推文
 
 ---
 
@@ -29,11 +29,31 @@ tags: ["2026"]
 
 就事論事 這次給河南人點個讚 但時間段正好趕上「丙午嚴打」 希望勇者能順利脫險吧
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKGGp2cvyvKK4usbTaLZoKSHD7FlQJAAL4F2sbgi2xVzycTTxWSPFEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKGWp2cwAB-ZhV8StAlelt-x9s2RkhxgAC-RdrG4ItsVc0UAOEqSSTNwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-08 20:11:15
 
-[查看原文](https://nitter.net/dianzhuXS/status/2085877624501612905#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【駁「蝦扯蛋」喜用神】https://open.substack.com/live-stream/312132?r=8moxkp&utm_medium=ios
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKHmp3IWKdfZBZi_7jFdex7Q7ml8ePAAJUFGsbgi25V2qm74_Uljd8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2086062683439432048#m)
+
+---
+
+## 2026-08-08 20:30:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【收徒開始】 現在開放「丙午八字免費收徒第八期報名」，肉身仍在中國大陸地區不收。 收徒要求：1.與本人價值觀一致 2.遠離黃賭毒 3.收徒不收費用 報名所需信息： **發送以下信息請打文字，不要傳輸圖片（以免圖片打不開） **請發送完整信息，不接受簡短郵件搶位 1.姓名 2.所在國家 3.八字 4.推特賬號（@xxx） 5.推特暱稱 報名郵箱：shoutu8626@gmail.com 本次報名按照郵箱收件順序登記前30名，登記成功後管理員會回復入群鏈接，請大家多留意收件箱。報名結束後郵箱自動作廢，謝謝大家的支持與關注。
+
+[查看原文](https://nitter.net/dianzhuXS/status/2086067418292715731#m)
 
 ---
 
