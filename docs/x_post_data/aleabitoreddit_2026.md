@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 375 条推文
+> 📊 推文存档 - 共 376 条推文
 
 ---
 
@@ -29,7 +29,23 @@ Yes, I'm still bullish on memory like $MU / Samsung. As I said earlier, markets 
 
 Today I'm writing a weekend guide on how to do DD when shorting $NBIS: First, you look at hyperscaler earnings for AI cloud read through: > $GOOGL: reports record AI cloud demand + backlog + margin increases from earnings > $AMZN: reports record AI Cloud demand + backlog + margin increases from earnings > $META: reports higher than expected prices for available capacity from earnings. Now, time to look at Nebius: -> $NBIS: Growing hundreds of percent to $7-9B ARR by Q4. Growing margins, and guided 4GW+ contracted power. -> Sees Uber/Waymo splitting, putting more focus on Avride -> Sees Clickhouse growing rapidly every quarter. Okay looks bad! But next, you need a hedge? -> Wow! A $NIKE brand executive, after the stock dropped 75% over the past 5 years, went to $LULU to save that brand next? Lululemon seems good. Conclusion: Short Nebius and go long on $LULU
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2086157318065168490#m)
+---
+
+## 2026-08-09 08:23:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections. Given recent industry earnings: > $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck). > $MTSI saying many "Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers" (in other product lines) > US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink) > AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too. Given the widespread shortage and demand imbalance for InP CW DFB capacity.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKLGp3z8cUsG46Ysm2IGGXksffYqpJAAKFE2sbRszAV0X1YTdfi6S5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHgmpY-KlQRPfxEAfAw3LxKgX0rmUTAAIjD2sbwyfJVtlw2H6EGBeDAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHg2pY-K2GjB7m-H1PJhNUYNCNK4-nAAIkD2sbwyfJVoDPOECwPpzgAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2086247069900300393#m)
 
 ---
 
