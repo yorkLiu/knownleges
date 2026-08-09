@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1950 条推文
+> 📊 推文存档 - 共 1952 条推文
 
 ---
 
@@ -99,10 +99,6 @@ Boring upgrades
 
 RT by @elonmusk: Grok Imagine works wonders. The best tool for creating images and videos quickly, easily, and with high quality. Try Image 2.0 😍🥰
 
-<img src="/images/elonmusk/amplify_video_thumb_2086255578548973570_img_BP60hatW4jZacltx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EvaFox/status/2086255607451939057#m)
-
 ---
 
 ## 2026-08-09 10:00:44
@@ -143,9 +139,33 @@ Grok Imagine can meme
 
 RT by @elonmusk: Wishing you all a beautiful and peaceful Sunday. May your day be filled with smiles and happiness.
 
-<img src="/images/elonmusk/amplify_video_thumb_2086316901810982912_img_2sYszQhG5WCZRklX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/art_muse/status/2086316932806910123#m)
+## 2026-08-09 14:22:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Literally What you Imagine Can be made real
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKMWp4JvvmOwJwHDYuYb2qyLxm4gABYgACkBJrG0bMyFcTJW3gL6J0BgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086337315375345832#m)
+
+---
+
+## 2026-08-09 14:58:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That was 10 years ago Imagine 10 years from now
+
+<img src="/images/elonmusk/amplify_video_thumb_2085897891382501376_img_d6_fEd3Uu2mZoFlW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086346377227907227#m)
 
 ---
 
