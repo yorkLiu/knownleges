@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1947 条推文
+> 📊 推文存档 - 共 1950 条推文
 
 ---
 
@@ -91,6 +91,20 @@ Boring upgrades
 
 ---
 
+## 2026-08-09 08:57:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Imagine works wonders. The best tool for creating images and videos quickly, easily, and with high quality. Try Image 2.0 😍🥰
+
+<img src="/images/elonmusk/amplify_video_thumb_2086255578548973570_img_BP60hatW4jZacltx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/EvaFox/status/2086255607451939057#m)
+
+---
+
 ## 2026-08-09 10:00:44
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -98,12 +112,6 @@ Boring upgrades
 **内容**:
 
 RT by @elonmusk: Really enjoy the new editing tool from @imagine. The grounding capability from the multi-modal is insane.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKL2p4Aqz2LFp1jKTy-PVxBf4imoLWAAJWEmsbRszIVzBcg5HHrPNoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKMGp4ArBQtHKN8lMWaqxlyE9eRU-6AAJXEmsbRszIVyh2WLPRNFS9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/yunta_tsai/status/2086271431319724355#m)
 
 ---
 
@@ -115,10 +123,6 @@ RT by @elonmusk: Really enjoy the new editing tool from @imagine. The grounding 
 
 RT by @elonmusk: Sometimes you need a human standing next to Starship just to remind your brain how absurdly massive this thing actually is A flying skyscraper made of stainless steel, designed to land itself and carry humans to another planet Absolutely insane that this is real
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKLWp4AqUfMqP7I7F3nTeqJ2cBLMzeAAJUEmsbRszIV0jxQEMzr7YBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2086298450581217560#m)
-
 ---
 
 ## 2026-08-09 12:14:08
@@ -129,15 +133,25 @@ RT by @elonmusk: Sometimes you need a human standing next to Starship just to re
 
 Grok Imagine can meme
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKLmp4AqmxYuGWPmlUr-rmFwTWyfRQAAJVEmsbRszIVw3KgZVQRSaKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2086305001110954244#m)
+## 2026-08-09 13:01:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Wishing you all a beautiful and peaceful Sunday. May your day be filled with smiles and happiness.
+
+<img src="/images/elonmusk/amplify_video_thumb_2086316901810982912_img_2sYszQhG5WCZRklX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/art_muse/status/2086316932806910123#m)
 
 ---
 
 ## 2026-08-08 02:05:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -147,7 +161,7 @@ Inevitable
 
 ## 2026-08-08 02:15:42
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -157,7 +171,7 @@ RT by @elonmusk: 👀
 
 ## 2026-08-08 02:36:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -167,7 +181,7 @@ Just like Starbase and Tesla factories, Terafab will be incredibly inspiring to 
 
 ## 2026-08-08 02:45:26
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -177,7 +191,7 @@ We’re working on making Grok Build super easy to use for non-technical people
 
 ## 2026-08-08 02:48:32
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -187,7 +201,7 @@ True
 
 ## 2026-08-08 02:57:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -197,7 +211,7 @@ More trans violence
 
 ## 2026-08-08 02:58:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -207,7 +221,7 @@ Same thing seems to be happening with TV shows and video games
 
 ## 2026-08-08 03:45:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -215,9 +229,23 @@ RT by @elonmusk: Use /connect-grok to use an X Premium or SuperGrok subscription
 
 ---
 
+## 2026-08-08 04:47:37
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: It had to be this way—Q.
+
+<img src="/images/elonmusk/amplify_video_thumb_2085828860382527488_img_Z7Vt4KI22jJ--Jc5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/John_M_Q/status/2085830242950901968#m)
+
+---
+
 ## 2026-08-08 05:09:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -227,7 +255,7 @@ RT by @elonmusk: Today, we’re launching Original Content Rewards. The reality 
 
 ## 2026-08-08 05:28:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -237,7 +265,7 @@ RT by @elonmusk: ELON MUSK: “In order to ascend the Kardashev scale, in order 
 
 ## 2026-08-08 07:59:39
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -247,7 +275,7 @@ RT by @elonmusk: did you know Grok is the only AI you can also use as a verb
 
 ## 2026-08-08 08:46:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -257,7 +285,7 @@ RT by @elonmusk: Texas continues to lead the way in chip innovation & advanced m
 
 ## 2026-08-08 11:09:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -267,7 +295,7 @@ RT @libsoftiktok: This guy went around Charlotte filming himself attacking white
 
 ## 2026-08-08 11:10:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -277,7 +305,7 @@ Video
 
 ## 2026-08-08 11:30:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -287,7 +315,7 @@ RT by @elonmusk: Announcing Imagine Image 2.0, our next generation image model w
 
 ## 2026-08-08 11:54:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -297,7 +325,7 @@ Video
 
 ## 2026-08-08 12:04:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -307,7 +335,7 @@ Video
 
 ## 2026-08-08 12:08:50
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -317,7 +345,7 @@ RT by @elonmusk: Imagine image 2.0, non-agentic yet, more to come in a week or t
 
 ## 2026-08-08 13:01:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -327,7 +355,7 @@ RT by @elonmusk: A 17-year-old African student has been charged and placed in pr
 
 ## 2026-08-08 13:32:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -337,7 +365,7 @@ RT by @elonmusk: Terafab x Blade Runner vibe by @imagine 2.0
 
 ## 2026-08-08 20:46:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -347,7 +375,7 @@ RT by @elonmusk: True. When I would take my kids to a shopping mall and Elon dis
 
 ## 2026-08-08 22:57:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -357,7 +385,7 @@ Hitler was a left-wing socialist
 
 ## 2026-08-08 23:02:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -367,7 +395,7 @@ RT @dvorahfr: Examples of different Grok Imagine styles
 
 ## 2026-08-08 23:04:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -377,7 +405,7 @@ Wow
 
 ## 2026-08-08 23:19:25
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -387,7 +415,7 @@ True
 
 ## 2026-08-08 23:22:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -397,21 +425,17 @@ True
 
 ## 2026-08-08 23:22:46
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT @yunta_tsai: Terafab x Blade Runner vibe by @imagine 2.0
 
-<img src="/images/elonmusk/amplify_video_thumb_2085961954146025472_img_GSlMo3_BCLOufuOi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086110878965899436#m)
-
 ---
 
 ## 2026-08-08 23:24:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -421,7 +445,7 @@ Why does Twitch have this double-standard?
 
 ## 2026-08-08 23:40:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -431,7 +455,7 @@ Grok Imagine image editing is greatly improved
 
 ## 2026-08-08 23:53:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
