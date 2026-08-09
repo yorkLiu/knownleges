@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1957 条推文
+> 📊 推文存档 - 共 1960 条推文
 
 ---
 
@@ -19,7 +19,31 @@ tags: ["2026"]
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2086519456927248870#m)
+---
+
+## 2026-08-10 04:45:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+AI agentic Internet traffic will obviously VASTLY exceed human usage. Not a close call at all. Cloudflare’s forecast is accurate.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKM2p46y0mmXAAAUZI3MeD8zoSktx_4AACWBRrG0bMyFe48ou0v4LanwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086554608348873008#m)
+
+---
+
+## 2026-08-10 04:47:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hitler was a far-left socialist Therefore, socialists are Hitler Inescapable logic 😂
+
+[查看原文](https://nitter.net/elonmusk/status/2086554922552627282#m)
 
 ---
 
@@ -151,10 +175,6 @@ Grok Imagine can meme
 
 RT by @elonmusk: Congrats @DavidMoss on being the first Tesla owner to cross 25,000 miles on the FSD streak counter! That's equivalent to one full lap around Earth, or two years of driving for the average American. Pretty wild. The confetti celebration also came back after it last appeared for him at the 5,000 mile streak milestone haha. (video sent to me by David and posted with his permission since he wasn't going to post it)
 
-<img src="/images/elonmusk/amplify_video_thumb_2086314434381967360_img_lsstomJl6g461Qpl.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2086315556282761264#m)
-
 ---
 
 ## 2026-08-09 13:01:33
@@ -215,9 +235,17 @@ True
 
 RT by @elonmusk: All year long we heard “we’ll get to the SAVE America Act when we have time,” realizing it would likely take a few weeks. We waited patiently while fully funding DHS and addressing other priorities, expecting to return to it when time allowed. It’s now August, and we’ve already taken more recess weeks this year than I can count. There are 21 weeks remaining in 2026, and approximately 14 of them will be spent with the Senate in recess. Why? These few weeks in August offer what could be the perfect chance to return to the SAVE America Act and debate the bill until it passes. We should be doing precisely that. Frankly, we should have done it months ago. That’s why I objected to recess and voted against it. Unfortunately, I and those who joined me in opposing it were far outnumbered—with all Democrats and most Republicans preferring to take yet another lengthy recess, this time until September 14th. Lost opportunity.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKMmp4zhvC5wLpvKD0HS4vXe7Hvj34AAJAFGsbRszIV5vz2xdmKrG9AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/BasedMikeLee/status/2086438191775514902#m)
+## 2026-08-09 23:57:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: A lot of people on the right like to blame the rise of DSA on white socialists. The truth is far bleaker:
+
+[查看原文](https://nitter.net/EndWokeness/status/2086481934989894051#m)
 
 ---
 
