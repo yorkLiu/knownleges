@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 376 条推文
+> 📊 推文存档 - 共 377 条推文
 
 ---
 
@@ -39,13 +39,17 @@ Today I'm writing a weekend guide on how to do DD when shorting $NBIS: First, yo
 
 I think it’s a good time to revisit $SIVE ~$427m/yr midpoint capacity revenue modeled projections. Given recent industry earnings: > $AAOI cited +20-40% demand imbalance for transceivers (with lasers as the bottleneck). > $MTSI saying many "Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers" (in other product lines) > US proposal ban on new Chinese optical transceivers (Innolight/Eoptolink) > AOI no meaningful participation in first-gen CPO deployments due to lasers being allocated toward transceivers. The read through is that it’s possible to apply the same capacity-demand absorption modeling applying to $AAOI, but for other laser players like Sivers too. Given the widespread shortage and demand imbalance for InP CW DFB capacity.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKLGp3z8cUsG46Ysm2IGGXksffYqpJAAKFE2sbRszAV0X1YTdfi6S5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHgmpY-KlQRPfxEAfAw3LxKgX0rmUTAAIjD2sbwyfJVtlw2H6EGBeDAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-09 12:11:14
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHg2pY-K2GjB7m-H1PJhNUYNCNK4-nAAIkD2sbwyfJVoDPOECwPpzgAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2086247069900300393#m)
+**内容**:
+
+All right chat, it’s that time of the month again. What’s your #1 highest conviction stock and why? I actually learn a lot from reading these, so share some cool ideas.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2086304269943419276#m)
 
 ---
 

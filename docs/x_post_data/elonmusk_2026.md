@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1944 条推文
+> 📊 推文存档 - 共 1947 条推文
 
 ---
 
@@ -59,12 +59,6 @@ Major upgrade to Grok Imagine image editing
 
 RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKKmp3ufmG1QI35lBv6TrNbBhfgAzLAAJXE2sbRszAV5kw-IuWDbmhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKK2p3ufzLWo98b636ZKOC2F942fxFAAJYE2sbRszAVwVruTfMWx9UAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2086160265553334635#m)
-
 ---
 
 ## 2026-08-09 04:50:03
@@ -94,6 +88,50 @@ Having Starlink on a long flight is a gamechanger in productivity
 **内容**:
 
 Boring upgrades
+
+---
+
+## 2026-08-09 10:00:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Really enjoy the new editing tool from @imagine. The grounding capability from the multi-modal is insane.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKL2p4Aqz2LFp1jKTy-PVxBf4imoLWAAJWEmsbRszIVzBcg5HHrPNoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKMGp4ArBQtHKN8lMWaqxlyE9eRU-6AAJXEmsbRszIVyh2WLPRNFS9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/yunta_tsai/status/2086271431319724355#m)
+
+---
+
+## 2026-08-09 11:48:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Sometimes you need a human standing next to Starship just to remind your brain how absurdly massive this thing actually is A flying skyscraper made of stainless steel, designed to land itself and carry humans to another planet Absolutely insane that this is real
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKLWp4AqUfMqP7I7F3nTeqJ2cBLMzeAAJUEmsbRszIV0jxQEMzr7YBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2086298450581217560#m)
+
+---
+
+## 2026-08-09 12:14:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine can meme
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKLmp4AqmxYuGWPmlUr-rmFwTWyfRQAAJVEmsbRszIVw3KgZVQRSaKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086305001110954244#m)
 
 ---
 
