@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1960 条推文
+> 📊 推文存档 - 共 1964 条推文
+
+---
+
+## 2026-08-10 01:27:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect.
+
+<img src="/images/elonmusk/amplify_video_thumb_2086504556175798272_img_GzM-PAlyAUj9gGr2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2086504649251586538#m)
 
 ---
 
@@ -29,10 +43,6 @@ True
 
 AI agentic Internet traffic will obviously VASTLY exceed human usage. Not a close call at all. Cloudflare’s forecast is accurate.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKM2p46y0mmXAAAUZI3MeD8zoSktx_4AACWBRrG0bMyFe48ou0v4LanwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086554608348873008#m)
-
 ---
 
 ## 2026-08-10 04:47:14
@@ -43,7 +53,29 @@ AI agentic Internet traffic will obviously VASTLY exceed human usage. Not a clos
 
 Hitler was a far-left socialist Therefore, socialists are Hitler Inescapable logic 😂
 
-[查看原文](https://nitter.net/elonmusk/status/2086554922552627282#m)
+---
+
+## 2026-08-10 04:49:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: And the only system that can support the insanely fast bandwidth growth needed by AI is Starlink
+
+[查看原文](https://nitter.net/elonmusk/status/2086555531569676510#m)
+
+---
+
+## 2026-08-10 04:50:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Believe them. They mean exactly what they say.
+
+[查看原文](https://nitter.net/elonmusk/status/2086555758989025437#m)
 
 ---
 
@@ -237,6 +269,20 @@ RT by @elonmusk: All year long we heard “we’ll get to the SAVE America Act w
 
 ---
 
+## 2026-08-09 21:07:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Build is quickly turning into an all-in-one creation environment It can now also generate images and videos with Grok Imagine directly inside your workflow You can create custom visuals for websites, apps, presentations, marketing campaigns, product pages, social media and pretty much anything else you're building No more jumping between different AI tools just to create the assets you need......even Claude Code doesn't natively have this Build the website, generate the images, create the videos, and then ship it - all from Grok Build
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNGp5D4S7Y51_5E-ip6OxA9eoH5YEAAIhEmsbRszQV7hBq90uiewGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2086439121149423828#m)
+
+---
+
 ## 2026-08-09 23:57:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -244,8 +290,6 @@ RT by @elonmusk: All year long we heard “we’ll get to the SAVE America Act w
 **内容**:
 
 RT by @elonmusk: A lot of people on the right like to blame the rise of DSA on white socialists. The truth is far bleaker:
-
-[查看原文](https://nitter.net/EndWokeness/status/2086481934989894051#m)
 
 ---
 
