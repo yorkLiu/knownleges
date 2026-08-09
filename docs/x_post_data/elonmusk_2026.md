@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1952 条推文
+> 📊 推文存档 - 共 1954 条推文
 
 ---
 
@@ -149,10 +149,6 @@ RT by @elonmusk: Wishing you all a beautiful and peaceful Sunday. May your day b
 
 Literally What you Imagine Can be made real
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKMWp4JvvmOwJwHDYuYb2qyLxm4gABYgACkBJrG0bMyFcTJW3gL6J0BgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086337315375345832#m)
-
 ---
 
 ## 2026-08-09 14:58:33
@@ -163,9 +159,31 @@ Literally What you Imagine Can be made real
 
 That was 10 years ago Imagine 10 years from now
 
-<img src="/images/elonmusk/amplify_video_thumb_2085897891382501376_img_d6_fEd3Uu2mZoFlW.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2086346377227907227#m)
+## 2026-08-09 17:20:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Christmas Eve 2008. Tesla closed a funding round in the final hour, days from bankruptcy. Elon Musk put in all his money & assets, borrowed from friends just to pay rent. If it missed, payroll would have bounced two days after Christmas.
+
+<img src="/images/elonmusk/amplify_video_thumb_2014655107020029960_img_AdV84jy4_kxkDrSS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2086382118007914692#m)
+
+---
+
+## 2026-08-09 19:59:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2086422231987417476#m)
 
 ---
 
