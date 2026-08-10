@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 379 条推文
+> 📊 推文存档 - 共 380 条推文
 
 ---
 
@@ -29,13 +29,21 @@ Just some near term events: - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA)
 
 Now that markets are hosting a laser party again from $SIVE, OE Solutions, $LITE, Coherent, to $AAOI. There’s a pretty interesting study: Both from Fidelity and a UC Berkeley research paper, that the best investors are the ones who either… - Anecdotally forgot about their account (Fidelity) - Didn’t actively trade/overtrade (18.5% return from infrequent traders vs. 11.4%). Not any advice, but some of these anecdotes might be helpful to retail to read in general… Since I witnessed a lot capitulation off memory, photonics, or thematic volatility, just for retail not have positions on a sharp recovery. Having conviction also usually people in that “not overtrading” camp, since it helps to not overtrade in drops or see opportunities to cost average.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKO2p5klHQMv-LgLwdEhkLahGvGHhnAAJ3FGsbRszQV5DC66FmOXYEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKPGp5klSEHjRLEDmFAAFH6948oeTPCAACeBRrG0bM0Fca8wL86l2y2gEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-10 23:42:04
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKPWp5kljuTPUXnMPbYVfOoLwvGPByAAJ5FGsbRszQV-sIiq24A3mSAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2086730782425727183#m)
+**内容**:
+
+Be Barrons: - Wants to write about optical supply supply chains like $AAOI - Hiring DPT: who needs engineers to write about this something this simple? Let’s find underpaid political philosophy backgrounds. - proceeds to find a new hire from nonprofit communication consulting - first day on job: gets paid to model revenue ramp/margins projections, CW laser bottlenecks, internal capacity - New hire: “I don’t understand this sht”, “looks like a memestock” Barrons: “Memestock? looks like our next article, I don’t understand either”.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKQ2p5-BJh4xCEoTKF57rokYm7H5rFAAI2F2sbDq7RV7kFpyBEUjyIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKRGp5-BdwtyeiHERrYVk1XnHDg0Z4AAI3F2sbDq7RV3NxplEP3DtHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2086840511164514742#m)
 
 ---
 

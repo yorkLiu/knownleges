@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1975 条推文
+> 📊 推文存档 - 共 1977 条推文
 
 ---
 
@@ -129,9 +129,19 @@ Grok Imagine is focused on professional usefulness, fun for consumers and overal
 
 RT by @elonmusk: BREAKING: Lufthansa Airlines just released new pictures of Starlink being installed on its aircraft. The first Starlink-equipped Lufthansa Airbus A320neo will enter service on August 19.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKQGp56Yel-uoHLa4CTU3j26vLvjd8AAIeF2sbDq7RVzvf6xHhhfqwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/cb_doge/status/2086782987601928618#m)
+## 2026-08-10 22:01:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Hitler’s socialism wasn’t just an internal economic policy – it was the cause of the war. Socialism was at the origin of the war. Not as a coincidence. As a necessity. The socialist economic model generates contradictions it cannot resolve internally – the calculation problem, the misallocation, the stagnation, the mounting failure. War is the exit. It provides the external enemy that explains the internal failure. It justifies the total mobilization the system always wanted. It consumes the surplus population the economy cannot employ. It redirects the resentment outward. Does this remind you of anything? The evidence is not subtle. The NSDAP program of 1920 reads like a standard socialist manifesto. The economic reality confirmed it – price controls, industrial planning, state allocation of raw materials, entrepreneurs reduced to government functionaries. Private property in name only. Mises called it Zwangswirtschaft – coercive economy. Hayek dedicated a chapter of The Road to Serfdom to the socialist roots of Nazism. Both writing from observation, not retrospect. After 1945 the Soviet victors imposed their version and attached the capitalist label to every rival. Western textbooks followed. The lie became the curriculum. The real divide has never been left versus right. It is collective control versus individual freedom. Once you place National Socialism correctly within the family of collectivisms, the political spectrum becomes legible – and the war becomes explicable. When the system fails — and it always fails — it needs an enemy. The bigger the failure, the bigger the enemy required. Imagine being Poland. Squeezed between two socialist systems, both searching for their enemy. We were it.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKQmp5-AvxFQ6rosjX9MI_UMVhTwvpAAI1F2sbDq7RV-jZaRIL7_kiAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Kristof_Poland/status/2086815248103752008#m)
 
 ---
 
@@ -143,10 +153,6 @@ RT by @elonmusk: BREAKING: Lufthansa Airlines just released new pictures of Star
 
 Super funny 🤣🤣
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKQWp56YpulZhQ5gfGlHMysQsnc_2zAAIfF2sbDq7RVzGRlUtLDbxTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086827128696234280#m)
-
 ---
 
 ## 2026-08-10 22:50:08
@@ -156,10 +162,6 @@ Super funny 🤣🤣
 **内容**:
 
 He means what he says
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKP2p56YIv_ZBiqzSuz4pzm59AyPBmAAIdF2sbDq7RVy7zGCvcdI0JAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086827441549398077#m)
 
 ---
 
@@ -171,8 +173,6 @@ He means what he says
 
 💯 Socialists are Hitler
 
-[查看原文](https://nitter.net/elonmusk/status/2086827721498259761#m)
-
 ---
 
 ## 2026-08-10 23:05:16
@@ -183,7 +183,17 @@ He means what he says
 
 Wow
 
-[查看原文](https://nitter.net/elonmusk/status/2086831252212957647#m)
+---
+
+## 2026-08-10 23:05:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2086831391015051265#m)
 
 ---
 
