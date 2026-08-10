@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1964 条推文
+> 📊 推文存档 - 共 1965 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect.
-
-<img src="/images/elonmusk/amplify_video_thumb_2086504556175798272_img_GzM-PAlyAUj9gGr2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dvorahfr/status/2086504649251586538#m)
 
 ---
 
@@ -63,8 +59,6 @@ Hitler was a far-left socialist Therefore, socialists are Hitler Inescapable log
 
 R to @elonmusk: And the only system that can support the insanely fast bandwidth growth needed by AI is Starlink
 
-[查看原文](https://nitter.net/elonmusk/status/2086555531569676510#m)
-
 ---
 
 ## 2026-08-10 04:50:33
@@ -75,7 +69,17 @@ R to @elonmusk: And the only system that can support the insanely fast bandwidth
 
 Believe them. They mean exactly what they say.
 
-[查看原文](https://nitter.net/elonmusk/status/2086555758989025437#m)
+---
+
+## 2026-08-10 13:08:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: It’s possible that Starlink may end up doing >90% of IP traffic, even if competitors 10X their bandwidth
+
+[查看原文](https://nitter.net/elonmusk/status/2086681154715804156#m)
 
 ---
 
