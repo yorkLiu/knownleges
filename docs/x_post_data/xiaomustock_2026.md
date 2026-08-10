@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 311 条推文
+> 📊 推文存档 - 共 312 条推文
 
 ---
 
@@ -19,11 +19,19 @@ tags: ["2026"]
 
 bbbb回来了minimax， minimax还有个科创板上市的利好没有被过会。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNmp5OxwjELZXpUPs9mBh_tl6-JY-AALWEmsbRszQVyBvQpPEreQ1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-Wp1Qb-ReiZkkxInd4owcQ13plU6AAMRaxs4CahXIGrPlqsNIDYBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-10 20:01:54
 
-[查看原文](https://nitter.net/xiaomustock/status/2086640068824035640#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+电脑就能装的小模型来了， $META 发布了Muse Spark 1.2模型精简版， 参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKPmp5xS30MOnAsBVBKPnH0W7O4lXeAAJ6FmsbDq7RVySy3Ao3q3AiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2086785104333177130#m)
 
 ---
 
