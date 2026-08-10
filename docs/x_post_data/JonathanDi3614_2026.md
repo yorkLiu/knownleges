@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 57 条推文
+> 📊 推文存档 - 共 58 条推文
+
+---
+
+## 2026-08-11 01:23:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这几天市场超跌反弹，部分腰斩的出现了挺大的上涨，把握好节奏，准备止盈换仓
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKRWp6DdZAriX_O7R2et2LEOaWSP92AAJTF2sbDq7RV5b3SzSUI3_aAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JonathanDi3614/status/2086866075548000589#m)
 
 ---
 
