@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1965 条推文
+> 📊 推文存档 - 共 1970 条推文
 
 ---
 
@@ -71,6 +71,32 @@ Believe them. They mean exactly what they say.
 
 ---
 
+## 2026-08-10 09:02:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: “Our mission is to build a world of amazing abundance” That is the bigger idea behind Optimus creating a future where physical work can scale almost without limit
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKOWp5dUibj-WV-n-12mfgslGqu7I-AAL6E2sbRszQVxNKnKw1-AQnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2086619119970025922#m)
+
+---
+
+## 2026-08-10 12:58:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The hardest part about hiring great leaders for X is that you need someone who can be an outstanding voice on the platform -- but also someone who is exceptional at trench warfare (i.e., sweating the details of the user experience and handling the daily chaos & creativity of bad actors).
+
+[查看原文](https://nitter.net/nikitabier/status/2086678613450227854#m)
+
+---
+
 ## 2026-08-10 13:08:50
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -79,13 +105,37 @@ Believe them. They mean exactly what they say.
 
 R to @elonmusk: It’s possible that Starlink may end up doing >90% of IP traffic, even if competitors 10X their bandwidth
 
-[查看原文](https://nitter.net/elonmusk/status/2086681154715804156#m)
+---
+
+## 2026-08-10 14:24:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKOGp5dUXXmg1W9SMasp78Avl7SZ_2AAL5E2sbRszQVwIMlcV-6y5nAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086700243676995651#m)
+
+---
+
+## 2026-08-10 14:30:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine is focused on professional usefulness, fun for consumers and overall ease-of-use
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKN2p5dT_UWuGSwImaNbnsP_mSC57rAAL4E2sbRszQV0OWuQTJ2QioAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086701644192891249#m)
 
 ---
 
 ## 2026-08-09 00:21:00
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -95,8 +145,6 @@ Yes
 
 ## 2026-08-09 00:25:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Try it out!
@@ -104,8 +152,6 @@ Try it out!
 ---
 
 ## 2026-08-09 00:27:01
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -115,8 +161,6 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 
 ## 2026-08-09 00:27:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Major upgrade to Grok Imagine image editing
@@ -124,8 +168,6 @@ Major upgrade to Grok Imagine image editing
 ---
 
 ## 2026-08-09 02:39:00
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -135,8 +177,6 @@ RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
 ## 2026-08-09 04:50:03
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Try version of Grok image editing
@@ -144,8 +184,6 @@ Try version of Grok image editing
 ---
 
 ## 2026-08-09 04:51:25
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -155,8 +193,6 @@ Having Starlink on a long flight is a gamechanger in productivity
 
 ## 2026-08-09 06:39:13
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Boring upgrades
@@ -164,8 +200,6 @@ Boring upgrades
 ---
 
 ## 2026-08-09 08:57:52
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -175,8 +209,6 @@ RT by @elonmusk: Grok Imagine works wonders. The best tool for creating images a
 
 ## 2026-08-09 10:00:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Really enjoy the new editing tool from @imagine. The grounding capability from the multi-modal is insane.
@@ -184,8 +216,6 @@ RT by @elonmusk: Really enjoy the new editing tool from @imagine. The grounding 
 ---
 
 ## 2026-08-09 11:48:06
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -195,8 +225,6 @@ RT by @elonmusk: Sometimes you need a human standing next to Starship just to re
 
 ## 2026-08-09 12:14:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Grok Imagine can meme
@@ -204,8 +232,6 @@ Grok Imagine can meme
 ---
 
 ## 2026-08-09 12:56:05
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -215,17 +241,25 @@ RT by @elonmusk: Congrats @DavidMoss on being the first Tesla owner to cross 25,
 
 ## 2026-08-09 13:01:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Wishing you all a beautiful and peaceful Sunday. May your day be filled with smiles and happiness.
 
 ---
 
-## 2026-08-09 14:22:32
+## 2026-08-09 14:08:07
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+**内容**:
+
+RT by @elonmusk: Top 10 websites by total visits in July 2026: → Bing and TikTok move up one spot each, to 8th and 9th, respectively. → WhatsApp drops to 10th place. → TikTok recorded the highest MoM growth, followed by X. → After 8 of the top 10 saw traffic decline in June, all 10 grew in July. https://www.similarweb.com/website/?utm_medium=social&utm_source=twit
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKOmp5dUxUULaTfcr_nwj-SF1FTK3eAAL7E2sbRszQVx3NDI5HYzl2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Similarweb/status/2086333683624038502#m)
+
+---
+
+## 2026-08-09 14:22:32
 
 **内容**:
 
@@ -235,8 +269,6 @@ Literally What you Imagine Can be made real
 
 ## 2026-08-09 14:58:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 That was 10 years ago Imagine 10 years from now
@@ -244,8 +276,6 @@ That was 10 years ago Imagine 10 years from now
 ---
 
 ## 2026-08-09 17:20:34
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -255,8 +285,6 @@ RT by @elonmusk: Christmas Eve 2008. Tesla closed a funding round in the final h
 
 ## 2026-08-09 19:59:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 True
@@ -264,8 +292,6 @@ True
 ---
 
 ## 2026-08-09 21:03:23
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -275,21 +301,13 @@ RT by @elonmusk: All year long we heard “we’ll get to the SAVE America Act w
 
 ## 2026-08-09 21:07:05
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Grok Build is quickly turning into an all-in-one creation environment It can now also generate images and videos with Grok Imagine directly inside your workflow You can create custom visuals for websites, apps, presentations, marketing campaigns, product pages, social media and pretty much anything else you're building No more jumping between different AI tools just to create the assets you need......even Claude Code doesn't natively have this Build the website, generate the images, create the videos, and then ship it - all from Grok Build
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNGp5D4S7Y51_5E-ip6OxA9eoH5YEAAIhEmsbRszQV7hBq90uiewGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2086439121149423828#m)
-
 ---
 
 ## 2026-08-09 23:57:12
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
