@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 377 条推文
+> 📊 推文存档 - 共 378 条推文
+
+---
+
+## 2026-08-10 10:03:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just some near term events: - OCP APAC tomorrow (Ayar, Lightmatter, $AMD, $NVDA) and your CPO players are giving announcements/updates. This should be a catalyst for certain optical players. - Earnings week: with $ASTS, $RKLB reporting today (space), $LITE on Tuesday (photonics), $NBIS in the middle of the week (Neocloud), and more. - Unitree IPO subscriptions opened up today and Listing is expected this month. Should be a potential catalyst for the humanoid + robotics sector if it opens up well eg. $CCXI. Fun week ahead.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNWp5M9kf8bjzyTDACqspgqvVVlDHAALAEmsbRszQV_8NMug0AWTGAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2086634510935118161#m)
 
 ---
 
