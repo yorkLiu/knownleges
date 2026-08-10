@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1970 条推文
+> 📊 推文存档 - 共 1975 条推文
 
 ---
 
@@ -79,10 +79,6 @@ Believe them. They mean exactly what they say.
 
 RT by @elonmusk: “Our mission is to build a world of amazing abundance” That is the bigger idea behind Optimus creating a future where physical work can scale almost without limit
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKOWp5dUibj-WV-n-12mfgslGqu7I-AAL6E2sbRszQVxNKnKw1-AQnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2086619119970025922#m)
-
 ---
 
 ## 2026-08-10 12:58:44
@@ -92,8 +88,6 @@ RT by @elonmusk: “Our mission is to build a world of amazing abundance” That
 **内容**:
 
 RT by @elonmusk: The hardest part about hiring great leaders for X is that you need someone who can be an outstanding voice on the platform -- but also someone who is exceptional at trench warfare (i.e., sweating the details of the user experience and handling the daily chaos & creativity of bad actors).
-
-[查看原文](https://nitter.net/nikitabier/status/2086678613450227854#m)
 
 ---
 
@@ -115,10 +109,6 @@ R to @elonmusk: It’s possible that Starlink may end up doing >90% of IP traffi
 
 Yes
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKOGp5dUXXmg1W9SMasp78Avl7SZ_2AAL5E2sbRszQVwIMlcV-6y5nAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2086700243676995651#m)
-
 ---
 
 ## 2026-08-10 14:30:15
@@ -129,9 +119,71 @@ Yes
 
 Grok Imagine is focused on professional usefulness, fun for consumers and overall ease-of-use
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKN2p5dT_UWuGSwImaNbnsP_mSC57rAAL4E2sbRszQV0OWuQTJ2QioAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2086701644192891249#m)
+## 2026-08-10 19:53:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Lufthansa Airlines just released new pictures of Starlink being installed on its aircraft. The first Starlink-equipped Lufthansa Airbus A320neo will enter service on August 19.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKQGp56Yel-uoHLa4CTU3j26vLvjd8AAIeF2sbDq7RVzvf6xHhhfqwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2086782987601928618#m)
+
+---
+
+## 2026-08-10 22:48:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Super funny 🤣🤣
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKQWp56YpulZhQ5gfGlHMysQsnc_2zAAIfF2sbDq7RVzGRlUtLDbxTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086827128696234280#m)
+
+---
+
+## 2026-08-10 22:50:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+He means what he says
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKP2p56YIv_ZBiqzSuz4pzm59AyPBmAAIdF2sbDq7RVy7zGCvcdI0JAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2086827441549398077#m)
+
+---
+
+## 2026-08-10 22:51:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+💯 Socialists are Hitler
+
+[查看原文](https://nitter.net/elonmusk/status/2086827721498259761#m)
+
+---
+
+## 2026-08-10 23:05:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+[查看原文](https://nitter.net/elonmusk/status/2086831252212957647#m)
 
 ---
 
