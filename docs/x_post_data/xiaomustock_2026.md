@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 312 条推文
+> 📊 推文存档 - 共 313 条推文
+
+---
+
+## 2026-08-11 09:43:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+sss了minimax，江湖再见。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKTGp6gh2ckseEHbcQdGIMFXO4vH5FAAIDEmsbDq7ZV7s5ovUtE6KpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNmp5OxwjELZXpUPs9mBh_tl6-JY-AALWEmsbRszQVyBvQpPEreQ1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2086991960590725546#m)
 
 ---
 
