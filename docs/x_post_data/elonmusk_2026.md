@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2006 条推文
+> 📊 推文存档 - 共 2010 条推文
 
 ---
 
@@ -58,8 +58,6 @@ They can’t handle the truth is the real issue here
 **内容**:
 
 RT by @elonmusk: meeting more and more people who are daily driving grok
-
-[查看原文](https://nitter.net/jeffreyhuber/status/2087246938530062794#m)
 
 ---
 
@@ -151,10 +149,6 @@ Video
 
 RT by @elonmusk: Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun
 
-<img src="/images/elonmusk/amplify_video_thumb_2087314027315650560_img_ctJTrjtLInN2t5El.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ArthurMacwaters/status/2087411297411625227#m)
-
 ---
 
 ## 2026-08-12 14:56:27
@@ -164,10 +158,6 @@ RT by @elonmusk: Everyone else is talking about building ASI to like monopolize 
 **内容**:
 
 How to use Grok Build
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKamp8KuPBCaQuqRn8MgABSvKYqaeWowACHhNrG7n74VfRKDyTAsQbNgEAAwIAA3kAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087433011478634944#m)
 
 ---
 
@@ -179,9 +169,63 @@ How to use Grok Build
 
 Grok Build is extremely powerful
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKaWp8Kt_l_4Am7EHlexVZOvC9rCbpAAIdE2sbufvhV9v__Qh0xC3sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2087433701764497852#m)
+## 2026-08-12 21:52:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: As soon as I got the new for the release for Grok Bot i just said Grok build to install it...and it handled the entire process for me i've been doing a lot of these tasks since the release of Grok Build I never actually installed anything myself since than.....searching and downloading and installing myself is a lot of time compared to what Grok build can do it it’s super easy and it also tells you everything you need to know after it completes the tasks...that's how I got to know that you can power it up with your SuperGrok Heavy subscription i literally use it so much for daily routines....now it feels like hell to do anything manually that I used to do before 😅
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKcWp8l-URIm4cIWWxL2ai4sqivOdEAAMUaxu5--FXRrEZizPRr54BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKaWp8Kt_l_4Am7EHlexVZOvC9rCbpAAIdE2sbufvhV9v__Qh0xC3sAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2087537837050597741#m)
+
+---
+
+## 2026-08-12 23:41:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Grok 4.6 is now out 🚀🚀🚀 Smart, fast & amazing bang for buck!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKc2p8l-vLYEbg8l7M5XC_hcl-ON13AAIDFGsbufvhV9udp7_3YTduAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087565020158992709#m)
+
+---
+
+## 2026-08-12 23:42:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 reaches 1753 ELO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKcmp8l-jogKIu5bzPnaHxFGmT1oANAAICFGsbufvhVxalDyNSqhKKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087565375739474306#m)
+
+---
+
+## 2026-08-12 23:46:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 is a banger
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKcGp8l-Evv1KusD7pwmetqOXH5GHlAAL_E2sbufvhVxDtOe2HEFPmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087566406921617534#m)
 
 ---
 
