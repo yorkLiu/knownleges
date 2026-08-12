@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2002 条推文
+> 📊 推文存档 - 共 2006 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 lmao
 
-<img src="/images/elonmusk/amplify_video_thumb_2086502896020176896_img_Kj7jluIFquR-0q7j.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087228471667781885#m)
-
 ---
 
 ## 2026-08-12 01:41:15
@@ -32,10 +28,6 @@ lmao
 **内容**:
 
 What would you most like us to add to or fix about Grok Build?
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKYWp8FSI8fcLVIBbNtoMk8_qawaQ2AALmEmsbufvhVxtBA9ygH9l2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087232895798616122#m)
 
 ---
 
@@ -47,10 +39,6 @@ What would you most like us to add to or fix about Grok Build?
 
 We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week
 
-<img src="/images/elonmusk/amplify_video_thumb_2087221157787525120_img_n9OrR6nUrxVZL4oY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087233507370147920#m)
-
 ---
 
 ## 2026-08-12 01:53:21
@@ -61,7 +49,17 @@ We will widen the Grok Bot beta after we fix basic issues with the early beta an
 
 They can’t handle the truth is the real issue here
 
-[查看原文](https://nitter.net/elonmusk/status/2087235939055591862#m)
+---
+
+## 2026-08-12 02:37:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: meeting more and more people who are daily driving grok
+
+[查看原文](https://nitter.net/jeffreyhuber/status/2087246938530062794#m)
 
 ---
 
@@ -73,10 +71,6 @@ They can’t handle the truth is the real issue here
 
 RT by @elonmusk: Grok Bot is a workhorse All the repetitive tasks I found myself wasting my time doing I just have Grok Bot do for me now
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKXmp8FRK5G1fKg3iwXfLVauv13abKAALjEmsbufvhV9KYhIO0UD_eAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/KettlebellDan/status/2087255832677253435#m)
-
 ---
 
 ## 2026-08-12 03:30:00
@@ -86,10 +80,6 @@ RT by @elonmusk: Grok Bot is a workhorse All the repetitive tasks I found myself
 **内容**:
 
 You can make your own steampunk movies with Grok Imagine
-
-<img src="/images/elonmusk/amplify_video_thumb_2087215870124724224_img_ighTPIWoMLgSX1un.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087260262525223221#m)
 
 ---
 
@@ -101,8 +91,6 @@ You can make your own steampunk movies with Grok Imagine
 
 RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price This new low cost Japan carrier @ZIPAIRTokyo…
 
-[查看原文](https://nitter.net/elonmusk/status/2087260449964429796#m)
-
 ---
 
 ## 2026-08-12 03:32:48
@@ -112,10 +100,6 @@ RT @Jason: I’m picking commercial flights based on starlink, not total time, r
 **内容**:
 
 Moonbase Alpha will be so cool. And we want to make it so that anyone can go to the Moon if they want.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKYGp8FRvFVtBSkGtXV6nf1qgCDd_5AALlEmsbufvhV_GRQ-5sZ8poAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087260966660759954#m)
 
 ---
 
@@ -127,10 +111,6 @@ Moonbase Alpha will be so cool. And we want to make it so that anyone can go to 
 
 RT by @elonmusk: ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN “We’ve already built the most powerful AI training clusters in the world. And then what we expect to do by the end of next year is about 10 times more than what we’ve done thus far. This will be very important practice for space AI. And I do think that AI training will continue to be on the ground, but AI inference, the day-to-day use of AI, will be in space. So we’re aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is. If the value per watt is probably going to be $30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be $300 to $500 billion a year in revenue. Big numbers. And sometimes I wonder, what is our purpose? And it could be that the purpose of humanity is to give birth to a star mind, a sentient sun. I don’t know what the AI is going to think about, honestly. It’s a lot of compute. But I guess this is the next step in the evolution of a civilization, is to harness the power of the sun. There was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet, or most of the power of its sun, or most of the power of its galaxy, and beyond. So that’s what’s going to happen. And we’re going to do it. The factory for star mind will be located nearby, adjacent to us, basically. They just come from space.”
 
-<img src="/images/elonmusk/amplify_video_thumb_2087314027315650560_img_ctJTrjtLInN2t5El.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2087314260770930780#m)
-
 ---
 
 ## 2026-08-12 13:21:20
@@ -140,10 +120,6 @@ RT by @elonmusk: ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN “W
 **内容**:
 
 SpaceX company update
-
-<img src="/images/elonmusk/amplify_video_thumb_2087281838456705024_img_sUQVpLkbpTSXmQsH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087409075009274035#m)
 
 ---
 
@@ -155,10 +131,6 @@ SpaceX company update
 
 Grok Bot
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKX2p8FRaVqY9UZLdppfTmt85-mUlNAALkEmsbufvhVx_WgbevjX3wAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087409427888603229#m)
-
 ---
 
 ## 2026-08-12 13:25:29
@@ -169,9 +141,47 @@ Grok Bot
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2087127093486444544_img_PKTcMAY2qwzc54nS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2087410119256764540#m)
+## 2026-08-12 13:30:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Everyone else is talking about building ASI to like monopolize b2b saas and Elon is talking about building a kardashev II sentient sun
+
+<img src="/images/elonmusk/amplify_video_thumb_2087314027315650560_img_ctJTrjtLInN2t5El.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ArthurMacwaters/status/2087411297411625227#m)
+
+---
+
+## 2026-08-12 14:56:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+How to use Grok Build
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKamp8KuPBCaQuqRn8MgABSvKYqaeWowACHhNrG7n74VfRKDyTAsQbNgEAAwIAA3kAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087433011478634944#m)
+
+---
+
+## 2026-08-12 14:59:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build is extremely powerful
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKaWp8Kt_l_4Am7EHlexVZOvC9rCbpAAIdE2sbufvhV9v__Qh0xC3sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087433701764497852#m)
 
 ---
 

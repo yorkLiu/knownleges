@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 393 条推文
+> 📊 推文存档 - 共 394 条推文
 
 ---
 
@@ -99,13 +99,17 @@ It was reported today that Leopold’s Situational Awareness acquired 11.62% of 
 
 What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden. Pretty wild to see this unfolding.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKZ2p8FTrAdTBTeGVL8lEZQZXpJbIvAALsEmsbufvhV3n5j5ST1RQVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKUWp8Dc7wAdoSjJ_MOBgW0rdVd2WaAALMEmsbufvhVyOgWGYEUuo7AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-12 15:54:08
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKUmp8DdKRhc3GHCW6U5GN9uXhMP17AALNEmsbufvhV6jBx7rJ8Q8GAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087424400811507963#m)
+**内容**:
+
+So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right now. From optical earnings: 1. $LITE: unexpected demand and imbalance for UHP CW lasers. - Had ability to price up ASP for lasers. - Scale up CPO on track for H2 2027 shipments, called out any CPO scale up delay rumors as noise. Lumentum confirmed timelines (that CPO players like Sivers sold off of misleading reports from), high margins, and extreme demand for qualified CW lasers. 2. $AAOI: doesn’t have enough CW laser capacity because of too much optical transceiver demand. - Not meaningfully participating in first-gen CPO deployments, with $MTSI not looking like they're in it either but focusing on NPO. Haven't seen much with $SMTC after their HieFo acqusition. - Called lasers as the bottleneck within a 20-40% demand imbalance for transceivers. - Says customers approaching them every week asking them for supply + to move faster. AOI confirmed demand imbalances + bottlenecks for lasers. And we got an even smaller pool for first-gen CPO players. 3. Both $AAOI and $LITE claimed Chinese players were years behind for CPO lasers and far behind stated claims in qualified capacity. - $AAOI said 2-3 years+ behind with CPO lasers. - $LITE said they haven't seen anything like Chinese claims in terms of outputs (and no recourse if it's false). Reaffirms moat for CPO related lasers, and no flooding from some shortseller claims on the optical sector. 4. $MTSI said that many customers are approaching them with urgency due to the general supply shortage of indium phosphide DFB lasers. Again, puts Sivers in the that bottleneck, giving them likely more customer demand . Among $COHR ($72.54B), $LITE ($66.57B), $AVGO ($2.13T): It's very special you get one of the public 4 Western CPO leaders at a ~$1.5B MC with $SIVE. Feels like my thesis with both: - The CW bottleneck that I predicted - CW laser chokepoint (where there's only a few CPO players, at least for gen-1) Got validated from earnings, now it's just waiting for the inflection points of next optical architecture shifts.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087447527595692180#m)
 
 ---
 
