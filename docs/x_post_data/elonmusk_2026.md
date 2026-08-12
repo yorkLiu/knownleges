@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2028 条推文
+> 📊 推文存档 - 共 2029 条推文
 
 ---
 
@@ -99,12 +99,6 @@ RT by @elonmusk: In case you missed it yesterday, here is the full video of Elon
 
 RT by @elonmusk: one step closer to moon cannon and party.
 
-<img src="/images/elonmusk/amplify_video_thumb_2087592653475000320_img_-nua1SkgeLZNDR69.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKc2p8l-vLYEbg8l7M5XC_hcl-ON13AAIDFGsbufvhV9udp7_3YTduAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/billlee/status/2087592670893847008#m)
-
 ---
 
 ## 2026-08-13 01:38:49
@@ -144,6 +138,22 @@ Try out Grok 4.6! Double your tokens for next 7 days.
 **内容**:
 
 Try out Grok @Bot
+
+---
+
+## 2026-08-13 06:33:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 reaches #1 on @databricks
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKfmp9BOG2otOlLPfB0Is4MI0qLIvUAAL7EWsbufvpV02TBVlSS0b5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKf2p9BOTS92qBsXDpzLVYtMucErylAAL8EWsbufvpV21ToCgE5JYoAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087668743929487420#m)
 
 ---
 
