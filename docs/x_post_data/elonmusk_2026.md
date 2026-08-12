@@ -7,7 +7,105 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2010 条推文
+> 📊 推文存档 - 共 2021 条推文
+
+---
+
+## 2026-08-13 00:27:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKc2p8l-vLYEbg8l7M5XC_hcl-ON13AAIDFGsbufvhV9udp7_3YTduAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nvidia/status/2087576824159297605#m)
+
+---
+
+## 2026-08-13 00:47:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 is now one of the top models in the world for agentic workflows It ranks #1 on the Artificial Analysis Agentic Index, tied with Claude Opus 5 Max Agentic AI is about more than answering questions It measures: • Tool use • Planning • Autonomy • Complex problem solving Grok 4.6 tops the chart
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKeWp8rb3jAqLOdZdBZpVG7KHmWomVAAInFGsbufvhV9t2VSVTkj9WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2087581722116505959#m)
+
+---
+
+## 2026-08-13 01:01:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://nitter.net/elonmusk/status/2087585217842487424#m)
+
+---
+
+## 2026-08-13 01:04:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 is objectively #1 when considering intelligence, speed & cost
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKeGp8rbkR7HWnOZ_LXGTxVjTsFn71AAImFGsbufvhV4AAAXSMbLCgRAEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdWp8ra5OAkIWamTRrPreEiia_Hh7AAIjFGsbufvhV3yEtc3EvfnJAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087586063682596905#m)
+
+---
+
+## 2026-08-13 01:07:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is the most efficient high intelligence AI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKd2p8rbbNSGbVigKLtF-gGPuPuv7JAAIlFGsbufvhV10AAUz6MTNsQwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087586860868755703#m)
+
+---
+
+## 2026-08-13 01:09:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla FSD FTW
+
+<img src="/images/elonmusk/amplify_video_thumb_2087208987326656512_img_TlafJ_wly6H9Ahj9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087587240277049622#m)
+
+---
+
+## 2026-08-13 01:12:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pareto gold for Grok 4.6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdmp8rbEtr3o0_9t8MheqyUNZEjFlAAIkFGsbufvhV3Y7OfbcIyWbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087588014767976890#m)
 
 ---
 
@@ -179,11 +277,19 @@ Grok Build is extremely powerful
 
 RT by @elonmusk: As soon as I got the new for the release for Grok Bot i just said Grok build to install it...and it handled the entire process for me i've been doing a lot of these tasks since the release of Grok Build I never actually installed anything myself since than.....searching and downloading and installing myself is a lot of time compared to what Grok build can do it it’s super easy and it also tells you everything you need to know after it completes the tasks...that's how I got to know that you can power it up with your SuperGrok Heavy subscription i literally use it so much for daily routines....now it feels like hell to do anything manually that I used to do before 😅
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKcWp8l-URIm4cIWWxL2ai4sqivOdEAAMUaxu5--FXRrEZizPRr54BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKaWp8Kt_l_4Am7EHlexVZOvC9rCbpAAIdE2sbufvhV9v__Qh0xC3sAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-12 23:36:27
 
-[查看原文](https://nitter.net/XFreeze/status/2087537837050597741#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 is a leap in intelligence and persistence. From completing debugging tasks to building apps from scratch, Grok 4.6 is a fast, dependable, and smart companion. Try it now in Grok Build, Cursor, Grok Bot, and the SpaceXAI API!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKc2p8l-vLYEbg8l7M5XC_hcl-ON13AAIDFGsbufvhV9udp7_3YTduAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/milichab/status/2087563876749775002#m)
 
 ---
 
@@ -195,9 +301,19 @@ RT by @elonmusk: As soon as I got the new for the release for Grok Bot i just sa
 
 Pinned: Grok 4.6 is now out 🚀🚀🚀 Smart, fast & amazing bang for buck!
 
+---
+
+## 2026-08-12 23:41:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Excited to release Grok 4.6. With each release, Grok is becoming a more capable digital colleague. 4.6 is significantly better at difficult tasks and knowledge work. It combines Opus-class intelligence and polish with very low cost and high speed.
+
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKc2p8l-vLYEbg8l7M5XC_hcl-ON13AAIDFGsbufvhV9udp7_3YTduAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/elonmusk/status/2087565020158992709#m)
+[查看原文](https://nitter.net/mntruell/status/2087565040677454327#m)
 
 ---
 
@@ -209,10 +325,6 @@ Pinned: Grok 4.6 is now out 🚀🚀🚀 Smart, fast & amazing bang for buck!
 
 Grok 4.6 reaches 1753 ELO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKcmp8l-jogKIu5bzPnaHxFGmT1oANAAICFGsbufvhVxalDyNSqhKKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087565375739474306#m)
-
 ---
 
 ## 2026-08-12 23:46:31
@@ -223,9 +335,19 @@ Grok 4.6 reaches 1753 ELO
 
 Grok 4.6 is a banger
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKcGp8l-Evv1KusD7pwmetqOXH5GHlAAL_E2sbufvhVxDtOe2HEFPmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2087566406921617534#m)
+## 2026-08-12 23:57:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 is an excellent model. I’ve been using it heavily for the past couple of weeks and it handles everything from simple coding & code review all the way to designing and debugging complex systems with ease. What stands out even more is how strong it is outside of coding - deep research, long-form reasoning, planning, writing, and agentic workflows all feel noticeably sharper.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdWp8ra5OAkIWamTRrPreEiia_Hh7AAIjFGsbufvhV3yEtc3EvfnJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/theskory/status/2087569089027817485#m)
 
 ---
 
@@ -3293,6 +3415,18 @@ RT by @elonmusk: O'ahu homeowners generate and store clean energy to power their
 
 ---
 
+## 2026-07-30 02:10:46
+
+**内容**:
+
+RT by @elonmusk: Announcing Grok Voice Think Fast 2.0, our next-generation voice model with improved intelligence, transcription accuracy, and conversational capabilities. https://x.ai/news/grok-voice-think-fast-2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJLGpqWlC5fj3nj1CXmkrQ-wZYr44UAAKhFGsbUsJRV9PLYRhDGnlaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceXAI/status/2082529280341553209#m)
+
+---
+
 ## 2026-07-30 02:24:49
 
 **内容**:
@@ -3538,8 +3672,6 @@ RT by @elonmusk: Falcon 9 launches NROL-95 to orbit from pad 40 in Florida
 **内容**:
 
 RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
-
-[查看原文](https://nitter.net/grok/status/2082791168765821324#m)
 
 ---
 
