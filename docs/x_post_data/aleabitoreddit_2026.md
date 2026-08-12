@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 396 条推文
+> 📊 推文存档 - 共 397 条推文
+
+---
+
+## 2026-08-13 06:59:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY IMPORTANT now. But TLDR of $COHR earnings: "given the demand that we see in our DC business with transceivers, I don’t see any time in the near future where we would be selling indium phosphide lasers externally" - Ton more value placed on companies that sell InP lasers externally if $AAOI can't doesn't enough capacity for first gen-CPO deployments, $COHR not selling externally... I guess that's why $MTSI said a ton of customers are approaching them with urgency for InP CW DFB lasers (and they dont even have meaningful capacity coming online until EOY 2027) $AAOI -> Internal $COHR -> Internal Buyers -> fewer places to look for capacity. "Our backlog now extends out, fiscal 2027 is basically completely booked out. We are booked really through the end of calendar 2027" [ Massive massive demand visibility] - Coherent also mentioned LTAs spanning end of decade. So this kinda reinforces what $POET CEO said at their AGM that the "big 3" are fully sold out next 2 years. "we’re not constrained in the assembly and test capacity right now. We’re really just constrained by the ramp of the indium phosphide production" - Just for the bottleneck bros in terms of assembly/test not a bottleneck. "absolutely no push-out of CPO demand. In fact, it has been the opposite. We have seen demand increase and request from customers’ demand getting pulled in" "we continue to expect revenue from CPO for scale-up applications to start to flow in the second half of calendar 2027" - Big read through on other CPO players for scale up if $LITE, $COHR reaffirm revenue from CPO scale up coming h2027. - "quarterly revenue exceeding $3 billion by the end of fiscal 2027" - $COHR revenue go brrr So for regular numbers it's: - $2.046B revenue (+13.3% Q/Q, +33.8% Y/Y), main revenue ramp looks to be happening entering Q4 into 2027 - Non-GAAP gross margins: 40.2% Next quarter guide is: - Revenue: $2.2–$2.4B revenue - Non-GAAP gross margins: 39.5-41.5% Basically: $1.69B -> $1.81B -> $2.05B -> ~$2.30B -> $3.0B (end of FY 2027) ~39% -> 39.6% -> 40.2% -> ~40.5% (gross margins) For operating margins: 18.0% -> 19.5% -> 19.9% -> 20.3% -> 21.8% Little less impressed compared to $LITE margin growth in terms of profitability, but revenue scale for $COHR growing rapidly.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKfGp8_Z8WK1KHPMJ1q5k6QOWRvHAGAALyEWsbufvpV1Aa-Mfpr28MAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKfWp8_aN1x-VIdggE3IR62qo893dXAALzEWsbufvpVy1L2jzCHDP7AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087675367595380783#m)
 
 ---
 
