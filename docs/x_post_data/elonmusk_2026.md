@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2021 条推文
+> 📊 推文存档 - 共 2026 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT by @elonmusk: Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKc2p8l-vLYEbg8l7M5XC_hcl-ON13AAIDFGsbufvhV9udp7_3YTduAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/nvidia/status/2087576824159297605#m)
-
 ---
 
 ## 2026-08-13 00:47:22
@@ -32,10 +28,6 @@ RT by @elonmusk: Congrats to the @SpaceXAI team on the release of Grok 4.6. Grok
 **内容**:
 
 RT by @elonmusk: Grok 4.6 is now one of the top models in the world for agentic workflows It ranks #1 on the Artificial Analysis Agentic Index, tied with Claude Opus 5 Max Agentic AI is about more than answering questions It measures: • Tool use • Planning • Autonomy • Complex problem solving Grok 4.6 tops the chart
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKeWp8rb3jAqLOdZdBZpVG7KHmWomVAAInFGsbufvhV9t2VSVTkj9WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2087581722116505959#m)
 
 ---
 
@@ -47,8 +39,6 @@ RT by @elonmusk: Grok 4.6 is now one of the top models in the world for agentic 
 
 Yes
 
-[查看原文](https://nitter.net/elonmusk/status/2087585217842487424#m)
-
 ---
 
 ## 2026-08-13 01:04:37
@@ -58,12 +48,6 @@ Yes
 **内容**:
 
 Grok 4.6 is objectively #1 when considering intelligence, speed & cost
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKeGp8rbkR7HWnOZ_LXGTxVjTsFn71AAImFGsbufvhV4AAAXSMbLCgRAEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdWp8ra5OAkIWamTRrPreEiia_Hh7AAIjFGsbufvhV3yEtc3EvfnJAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087586063682596905#m)
 
 ---
 
@@ -75,10 +59,6 @@ Grok 4.6 is objectively #1 when considering intelligence, speed & cost
 
 Grok is the most efficient high intelligence AI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKd2p8rbbNSGbVigKLtF-gGPuPuv7JAAIlFGsbufvhV10AAUz6MTNsQwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087586860868755703#m)
-
 ---
 
 ## 2026-08-13 01:09:18
@@ -88,10 +68,6 @@ Grok is the most efficient high intelligence AI
 **内容**:
 
 Tesla FSD FTW
-
-<img src="/images/elonmusk/amplify_video_thumb_2087208987326656512_img_TlafJ_wly6H9Ahj9.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087587240277049622#m)
 
 ---
 
@@ -103,9 +79,73 @@ Tesla FSD FTW
 
 Pareto gold for Grok 4.6
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdmp8rbEtr3o0_9t8MheqyUNZEjFlAAIkFGsbufvhV3Y7OfbcIyWbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2087588014767976890#m)
+## 2026-08-13 01:13:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: In case you missed it yesterday, here is the full video of Elon Musk giving a company update on the future of SpaceX:
+
+<img src="/images/elonmusk/amplify_video_thumb_2087281838456705024_img_sUQVpLkbpTSXmQsH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/paranoidream/status/2087588192019161253#m)
+
+---
+
+## 2026-08-13 01:38:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.6 on tough real-world tasks!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKe2p8vDtU2eZc4hiuXkc_UgjSOaE3AAJFFGsbufvhV8_YPIa_pj07AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087594669459001801#m)
+
+---
+
+## 2026-08-13 01:48:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SPACEXAI: Grok 4.6 leads on the two strongest knowledge-work / real-world productivity benchmarks (GDPVal-AA and AA-Briefcase) and on the legal benchmark, while remaining highly competitive on coding-agent and general intelligence metrics.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKemp8vDYcpwkJzGPUx_gzd0LMhUpzAAJEFGsbufvhV-HOuLcJVYQRAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SERobinsonJr/status/2087597115354849679#m)
+
+---
+
+## 2026-08-13 02:07:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try out Grok 4.6! Double your tokens for next 7 days.
+
+<img src="/images/elonmusk/card_img_2087561838158344192_TV_52QJA3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087601785833951705#m)
+
+---
+
+## 2026-08-13 02:09:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try out Grok @Bot
+
+[查看原文](https://nitter.net/elonmusk/status/2087602469778166195#m)
 
 ---
 
