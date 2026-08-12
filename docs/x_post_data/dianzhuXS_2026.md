@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 306 条推文
+> 📊 推文存档 - 共 307 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 三天沒發帖 「沾腥屍」又派國寶抓捕我了嗎？ 救救我，救救我，救救我⋯⋯ 🤭🤭🤭
 
-[查看原文](https://nitter.net/dianzhuXS/status/2087314971105603998#m)
-
 ---
 
 ## 2026-08-12 08:28:32
@@ -30,10 +28,6 @@ tags: ["2026"]
 **内容**:
 
 駁【身弱不擔財官】 一個冷知識 黃仁勳和喬丹是同年同月同日生，且按照日元旺衰得不得月令去看，二人都是妥妥的身弱 此二人的成就世人皆知🤪
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKXWp8DfsTXEKDupL12spMsBFpI7OuAALZEmsbufvhV2j80HZhvJiUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2087335391364080118#m)
 
 ---
 
@@ -45,12 +39,6 @@ tags: ["2026"]
 
 上海還好嗎？
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2087338374415917056_img_TIegQG6GwgzERTG3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKC2p2IxEsbNjQ1VR_b4DUeGS1gKbFAAK5F2sbgi2xVzR2Co4fYQEIAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2087338391897846188#m)
-
 ---
 
 ## 2026-08-12 09:06:37
@@ -60,10 +48,6 @@ tags: ["2026"]
 **内容**:
 
 近幾年來，韓國還搗毀了很多，以華人商會為幌子的「中共海外警察辦事處」，在這方面李在明不敢親中，韓國人也不會容忍任何這樣的行為！#習近平
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKXGp8Dfc1OXaBY3kxH6DmaH5sBgfzAALXEmsbufvhV6WfhgdkBxIyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2087344974711165113#m)
 
 ---
 
@@ -75,12 +59,6 @@ tags: ["2026"]
 
 我要去台灣 好久沒申請 現在入台證 也都是PDF電子版啦 不需要郵寄好方便
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKWmp8DfB9Up_V7qJzJKBqLpTlDuwxAALVEmsbufvhV4zIlNOLpzOjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKW2p8DfPhAAEoCIzZ8My7sDjnPu72aQAC1hJrG7n74VexCOdHmvAogQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2087361272652403168#m)
-
 ---
 
 ## 2026-08-12 11:38:26
@@ -91,7 +69,17 @@ tags: ["2026"]
 
 黃推依然甩不掉，看來不是牠們太重視我，而是中共統戰禍害中文環境的常態化戰略部署。 帖子帶習近平，維尼⋯⋯都不管用 看來真要學學散人，設定只有我關注的才能留言了。 這一點，我對推特很失望 😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://nitter.net/dianzhuXS/status/2087383181108641946#m)
+---
+
+## 2026-08-12 20:36:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+咱就說 你說朱鎔基死 就說牠死就完事了唄 還非TM整個大照片 惡心人 怎麼著 牠是你家長輩啊 不對啊 你們不都是反賊的標籤嗎 老王八蛋死就死了唄 瞎興奮啥 讓老外看著 以為習近平死了呢 朱鎔基死了 對中國能有啥改變嗎？ 中簡圈真TM魔幻
+
+[查看原文](https://nitter.net/dianzhuXS/status/2087518470904955359#m)
 
 ---
 

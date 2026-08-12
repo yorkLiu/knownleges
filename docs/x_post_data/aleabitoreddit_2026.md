@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 395 条推文
+> 📊 推文存档 - 共 396 条推文
 
 ---
 
@@ -119,13 +119,23 @@ So this is just what I'm seeing with $SIVE and the CW DFB laser chokepoint right
 
 $AEHR receives another $22M follow on order for AI processor wafer level burn in systems. By their lead AI processor company. It’s cool to see this tiny company grow up so fast across so many verticals (memory, silicon photonics, etc). Up +5.39% premarket off the news.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKa2p8XcAlLdEk7u0hX3LKKvwMZ5EnAAKNE2sbufvhV4m1HJMwpzeKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKbGp8XcTupW4gN6FmPsxQWtQzYWNnAAKOE2sbufvhV_MgqgFOFUTXAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-12 20:23:43
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC1WoyvMJzaxUTom6ZI8CSopWUYurZAAJCEGsbC5-YVb0K11jBaL0-AQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087505570941239683#m)
+**内容**:
+
+$NBIS outlook is pretty insane yet again. $582.3M revenue (+454% Y/Y, +46% Q/Q) off ~50% adjusted EBITDA margin (AI Cloud). $8.04B cash on hand. Reiterates financial guide (2026 revenue: $3.0–$3.4B 2026 EoY ARR: $7–$9B), I was hoping for a raise, but it's already massive growth. Not really about this quarter financials, but these signals: - "We could sell our entire 2027 capacity on these terms today." massive visibility on demand - "4 customer agreements averaging over $1B+ each in contract value" - Around 70% of Q2 deals included customer prepayments - Contracted power guidance was raised again, from more ~4+ GW to 5 GW. (this used to be a concern vs. $IREN debate, but Nebius power guidance keeps going through the roof). - Expects $9B+ of prepayments in 2026 and says it has $40B+ of commitments. - annual contract value per MW keeps going brrr (>$40M/mw for Q3 short term capacity deals) Same bear story will always be there (eg. large $5.66B of capex with current GAAP net loss), but demand is extreme with massive visibility, with increasing AI Cloud adjusted EBITDA margins ( 24% -> 45% -> 50% progression) We kinda got this read through from all your hyperscaler cloud earnings and $CRWV backlog yesterday, but glad it's showing up in Weebius's earnings.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKbWp8bEhh2B-I7eqPioZsH0uAWTnYAAKkE2sbufvhVzNAGZrTAAFMcQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKbmp8bEzq_AlDmxyfXYARtWlrW3AvAAKlE2sbufvhV9N2cMT1-j2lAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKb2p8bFHzDF0ihYxn2L0fS1zKnkS6AAKmE2sbufvhV2Ag0g4qnGPRAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087515371750490383#m)
 
 ---
 
