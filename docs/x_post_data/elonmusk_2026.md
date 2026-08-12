@@ -7,13 +7,177 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 1982 条推文
+> 📊 推文存档 - 共 2002 条推文
+
+---
+
+## 2026-08-12 01:23:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+lmao
+
+<img src="/images/elonmusk/amplify_video_thumb_2086502896020176896_img_Kj7jluIFquR-0q7j.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087228471667781885#m)
+
+---
+
+## 2026-08-12 01:41:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+What would you most like us to add to or fix about Grok Build?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKYWp8FSI8fcLVIBbNtoMk8_qawaQ2AALmEmsbufvhVxtBA9ygH9l2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087232895798616122#m)
+
+---
+
+## 2026-08-12 01:43:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We will widen the Grok Bot beta after we fix basic issues with the early beta and release Grok 4.6 later this week
+
+<img src="/images/elonmusk/amplify_video_thumb_2087221157787525120_img_n9OrR6nUrxVZL4oY.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087233507370147920#m)
+
+---
+
+## 2026-08-12 01:53:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+They can’t handle the truth is the real issue here
+
+[查看原文](https://nitter.net/elonmusk/status/2087235939055591862#m)
+
+---
+
+## 2026-08-12 03:12:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot is a workhorse All the repetitive tasks I found myself wasting my time doing I just have Grok Bot do for me now
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKXmp8FRK5G1fKg3iwXfLVauv13abKAALjEmsbufvhV9KYhIO0UD_eAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/KettlebellDan/status/2087255832677253435#m)
+
+---
+
+## 2026-08-12 03:30:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+You can make your own steampunk movies with Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2087215870124724224_img_ighTPIWoMLgSX1un.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087260262525223221#m)
+
+---
+
+## 2026-08-12 03:30:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Jason: I’m picking commercial flights based on starlink, not total time, route or price This new low cost Japan carrier @ZIPAIRTokyo…
+
+[查看原文](https://nitter.net/elonmusk/status/2087260449964429796#m)
+
+---
+
+## 2026-08-12 03:32:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Moonbase Alpha will be so cool. And we want to make it so that anyone can go to the Moon if they want.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKYGp8FRvFVtBSkGtXV6nf1qgCDd_5AALlEmsbufvhV_GRQ-5sZ8poAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087260966660759954#m)
+
+---
+
+## 2026-08-12 07:04:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: ELON MUSK ON BUILDING A “STAR MIND” POWERED BY THE SUN “We’ve already built the most powerful AI training clusters in the world. And then what we expect to do by the end of next year is about 10 times more than what we’ve done thus far. This will be very important practice for space AI. And I do think that AI training will continue to be on the ground, but AI inference, the day-to-day use of AI, will be in space. So we’re aiming to get to 10 gigawatts by the end of next year. This is depending on what the value per watt is. If the value per watt is probably going to be $30 to $50, which means if we bring 10 gigawatts of AI online by the end of next year, it will be $300 to $500 billion a year in revenue. Big numbers. And sometimes I wonder, what is our purpose? And it could be that the purpose of humanity is to give birth to a star mind, a sentient sun. I don’t know what the AI is going to think about, honestly. It’s a lot of compute. But I guess this is the next step in the evolution of a civilization, is to harness the power of the sun. There was a physicist called Kardashev who argued that you could consider any given civilization on the basis of whether it has been able to harness most of the power of its planet, or most of the power of its sun, or most of the power of its galaxy, and beyond. So that’s what’s going to happen. And we’re going to do it. The factory for star mind will be located nearby, adjacent to us, basically. They just come from space.”
+
+<img src="/images/elonmusk/amplify_video_thumb_2087314027315650560_img_ctJTrjtLInN2t5El.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2087314260770930780#m)
+
+---
+
+## 2026-08-12 13:21:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX company update
+
+<img src="/images/elonmusk/amplify_video_thumb_2087281838456705024_img_sUQVpLkbpTSXmQsH.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087409075009274035#m)
+
+---
+
+## 2026-08-12 13:22:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Bot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKX2p8FRaVqY9UZLdppfTmt85-mUlNAALkEmsbufvhVx_WgbevjX3wAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087409427888603229#m)
+
+---
+
+## 2026-08-12 13:25:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2087127093486444544_img_PKTcMAY2qwzc54nS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087410119256764540#m)
 
 ---
 
 ## 2026-08-11 01:04:02
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -21,9 +185,37 @@ RT by @elonmusk: Jensen Huang just told the incredible story of how Elon Musk be
 
 ---
 
+## 2026-08-11 03:44:53
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: More texts reveal that Biden era US Surgeon General Vivek Murthy responded to Fauci’s concern about the COVID vaccine in pregnant women by adding “I’ve been hearing concern about the mRNA causing mutations in the developing fetus as well.” None of these concerns were ever made public.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKY2p8FSkVSmJG0W0pOaZ-9tiWFdiBAALoEmsbufvhV-sRQCevPWM7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BillMelugin_/status/2086901619346792543#m)
+
+---
+
+## 2026-08-11 05:16:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨 JUST NOW: Anthony Fauci's successor, NIH Director Jay Bhattacharya, BLASTS Fauci for COVERING UP the alleged 82% MISCARRIAGE RATE for pregnant women taking the COVID vaccine "Tony Fauci was OUT OF HIS LANE, and used that power to tell America one thing when he really thought another." "I'm glad his words now can be heard by the American people... it's SHOCKING to me that he was sharing private thoughts and that, when he was out in public—and he was out in the public A LOT—he didn't share those private thoughts with the American public." "I mean, and Tony Fauci was MAJOR figure in trying to get those COVID shots past the finish line. He owed the American public some transparency."
+
+<img src="/images/elonmusk/amplify_video_thumb_2086923833605242880_img_JxzDjxRdEduJcLe6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nicksortor/status/2086924547886850353#m)
+
+---
+
 ## 2026-08-11 06:23:14
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -33,7 +225,7 @@ RT by @elonmusk: SF spends more than $1,000,000,000/yr now on homelessness (5x i
 
 ## 2026-08-11 06:51:55
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -43,7 +235,7 @@ You will be able to watch live sports in 4k or movies or games or productivity!
 
 ## 2026-08-11 06:57:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -53,15 +245,79 @@ Grok ftw
 
 ## 2026-08-11 08:40:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 This really happened
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKS2p6c5VK92PzHdnO8iUINAhmE8ubAALsEWsbDq7ZV1reF0SAOgiHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2086975888525066354#m)
+## 2026-08-11 13:19:33
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKZmp8FTZLmqdlItf5t8NUVMxdh6EkAALrEmsbufvhVxP9DPIZ2jfsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087046240353603854#m)
+
+---
+
+## 2026-08-11 13:20:07
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+Tesla
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKZWp8FTJShaJwYRXKSm93RjFAHH0HAALqEmsbufvhV0mQkGwnl00WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087046381877833990#m)
+
+---
+
+## 2026-08-11 20:04:22
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Around 43% of the German population aged under 5 now has a foreign background.
+
+[查看原文](https://nitter.net/PeterSweden7/status/2087148115304272168#m)
+
+---
+
+## 2026-08-11 20:15:53
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Grok can now turn your daily news research into a voice memo you can just listen to Ask it to research everything important from the last 24 hours, summarize the major events, and package it into an audio briefing So instead of reading through dozens of stories, you can just press play and catch up on everything in a few minutes With different voices available, it basically becomes your own personalized daily news show
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKZGp8FS1zW3pISpznnVURfToQPW8EAALpEmsbufvhV9Pve1Wn6nCLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2087151014587826414#m)
+
+---
+
+## 2026-08-11 22:29:07
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Lightning strikes for continuous and long-run agents! Nemotron 3.5 Lightning is smart, fast, efficient and open.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKYmp8FSZ2mhwpn14S8zNQDzs8h2LUAALnEmsbufvhVy1uDesBWAyoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JensenHuang/status/2087184542050496763#m)
 
 ---
 
@@ -2977,8 +3233,6 @@ There is still time, but not much time
 
 ## 2026-07-30 00:25:22
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: O'ahu homeowners generate and store clean energy to power their homes and EVs No fossil fuels, no grid dependence
@@ -2986,8 +3240,6 @@ RT by @elonmusk: O'ahu homeowners generate and store clean energy to power their
 ---
 
 ## 2026-07-30 02:24:49
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -2997,8 +3249,6 @@ RT by @elonmusk: BREAKING: SpaceXAI's newly released Grok Voice Think Fast 2.0 b
 
 ## 2026-07-30 02:28:33
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: 🚨The Police have confirmed they will take NO action against Zack Polanski for sharing a photo of a man wearing a T-shirt calling for the beheading of Nigel Farage. PROOF of two tier policing in Britain. Just imagine if it had been the other way round.
@@ -3006,8 +3256,6 @@ RT by @elonmusk: 🚨The Police have confirmed they will take NO action against 
 ---
 
 ## 2026-07-30 03:14:06
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3017,8 +3265,6 @@ Try the new Grok Voice
 
 ## 2026-07-30 03:17:15
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: SpaceXAI has built the best voice model I’ve ever used Once you experience how precisely Grok Voice recognizes speech and understands what you mean, it’s hard to go back The best part of Think Fast 2.0 is that it reasons in parallel and begins taking action while it is still talking to you...without adding any latency
@@ -3026,8 +3272,6 @@ RT by @elonmusk: SpaceXAI has built the best voice model I’ve ever used Once y
 ---
 
 ## 2026-07-30 03:18:27
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3037,8 +3281,6 @@ RT by @elonmusk: Grok Build now has a way to enable/disable MCP grok mcp enable 
 
 ## 2026-07-30 04:12:25
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok Voice is now #1 in agentic performance
@@ -3046,8 +3288,6 @@ Grok Voice is now #1 in agentic performance
 ---
 
 ## 2026-07-30 04:13:09
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3057,8 +3297,6 @@ RT by @elonmusk: Allison Pearson receives payout and apology from Essex policing
 
 ## 2026-07-30 04:19:41
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Any old men or women or children ? No. Only young men of fighting age How odd !
@@ -3066,8 +3304,6 @@ RT by @elonmusk: Any old men or women or children ? No. Only young men of fighti
 ---
 
 ## 2026-07-30 04:28:12
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3077,8 +3313,6 @@ RT by @elonmusk: FRAUD IS THE NEW DOPE PART 1: NYC Clerks Caught Undercover Proc
 
 ## 2026-07-30 07:24:28
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: "Amnesty has moved so far away from their original mission... They are now acting like the types of authoritarian regimes that they have always sought to expose.” -- @iseult, granddaughter of Amnesty founder. https://www.thetimes.com/uk/scotland/article/amnesty-trans-jk-rowling-trans-anti-rights-2cmn6mhb0
@@ -3086,8 +3320,6 @@ RT by @elonmusk: "Amnesty has moved so far away from their original mission... T
 ---
 
 ## 2026-07-30 08:05:55
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3097,8 +3329,6 @@ Good analysis
 
 ## 2026-07-30 09:58:10
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Starlink Internet works even in the middle of nowhere
@@ -3106,8 +3336,6 @@ Starlink Internet works even in the middle of nowhere
 ---
 
 ## 2026-07-30 10:33:35
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3117,8 +3345,6 @@ True
 
 ## 2026-07-30 10:34:38
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 It will happen
@@ -3126,8 +3352,6 @@ It will happen
 ---
 
 ## 2026-07-30 10:35:16
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3137,8 +3361,6 @@ Grok Imagine
 
 ## 2026-07-30 11:14:13
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 The invasion continues …
@@ -3146,8 +3368,6 @@ The invasion continues …
 ---
 
 ## 2026-07-30 11:35:41
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3157,8 +3377,6 @@ RT by @elonmusk: The @Tesla Diner averages 1,600 charging sessions per day. Yes,
 
 ## 2026-07-30 11:36:40
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 No kidding …
@@ -3166,8 +3384,6 @@ No kidding …
 ---
 
 ## 2026-07-30 11:45:38
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3177,8 +3393,6 @@ True
 
 ## 2026-07-30 12:05:46
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 And Grok 4.6 is a significant improvement
@@ -3186,8 +3400,6 @@ And Grok 4.6 is a significant improvement
 ---
 
 ## 2026-07-30 13:15:00
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3197,8 +3409,6 @@ RT by @elonmusk: • Hostile Media Outlet Gets DESTROYED By Own Audience After P
 
 ## 2026-07-30 13:50:34
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok Build update
@@ -3206,8 +3416,6 @@ Grok Build update
 ---
 
 ## 2026-07-30 13:59:08
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3217,8 +3425,6 @@ And Grok 4.6 comes out in a week
 
 ## 2026-07-30 14:17:39
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Pinned: Congratulations to the Tesla Team! 10 million vehicles manufactured is an incredible amount of work.
@@ -3226,8 +3432,6 @@ Pinned: Congratulations to the Tesla Team! 10 million vehicles manufactured is a
 ---
 
 ## 2026-07-30 14:29:27
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3237,8 +3441,6 @@ RT by @elonmusk: Congrats to all Tesla teams. Proud to be part of this amazing j
 
 ## 2026-07-30 14:41:03
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: NVIDIA CEO, Jensen Huang: I want to be involved in nearly everything Elon Musk does. "For xAI, we're an investor already. The only regret I have is I didn't give him more money. Almost everything that @elonmusk is part of you really want to be part of as well, and and he gave us the opportunity to invest, I'm just delighted by that."
@@ -3246,8 +3448,6 @@ RT by @elonmusk: NVIDIA CEO, Jensen Huang: I want to be involved in nearly every
 ---
 
 ## 2026-07-30 14:59:15
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3257,8 +3457,6 @@ RT by @elonmusk: Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mi
 
 ## 2026-07-30 15:20:08
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Falcon 9’s first stage lands on LZ-2
@@ -3266,8 +3464,6 @@ RT by @elonmusk: Falcon 9’s first stage lands on LZ-2
 ---
 
 ## 2026-07-30 17:36:02
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3277,25 +3473,23 @@ RT by @elonmusk: 🇪🇸 Residents in Barcelona are installing barbed wire alon
 
 ## 2026-07-30 18:14:06
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Falcon 9 launches NROL-95 to orbit from pad 40 in Florida
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJUWpsOt15CB3RzDgK0db4ogT84wJXAAISFGsbdvdhV72Q3bFGTrTSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJUmpsOuEPi-ATkS_X0BsX0b65vhEzAAITFGsbdvdhV9gM3b0URcViAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-07-30 19:31:25
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJU2psOuTa_Vez7KUclYIyMtn9A0ZBAAIUFGsbdvdhVxsNQNDCYLLWAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/SpaceX/status/2082771710818869482#m)
+RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
+
+[查看原文](https://nitter.net/grok/status/2082791168765821324#m)
 
 ---
 
 ## 2026-07-30 20:04:10
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3305,8 +3499,6 @@ RT by @elonmusk: Huge congratulations. Bringing happiness and safety to 10 milli
 
 ## 2026-07-30 21:49:44
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: BREAKING: Moroccan media reports that over 30,000 Moroccans are currently invading Ceuta On the eve of Throne Day, Moroccan King Mohammed VI pardoned 1,788 prisoners. In May, he pardoned 1,376 prisoners, including terrorists. They are now entering Spain with no controls 🇪🇸🇲🇦
@@ -3314,8 +3506,6 @@ RT by @elonmusk: BREAKING: Moroccan media reports that over 30,000 Moroccans are
 ---
 
 ## 2026-07-30 22:28:20
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3325,8 +3515,6 @@ RT by @elonmusk: The Trump Administration today announced a series of actions to
 
 ## 2026-07-30 22:34:29
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrated, weak, lobotomized ideologues.
@@ -3335,19 +3523,13 @@ RT by @elonmusk: It is baffling how treasonous Western politicians are. Castrate
 
 ## 2026-07-30 22:35:42
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: I have a new job. I will now lead Global Brand Strategy for McDonald's. For those who do not know me, I use @X to share news and behind the scenes about the brand, but more importantly to get live feedback and hear from fans directly. The good, the bad, the not good enough yet. I mostly heard from US fans in the past - thank you. Of course, I want this to continue, but now I also want to get insights and feedback from McDonald's fans all around the world, whether you're in Japan, China or really anywhere! Please feel free to comment and say hi! I speak French, English and Spanish, but you can reply to me in any language if easier for you and I will use the translation tool from Grok. If you think the feedback won't make a difference, I can tell you the return of the Snack Wrap, Szechuan sauce, Hi-C or the come back of the Changeables Happy Meal in the US all happened because of what we've heard here. I will also share more campaigns from countries around the world in the near future. If you have never come across my profile before, I started my career at McDonald's in France as an intern and joined the US market as a Social Media Manager in February 2020. First mission was to reset our social media strategy and make us a modern brand. I then took over all US campaigns starting in 2024 with cool moments like the return of the Snack Wrap, Kai Cenat Chicken Big Mac, Minecraft, KPOP Demon Hunters and other fun things. Thank you to everyone here who's ever interacted with me. Grateful for the feedback and advices we get here everyday. I aspire to be a decent marketer and a CMO one day, and every time I get to read one of your comments, I feel like it is getting me closer to that goal.
 
-[查看原文](https://nitter.net/HuinGuillaume/status/2082837545096810781#m)
-
 ---
 
 ## 2026-07-30 23:16:11
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3356,8 +3538,6 @@ Big difference
 ---
 
 ## 2026-07-30 23:21:21
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 

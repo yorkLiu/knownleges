@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 392 条推文
+> 📊 推文存档 - 共 393 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 Just putting it out there for people that think AAOI is a one year cycle... $AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028. 400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (>50% gross margin) product line. On top of their existing 2027 projections (eg. ~$5.6B annualized transceiver revenue off $471m/month entering H2). TAM for 1.6T also goes brrr so I'd expect their end of H2 2027 projections to go up as more capacity comes online... For certain optical names, it's one cycle (eg. 1.6T, CPO scale out/up, NPO etc. ), stacked on top of one another... stacked on top of another... with TAM + margins stacking like minions after Anivia uses W in line. Rather than one-and-done off of one year. This is a stark contrast to some other sectors where growth is likely to decelerate after maybe 1 year of triple digit Y/Y revenue growth.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087249406638862506#m)
-
 ---
 
 ## 2026-08-12 04:16:01
@@ -30,8 +28,6 @@ Just putting it out there for people that think AAOI is a one year cycle... $AAO
 **内容**:
 
 $LITE earnings are out, very strong earnings: Revenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth vs. ~$984.6M Adj. EPS: $3.23 vs. ~$2.95 Gross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6% Q1 FY2027 guidance is probably more important: Revenue: $1.225–1.275B vs. ~$1.16B Adj. EPS: $4.05–4.35 vs. ~$3.63 Operating margin (non-gaap) of 39.5% - 40.5% In terms of notes: Sees: "Increasing demand for ultra-high-power CPO lasers, an initial order for ELS modules" - Great read through on other CPO players like $SIVEF, $COHR, and others. (maybe not AAOI since they're missing out on first-gen deployments) - "Breath of NPO engagements are the first signs that optics are starting to penetrate in-rack connectivity, significantly upping our optical TAM" - Revenue projections "reaching our target model more than a quarter ahead of schedule." Extremely strong earnings as expected, you have revenue going from: $808M -> $1.01B -> $1.25B while operating margin keeps increasing... Just my first impressions. Most important thing is the earnings call coming up soon.
-
-[查看原文](https://nitter.net/aleabitoreddit/status/2087271842696593764#m)
 
 ---
 
@@ -43,8 +39,6 @@ $LITE earnings are out, very strong earnings: Revenue: $1.01B, +24.5% Q/Q, +109.
 
 $SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... vs. ~$52.4B expected, a casual +$16.1B above consensus. SMCI logged a massive $60B+ in news order from this earnings. That timeline is also interesting when they announced a plan to co-build $SPCX + xAI DCs "within a year" back in June.. But if SMCI sustain 10-15% gross margins off that ~$70B revenue guidance... I think there's a lot of room for rerating given MC is ~$20B (NFA, I have short term positions in SMCI now from this ER). Most important thing is learning about 2027 margins from call today.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087280662802026931#m)
-
 ---
 
 ## 2026-08-12 05:09:43
@@ -54,8 +48,6 @@ $SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidanc
 **内容**:
 
 Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. Coreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. Compute demand read through for Neoclouds is enormous (For Nebius, Iren and others) Supermicro: Absurd $65-72B in revenue guidance, adding $60B+ in new orders... AI DC buildout read through is just enormous. Lumentum: $808M -> $1.01B -> $1.25B revenue ramp, with operating margins growing quarter after quarter. Photonics players just keeps printing. TLDR: Every layer of the AI buildout goes brrrrr, and it's showing up in earnings.
-
-[查看原文](https://nitter.net/aleabitoreddit/status/2087285356999958663#m)
 
 ---
 
@@ -67,14 +59,6 @@ Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. Coreweave: 
 
 $LITE earnings transcript TLDRs: - "Our visibility into the timing of CPO scale-up deployments has also sharpened. We remain confident in a demand ramp for our ultra-high-power laser chips in the second half of calendar 2027" H2 2027 start of CPO scale up ramp confirmed from Lumentum for their lead customer. - "We were recently given our first external light source, or ELS, module purchase for delivery by the second half of calendar 2027" ELS industry ramp timelines - "The NPO opportunity is completely additive for us, significantly increasing the optical TAM." More TAM for laser chokepoint club - "we expect the 1.6T transceiver uptake to intensify starting in fiscal Q1 and sustain through calendar 2027." - "Even in CW, we’ve been surprised at our ability to price up" Positive pricing power for $SIVE and the other CW laser players. - "As a result, we are able to command a nice price premium that we expect to sustain, as these Chinese if these Chinese guys come online. I caution people also, I think people are some of these Chinese laser suppliers are not delivering in the market today, so they have there is no recourse when they throw out these big numbers. We have not seen anything like that to date in terms of their output." Chinese players are more behind than markets expect, corroborated by $AAOI and $LITE. - "We are way behind in our shipments, unfortunately, on high-powered lasers" "The demand signal has increased, and we are very much further behind relative to our ability to supply." Extreme demand imbalance for UHP CW laser capacity, continued demand imbalance for EML. Shipping roughly +$50M year end -> $100m+ ("triple digit quarter") into much larger H2 2027 and 2028 scale up demand,. - "So what we are trying to do, I think, really in the last three months is secure even more substrate supply" (because of demand imbalance), "we found additional substrate help from $AXTI They are a great partner." Hello InP substrate bottleneck. TLDR: - Lumentum CPO scale up H2 2027 shipments got confirmed, dismissed any "delay" news as market "noise". (one delay report caused so much damage, and it took Nvidia, Lumentum, and all these companies weeks to do damage control). - CW lasers demand ramp second half of 2027 - Extreme demand imbalance for UHP CW laser capacity surprised Lumentum - UHP lasers commands very high margins and is able to price up CW laser capacity. - China further behind in the laser/capacity angle. Basically just validated timelines + demand/pricing for Western CW laser players. CW laser scarcity is already happening before the main volume ramp even begins...
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKVmp8DeHwQpyuuERRbZX8PqxogIMXAALREmsbufvhVxr1QXQ9tDnmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKV2p8DeVR7cqoBxH2eYJoS1KCo_c4AALSEmsbufvhV3f8Z5wXBzdhAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKWGp8Demguaf71T6VsP47Z1QBQNPsAALTEmsbufvhV7PYTEcped5kAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/aleabitoreddit/status/2087329770879197549#m)
-
 ---
 
 ## 2026-08-12 09:08:18
@@ -84,8 +68,6 @@ $LITE earnings transcript TLDRs: - "Our visibility into the timing of CPO scale-
 **内容**:
 
 Bro Charles the $SMCI CEO needs to become a politician. I’ve never seen a guy dodge so many questions on a Q&A earnings transcript before. - “what’s your 2027 gross margins” A: “we look forward to growing them - “do you anticipate margins to improve September?” A: September. Which is September?
-
-[查看原文](https://nitter.net/aleabitoreddit/status/2087345398130282801#m)
 
 ---
 
@@ -97,14 +79,6 @@ Bro Charles the $SMCI CEO needs to become a politician. I’ve never seen a guy 
 
 I didn’t know Leopold was a fellow MLCC bottleneck investor in Taiyo Yuden (6976) It’s been disclosed today that Situational Awareness owns 5.99% of the company with a ~ ¥17,446/share avg as of June 29th. Current prices are ¥9,797. I actually added some today to show support since Taiyo Yuden is one of the largest % MLCC manufacturers globally.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKU2p8DdWRAzv__FtZ0C5OJhZK15F5AALOEmsbufvhV1YTQ_Hme97wAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKVGp8DdnyjWcOYyvd4DbIdzjYt2jbAALPEmsbufvhV_5CuHmRqq2-AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKVWp8Dd2XgAPAWXuM6ctPcUjZOZLyAALQEmsbufvhVw8afyxozh9OAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/aleabitoreddit/status/2087357522093260938#m)
-
 ---
 
 ## 2026-08-12 12:36:24
@@ -115,17 +89,23 @@ I didn’t know Leopold was a fellow MLCC bottleneck investor in Taiyo Yuden (69
 
 It was reported today that Leopold’s Situational Awareness acquired 11.62% of Taiyo Yuden (6976). Up from 5.99% as of July 16th. I do agree with his position (if he still has it) in terms of how valuable this MLCC manufacturer is to global AI supply chains.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKUWp8Dc7wAdoSjJ_MOBgW0rdVd2WaAALMEmsbufvhVyOgWGYEUuo7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKUmp8DdKRhc3GHCW6U5GN9uXhMP17AALNEmsbufvhV6jBx7rJ8Q8GAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-12 14:22:14
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKU2p8DdWRAzv__FtZ0C5OJhZK15F5AALOEmsbufvhV1YTQ_Hme97wAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKVGp8DdnyjWcOYyvd4DbIdzjYt2jbAALPEmsbufvhV_5CuHmRqq2-AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKVWp8Dd2XgAPAWXuM6ctPcUjZOZLyAALQEmsbufvhVw8afyxozh9OAQADAgADeQADPQQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+What a legend, Situational Awareness bought 1/6th of the entire company of Taiyo Yuden. Pretty wild to see this unfolding.
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087397768314999183#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKZ2p8FTrAdTBTeGVL8lEZQZXpJbIvAALsEmsbufvhV3n5j5ST1RQVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKUWp8Dc7wAdoSjJ_MOBgW0rdVd2WaAALMEmsbufvhVyOgWGYEUuo7AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKUmp8DdKRhc3GHCW6U5GN9uXhMP17AALNEmsbufvhV6jBx7rJ8Q8GAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087424400811507963#m)
 
 ---
 
