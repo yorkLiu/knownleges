@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 398 条推文
+> 📊 推文存档 - 共 399 条推文
 
 ---
 
@@ -29,7 +29,19 @@ My main takeaway was that your merchant CW laser suppliers seem to be EXTREMELY 
 
 Is it just me, or is the list of 3 letter optical jargon never ending? We have LPO, LRO, NPO, XPO, CPO, OBO, and others for approaches. Then InP, EML, ELS, OCS, SOI, and others to add to the random terms. Even the industry events with OCP or OFC get their three letter names. People who have followed me on my optical bottleneck scavenger hunt with $SOI or $IQE might know a lot by now. But wouldn’t new followers might be super confused…
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087733927930929435#m)
+---
+
+## 2026-08-13 15:44:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$SIVE announces a $3.4M development program with SemiNex! For CPO, DFB laser arrays, and optical amplifiers. Early production is targeted H2 2027 (in line with early scale up CPO timelines) Seemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... But then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). There's probably something interesting Sivers found in this company.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKg2p9eScCtsdWTPGOd08P9CIV__36AAL2EmsbufvpV-2Z-XIuVpdmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087807614172488131#m)
 
 ---
 
