@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 402 条推文
+> 📊 推文存档 - 共 403 条推文
 
 ---
 
@@ -69,15 +69,19 @@ Okay here's my take on $POET, since apparently people are celebrating on the sub
 
 In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. If you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs. Anthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT. Yeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. On a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top. Enterprise is probably having a better time though. Unitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. Not really an AI name but SHEIN is going public as soon as the 19th this month. Go ask any girl you know and they’re probably familiar with this platform.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKiWp9s0imhDa5e4ZGpvWNpi0yvt7bAAJ0EWsbW2nwVzyffH8XnmZYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKimp9s00buNjL3GT1QMeWqEDFc3wkAAJ1EWsbW2nwV7AwW42wSrQ6AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-13 22:02:45
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKi2p9s1CexoeqvCyCJgg08lKHKFArAAJ2EWsbW2nwVxXEi5Ccv2YoAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKjGp9s1NSgEV7FZeLo1gvWuy6FbLWAAJ3EWsbW2nwVxqymaWfZNjsAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087867722784805170#m)
+In another world, $SMCI would look more like $DELL? If they didn't try smuggling $NVDA GPUs using hairdryers... Regardless, SMCI guiding $65-72B FY 2027 revenue off a ~$25B MC is pretty crazy the more I look at it.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKjWp90FnTTxGD795VzpKUNxNIj8knAAK7EWsbW2nwV_UJ0xsKIksbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087902683474891106#m)
 
 ---
 
