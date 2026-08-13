@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 310 条推文
+> 📊 推文存档 - 共 311 条推文
 
 ---
 
@@ -39,15 +39,19 @@ tags: ["2026"]
 
 所以「大明白」們別瞎BB了 雖然AI時代能用指令假裝算命 導致你們更能忽悠傻逼了 或許科學家們能夠真懂玄學 但不學無術的流量逼肯定不行 孤陰不長孤陽不生 AI的便利也讓我們更精進了 我們會的你們永遠會不了 看看AI在我們手裡研究的是啥 這才是AI的正確用法 六十甲子納音就是科學 這不僅是古天文學 也是現代物理學 一個字～波，兩個字～螺旋 （別盜圖直接用，有煙霧彈）
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKhGp9gGyCCKidyezAQbtNbHom2gMkAAIOE2sbufvpV9kRMv5FpYYfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKhWp9gHCGooBac0LS5Ozow5gCCcKQAAIPE2sbufvpV5aKwXms7fUgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-13 23:00:54
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKhmp9gHR-fGPDfsqFClDS3JOR2YFwAAIQE2sbufvpV2Be2rMnyBgDAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKgGp9MIDLnvgvmaXAJ38yyZz5fhy2AAI3EmsbufvpV1-d7aAqbIAIAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/dianzhuXS/status/2087812864040227203#m)
+郭德綱挺過了今年，也就該慢慢淡出了。這次只是小小警告，沒什麼大事。關鍵是「戊戌」月「己亥」月，有點難熬。
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2087917274741260288_img_W0NEAeHYQnWjalKi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2087917315698606505#m)
 
 ---
 

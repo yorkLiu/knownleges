@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2035 条推文
+> 📊 推文存档 - 共 2039 条推文
 
 ---
 
@@ -141,6 +141,18 @@ Try out Grok @Bot
 
 ---
 
+## 2026-08-13 04:49:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot has taken over the entire internet. And for good reason It is an EXCELLENT AI agent But you HAVE to set it up the right way Here are the first 5 steps to make your Grok Bot agent team SUPER powerful: 1. Brain dump everything about yourself, goals, passions, and career into the initial agent. This is going to give it the context it needs to set up your agent team 2. Next, prompt the agent "Based on what you know about me, what do you think would be the best set up of this Grok Bot app? Which bots should I make and what should their responsibilities be? This should enable the best workflow and productivity" This will give you the perfect plan for setting up Grok Bot 3. After reviewing the plan, ask the Bot to set up your workspace for you. It will create the agents, give the right context and descriptions, and make sure your setup is built for productivity 4. Next, ask it for which routines each agent can set up to help you out the most. This should give you a list of cron jobs (routines) that each agent can do on a regular interval 5. Ask the agent to implement these And just like that, you have the most powerful AI agent on the internet all set up. You have an entire fleet of agents ready to go and do work for you. And in fact, because you set up the routines, they're ALREADY doing work for you Enjoy the AGI
+
+[查看原文](https://nitter.net/AlexFinn/status/2087642719447609374#m)
+
+---
+
 ## 2026-08-13 06:33:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -209,9 +221,47 @@ RT by @elonmusk: one best thing about Grok 4.6 is that you don't have to set a g
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2058764512140951552_img_9W5lHbDGAQwFOvnU.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2087822520128823438#m)
+## 2026-08-13 21:18:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot just passed Google’s “I'm not a robot?” test I fail this task sometimes tbh 😅
+
+<img src="/images/elonmusk/amplify_video_thumb_2087890148021121024_img_V4MyHs6AhyYoTw00.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2087221157787525120_img_n9OrR6nUrxVZL4oY.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2087891600345010323#m)
+
+---
+
+## 2026-08-13 22:29:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2087632670968926208_img_JLe90k7X80AURglT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087909414418235548#m)
+
+---
+
+## 2026-08-13 22:33:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Not bad
+
+[查看原文](https://nitter.net/elonmusk/status/2087910515246784773#m)
 
 ---
 
