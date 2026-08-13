@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 316 条推文
+> 📊 推文存档 - 共 318 条推文
 
 ---
 
@@ -29,11 +29,33 @@ tags: ["2026"]
 
 陈立武在《Tech Surge》播客访谈透露， 英特尔正在研究 CPU 与存储堆叠的新型存储架构。 $INTC 的新存储架构把CPU和存储封装到一起降低agent代理工作的调用延迟提高AI代理的效率。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKjmp915xVfDPiPNpYBSQZLWvqHB9VAALTEWsbW2nwV_Em6T4OJ6qvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdGp8pmkJ6wdcoMB9BlKXe91ZdPUTAAISFGsbufvhV95sOQUO4O71AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-13 23:11:12
 
-[查看原文](https://nitter.net/xiaomustock/status/2087908296049189197#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+利好都来了，闪迪 $SNDK 将把超额收益100%返还给股东。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkGp95ic8QXPo7ykEytJFlizQ7NE-AAL3EWsbW2nwV5ZIFddhCgkIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2087919906994192425#m)
+
+---
+
+## 2026-08-13 23:19:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一个 $RAM ，相当于买了2x #海力士，2x #美光，2x #三星 顺风行情的时候这些2x工具是真爽。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKj2p95iRyXPbji1ekclRjGVMWTbv4AAL2EWsbW2nwVwtV7drpX78UAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2087922076254711923#m)
 
 ---
 
