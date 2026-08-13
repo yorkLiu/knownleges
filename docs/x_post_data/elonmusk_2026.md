@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2031 条推文
+> 📊 推文存档 - 共 2034 条推文
 
 ---
 
@@ -151,6 +151,34 @@ Grok 4.6 reaches #1 on @databricks
 
 ---
 
+## 2026-08-13 07:38:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Maybe it's just because it's new and shiny but I'm obsessed with with Grok Bot. The form factor is so fun, especially when combined with text to speech. You can FLY. Automations just work, cross-bot messaging works perfectly (I do most everything through my "chief of staff").
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKgmp9ap2h_cKLZz8aCsMwTZzCVDwNAALQEmsbufvpV6EqUUiTt0ubAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Austen/status/2087685264617406963#m)
+
+---
+
+## 2026-08-13 10:12:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I’m not sure who made this. But it rocks.
+
+<img src="/images/elonmusk/amplify_video_thumb_2087723659293024256_img_yG7G7vPTyZxDbXva.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BasedMikeLee/status/2087723917112721847#m)
+
+---
+
 ## 2026-08-13 12:36:03
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -158,10 +186,6 @@ Grok 4.6 reaches #1 on @databricks
 **内容**:
 
 Grok 4.6 has a great sense of humor 😂
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKgWp9TY2FLCAXB7tugjMXjxB5sS_RAAJxEmsbufvpV280Wj72DxpoAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087760069693997530#m)
 
 ---
 
@@ -173,9 +197,17 @@ Grok 4.6 has a great sense of humor 😂
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2087723659293024256_img_yG7G7vPTyZxDbXva.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2087760446212522196#m)
+## 2026-08-13 13:11:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: one best thing about Grok 4.6 is that you don't have to set a goal or loop It now works for a long time autonomously as long as it can finish the job and it really really tries to finish the job
+
+[查看原文](https://nitter.net/XFreeze/status/2087769103821918619#m)
 
 ---
 
