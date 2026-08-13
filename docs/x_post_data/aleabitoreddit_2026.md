@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 399 条推文
+> 📊 推文存档 - 共 400 条推文
 
 ---
 
@@ -39,9 +39,19 @@ Is it just me, or is the list of 3 letter optical jargon never ending? We have L
 
 $SIVE announces a $3.4M development program with SemiNex! For CPO, DFB laser arrays, and optical amplifiers. Early production is targeted H2 2027 (in line with early scale up CPO timelines) Seemed weird to me at first given product overlap, since SemiNex is a much smaller Series B company... But then I got reminded of a less explicit version of $SPCX + Cursor relationship (derisking by working together first). There's probably something interesting Sivers found in this company.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKg2p9eScCtsdWTPGOd08P9CIV__36AAL2EmsbufvpV-2Z-XIuVpdmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087807614172488131#m)
+## 2026-08-13 17:46:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both) So I stopped covering them as much. But TLDR on updates: Early this year, IQE was a distressed but critical chokepoint in the optical supply chain with links to $LITE and others when I published my thesis on it. Since then: - $MTSI signed long term epiwafer supply agreements, took a stake in the company, now IQE is bank debt free (Macom has convertibles, but that's positive) - $TSEM signed agreements for InP epiwafers. - Management explicitly said its IQE agreement was signed to secure the "strategic III-V epiwafer supply required for that roadmap" - IQE signed another ~$14M mysterious AI DC contract. The only part that's still playing out with my earlier thesis is IQE converting their latent/underutilized capacity toward AI DC segment, to match peers like Landmark in the space (which takes time, like slightly over a year if I remember correctly). There's some national security implications that I'll avoid talking about that makes them more important. But basically: FY2025 revenue: £97.3m FY2026 guidance: over £126.5m They're rapidly growing again in the optical sector, out of bank debt/distressed liquidation state, and remains a critical chokepoint in Western optical supply chains. Now... with new agreements with your leading photonics companies for revenue growth, and players like Macom serving as a soft backstop. After a thesis gets validated, typically I just sit back and enjoy growth of a business.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKh2p9ljibBKo7mBABOYme5CeuWs2pAAJAE2sbufvpV30YAtA5Gu1OAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087838176677376186#m)
 
 ---
 
