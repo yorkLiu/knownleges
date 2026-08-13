@@ -7,7 +7,143 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2039 条推文
+> 📊 推文存档 - 共 2053 条推文
+
+---
+
+## 2026-08-14 01:08:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 ranks #1 on the GPQA Diamond leaderboard 🧠 Grok 4.6 (high) scores 95% - the highest score on the chart for graduate-level scientific reasoning It outperforms Claude Fable 5, Opus 5, GPT-5.6 Sol and Kimi K3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKl2p-Ltp_lJxOzZGPFmBOPnZJ9uhSAAInEmsbW2nwV9IfRKp_VZRTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2087949309031379114#m)
+
+---
+
+## 2026-08-14 02:17:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We are making 𝕏 open source. Transparency build trust.
+
+[查看原文](https://nitter.net/elonmusk/status/2087966834519675053#m)
+
+---
+
+## 2026-08-14 02:30:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In making 𝕏 open source, we are actively seeking criticism to improve fairness and quality of algorithmic recommendations
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKmmp-LufxjO5d7l7D6AJRZvBEu456AAIqEmsbW2nwV2sJ2nBfor0iAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087970185529487807#m)
+
+---
+
+## 2026-08-14 02:31:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.6
+
+<img src="/images/elonmusk/amplify_video_thumb_2087953897650544640_img_b0uTX-1nYuSRmNja.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087970387002855683#m)
+
+---
+
+## 2026-08-14 02:32:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: You know how everyone started seeing their friends in the timeline a few weeks ago? With our new open-source code base, you'd also have been able to see what changed under the hood -- here's the story: https://github.com/xai-org/x-algorithm/blob/main/docs/BIDIRECTIONAL_BOOST_CHANGE.md
+
+<img src="/images/elonmusk/card_img_2085620459698098176_ud4VbWd53Fformat3Dpng26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKmWp-LuNszLBUKdcVfR3LS4umj-GEAAIpEmsbW2nwV7tjwkr9CRrrAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/kcoleman/status/2087970571942281375#m)
+
+---
+
+## 2026-08-14 02:33:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A lot of people hit their usage limits fast, so we’re providing more free usage
+
+[查看原文](https://nitter.net/elonmusk/status/2087970693065355290#m)
+
+---
+
+## 2026-08-14 02:34:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It really is. The mission is advancement of civilization and propagation of consciousness to the stars.
+
+[查看原文](https://nitter.net/elonmusk/status/2087971117298340221#m)
+
+---
+
+## 2026-08-14 02:49:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All other sources of energy combined are utterly insignificant compared to the Sun
+
+[查看原文](https://nitter.net/elonmusk/status/2087974756012159128#m)
+
+---
+
+## 2026-08-14 03:08:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok
+
+[查看原文](https://nitter.net/elonmusk/status/2087979619618082898#m)
+
+---
+
+## 2026-08-14 03:28:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKlGp-Ls8q7GIKpgLDQmRfoncD2Lx7AAIkEmsbW2nwVye0X61CIlQBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKlWp-LtKlRGkwu6RIy1As3OOWeWIXAAIlEmsbW2nwVw5Nbf188bP-AQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKlmp-Ltd0-Ji6wIBiiyC39QkCok5NAAImEmsbW2nwV7uSjFvQQo_WAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2087984574768816159#m)
 
 ---
 
@@ -121,6 +257,20 @@ RT by @elonmusk: SPACEXAI: Grok 4.6 leads on the two strongest knowledge-work / 
 
 ---
 
+## 2026-08-13 02:02:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Tried Grok 4.6 on my bug bench an hour after release. 105 hidden bugs in two real repos, judged blind. Grok 4.5: 17 (+10 non-planted) Grok 4.6: 27 (+15 non-planted) Fable 5: 29 (+2 non-planted) Looks like it may be my new default model. The best combination of time, value, and cost. 4.7 is dropping soon. That may be an even bigger jump.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKmGp-Lt0VBOLu3pqMROzAB0vKKiTmAAIoEmsbW2nwV4Ei37TIkoj1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/PawelHuryn/status/2087600689337835811#m)
+
+---
+
 ## 2026-08-13 02:07:06
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -148,8 +298,6 @@ Try out Grok @Bot
 **内容**:
 
 RT by @elonmusk: Grok Bot has taken over the entire internet. And for good reason It is an EXCELLENT AI agent But you HAVE to set it up the right way Here are the first 5 steps to make your Grok Bot agent team SUPER powerful: 1. Brain dump everything about yourself, goals, passions, and career into the initial agent. This is going to give it the context it needs to set up your agent team 2. Next, prompt the agent "Based on what you know about me, what do you think would be the best set up of this Grok Bot app? Which bots should I make and what should their responsibilities be? This should enable the best workflow and productivity" This will give you the perfect plan for setting up Grok Bot 3. After reviewing the plan, ask the Bot to set up your workspace for you. It will create the agents, give the right context and descriptions, and make sure your setup is built for productivity 4. Next, ask it for which routines each agent can set up to help you out the most. This should give you a list of cron jobs (routines) that each agent can do on a regular interval 5. Ask the agent to implement these And just like that, you have the most powerful AI agent on the internet all set up. You have an entire fleet of agents ready to go and do work for you. And in fact, because you set up the routines, they're ALREADY doing work for you Enjoy the AGI
-
-[查看原文](https://nitter.net/AlexFinn/status/2087642719447609374#m)
 
 ---
 
@@ -231,11 +379,19 @@ Video
 
 RT by @elonmusk: Grok Bot just passed Google’s “I'm not a robot?” test I fail this task sometimes tbh 😅
 
-<img src="/images/elonmusk/amplify_video_thumb_2087890148021121024_img_V4MyHs6AhyYoTw00.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/elonmusk/amplify_video_thumb_2087221157787525120_img_n9OrR6nUrxVZL4oY.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-13 22:15:12
 
-[查看原文](https://nitter.net/XFreeze/status/2087891600345010323#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: August 13, 1997, is the day it all started. The very first episode of #SouthPark premiered 29 years ago today. Celebrate #SouthParkDay and watch all seasons exclusively on #ParamountPlus!
+
+<img src="/images/elonmusk/amplify_video_thumb_2087905765214298113_img_OFDIS1yJ3WQyB1HD.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SouthPark/status/2087905815608918284#m)
 
 ---
 
@@ -247,10 +403,6 @@ RT by @elonmusk: Grok Bot just passed Google’s “I'm not a robot?” test I f
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2087632670968926208_img_JLe90k7X80AURglT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087909414418235548#m)
-
 ---
 
 ## 2026-08-13 22:33:52
@@ -261,7 +413,29 @@ Video
 
 Not bad
 
-[查看原文](https://nitter.net/elonmusk/status/2087910515246784773#m)
+---
+
+## 2026-08-13 23:39:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Less than 48 hours ago, SpaceXAI dropped Grok 4.6. People are already building crazy stuff with it. 10 wild examples:
+
+[查看原文](https://nitter.net/minchoi/status/2087926969333698743#m)
+
+---
+
+## 2026-08-13 23:44:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 is pretty pretty good. Spent a few hours with it last night. A few impressions: - quite fast for the intelligence - prose descriptions of complex code is concise and clear - able to tackle hard problems (e.g. successfully built a RAM probe to pull position information from the PRG emulator I'm using) - Seems particularly good at longer running tasks - May be even more autistic than 5.6? It does exactly what I ask. Not more. And often will take things very (too?) literally - Gonna try it as my primary driver and see how it goes, but so far, quite favorable
+
+[查看原文](https://nitter.net/martin_casado/status/2087928337046049034#m)
 
 ---
 
