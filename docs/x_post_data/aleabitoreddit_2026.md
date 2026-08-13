@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 401 条推文
+> 📊 推文存档 - 共 402 条推文
 
 ---
 
@@ -59,9 +59,25 @@ Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others
 
 Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. - I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point: They have an absurd ~$830m cash on hand now. And my guess is that they're close to done, since I would be in disbelief if they needed more. So now... they have ~$830m to grow their business like M&A, and EV actually dropped really low recently (eg. $1.25B MC vs. $830m cash on hand), that I thought it was compelling to take a risk. - Annualized production capacity target is 12M optical engines/year for 2027, which is pretty absurd ramp. Need to do more research into ASP for Poet's products, but maybe $125-$200? So at ~$150 ASP, $1.8B revenue ceiling. But they're like inverse AAOI right now: no visible demand to fill all that capacity. Aside from Lumilens, which is now a highly valued hyperscaler supplier (probably Amazon or Microsoft), with billions in customer agreements. The interesting thing is if Poet signed prepayment EML agreements with players like Mitsubishi, or CW agreements with Sivers behind the scenes with that balance sheet. And given the current bottleneck, players might use Poet as a workaround for supply procurement. But basically, you have a super cash-rich company with a ton of capacity coming online. And they're not really disappearing anytime soon with their financials. I don't quite think it's as technically defensible compared to upstream laser chokepoints with something like $SIVE around the same valuation in terms of technical moat for CW lasers vs. OE packaging side. As you've seen recently with Celestial and Poet. But maybe... there's a chance some hyperscaler or downstream company announces a volume agreement sometime in the future. and $POET takes off. And they do have the supply chain setup for ramp with that. That's the risk I ended up taking, but it's not exactly a clear as day long for me like $AAOI.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKiGp9nXuY8o05bLBU-FKcMO385IZ3AAJxE2sbW2noV676RISgZBp3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2087846074027295020#m)
+## 2026-08-13 19:43:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In IPO news… Vantage Data Centers is exploring going public at an enormous $100B valuation. If you’re not familiar, $ORCL is their anchor tenant for Stargate (OpenAI end user), and Vantage develops/operates hyperscaler DCs. Anthropic IPO is also expected, with investors expecting $2T valuation, eclipsing $SPCX per FT. Yeah… idk about Anthropic valuations. Jim Cramer defending that valuation is never a good sign. On a side note, Opus 5 is probably the worst consumer LLM I’ve used to date, it’s like a 5 IQ LLM operating off terrible data retrieval. With a Fable-like God complex on top. Enterprise is probably having a better time though. Unitree IPO is also expected this month and priced it at a $9B valuation. Which is a positive tailwind for Unitree for the humanoid sectors. Not really an AI name but SHEIN is going public as soon as the 19th this month. Go ask any girl you know and they’re probably familiar with this platform.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKiWp9s0imhDa5e4ZGpvWNpi0yvt7bAAJ0EWsbW2nwVzyffH8XnmZYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKimp9s00buNjL3GT1QMeWqEDFc3wkAAJ1EWsbW2nwV7AwW42wSrQ6AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKi2p9s1CexoeqvCyCJgg08lKHKFArAAJ2EWsbW2nwVxXEi5Ccv2YoAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKjGp9s1NSgEV7FZeLo1gvWuy6FbLWAAJ3EWsbW2nwVxqymaWfZNjsAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2087867722784805170#m)
 
 ---
 
