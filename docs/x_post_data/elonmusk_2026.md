@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2055 条推文
+> 📊 推文存档 - 共 2058 条推文
 
 ---
 
@@ -109,10 +109,6 @@ Grok
 
 RT by @elonmusk: 𝕏 is the most transparent platform on the internet. I was able to see if my account or posts were being suppressed, understand the exact reason for any visibility limits, and even download the full report. Here’s how easy and transparent it was 👇
 
-<img src="/images/elonmusk/amplify_video_thumb_2087981442282442752_img_r0vh7KY0iBvVv6-T.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2087981530148966583#m)
-
 ---
 
 ## 2026-08-14 03:28:10
@@ -133,9 +129,45 @@ Grok
 
 RT by @elonmusk: Grok 4.6 just matched Claude Fable 5 on Perplexity’s WANDR benchmark....at more than 60% lower cost Both score exactly 0.496 But the cost per task is ridiculous: • Grok 4.6 → $7.58 • Claude Fable 5 → $20.30 Same benchmark performance....for a fraction of the cost and Grok 4.6 also comfortably outperforms GPT-5.6 Sol Grok 4.6’s efficiency is totally insane
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKm2p-NhWARSYaT5ldxWVa765YsMjvAAIsEmsbW2nwV2_zwnE85bJdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/XFreeze/status/2087985336471142806#m)
+## 2026-08-14 03:43:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: What features are missing for you from Grok @bot I will compile this and push to the team.
+
+[查看原文](https://nitter.net/naoufal_elh/status/2087988529787736575#m)
+
+---
+
+## 2026-08-14 04:45:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Everybody knew this was happening but if you said it, you got kicked off social media.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKnGp-PVjEI19h-p0Yh_eVa-g1JWphAAIvEmsbW2nwV05Pi3SdwhnaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TRHLofficial/status/2088003919242809478#m)
+
+---
+
+## 2026-08-14 05:44:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+He was a wise man
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKnWp-PVyNKQURUdBr6XOeCKK7o29VAAIwEmsbW2nwV8aRtQ52wRYSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088018917801218320#m)
 
 ---
 
