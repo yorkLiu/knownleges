@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2053 条推文
+> 📊 推文存档 - 共 2055 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT by @elonmusk: Grok 4.6 ranks #1 on the GPQA Diamond leaderboard 🧠 Grok 4.6 (high) scores 95% - the highest score on the chart for graduate-level scientific reasoning It outperforms Claude Fable 5, Opus 5, GPT-5.6 Sol and Kimi K3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKl2p-Ltp_lJxOzZGPFmBOPnZJ9uhSAAInEmsbW2nwV9IfRKp_VZRTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2087949309031379114#m)
-
 ---
 
 ## 2026-08-14 02:17:40
@@ -32,8 +28,6 @@ RT by @elonmusk: Grok 4.6 ranks #1 on the GPQA Diamond leaderboard 🧠 Grok 4.6
 **内容**:
 
 We are making 𝕏 open source. Transparency build trust.
-
-[查看原文](https://nitter.net/elonmusk/status/2087966834519675053#m)
 
 ---
 
@@ -45,10 +39,6 @@ We are making 𝕏 open source. Transparency build trust.
 
 In making 𝕏 open source, we are actively seeking criticism to improve fairness and quality of algorithmic recommendations
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKmmp-LufxjO5d7l7D6AJRZvBEu456AAIqEmsbW2nwV2sJ2nBfor0iAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087970185529487807#m)
-
 ---
 
 ## 2026-08-14 02:31:47
@@ -58,10 +48,6 @@ In making 𝕏 open source, we are actively seeking criticism to improve fairnes
 **内容**:
 
 Try Grok 4.6
-
-<img src="/images/elonmusk/amplify_video_thumb_2087953897650544640_img_b0uTX-1nYuSRmNja.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2087970387002855683#m)
 
 ---
 
@@ -73,12 +59,6 @@ Try Grok 4.6
 
 RT by @elonmusk: You know how everyone started seeing their friends in the timeline a few weeks ago? With our new open-source code base, you'd also have been able to see what changed under the hood -- here's the story: https://github.com/xai-org/x-algorithm/blob/main/docs/BIDIRECTIONAL_BOOST_CHANGE.md
 
-<img src="/images/elonmusk/card_img_2085620459698098176_ud4VbWd53Fformat3Dpng26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKmWp-LuNszLBUKdcVfR3LS4umj-GEAAIpEmsbW2nwV7tjwkr9CRrrAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/kcoleman/status/2087970571942281375#m)
-
 ---
 
 ## 2026-08-14 02:33:00
@@ -88,8 +68,6 @@ RT by @elonmusk: You know how everyone started seeing their friends in the timel
 **内容**:
 
 A lot of people hit their usage limits fast, so we’re providing more free usage
-
-[查看原文](https://nitter.net/elonmusk/status/2087970693065355290#m)
 
 ---
 
@@ -101,8 +79,6 @@ A lot of people hit their usage limits fast, so we’re providing more free usag
 
 It really is. The mission is advancement of civilization and propagation of consciousness to the stars.
 
-[查看原文](https://nitter.net/elonmusk/status/2087971117298340221#m)
-
 ---
 
 ## 2026-08-14 02:49:09
@@ -112,8 +88,6 @@ It really is. The mission is advancement of civilization and propagation of cons
 **内容**:
 
 All other sources of energy combined are utterly insignificant compared to the Sun
-
-[查看原文](https://nitter.net/elonmusk/status/2087974756012159128#m)
 
 ---
 
@@ -125,7 +99,19 @@ All other sources of energy combined are utterly insignificant compared to the S
 
 Grok
 
-[查看原文](https://nitter.net/elonmusk/status/2087979619618082898#m)
+---
+
+## 2026-08-14 03:16:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 𝕏 is the most transparent platform on the internet. I was able to see if my account or posts were being suppressed, understand the exact reason for any visibility limits, and even download the full report. Here’s how easy and transparent it was 👇
+
+<img src="/images/elonmusk/amplify_video_thumb_2087981442282442752_img_r0vh7KY0iBvVv6-T.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2087981530148966583#m)
 
 ---
 
@@ -137,13 +123,19 @@ Grok
 
 Grok
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKlGp-Ls8q7GIKpgLDQmRfoncD2Lx7AAIkEmsbW2nwVye0X61CIlQBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKlWp-LtKlRGkwu6RIy1As3OOWeWIXAAIlEmsbW2nwVw5Nbf188bP-AQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-14 03:31:11
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKlmp-Ltd0-Ji6wIBiiyC39QkCok5NAAImEmsbW2nwV7uSjFvQQo_WAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/elonmusk/status/2087984574768816159#m)
+**内容**:
+
+RT by @elonmusk: Grok 4.6 just matched Claude Fable 5 on Perplexity’s WANDR benchmark....at more than 60% lower cost Both score exactly 0.496 But the cost per task is ridiculous: • Grok 4.6 → $7.58 • Claude Fable 5 → $20.30 Same benchmark performance....for a fraction of the cost and Grok 4.6 also comfortably outperforms GPT-5.6 Sol Grok 4.6’s efficiency is totally insane
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKm2p-NhWARSYaT5ldxWVa765YsMjvAAIsEmsbW2nwV2_zwnE85bJdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2087985336471142806#m)
 
 ---
 
