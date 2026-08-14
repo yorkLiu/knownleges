@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2086 条推文
+> 📊 推文存档 - 共 2088 条推文
+
+---
+
+## 2026-08-15 00:49:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Orbital compute will be the only way to scale AI probably sometime in 2029 due to power availability& permitting problems on land
+
+[查看原文](https://nitter.net/elonmusk/status/2088306926442430578#m)
 
 ---
 
@@ -381,6 +393,22 @@ It is an honor to have such a great team join @SpaceX
 
 ---
 
+## 2026-08-14 22:40:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: "Cursor and SpaceXAI are a deep cultural fit with one another. They both work with a pace and intensity that borders on the absurd. And they’re both defined by iteration." "It doesn’t matter if you get it wrong the first time, or the second, or the third—even the tenth or the twentieth. Just keep on going. If you’re moving in the right direction faster than anyone else, you’ll probably win." "Cursor reinvented itself as a company not once but twice: first, from email client to tab-complete IDE and token reseller; and again, from tab-complete IDE and token reseller to AI lab and token creator." "And it did all of that in less than four years." "They really, really want to win." Full piece from @sarahdingwang, @BornsteinMatt, and @martin_casado on Cursor + SpaceXAI: https://www.a16z.news/p/cursor-spacexai-fastest-iterating-team
+
+<img src="/images/elonmusk/card_img_2088274690100137985_MDmjo5b53Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKt2p_WL5oIqs0yFo2wXlgOVm1GP2CAALhE2sbW2n4V0zA1A59BRhbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/a16z/status/2088274689303224817#m)
+
+---
+
 ## 2026-08-14 22:52:10
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -388,8 +416,6 @@ It is an honor to have such a great team join @SpaceX
 **内容**:
 
 RT by @elonmusk: Cursor has officially joined SpaceX. We’re grateful to become part of such a special company, and it has been a privilege working with the SpaceXAI team. Lots ahead.
-
-[查看原文](https://nitter.net/mntruell/status/2088277505933488137#m)
 
 ---
 
@@ -400,8 +426,6 @@ RT by @elonmusk: Cursor has officially joined SpaceX. We’re grateful to become
 **内容**:
 
 Yes
-
-[查看原文](https://nitter.net/elonmusk/status/2088286607077990820#m)
 
 ---
 
