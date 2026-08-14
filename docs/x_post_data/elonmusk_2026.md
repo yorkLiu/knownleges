@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2084 条推文
+> 📊 推文存档 - 共 2086 条推文
 
 ---
 
@@ -379,7 +379,29 @@ How to use @bot
 
 It is an honor to have such a great team join @SpaceX
 
-[查看原文](https://nitter.net/elonmusk/status/2088273489820061920#m)
+---
+
+## 2026-08-14 22:52:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Cursor has officially joined SpaceX. We’re grateful to become part of such a special company, and it has been a privilege working with the SpaceXAI team. Lots ahead.
+
+[查看原文](https://nitter.net/mntruell/status/2088277505933488137#m)
+
+---
+
+## 2026-08-14 23:28:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://nitter.net/elonmusk/status/2088286607077990820#m)
 
 ---
 
