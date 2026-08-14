@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2068 条推文
+> 📊 推文存档 - 共 2069 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Grok 4.6 is now available in Warp and the Warp Agent CLI. Run /connect-grok in Warp to sign in with your X Premium or SuperGrok subscription to get started right away.
-
-<img src="/images/elonmusk/amplify_video_thumb_2087935007528505344_img_NPBUIpiRB9AwAtqz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/warpdotdev/status/2087935553790410954#m)
 
 ---
 
@@ -153,10 +149,6 @@ RT by @elonmusk: Grok 4.6 just matched Claude Fable 5 on Perplexity’s WANDR be
 
 RT by @elonmusk: Best demo I’ve seen yet — it’s this easy 👇
 
-<img src="/images/elonmusk/amplify_video_thumb_2087981442282442752_img_r0vh7KY0iBvVv6-T.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/kcoleman/status/2087986208873832468#m)
-
 ---
 
 ## 2026-08-14 03:43:53
@@ -187,10 +179,6 @@ RT by @elonmusk: Everybody knew this was happening but if you said it, you got k
 
 RT by @elonmusk: Just took a Tesla Robotaxi ride in an area of Austin where the normal wait in the past was up to 20 minutes and my wait was only two minutes and this was consistent every time I did this!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKnmp-UybM7LkVMqOonMkAAcJ69lAVBgACOBJrG1tp8FcrPb2z2V0y8QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/gailalfaratx/status/2088012952624418880#m)
-
 ---
 
 ## 2026-08-14 05:33:01
@@ -201,9 +189,21 @@ RT by @elonmusk: Just took a Tesla Robotaxi ride in an area of Austin where the 
 
 RT by @elonmusk: 1st Place: Nova taught Grok to reverse-engineer binaries into clean C. Started with 262KB GameBoy ROMs, ended up rebuilding a 1995 car’s ECU runtime. @theoc____ @supratikp07 @henryzhangumich
 
-<img src="/images/elonmusk/amplify_video_thumb_2088014788504981504_img_2441AS4fvR8yqQ3Y.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SpaceXAI/status/2088015997144064107#m)
+## 2026-08-14 05:35:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Unlike her bro, she doesn't try to hide it
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKoWp-aPHu-eR-wpUWCpDLf4plamK8AAJIEmsbW2nwV1DVs3_FH7_9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKomp-aPX0gzaSW_jDZiFEr27cg-dAAAJJEmsbW2nwV64pRXhUT3cEAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/EndWokeness/status/2088016559755211058#m)
 
 ---
 
@@ -225,8 +225,6 @@ He was a wise man
 
 RT by @elonmusk: We don’t just build in Memphis – we live, work, and invest here. We are committed to being good neighbors and responsible partners.  Since joining the community in 2024, SpaceXAI has paid $30 million in taxes, supporting essential local services, public education, infrastructure, and more. We’re proud to call Memphis home – the road to understanding the universe starts here.
 
-[查看原文](https://nitter.net/SpaceXAIMemphis/status/2088019251290341427#m)
-
 ---
 
 ## 2026-08-14 06:01:55
@@ -236,10 +234,6 @@ RT by @elonmusk: We don’t just build in Memphis – we live, work, and invest 
 **内容**:
 
 Prosecute/Fauci
-
-<img src="/images/elonmusk/amplify_video_thumb_2087998634474496000_img_bV-7bFPkCC84hR6b.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2088023268871557481#m)
 
 ---
 
@@ -251,8 +245,6 @@ Prosecute/Fauci
 
 Grok 4.6
 
-[查看原文](https://nitter.net/elonmusk/status/2088033597999473050#m)
-
 ---
 
 ## 2026-08-14 06:58:33
@@ -262,10 +254,6 @@ Grok 4.6
 **内容**:
 
 Tesla self-driving is amazing
-
-<img src="/images/elonmusk/amplify_video_thumb_2087768851408945152_img_aJxYJZHh2z_UWK2h.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2088037519312994480#m)
 
 ---
 
