@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 312 条推文
+> 📊 推文存档 - 共 313 条推文
 
 ---
 
@@ -19,7 +19,17 @@ tags: ["2026"]
 
 今晚上課，Substack 同步直播https://x.com/i/spaces/1PJqrNNzEZAxb
 
-[查看原文](https://nitter.net/dianzhuXS/status/2088043036576256469#m)
+---
+
+## 2026-08-14 09:30:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+從共產黨的「總理」中挑好人 就是「屎裡挑米粒」 那麼問題來了 跟「屎上雕花」有什麼不同 答：因為米粒算糧食 這幫人還惦記著吃呢 😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://nitter.net/dianzhuXS/status/2088075685822964128#m)
 
 ---
 
