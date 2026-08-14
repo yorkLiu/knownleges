@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 316 条推文
+> 📊 推文存档 - 共 317 条推文
 
 ---
 
@@ -59,9 +59,19 @@ tags: ["2026"]
 
 菊花不過是迎合了大部分精緻利己的精神需求而已 大部分中簡中產，反習不反黨，還幻想吃改開紅利，想習翠以後，回國做人上人⋯⋯ 各位大V學著點，這是中簡圈的流量密碼，但是也別忘了，流量這玩意是雙刃劍
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKo2p-hgVJqQm7fGMHpg9rWBrxSdNwAAJrEmsbW2nwV6OHRpfBNlTiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2088096509627916369#m)
+## 2026-08-14 17:53:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這確實是個思路 但太高調了 豢養死士被太早發現 會引來圍剿的
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKr2p-68BtozVKOy6qSeEGJEgjtgmCAAIXE2sbW2n4VxGQ310xPTtBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2088202353325564024#m)
 
 ---
 
