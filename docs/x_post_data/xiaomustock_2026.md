@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 328 条推文
+> 📊 推文存档 - 共 330 条推文
 
 ---
 
@@ -99,10 +99,6 @@ cpu必然会发生和2026年跟存储发生的结构性需求缺口。 现在cpu
 
 闪迪涨成这样逼样我再加仓会不会死里面。 看着心痒痒，闪迪仓位占比太小了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtWp_HpvsHATDrCQtAXzgpXOivgdEAAKOE2sbW2n4V-aZPiL_4eVrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2088256720208601264#m)
-
 ---
 
 ## 2026-08-14 21:33:52
@@ -113,9 +109,31 @@ cpu必然会发生和2026年跟存储发生的结构性需求缺口。 现在cpu
 
 终于跌下来了，心不痒了
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtWp_HpvsHATDrCQtAXzgpXOivgdEAAKOE2sbW2n4V-aZPiL_4eVrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2088257802385211398#m)
+## 2026-08-14 22:54:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+什么都不缺了，全下来了
+
+[查看原文](https://nitter.net/xiaomustock/status/2088278166557360573#m)
+
+---
+
+## 2026-08-14 22:55:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+真开始定投spy和qqq，每次赚了就买一部分放着。 贵在坚持。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtmp_NGflNeBteMaipj73PnmEo8ZhAAKyE2sbW2n4V9OSY8hsrffRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088278388486312026#m)
 
 ---
 
