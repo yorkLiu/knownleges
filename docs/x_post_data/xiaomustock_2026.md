@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 322 条推文
+> 📊 推文存档 - 共 323 条推文
 
 ---
 
@@ -49,9 +49,19 @@ tags: ["2026"]
 
 $META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标准的大公司。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKrGp-x2iJzP00LCVBHNxVpVGcbz4mAAKkEmsbW2n4V7iLU2OnuVKxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2088165493622587573#m)
+## 2026-08-14 18:22:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我这人赌性太强了越涨越想上杠杆。 存储顺风行情买2x还不够还想继续杠杆梭哈上2x ，生怕错过大行情。 一直在提醒自己这次赚到了真开始践行定投spy和qqq.不然总感觉哪一天我这么搞一把又要爆仓爆掉。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKsGp-8wGbviNqLBqzO7nyXy4-T0bOAAIvE2sbW2n4V89DkK_5zrMPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088209624218702136#m)
 
 ---
 
