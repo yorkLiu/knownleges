@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 405 条推文
+> 📊 推文存档 - 共 406 条推文
 
 ---
 
@@ -29,11 +29,21 @@ Feels like glass substrate timelines got pushed back at least another quarter. -
 
 Donald Trump signs a proclamation to strengthen US supply chains for drones. Benefiting U.S. drone component suppliers like $UMAC to UAS manufacturers like $ONDS + $RCAT. TLDR, 100% tariffs on: - UAS docking stations + certain critical components - certain parts for >25 kg drones - Drones >25 kg 25% tariffs on: - broader components UAS = Unmanned Aircraft System (don't have any positions in any above)
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKrWp-1fOjMisCtM88BUdtORJSWIItAALDEmsbW2n4V0DsH5V3IbUjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKrmp-1fdgECXI904aQATVqMT8_3sjAALEEmsbW2n4Vy3PBJsBxk5zAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-14 19:29:05
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2088181416148562017#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The $SHKY, Samsung, $SNDK, $MU memory bottleneck never changed anon
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKsmp_AYtXku7KXcTMtFr85rklSN_dAAJQE2sbW2n4V0ayOg3kJqA3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKJ2p3cVFls4wtUdgCrMVpDoGsRVwoAALJFWsbgi25V-c3_o5V3eadAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2088226398708338889#m)
 
 ---
 
