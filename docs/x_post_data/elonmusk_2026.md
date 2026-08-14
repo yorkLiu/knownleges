@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2069 条推文
+> 📊 推文存档 - 共 2076 条推文
 
 ---
 
@@ -18,6 +18,20 @@ tags: ["2026"]
 **内容**:
 
 RT by @elonmusk: Grok 4.6 is now available in Warp and the Warp Agent CLI. Run /connect-grok in Warp to sign in with your X Premium or SuperGrok subscription to get started right away.
+
+---
+
+## 2026-08-14 01:04:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I’ve had my @Tesla for 9 days—and it’s already saved my life. Full Self-Driving with HW4 is mind-blowing. My car drove me ~800 miles from Georgia to Texas without me touching the wheel or pedals, while avoiding multiple collisions. I’ve never felt safer in a vehicle. Here’s one example of a collision avoided, automatically captured on camera. In this instance (though it doesn’t show my actual POV), sparks covered the windshield, lighting up the road like the Fourth of July and obstructing my view. Since I was in FSD, the car reacted immediately without overcorrecting like I likely would have, which could have led to a far worse outcome. Everyone who’s ridden with me and experienced FSD for the first time is blown away and now looking into buying one—including my parents, who like me have never owned an EV. There’s no telling how many lives this technology will save. This is hands-down the most incredible purchase I’ve ever made. God bless @elonmusk & the Tesla team🫡
+
+<img src="/images/elonmusk/amplify_video_thumb_2087948296207708160_img_XUlHzcYw_BAfra97.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TexasLindsay_/status/2087948377770119594#m)
 
 ---
 
@@ -199,12 +213,6 @@ RT by @elonmusk: 1st Place: Nova taught Grok to reverse-engineer binaries into c
 
 RT by @elonmusk: Unlike her bro, she doesn't try to hide it
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKoWp-aPHu-eR-wpUWCpDLf4plamK8AAJIEmsbW2nwV1DVs3_FH7_9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKomp-aPX0gzaSW_jDZiFEr27cg-dAAAJJEmsbW2nwV64pRXhUT3cEAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EndWokeness/status/2088016559755211058#m)
-
 ---
 
 ## 2026-08-14 05:44:38
@@ -247,6 +255,20 @@ Grok 4.6
 
 ---
 
+## 2026-08-14 06:47:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Use Grok 4.6 for CAD
+
+<img src="/images/elonmusk/amplify_video_thumb_2087995196869058560_img_O2nmWM0NK-LT5yBF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/grok/status/2088034663004770667#m)
+
+---
+
 ## 2026-08-14 06:58:33
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -254,6 +276,60 @@ Grok 4.6
 **内容**:
 
 Tesla self-driving is amazing
+
+---
+
+## 2026-08-14 10:09:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: He built the computer vision system in my oven. (True story). So when he praises something I listen a little harder.
+
+[查看原文](https://nitter.net/Scobleizer/status/2088085637803175991#m)
+
+---
+
+## 2026-08-14 11:08:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pinned: Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. https://Grok.com/build
+
+<img src="/images/elonmusk/card_img_2084662236350410752_4R2ZHI013Fformat3Dpng26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKqGp-qmEtG_8D1qcgxQEqBw_HSlO-AAJTEmsbW2n4Vytb7XHKVc83AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088100521261359218#m)
+
+---
+
+## 2026-08-14 12:44:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Kekius Maximus
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKp2p-ql0LwKqRt5et5fVb56FQK4_KAAJSEmsbW2n4VysEeJCqhoGoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088124576685281766#m)
+
+---
+
+## 2026-08-14 12:55:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.6 image & video understanding, it’s a major upgrade!
+
+[查看原文](https://nitter.net/elonmusk/status/2088127459971522726#m)
 
 ---
 
@@ -4189,8 +4265,6 @@ Given that AI from 2 years ago feels so old that it should be in a museum, then 
 
 ## 2026-07-29 00:00:21
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Build apps from http://grok.com, iOS, and Android. With one prompt, turn an idea into a published product with its own domain. Now available for SuperGrok Heavy users.
@@ -4198,8 +4272,6 @@ RT by @elonmusk: Build apps from http://grok.com, iOS, and Android. With one pro
 ---
 
 ## 2026-07-29 00:12:34
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4209,8 +4281,6 @@ RT by @elonmusk: Today we're launching app builder for Grok. It lets you build f
 
 ## 2026-07-29 00:25:08
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Help build the AI that advances humanity. SpaceXAI is hiring exceptional engineers to work on @Grok. Explore all open roles through the @SpaceXAI profile and apply directly from 𝕏
@@ -4218,8 +4288,6 @@ RT by @elonmusk: Help build the AI that advances humanity. SpaceXAI is hiring ex
 ---
 
 ## 2026-07-29 01:44:13
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4229,8 +4297,6 @@ RT by @elonmusk: I wrote about why we believe the future is for everyone. More c
 
 ## 2026-07-29 02:27:06
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Neuralink just shared that participants living with paralysis are now controlling a powered wheelchair using nothing but their thoughts. No joystick. Just intention. Next up Neuralink will likely connect these individuals to an Optimus robot where they get complete independence, effectively telepresense – seeing and hearing, and ambulating through a robot. The singularity is really hear!
@@ -4238,8 +4304,6 @@ RT by @elonmusk: Neuralink just shared that participants living with paralysis a
 ---
 
 ## 2026-07-29 04:25:52
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4249,8 +4313,6 @@ RT by @elonmusk: Emails show leading officials at NIH, including Fauci, knew the
 
 ## 2026-07-29 04:41:11
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Sweden did not lock down
@@ -4258,8 +4320,6 @@ RT by @elonmusk: Sweden did not lock down
 ---
 
 ## 2026-07-29 04:54:55
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4269,8 +4329,6 @@ RT by @elonmusk: As it turns out FSD is part of my "the singularity is already h
 
 ## 2026-07-29 05:11:03
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Happy birthday Grok Imagine ❣️
@@ -4278,8 +4336,6 @@ RT by @elonmusk: Happy birthday Grok Imagine ❣️
 ---
 
 ## 2026-07-29 07:08:27
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4289,8 +4345,6 @@ Supervised FSD unequivocally saves lives, which means delays in country approval
 
 ## 2026-07-29 07:12:40
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Never forget how fragile the tiny candle of consciousness is
@@ -4298,8 +4352,6 @@ Never forget how fragile the tiny candle of consciousness is
 ---
 
 ## 2026-07-29 07:16:09
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4309,8 +4361,6 @@ Video
 
 ## 2026-07-29 07:16:46
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Stayin’ Alive
@@ -4318,8 +4368,6 @@ Stayin’ Alive
 ---
 
 ## 2026-07-29 07:17:21
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4329,17 +4377,25 @@ Landing videos of Starship
 
 ## 2026-07-29 07:17:49
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 We’re sending a ship out to recover Starship
 
 ---
 
-## 2026-07-29 13:39:52
+## 2026-07-29 08:14:26
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+**内容**:
+
+RT by @elonmusk: Build a voice agent in under 2 minutes.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKpmp-qlkLEG_khhCZ8N6cxIatZAnkAAJREmsbW2n4V-g4LVF0TkSXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceXAI/status/2082258410465034561#m)
+
+---
+
+## 2026-07-29 13:39:52
 
 **内容**:
 
@@ -4349,8 +4405,6 @@ Starship still floating in the ocean
 
 ## 2026-07-29 13:53:59
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, which tests how well AI agents update technical specifications from code changes. Grok delivered the best combination of quality and operational efficiency, finishing ahead of Claude and GPT.
@@ -4358,8 +4412,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 ---
 
 ## 2026-07-29 14:01:50
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4369,8 +4421,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 (high) ranks #1 on the HighWalk benchmark, w
 
 ## 2026-07-29 14:03:11
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: BREAKING: Grok 4.5 just claimed the top spot on the new HighWalk Benchmark. The independent test measures how well AI models update real technical specifications from 46 Laravel commits — heavy on code analysis, abstraction, and precise writing. Results: • Grok 4.5 (high) → overall #1 (best quality + efficiency combo) • Claude Opus 5 (high) → highest raw quality, zero hard failures • GLM 5.2 → strongest open-weight model Higher reasoning effort didn’t always help. Full results just dropped.
@@ -4378,8 +4428,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 just claimed the top spot on the new HighWal
 ---
 
 ## 2026-07-29 15:01:58
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4389,8 +4437,6 @@ Grok now in Copilot
 
 ## 2026-07-29 15:04:53
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 John Cleese has (all too rare) common sense
@@ -4398,8 +4444,6 @@ John Cleese has (all too rare) common sense
 ---
 
 ## 2026-07-29 15:28:21
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4409,8 +4453,6 @@ The ship landing was precise, meaning that it would have been caught by the towe
 
 ## 2026-07-29 15:31:29
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Cool
@@ -4418,8 +4460,6 @@ Cool
 ---
 
 ## 2026-07-29 17:08:56
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4429,8 +4469,6 @@ RT by @elonmusk: So, the rules are if you have right wing views and post incitem
 
 ## 2026-07-29 18:32:56
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: I’m on vacation and haven’t been able to read the entire diary, but someone sent me a page where Fauci complained about my September 2022 interview with former CDC Director Robert Redfield. Redfield told me in the interview that during the first few months of the pandemic he tried to get a CDC team into China but was cut out of critical government meetings by Fauci. Redfield suspected that Fauci began to isolate him for saying the government needed to investigate whether the pandemic started from a lab in Wuhan, China. Science reporters allied with Tony Fauci later labeled Redfield a “conspiracy theorist” for saying he thought the pandemic likely started from a lab accident. https://disinformationchronicle.substack.com/p/fauci-labelled-me-a-totally-weird
@@ -4438,8 +4476,6 @@ RT by @elonmusk: I’m on vacation and haven’t been able to read the entire di
 ---
 
 ## 2026-07-29 19:38:52
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4449,8 +4485,6 @@ RT by @elonmusk: What's mind-blowing is Starship is the size of a 35-story high-
 
 ## 2026-07-29 19:41:52
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Fashion 🫦
@@ -4458,8 +4492,6 @@ RT by @elonmusk: Fashion 🫦
 ---
 
 ## 2026-07-29 20:35:17
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4469,8 +4501,6 @@ RT by @elonmusk: An illegal migrant has been sent to prison after turning up at 
 
 ## 2026-07-29 20:51:53
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: According to Google it is OK to only want a Black doctor, but not a White doctor. @Google produces clearly different answers based on race. This is peak woke.
@@ -4478,8 +4508,6 @@ RT by @elonmusk: According to Google it is OK to only want a Black doctor, but n
 ---
 
 ## 2026-07-29 21:00:13
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4489,8 +4517,6 @@ RT by @elonmusk: A joint statement from the WFA and X Corp. Today the World Fede
 
 ## 2026-07-29 21:05:24
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Jensen Huang was asked about the people technology left behind. He didn't offer a plan. He said the gap already closed. Huang: "All of a sudden artificial intelligence closed that technology divide." That divide was never a gap in ability. It was a language requirement. Huang: "Anybody could be a software programmer now." Every tool we ever built charged admission, and the price was always a language. The press needed literacy. The engine needed the manual. The computer needed code. Every tool in history had the same shape. The human moved toward the machine, compressed into a form it could parse. Whoever couldn't compress stayed outside. Code was always a human speaking machine. Seventy years of people translating themselves down into something a processor would accept. It just learned to speak back. Nothing has ever moved in that direction before. So we sorted people by the toll and pretended we were sorting by mind. The ones who paid became skilled. Everyone else became unskilled, a word that has never once described a real person. It only meant fluent in nothing the market was buying. Huang: "Everybody who are really gifted at their craft but maybe they don't know how to scale themselves with technology, they now have AI to help scale them." The best cook in a village of four thousand died the best cook in a village of four thousand. Not from a shortage of ability, but from a second requirement that had nothing to do with the first. Go back far enough in your own family and there is someone who was extraordinary at something. The world never found out. Neither did they. Ability was never distributed by geography. Access was, and access is the only thing that got recorded. Every system you move through in a day was built by the narrow band who could speak to a machine. Not the best ideas anyone had. The ideas that survived translation. We have never once seen what the rest of the species would have made. The scarcity was never in the talent. It was in the distance between holding it and reaching anyone. That distance was the product the technology industry sold. Huang: "They're welcomed into the world's economy, not burdened by technology anymore because AI made that possible." Burdened. Technology sold itself as leverage for a century, and the man supplying the whole industry just called it a weight. A developer you couldn't afford. A site that broke on a Sunday with no one to call. You paid the technology industry for permission to be findable. Nobody on earth got smarter this decade. The door stopped asking for a password. Huang: "Five years from now, it is likely that we're all going to be more gainfully employed. The economy is gonna be more productive." He grounds that in the labor shortage already on the books. Open work with nobody there to do it, inside an economy panicking about a machine that takes work away. Both cannot be true. The fear says there won't be enough work for us. The ledger says there aren't enough of us for the work. Every time a tool stopped requiring a specialist, the specialist lost a monopoly and everyone else gained a century. Writing left the scribes. The press left the church. The computer left the lab. The barrier was also a shelter. Everyone left outside got to keep the version of themselves that was never tested. For most of history that was a mercy. The wall did the refusing, so you never had to hear it from anyone else. The wall is gone. Now you find out. Nothing about you changed. The requirement did. For the first time, the only thing between what you can do and who it reaches is whether you do it.
@@ -4498,8 +4524,6 @@ RT by @elonmusk: Jensen Huang was asked about the people technology left behind.
 ---
 
 ## 2026-07-29 21:28:16
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4509,8 +4533,6 @@ Video
 
 ## 2026-07-29 21:28:22
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Video
@@ -4518,8 +4540,6 @@ Video
 ---
 
 ## 2026-07-29 21:31:20
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4529,8 +4549,6 @@ Video
 
 ## 2026-07-29 21:35:03
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Americans buried parents alone. Children lost years of childhood. Families watched businesses they had built over a lifetime disappear. And while the country suffered, Anthony Fauci was writing in his diary about becoming “the most famous and talked about person in the country” and marveling that his fame was “explosive and really unimaginable.” There was no camera he couldn’t find. No interview he couldn’t give. No American life he wouldn’t micromanage. He said one thing to the public, and would write the opposite in his diary. Today, when the country finally demanded answers, the man who never stopped talking suddenly went silent.
@@ -4538,8 +4556,6 @@ RT by @elonmusk: Americans buried parents alone. Children lost years of childhoo
 ---
 
 ## 2026-07-29 21:58:07
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4549,8 +4565,6 @@ Because he would incriminate himself. https://grok.com/share/bGVnYWN5_2bf90655-f
 
 ## 2026-07-29 22:13:46
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: The Economist uploaded their full Elon interview to YouTube and left the comments on 🔥 😂
@@ -4558,8 +4572,6 @@ RT by @elonmusk: The Economist uploaded their full Elon interview to YouTube and
 ---
 
 ## 2026-07-29 22:23:42
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4569,8 +4581,6 @@ RT by @elonmusk: BREAKING: Grok 4.5 ranked #1 on LaurenBench with a score of 56.
 
 ## 2026-07-29 22:23:55
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok Build updates
@@ -4578,8 +4588,6 @@ Grok Build updates
 ---
 
 ## 2026-07-29 22:44:41
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4589,8 +4597,6 @@ RT by @elonmusk: Time Magazine, February 24th 1961 In the 5 years that followed 
 
 ## 2026-07-29 22:49:42
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 😂
@@ -4598,8 +4604,6 @@ RT by @elonmusk: Time Magazine, February 24th 1961 In the 5 years that followed 
 ---
 
 ## 2026-07-29 22:53:51
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4609,21 +4613,13 @@ RT by @elonmusk: Starlink is helping transform healthcare across Sierra Leone �
 
 ## 2026-07-29 23:51:12
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Gates-ism perfectly epitomized.
 
-<img src="/images/elonmusk/amplify_video_thumb_2082155893958049792_img_Ee1j0jHQmHivCudo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xenocosmography/status/2082494156987871642#m)
-
 ---
 
 ## 2026-07-29 23:58:09
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
