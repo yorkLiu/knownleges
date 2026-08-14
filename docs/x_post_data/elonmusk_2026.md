@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2076 条推文
+> 📊 推文存档 - 共 2082 条推文
 
 ---
 
@@ -28,10 +28,6 @@ RT by @elonmusk: Grok 4.6 is now available in Warp and the Warp Agent CLI. Run /
 **内容**:
 
 RT by @elonmusk: I’ve had my @Tesla for 9 days—and it’s already saved my life. Full Self-Driving with HW4 is mind-blowing. My car drove me ~800 miles from Georgia to Texas without me touching the wheel or pedals, while avoiding multiple collisions. I’ve never felt safer in a vehicle. Here’s one example of a collision avoided, automatically captured on camera. In this instance (though it doesn’t show my actual POV), sparks covered the windshield, lighting up the road like the Fourth of July and obstructing my view. Since I was in FSD, the car reacted immediately without overcorrecting like I likely would have, which could have led to a far worse outcome. Everyone who’s ridden with me and experienced FSD for the first time is blown away and now looking into buying one—including my parents, who like me have never owned an EV. There’s no telling how many lives this technology will save. This is hands-down the most incredible purchase I’ve ever made. God bless @elonmusk & the Tesla team🫡
-
-<img src="/images/elonmusk/amplify_video_thumb_2087948296207708160_img_XUlHzcYw_BAfra97.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/TexasLindsay_/status/2087948377770119594#m)
 
 ---
 
@@ -263,10 +259,6 @@ Grok 4.6
 
 RT by @elonmusk: Use Grok 4.6 for CAD
 
-<img src="/images/elonmusk/amplify_video_thumb_2087995196869058560_img_O2nmWM0NK-LT5yBF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/grok/status/2088034663004770667#m)
-
 ---
 
 ## 2026-08-14 06:58:33
@@ -279,6 +271,32 @@ Tesla self-driving is amazing
 
 ---
 
+## 2026-08-14 09:08:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Thrilled to receive this feedback from Tesla — they tackle the world’s most critical multimodal challenges. Extremely proud that the team’s work is paying off🚀
+
+[查看原文](https://nitter.net/hexiang/status/2088070245210816595#m)
+
+---
+
+## 2026-08-14 09:20:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 from @SpaceXAI on ARC-AGI (Verified): - ARC-AGI-1: 87.5%, $0.30/task - ARC-AGI-2: 67.1%, $0.76/task - ARC-AGI-3: 2.11%, $5.6K On ARC-AGI-3, Grok 4.6 with xhigh reasoning scored comparably to GPT-5.6 Sol with high reasoning, but cost $5.6K versus Sol's $15.2K.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKqmp-sZ6MsgpKpfzx-DkW2bbujmmoAAJrEmsbW2n4V3BzAAEf9Eg0NQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/arcprize/status/2088073208268284352#m)
+
+---
+
 ## 2026-08-14 10:09:45
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -286,8 +304,6 @@ Tesla self-driving is amazing
 **内容**:
 
 RT by @elonmusk: He built the computer vision system in my oven. (True story). So when he praises something I listen a little harder.
-
-[查看原文](https://nitter.net/Scobleizer/status/2088085637803175991#m)
 
 ---
 
@@ -299,12 +315,6 @@ RT by @elonmusk: He built the computer vision system in my oven. (True story). S
 
 Pinned: Grok 4.6 will work best with the Grok Build harness. The experience will be significantly worse without it, so best to evaluate using Build. https://Grok.com/build
 
-<img src="/images/elonmusk/card_img_2084662236350410752_4R2ZHI013Fformat3Dpng26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKqGp-qmEtG_8D1qcgxQEqBw_HSlO-AAJTEmsbW2n4Vytb7XHKVc83AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2088100521261359218#m)
-
 ---
 
 ## 2026-08-14 12:44:29
@@ -314,10 +324,6 @@ Pinned: Grok 4.6 will work best with the Grok Build harness. The experience will
 **内容**:
 
 Kekius Maximus
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKp2p-ql0LwKqRt5et5fVb56FQK4_KAAJSEmsbW2n4VysEeJCqhoGoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2088124576685281766#m)
 
 ---
 
@@ -329,7 +335,45 @@ Kekius Maximus
 
 Try Grok 4.6 image & video understanding, it’s a major upgrade!
 
-[查看原文](https://nitter.net/elonmusk/status/2088127459971522726#m)
+---
+
+## 2026-08-14 13:09:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Tesla Self-Driving 14.3.7 is quite a beautiful build. Like a world of art really. It cuts through dense LA traffic expertly
+
+[查看原文](https://nitter.net/wholemars/status/2088130948995178532#m)
+
+---
+
+## 2026-08-14 13:35:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2088113430297243648_img_uckWtvF7aOypwnWt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088137315109449870#m)
+
+---
+
+## 2026-08-14 13:40:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 ranks #1 on CursorBench for real-world coding
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKqWp-sZsIPttj3ph7DvC1ORq5CH8EAAJqEmsbW2n4V8ZwL-W_DbL1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088138697002668110#m)
 
 ---
 
@@ -3953,10 +3997,6 @@ RT by @elonmusk: O'ahu homeowners generate and store clean energy to power their
 
 RT by @elonmusk: Announcing Grok Voice Think Fast 2.0, our next-generation voice model with improved intelligence, transcription accuracy, and conversational capabilities. https://x.ai/news/grok-voice-think-fast-2
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJLGpqWlC5fj3nj1CXmkrQ-wZYr44UAAKhFGsbUsJRV9PLYRhDGnlaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceXAI/status/2082529280341553209#m)
-
 ---
 
 ## 2026-07-30 02:24:49
@@ -4204,6 +4244,16 @@ RT by @elonmusk: Falcon 9 launches NROL-95 to orbit from pad 40 in Florida
 **内容**:
 
 RT by @elonmusk: Try Grok 4.5 for free, an all new Opus-class model that is fast and low cost. Great for real-world coding and engineering tasks.
+
+---
+
+## 2026-07-30 19:31:25
+
+**内容**:
+
+RT by @elonmusk: Workflows are now in Grok Build. Build plans the work, runs up to hundreds of agents in parallel, and comes back with one report.
+
+[查看原文](https://nitter.net/grok/status/2082791168744767963#m)
 
 ---
 
