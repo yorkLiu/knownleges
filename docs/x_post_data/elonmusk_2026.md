@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2083 条推文
+> 📊 推文存档 - 共 2084 条推文
 
 ---
 
@@ -369,9 +369,17 @@ Grok 4.6 ranks #1 on CursorBench for real-world coding
 
 How to use @bot
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKq2p-uOGM2tXmEmZ5vcYf2E4RuuO1AAKLEmsbW2n4VyaCBXymHeWHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2088149393731981516#m)
+## 2026-08-14 22:36:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It is an honor to have such a great team join @SpaceX
+
+[查看原文](https://nitter.net/elonmusk/status/2088273489820061920#m)
 
 ---
 
