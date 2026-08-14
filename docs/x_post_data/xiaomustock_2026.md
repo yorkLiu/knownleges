@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 320 条推文
+> 📊 推文存档 - 共 321 条推文
 
 ---
 
@@ -19,12 +19,6 @@ tags: ["2026"]
 
 这个中微公司和安集科技真是俩好公司， 一个刻蚀全球领先，一个做抛光液，这俩都是存储堆叠层数越高用的越多。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkmp-AzkooqtUEB45gxAQPORiU9KVAAISEmsbW2nwV4HpbXWW6TuTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKk2p-Az2GdXTI03n2GZNporuAkaMoAAITEmsbW2nwVxJ6-tRdhrpmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2087948726337990820#m)
-
 ---
 
 ## 2026-08-14 01:17:02
@@ -35,9 +29,21 @@ tags: ["2026"]
 
 今天真是这个月涨的最舒服的一天， 闪迪承诺100%的股东回报， 其他几家不能太不要脸吧。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkWp-AzXqrJT55cmNPwABK1Jt9fbk_gACERJrG1tp8Fe5KLxjxhothwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2087951574954107024#m)
+## 2026-08-14 07:59:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的就是token消耗量，kv键缓存命中率，同时DSH的同任务时间消耗是gpt或者clude的2倍。 这点透露的信息强化了我对英特尔陈立武老爷子说的CPU和dram存储堆叠封装的路线理解。 agent代理的普及很快会迎来cpu/gpu的1:1时刻，那时的cpu也非常需要像英伟达的gpu和hbm堆叠封装一样，需要把cpu和hbm堆叠封装在一起，极大的提高读取效率和降低计算时间。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKoGp-YaxCLPsXXVhtdCqImN5AfiRJAAJCEmsbW2nwVx10izcKWudSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKjmp915xVfDPiPNpYBSQZLWvqHB9VAALTEWsbW2nwV_Em6T4OJ6qvAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088052959741714846#m)
 
 ---
 
