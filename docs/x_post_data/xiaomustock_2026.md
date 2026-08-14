@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 326 条推文
+> 📊 推文存档 - 共 328 条推文
 
 ---
 
@@ -79,10 +79,6 @@ $META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标�
 
 未来每个国家都不得不投入巨额资金来建立本地的AI云厂实现AI数据的本地化管理， 因为各国的各类研究和开发不能都通过国外的云服务来做AI调用，这样机密和实验技术等都会被国外ai吸收掌握。 必须通过本地部署开源模型，为这类涉密数据搭建本地AI云服务。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtGp_F1sX-OwGHeTzmSPZayWs_PnhAAKEE2sbW2n4Vzz1u8RONYKMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/xiaomustock/status/2088248618767778069#m)
-
 ---
 
 ## 2026-08-14 21:11:09
@@ -93,11 +89,33 @@ $META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标�
 
 cpu必然会发生和2026年跟存储发生的结构性需求缺口。 现在cpu和gpu的配置需求是1/8， 随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。八倍的需求提升，而高端cpu的产能完全不可能在最近的2个季度内实现产能8倍提升。 cpu需求的爆发点很接近了， 从这个季度英特尔的高端cpu挤压低端cpu产能可以看出这种变化正在加速。 最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。 也就是只剩下3-5个月时间窗口了。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKs2p_F1dtSWYfh6Ovo-o3WOxt1BvRAAKDE2sbW2n4VzusBmeuvz65AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKoGp-YaxCLPsXXVhtdCqImN5AfiRJAAJCEmsbW2nwVx10izcKWudSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-14 21:29:34
 
-[查看原文](https://nitter.net/xiaomustock/status/2088252084437323966#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+闪迪涨成这样逼样我再加仓会不会死里面。 看着心痒痒，闪迪仓位占比太小了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtWp_HpvsHATDrCQtAXzgpXOivgdEAAKOE2sbW2n4V-aZPiL_4eVrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088256720208601264#m)
+
+---
+
+## 2026-08-14 21:33:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+终于跌下来了，心不痒了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtWp_HpvsHATDrCQtAXzgpXOivgdEAAKOE2sbW2n4V-aZPiL_4eVrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088257802385211398#m)
 
 ---
 
