@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 323 条推文
+> 📊 推文存档 - 共 324 条推文
 
 ---
 
@@ -59,9 +59,19 @@ $META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标�
 
 我这人赌性太强了越涨越想上杠杆。 存储顺风行情买2x还不够还想继续杠杆梭哈上2x ，生怕错过大行情。 一直在提醒自己这次赚到了真开始践行定投spy和qqq.不然总感觉哪一天我这么搞一把又要爆仓爆掉。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKsGp-8wGbviNqLBqzO7nyXy4-T0bOAAIvE2sbW2n4V89DkK_5zrMPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2088209624218702136#m)
+## 2026-08-14 19:09:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有时候对比这些股票的市值，营收甚至远期的市值营收还是非常抽象。 虽然这人也做空了美光，但是做空这个 $NEBIUS 感觉没啥错虽然我不敢做空股票。 闪迪一个季度利润60亿美金，2000亿市值， nebius一个季度亏2亿美金，市值600亿美金。 然后nebius暴涨居然是因为27年28年能有个俩三百亿美金的营收，累计拿着个400亿美金订单。 和闪迪一比这公司数据就是一坨屎，都能值600亿。营收，利润，毛利啥啥都不行都能值600亿，可见存储相对于绝大多数公司还是非常便宜，存储这几家公司俩三年赚的钱可能其他公司十来年都赚不到，即使可能他们市值更高。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKsWp--kZB9PooliGP97quvt6kT0V3AAI6E2sbW2n4VxNKBxYqpkiDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088221378944336033#m)
 
 ---
 
