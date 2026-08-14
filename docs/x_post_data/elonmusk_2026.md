@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2082 条推文
+> 📊 推文存档 - 共 2083 条推文
 
 ---
 
@@ -279,8 +279,6 @@ Tesla self-driving is amazing
 
 RT by @elonmusk: Thrilled to receive this feedback from Tesla — they tackle the world’s most critical multimodal challenges. Extremely proud that the team’s work is paying off🚀
 
-[查看原文](https://nitter.net/hexiang/status/2088070245210816595#m)
-
 ---
 
 ## 2026-08-14 09:20:22
@@ -290,10 +288,6 @@ RT by @elonmusk: Thrilled to receive this feedback from Tesla — they tackle th
 **内容**:
 
 RT by @elonmusk: Grok 4.6 from @SpaceXAI on ARC-AGI (Verified): - ARC-AGI-1: 87.5%, $0.30/task - ARC-AGI-2: 67.1%, $0.76/task - ARC-AGI-3: 2.11%, $5.6K On ARC-AGI-3, Grok 4.6 with xhigh reasoning scored comparably to GPT-5.6 Sol with high reasoning, but cost $5.6K versus Sol's $15.2K.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKqmp-sZ6MsgpKpfzx-DkW2bbujmmoAAJrEmsbW2n4V3BzAAEf9Eg0NQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/arcprize/status/2088073208268284352#m)
 
 ---
 
@@ -345,8 +339,6 @@ Try Grok 4.6 image & video understanding, it’s a major upgrade!
 
 RT by @elonmusk: Tesla Self-Driving 14.3.7 is quite a beautiful build. Like a world of art really. It cuts through dense LA traffic expertly
 
-[查看原文](https://nitter.net/wholemars/status/2088130948995178532#m)
-
 ---
 
 ## 2026-08-14 13:35:06
@@ -356,10 +348,6 @@ RT by @elonmusk: Tesla Self-Driving 14.3.7 is quite a beautiful build. Like a wo
 **内容**:
 
 Grok Imagine
-
-<img src="/images/elonmusk/amplify_video_thumb_2088113430297243648_img_uckWtvF7aOypwnWt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2088137315109449870#m)
 
 ---
 
@@ -371,9 +359,19 @@ Grok Imagine
 
 Grok 4.6 ranks #1 on CursorBench for real-world coding
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKqWp-sZsIPttj3ph7DvC1ORq5CH8EAAJqEmsbW2n4V8ZwL-W_DbL1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2088138697002668110#m)
+## 2026-08-14 14:23:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+How to use @bot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKq2p-uOGM2tXmEmZ5vcYf2E4RuuO1AAKLEmsbW2n4VyaCBXymHeWHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088149393731981516#m)
 
 ---
 
