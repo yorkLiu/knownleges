@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2096 条推文
+> 📊 推文存档 - 共 2097 条推文
+
+---
+
+## 2026-08-16 00:43:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: You don’t need to waste an hour digging through your Mac’s settings trying to figure out what’s wrong with your laptop Grok Build is insanely capable....just tell Grok Build what’s broken and let it investigate the machine for you You can try things like: • Trackpad suddenly behaving weird • Battery draining ridiculously fast • Microphone isn't working in calls. Diagnose it • Some random website sending Chrome notifications every 10 seconds • External monitor runs at 60Hz but supports 144Hz. Fix it • Mac running hot or slowing down • An app constantly crashing • Something keeping your Mac awake or eating all your CPU? You might have absolutely no idea where the setting is or even what’s causing the problem Grok Build can inspect the system, find the culprit and, with the right tools/skills, actually take action Instead of Googling the problem → opening 20 tabs → digging through Settings → trying random fixes.... Just tell Grok Build what’s wrong and let it figure out the rest
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKvmqAtYkT-9XbQTs9ViawavJrVMEWAALyEWsbXeoBVE3bUuIkHQgfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2088667797760979174#m)
 
 ---
 
