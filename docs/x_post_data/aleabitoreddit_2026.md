@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 406 条推文
+> 📊 推文存档 - 共 407 条推文
+
+---
+
+## 2026-08-15 10:46:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly "cheap Chinese memory that floods the market". Apple once upon a time actually had extreme supplier leverage before the AI boom.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKump_25BBL6xcNN78WdJPtUm_RQGRAAJOEGsbXeoBVPPb_7lXOKdwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2088457278928412812#m)
 
 ---
 
