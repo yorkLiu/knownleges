@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2103 条推文
+> 📊 推文存档 - 共 2104 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT by @elonmusk: A quiet revolution is happening on Bay Area roads as a vast number of privately owned cars are now driving themselves. https://www.sfchronicle.com/bayarea/article/tesla-self-driving-car-22384520.php?taid=6a8091bad297630001e6ac62&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter
 
-<img src="/images/elonmusk/card_img_2088621015798575104_brYyfWgB3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/sfchronicle/status/2088662039912665140#m)
-
 ---
 
 ## 2026-08-16 00:37:44
@@ -32,8 +28,6 @@ RT by @elonmusk: A quiet revolution is happening on Bay Area roads as a vast num
 **内容**:
 
 RT by @elonmusk: After using Grok Bot nonstop for the past week I'm going to say it: it's the best AI agent out there right now Dead simple and just works It eliminates the 10,000 decisions, configs, and fixes that scare people off The integrated cloud computer unlock so many use cases too: 1. Invited the cloud computer to my community. It opened it up and now monitors the community 24/7. Answering questions and DMs 2. Uses the X plugin to monitor all the AI companies X accounts every 15 minutes around the clock. Looking for updates and big news, alerting me the moment it happens 3. Clicks around testing the 2 apps I'm building around the clock. Looking for bugs, thinking of new features, then writing the PRs and waiting for my review 4. My Grok Bot checks my social media channels around the clock. Moment I post anything, it repurposes the content based on other content I've posted, making writing my newsletter much easier 5. The integrated Grok images are really nice. So I can tell it to go to my YT on its cloud computer and make similar thumbnails for my new videos 6. Checks data in post hog on my product retention, gives me a list of at risk subscribers, prepares emails and reachout, then asks me for the OK Can the other AI agents out there do this? Yes. There's literally nothing Grok Bot can do that the others can't. But here's the thing, the user experience is designed so beautifully that it unhobbles all of these use cases and make them so much more pleasant to execute on Grok Bot is a must try
-
-[查看原文](https://nitter.net/AlexFinn/status/2088666462819082645#m)
 
 ---
 
@@ -55,10 +49,6 @@ RT by @elonmusk: You don’t need to waste an hour digging through your Mac’s 
 
 RT by @elonmusk: Tesla holds the top two spots for America’s most domestically produced vehicles - beating out both Ford and GM 🇺🇸 https://Cars.com 2026 American-Made Index: • Tesla Model 3 — #1 • Tesla Model Y — #2 The two most American-made cars in America are both Teslas
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKv2qA4STCW1TagQGyvxHqkUd2h_YpAAIPEGsbXeoJVEK95Z5ZbBOXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2088674429564010632#m)
-
 ---
 
 ## 2026-08-16 01:24:58
@@ -68,10 +58,6 @@ RT by @elonmusk: Tesla holds the top two spots for America’s most domestically
 **内容**:
 
 RT by @elonmusk: Grok Build mode is so much fun! I made a few quick games for my nephew in just minutes using simple one-line prompts, all from the Grok iOS app on my iPhone. This is honestly one of the coolest things ever!
-
-<img src="/images/elonmusk/amplify_video_thumb_2088678325212598272_img_BBqIYE15qwemMEMJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2088678349359263929#m)
 
 ---
 
@@ -83,9 +69,19 @@ RT by @elonmusk: Grok Build mode is so much fun! I made a few quick games for my
 
 Grok has improved massively
 
-<img src="/images/elonmusk/amplify_video_thumb_2088682667831111680_img_vHZCT4J4RPQuYdgj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2088736114739917130#m)
+## 2026-08-16 05:59:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Video
+
+<img src="/images/elonmusk/amplify_video_thumb_2088736407795748864_img_n17pYG17bWLuHXYM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088747465482912152#m)
 
 ---
 
