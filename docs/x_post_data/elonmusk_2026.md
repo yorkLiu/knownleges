@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2093 条推文
+> 📊 推文存档 - 共 2095 条推文
 
 ---
 
@@ -28,6 +28,20 @@ Orbital compute will be the only way to scale AI probably sometime in 2029 due t
 **内容**:
 
 RT by @elonmusk: "I used to always wonder about my reach and visibility and was convinced something was wrong with my account. But it turns out my assumptions were wrong." Now you can check & verify.
+
+---
+
+## 2026-08-15 07:45:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Government-owned airports cannot favor one religion over all others. DFW plans to install Islamic wudu washing facilities are illegal. I've directed a review of all state grants to both airports for possible revocation, and referred DFW & IAH to USDOT for investigation. Texas will not allow illegal religious discrimination at taxpayer-funded facilities.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKvWqAByMIQVvEbRtO_bDEVcYy8DqCAAKzEGsbXeoBVHqSnlySY2YSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/GregAbbott_TX/status/2088411718628049370#m)
 
 ---
 
@@ -69,9 +83,19 @@ Any censorship required by governments is now clearly visible
 
 Grok 4.6 runs The Gauntlet
 
-<img src="/images/elonmusk/amplify_video_thumb_2088302961239752704_img_1JOlqsXlp8NaAh-W.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2088484972965298489#m)
+## 2026-08-15 12:45:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: If you want to learn how to run one: https://somethingbig.ai/gauntlet-loop Grok Build harness is likely best but you can also run this in Grok Bot!
+
+<img src="/images/elonmusk/card_img_2086931118943584257_3J3bo4Fu3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mattshumer_/status/2088487331372089560#m)
 
 ---
 
