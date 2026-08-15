@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2092 条推文
+> 📊 推文存档 - 共 2093 条推文
 
 ---
 
@@ -29,10 +29,6 @@ Orbital compute will be the only way to scale AI probably sometime in 2029 due t
 
 RT by @elonmusk: "I used to always wonder about my reach and visibility and was convinced something was wrong with my account. But it turns out my assumptions were wrong." Now you can check & verify.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKuWp_24oRK6ntLjk3UDZo1pzO6uKMAAJNEGsbXeoBVLgkASNQ3ox8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/kcoleman/status/2088374532935414218#m)
-
 ---
 
 ## 2026-08-15 09:49:59
@@ -42,10 +38,6 @@ RT by @elonmusk: "I used to always wonder about my reach and visibility and was 
 **内容**:
 
 Grok 4.6 now in Copilot
-
-<img src="/images/elonmusk/card_img_2088319537552695296_ghBCydeL3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2088443051890917436#m)
 
 ---
 
@@ -57,10 +49,6 @@ Grok 4.6 now in Copilot
 
 Any censorship required by governments is now clearly visible
 
-<img src="/images/elonmusk/card_img_2085620459698098176_W-6c48E-3Fformat3Dpng26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2088445767673369044#m)
-
 ---
 
 ## 2026-08-15 11:13:10
@@ -71,7 +59,19 @@ Any censorship required by governments is now clearly visible
 
 😂
 
-[查看原文](https://nitter.net/elonmusk/status/2088463985938944130#m)
+---
+
+## 2026-08-15 12:36:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 runs The Gauntlet
+
+<img src="/images/elonmusk/amplify_video_thumb_2088302961239752704_img_1JOlqsXlp8NaAh-W.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088484972965298489#m)
 
 ---
 
