@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 407 条推文
+> 📊 推文存档 - 共 408 条推文
 
 ---
 
@@ -19,9 +19,21 @@ tags: ["2026"]
 
 US Government urges $AAPL not to buy Chinese memory chips. $MU, $SKHY, and Samsung are happy to hear this... Hilariously enough, CXMT/YMTC is price hiking too, so it's not exactly "cheap Chinese memory that floods the market". Apple once upon a time actually had extreme supplier leverage before the AI boom.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKump_25BBL6xcNN78WdJPtUm_RQGRAAJOEGsbXeoBVPPb_7lXOKdwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2088457278928412812#m)
+## 2026-08-15 13:40:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+说我归零的传闻未免也太夸张了吧 哈哈 经历了7月份AI板块的崩盘后，我的YTD收益依然还有 +2,411.84%
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKu2p__-A-F3Umlg3jJSOkUxNzRE6dAAJwEGsbXeoBVPnnWwMp2aHYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKvGp__-STypNIxEps9PyXMB1GzCwoAAJxEGsbXeoBVONgMvQ_TfheAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2088501133543407959#m)
 
 ---
 
