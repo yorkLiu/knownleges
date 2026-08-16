@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2104 条推文
+> 📊 推文存档 - 共 2113 条推文
 
 ---
 
@@ -61,6 +61,18 @@ RT by @elonmusk: Grok Build mode is so much fun! I made a few quick games for my
 
 ---
 
+## 2026-08-16 05:12:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Worth trying Grok 4.6. Fable 5 is smarter overall, but Grok is much faster and lower cost. Grok 4.7 has a good chance of exceeding all current models in intelligence.
+
+[查看原文](https://nitter.net/elonmusk/status/2088735708693602427#m)
+
+---
+
 ## 2026-08-16 05:14:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -68,6 +80,20 @@ RT by @elonmusk: Grok Build mode is so much fun! I made a few quick games for my
 **内容**:
 
 Grok has improved massively
+
+---
+
+## 2026-08-16 05:37:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 ranks #1 on RuntimeWire’s Newsroom Reliability v0.2 benchmark with a score of 0.79, beating GPT-5.6 Sol, Claude Opus 4.8, Gemini and DeepSeek.
+
+<img src="/images/elonmusk/amplify_video_thumb_2088741784818196480_img_J4ndfndz4tPXRV0W.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2088741843882426638#m)
 
 ---
 
@@ -79,15 +105,77 @@ Grok has improved massively
 
 Video
 
-<img src="/images/elonmusk/amplify_video_thumb_2088736407795748864_img_n17pYG17bWLuHXYM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2088747465482912152#m)
+## 2026-08-16 07:24:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: After @elonmusk bought Twitter, a bunch of advertisers engaged in an illegal group boycott of @X. The advertisers coordinated to pull billions in ad spend and reveled in the harm they caused.  We sued and this week received a flood of support for our appeal---for which we are incredibly grateful. 1/
+
+[查看原文](https://nitter.net/BurnhamDC/status/2088768818352951726#m)
+
+---
+
+## 2026-08-16 07:46:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting exchange
+
+[查看原文](https://nitter.net/elonmusk/status/2088774292586844664#m)
+
+---
+
+## 2026-08-16 07:47:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I hope AI is nice to us
+
+[查看原文](https://nitter.net/elonmusk/status/2088774618559697175#m)
+
+---
+
+## 2026-08-16 08:12:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6
+
+<img src="/images/elonmusk/amplify_video_thumb_2088777976456388608_img_CBlj5XJnkW8eOcf5.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088780849948832078#m)
+
+---
+
+## 2026-08-16 08:15:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla cars sold in America are the most made in America of any cars
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKwWqBBXgS5PwvzuvS9PjWDU44KDeKAAIlEGsbXeoJVL1X-087F3OVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKwmqBBXuVL2SNfHEjnxPdy5fpGt2mAAImEGsbXeoJVNsrudjkDzd1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2088781747911819519#m)
 
 ---
 
 ## 2026-08-15 00:49:04
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -97,21 +185,17 @@ Orbital compute will be the only way to scale AI probably sometime in 2029 due t
 
 ## 2026-08-15 02:02:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Frontier lab ARR crossed combined Windows + Office revenue in late June of this year (on our estimates). They are toppling the Titans.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKwGqA4SrQ3spf0rsCWkxN2rotjlQpAAIQEGsbXeoJVKKrPo7LJvsDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/wintonARK/status/2088325401638809902#m)
-
 ---
 
 ## 2026-08-15 05:17:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -121,7 +205,7 @@ RT by @elonmusk: "I used to always wonder about my reach and visibility and was 
 
 ## 2026-08-15 07:45:29
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -131,7 +215,7 @@ RT by @elonmusk: Government-owned airports cannot favor one religion over all ot
 
 ## 2026-08-15 09:49:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -141,7 +225,7 @@ Grok 4.6 now in Copilot
 
 ## 2026-08-15 10:00:47
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -151,7 +235,7 @@ Any censorship required by governments is now clearly visible
 
 ## 2026-08-15 11:13:10
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -161,7 +245,7 @@ Any censorship required by governments is now clearly visible
 
 ## 2026-08-15 12:36:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -171,7 +255,7 @@ Grok 4.6 runs The Gauntlet
 
 ## 2026-08-15 12:45:56
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -179,9 +263,23 @@ RT by @elonmusk: If you want to learn how to run one: https://somethingbig.ai/ga
 
 ---
 
+## 2026-08-15 20:35:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Adam Smith understood this in 1776. 250 years later, many people still don’t.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKw2qBBX-PHQ9Cthj9Rw45U_hE-IldAAInEGsbXeoJVMPO4oEeoTk6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MiltonFriedmanW/status/2088605374169637368#m)
+
+---
+
 ## 2026-08-15 21:05:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -24050,6 +24148,18 @@ Yes, they did
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBKGoe8AemkfWKHxM0Kv1wXHz91HggAAK0EGsbtcX5VCnkL-apBwXFAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/elonmusk/status/2061815243903529310#m)
+
+---
+
+## 2026-05-12 03:50:12
+
+**内容**:
+
+RT by @elonmusk: We're now testing a new waitlist feature at 5 Supercharger sites. Share feedback through the Tesla app to help us make it better. - Los Gatos, CA - Los Gatos Boulevard - Mountain View, CA - El Monte Avenue - San Francisco, CA - Lombard Street - San Jose, CA - Saratoga Avenue - Bronx, NY - East Gun Hill Road
+
+<img src="/images/elonmusk/amplify_video_thumb_2053925652534009856_img_FcfAiZEAQX6EnIgh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TeslaCharging/status/2053925663292473480#m)
 
 ---
 
