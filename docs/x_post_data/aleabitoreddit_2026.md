@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 408 条推文
+> 📊 推文存档 - 共 409 条推文
+
+---
+
+## 2026-08-16 11:48:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My weekend X feed is getting pretty sad. The main things I've seen were: - Harvard endowment going degen with $SPCX, and + $AMD, $NVDA disclosing billions - AI agent microcosm implications on RuneScape - Hormuz getting renamed to Straight of America - Jane Street getting wiped $15B by Citadel - ____ who's hedge fund is up 30% every year buys a .00005% position my favorite stock _____! - Bunch of noisy motivational quotes or bad takes on trading
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2088835269013483637#m)
 
 ---
 
