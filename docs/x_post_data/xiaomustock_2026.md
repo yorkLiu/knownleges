@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 334 条推文
+> 📊 推文存档 - 共 335 条推文
 
 ---
 
@@ -39,15 +39,21 @@ tags: ["2026"]
 
 差点我这艺术创作收不回来成本😂 买了一组从跌停板爆拉到涨停板， 再跌到跌停板的《牛来》座位票
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKyGqBTiEl4c4RVEHQ_J49QL6HheIYAAKZEGsbXeoJVL-dw0MHSyMHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKyWqBTiUoKfFwnX0fxFv5vdAcLWJLAAKaEGsbXeoJVOxUsnOVidDqAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-16 13:49:25
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxWqBRt2wVMIqxRLLqjgc4PMQjsIpAAKNEGsbXeoJVHy9i6Xz0sjcAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxmqBRuEiMEPGCJ6Av7ll4OQkmCprAAKOEGsbXeoJVOI9w_SehDzRAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/xiaomustock/status/2088860816561082475#m)
+牛栏山酒厂母公司顺鑫农业的排卵区粪腾了。 全是牛来喊公司改名牛栏山😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKymqBVWXo_4mC7FgHkffwUHdNN_xGAAKmEGsbXeoJVFibAne87sNYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKy2qBVWmskaYTGAoayq1eJ_7bJreBAAKnEGsbXeoJVFL42owFvk0QAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088865695320928754#m)
 
 ---
 
