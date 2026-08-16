@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 409 条推文
+> 📊 推文存档 - 共 410 条推文
 
 ---
 
@@ -19,7 +19,17 @@ tags: ["2026"]
 
 My weekend X feed is getting pretty sad. The main things I've seen were: - Harvard endowment going degen with $SPCX, and + $AMD, $NVDA disclosing billions - AI agent microcosm implications on RuneScape - Hormuz getting renamed to Straight of America - Jane Street getting wiped $15B by Citadel - ____ who's hedge fund is up 30% every year buys a .00005% position my favorite stock _____! - Bunch of noisy motivational quotes or bad takes on trading
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2088835269013483637#m)
+---
+
+## 2026-08-16 12:50:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just some TLDRs of stuff I found interesting: - $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day. LTAs already 2/3rd of 2028 output. Minimum contracted revenue reaches $93B (MC is currently ~$239B)... Hard to be a cyclical stock when your revenue/targets are expected to continue 4Y later into 2030. - $CRWV signs contracts for 6Y old $NVDA A100 GPUs through 2029. For Neoclouds like Nebius/Iren, this is positive, since it's a counterargument for eg. Burry depreciation short thesis - conventional DRAM gross margins eg. Micron is estimated to reach an unprecedented 95% by 2027, surpassing HBM GMs per UBS read through for legacy/standard dram players like Nanya/Winbond should go brrrr if projections are correct. - Anthropic reportedly achieved 14x+ YoY growth and roughly 2.4x sequential revenue growth q2 to >$11.5B,. estimating growth to $190–200B in 2028r evenue numbers. Your frontier labs keep growing at stupidly fast paces, it would be worrisome if they didnt. - $NVDA reportedly in talks to invest $3B in SB Energy (Softbank subsidiary), creates a >$500B compute financing push with Apollo, BlackRock, Blackstone, Brookfield, Goldman, and others. $NVDA Feynman reportedly moves to TSMC A16 + SoIC + custom HBM + CPO in H2 2028 Just more nvidia news every day - $MSFT Maia 300 discussed $TSM capacity for >300k units in 2027, with expansion to 1m+. Unveils as soon as September. Likely $MRVL should be more happy from this news. For what's happening right now: - maybe GUC for Microsoft current ASIC ramp. - For the Amazon party, stuff like Alchip (I do own shares), likely is ramping now with $AMZN ASIC program H2 2026... So might be a good idea to look at hyperscaler ASIC ramp timelines + their beneficiaries. - $TSM VP of Advanced Packaging stated "the industry is likely to face not only memory shortages but also tight ABF substrate supply over the next few years"... Emphasis on few years for memory + ABF substrates for bottlenecks. Even upstream abf substrate equipment providers are happy, eg. Eternal Precision which uses vacuum lamination equipment stated orders surged, their plants have been running at full capacity, and 20%+ price hikes. - $AMAT expects advanced packaging revenue to grow >70% in 2026, versus prior >50%, and said customer discussions now extend all the way to 2030 (not too familiar with this company, but found their growth rate from 2025 Q4 $6.8B ->$7.01B -> 7.91B -> $9.12B -> $10.25B Q4 2026 projections pretty interesting) - Google said at OCP APAC said conventional 48V is running out of headroom. $NVDA detailed an 800VDC MGX-compatible rack H2 2026 (timeline, Delta / Lite-On beneficaries) - Aside from $SNDK, Nanya LTAs cover 50% of capacity. CXMT signed multi-year DRAM agreements last month, so entire memory industry seems to be following same playbook as ur big 3. - Probe cards remain a bottleneck, MPI(6223) said their probe card capacity remains fully utilized because demand exceeds supply. Already covered the CW laser bottleneck with $AAOI, $SIVE, and $LITE earlier this week, but that's another fun one. - some MLCC/component lead times have hit 36 weeks per Nichidenbo. Your Samsung Electro-Mechanics, Taiyo Yuden, Murata, players should be very happy to hear this. TLDR: AI supply chains go brrr.
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2088850910529323315#m)
 
 ---
 

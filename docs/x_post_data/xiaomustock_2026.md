@@ -7,7 +7,39 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 331 条推文
+> 📊 推文存档 - 共 333 条推文
+
+---
+
+## 2026-08-16 12:33:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+牛来这部电影可能是人类历史上最后一部手搓动漫电影！ 😂自此之后绝对绝版了， 绝对不可能有再比这个粗制滥造的电影进电影院看到。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKx2qBRuRuzWjAlakfgkhKSE2CYok8AAKPEGsbXeoJVMyxLB6e9JKyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088846462100910520#m)
+
+---
+
+## 2026-08-16 12:53:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+图一是你以为的牛来， 图二是实际的牛来。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxWqBRt2wVMIqxRLLqjgc4PMQjsIpAAKNEGsbXeoJVHy9i6Xz0sjcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxmqBRuEiMEPGCJ6Av7ll4OQkmCprAAKOEGsbXeoJVOI9w_SehDzRAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKx2qBRuRuzWjAlakfgkhKSE2CYok8AAKPEGsbXeoJVMyxLB6e9JKyAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088851644620615701#m)
 
 ---
 

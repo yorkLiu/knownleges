@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2115 条推文
+> 📊 推文存档 - 共 2116 条推文
 
 ---
 
@@ -89,8 +89,6 @@ Grok has improved massively
 
 RT by @elonmusk: Okay I am convinced that I don’t think I need my OpenClaw or Hermes anymore bc of Grok Bot. 😬 It has a “can-do” attitude that other LLMs protect themselves from doing plus a thoughtfully designed hosted desktop and mobile experience that is incredible.
 
-[查看原文](https://nitter.net/mvanhorn/status/2088740832266306033#m)
-
 ---
 
 ## 2026-08-16 05:37:17
@@ -160,6 +158,20 @@ Grok 4.6
 **内容**:
 
 Tesla cars sold in America are the most made in America of any cars
+
+---
+
+## 2026-08-16 10:13:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Deployment of @Globalstar 2-R satellites has started
+
+<img src="/images/elonmusk/amplify_video_thumb_2088810853684371456_img_NBis-F1BIEZlpKbe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2088811312469905781#m)
 
 ---
 
