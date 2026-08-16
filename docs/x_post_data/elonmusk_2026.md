@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2116 条推文
+> 📊 推文存档 - 共 2120 条推文
 
 ---
 
@@ -58,6 +58,22 @@ RT by @elonmusk: Tesla holds the top two spots for America’s most domestically
 **内容**:
 
 RT by @elonmusk: Grok Build mode is so much fun! I made a few quick games for my nephew in just minutes using simple one-line prompts, all from the Grok iOS app on my iPhone. This is honestly one of the coolest things ever!
+
+---
+
+## 2026-08-16 01:51:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk stood in a Hollywood living room in 2008, 12 days from bankruptcy, and pitched a $109,000 car to people who thought he was joking. His own Roadster is parked outside production unit 1 and he mentions it the way other men mention a bicycle. He explains the money first. Congress approved $25 billion to build energy-efficient vehicles, then the Big Three flew to Washington and asked for it to cover payroll on gas guzzlers instead. Congress said yes. “That gets them to about February,” he says. Tesla applied to the same fund for the thing the fund was actually written for: a cheaper car. Then comes the part nobody in the room registers. Tesla pays no dividends and never will, because every penny from every $109,000 Roadster goes into the next car down the price ladder. His salary is minimum wage. He doesn’t mention that the company has days of cash left, or that an emergency round has to close by Christmas Eve or it’s over. He talks about cell phones instead how the first ones cost a fortune, how you can’t reach the cheap version without selling the expensive one first. 100 cars built, and the 100th goes out Tuesday. He says he’ll hand over the keys himself. GM filed for bankruptcy 6 months later, and the man on minimum wage didn’t.
+
+<img src="/images/elonmusk/amplify_video_thumb_2088684791356919808_img_JUfoEbDHpI33jwst.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKzGqBXKyAcwABUEtBf7NVifli6UCrewACuBBrG13qCVThn-mIZnd6aAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/MyWestLord/status/2088685079019364621#m)
 
 ---
 
@@ -161,6 +177,34 @@ Tesla cars sold in America are the most made in America of any cars
 
 ---
 
+## 2026-08-16 10:00:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This PERFECTLY explains why ‘The Left’ is obsessed with being morally superior “Did you ever ask yourself why it's always the weakest, least competent, and average IQ people who base their entire identity on morality and tolerance?” Here’s the psychology behind it: “Every human being carries the same deep drive to matter, to be respected, to reach something external, whether that's money, status, an attractive partner, or genuine skill at something. In the real world, all of these get measured through competence, strength, and intelligence, and that's exactly the problem for people who fall short on those measurements. They still feel the drive, but they can't reach the goal, at least not to the degree others can, and unconsciously they experience the inferiority that comes with actual objective inferiority. To avoid feeling useless and insignificant, they move the target. Instead of competence, the goal becomes being a good person, a goal defined entirely by them that requires no measurable skill, no competition, and no real work to declare victory in. This gets them the exact same feeling of accomplishment without ever having to develop any of the competence that would normally be required to earn it. That's the path the weak and the incapable take because it's the only game left where they can still call themselves winners.” You could spend 1000 years trying to come up with a better explanation for liberals and their mindset and you wouldn’t be able to, because this is it If you fail at everything else, you simply make your entire life about being “morally superior”
+
+<img src="/images/elonmusk/amplify_video_thumb_2088719420076302336_img_Mu2Z5AHUUlhBJWZ7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/WallStreetApes/status/2088807963385324001#m)
+
+---
+
+## 2026-08-16 10:03:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Falcon 9’s first stage lands on the Of Course I Still Love You droneship
+
+<img src="/images/elonmusk/amplify_video_thumb_2088808745933357056_img_VsDE0NnCcVwI1ZCQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2088808869728256385#m)
+
+---
+
 ## 2026-08-16 10:13:19
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -169,9 +213,17 @@ Tesla cars sold in America are the most made in America of any cars
 
 RT by @elonmusk: Deployment of @Globalstar 2-R satellites has started
 
-<img src="/images/elonmusk/amplify_video_thumb_2088810853684371456_img_NBis-F1BIEZlpKbe.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/SpaceX/status/2088811312469905781#m)
+## 2026-08-16 11:27:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Ok Grok 4.6 is getting scary good. Games. 3D worlds. Game trailers. Even real-world 3D prints. 10 wild examples:
+
+[查看原文](https://nitter.net/minchoi/status/2088829945749311925#m)
 
 ---
 
