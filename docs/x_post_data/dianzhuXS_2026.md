@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 321 条推文
+> 📊 推文存档 - 共 322 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 郭德綱被立案，事大事小，大運早就説的明明白白了（2026.8.16） https://www.youtube.com/live/gLzBl9P5nHo?si=CR7m_ETISxKnLtGq 來自 @YouTube
 
+---
+
+## 2026-08-16 13:23:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+直播結束了，可以轉發了 據反應話筒離的有點遠？
+
 <img src="/images/dianzhuXS/card_img_2088811493102120961_dWU1BFCp3Fformat3Djpg26name3D1200x627" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://nitter.net/dianzhuXS/status/2088811756688982286#m)
+[查看原文](https://nitter.net/dianzhuXS/status/2088859104727162941#m)
 
 ---
 
