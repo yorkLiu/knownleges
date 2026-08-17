@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 336 条推文
+> 📊 推文存档 - 共 337 条推文
 
 ---
 
@@ -19,11 +19,19 @@ tags: ["2026"]
 
 闪迪真是强的可怕， 正儿八经伟大的机会显而易见随时上车。 那天发100%回购新闻的时候盘面都没有瞬间大幅爆拉一步到位，而是几天时间持续不断的拉盘。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK2GqChphTpS-oE1p-7lE7lLuRVKeiAAINFGsb40IRVCjYwpda5SD4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkGp95ic8QXPo7ykEytJFlizQ7NE-AAL3EWsbW2nwV5ZIFddhCgkIAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-17 13:20:59
 
-[查看原文](https://nitter.net/xiaomustock/status/2089195093874061458#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK2WqCnGaJ0wKCJtC691ODe3CRDBtXAAIxFGsb40IRVCR7bS5OcKXhAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2089220928840548847#m)
 
 ---
 
