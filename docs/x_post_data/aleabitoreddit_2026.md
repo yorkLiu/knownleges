@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 415 条推文
+> 📊 推文存档 - 共 416 条推文
 
 ---
 
@@ -49,7 +49,19 @@ Stripe reportedly buys OpenRouter for $7 Billion. I think their orchestration is
 
 I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs. If you get Vietnam flashbacks like I do to $MU / Samsung / SK Hynix -> Legacy DRAM: My thesis is we'll see the same thing here maybe late H2, early 2027 with consumer/broad MLCCs. From July 6th: "the crowding-out effect from AI-oriented high-end MLCC production has begun spilling over into both the automotive and consumer markets." July 28th: "AI Demand Pushes Japanese and Korean MLCC Suppliers to Record Monthly Shipments; Consumer-Grade Order Spillovers Continue to Surge" Aug 12: As [MLCC] capacity shifts from consumer grades to AI-oriented products... (Trendforce) Aug 12: China's electronics market channel checks found 22µF and 47µF MLCCs (used more broadly) out of stock. Then found and said certain manufacturers had stopped taking orders. (for reference: Walsin said high-volume smartphone/PC products such as... 22µF, so it's broader MLCCs) Obviously Samsung Electro-Mechanics/Murata are main beneficiaries of AI server MLCC ramp. But companies with large market share of overall MLCCs like Taiyo Yuden (6976, disclosure: I have positions) with less AI server share, would be a major beneficiary of this. Fun part is, we're only in H2 2026, so the next major bottleneck should be fun!
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089183484556480536#m)
+---
+
+## 2026-08-17 16:16:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: "2027 capacity constraints will be even more severe than in 2026." "Upstream suppliers need up to 4 years from plant construction and equipment investment to actual production. With demand growing explosively and supply expansion limited, the NAND shortage is likely to last for years." Don't quite think I agree with the people claiming it's all over for memory, esp. NAND bottlenecks in 2026...
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK3GqCyAFZXTk7jc-zGCC3Ns5kSVNwAAKmFGsb40IRVEluvR2Lq1yyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089264987328151637#m)
 
 ---
 
