@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2121 条推文
+> 📊 推文存档 - 共 2127 条推文
 
 ---
 
@@ -19,15 +19,63 @@ tags: ["2026"]
 
 Intelligence/Joule will keep improving
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKz2qCNqqW-37MAliacqimYmD3Wp53AAKWE2sb40IRVHff5_mWIa-jAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089106964307460362#m)
+## 2026-08-17 07:33:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: For those impacted by Hurricane Lala in Hawaii, Starlink is providing free service through September 17 to new and existing customers. We are coordinating with local emergency officials to set up Starlink for crews on the ground in the worst-hit communities → https://starlink.com/support/article/c236a4c6-607b-dc2b-9214-b9bcace85ca6
+
+[查看原文](https://nitter.net/Starlink/status/2089133557281444184#m)
+
+---
+
+## 2026-08-17 08:32:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Gif
+
+<img src="/images/elonmusk/amplify_video_thumb_2089136540366602240_img_k_hBVotA6OvFoPg6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/yunta_tsai/status/2089148348276347258#m)
+
+---
+
+## 2026-08-17 08:33:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK0WqCYkhCf2JKpCBJ8ped1YYSLIk0AAKqE2sb40IRVIKwZcCU9hstAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089148540039901185#m)
+
+---
+
+## 2026-08-17 08:33:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Two major rocket launches almost simultaneously
+
+<img src="/images/elonmusk/amplify_video_thumb_2088960545198366720_img_iFOol5hiY1Xxxhk3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089148681887031667#m)
 
 ---
 
 ## 2026-08-16 00:20:10
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -37,8 +85,6 @@ RT by @elonmusk: A quiet revolution is happening on Bay Area roads as a vast num
 
 ## 2026-08-16 00:37:44
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: After using Grok Bot nonstop for the past week I'm going to say it: it's the best AI agent out there right now Dead simple and just works It eliminates the 10,000 decisions, configs, and fixes that scare people off The integrated cloud computer unlock so many use cases too: 1. Invited the cloud computer to my community. It opened it up and now monitors the community 24/7. Answering questions and DMs 2. Uses the X plugin to monitor all the AI companies X accounts every 15 minutes around the clock. Looking for updates and big news, alerting me the moment it happens 3. Clicks around testing the 2 apps I'm building around the clock. Looking for bugs, thinking of new features, then writing the PRs and waiting for my review 4. My Grok Bot checks my social media channels around the clock. Moment I post anything, it repurposes the content based on other content I've posted, making writing my newsletter much easier 5. The integrated Grok images are really nice. So I can tell it to go to my YT on its cloud computer and make similar thumbnails for my new videos 6. Checks data in post hog on my product retention, gives me a list of at risk subscribers, prepares emails and reachout, then asks me for the OK Can the other AI agents out there do this? Yes. There's literally nothing Grok Bot can do that the others can't. But here's the thing, the user experience is designed so beautifully that it unhobbles all of these use cases and make them so much more pleasant to execute on Grok Bot is a must try
@@ -46,8 +92,6 @@ RT by @elonmusk: After using Grok Bot nonstop for the past week I'm going to say
 ---
 
 ## 2026-08-16 00:43:03
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -57,8 +101,6 @@ RT by @elonmusk: You don’t need to waste an hour digging through your Mac’s 
 
 ## 2026-08-16 01:09:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Tesla holds the top two spots for America’s most domestically produced vehicles - beating out both Ford and GM 🇺🇸 https://Cars.com 2026 American-Made Index: • Tesla Model 3 — #1 • Tesla Model Y — #2 The two most American-made cars in America are both Teslas
@@ -66,8 +108,6 @@ RT by @elonmusk: Tesla holds the top two spots for America’s most domestically
 ---
 
 ## 2026-08-16 01:24:58
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -77,23 +117,23 @@ RT by @elonmusk: Grok Build mode is so much fun! I made a few quick games for my
 
 ## 2026-08-16 01:51:43
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Elon Musk stood in a Hollywood living room in 2008, 12 days from bankruptcy, and pitched a $109,000 car to people who thought he was joking. His own Roadster is parked outside production unit 1 and he mentions it the way other men mention a bicycle. He explains the money first. Congress approved $25 billion to build energy-efficient vehicles, then the Big Three flew to Washington and asked for it to cover payroll on gas guzzlers instead. Congress said yes. “That gets them to about February,” he says. Tesla applied to the same fund for the thing the fund was actually written for: a cheaper car. Then comes the part nobody in the room registers. Tesla pays no dividends and never will, because every penny from every $109,000 Roadster goes into the next car down the price ladder. His salary is minimum wage. He doesn’t mention that the company has days of cash left, or that an emergency round has to close by Christmas Eve or it’s over. He talks about cell phones instead how the first ones cost a fortune, how you can’t reach the cheap version without selling the expensive one first. 100 cars built, and the 100th goes out Tuesday. He says he’ll hand over the keys himself. GM filed for bankruptcy 6 months later, and the man on minimum wage didn’t.
 
-<img src="/images/elonmusk/amplify_video_thumb_2088684791356919808_img_JUfoEbDHpI33jwst.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKzGqBXKyAcwABUEtBf7NVifli6UCrewACuBBrG13qCVThn-mIZnd6aAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-16 03:27:21
 
-[查看原文](https://nitter.net/MyWestLord/status/2088685079019364621#m)
+**内容**:
+
+RT by @elonmusk: For those impacted by the earthquake in Indonesia, Starlink is providing free service through September 16 to new and existing customers. We are coordinating with emergency response agencies to provide service and hardware to their teams in the hardest-hit areas, and activating donated Starlinks from previous responses to help restore connectivity → https://starlink.com/support/article/9d5bf280-0d00-15cb-5704-4bca2e9bad84
+
+[查看原文](https://nitter.net/Starlink/status/2088709146472517815#m)
 
 ---
 
 ## 2026-08-16 05:12:54
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -103,8 +143,6 @@ RT by @elonmusk: Worth trying Grok 4.6. Fable 5 is smarter overall, but Grok is 
 
 ## 2026-08-16 05:14:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Grok has improved massively
@@ -112,8 +150,6 @@ Grok has improved massively
 ---
 
 ## 2026-08-16 05:33:15
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -123,8 +159,6 @@ RT by @elonmusk: Okay I am convinced that I don’t think I need my OpenClaw or 
 
 ## 2026-08-16 05:37:17
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Grok 4.6 ranks #1 on RuntimeWire’s Newsroom Reliability v0.2 benchmark with a score of 0.79, beating GPT-5.6 Sol, Claude Opus 4.8, Gemini and DeepSeek.
@@ -132,8 +166,6 @@ RT by @elonmusk: Grok 4.6 ranks #1 on RuntimeWire’s Newsroom Reliability v0.2 
 ---
 
 ## 2026-08-16 05:59:37
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -143,8 +175,6 @@ Video
 
 ## 2026-08-16 07:24:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: After @elonmusk bought Twitter, a bunch of advertisers engaged in an illegal group boycott of @X. The advertisers coordinated to pull billions in ad spend and reveled in the harm they caused.  We sued and this week received a flood of support for our appeal---for which we are incredibly grateful. 1/
@@ -152,8 +182,6 @@ RT by @elonmusk: After @elonmusk bought Twitter, a bunch of advertisers engaged
 ---
 
 ## 2026-08-16 07:46:13
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -163,8 +191,6 @@ Interesting exchange
 
 ## 2026-08-16 07:47:31
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 I hope AI is nice to us
@@ -172,8 +198,6 @@ I hope AI is nice to us
 ---
 
 ## 2026-08-16 08:12:16
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -183,8 +207,6 @@ Grok 4.6
 
 ## 2026-08-16 08:15:51
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 Tesla cars sold in America are the most made in America of any cars
@@ -193,35 +215,21 @@ Tesla cars sold in America are the most made in America of any cars
 
 ## 2026-08-16 10:00:01
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: This PERFECTLY explains why ‘The Left’ is obsessed with being morally superior “Did you ever ask yourself why it's always the weakest, least competent, and average IQ people who base their entire identity on morality and tolerance?” Here’s the psychology behind it: “Every human being carries the same deep drive to matter, to be respected, to reach something external, whether that's money, status, an attractive partner, or genuine skill at something. In the real world, all of these get measured through competence, strength, and intelligence, and that's exactly the problem for people who fall short on those measurements. They still feel the drive, but they can't reach the goal, at least not to the degree others can, and unconsciously they experience the inferiority that comes with actual objective inferiority. To avoid feeling useless and insignificant, they move the target. Instead of competence, the goal becomes being a good person, a goal defined entirely by them that requires no measurable skill, no competition, and no real work to declare victory in. This gets them the exact same feeling of accomplishment without ever having to develop any of the competence that would normally be required to earn it. That's the path the weak and the incapable take because it's the only game left where they can still call themselves winners.” You could spend 1000 years trying to come up with a better explanation for liberals and their mindset and you wouldn’t be able to, because this is it If you fail at everything else, you simply make your entire life about being “morally superior”
-
-<img src="/images/elonmusk/amplify_video_thumb_2088719420076302336_img_Mu2Z5AHUUlhBJWZ7.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/WallStreetApes/status/2088807963385324001#m)
 
 ---
 
 ## 2026-08-16 10:03:37
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Falcon 9’s first stage lands on the Of Course I Still Love You droneship
 
-<img src="/images/elonmusk/amplify_video_thumb_2088808745933357056_img_VsDE0NnCcVwI1ZCQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2088808869728256385#m)
-
 ---
 
 ## 2026-08-16 10:13:19
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 **内容**:
 
@@ -231,13 +239,21 @@ RT by @elonmusk: Deployment of @Globalstar 2-R satellites has started
 
 ## 2026-08-16 11:27:22
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
 **内容**:
 
 RT by @elonmusk: Ok Grok 4.6 is getting scary good. Games. 3D worlds. Game trailers. Even real-world 3D prints. 10 wild examples:
 
-[查看原文](https://nitter.net/minchoi/status/2088829945749311925#m)
+---
+
+## 2026-08-16 21:50:52
+
+**内容**:
+
+RT by @elonmusk: Tesla Model Y was China’s #1 best-selling midsize SUV last month. 🇨🇳 • 25,158 retail sales • #3 best-selling vehicle overall • 197,671 sold from January through July Tesla China also recorded 93,579 wholesale sales, up 37.8% YoY.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK0mqCYkwv6f4u3EJH5SiQudGJRC8bAAKrE2sb40IRVBh2o6ga-2vhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2088986855039811790#m)
 
 ---
 
