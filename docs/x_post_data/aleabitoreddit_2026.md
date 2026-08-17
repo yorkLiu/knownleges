@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 416 条推文
+> 📊 推文存档 - 共 417 条推文
 
 ---
 
@@ -59,9 +59,19 @@ I think we're seeing AI server MLCC demand cause an interesting effect... with t
 
 Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. Phison CEO: "2027 capacity constraints will be even more severe than in 2026." "Upstream suppliers need up to 4 years from plant construction and equipment investment to actual production. With demand growing explosively and supply expansion limited, the NAND shortage is likely to last for years." Don't quite think I agree with the people claiming it's all over for memory, esp. NAND bottlenecks in 2026...
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK3GqCyAFZXTk7jc-zGCC3Ns5kSVNwAAKmFGsb40IRVEluvR2Lq1yyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089264987328151637#m)
+## 2026-08-17 22:16:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It's official, Unitree the 8000x+ retail oversubscribed humanoid company in China. Is expected to go public in 2 days! So the 19th. Opening is implied to be around ~$41.66B MC per derivatives, around +363.3% above its ~$9B IPO valuation. Fun times for humanoids this week.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK3mqDHzQCB9oq9uffmyCWyLIxegpsAAKuEWsb40IZVEC7y-2MZxhAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089355682286092748#m)
 
 ---
 
