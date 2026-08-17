@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 412 条推文
+> 📊 推文存档 - 共 413 条推文
 
 ---
 
@@ -19,11 +19,19 @@ tags: ["2026"]
 
 I think @elonmusk said it best: “Robots don’t all need to be humanoid. But a general-purpose robot intended to replace human labor should fit the world humans already built. Roger, roger.” Personally, I expect $TSLA Optimus form factor to converge to the right image.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKzWqCCxJ54ufzKKGjpwZfGmP6Y05CAAKDE2sb40IRVEqdnX3PReVKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKzmqCCxbW7T4nX3RaZeUkUEIZFm4_AAKEE2sb40IRVO2E8PbQVnWuAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-17 08:34:43
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089057857652338993#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Stripe reportedly buys OpenRouter for $7 Billion. I think their orchestration is easy to replicate and switch from. And there's very little moat. But atm, OpenRouter has the userbase, valuable dataset, + momentum. What's your take... Yay or Nay for the payments firm?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK0GqCWwFzXyiybQoifa09cfbtgy5fAAKeE2sb40IRVGQMW5kVnvAdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089148883838611460#m)
 
 ---
 
