@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 327 条推文
+> 📊 推文存档 - 共 328 条推文
 
 ---
 
@@ -59,11 +59,19 @@ tags: ["2026"]
 
 所以我從來不聊我不熟悉的領域，不能用自己的愛好挑戰別人的專業。自媒體時代，很多播主為了高產出變成了「縫合怪」，比如那誰誰誰講玄學⋯⋯
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2089095506874290176_img_6qLjRlMgo-XqugEt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2089095506907856896_img_vAT4euUEsrpA-ioI.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-17 10:37:55
 
-[查看原文](https://nitter.net/dianzhuXS/status/2089172097704853910#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+如圖，能理解菊花的，就趕緊拉黑我吧，要不就等著我拉黑你，謝謝了🤭
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK12qCeBw-qpVEnKcGQR4tPAZ5FSd-AAL3E2sb40IRVMMtLKIBonV2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2089179890625245368#m)
 
 ---
 

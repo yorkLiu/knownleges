@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2127 条推文
+> 📊 推文存档 - 共 2129 条推文
 
 ---
 
@@ -29,8 +29,6 @@ Intelligence/Joule will keep improving
 
 RT by @elonmusk: For those impacted by Hurricane Lala in Hawaii, Starlink is providing free service through September 17 to new and existing customers. We are coordinating with local emergency officials to set up Starlink for crews on the ground in the worst-hit communities → https://starlink.com/support/article/c236a4c6-607b-dc2b-9214-b9bcace85ca6
 
-[查看原文](https://nitter.net/Starlink/status/2089133557281444184#m)
-
 ---
 
 ## 2026-08-17 08:32:35
@@ -40,10 +38,6 @@ RT by @elonmusk: For those impacted by Hurricane Lala in Hawaii, Starlink is pro
 **内容**:
 
 RT by @elonmusk: Gif
-
-<img src="/images/elonmusk/amplify_video_thumb_2089136540366602240_img_k_hBVotA6OvFoPg6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/yunta_tsai/status/2089148348276347258#m)
 
 ---
 
@@ -55,10 +49,6 @@ RT by @elonmusk: Gif
 
 Try Grok @Bot!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK0WqCYkhCf2JKpCBJ8ped1YYSLIk0AAKqE2sb40IRVIKwZcCU9hstAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089148540039901185#m)
-
 ---
 
 ## 2026-08-17 08:33:54
@@ -69,9 +59,19 @@ Try Grok @Bot!
 
 Two major rocket launches almost simultaneously
 
-<img src="/images/elonmusk/amplify_video_thumb_2088960545198366720_img_iFOol5hiY1Xxxhk3.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089148681887031667#m)
+## 2026-08-17 10:24:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK1mqCeBXYrijbFJm2wwP6MSxX90KPAAL2E2sb40IRVOaOUfOlCmb-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089176557747413105#m)
 
 ---
 
@@ -128,8 +128,6 @@ RT by @elonmusk: Elon Musk stood in a Hollywood living room in 2008, 12 days fro
 **内容**:
 
 RT by @elonmusk: For those impacted by the earthquake in Indonesia, Starlink is providing free service through September 16 to new and existing customers. We are coordinating with emergency response agencies to provide service and hardware to their teams in the hardest-hit areas, and activating donated Starlinks from previous responses to help restore connectivity → https://starlink.com/support/article/9d5bf280-0d00-15cb-5704-4bca2e9bad84
-
-[查看原文](https://nitter.net/Starlink/status/2088709146472517815#m)
 
 ---
 
@@ -245,15 +243,23 @@ RT by @elonmusk: Ok Grok 4.6 is getting scary good. Games. 3D worlds. Game trail
 
 ---
 
+## 2026-08-16 21:00:02
+
+**内容**:
+
+RT by @elonmusk: Landing an orbital-class rocket was once considered almost impossible. SpaceX has now done it 650 times First landing: December 21, 2015 650th landing: August 15, 2026
+
+<img src="/images/elonmusk/amplify_video_thumb_2088974018368151552_img_JeqYhvl8ZotcVwYX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2088974063666614522#m)
+
+---
+
 ## 2026-08-16 21:50:52
 
 **内容**:
 
 RT by @elonmusk: Tesla Model Y was China’s #1 best-selling midsize SUV last month. 🇨🇳 • 25,158 retail sales • #3 best-selling vehicle overall • 197,671 sold from January through July Tesla China also recorded 93,579 wholesale sales, up 37.8% YoY.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK0mqCYkwv6f4u3EJH5SiQudGJRC8bAAKrE2sb40IRVBh2o6ga-2vhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2088986855039811790#m)
 
 ---
 
