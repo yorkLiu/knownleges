@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 337 条推文
+> 📊 推文存档 - 共 338 条推文
 
 ---
 
@@ -29,9 +29,19 @@ tags: ["2026"]
 
 始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK2WqCnGaJ0wKCJtC691ODe3CRDBtXAAIxFGsb40IRVCR7bS5OcKXhAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/xiaomustock/status/2089220928840548847#m)
+## 2026-08-17 23:39:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK32qDNP-8Tqz5dDlRGYqCXV0yq4nbAAIIEmsb40IZVMnNydVGXuusAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2089376641445482583#m)
 
 ---
 
