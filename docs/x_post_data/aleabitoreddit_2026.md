@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 414 条推文
+> 📊 推文存档 - 共 415 条推文
 
 ---
 
@@ -39,11 +39,17 @@ Stripe reportedly buys OpenRouter for $7 Billion. I think their orchestration is
 
 "Severe InP Shortage Triggers Largest Price Hike Ever" - $AXTI. Suppliers have bluntly stated that "even if you have the money, you still may not be able to get the material" (lol). - Industry sources revealed that InP substrate prices began rising in Q4 last year and was the fourth consecutive substrate price hike. - The latest Q4 hike is expected to be >10%, - Meanwhile, prices for epitaxial wafers made from those substrates have already been raised two times, and the market is moving toward a 3rd consecutive increase in Q4. (I also wrote a thesis on $IQE, which benefits here too). Article states VPEC, Landmark, IET benefits (Taiwan centric reporting). I did predict this last year... The bottleneck is real, but I do have higher expectations for price hikes that comes next. Glad it's starting to play out.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK1GqCaYoRhVcydFqteOhHqbY3-iJ6AAK8E2sb40IRVM7PcoYq6Ms9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK1WqCaY7A4BCnm8zkekPUG0oJSvmsAAK9E2sb40IRVEojs9JBLUeUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-17 10:52:12
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089165155741622679#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs. If you get Vietnam flashbacks like I do to $MU / Samsung / SK Hynix -> Legacy DRAM: My thesis is we'll see the same thing here maybe late H2, early 2027 with consumer/broad MLCCs. From July 6th: "the crowding-out effect from AI-oriented high-end MLCC production has begun spilling over into both the automotive and consumer markets." July 28th: "AI Demand Pushes Japanese and Korean MLCC Suppliers to Record Monthly Shipments; Consumer-Grade Order Spillovers Continue to Surge" Aug 12: As [MLCC] capacity shifts from consumer grades to AI-oriented products... (Trendforce) Aug 12: China's electronics market channel checks found 22µF and 47µF MLCCs (used more broadly) out of stock. Then found and said certain manufacturers had stopped taking orders. (for reference: Walsin said high-volume smartphone/PC products such as... 22µF, so it's broader MLCCs) Obviously Samsung Electro-Mechanics/Murata are main beneficiaries of AI server MLCC ramp. But companies with large market share of overall MLCCs like Taiyo Yuden (6976, disclosure: I have positions) with less AI server share, would be a major beneficiary of this. Fun part is, we're only in H2 2026, so the next major bottleneck should be fun!
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089183484556480536#m)
 
 ---
 
