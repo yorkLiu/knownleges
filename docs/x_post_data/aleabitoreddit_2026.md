@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 413 条推文
+> 📊 推文存档 - 共 414 条推文
 
 ---
 
@@ -29,9 +29,21 @@ I think @elonmusk said it best: “Robots don’t all need to be humanoid. But a
 
 Stripe reportedly buys OpenRouter for $7 Billion. I think their orchestration is easy to replicate and switch from. And there's very little moat. But atm, OpenRouter has the userbase, valuable dataset, + momentum. What's your take... Yay or Nay for the payments firm?
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK0GqCWwFzXyiybQoifa09cfbtgy5fAAKeE2sb40IRVGQMW5kVnvAdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089148883838611460#m)
+## 2026-08-17 09:39:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+"Severe InP Shortage Triggers Largest Price Hike Ever" - $AXTI. Suppliers have bluntly stated that "even if you have the money, you still may not be able to get the material" (lol). - Industry sources revealed that InP substrate prices began rising in Q4 last year and was the fourth consecutive substrate price hike. - The latest Q4 hike is expected to be >10%, - Meanwhile, prices for epitaxial wafers made from those substrates have already been raised two times, and the market is moving toward a 3rd consecutive increase in Q4. (I also wrote a thesis on $IQE, which benefits here too). Article states VPEC, Landmark, IET benefits (Taiwan centric reporting). I did predict this last year... The bottleneck is real, but I do have higher expectations for price hikes that comes next. Glad it's starting to play out.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK1GqCaYoRhVcydFqteOhHqbY3-iJ6AAK8E2sb40IRVM7PcoYq6Ms9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK1WqCaY7A4BCnm8zkekPUG0oJSvmsAAK9E2sb40IRVEojs9JBLUeUAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089165155741622679#m)
 
 ---
 
