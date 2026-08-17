@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2129 条推文
+> 📊 推文存档 - 共 2131 条推文
 
 ---
 
@@ -69,9 +69,33 @@ Two major rocket launches almost simultaneously
 
 Yes
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK1mqCeBXYrijbFJm2wwP6MSxX90KPAAL2E2sb40IRVOaOUfOlCmb-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089176557747413105#m)
+## 2026-08-17 11:19:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is literally my new workflow now: Realtime Research → Grok Bot Planning & Orchestration→ Grok Bot Day-to-day Coding/Debug → Grok Build + Grok 4.6 Write & Run Tests → Grok Build + Grok 4.6 Complex Coding/Debug → GPT-5.6 Sol Frontend → Fable 5 Bookmark this.
+
+[查看原文](https://nitter.net/minchoi/status/2089190230645432329#m)
+
+---
+
+## 2026-08-17 13:29:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: OMG. I asked my Chief Engineer on Grok @bot to bring up the feature and it's done. 😳 I can text my @maticrobots now through my Grok @bot—anywhere and anytime.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK2mqCsjJJMcRPj5AbH9HoYyItW7h2AAJdFGsb40IRVB6f8O0d_vf0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK22qCsjUWOzxImKU0tZNqCOn82I-fAAJeFGsb40IRVJtc2hxYIZi1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/yunta_tsai/status/2089223114416898288#m)
 
 ---
 
