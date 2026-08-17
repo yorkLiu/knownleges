@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 330 条推文
+> 📊 推文存档 - 共 331 条推文
 
 ---
 
@@ -89,7 +89,19 @@ tags: ["2026"]
 
 中簡圈有些V，一提到江蛤蟆就是「老爺子」，一提朱鎔基就「好總理」，一提大院子弟就莫名的出身優越，一提改開就坐地排卵，就這還「反共」？反個毛綫！無非是習近平要建立自己的王朝了，牠們沒有生存空間了，吃不到紅利了，做不了人上人了，才搖身一變反了共而已。本質上都是王大菊花和蔡大叫獸，都盼著中共能改良，盼著打砸搶起家的土匪能發善心，盼著妓女能從良⋯⋯用郭德綱的話說，想瞎了你們的心！而這幫玩意兒的擁躉，無非都是不想自己付出的「長脖老等」，雞賊到骨子裡的「精緻利己」，只要這幫玩意還占比大多數，那國就是沒救的，別費勁😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://nitter.net/dianzhuXS/status/2089315944518897715#m)
+---
+
+## 2026-08-17 19:53:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+明晚有課
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK3WqC-t9uAs1JVJXHnlJkuFAlCoAMAAJhEWsb40IZVMwNEDr2AAGRLwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2089319758227550659#m)
 
 ---
 
