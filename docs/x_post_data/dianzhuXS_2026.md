@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 328 条推文
+> 📊 推文存档 - 共 329 条推文
 
 ---
 
@@ -69,9 +69,19 @@ tags: ["2026"]
 
 如圖，能理解菊花的，就趕緊拉黑我吧，要不就等著我拉黑你，謝謝了🤭
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK12qCeBw-qpVEnKcGQR4tPAZ5FSd-AAL3E2sb40IRVMMtLKIBonV2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2089179890625245368#m)
+## 2026-08-17 18:37:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+那國最可悲就是，敢於站出來的人早已被精緻利己們遺忘，而牠們依然享受著官方對站出來的人之妥協，一點不臉紅，請允許我說一句文言文～TMD!
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2088636749111021570_img_ESm0bGm9ywilswez.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2089300676736410100#m)
 
 ---
 
