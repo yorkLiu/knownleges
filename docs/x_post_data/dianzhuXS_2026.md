@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 326 条推文
+> 📊 推文存档 - 共 327 条推文
 
 ---
 
@@ -39,10 +39,6 @@ tags: ["2026"]
 
 還是盧比奧吧，法律就是法律，不能以人的喜好亂改
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK02qCYlN7z3dQddB8VqM2G6eCSoxYAAKsE2sb40IRVK5PW-Ov51zaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dianzhuXS/status/2089156497452454392#m)
-
 ---
 
 ## 2026-08-17 09:18:30
@@ -53,9 +49,21 @@ tags: ["2026"]
 
 是的，菊花就是給開水裡的蛤蟆們打麻醉劑的，蛤蟆們舒服了也死定了😮‍💨
 
-<img src="/images/dianzhuXS/card_img_2087233238184144896_K7vtDI6E3Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/dianzhuXS/status/2089159904213049685#m)
+## 2026-08-17 10:06:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+所以我從來不聊我不熟悉的領域，不能用自己的愛好挑戰別人的專業。自媒體時代，很多播主為了高產出變成了「縫合怪」，比如那誰誰誰講玄學⋯⋯
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2089095506874290176_img_6qLjRlMgo-XqugEt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/dianzhuXS/amplify_video_thumb_2089095506907856896_img_vAT4euUEsrpA-ioI.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dianzhuXS/status/2089172097704853910#m)
 
 ---
 
