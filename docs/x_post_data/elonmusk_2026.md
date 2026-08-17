@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2132 条推文
+> 📊 推文存档 - 共 2135 条推文
 
 ---
 
@@ -19,9 +19,45 @@ tags: ["2026"]
 
 Grok @Bot
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK4GqDPEPcbgIAAZDE2KqDBdXx1jE2wAACDxJrG-NCGVRMlOZn1peDrQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089388021154283625#m)
+## 2026-08-18 02:18:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+❤️
+
+<img src="/images/elonmusk/amplify_video_thumb_2089409338796564480_img_eCaP4KBMT8zZx0mx.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089416526894141748#m)
+
+---
+
+## 2026-08-18 02:19:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 is smart, super fast & affordable
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK4WqDWVRw0r_CYVY_Zq9D0Y-ajOvmAAI3Emsb40IZVOso-_WiMiwQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089416747720061154#m)
+
+---
+
+## 2026-08-18 02:30:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The talent at SpaceXAI is insane 🔥
+
+[查看原文](https://nitter.net/Nate_Esparza/status/2089419658399224022#m)
 
 ---
 
