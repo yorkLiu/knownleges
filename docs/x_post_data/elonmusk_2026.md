@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2155 条推文
+> 📊 推文存档 - 共 2170 条推文
 
 ---
 
@@ -31,6 +31,22 @@ It will be much bigger
 
 ---
 
+## 2026-08-19 00:15:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: WTF, THIS GUY FROM CURSOR GAVE GROK BOT A PILE OF CLOTHES HIS SISTER WAS TOO LAZY TO SELL – AND IT HANDLED THE ENTIRE SALE BY ITSELF His sister had tons of clothes she never wore anymore, but selling them meant taking photos, creating listings, adding descriptions, answering buyers and negotiating prices – so she kept putting it off. He gave the entire task to Grok Bot. It looked at the photos, identified the items, created the listings, pulled in the relevant information and started negotiating with buyers on its own. No babysitting. No approving every message. No sitting there telling it what to do next. Grok Bot has its own computer, so once he handed over the task, it just kept going. And that’s what makes this interesting. The biggest problem with small tasks isn’t usually the work itself. It’s the mental load of remembering them, starting them, checking them, replying to people and making sure they actually get finished. AI agents are starting to remove that entire layer. You don’t need to ask AI how to sell your clothes. You can just say: “Sell these”. And let it figure out the rest. Everyone has a list of things they’ve been putting off for months. AI is starting to check them off for you.
+
+<img src="/images/elonmusk/amplify_video_thumb_2089747699629203456_img_-jwcd4TRC_2s9HS_.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK92qEy-71C21WhcfM7Fvq7ZiX36jfAAKDEWsbt9QoVPe1l_3TgQplAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ScottyBeamIO/status/2089747957545410816#m)
+
+---
+
 ## 2026-08-19 00:22:21
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -38,6 +54,20 @@ It will be much bigger
 **内容**:
 
 Yes
+
+---
+
+## 2026-08-19 00:38:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨 BREAKING: The "trans" guy who traveled DC intending to KlLL Scott Bessent has been sentenced to 73 months in prison Trans vioIence is COMPLETELY out of control Ryan Michael English, who pretends to be a woman, brought MOLOTOV COCKTAILS to the US Capitol, admitting he was going to throw them at Bessent's feet during his Senate confirmation vote This guy got off WAY too easy
+
+<img src="/images/elonmusk/amplify_video_thumb_2089753639770267648_img_ZYLLpjmR4NKvY7jJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/nicksortor/status/2089753809933201454#m)
 
 ---
 
@@ -61,6 +91,20 @@ Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.
 
 ---
 
+## 2026-08-19 01:20:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Reporter: You good with mass migration? Dalai Lama: Nope lol
+
+<img src="/images/elonmusk/amplify_video_thumb_2037167229691977733_img_ErRuSZ0w5vHb6bjq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheRabbitHole/status/2089764492746084585#m)
+
+---
+
 ## 2026-08-19 02:00:34
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -69,9 +113,113 @@ Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.
 
 Wow, this is an all-star lineup!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK9mqEp5x4eGlkN7_L5Is7PEusxPlqAAJlEWsbt9QoVBDFMktpll6-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089774470890238126#m)
+## 2026-08-19 02:57:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I'm using Grok in the CLI and I've got to say: I'm delighted at its personality. The thinking keeps showing comments like 'Wow, that country-FE result is striking!' and 'The quadratic adjustment left a ~15-25% residual. Guess that's why we use splines!' Grok is so happy!
+
+[查看原文](https://nitter.net/cremieuxrecueil/status/2089788796489388200#m)
+
+---
+
+## 2026-08-19 03:39:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starlink and Roam service plans keep you connected on the go 🛰️🛣️
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-mqEy__FAdlsumdVFzpNfb9LzWIaAAKHEWsbt9QoVGdliAiqaxLXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2086872997647052800_img_2J3jAEbrlzJ1fHJU.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Starlink/status/2089799256995713424#m)
+
+---
+
+## 2026-08-19 03:56:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Improvements to Grok @Bot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_GqEzAlVqFogWUHel0hXD3hAlI2YAAKJEWsbt9QoVNrbNX83LbvJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089803729293996295#m)
+
+---
+
+## 2026-08-19 04:18:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Imagine: where magnificent worlds come alive.
+
+<img src="/images/elonmusk/amplify_video_thumb_2089809169062772736_img_89OV9YQfrKff-4gN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/art_muse/status/2089809204051616082#m)
+
+---
+
+## 2026-08-19 04:24:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly 😂
+
+<img src="/images/elonmusk/amplify_video_thumb_2089562734010462208_img_B73dpNUqqzl4e-bu.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089810719713997147#m)
+
+---
+
+## 2026-08-19 04:55:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://nitter.net/elonmusk/status/2089818449912746244#m)
+
+---
+
+## 2026-08-19 05:04:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+❤️
+
+<img src="/images/elonmusk/amplify_video_thumb_2089154771542556672_img_BYZAW-BLw6zTz5lj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089820677960564975#m)
+
+---
+
+## 2026-08-19 05:06:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is super fun
+
+[查看原文](https://nitter.net/elonmusk/status/2089821351091798283#m)
 
 ---
 
@@ -82,10 +230,6 @@ Wow, this is an all-star lineup!
 **内容**:
 
 RT by @elonmusk: 🚨Starlink is providing free internet service through Sept. 17 to customers in Hawaii impacted by Hurricane Lala. SpaceX is also working with local officials to deploy Starlink for emergency crews and residents in the hardest-hit areas. Thank you @elonmusk and @Starlink! 🇺🇸🇺🇸
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK8GqEmRBdvBt4BQkFuDPZ0gABQejdSAACTRFrG7fUKFQnDSxN4mKJQQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/KanekoaTheGreat/status/2089386306979975556#m)
 
 ---
 
@@ -179,6 +323,20 @@ Grok is very good at agentic tasks!
 
 ---
 
+## 2026-08-18 08:13:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot is the best AI agent right now It gives you an army of agents that can do work for you around the clock 24/7 If you set it up correctly, you gain super powers In this video I cover setting up Grok Bot, use cases, plugins, and what makes Grok Bot so good:
+
+<img src="/images/elonmusk/amplify_video_thumb_2089498185383436288_img_VDQWBJ4kmrEx5HOI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/AlexFinn/status/2089505950470459659#m)
+
+---
+
 ## 2026-08-18 12:48:28
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -219,6 +377,22 @@ RT by @elonmusk: 73% of women on the titanic survived. Only 19% of men did. Read
 
 ---
 
+## 2026-08-18 20:11:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX will attempt to return Starship to Starbase! The SpaceX Recovery team successfully guided Starship near Christmas Island. A team of company engineers is already on their way to conduct additional analyses before attempting to return Starship to Starbase. This is a major step toward Starship reusability! Congratulations! 📸: SpaceX
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-GqEy_S-LidResZZDBuof852kGEpAAKEEWsbt9QoVE5jJKyc4uqMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-WqEy_hJPsPw4UE8-IHqjLJpgIkhAAKGEWsbt9QoVCnMdFXthkAwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/EvaFox/status/2089686743746216259#m)
+
+---
+
 ## 2026-08-18 21:00:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -229,6 +403,20 @@ RT by @elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide
 
 ---
 
+## 2026-08-18 22:12:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk and SpaceX have been true champions for Ukraine since day one of the full-scale invasion. Immediately after the russian attack became known, Elon ordered the dispatch of Starlink terminals. He didn't wait for a request from Ukraine and intervened to help the country before it was sent, something that not many people know. He activated Starlink, which restored vital connectivity when conventional networks were shattered. This resilient satellite internet became the backbone of Ukrainian resilience. Starlinks are powering frontline coordination, drone operations, hospitals, emergency services, and civilian life amid relentless attacks. Tens of thousands of terminals keep forces connected and effective. In 2026, Elon’s swift action to block unauthorized russian use of Starlink delivered game-changing results. It protected Ukraine’s air defenses, safeguarded the air force, and spared thousands of civilian lives, enabling the largest territorial gains in years. As former Defense Minister Mykhailo Fedorov has rightly said, Elon is “the most important tech person and entrepreneur in the world for our country” and a true friend of the Ukrainian people. Thank you, Elon and SpaceX, for standing firmly with freedom!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-2qEzAQO_AtndvSFVcjQLA2v7O03AAKIEWsbt9QoVKODqgEINv7vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/EvaFox/status/2089717025245380793#m)
+
+---
+
 ## 2026-08-18 22:12:33
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -236,6 +424,18 @@ RT by @elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide
 **内容**:
 
 Starship Flight 13 is being recovered from sea
+
+---
+
+## 2026-08-18 22:15:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Thanks for sharing and bringing us all along for the journey.
+
+[查看原文](https://nitter.net/NASAAdmin/status/2089717907362316619#m)
 
 ---
 
