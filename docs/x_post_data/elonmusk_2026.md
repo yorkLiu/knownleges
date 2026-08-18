@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2146 条推文
+> 📊 推文存档 - 共 2147 条推文
 
 ---
 
@@ -131,6 +131,20 @@ Grok 4.6 takes top spot on this benchmark
 
 ---
 
+## 2026-08-18 21:00:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide, covering more than 7,000 aircraft that are already equipped, undergoing installation, or under contract.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK7GqEe_-z725IVbJZVbN6ez6h4IsWAAIxEWsbt9QoVJ9g07mjlPTtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2089698881655427383#m)
+
+---
+
 ## 2026-08-18 22:12:33
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -148,10 +162,6 @@ Starship Flight 13 is being recovered from sea
 **内容**:
 
 Grok
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK62qEdLvCkwSWMcMoYQ84YfFRpWWUAAIkEWsbt9QoVHLFNvtdFRB1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089719862880780588#m)
 
 ---
 
