@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 419 条推文
+> 📊 推文存档 - 共 420 条推文
 
 ---
 
@@ -29,13 +29,19 @@ I've decided to name my next two pets Applied Optoelectronics and Sivers Semicon
 
 So just tracking the MLCC cycle: ComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting: - Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data. Earlier this year, broader reports were ~20 weeks, so the AI server MLCC bottleneck keeps growing. - Murata was ~24 weeks in June. July was ~30 weeks. And now some at ~36 weeks. This was interesting: “The expansion of new production capacity is being postponed from Q4 2026 to 2027” Doesn’t say which expansion… maybe Murata? But if capacity expansion reportedly gets stalled, the bottleneck should tighten short term. Lead times are a good way to track demand imbalances.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK42qDzZof-7fYpWcXd2OaRm6Ksm6BAAIEFGsbt9QgVEN775mokGqgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK5GqDzZ7W4RcgOjpoA9-Cj2YJSucZAAIFFGsbt9QgVHMQ2F7MwV4CAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-18 20:25:18
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK5WqDzaHvbIvI2Ardz_IaS6KsIzNUAAIGFGsbt9QgVAcnYJxZd_V7AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089547564249219163#m)
+**内容**:
+
+Looks like we're getting the Strait of America, a new US territory...
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK52qEV6ojZSWZdH0BCQug4yQT8wLCAALHEGsbt9QoVLldukp4I0dfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089690098875130084#m)
 
 ---
 
