@@ -7,7 +7,47 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2147 条推文
+> 📊 推文存档 - 共 2151 条推文
+
+---
+
+## 2026-08-19 00:05:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So much has been built since then!
+
+[查看原文](https://nitter.net/elonmusk/status/2089745385971384637#m)
+
+---
+
+## 2026-08-19 00:07:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It will be much bigger
+
+<img src="/images/elonmusk/card_img_2089740880647159808_W-h-4jHc3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089745945030193224#m)
+
+---
+
+## 2026-08-19 00:22:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK7WqEioiAZYAecWkOuc5E2DBEKMvsAAI_EWsbt9QoVNlaNPrkkY0sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089749752980165097#m)
 
 ---
 
@@ -131,6 +171,18 @@ Grok 4.6 takes top spot on this benchmark
 
 ---
 
+## 2026-08-18 14:56:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 73% of women on the titanic survived. Only 19% of men did. Read that again. Even the richest men alive, class, power, status, all useless when the ship started sinking. Hierarchy collapsed. Gender didn’t. “Women and children first” Not a suggestion. A rule men didn’t break. Men stood there. No panic No begging. Just accepted it. They didn’t ask: “Do I know her?” “Is she worth it?” “Will she remember me?” No one asked if it was fair. No camera. No applause. No second chances. Zero return. Full cost. Understand this: When survival gets limited, a man’s life becomes negotiable. Men like that built the world. And today? Masculinity gets mocked. Call it whatever you want. But when everything collapsed, men paid first. This isn’t opinion. This is history.
+
+[查看原文](https://nitter.net/_info2019/status/2089607262100660688#m)
+
+---
+
 ## 2026-08-18 21:00:12
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -138,10 +190,6 @@ Grok 4.6 takes top spot on this benchmark
 **内容**:
 
 RT by @elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide, covering more than 7,000 aircraft that are already equipped, undergoing installation, or under contract.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK7GqEe_-z725IVbJZVbN6ez6h4IsWAAIxEWsbt9QoVJ9g07mjlPTtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2089698881655427383#m)
 
 ---
 

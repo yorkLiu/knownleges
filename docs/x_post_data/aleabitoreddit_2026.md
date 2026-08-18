@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 420 条推文
+> 📊 推文存档 - 共 421 条推文
+
+---
+
+## 2026-08-19 00:10:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I'm getting Vietnam flashbacks to the launch of OpenAi. Where with every model, it just keeps getting better... but now with hunanoids. Unitree has claimed that their humanoids: - Can now run faster than Usain Bolt. - Can now jump higher than any human. And with their IPO tomorrow, it seems like China is leading the hardware race.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK7mqEio5-L0za44qTX_chAAHFxJNDlQACQBFrG7fUKFRCZxLIcddPegEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK72qEipNG6OzQX8D9fpi9fE8J1TDSAAJBEWsbt9QoVKBYD9Lgzfn3AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089746797300432912#m)
 
 ---
 
