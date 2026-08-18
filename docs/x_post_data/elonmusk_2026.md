@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2151 条推文
+> 📊 推文存档 - 共 2154 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 So much has been built since then!
 
-[查看原文](https://nitter.net/elonmusk/status/2089745385971384637#m)
-
 ---
 
 ## 2026-08-19 00:07:13
@@ -30,10 +28,6 @@ So much has been built since then!
 **内容**:
 
 It will be much bigger
-
-<img src="/images/elonmusk/card_img_2089740880647159808_W-h-4jHc3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089745945030193224#m)
 
 ---
 
@@ -45,9 +39,45 @@ It will be much bigger
 
 Yes
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK7WqEioiAZYAecWkOuc5E2DBEKMvsAAI_EWsbt9QoVNlaNPrkkY0sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089749752980165097#m)
+## 2026-08-19 00:40:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK8WqEmRP1zaK7HtfS3tR2ifXn7jPRAAJOEWsbt9QoVESMvj1KmFWTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089754307453141424#m)
+
+---
+
+## 2026-08-19 00:40:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🎯
+
+[查看原文](https://nitter.net/elonmusk/status/2089754411249623060#m)
+
+---
+
+## 2026-08-18 00:18:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🚨Starlink is providing free internet service through Sept. 17 to customers in Hawaii impacted by Hurricane Lala. SpaceX is also working with local officials to deploy Starlink for emergency crews and residents in the hardest-hit areas. Thank you @elonmusk and @Starlink! 🇺🇸🇺🇸
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK8GqEmRBdvBt4BQkFuDPZ0gABQejdSAACTRFrG7fUKFQnDSxN4mKJQQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/KanekoaTheGreat/status/2089386306979975556#m)
 
 ---
 
@@ -178,8 +208,6 @@ Grok 4.6 takes top spot on this benchmark
 **内容**:
 
 RT by @elonmusk: 73% of women on the titanic survived. Only 19% of men did. Read that again. Even the richest men alive, class, power, status, all useless when the ship started sinking. Hierarchy collapsed. Gender didn’t. “Women and children first” Not a suggestion. A rule men didn’t break. Men stood there. No panic No begging. Just accepted it. They didn’t ask: “Do I know her?” “Is she worth it?” “Will she remember me?” No one asked if it was fair. No camera. No applause. No second chances. Zero return. Full cost. Understand this: When survival gets limited, a man’s life becomes negotiable. Men like that built the world. And today? Masculinity gets mocked. Call it whatever you want. But when everything collapsed, men paid first. This isn’t opinion. This is history.
-
-[查看原文](https://nitter.net/_info2019/status/2089607262100660688#m)
 
 ---
 
