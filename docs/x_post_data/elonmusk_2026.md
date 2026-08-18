@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2143 条推文
+> 📊 推文存档 - 共 2144 条推文
 
 ---
 
@@ -109,10 +109,6 @@ Grok is very good at agentic tasks!
 
 Sync to Origin
 
-<img src="/images/elonmusk/amplify_video_thumb_2089397451237036032_img_qeHLLgO7ic-M5GjF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089575133442711787#m)
-
 ---
 
 ## 2026-08-18 13:01:27
@@ -123,9 +119,19 @@ Sync to Origin
 
 Grok @Bot
 
-<img src="/images/elonmusk/card_img_2089401700734156800_n7xAhBGo3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089578400734167260#m)
+## 2026-08-18 13:58:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 takes top spot on this benchmark
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK5mqD-THCInc2MdPO0eFJaWKyrZN5AAK2FGsbt9QgVDxAombTIN6fAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089592732780032132#m)
 
 ---
 
