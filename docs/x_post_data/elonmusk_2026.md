@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2144 条推文
+> 📊 推文存档 - 共 2145 条推文
 
 ---
 
@@ -129,9 +129,25 @@ Grok @Bot
 
 Grok 4.6 takes top spot on this benchmark
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK5mqD-THCInc2MdPO0eFJaWKyrZN5AAK2FGsbt9QgVDxAombTIN6fAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089592732780032132#m)
+## 2026-08-18 22:12:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship Flight 13 is being recovered from sea
+
+<img src="/images/elonmusk/amplify_video_thumb_2089684968368721920_img_ZkkpMQiwTd2jGilZ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK6GqEbXfQzlz2gHJDjU9LF2HIeUBsAAIOEWsbt9QoVGeXQlnrCJt2AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK6WqEbXsLwJD9NwHv6pmK7q4saClRAAIPEWsbt9QoVFYcIyKQE7EnAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK6mqEbX-wJvGI43uUVPPisZQVQwSWAAIQEWsbt9QoVGQge96WTb0kAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089717086310318249#m)
 
 ---
 
