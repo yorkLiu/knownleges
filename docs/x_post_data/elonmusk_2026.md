@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2170 条推文
+> 📊 推文存档 - 共 2174 条推文
 
 ---
 
@@ -39,12 +39,6 @@ It will be much bigger
 
 RT by @elonmusk: WTF, THIS GUY FROM CURSOR GAVE GROK BOT A PILE OF CLOTHES HIS SISTER WAS TOO LAZY TO SELL – AND IT HANDLED THE ENTIRE SALE BY ITSELF His sister had tons of clothes she never wore anymore, but selling them meant taking photos, creating listings, adding descriptions, answering buyers and negotiating prices – so she kept putting it off. He gave the entire task to Grok Bot. It looked at the photos, identified the items, created the listings, pulled in the relevant information and started negotiating with buyers on its own. No babysitting. No approving every message. No sitting there telling it what to do next. Grok Bot has its own computer, so once he handed over the task, it just kept going. And that’s what makes this interesting. The biggest problem with small tasks isn’t usually the work itself. It’s the mental load of remembering them, starting them, checking them, replying to people and making sure they actually get finished. AI agents are starting to remove that entire layer. You don’t need to ask AI how to sell your clothes. You can just say: “Sell these”. And let it figure out the rest. Everyone has a list of things they’ve been putting off for months. AI is starting to check them off for you.
 
-<img src="/images/elonmusk/amplify_video_thumb_2089747699629203456_img_-jwcd4TRC_2s9HS_.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK92qEy-71C21WhcfM7Fvq7ZiX36jfAAKDEWsbt9QoVPe1l_3TgQplAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ScottyBeamIO/status/2089747957545410816#m)
-
 ---
 
 ## 2026-08-19 00:22:21
@@ -64,10 +58,6 @@ Yes
 **内容**:
 
 RT by @elonmusk: 🚨 BREAKING: The "trans" guy who traveled DC intending to KlLL Scott Bessent has been sentenced to 73 months in prison Trans vioIence is COMPLETELY out of control Ryan Michael English, who pretends to be a woman, brought MOLOTOV COCKTAILS to the US Capitol, admitting he was going to throw them at Bessent's feet during his Senate confirmation vote This guy got off WAY too easy
-
-<img src="/images/elonmusk/amplify_video_thumb_2089753639770267648_img_ZYLLpjmR4NKvY7jJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/nicksortor/status/2089753809933201454#m)
 
 ---
 
@@ -99,10 +89,6 @@ Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.
 
 RT by @elonmusk: Reporter: You good with mass migration? Dalai Lama: Nope lol
 
-<img src="/images/elonmusk/amplify_video_thumb_2037167229691977733_img_ErRuSZ0w5vHb6bjq.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/TheRabbitHole/status/2089764492746084585#m)
-
 ---
 
 ## 2026-08-19 02:00:34
@@ -115,6 +101,18 @@ Wow, this is an all-star lineup!
 
 ---
 
+## 2026-08-19 02:27:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot is unbelievable. Automated 25% of my day to day in less than an hour.
+
+[查看原文](https://nitter.net/NWischoff/status/2089781171060179338#m)
+
+---
+
 ## 2026-08-19 02:57:30
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -122,8 +120,6 @@ Wow, this is an all-star lineup!
 **内容**:
 
 RT by @elonmusk: I'm using Grok in the CLI and I've got to say: I'm delighted at its personality. The thinking keeps showing comments like 'Wow, that country-FE result is striking!' and 'The quadratic adjustment left a ~15-25% residual. Guess that's why we use splines!' Grok is so happy!
-
-[查看原文](https://nitter.net/cremieuxrecueil/status/2089788796489388200#m)
 
 ---
 
@@ -135,12 +131,6 @@ RT by @elonmusk: I'm using Grok in the CLI and I've got to say: I'm delighted at
 
 RT by @elonmusk: Starlink and Roam service plans keep you connected on the go 🛰️🛣️
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-mqEy__FAdlsumdVFzpNfb9LzWIaAAKHEWsbt9QoVGdliAiqaxLXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="/images/elonmusk/amplify_video_thumb_2086872997647052800_img_2J3jAEbrlzJ1fHJU.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Starlink/status/2089799256995713424#m)
-
 ---
 
 ## 2026-08-19 03:56:50
@@ -150,10 +140,6 @@ RT by @elonmusk: Starlink and Roam service plans keep you connected on the go �
 **内容**:
 
 Improvements to Grok @Bot
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_GqEzAlVqFogWUHel0hXD3hAlI2YAAKJEWsbt9QoVNrbNX83LbvJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089803729293996295#m)
 
 ---
 
@@ -165,10 +151,6 @@ Improvements to Grok @Bot
 
 RT by @elonmusk: Grok Imagine: where magnificent worlds come alive.
 
-<img src="/images/elonmusk/amplify_video_thumb_2089809169062772736_img_89OV9YQfrKff-4gN.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/art_muse/status/2089809204051616082#m)
-
 ---
 
 ## 2026-08-19 04:24:37
@@ -178,10 +160,6 @@ RT by @elonmusk: Grok Imagine: where magnificent worlds come alive.
 **内容**:
 
 Exactly 😂
-
-<img src="/images/elonmusk/amplify_video_thumb_2089562734010462208_img_B73dpNUqqzl4e-bu.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089810719713997147#m)
 
 ---
 
@@ -193,8 +171,6 @@ Exactly 😂
 
 Cool
 
-[查看原文](https://nitter.net/elonmusk/status/2089818449912746244#m)
-
 ---
 
 ## 2026-08-19 05:04:11
@@ -204,10 +180,6 @@ Cool
 **内容**:
 
 ❤️
-
-<img src="/images/elonmusk/amplify_video_thumb_2089154771542556672_img_BYZAW-BLw6zTz5lj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089820677960564975#m)
 
 ---
 
@@ -219,7 +191,31 @@ Cool
 
 Grok @Bot is super fun
 
-[查看原文](https://nitter.net/elonmusk/status/2089821351091798283#m)
+---
+
+## 2026-08-19 05:12:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+There is a potential future that is super amazing is we all fight hard to achieve it
+
+[查看原文](https://nitter.net/elonmusk/status/2089822761938194900#m)
+
+---
+
+## 2026-08-19 05:18:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Congrats Giga Shanghai team!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_WqE0zKDAd-BOlSkAAEhEnRO-CSQywACmRFrG7fUKFSeeG2tJCR-LAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089824315437089032#m)
 
 ---
 
@@ -451,7 +447,7 @@ Grok
 
 ## 2026-08-17 05:48:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -461,7 +457,7 @@ Intelligence/Joule will keep improving
 
 ## 2026-08-17 07:33:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -471,7 +467,7 @@ RT by @elonmusk: For those impacted by Hurricane Lala in Hawaii, Starlink is pro
 
 ## 2026-08-17 08:32:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -481,7 +477,7 @@ RT by @elonmusk: Gif
 
 ## 2026-08-17 08:33:21
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -491,7 +487,7 @@ Try Grok @Bot!
 
 ## 2026-08-17 08:33:54
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -501,7 +497,7 @@ Two major rocket launches almost simultaneously
 
 ## 2026-08-17 10:24:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -511,29 +507,35 @@ Yes
 
 ## 2026-08-17 11:19:00
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: This is literally my new workflow now: Realtime Research → Grok Bot Planning & Orchestration→ Grok Bot Day-to-day Coding/Debug → Grok Build + Grok 4.6 Write & Run Tests → Grok Build + Grok 4.6 Complex Coding/Debug → GPT-5.6 Sol Frontend → Fable 5 Bookmark this.
 
-[查看原文](https://nitter.net/minchoi/status/2089190230645432329#m)
-
 ---
 
 ## 2026-08-17 13:29:41
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: OMG. I asked my Chief Engineer on Grok @bot to bring up the feature and it's done. 😳 I can text my @maticrobots now through my Grok @bot—anywhere and anytime.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK2mqCsjJJMcRPj5AbH9HoYyItW7h2AAJdFGsb40IRVB6f8O0d_vf0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK22qCsjUWOzxImKU0tZNqCOn82I-fAAJeFGsb40IRVJtc2hxYIZi1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-17 20:01:00
 
-[查看原文](https://nitter.net/yunta_tsai/status/2089223114416898288#m)
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: Elon Musk says Starship could deliver nearly 10 million tons to orbit annually - the kind of scale needed to build a civilization beyond Earth.
+
+<img src="/images/elonmusk/amplify_video_thumb_2087305257340510209_img_WXgHlSH0awC9iLMt.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ResisttheMS/status/2089321593768169508#m)
 
 ---
 
