@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2140 条推文
+> 📊 推文存档 - 共 2143 条推文
 
 ---
 
@@ -69,10 +69,6 @@ RT by @elonmusk: 1/2 the turns and 25% of the tokens. Task/Token is something to
 
 RT by @elonmusk: Create a full scene with Grok Imagine for a chance to win 👇
 
-<img src="/images/elonmusk/amplify_video_thumb_2089440735934205952_img_AzsBoitFtU-u43ZB.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/imagine/status/2089461382051741919#m)
-
 ---
 
 ## 2026-08-18 05:22:14
@@ -102,6 +98,34 @@ Create with Grok Imagine
 **内容**:
 
 Grok is very good at agentic tasks!
+
+---
+
+## 2026-08-18 12:48:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Sync to Origin
+
+<img src="/images/elonmusk/amplify_video_thumb_2089397451237036032_img_qeHLLgO7ic-M5GjF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089575133442711787#m)
+
+---
+
+## 2026-08-18 13:01:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+<img src="/images/elonmusk/card_img_2089401700734156800_n7xAhBGo3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089578400734167260#m)
 
 ---
 
@@ -289,6 +313,16 @@ Video
 
 ---
 
+## 2026-08-16 06:15:53
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 is my daily driver now. This is why: When I’m using interactive agents in a CLI/terminal (or even Slack), what matters most to me is speed & token throughput. Intelligence and differences in performance on benchmarks is negligible to me when speed is sacrificed. If I am there to steer & guide the agent, or make some quick fixes, then I don’t want to wait 5+ min per turn. Opus 5 (fast) is a good solution to this, but it is WAY too expensive. Grok 4.6 is perfect though, incredibly fast, almost as smart as Fable, and relatively much cheaper than anything else right now. On the flip side, for cloud agents working in Factories & background tasks triggered on crons, I don’t mind using intelligent, slow models like Fable / Sol. I’d even opt for a model router for cloud tasks that biases to heavy, smart models. I guess the meta point I’m making here is that model choice is largely a function of whether there’s a human waiting in the loop.
+
+[查看原文](https://nitter.net/vikvang1/status/2088751558578061542#m)
+
+---
+
 ## 2026-08-16 07:24:28
 
 **内容**:
@@ -366,10 +400,6 @@ RT by @elonmusk: Ok Grok 4.6 is getting scary good. Games. 3D worlds. Game trail
 **内容**:
 
 RT by @elonmusk: Landing an orbital-class rocket was once considered almost impossible. SpaceX has now done it 650 times First landing: December 21, 2015 650th landing: August 15, 2026
-
-<img src="/images/elonmusk/amplify_video_thumb_2088974018368151552_img_JeqYhvl8ZotcVwYX.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2088974063666614522#m)
 
 ---
 
