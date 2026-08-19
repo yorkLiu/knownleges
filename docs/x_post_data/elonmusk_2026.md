@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2185 条推文
+> 📊 推文存档 - 共 2193 条推文
 
 ---
 
@@ -89,10 +89,6 @@ Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.
 
 RT by @elonmusk: Chat is all you need
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_2qFOOywHafK0KWu9GcBbGHnOXvdAAJuEmsbt9QoVPDsS25ndD1tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mattyp/status/2089758434921160877#m)
-
 ---
 
 ## 2026-08-19 01:20:55
@@ -102,6 +98,26 @@ RT by @elonmusk: Chat is all you need
 **内容**:
 
 RT by @elonmusk: Reporter: You good with mass migration? Dalai Lama: Nope lol
+
+---
+
+## 2026-08-19 01:36:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Updated Tesla Semi page now live   – Cheaper to run than diesel: with lower energy cost & far fewer parts to maintain, Semi can pay for itself within typical truck ownership period – Megacharger at up to 1.2 MW recovers ~60% of range in 30 minutes – Up to 500 miles of range fully loaded – Comes with fleet software for live status, Trip Planner, plus remote support and OTA updates   http://tesla.com/semi
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILA2qFR3Yx26OuUnOaLH38qNAEIxjFAAIxEmsbt9QwVDGUyEenHRnSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILBGqFR3pnVkTM1_YAAeV0PY532VHiRwACMhJrG7fUMFTxHDQBZhgKywEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILBWqFR31UuTZYGcke9Zuevzg32aTGAAIzEmsbt9QwVDHJaazD2_YDAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILBmqFR4EIP9dCHXdFzf4F728JMyHWAAI0Emsbt9QwVH9yx5zcCUayAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/tesla_semi/status/2089768378793861367#m)
 
 ---
 
@@ -243,7 +259,17 @@ Congrats Giga Shanghai team!
 
 RT by @elonmusk: The Department of Commerce’s Census Bureau just released its analysis showing more than 24,000 noncitizens illegally voted in the 2020 election. Not just registered but literally illegally voted. And that is just the beginning. More than 32 million more voters’ records will be analyzed in the coming weeks, and these records will likely show tens of thousands of additional illegal voters. The American people deserve transparency. We are making sure the facts are out for everyone to see.
 
-[查看原文](https://nitter.net/howardlutnick/status/2089831550775164989#m)
+---
+
+## 2026-08-19 08:03:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I’ve finally had the chance to play with Grok 4.6 today after exhausting all of my Codex usage. Grok Build + 4.6 has been the best experience I’ve had in a while. TLDR; It’s super fast and it just works. Full thoughts: It’s still extremely fast like 4.5 was but I can feel how much smarter it is. Because of the speed I find myself more involved in what’s going on because I don’t have to wait forever between responses, which means I’m context switching a lot less and actually getting things done end to end. I haven’t had the chance to use it on really complex projects yet but we’ll see how that goes. I’ve been rocking the $100 Codex plan for a while but i think I’d actually be willing to get Supergrok Heavy, I’ve never considered getting the $200 GPT plan.
+
+[查看原文](https://nitter.net/kamellperry_/status/2089865708150640951#m)
 
 ---
 
@@ -254,10 +280,6 @@ RT by @elonmusk: The Department of Commerce’s Census Bureau just released its 
 **内容**:
 
 RT by @elonmusk: Nothing to see here 👀
-
-<img src="/images/elonmusk/card_img_2089221063762702336_ZhbeyvLO3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/jgebbia/status/2089870336246386894#m)
 
 ---
 
@@ -271,6 +293,20 @@ RT @Starlink: Starlink is delivering reliable connectivity onboard @hyundaiglovi
 
 ---
 
+## 2026-08-19 09:07:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Accepted @wholemars challenge and tried Grok Bot. I have zero coding experience. My earlier attempt at OpenClaw went nowhere. In the last two nights I set up the bot, linked my email, had it build a full 12-page household budget PowerPoint, created a team of bots to help with my wife’s business, and got it sending me daily Tesla news recaps. Insanely easy to set up and navigate. It walks you through everything step by step. Yes… it’s addicting.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILB2qFR4WKKL4vGib2LDvXe2uiHZMdAAI1Emsbt9QwVFFPGE8Ohq3tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/BlakeKing777/status/2089881822884692399#m)
+
+---
+
 ## 2026-08-19 09:43:32
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -278,10 +314,6 @@ RT @Starlink: Starlink is delivering reliable connectivity onboard @hyundaiglovi
 **内容**:
 
 RT by @elonmusk: This is a perfect case showing the LIE that Republicans don’t like black people. Republicans literally elected a black man to run a GOP stronghold. It’s about ideas, beliefs, culture, and values. Not skin color.
-
-<img src="/images/elonmusk/amplify_video_thumb_2089890726431653888_img_ZYlbGaWt1lQApd2N.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/the_jefferymead/status/2089890979054518382#m)
 
 ---
 
@@ -293,7 +325,17 @@ RT by @elonmusk: This is a perfect case showing the LIE that Republicans don’t
 
 RT by @elonmusk: I’m currently having @bot do some things for me that I’ve been putting off forever. It’s pretty incredible. 1/ Unsubscribe me from every marketing email I archived in the last 120 days 2/ Find every subscription I’m paying for and tell me which ones I should cancel 3/ Go through my calendar and flag recurring meetings I should probably delete 4/ Find anything I bought recently that’s still inside the return window and remind me before it expires 5/ Find every person I told “let’s grab coffee soon” and never followed up with 6/ Find all the gift cards, credits, airline credits, and random balances I have sitting around unused 7/ Go through my photos and find all the screenshots I can delete 8/ Find every bill that has gone up significantly in the last year and tell me where I should negotiate or switch 9/ Find appointments I’m overdue for and help me schedule them 10/ Find everything in my inbox, calendar, and files that I said I would do but apparently never did 🤯
 
-[查看原文](https://nitter.net/toddsaunders/status/2089896096298627248#m)
+---
+
+## 2026-08-19 10:33:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I have to say, Grok 4.6 with the grok build harness is probably the best all-around, value-for-money subscription out there now on the $300/month Grok SuperHeavy plan. I have two of them now and think I'll probably get a few more. It does all my git commits and other stuff. Fast.
+
+[查看原文](https://nitter.net/doodlestein/status/2089903533487243364#m)
 
 ---
 
@@ -305,10 +347,6 @@ RT by @elonmusk: I’m currently having @bot do some things for me that I’ve b
 
 RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1RJjppgNbXwKw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILAWqFOPXwmuq-E4uGKr5-8-0s1427AAJwEmsbt9QoVBqwdFxbX4W1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2089923154898538890#m)
-
 ---
 
 ## 2026-08-19 12:24:13
@@ -318,10 +356,6 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 **内容**:
 
 😂 @Grok @Bot
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILAmqFOPcN8W76sZCyOKIcf7JE43L4AAJxEmsbt9QoVEvcAtmtG27AAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089931417635668446#m)
 
 ---
 
@@ -333,9 +367,53 @@ RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from Cal
 
 Yeah
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILAAFqhTjxHu7MMoUm11GqJ1z1ydJH4gACbxJrG7fUKFTWROqhFZ6u0QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089934787268300891#m)
+## 2026-08-19 13:11:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I think folks are going to be stunned by how quickly Grok starts generating massive revenue for SpaceX. Grok Bot is easily one of the most useful (and addicting) AI products out there. It’s very Apple-like in that “it just works”. And the UI/UX is easily the best out of any other digital AI product, which makes it dead simple to interface with. Grok 4.6 in Grok Build is legitimately great. It’s just as good as GPT/Claude in most use cases, but far faster and cheaper. Pair this with the massive growth in compute SpaceX will experience in the coming months, and you’ve got a recipe for a vertically integrated token-generating behemoth.
+
+[查看原文](https://nitter.net/farzyness/status/2089943313210036358#m)
+
+---
+
+## 2026-08-19 13:31:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2089948382613930151#m)
+
+---
+
+## 2026-08-19 13:32:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://nitter.net/elonmusk/status/2089948600893833431#m)
+
+---
+
+## 2026-08-19 13:38:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Clear your email with @Grok @Bot
+
+[查看原文](https://nitter.net/elonmusk/status/2089950078429782061#m)
 
 ---
 
