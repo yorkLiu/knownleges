@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 333 条推文
+> 📊 推文存档 - 共 334 条推文
 
 ---
 
@@ -19,11 +19,17 @@ tags: ["2026"]
 
 唱國歌大抗議？ 跟66年不同的是 那時的小250們 是舉著毛賊東語錄 大串連 文革2.0正在進行時 這次紅衛兵小將們不分山頭了 分「公革委會」和「母革委會」？
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2089763869472194560_img_JxooM6UCt4X6d-eI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="/images/dianzhuXS/amplify_video_thumb_2089763984916254720_img_CTxsZQLHLWs9oELu.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-19 12:28:26
 
-[查看原文](https://nitter.net/dianzhuXS/status/2089890616138510362#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+牆國的AI大躍進，如果真能達到了替代基本體力勞動的水平，那生不生韭菜也就不是重點了。用「男女對立」轉移民眾對獨裁體制的合法性的質疑，勉強算是一個可行性方案。 不過，我依然預測即將來臨的「老少對立」才是這次文革2.0中最慘烈的一幕。養老金這種剛性支出，怎麼貌似「合規」的省下來，把暴民情緒引導到這個方向，才是對牠們更有性價比的。 所以最該逃的不是男人也不是女人，是老人！ 😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://nitter.net/dianzhuXS/status/2089932477976674459#m)
 
 ---
 
