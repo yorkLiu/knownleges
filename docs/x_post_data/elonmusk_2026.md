@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2232 条推文
+> 📊 推文存档 - 共 2240 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 RT by @elonmusk: This is actually insane. The website has HUNDREDS of FREE Grok Bots available for download. I went through the entire site and dug out the top 10 BEST Grok Bots you need to install now. 🧵: 10 Insanely powerful Grok Bots (install prompts included).👇
 
-<img src="/images/elonmusk/amplify_video_thumb_2090107001582006272_img_3GaGwkHUeJqkZWZS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aiedge_/status/2090107020766851436#m)
+## 2026-08-20 00:23:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is a legitimate societal concern.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILImqF_SC_gbqplKta2s0xnam6B9uiAAIeEmsbcyYxVI1CwZmV8-JzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/JTAlexander/status/2090112416252309674#m)
 
 ---
 
@@ -33,12 +43,6 @@ RT by @elonmusk: This is actually insane. The website has HUNDREDS of FREE Grok 
 
 Try Grok Build for serious work https://X.ai/build
 
-<img src="/images/elonmusk/card_img_2085599089140621312_oTaKva2u3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILIWqF7qyLVaqc4vl1c_oxZIdubMdUAALyEWsbcyYxVKYiYZrIO-9vAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090113937127969180#m)
-
 ---
 
 ## 2026-08-20 00:33:20
@@ -48,10 +52,6 @@ Try Grok Build for serious work https://X.ai/build
 **内容**:
 
 I warned them. It will get much worse.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILIGqF7qc59mo1CZmx5VqLXrpW1iHXAALxEWsbcyYxVHU0XFxX8gOnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090114905617928544#m)
 
 ---
 
@@ -63,10 +63,6 @@ I warned them. It will get much worse.
 
 RT by @elonmusk: 1- You can have Grok speak in your language; he speaks perfectly with the right accent. (here in french) 2- You can build a long scene in 1080p by taking the last frame of an animation to start another animation. It's easy with Grok (Right-click on the animation and copy the image you want.)
 
-<img src="/images/elonmusk/amplify_video_thumb_2090115768998367232_img_4pLaVyd9LzXdc2jd.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/dvorahfr/status/2090116686015791512#m)
-
 ---
 
 ## 2026-08-20 01:43:08
@@ -76,10 +72,6 @@ RT by @elonmusk: 1- You can have Grok speak in your language; he speaks perfectl
 **内容**:
 
 Grok Voice
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILHmqF7p5Wkl87bTS7xirjQp8RwoUmAALvEWsbcyYxVDQr_Rq4FcSeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090132472210358351#m)
 
 ---
 
@@ -91,7 +83,95 @@ Grok Voice
 
 They send you to prison for memes
 
-[查看原文](https://nitter.net/elonmusk/status/2090133112638570781#m)
+---
+
+## 2026-08-20 01:52:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2090134775927578815#m)
+
+---
+
+## 2026-08-20 01:53:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+AfD is the only hope for Germany
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILJWqF_SoG3IfxyGPdxrkeX7oUzviYAAIhEmsbcyYxVORA4FEiRwjJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090135010993160442#m)
+
+---
+
+## 2026-08-20 01:58:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Derek Chauvin was unjustly convicted of murder, therefore he should be freed. The facts show that he was not the cause of death, nor did he at any time intend for a death to occur. Whatever else he may be, he is not a murderer. That is the truth.
+
+[查看原文](https://nitter.net/elonmusk/status/2090136255694881101#m)
+
+---
+
+## 2026-08-20 02:07:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nothing is guaranteed
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILI2qF_STYsNluRLtbSpfhIvpNhnEaAAIfEmsbcyYxVDKHgXo22iUBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILJGqF_SiqzKMP6q4tdW2ajlNJHe8JAAIgEmsbcyYxVFAdYKJ5UH_-AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090138513421512999#m)
+
+---
+
+## 2026-08-20 02:13:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://nitter.net/elonmusk/status/2090140132766830829#m)
+
+---
+
+## 2026-08-20 02:33:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2090145037833396352#m)
+
+---
+
+## 2026-08-20 02:45:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Jason Synthetic RNA will cure many diseases
+
+[查看原文](https://nitter.net/elonmusk/status/2090148073867796974#m)
 
 ---
 
