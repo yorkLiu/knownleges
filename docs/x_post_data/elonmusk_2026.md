@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2176 条推文
+> 📊 推文存档 - 共 2185 条推文
 
 ---
 
@@ -78,6 +78,20 @@ Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.
 **内容**:
 
 🎯
+
+---
+
+## 2026-08-19 00:56:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Chat is all you need
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_2qFOOywHafK0KWu9GcBbGHnOXvdAAJuEmsbt9QoVPDsS25ndD1tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mattyp/status/2089758434921160877#m)
 
 ---
 
@@ -169,10 +183,6 @@ Exactly 😂
 
 RT by @elonmusk: 🇺🇸 Fauci’s longtime right-hand man just pled guilty to conspiring to defraud the U.S. David Morens spent years helping bury COVID-related records through private emails, deletions, and FOIA workarounds. Rand Paul flagged him years ago. Now Morens is admitting it in court and facing prison time. He needs to spill everything about what Fauci knew and ordered if he wants mercy. The cover-up machine is starting to crack. Throw the book at all of them. Writer: Lucas
 
-<img src="/images/elonmusk/amplify_video_thumb_2089808282609160192_img_RaKU6_e4fBBYv7CC.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/MarioNawfal/status/2089816296221519888#m)
-
 ---
 
 ## 2026-08-19 04:55:20
@@ -225,6 +235,32 @@ Congrats Giga Shanghai team!
 
 ---
 
+## 2026-08-19 05:47:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: The Department of Commerce’s Census Bureau just released its analysis showing more than 24,000 noncitizens illegally voted in the 2020 election. Not just registered but literally illegally voted. And that is just the beginning. More than 32 million more voters’ records will be analyzed in the coming weeks, and these records will likely show tens of thousands of additional illegal voters. The American people deserve transparency. We are making sure the facts are out for everyone to see.
+
+[查看原文](https://nitter.net/howardlutnick/status/2089831550775164989#m)
+
+---
+
+## 2026-08-19 08:21:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Nothing to see here 👀
+
+<img src="/images/elonmusk/card_img_2089221063762702336_ZhbeyvLO3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/jgebbia/status/2089870336246386894#m)
+
+---
+
 ## 2026-08-19 08:58:31
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -233,13 +269,79 @@ Congrats Giga Shanghai team!
 
 RT @Starlink: Starlink is delivering reliable connectivity onboard @hyundaiglovis vessels, enabling efficient operations, rapid emergency c…
 
-[查看原文](https://nitter.net/elonmusk/status/2089879650721989050#m)
+---
+
+## 2026-08-19 09:43:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is a perfect case showing the LIE that Republicans don’t like black people. Republicans literally elected a black man to run a GOP stronghold. It’s about ideas, beliefs, culture, and values. Not skin color.
+
+<img src="/images/elonmusk/amplify_video_thumb_2089890726431653888_img_ZYlbGaWt1lQApd2N.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/the_jefferymead/status/2089890979054518382#m)
+
+---
+
+## 2026-08-19 10:03:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I’m currently having @bot do some things for me that I’ve been putting off forever. It’s pretty incredible. 1/ Unsubscribe me from every marketing email I archived in the last 120 days 2/ Find every subscription I’m paying for and tell me which ones I should cancel 3/ Go through my calendar and flag recurring meetings I should probably delete 4/ Find anything I bought recently that’s still inside the return window and remind me before it expires 5/ Find every person I told “let’s grab coffee soon” and never followed up with 6/ Find all the gift cards, credits, airline credits, and random balances I have sitting around unused 7/ Go through my photos and find all the screenshots I can delete 8/ Find every bill that has gone up significantly in the last year and tell me where I should negotiate or switch 9/ Find appointments I’m overdue for and help me schedule them 10/ Find everything in my inbox, calendar, and files that I said I would do but apparently never did 🤯
+
+[查看原文](https://nitter.net/toddsaunders/status/2089896096298627248#m)
+
+---
+
+## 2026-08-19 11:51:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Watch Falcon 9 launch 24 @Starlink satellites to orbit from California https://x.com/i/broadcasts/1RJjppgNbXwKw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILAWqFOPXwmuq-E4uGKr5-8-0s1427AAJwEmsbt9QoVBqwdFxbX4W1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SpaceX/status/2089923154898538890#m)
+
+---
+
+## 2026-08-19 12:24:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂 @Grok @Bot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILAmqFOPcN8W76sZCyOKIcf7JE43L4AAJxEmsbt9QoVEvcAtmtG27AAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089931417635668446#m)
+
+---
+
+## 2026-08-19 12:37:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILAAFqhTjxHu7MMoUm11GqJ1z1ydJH4gACbxJrG7fUKFTWROqhFZ6u0QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089934787268300891#m)
 
 ---
 
 ## 2026-08-18 00:18:09
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -249,7 +351,7 @@ RT by @elonmusk: 🚨Starlink is providing free internet service through Sept. 1
 
 ## 2026-08-18 00:24:57
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -259,7 +361,7 @@ Grok @Bot
 
 ## 2026-08-18 02:18:14
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -269,7 +371,7 @@ Grok @Bot
 
 ## 2026-08-18 02:19:06
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -279,7 +381,7 @@ Grok 4.6 is smart, super fast & affordable
 
 ## 2026-08-18 02:30:40
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -289,7 +391,7 @@ RT by @elonmusk: The talent at SpaceXAI is insane 🔥
 
 ## 2026-08-18 05:16:19
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -299,7 +401,7 @@ RT by @elonmusk: 1/2 the turns and 25% of the tokens. Task/Token is something to
 
 ## 2026-08-18 05:16:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -309,7 +411,7 @@ RT by @elonmusk: Create a full scene with Grok Imagine for a chance to win 👇
 
 ## 2026-08-18 05:22:14
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -319,7 +421,7 @@ RT by @elonmusk: We’re working with Southaven officials on the development of 
 
 ## 2026-08-18 07:52:17
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -329,7 +431,7 @@ Create with Grok Imagine
 
 ## 2026-08-18 07:53:59
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -339,21 +441,17 @@ Grok is very good at agentic tasks!
 
 ## 2026-08-18 08:13:34
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Grok Bot is the best AI agent right now It gives you an army of agents that can do work for you around the clock 24/7 If you set it up correctly, you gain super powers In this video I cover setting up Grok Bot, use cases, plugins, and what makes Grok Bot so good:
 
-<img src="/images/elonmusk/amplify_video_thumb_2089498185383436288_img_VDQWBJ4kmrEx5HOI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/AlexFinn/status/2089505950470459659#m)
-
 ---
 
 ## 2026-08-18 12:48:28
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -363,7 +461,7 @@ Sync to Origin
 
 ## 2026-08-18 13:01:27
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -373,7 +471,7 @@ Grok @Bot
 
 ## 2026-08-18 13:58:24
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -383,7 +481,7 @@ Grok 4.6 takes top spot on this benchmark
 
 ## 2026-08-18 14:56:08
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -393,23 +491,17 @@ RT by @elonmusk: 73% of women on the titanic survived. Only 19% of men did. Read
 
 ## 2026-08-18 20:11:58
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: SpaceX will attempt to return Starship to Starbase! The SpaceX Recovery team successfully guided Starship near Christmas Island. A team of company engineers is already on their way to conduct additional analyses before attempting to return Starship to Starbase. This is a major step toward Starship reusability! Congratulations! 📸: SpaceX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-GqEy_S-LidResZZDBuof852kGEpAAKEEWsbt9QoVE5jJKyc4uqMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-WqEy_hJPsPw4UE8-IHqjLJpgIkhAAKGEWsbt9QoVCnMdFXthkAwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EvaFox/status/2089686743746216259#m)
-
 ---
 
 ## 2026-08-18 21:00:12
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -419,21 +511,17 @@ RT by @elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide
 
 ## 2026-08-18 22:12:18
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Elon Musk and SpaceX have been true champions for Ukraine since day one of the full-scale invasion. Immediately after the russian attack became known, Elon ordered the dispatch of Starlink terminals. He didn't wait for a request from Ukraine and intervened to help the country before it was sent, something that not many people know. He activated Starlink, which restored vital connectivity when conventional networks were shattered. This resilient satellite internet became the backbone of Ukrainian resilience. Starlinks are powering frontline coordination, drone operations, hospitals, emergency services, and civilian life amid relentless attacks. Tens of thousands of terminals keep forces connected and effective. In 2026, Elon’s swift action to block unauthorized russian use of Starlink delivered game-changing results. It protected Ukraine’s air defenses, safeguarded the air force, and spared thousands of civilian lives, enabling the largest territorial gains in years. As former Defense Minister Mykhailo Fedorov has rightly said, Elon is “the most important tech person and entrepreneur in the world for our country” and a true friend of the Ukrainian people. Thank you, Elon and SpaceX, for standing firmly with freedom!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK-2qEzAQO_AtndvSFVcjQLA2v7O03AAKIEWsbt9QoVKODqgEINv7vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EvaFox/status/2089717025245380793#m)
-
 ---
 
 ## 2026-08-18 22:12:33
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -443,23 +531,35 @@ Starship Flight 13 is being recovered from sea
 
 ## 2026-08-18 22:15:48
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 RT by @elonmusk: Thanks for sharing and bringing us all along for the journey.
 
-[查看原文](https://nitter.net/NASAAdmin/status/2089717907362316619#m)
-
 ---
 
 ## 2026-08-18 22:23:35
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
 Grok
+
+---
+
+## 2026-08-18 23:56:33
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+**内容**:
+
+RT by @elonmusk: HOLY COW I cannot believe this is real. Everything we told you about vouching in Minnesota is correct. “A registered voter in that precinct who can personally vouch for the identity & residence of up to 8 new voters.” “A healthcare facility worker can vouch for an 👉UNLIMITED👈 number of residents of facilities that they work for regardless of where that facility worker lives.” This is from an Election Judge training video for Carver County, Minnesota.
+
+<img src="/images/elonmusk/amplify_video_thumb_2089743204476215296_img_MeKaL0pfY4klgIjP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ScottPresler/status/2089743260075827427#m)
 
 ---
 
