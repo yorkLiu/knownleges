@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2204 条推文
+> 📊 推文存档 - 共 2207 条推文
 
 ---
 
@@ -259,10 +259,6 @@ RT by @elonmusk: The Department of Commerce’s Census Bureau just released its 
 
 RT by @elonmusk: I just built a brand-new landing page for my music and podcasts in only 10 minutes using Grok Build. It’s live in my bio now. 🔥 Bye-bye, Linktree. Who needs it when you have Grok Build?
 
-<img src="/images/elonmusk/amplify_video_thumb_2089848131550593024_img_zAS_Zfy5Rvd8-wrg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/LaceyPresley/status/2089848391777808455#m)
-
 ---
 
 ## 2026-08-19 08:03:07
@@ -342,10 +338,6 @@ RT by @elonmusk: I have to say, Grok 4.6 with the grok build harness is probably
 **内容**:
 
 RT by @elonmusk: Grok Bot is the best AI agent right now and a full walkthrough just dropped covering setup, use cases and plugins. An army of agents working around the clock 24/7. Set it up correctly and the leverage is real.
-
-<img src="/images/elonmusk/amplify_video_thumb_2089498185383436288_img_VDQWBJ4kmrEx5HOI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/RoundtableSpace/status/2089913996711198870#m)
 
 ---
 
@@ -487,10 +479,6 @@ No kidding …
 
 Odyssey bloopers by Grok Imagine
 
-<img src="/images/elonmusk/amplify_video_thumb_2080706938804072449_img_bt8saXBt0cD9Lrp1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089994188033306741#m)
-
 ---
 
 ## 2026-08-19 16:45:46
@@ -500,10 +488,6 @@ Odyssey bloopers by Grok Imagine
 **内容**:
 
 100
-
-<img src="/images/elonmusk/amplify_video_thumb_2089995998013878272_img_pWGGq0pXqp8MlFqo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089997238160502895#m)
 
 ---
 
@@ -515,7 +499,47 @@ Odyssey bloopers by Grok Imagine
 
 So many “historical” movies that are a pack of lies
 
-[查看原文](https://nitter.net/elonmusk/status/2089998178456309976#m)
+---
+
+## 2026-08-19 22:07:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 is #1 on healthcare questions
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILEWqFu70IMsquMv_Q-wi3_zkuq-5_AAIFEWsbcyYxVH6bX5t9Qh3GAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090078247392555471#m)
+
+---
+
+## 2026-08-19 22:09:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Make an instant one-person company with @Grok @Bot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILEGqFu7pCus43OanubGIPbvB_zLCQAAIEEWsbcyYxVEqOc1enOEIPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090078663312347334#m)
+
+---
+
+## 2026-08-19 22:11:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is the Chuck Norris of bots 😂
+
+<img src="/images/elonmusk/amplify_video_thumb_2087890148021121024_img_V4MyHs6AhyYoTw00.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090079231783120975#m)
 
 ---
 
