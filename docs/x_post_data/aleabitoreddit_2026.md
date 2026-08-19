@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 422 条推文
+> 📊 推文存档 - 共 423 条推文
 
 ---
 
@@ -29,15 +29,19 @@ I'm getting Vietnam flashbacks to the launch of OpenAi. Where with every model, 
 
 My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins). - Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (cough cough $NVDA). - Sold out at least through second half of next year and beyond. (High demand visibility like $LITE) - Has 300-400 mW lasers already. - Expects margins to be above 40%+ once CPO comes about (probably most material for rerating). I can't see how anyone can be bearish on this company...
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK8mqEmRiltXNVOiaZwsMyKuf51X5sAAJPEWsbt9QoVCSJB-0nbXERAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK82qEmRwEKBeKVnYOfxMPm9YOAat-AAJQEWsbt9QoVKyGGsiV-d5wAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-19 10:51:57
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK9GqEmSBgUVLoeRH2pFpUILACZptsAAJREWsbt9QoVEo_wP6ijgmNAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK9WqEmSPMhnSkg7L8RW0_HASpwr-nAAJSEWsbt9QoVEJQq0rLQpbyAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089766053274661143#m)
+Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, but Optimus is wrapped inside a much larger company. But I think Unitree showed that the demand for pure play humanoid players is much larger… than people expected in public markets.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_mqFIyIXEiY_E4mpOU34ql2uysk7AAIwEmsbt9QoVMovWuscdzW4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089908198694351064#m)
 
 ---
 
