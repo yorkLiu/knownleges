@@ -7,7 +7,91 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2224 条推文
+> 📊 推文存档 - 共 2232 条推文
+
+---
+
+## 2026-08-20 00:02:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: This is actually insane. The website has HUNDREDS of FREE Grok Bots available for download. I went through the entire site and dug out the top 10 BEST Grok Bots you need to install now. 🧵: 10 Insanely powerful Grok Bots (install prompts included).👇
+
+<img src="/images/elonmusk/amplify_video_thumb_2090107001582006272_img_3GaGwkHUeJqkZWZS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aiedge_/status/2090107020766851436#m)
+
+---
+
+## 2026-08-20 00:29:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok Build for serious work https://X.ai/build
+
+<img src="/images/elonmusk/card_img_2085599089140621312_oTaKva2u3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILIWqF7qyLVaqc4vl1c_oxZIdubMdUAALyEWsbcyYxVKYiYZrIO-9vAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090113937127969180#m)
+
+---
+
+## 2026-08-20 00:33:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I warned them. It will get much worse.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILIGqF7qc59mo1CZmx5VqLXrpW1iHXAALxEWsbcyYxVHU0XFxX8gOnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090114905617928544#m)
+
+---
+
+## 2026-08-20 00:40:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 1- You can have Grok speak in your language; he speaks perfectly with the right accent. (here in french) 2- You can build a long scene in 1080p by taking the last frame of an animation to start another animation. It's easy with Grok (Right-click on the animation and copy the image you want.)
+
+<img src="/images/elonmusk/amplify_video_thumb_2090115768998367232_img_4pLaVyd9LzXdc2jd.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/dvorahfr/status/2090116686015791512#m)
+
+---
+
+## 2026-08-20 01:43:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Voice
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILHmqF7p5Wkl87bTS7xirjQp8RwoUmAALvEWsbcyYxVDQr_Rq4FcSeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090132472210358351#m)
+
+---
+
+## 2026-08-20 01:45:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+They send you to prison for memes
+
+[查看原文](https://nitter.net/elonmusk/status/2090133112638570781#m)
 
 ---
 
@@ -341,6 +425,20 @@ RT by @elonmusk: Grok Bot is the best AI agent right now and a full walkthrough 
 
 ---
 
+## 2026-08-19 11:34:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I just want everyone to know that the first exposure the Plymouth Colony Pilgrims had with Native Americans was... Samoset coming up to their camp and—in perfect English—saying "Welcome, Englishmen. Could I have some beer?"
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILHWqF7pvgF3h_EyBVWi8QWgguIqRcAALuEWsbcyYxVJPAxWT9jmP6AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cremieuxrecueil/status/2089918962200899718#m)
+
+---
+
 ## 2026-08-19 11:51:23
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -519,10 +617,6 @@ RT by @elonmusk: BREAKING: SpaceX’s Starlink constellation has surpassed 11,00
 
 RT by @elonmusk: Starship 43's nose cone and payload section has been moved into megabay 2 to begin stacking and assembly. This will be the ship for flight 16. Starship 42 (flight 15) is partially visible in the background. 8/19/26
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILFmqF2N-qOol4Ep25AUpx3Bhw6ichAAJoEWsbcyYxVCCQduSi0hQZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/StarshipGazer/status/2090009546227904545#m)
-
 ---
 
 ## 2026-08-19 20:42:12
@@ -553,12 +647,6 @@ RT by @elonmusk: Starship is drawing crowds on Christmas Island. Locals gathered
 
 RT by @elonmusk: Starlink’s high-speed internet is now available onboard @lufthansa 🛰️✈️
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILF2qF2OKBVjWJ-mTRHmasn7HTQfnIAAJpEWsbcyYxVKZOr_Ky5lPlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILGGqF2OU0nOy0EmaFCwgbmiLtmpsTAAJqEWsbcyYxVBn5WLMn3yGBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Starlink/status/2090068167016190357#m)
-
 ---
 
 ## 2026-08-19 22:04:00
@@ -569,10 +657,6 @@ RT by @elonmusk: Starlink’s high-speed internet is now available onboard @luft
 
 RT by @elonmusk: Charlie Kirk: “If you’re studying economics and they’re not teaching Thomas Sowell, you’re not getting an education. You’re getting an indoctrination.” https://x.com/DailySowell/status/2089731041762119794/video/1 Sowell teaches you to question the easy answers and look at the actual results. That's exactly what economics education should do.
 
-<img src="/images/elonmusk/amplify_video_thumb_2089618313722974208_img_21QD3XMytAXSrGew.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/ThomasSowell/status/2090077324196643281#m)
-
 ---
 
 ## 2026-08-19 22:05:55
@@ -582,10 +666,6 @@ RT by @elonmusk: Charlie Kirk: “If you’re studying economics and they’re n
 **内容**:
 
 RT by @elonmusk: “Create a random image inspired by my X account” Good job Grok, on point!
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILGmqF2O3zSsILvwsWbki5Saq4erDZAAJsEWsbcyYxVA1v28Kylu96AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Liv_Boeree/status/2090077804868104642#m)
 
 ---
 
@@ -637,10 +717,6 @@ Share your Grok @Bot design with others!
 
 RT by @elonmusk: BREAKING: Vodacom Lesotho has officially launched a new enterprise connectivity solution powered by @Starlink. The service delivers primary, backup and “Unbreakable Internet” by combining Starlink with terrestrial networks, keeping businesses connected even in most remote areas.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILG2qF2PHfrYLutZ5vhiAo1X7ZN_glAAJtEWsbcyYxVMtwmYKwcMhdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2090082049424249291#m)
-
 ---
 
 ## 2026-08-19 22:52:55
@@ -650,10 +726,6 @@ RT by @elonmusk: BREAKING: Vodacom Lesotho has officially launched a new enterpr
 **内容**:
 
 One sat at a time
-
-<img src="/images/elonmusk/amplify_video_thumb_2090087188201615361_img_MJTs2bULqgwkDZvE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090089633929675243#m)
 
 ---
 
@@ -665,10 +737,6 @@ One sat at a time
 
 RT by @elonmusk: SpaceX has officially crossed 11,000 Starlink satellites in orbit. They've added 1,300 satellites to the constellation so far this year. SpaceX requested FCC approval last month to launch and operate a third-generation satellite constellation of 100,000 satellites, so they are just getting started.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILEmqF2MxF6KBkZ1xYkqfB0xdYmUYMAAJhEWsbcyYxVFKP-A7hakXlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SawyerMerritt/status/2090089933503451421#m)
-
 ---
 
 ## 2026-08-19 23:11:25
@@ -678,10 +746,6 @@ RT by @elonmusk: SpaceX has officially crossed 11,000 Starlink satellites in orb
 **内容**:
 
 Starlink on @lufthansa
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILGWqF2OkYbuzXPh2kBzFNwtFpXCGCAAJrEWsbcyYxVLDlJC7Sk4H3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090094289246400952#m)
 
 ---
 
@@ -693,10 +757,6 @@ Starlink on @lufthansa
 
 RT by @elonmusk: Grok 4.6 is now available on Amazon Bedrock
 
-<img src="/images/elonmusk/amplify_video_thumb_2090095664650653697_img_eyETPtwcsO0iqdS4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/milichab/status/2090096415003337028#m)
-
 ---
 
 ## 2026-08-19 23:33:21
@@ -706,10 +766,6 @@ RT by @elonmusk: Grok 4.6 is now available on Amazon Bedrock
 **内容**:
 
 Grok 4.6 now on Bedrock
-
-<img src="/images/elonmusk/amplify_video_thumb_2090095664650653697_img_eyETPtwcsO0iqdS4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090099808220627226#m)
 
 ---
 
@@ -721,10 +777,6 @@ Grok 4.6 now on Bedrock
 
 True
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILFWqF2NoMdF_cPk1E5AalS78Uu_dGAAJnEWsbcyYxVBa-G9QcafWgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090100092296659170#m)
-
 ---
 
 ## 2026-08-19 23:40:54
@@ -735,10 +787,6 @@ True
 
 RT by @elonmusk: Starlink is becoming a major part of commercial shipping too Hyundai Glovis has now installed Starlink on 45 of its 47 company-owned ships The rollout started in January and now covers almost the entire fleet, including car carriers and bulk carriers Crew members say Starlink has significantly improved connectivity at sea for: • Video calls • Streaming • Work-related data transfers • Real-time ship-to-shore communication • Remote technical support Hyundai Glovis also plans to use the connectivity for AI-powered predictive maintenance and smarter vessel operations SpaceX’s enterprise team recently visited the Glovis Stella in South Korea to see Starlink operating in real-world conditions and hear directly from the crew Starlink is becoming core communications infrastructure for ships operating across the world's oceans From airlines to cargo ships, SpaceX is connecting transportation system everywhere
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILE2qF2NFq_RpANxZV4Lk60VG8PBXfAAJkEWsbcyYxVOYCxJMzVuRoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2090101711599992946#m)
-
 ---
 
 ## 2026-08-19 23:41:07
@@ -748,10 +796,6 @@ RT by @elonmusk: Starlink is becoming a major part of commercial shipping too Hy
 **内容**:
 
 R to @elonmusk: Playing Incognito
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILFGqF2Nar9InE0UbcBeQ6LlY-tW1CAAJmEWsbcyYxVMfZLGX3bqiLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090101763399700963#m)
 
 ---
 
@@ -3965,8 +4009,6 @@ RT by @elonmusk: Perfecting the overnight mode on Grok Build to keep the main ag
 
 ## 2026-08-04 00:28:34
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: The next evolution of humanity will be written in space.
@@ -3974,8 +4016,6 @@ RT by @elonmusk: The next evolution of humanity will be written in space.
 ---
 
 ## 2026-08-04 03:36:28
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -3985,21 +4025,13 @@ RT by @elonmusk: After their slave revolt, Haiti’s founder ordered the killing
 
 ## 2026-08-04 04:31:46
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Cursor can now read, write, and act across your Google Workspace. New plugins give agents direct access to Gmail, Google Drive, Calendar, Docs, and Sheets.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ1Gpz7Dv1wtKNHZl_wp9ngOJrL6jVAAKoD2sbOAmgV1LanvvbU3nQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cursor_ai/status/2084376701539405904#m)
-
 ---
 
 ## 2026-08-04 04:33:51
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4009,8 +4041,6 @@ Wow
 
 ## 2026-08-04 04:35:13
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 💯
@@ -4018,8 +4048,6 @@ Wow
 ---
 
 ## 2026-08-04 06:08:53
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4029,17 +4057,25 @@ RT by @elonmusk: The beauty of Grok, now in 1080p.
 
 ## 2026-08-04 06:48:33
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Learn how to use References on Grok Imagine: characters, locations and props.
 
 ---
 
-## 2026-08-04 07:36:43
+## 2026-08-04 07:36:09
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+**内容**:
+
+RT by @elonmusk: The next generation Starlink V5 has a smaller form factor and lightweight design with greater power efficiency. With speeds up to 375+ Mbps, Starlink V5 delivers reliable home internet for streaming, video calling, gaming and more. Available in select areas.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILH2qF7qGZOdp6XIfWqGgs6rlGyN9yAALwEWsbcyYxVCjFok2WUJupAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Starlink/status/2084423106102526107#m)
+
+---
+
+## 2026-08-04 07:36:43
 
 **内容**:
 
@@ -4049,8 +4085,6 @@ Starlink anywhere
 
 ## 2026-08-04 07:37:23
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Grok Build update http://X.ai/cli
@@ -4058,8 +4092,6 @@ Grok Build update http://X.ai/cli
 ---
 
 ## 2026-08-04 08:18:08
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4069,8 +4101,6 @@ RT by @elonmusk: $95 million of the Live Aid concert money in 1985 meant for sta
 
 ## 2026-08-04 14:44:27
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. Another huge milestone for xAI as Grok continues to climb the rankings.
@@ -4078,8 +4108,6 @@ RT by @elonmusk: Grok Imagine Video 1.5 is now the #2 Image-to-Video AI model. A
 ---
 
 ## 2026-08-04 19:21:25
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4089,8 +4117,6 @@ RT by @elonmusk: BREAKING: Billionaire Whitey Basson says Elon Musk’s Starlink
 
 ## 2026-08-04 20:13:26
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding the refrigerator in the kitchen of his then-girlfriend Jennifer's parents 😂
@@ -4098,8 +4124,6 @@ RT by @elonmusk: Elon Musk in 1995 enjoys the trophy after successfully raiding 
 ---
 
 ## 2026-08-04 21:15:23
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4109,8 +4133,6 @@ RT by @elonmusk: This Grok Imagine 1.5 is pure magic. The lighting, atmosphere a
 
 ## 2026-08-04 21:30:36
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: A very small percentage of my academic colleagues have ever openly supported my efforts to fight against the parasitic rot in academia. Regrettably, most academics are astoundingly cowardly. They prefer to nod quietly that "men too can menstruate" rather than standing up and saying "Are you insane? No, men cannot menstruate." If you can get academics to reject the most fundamental markers of biological reality, you know that academia is not populated with intellectual NAVY seals.
@@ -4118,8 +4140,6 @@ RT by @elonmusk: A very small percentage of my academic colleagues have ever ope
 ---
 
 ## 2026-08-04 21:37:34
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4129,8 +4149,6 @@ Pension fraud is a global problem
 
 ## 2026-08-04 21:39:45
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Terafab
@@ -4138,8 +4156,6 @@ Terafab
 ---
 
 ## 2026-08-04 21:40:59
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4149,8 +4165,6 @@ Grok Imagine
 
 ## 2026-08-04 22:45:30
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 Yeah
@@ -4158,8 +4172,6 @@ Yeah
 ---
 
 ## 2026-08-04 22:46:28
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
@@ -4169,8 +4181,6 @@ Can’t trust OpenAI
 
 ## 2026-08-04 23:02:48
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: Today, we’re launching Alpamayo 2 Super, our frontier open reasoning model for autonomous vehicles. Beyond seeing, Alpamayo understands and reasons through the complex world - thinks before it acts. It’s a powerful backbone for robotaxis, trucks, shuttles, delivery vans, tractors and the long tail of mobile robots—billions of autonomous machines someday. We’re releasing it for commercial use under OpenMDW-1.1 so teams can inspect it, fine-tune it and deploy it—open models advance safety and security. The next wave of AI is robotics—and it starts with autonomous vehicles. Great work, Alpamayo team! https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available
@@ -4179,8 +4189,6 @@ RT by @elonmusk: Today, we’re launching Alpamayo 2 Super, our frontier open re
 
 ## 2026-08-04 23:44:29
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
-
 **内容**:
 
 RT by @elonmusk: The scale of what Elon is building in Bastrop is not well understood.
@@ -4188,8 +4196,6 @@ RT by @elonmusk: The scale of what Elon is building in Bastrop is not well under
 ---
 
 ## 2026-08-04 23:55:02
-
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 **内容**:
 
