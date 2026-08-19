@@ -11,26 +11,28 @@ title: 推文数据
 ## 📊 数据概览
 
 | 用户 | 推文数 | 今日更新 | 图片数 | 操作 |
-|------|
-|| [@JonathanDi3614](./JonathanDi3614_2026.md) | 59 |   | 64 | [查看](./JonathanDi3614_2026.md) |
-|| [@xiaomustock](./xiaomustock_2026.md) | 339 | ✅ | 396 | [查看](./xiaomustock_2026.md) |
-|| [@elonmusk](./elonmusk_2026.md) | 2174 | ✅ | 1346 | [查看](./elonmusk_2026.md) |
-|| [@karpathy](./karpathy_2026.md) | 32 |   | 16 | [查看](./karpathy_2026.md) |
-|| [@aleabitoreddit](./aleabitoreddit_2026.md) | 422 | ✅ | 459 | [查看](./aleabitoreddit_2026.md) |
-|| [@dianzhuXS](./dianzhuXS_2026.md) | 332 | ✅ | 246 | [查看](./dianzhuXS_2026.md) |
-|| [@Mimiwftt](./Mimiwftt_2026.md) | 483 |   | 161 | [查看](./Mimiwftt_2026.md) |
+|------|--------|----------|--------|------|
+| [@JonathanDi3614](./JonathanDi3614_2026.md) | 59 | 0 | 68 | [查看](./JonathanDi3614_2026.md) |
+| [@Mimiwftt](./Mimiwftt_2026.md) | 511 | 0 | 372 | [查看](./Mimiwftt_2026.md) |
+| [@aleabitoreddit](./aleabitoreddit_2026.md) | 426 | 2 | 588 | [查看](./aleabitoreddit_2026.md) |
+| [@dianzhuXS](./dianzhuXS_2026.md) | 340 | 0 | 252 | [查看](./dianzhuXS_2026.md) |
+| [@elonmusk](./elonmusk_2026.md) | 2173 | 20 | 1103 | [查看](./elonmusk_2026.md) |
+| [@karpathy](./karpathy_2026.md) | 32 | 0 | 6 | [查看](./karpathy_2026.md) |
+| [@paulg](./paulg_2026.md) | 0 | 0 | 0 | [查看](./paulg_2026.md) |
+| [@xiaomustock](./xiaomustock_2026.md) | 350 | 0 | 400 | [查看](./xiaomustock_2026.md) |
+
 ---
 
 ## 📅 [日期归档](./tags/index.md)
 
 > 按日期查看所有推文
 
-- **[20260805](./x_post_data/tags/20260805.html)**: 12 条推文
-- **[20260804](./x_post_data/tags/20260804.html)**: 36 条推文
-- **[20260803](./x_post_data/tags/20260803.html)**: 40 条推文
-- **[20260802](./x_post_data/tags/20260802.html)**: 23 条推文
-- **[20260801](./x_post_data/tags/20260801.html)**: 57 条推文
-- **[20260731](./x_post_data/tags/20260731.html)**: 53 条推文
-- **[20260730](./x_post_data/tags/20260730.html)**: 49 条推文
+- **[20260819](./x_post_data/tags/20260819.html)**: 22 条推文
+- **[20260818](./x_post_data/tags/20260818.html)**: 26 条推文
+- **[20260817](./x_post_data/tags/20260817.html)**: 27 条推文
+- **[20260816](./x_post_data/tags/20260816.html)**: 33 条推文
+- **[20260815](./x_post_data/tags/20260815.html)**: 17 条推文
+- **[20260814](./x_post_data/tags/20260814.html)**: 62 条推文
+- **[20260813](./x_post_data/tags/20260813.html)**: 44 条推文
 
 *数据来源：Nitter & X/Twitter*

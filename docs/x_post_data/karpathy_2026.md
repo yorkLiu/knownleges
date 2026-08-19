@@ -1,8 +1,8 @@
 ---
 title: "@karpathy 推文存档"
-date: 2026-01-01
+date: 2026-08-19
 author: "@karpathy"
-tags: ["2026"]
+tags: ["20260803", "20260802", "20260722", "20260709", "20260703", "20260630", "20260624", "20260613", "20260610", "20260603", "20260531", "20260519", "20260512", "20260501", "20260428", "20260423", "20260410", "20260405", "20260403", "20260331", "20260328", "20260327", "20260326", "20260325", "20260321"]
 ---
 
 # @karpathy
@@ -11,137 +11,187 @@ tags: ["2026"]
 
 ---
 
-## 2026-08-03 00:10:51
+## 📊 数据概览
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+- **[20260803](./tags/20260803.html)**: 1 条
+- **[20260802](./tags/20260802.html)**: 1 条
+- **[20260722](./tags/20260722.html)**: 1 条
+- **[20260709](./tags/20260709.html)**: 1 条
+- **[20260703](./tags/20260703.html)**: 1 条
+- **[20260630](./tags/20260630.html)**: 1 条
+- **[20260624](./tags/20260624.html)**: 2 条
 
-**内容**:
+<details>
+<summary>📋 查看更多 (18 个日期)</summary>
+
+- **[20260613](./tags/20260613.html)**: 1 条
+- **[20260610](./tags/20260610.html)**: 1 条
+- **[20260603](./tags/20260603.html)**: 1 条
+- **[20260531](./tags/20260531.html)**: 1 条
+- **[20260519](./tags/20260519.html)**: 1 条
+- **[20260512](./tags/20260512.html)**: 1 条
+- **[20260501](./tags/20260501.html)**: 2 条
+- **[20260428](./tags/20260428.html)**: 1 条
+- **[20260423](./tags/20260423.html)**: 1 条
+- **[20260410](./tags/20260410.html)**: 2 条
+- **[20260405](./tags/20260405.html)**: 4 条
+- **[20260403](./tags/20260403.html)**: 1 条
+- **[20260331](./tags/20260331.html)**: 1 条
+- **[20260328](./tags/20260328.html)**: 1 条
+- **[20260327](./tags/20260327.html)**: 1 条
+- **[20260326](./tags/20260326.html)**: 2 条
+- **[20260325](./tags/20260325.html)**: 1 条
+- **[20260321](./tags/20260321.html)**: 1 条
+
+</details>
+
+---
+
+## 2026-08-03 00:10:51  {#_0803-001051}
+
+🏷️ **[20260803](./tags/20260803.html)** 今日关注
 
 R to @karpathy: More on the pelican on the bicycle test from @simonw: https://simonwillison.net/2025/Jun/6/six-months-in-llms/ I uploaded the source here so it's playable in the browser, forkable etc. https://karpathy.ai/lotr-movie/ Look out for GTA Hobbiton dropping before GTA VI :)
 
-[查看原文](https://nitter.net/karpathy/status/2083948654377996480#m)
+[📖 原文](https://nitter.net/karpathy/status/2083948654377996480#m)
+
+[🔗 #0803-001051](#_0803-001051)
 
 ---
 
-## 2026-08-02 11:00:09
+## 2026-08-02 11:00:09  {#_0802-110009}
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-**内容**:
+🏷️ **[20260802](./tags/20260802.html)** 今日关注
 
 We're starting to leave the territory where you'd test an LLM by e.g. "create an svg of pelican on a bicycle". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all. I also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from "no one would ever do this" to "sure, why not, it's ~free". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand. Last thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.
 
-<img src="/images/karpathy/amplify_video_thumb_2083744791876292608_img_tWEKnM_bdE_nlfYD.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/karpathy/status/2083749667410727319#m)
 
-[查看原文](https://nitter.net/karpathy/status/2083749667410727319#m)
+[🔗 #0802-110009](#_0802-110009)
 
 ---
 
-## 2026-07-22 00:53:55
+## 2026-07-22 00:53:55  {#_0722-005355}
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+🏷️ **[20260722](./tags/20260722.html)** 今日关注
 
 One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like "switching to speech recognition sorry for any typos...". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.
 
-[查看原文](https://nitter.net/karpathy/status/2079610838143623371#m)
+[📖 原文](https://nitter.net/karpathy/status/2079610838143623371#m)
+
+[🔗 #0722-005355](#_0722-005355)
 
 ---
 
-## 2026-07-09 05:47:29
+## 2026-07-09 05:47:29  {#_0709-054729}
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+🏷️ **[20260709](./tags/20260709.html)** 今日关注
 
 RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust
 
-<img src="/images/karpathy/card_img_2074973592610361344_qFZWff4P3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/jarredsumner/status/2074973674332123157#m)
 
-[查看原文](https://nitter.net/jarredsumner/status/2074973674332123157#m)
+[🔗 #0709-054729](#_0709-054729)
 
 ---
 
-## 2026-07-03 22:12:03
+## 2026-07-03 22:12:03  {#_0703-221203}
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+🏷️ **[20260703](./tags/20260703.html)** 本周精选
 
 RT by @karpathy: I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post. https://www.youtube.com/watch?v=rTc2_-1KuRE
 
-<img src="/images/karpathy/card_img_2073047029127802882_J8phVX553Fformat3Djpg26name3D800x320_1" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/petergostev/status/2073047118801993910#m)
 
-[查看原文](https://nitter.net/petergostev/status/2073047118801993910#m)
+[🔗 #0703-221203](#_0703-221203)
 
 ---
 
-## 2026-06-30 23:00:09
+## 2026-06-30 23:00:09  {#_0630-230009}
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+🏷️ **[20260630](./tags/20260630.html)** 今日关注
 
 RT by @karpathy: We're coming out of stealth. We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised. Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads. Our first racks ship this summer.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEqmpEJKbNou5fz4l6tTquMXVi_yuHAAKAEmsbitEhVr3tToEnkFRmAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEqmpEJKbNou5fz4l6tTquMXVi_yuHAAKAEmsbitEhVr3tToEnkFRmAQADAgADeQADPAQ.jpg)
 
-[查看原文](https://nitter.net/Etched/status/2071972062202343590#m)
+[📖 原文](https://nitter.net/Etched/status/2071972062202343590#m)
 
----
-
-## 2026-06-24 01:01:29
-
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
-
-RT by @karpathy: Introducing Engram: Scaling compute on your context
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDsmo7LEDCulh03wxh4IYsOQ898uSKAAKoD2sbMUvYVWZReJTV3v7zAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/EngramLab/status/2069465879696576844#m)
+[🔗 #0630-230009](#_0630-230009)
 
 ---
 
-## 2026-06-24 06:26:31
+## 2026-06-24 06:26:31  {#_0624-062631}
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+🏷️ **[20260624](./tags/20260624.html)** 今日关注
 
 This is a new paradigm for interacting with Claude that is significantly more "inline" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this "just work" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads. Imo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDsWo7Dy_gahyDTKT05aYDyCjKRODBAAKOD2sbMUvYVdHATQABKcriMQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDsWo7Dy_gahyDTKT05aYDyCjKRODBAAKOD2sbMUvYVdHATQABKcriMQEAAwIAA3kAAzwE.jpg)
 
-[查看原文](https://nitter.net/karpathy/status/2069547676849557725#m)
+[📖 原文](https://nitter.net/karpathy/status/2069547676849557725#m)
+
+[🔗 #0624-062631](#_0624-062631)
 
 ---
 
-## 2026-06-13 01:45:54 GMT+08:00
+## 2026-06-24 01:01:29  {#_0624-010129}
 
-<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+🏷️ **[20260624](./tags/20260624.html)** 今日关注
+
+RT by @karpathy: Introducing Engram: Scaling compute on your context
+
+![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDsmo7LEDCulh03wxh4IYsOQ898uSKAAKoD2sbMUvYVWZReJTV3v7zAQADAgADeQADPAQ.jpg)
+
+[📖 原文](https://nitter.net/EngramLab/status/2069465879696576844#m)
+
+[🔗 #0624-010129](#_0624-010129)
+
+---
+
+## 2026-06-13 01:45:54  {#_0613-014554}
+
+🏷️ **[20260613](./tags/20260613.html)** 今日关注
 
 In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀
 
-[查看原文](https://nitter.net/karpathy/status/2065490793092337691#m)
+[📖 原文](https://nitter.net/karpathy/status/2065490793092337691#m)
+
+[🔗 #0613-014554](#_0613-014554)
 
 ---
 
-## 2026-06-10 02:10:00 GMT+08:00
+## 2026-06-10 02:10:00  {#_0610-021000}
 
-<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+🏷️ **[20260610](./tags/20260610.html)** 本周精选
 
 This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model "gets it" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.
 
 I feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! "Free your mind" (Matrix ref). Really looking forward to all the things people build!
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICImoqEV7iGonO2qrRecB60F8ckf8VAAIMFGsb5gdQVQ_8WUfh8ZCUAQADAgADeQADOwQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICImoqEV7iGonO2qrRecB60F8ckf8VAAIMFGsb5gdQVQ_8WUfh8ZCUAQADAgADeQADOwQ.png)
 
-[查看原文](https://nitter.net/karpathy/status/2064409694761054332#m)
+[📖 原文](https://nitter.net/karpathy/status/2064409694761054332#m)
+
+[🔗 #0610-021000](#_0610-021000)
 
 ---
 
-## 2026-06-03 04:26:32 GMT+08:00
+## 2026-06-03 04:26:32  {#_0603-042632}
 
-<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+🏷️ **[20260603](./tags/20260603.html)** 
 
 RT by @karpathy: x.com/i/article/206185053570…
 
-[查看原文](https://nitter.net/trq212/status/2061907337154367865#m)
+[📖 原文](https://nitter.net/trq212/status/2061907337154367865#m)
+
+[🔗 #0603-042632](#_0603-042632)
 
 ---
 
-## 2026-05-31 23:38:25 GMT+08:00
+## 2026-05-31 23:38:25  {#_0531-233825}
+
+🏷️ **[20260531](./tags/20260531.html)** 
 
 RT by @karpathy: This has quietly been a miracle month in medicine. 
 
@@ -155,29 +205,37 @@ In the last 5 weeks we’ve got news on:
 
 This stuff is at varying levels of evidence. Retatrutide is ~100% on its way, other stuff needs more clinical trial data. But put it together and we’re maybe on the verge of majorly reducing the mortality of heart disease and cancer, the two leading causes of death in America.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBLmofWX_Gf2DMunJJj2_YRx6Ph_zDAAI-EWsbtcX5VJwZdRltE8TFAQADAgADeAADOwQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBLmofWX_Gf2DMunJJj2_YRx6Ph_zDAAI-EWsbtcX5VJwZdRltE8TFAQADAgADeAADOwQ.png)
 
-[查看原文](https://nitter.net/DKThomp/status/2061110056293106118#m)
+[📖 原文](https://nitter.net/DKThomp/status/2061110056293106118#m)
+
+[🔗 #0531-233825](#_0531-233825)
 
 ---
 
-## 2026-05-19 23:05:42 GMT+08:00
+## 2026-05-19 23:05:42  {#_0519-230542}
+
+🏷️ **[20260519](./tags/20260519.html)** 
 
 Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&D. I remain deeply passionate about education and plan to resume my work on it in time.
 
-[查看原文](https://nitter.net/karpathy/status/2056753169888334312#m)
+[📖 原文](https://nitter.net/karpathy/status/2056753169888334312#m)
+
+[🔗 #0519-230542](#_0519-230542)
 
 ---
 
-## 2026-05-12 00:20:21 GMT+08:00
+## 2026-05-12 00:20:21  {#_0512-002021}
+
+🏷️ **[20260512](./tags/20260512.html)** 
 
 This works really well btw, at the end of your query ask your LLM to "structure your response as HTML", then view the generated file in your browser. I've also had some success asking the LLM to present its output as slideshows, etc.
 
 More generally, imo audio is the human-preferred input to AIs but vision (images/animations/video) is the preferred output from them. Around a ~third of our brains are a massively parallel processor dedicated to vision, it is the 10-lane superhighway of information into brain. As AI improves, I think we'll see a progression that takes advantage:
 
 1) raw text (hard/effortful to read)
-2) markdown (bold, italic, headings, tables, a bit easier on the eyes) <-- current default
-3) HTML (still procedural with underlying code, but a lot more flexibility on the graphics, layout, even interactivity) <-- early but forming new good default
+2) markdown (bold, italic, headings, tables, a bit easier on the eyes) &lt;-- current default
+3) HTML (still procedural with underlying code, but a lot more flexibility on the graphics, layout, even interactivity) &lt;-- early but forming new good default
 ...4,5,6,...
 n) interactive neural videos/simulations
 
@@ -187,11 +245,27 @@ There are also improvements necessary and pending at the input. Audio nor text n
 
 TLDR The input/output mind meld between humans and AIs is ongoing and there is a lot of work to do and significant progress to be made, way before jumping all the way into neuralink-esque BCIs and all that. For what's worth exploring at the current stage, hot tip try ask for HTML.
 
-[查看原文](https://nitter.net/karpathy/status/2053872850101285137#m)
+[📖 原文](https://nitter.net/karpathy/status/2053872850101285137#m)
+
+[🔗 #0512-002021](#_0512-002021)
 
 ---
 
-## 2026-05-01 01:28:50 GMT+08:00
+## 2026-05-01 01:43:06  {#_0501-014306}
+
+🏷️ **[20260501](./tags/20260501.html)** 
+
+This is the the quote I've been citing a lot recently.
+
+[📖 原文](https://nitter.net/karpathy/status/2049907410303865030#m)
+
+[🔗 #0501-014306](#_0501-014306)
+
+---
+
+## 2026-05-01 01:28:50  {#_0501-012850}
+
+🏷️ **[20260501](./tags/20260501.html)** 
 
 Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:
 
@@ -207,21 +281,15 @@ The second (ongoing) theme is trying to explain the pattern of jaggedness in LLM
 
 Last theme is the agent-native economy. The decomposition of products and services into sensors, actuators and logic (split up across all of 1.0/2.0/3.0 computing paradigms), how we can make information maximally legible to LLMs, some words on the quickly emerging agentic engineering and its skill set, related hiring practices, etc., possibly even hints/dreams of fully neural computing handling the vast majority of computation with some help from (classical) CPU coprocessors.
 
-<img src="/images/karpathy/amplify_video_thumb_2049267312243638273_img_VIiHQxskxmLlm1Xi.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/karpathy/status/2049903821095354523#m)
 
-[查看原文](https://nitter.net/karpathy/status/2049903821095354523#m)
-
----
-
-## 2026-05-01 01:43:06 GMT+08:00
-
-This is the the quote I've been citing a lot recently.
-
-[查看原文](https://nitter.net/karpathy/status/2049907410303865030#m)
+[🔗 #0501-012850](#_0501-012850)
 
 ---
 
-## 2026-04-28 05:34:34 GMT+08:00
+## 2026-04-28 05:34:34  {#_0428-053434}
+
+🏷️ **[20260428](./tags/20260428.html)** 
 
 RT by @karpathy: New work with @AlecRad and @DavidDuvenaud:
 
@@ -229,25 +297,41 @@ Have you ever dreamed of talking to someone from the past? Introducing talkie, a
 
 Vintage models should help us to understand how LMs generalize (e.g., can we teach talkie to code?). Thread:
 
-<img src="/images/karpathy/amplify_video_thumb_2048878377516548096_img_8tSIIy9Udu9bgF7m.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/status_effects/status/2048878495539843211#m)
 
-[查看原文](https://nitter.net/status_effects/status/2048878495539843211#m)
+[🔗 #0428-053434](#_0428-053434)
 
 ---
 
-## 2026-04-23 00:00:05 GMT+08:00
+## 2026-04-23 00:00:05  {#_0423-000005}
+
+🏷️ **[20260423](./tags/20260423.html)** 
 
 RT by @karpathy: Imagine every pixel on your screen, streamed live directly from a model. No HTML, no layout engine, no code. Just exactly what you want to see.
 
 @eddiejiao_obj, @drewocarr and I built a prototype to see how this could actually work, and set out to make it real. We're calling it Flipbook. (1/5)
 
-<img src="/images/karpathy/amplify_video_thumb_2046982244917809152_img_BI-fNy85fQ0vk3ri.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/zan2434/status/2046982383430496444#m)
 
-[查看原文](https://nitter.net/zan2434/status/2046982383430496444#m)
+[🔗 #0423-000005](#_0423-000005)
 
 ---
 
-## 2026-04-10 04:10:52 GMT+08:00
+## 2026-04-10 04:38:48  {#_0410-043848}
+
+🏷️ **[20260410](./tags/20260410.html)** 
+
+R to @karpathy: Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.
+
+[📖 原文](https://nitter.net/karpathy/status/2042341482531864741#m)
+
+[🔗 #0410-043848](#_0410-043848)
+
+---
+
+## 2026-04-10 04:10:52  {#_0410-041052}
+
+🏷️ **[20260410](./tags/20260410.html)** 
 
 Judging by my tl there is a growing gap in understanding of AI capability.
 
@@ -259,53 +343,30 @@ So that brings me to the second group of people, who *both* 1) pay for and use t
 
 TLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) "Advanced Voice Mode" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.
 
-[查看原文](https://nitter.net/karpathy/status/2042334451611693415#m)
+[📖 原文](https://nitter.net/karpathy/status/2042334451611693415#m)
+
+[🔗 #0410-041052](#_0410-041052)
 
 ---
 
-## 2026-04-10 04:38:48 GMT+08:00
+## 2026-04-05 22:58:44  {#_0405-225844}
 
-R to @karpathy: Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.
+🏷️ **[20260405](./tags/20260405.html)** 
 
-[查看原文](https://nitter.net/karpathy/status/2042341482531864741#m)
+R to @karpathy: Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?
 
----
+Suddenly feeling like I should gist more.
+@github consider competing with X (?)
 
-## 2026-04-05 00:45:23 GMT+08:00
+[📖 原文](https://nitter.net/karpathy/status/2040806346556428585#m)
 
-Wow, this tweet went very viral!
-
-I wanted share a possibly slightly improved version of the tweet in an "idea file". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the other person's agent customizes & builds it for your specific needs.
-
-So here's the idea in a gist format: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-
-You can give this to your agent and it can build you your own LLM wiki and guide you on how to use it etc. It's intentionally kept a little bit abstract/vague because there are so many directions to take this in. And ofc, people can adjust the idea or contribute their own in the Discussion which is cool.
-
-<img src="/images/karpathy/card_img_2059195986002812929_C1AikjCG3Fformat3Dpng26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/karpathy/status/2040470801506541998#m)
+[🔗 #0405-225844](#_0405-225844)
 
 ---
 
-## 2026-04-05 05:57:57 GMT+08:00
+## 2026-04-05 07:28:36  {#_0405-072836}
 
-Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.
-
-Historically, it is the governments that act to make society legible (e.g. "Seeing like a state" is the common reference), but with AI, society can dramatically improve its ability to do this in reverse. Government accountability has not been constrained by access (the various branches of government publish an enormous amount of data), it has been constrained by intelligence - the ability to process a lot of raw data, combine it with domain expertise and derive insights. As an example, the 4000-page omnibus bill is "transparent" in principle and in a legal sense, but certainly not in a practical sense for most people. There's a lot more like it: laws, spending bills, federal budgets, freedom of information act responses, lobbying disclosures... Only a few highly trained professionals (investigative journalists) could historically process this information. This bottleneck might dissolve - not only are the professionals further empowered, but a lot more people can participate.
-
-Some examples to be precise: Detailed accounting of spending and budgets, diff tracking of legislation, individual voting trends w.r.t. stated positions or speeches, lobbying and influence (e.g. graph of lobbyist -> firm -> client -> legislator -> committee -> vote -> regulation), procurement and contracting, regulatory capture warning lights, judicial and legal patterns, campaign finance... Local governments might be even more interesting because the governed population is smaller so there is less national coverage: city council meetings, decisions around zoning, policing, schools, utilities...
-
-Certainly, the same tools can easily cut the other way and it's worth being very mindful of that, but I lean optimistic overall that added participation, transparency and accountability will improve democratic, free societies.
-
-(the quoted tweet is half-ish related, but inspired me to post some recent thoughts)
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPMah16HcCfPuwxsWewucDFqPRTZOUAAhsSaxtIMulUK2twkkBToaIBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/karpathy/status/2040549459193704852#m)
-
----
-
-## 2026-04-05 07:28:36 GMT+08:00
+🏷️ **[20260405](./tags/20260405.html)** 
 
 Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.
 
@@ -320,24 +381,55 @@ So this approach to personalization puts *you* in full control. The data is your
 
 Certainly this is not the simplest way to get an AI to know you - it does require you to manage file directories and so on, but agents also make it quite simple and they can help you a lot. I imagine a number of products might come out to make this all easier, but imo "agent proficiency" is a CORE SKILL of the 21st century. These are extremely powerful tools - they speak English and they do all the computer stuff for you. Try this opportunity to play with one.
 
-<img src="/images/karpathy/amplify_video_thumb_2040562032819486720_img_jVrKry6tC4BPFnCg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/karpathy/status/2040572272944324650#m)
 
-[查看原文](https://nitter.net/karpathy/status/2040572272944324650#m)
-
----
-
-## 2026-04-05 22:58:44 GMT+08:00
-
-R to @karpathy: Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?
-
-Suddenly feeling like I should gist more.
-@github consider competing with X (?)
-
-[查看原文](https://nitter.net/karpathy/status/2040806346556428585#m)
+[🔗 #0405-072836](#_0405-072836)
 
 ---
 
-## 2026-04-03 04:42:21 GMT+08:00
+## 2026-04-05 05:57:57  {#_0405-055757}
+
+🏷️ **[20260405](./tags/20260405.html)** 
+
+Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.
+
+Historically, it is the governments that act to make society legible (e.g. "Seeing like a state" is the common reference), but with AI, society can dramatically improve its ability to do this in reverse. Government accountability has not been constrained by access (the various branches of government publish an enormous amount of data), it has been constrained by intelligence - the ability to process a lot of raw data, combine it with domain expertise and derive insights. As an example, the 4000-page omnibus bill is "transparent" in principle and in a legal sense, but certainly not in a practical sense for most people. There's a lot more like it: laws, spending bills, federal budgets, freedom of information act responses, lobbying disclosures... Only a few highly trained professionals (investigative journalists) could historically process this information. This bottleneck might dissolve - not only are the professionals further empowered, but a lot more people can participate.
+
+Some examples to be precise: Detailed accounting of spending and budgets, diff tracking of legislation, individual voting trends w.r.t. stated positions or speeches, lobbying and influence (e.g. graph of lobbyist -&gt; firm -&gt; client -&gt; legislator -&gt; committee -&gt; vote -&gt; regulation), procurement and contracting, regulatory capture warning lights, judicial and legal patterns, campaign finance... Local governments might be even more interesting because the governed population is smaller so there is less national coverage: city council meetings, decisions around zoning, policing, schools, utilities...
+
+Certainly, the same tools can easily cut the other way and it's worth being very mindful of that, but I lean optimistic overall that added participation, transparency and accountability will improve democratic, free societies.
+
+(the quoted tweet is half-ish related, but inspired me to post some recent thoughts)
+
+![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPMah16HcCfPuwxsWewucDFqPRTZOUAAhsSaxtIMulUK2twkkBToaIBAAMCAAN5AAM7BA.jpg)
+
+[📖 原文](https://nitter.net/karpathy/status/2040549459193704852#m)
+
+[🔗 #0405-055757](#_0405-055757)
+
+---
+
+## 2026-04-05 00:45:23  {#_0405-004523}
+
+🏷️ **[20260405](./tags/20260405.html)** 
+
+Wow, this tweet went very viral!
+
+I wanted share a possibly slightly improved version of the tweet in an "idea file". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the other person's agent customizes & builds it for your specific needs.
+
+So here's the idea in a gist format: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+You can give this to your agent and it can build you your own LLM wiki and guide you on how to use it etc. It's intentionally kept a little bit abstract/vague because there are so many directions to take this in. And ofc, people can adjust the idea or contribute their own in the Discussion which is cool.
+
+[📖 原文](https://nitter.net/karpathy/status/2040470801506541998#m)
+
+[🔗 #0405-004523](#_0405-004523)
+
+---
+
+## 2026-04-03 04:42:21  {#_0403-044221}
+
+🏷️ **[20260403](./tags/20260403.html)** 
 
 LLM Knowledge Bases
 
@@ -366,11 +458,15 @@ As the repo grows, the natural desire is to also think about synthetic data gene
 
 TLDR: raw data from a given number of sources is collected, then compiled by an LLM into a .md wiki, then operated on by various CLIs by the LLM to do Q&A and to incrementally enhance the wiki, and all of it viewable in Obsidian. You rarely ever write or edit the wiki manually, it's the domain of the LLM. I think there is room here for an incredible new product instead of a hacky collection of scripts.
 
-[查看原文](https://nitter.net/karpathy/status/2039805659525644595#m)
+[📖 原文](https://nitter.net/karpathy/status/2039805659525644595#m)
+
+[🔗 #0403-044221](#_0403-044221)
 
 ---
 
-## 2026-03-31 13:23:32 GMT+08:00
+## 2026-03-31 13:23:32  {#_0331-132332}
+
+🏷️ **[20260331](./tags/20260331.html)** 
 
 New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads.
 
@@ -381,13 +477,15 @@ It's possible to personally defend against these to some extent with local setti
 More comprehensive article:
 https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
 
-<img src="/images/karpathy/card_img_2061722802281963521_yWVgehzZ3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/karpathy/status/2038849654423798197#m)
 
-[查看原文](https://nitter.net/karpathy/status/2038849654423798197#m)
+[🔗 #0331-132332](#_0331-132332)
 
 ---
 
-## 2026-03-28 23:56:10 GMT+08:00
+## 2026-03-28 23:56:10  {#_0328-235610}
+
+🏷️ **[20260328](./tags/20260328.html)** 
 
 - Drafted a blog post
 - Used an LLM to meticulously improve the argument over 4 hours.
@@ -398,11 +496,15 @@ https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-dro
 
 The LLMs may elicit an opinion when asked but are extremely competent in arguing almost any direction. This is actually super useful as a tool for forming your own opinions, just make sure to ask different directions and be careful with the sycophancy.
 
-[查看原文](https://nitter.net/karpathy/status/2037921699824607591#m)
+[📖 原文](https://nitter.net/karpathy/status/2037921699824607591#m)
+
+[🔗 #0328-235610](#_0328-235610)
 
 ---
 
-## 2026-03-27 00:10:52 GMT+08:00
+## 2026-03-27 00:10:52  {#_0327-001052}
+
+🏷️ **[20260327](./tags/20260327.html)** 
 
 When I built menugen ~1 year ago, I observed that the hardest part by far was not the code itself, it was the plethora of services you have to assemble like IKEA furniture to make it real, the DevOps: services, payments, auth, database, security, domain names, etc...
 
@@ -410,33 +512,45 @@ I am really looking forward to a day where I could simply tell my agent: "build 
 
 It's easy to state, it's now just barely technically possible and expected to work maybe, but it definitely requires from-scratch re-design, work and thought. Very exciting direction!
 
-[查看原文](https://nitter.net/karpathy/status/2037200624450936940#m)
+[📖 原文](https://nitter.net/karpathy/status/2037200624450936940#m)
+
+[🔗 #0327-001052](#_0327-001052)
 
 ---
 
-## 2026-03-26 00:05:14 GMT+08:00
+## 2026-03-26 00:22:08  {#_0326-002208}
 
-One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.
-
-[查看原文](https://nitter.net/karpathy/status/2036836816654147718#m)
-
----
-
-## 2026-03-26 00:22:08 GMT+08:00
+🏷️ **[20260326](./tags/20260326.html)** 
 
 R to @karpathy: (I cycle through all LLMs over time and all of them seem to do this so it's not any particular implementation but something deeper, e.g. maybe during training, a lot of the information in the context window is relevant to the task, so the LLMs develop a bias to use what is given, then at test time overfit to anything that happens to RAG its way there via a memory feature (?))
 
-[查看原文](https://nitter.net/karpathy/status/2036841069636370467#m)
+[📖 原文](https://nitter.net/karpathy/status/2036841069636370467#m)
+
+[🔗 #0326-002208](#_0326-002208)
 
 ---
 
-## 2026-03-25 00:56:24 GMT+08:00
+## 2026-03-26 00:05:14  {#_0326-000514}
+
+🏷️ **[20260326](./tags/20260326.html)** 
+
+One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.
+
+[📖 原文](https://nitter.net/karpathy/status/2036836816654147718#m)
+
+[🔗 #0326-000514](#_0326-000514)
+
+---
+
+## 2026-03-25 00:56:24  {#_0325-005624}
+
+🏷️ **[20260325](./tags/20260325.html)** 
 
 Software horror: litellm PyPI supply chain attack. 
 
 Simple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.
 
-LiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.
+LiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm&gt;=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.
 
 Afaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.
 
@@ -444,17 +558,22 @@ Supply chain attacks like this are basically the scariest thing imaginable in mo
 
 Classical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to "yoink" functionality when it's simple enough and possible.
 
-[查看原文](https://nitter.net/karpathy/status/2036487306585268612#m)
+[📖 原文](https://nitter.net/karpathy/status/2036487306585268612#m)
+
+[🔗 #0325-005624](#_0325-005624)
 
 ---
 
-## 2026-03-21 08:55:37 GMT+08:00
+## 2026-03-21 08:55:37  {#_0321-085537}
+
+🏷️ **[20260321](./tags/20260321.html)** 
 
 Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&A in the replies.
 
-<img src="/images/karpathy/amplify_video_thumb_2035079080803278849_img_3D1d9lG36vpfIgop.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+[📖 原文](https://nitter.net/karpathy/status/2035158351357911527#m)
 
-[查看原文](https://nitter.net/karpathy/status/2035158351357911527#m)
+[🔗 #0321-085537](#_0321-085537)
 
 ---
 
+*最后更新：2026-08-19T01:33:52.190Z*

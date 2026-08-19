@@ -168,9 +168,19 @@ tags: []
     output += `\n---\n\n`;
     
     // 按时间显示推文
+    const seenIds = new Map(); // 用于检测重复 ID
     userPosts.forEach((post, idx) => {
         const shortId = generateShortId(post.time);
-        const anchorId = `_${shortId}`;
+        let anchorId = `_${shortId}`;
+        
+        // 检查并处理重复 ID
+        if (seenIds.has(shortId)) {
+            const count = seenIds.get(shortId) + 1;
+            seenIds.set(shortId, count);
+            anchorId = `_${shortId}-${count}`;
+        } else {
+            seenIds.set(shortId, 0);
+        }
         
         // 格式化时间显示
         const dateObj = new Date(post.time.replace(/\s*GMT[+-]\d{2}:\d{2}/, ' +08:00'));
@@ -192,7 +202,7 @@ tags: []
             output += `[📖 原文](${post.link})\n\n`;
         }
         
-        output += `[🔗 #${shortId}](#${anchorId})\n\n`;
+        output += `[🔗 #${shortId.replace(/^-/, '')}](#${anchorId})\n\n`;
         output += `---\n\n`;
     });
     
@@ -312,9 +322,19 @@ function main() {
         output += `\n---\n\n`;
         
         // 按时间显示推文
+        const seenIds = new Map(); // 用于检测重复 ID
         allPosts.forEach((post, idx) => {
             const shortId = generateShortId(post.time);
-            const anchorId = `_${shortId}`;
+            let anchorId = `_${shortId}`;
+            
+            // 检查并处理重复 ID
+            if (seenIds.has(shortId)) {
+                const count = seenIds.get(shortId) + 1;
+                seenIds.set(shortId, count);
+                anchorId = `_${shortId}-${count}`;
+            } else {
+                seenIds.set(shortId, 0);
+            }
             
             // 格式化时间显示
             const timeDisplay = post.time.replace(' GMT+08:00', '');
@@ -335,7 +355,7 @@ function main() {
                 output += `[📖 原文](${post.link})\n\n`;
             }
             
-            output += `[🔗 #${shortId}](#${anchorId})\n\n`;
+            output += `[🔗 #${shortId.replace(/^-/, '')}](#${anchorId})\n\n`;
             output += `---\n\n`;
         });
         
