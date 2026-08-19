@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 423 条推文
+> 📊 推文存档 - 共 424 条推文
 
 ---
 
@@ -39,9 +39,21 @@ My $AAOI TLDR notes at Rosenblatt summit: - Expected to get paid premiums for US
 
 Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% We finally have a major public company benchmark for humanoids. For reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B premoney valuation Q4. $TSLA is $1T+, but Optimus is wrapped inside a much larger company. But I think Unitree showed that the demand for pure play humanoid players is much larger… than people expected in public markets.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_mqFIyIXEiY_E4mpOU34ql2uysk7AAIwEmsbt9QoVMovWuscdzW4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089908198694351064#m)
+## 2026-08-19 15:11:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years. - "the entire supply chain is out of stock" - "the supply is still far behind the market demand" - "the shortage will continue to the next few years" "Whether it is PCB, carrier board, laser chip, or even related packaging capacity, as long as the AI supply chain link, almost all are in short supply." When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILCmqFXUSmOtdam_DI6AYrk4f0GtdyAAJzEmsbt9QwVPbI7Wc-Uiu1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILC2qFXUeYTE7yWkZ8DfkRqA4jqRr1AAJ0Emsbt9QwVLT3fyKYbV6qAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2089973586425766134#m)
 
 ---
 
