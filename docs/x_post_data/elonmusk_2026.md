@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2240 条推文
+> 📊 推文存档 - 共 2249 条推文
 
 ---
 
@@ -28,10 +28,6 @@ RT by @elonmusk: This is actually insane. The website has HUNDREDS of FREE Grok 
 **内容**:
 
 RT by @elonmusk: This is a legitimate societal concern.
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILImqF_SC_gbqplKta2s0xnam6B9uiAAIeEmsbcyYxVI1CwZmV8-JzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/JTAlexander/status/2090112416252309674#m)
 
 ---
 
@@ -93,8 +89,6 @@ They send you to prison for memes
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2090134775927578815#m)
-
 ---
 
 ## 2026-08-20 01:53:14
@@ -104,10 +98,6 @@ True
 **内容**:
 
 AfD is the only hope for Germany
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILJWqF_SoG3IfxyGPdxrkeX7oUzviYAAIhEmsbcyYxVORA4FEiRwjJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090135010993160442#m)
 
 ---
 
@@ -119,7 +109,19 @@ AfD is the only hope for Germany
 
 Derek Chauvin was unjustly convicted of murder, therefore he should be freed. The facts show that he was not the cause of death, nor did he at any time intend for a death to occur. Whatever else he may be, he is not a murderer. That is the truth.
 
-[查看原文](https://nitter.net/elonmusk/status/2090136255694881101#m)
+---
+
+## 2026-08-20 02:02:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 100 %
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILKGqGC7EhhVY3ZJvASBef4DmA4_dZAAIqEmsbcyYxVFvLjExuhZdEAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/RohdeC94470/status/2090137285794619777#m)
 
 ---
 
@@ -131,12 +133,6 @@ Derek Chauvin was unjustly convicted of murder, therefore he should be freed. Th
 
 Nothing is guaranteed
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILI2qF_STYsNluRLtbSpfhIvpNhnEaAAIfEmsbcyYxVDKHgXo22iUBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILJGqF_SiqzKMP6q4tdW2ajlNJHe8JAAIgEmsbcyYxVFAdYKJ5UH_-AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090138513421512999#m)
-
 ---
 
 ## 2026-08-20 02:13:35
@@ -147,7 +143,29 @@ Nothing is guaranteed
 
 Yes
 
-[查看原文](https://nitter.net/elonmusk/status/2090140132766830829#m)
+---
+
+## 2026-08-20 02:22:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: 🎯
+
+[查看原文](https://nitter.net/BasedMikeLee/status/2090142421069836331#m)
+
+---
+
+## 2026-08-20 02:31:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: George Floyd died of an overdose. I agree, Derek Chauvin should be freed.
+
+[查看原文](https://nitter.net/mattvanswol/status/2090144723579126026#m)
 
 ---
 
@@ -159,8 +177,6 @@ Yes
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2090145037833396352#m)
-
 ---
 
 ## 2026-08-20 02:45:08
@@ -171,7 +187,67 @@ True
 
 RT @elonmusk: @Jason Synthetic RNA will cure many diseases
 
-[查看原文](https://nitter.net/elonmusk/status/2090148073867796974#m)
+---
+
+## 2026-08-20 02:48:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: There was no intent There was no motive Chauvin was doing textbook restraint procedures The rest of the officers were restraining accordingly innthe arrest. It was all political theater for the masses.
+
+[查看原文](https://nitter.net/BigCFinancial/status/2090149026519716347#m)
+
+---
+
+## 2026-08-20 02:54:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nonetheless, it is true.
+
+[查看原文](https://nitter.net/elonmusk/status/2090150358551286203#m)
+
+---
+
+## 2026-08-20 02:59:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILJ2qGC63TVsqLEm3pfd-eQMWyJaYWAAIpEmsbcyYxVAs0LBYBJH0vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090151784249782544#m)
+
+---
+
+## 2026-08-20 03:00:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yep.
+
+[查看原文](https://nitter.net/elonmusk/status/2090152004110925996#m)
+
+---
+
+## 2026-08-20 03:10:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+He committed serious crimes, as did Fauci
+
+[查看原文](https://nitter.net/elonmusk/status/2090154365365710911#m)
 
 ---
 
@@ -513,10 +589,6 @@ RT by @elonmusk: Grok Bot is the best AI agent right now and a full walkthrough 
 
 RT by @elonmusk: I just want everyone to know that the first exposure the Plymouth Colony Pilgrims had with Native Americans was... Samoset coming up to their camp and—in perfect English—saying "Welcome, Englishmen. Could I have some beer?"
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILHWqF7pvgF3h_EyBVWi8QWgguIqRcAALuEWsbcyYxVJPAxWT9jmP6AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cremieuxrecueil/status/2089918962200899718#m)
-
 ---
 
 ## 2026-08-19 11:51:23
@@ -816,6 +888,20 @@ One sat at a time
 **内容**:
 
 RT by @elonmusk: SpaceX has officially crossed 11,000 Starlink satellites in orbit. They've added 1,300 satellites to the constellation so far this year. SpaceX requested FCC approval last month to launch and operate a third-generation satellite constellation of 100,000 satellites, so they are just getting started.
+
+---
+
+## 2026-08-19 23:05:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Does this change everything?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILJmqGC6kUGv0TFfY8J3BFHdAHPlH4AAIoEmsbcyYxVFNXQLxcIwH4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/rustyrockets/status/2090092802612863098#m)
 
 ---
 
