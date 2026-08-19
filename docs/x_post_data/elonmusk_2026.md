@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2193 条推文
+> 📊 推文存档 - 共 2196 条推文
 
 ---
 
@@ -108,16 +108,6 @@ RT by @elonmusk: Reporter: You good with mass migration? Dalai Lama: Nope lol
 **内容**:
 
 RT by @elonmusk: Updated Tesla Semi page now live   – Cheaper to run than diesel: with lower energy cost & far fewer parts to maintain, Semi can pay for itself within typical truck ownership period – Megacharger at up to 1.2 MW recovers ~60% of range in 30 minutes – Up to 500 miles of range fully loaded – Comes with fleet software for live status, Trip Planner, plus remote support and OTA updates   http://tesla.com/semi
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILA2qFR3Yx26OuUnOaLH38qNAEIxjFAAIxEmsbt9QwVDGUyEenHRnSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILBGqFR3pnVkTM1_YAAeV0PY532VHiRwACMhJrG7fUMFTxHDQBZhgKywEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILBWqFR31UuTZYGcke9Zuevzg32aTGAAIzEmsbt9QwVDHJaazD2_YDAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILBmqFR4EIP9dCHXdFzf4F728JMyHWAAI0Emsbt9QwVH9yx5zcCUayAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/tesla_semi/status/2089768378793861367#m)
 
 ---
 
@@ -269,8 +259,6 @@ RT by @elonmusk: The Department of Commerce’s Census Bureau just released its 
 
 RT by @elonmusk: I’ve finally had the chance to play with Grok 4.6 today after exhausting all of my Codex usage. Grok Build + 4.6 has been the best experience I’ve had in a while. TLDR; It’s super fast and it just works. Full thoughts: It’s still extremely fast like 4.5 was but I can feel how much smarter it is. Because of the speed I find myself more involved in what’s going on because I don’t have to wait forever between responses, which means I’m context switching a lot less and actually getting things done end to end. I haven’t had the chance to use it on really complex projects yet but we’ll see how that goes. I’ve been rocking the $100 Codex plan for a while but i think I’d actually be willing to get Supergrok Heavy, I’ve never considered getting the $200 GPT plan.
 
-[查看原文](https://nitter.net/kamellperry_/status/2089865708150640951#m)
-
 ---
 
 ## 2026-08-19 08:21:30
@@ -301,10 +289,6 @@ RT @Starlink: Starlink is delivering reliable connectivity onboard @hyundaiglovi
 
 RT by @elonmusk: Accepted @wholemars challenge and tried Grok Bot. I have zero coding experience. My earlier attempt at OpenClaw went nowhere. In the last two nights I set up the bot, linked my email, had it build a full 12-page household budget PowerPoint, created a team of bots to help with my wife’s business, and got it sending me daily Tesla news recaps. Insanely easy to set up and navigate. It walks you through everything step by step. Yes… it’s addicting.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILB2qFR4WKKL4vGib2LDvXe2uiHZMdAAI1Emsbt9QwVFFPGE8Ohq3tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/BlakeKing777/status/2089881822884692399#m)
-
 ---
 
 ## 2026-08-19 09:43:32
@@ -334,8 +318,6 @@ RT by @elonmusk: I’m currently having @bot do some things for me that I’ve b
 **内容**:
 
 RT by @elonmusk: I have to say, Grok 4.6 with the grok build harness is probably the best all-around, value-for-money subscription out there now on the $300/month Grok SuperHeavy plan. I have two of them now and think I'll probably get a few more. It does all my git commits and other stuff. Fast.
-
-[查看原文](https://nitter.net/doodlestein/status/2089903533487243364#m)
 
 ---
 
@@ -377,8 +359,6 @@ Yeah
 
 RT by @elonmusk: I think folks are going to be stunned by how quickly Grok starts generating massive revenue for SpaceX. Grok Bot is easily one of the most useful (and addicting) AI products out there. It’s very Apple-like in that “it just works”. And the UI/UX is easily the best out of any other digital AI product, which makes it dead simple to interface with. Grok 4.6 in Grok Build is legitimately great. It’s just as good as GPT/Claude in most use cases, but far faster and cheaper. Pair this with the massive growth in compute SpaceX will experience in the coming months, and you’ve got a recipe for a vertically integrated token-generating behemoth.
 
-[查看原文](https://nitter.net/farzyness/status/2089943313210036358#m)
-
 ---
 
 ## 2026-08-19 13:31:38
@@ -388,8 +368,6 @@ RT by @elonmusk: I think folks are going to be stunned by how quickly Grok start
 **内容**:
 
 True
-
-[查看原文](https://nitter.net/elonmusk/status/2089948382613930151#m)
 
 ---
 
@@ -401,8 +379,6 @@ True
 
 Yes
 
-[查看原文](https://nitter.net/elonmusk/status/2089948600893833431#m)
-
 ---
 
 ## 2026-08-19 13:38:22
@@ -413,7 +389,45 @@ Yes
 
 Clear your email with @Grok @Bot
 
-[查看原文](https://nitter.net/elonmusk/status/2089950078429782061#m)
+---
+
+## 2026-08-19 13:54:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Here's the simplest way to get started with Grok Bot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILCWqFVgFrWZATGgaMAUYRM8dNRnWaAAJgEmsbt9QwVLWGc6G8tK59AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2089954139220713662#m)
+
+---
+
+## 2026-08-19 14:30:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+What’s ur @Bots?
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILCGqFVf7NBQ3i-lC_UB5WwqsGUD5ZAAJfEmsbt9QwVHHvcfHPHxKzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089963186317565992#m)
+
+---
+
+## 2026-08-19 14:53:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Specialist AI’s (single language, single area of knowledge) are another 100X
+
+[查看原文](https://nitter.net/elonmusk/status/2089968914596045178#m)
 
 ---
 
