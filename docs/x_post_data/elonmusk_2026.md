@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2207 条推文
+> 📊 推文存档 - 共 2211 条推文
 
 ---
 
@@ -501,6 +501,48 @@ So many “historical” movies that are a pack of lies
 
 ---
 
+## 2026-08-19 17:08:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: SpaceX’s Starlink constellation has surpassed 11,000 satellites in orbit for the first time. Today’s successful deployment of 24 Starlink satellites brought the estimated total to 11,003, making it by far the largest satellite constellation ever built.
+
+<img src="/images/elonmusk/amplify_video_thumb_2090002963649720321_img_2-dnTRveMPl8N_61.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2090002984315097205#m)
+
+---
+
+## 2026-08-19 20:42:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I love it. Thank you. 🤗
+
+<img src="/images/elonmusk/amplify_video_thumb_2089894130251960320_img_8gTcjMoxoGBXJTSz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mayemusk/status/2090056738766475287#m)
+
+---
+
+## 2026-08-19 21:13:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starship is drawing crowds on Christmas Island. Locals gathered along the coast to watch the massive Starship being towed into calmer waters after 24 days at sea, while some even took boats out for a closer look. Starship has become the talk of the town.
+
+<img src="/images/elonmusk/amplify_video_thumb_2090064467250069504_img_SU06b3ZSKGGNY18b.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2090064606844866611#m)
+
+---
+
 ## 2026-08-19 22:07:40
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -508,10 +550,6 @@ So many “historical” movies that are a pack of lies
 **内容**:
 
 Grok 4.6 is #1 on healthcare questions
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILEWqFu70IMsquMv_Q-wi3_zkuq-5_AAIFEWsbcyYxVH6bX5t9Qh3GAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090078247392555471#m)
 
 ---
 
@@ -523,10 +561,6 @@ Grok 4.6 is #1 on healthcare questions
 
 Make an instant one-person company with @Grok @Bot
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILEGqFu7pCus43OanubGIPbvB_zLCQAAIEEWsbcyYxVEqOc1enOEIPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090078663312347334#m)
-
 ---
 
 ## 2026-08-19 22:11:35
@@ -537,9 +571,19 @@ Make an instant one-person company with @Grok @Bot
 
 Grok @Bot is the Chuck Norris of bots 😂
 
-<img src="/images/elonmusk/amplify_video_thumb_2087890148021121024_img_V4MyHs6AhyYoTw00.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2090079231783120975#m)
+## 2026-08-19 22:13:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Share your Grok @Bot design with others!
+
+<img src="/images/elonmusk/amplify_video_thumb_2090037890659323904_img_1N-lRUuF2E3-ZHgF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090079706402164857#m)
 
 ---
 
