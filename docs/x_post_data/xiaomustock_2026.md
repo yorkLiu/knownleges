@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 339 条推文
+> 📊 推文存档 - 共 340 条推文
+
+---
+
+## 2026-08-19 15:13:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+海力士回购+50%自由现金回报股东
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILDWqFa8s4EqBGKWmMyZ56oa2vAW7JAAKWEmsbt9QwVCgflXX0TudEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILDmqFa8_ZZWzKqZLECe_OEFJSWmCaAAKXEmsbt9QwVFObjf1MXugGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2089974136437449126#m)
 
 ---
 
