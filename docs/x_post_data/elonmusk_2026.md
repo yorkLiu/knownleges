@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2211 条推文
+> 📊 推文存档 - 共 2224 条推文
 
 ---
 
@@ -509,9 +509,19 @@ So many “historical” movies that are a pack of lies
 
 RT by @elonmusk: BREAKING: SpaceX’s Starlink constellation has surpassed 11,000 satellites in orbit for the first time. Today’s successful deployment of 24 Starlink satellites brought the estimated total to 11,003, making it by far the largest satellite constellation ever built.
 
-<img src="/images/elonmusk/amplify_video_thumb_2090002963649720321_img_2-dnTRveMPl8N_61.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/cb_doge/status/2090002984315097205#m)
+## 2026-08-19 17:34:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starship 43's nose cone and payload section has been moved into megabay 2 to begin stacking and assembly. This will be the ship for flight 16. Starship 42 (flight 15) is partially visible in the background. 8/19/26
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILFmqF2N-qOol4Ep25AUpx3Bhw6ichAAJoEWsbcyYxVCCQduSi0hQZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/StarshipGazer/status/2090009546227904545#m)
 
 ---
 
@@ -523,10 +533,6 @@ RT by @elonmusk: BREAKING: SpaceX’s Starlink constellation has surpassed 11,00
 
 RT by @elonmusk: I love it. Thank you. 🤗
 
-<img src="/images/elonmusk/amplify_video_thumb_2089894130251960320_img_8gTcjMoxoGBXJTSz.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mayemusk/status/2090056738766475287#m)
-
 ---
 
 ## 2026-08-19 21:13:28
@@ -537,9 +543,49 @@ RT by @elonmusk: I love it. Thank you. 🤗
 
 RT by @elonmusk: Starship is drawing crowds on Christmas Island. Locals gathered along the coast to watch the massive Starship being towed into calmer waters after 24 days at sea, while some even took boats out for a closer look. Starship has become the talk of the town.
 
-<img src="/images/elonmusk/amplify_video_thumb_2090064467250069504_img_SU06b3ZSKGGNY18b.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/cb_doge/status/2090064606844866611#m)
+## 2026-08-19 21:27:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starlink’s high-speed internet is now available onboard @lufthansa 🛰️✈️
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILF2qF2OKBVjWJ-mTRHmasn7HTQfnIAAJpEWsbcyYxVKZOr_Ky5lPlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILGGqF2OU0nOy0EmaFCwgbmiLtmpsTAAJqEWsbcyYxVBn5WLMn3yGBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Starlink/status/2090068167016190357#m)
+
+---
+
+## 2026-08-19 22:04:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Charlie Kirk: “If you’re studying economics and they’re not teaching Thomas Sowell, you’re not getting an education. You’re getting an indoctrination.” https://x.com/DailySowell/status/2089731041762119794/video/1 Sowell teaches you to question the easy answers and look at the actual results. That's exactly what economics education should do.
+
+<img src="/images/elonmusk/amplify_video_thumb_2089618313722974208_img_21QD3XMytAXSrGew.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ThomasSowell/status/2090077324196643281#m)
+
+---
+
+## 2026-08-19 22:05:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: “Create a random image inspired by my X account” Good job Grok, on point!
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILGmqF2O3zSsILvwsWbki5Saq4erDZAAJsEWsbcyYxVA1v28Kylu96AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/Liv_Boeree/status/2090077804868104642#m)
 
 ---
 
@@ -581,9 +627,131 @@ Grok @Bot is the Chuck Norris of bots 😂
 
 Share your Grok @Bot design with others!
 
-<img src="/images/elonmusk/amplify_video_thumb_2090037890659323904_img_1N-lRUuF2E3-ZHgF.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2090079706402164857#m)
+## 2026-08-19 22:22:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Vodacom Lesotho has officially launched a new enterprise connectivity solution powered by @Starlink. The service delivers primary, backup and “Unbreakable Internet” by combining Starlink with terrestrial networks, keeping businesses connected even in most remote areas.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILG2qF2PHfrYLutZ5vhiAo1X7ZN_glAAJtEWsbcyYxVMtwmYKwcMhdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/cb_doge/status/2090082049424249291#m)
+
+---
+
+## 2026-08-19 22:52:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+One sat at a time
+
+<img src="/images/elonmusk/amplify_video_thumb_2090087188201615361_img_MJTs2bULqgwkDZvE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090089633929675243#m)
+
+---
+
+## 2026-08-19 22:54:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: SpaceX has officially crossed 11,000 Starlink satellites in orbit. They've added 1,300 satellites to the constellation so far this year. SpaceX requested FCC approval last month to launch and operate a third-generation satellite constellation of 100,000 satellites, so they are just getting started.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILEmqF2MxF6KBkZ1xYkqfB0xdYmUYMAAJhEWsbcyYxVFKP-A7hakXlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/SawyerMerritt/status/2090089933503451421#m)
+
+---
+
+## 2026-08-19 23:11:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink on @lufthansa
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILGWqF2OkYbuzXPh2kBzFNwtFpXCGCAAJrEWsbcyYxVLDlJC7Sk4H3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090094289246400952#m)
+
+---
+
+## 2026-08-19 23:19:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok 4.6 is now available on Amazon Bedrock
+
+<img src="/images/elonmusk/amplify_video_thumb_2090095664650653697_img_eyETPtwcsO0iqdS4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/milichab/status/2090096415003337028#m)
+
+---
+
+## 2026-08-19 23:33:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6 now on Bedrock
+
+<img src="/images/elonmusk/amplify_video_thumb_2090095664650653697_img_eyETPtwcsO0iqdS4.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090099808220627226#m)
+
+---
+
+## 2026-08-19 23:34:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILFWqF2NoMdF_cPk1E5AalS78Uu_dGAAJnEWsbcyYxVBa-G9QcafWgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090100092296659170#m)
+
+---
+
+## 2026-08-19 23:40:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Starlink is becoming a major part of commercial shipping too Hyundai Glovis has now installed Starlink on 45 of its 47 company-owned ships The rollout started in January and now covers almost the entire fleet, including car carriers and bulk carriers Crew members say Starlink has significantly improved connectivity at sea for: • Video calls • Streaming • Work-related data transfers • Real-time ship-to-shore communication • Remote technical support Hyundai Glovis also plans to use the connectivity for AI-powered predictive maintenance and smarter vessel operations SpaceX’s enterprise team recently visited the Glovis Stella in South Korea to see Starlink operating in real-world conditions and hear directly from the crew Starlink is becoming core communications infrastructure for ships operating across the world's oceans From airlines to cargo ships, SpaceX is connecting transportation system everywhere
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILE2qF2NFq_RpANxZV4Lk60VG8PBXfAAJkEWsbcyYxVOYCxJMzVuRoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2090101711599992946#m)
+
+---
+
+## 2026-08-19 23:41:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @elonmusk: Playing Incognito
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILFGqF2Nar9InE0UbcBeQ6LlY-tW1CAAJmEWsbcyYxVMfZLGX3bqiLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090101763399700963#m)
 
 ---
 

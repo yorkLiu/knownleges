@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 424 条推文
+> 📊 推文存档 - 共 425 条推文
 
 ---
 
@@ -49,11 +49,19 @@ Unitree (688836) is now public. And is valued at ~$53.3B, after rising +492.18% 
 
 We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... And now Elazr GM at their investor conference stated: Optical supply is still far behind the market demand, the expected AI optical supply chain are likely to continue for years. - "the entire supply chain is out of stock" - "the supply is still far behind the market demand" - "the shortage will continue to the next few years" "Whether it is PCB, carrier board, laser chip, or even related packaging capacity, as long as the AI supply chain link, almost all are in short supply." When demand visibility extends for years with the supply chain bottlenecked: It's getting difficult not to see photonics echoing the memory supercycle entering 2027.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILCmqFXUSmOtdam_DI6AYrk4f0GtdyAAJzEmsbt9QwVPbI7Wc-Uiu1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILC2qFXUeYTE7yWkZ8DfkRqA4jqRr1AAJ0Emsbt9QwVLT3fyKYbV6qAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-19 23:49:36
 
-[查看原文](https://nitter.net/aleabitoreddit/status/2089973586425766134#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$MRVL gives $GOOGL options to buy $12.2B of the company. "The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and move information ⁠across networks." Which could translate into ~$120 billion ​in revenue through 2033. Marvell also has separate warrants with $AMZN after their Celestial acquisition (for purchases of photonic fabric). Remember the good times when Jensen said Marvell would be the next $1T+ company? Seems Nvidia knew Marvell was "networking" its way into all the hyperscalers with warrants.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILHGqF2PZ-t36PIKydbcoXBjNCz6VvAAJuEWsbcyYxVEylsJKYwurlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/aleabitoreddit/status/2090103899302826302#m)
 
 ---
 
