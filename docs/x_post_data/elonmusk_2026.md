@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2196 条推文
+> 📊 推文存档 - 共 2197 条推文
 
 ---
 
@@ -399,10 +399,6 @@ Clear your email with @Grok @Bot
 
 RT by @elonmusk: Here's the simplest way to get started with Grok Bot
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILCWqFVgFrWZATGgaMAUYRM8dNRnWaAAJgEmsbt9QwVLWGc6G8tK59AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2089954139220713662#m)
-
 ---
 
 ## 2026-08-19 14:30:27
@@ -412,10 +408,6 @@ RT by @elonmusk: Here's the simplest way to get started with Grok Bot
 **内容**:
 
 What’s ur @Bots?
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILCGqFVf7NBQ3i-lC_UB5WwqsGUD5ZAAJfEmsbt9QwVHHvcfHPHxKzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2089963186317565992#m)
 
 ---
 
@@ -427,7 +419,17 @@ What’s ur @Bots?
 
 Specialist AI’s (single language, single area of knowledge) are another 100X
 
-[查看原文](https://nitter.net/elonmusk/status/2089968914596045178#m)
+---
+
+## 2026-08-19 15:27:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Indeed
+
+[查看原文](https://nitter.net/elonmusk/status/2089977436066992413#m)
 
 ---
 
