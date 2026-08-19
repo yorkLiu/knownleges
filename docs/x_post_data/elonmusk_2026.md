@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2249 条推文
+> 📊 推文存档 - 共 2250 条推文
 
 ---
 
@@ -119,10 +119,6 @@ Derek Chauvin was unjustly convicted of murder, therefore he should be freed. Th
 
 RT by @elonmusk: 100 %
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILKGqGC7EhhVY3ZJvASBef4DmA4_dZAAIqEmsbcyYxVFvLjExuhZdEAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/RohdeC94470/status/2090137285794619777#m)
-
 ---
 
 ## 2026-08-20 02:07:09
@@ -153,8 +149,6 @@ Yes
 
 RT by @elonmusk: 🎯
 
-[查看原文](https://nitter.net/BasedMikeLee/status/2090142421069836331#m)
-
 ---
 
 ## 2026-08-20 02:31:49
@@ -164,8 +158,6 @@ RT by @elonmusk: 🎯
 **内容**:
 
 RT by @elonmusk: George Floyd died of an overdose. I agree, Derek Chauvin should be freed.
-
-[查看原文](https://nitter.net/mattvanswol/status/2090144723579126026#m)
 
 ---
 
@@ -197,8 +189,6 @@ RT @elonmusk: @Jason Synthetic RNA will cure many diseases
 
 RT by @elonmusk: There was no intent There was no motive Chauvin was doing textbook restraint procedures The rest of the officers were restraining accordingly innthe arrest. It was all political theater for the masses.
 
-[查看原文](https://nitter.net/BigCFinancial/status/2090149026519716347#m)
-
 ---
 
 ## 2026-08-20 02:54:13
@@ -208,8 +198,6 @@ RT by @elonmusk: There was no intent There was no motive Chauvin was doing textb
 **内容**:
 
 Nonetheless, it is true.
-
-[查看原文](https://nitter.net/elonmusk/status/2090150358551286203#m)
 
 ---
 
@@ -221,10 +209,6 @@ Nonetheless, it is true.
 
 True
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILJ2qGC63TVsqLEm3pfd-eQMWyJaYWAAIpEmsbcyYxVAs0LBYBJH0vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090151784249782544#m)
-
 ---
 
 ## 2026-08-20 03:00:45
@@ -234,8 +218,6 @@ True
 **内容**:
 
 Yep.
-
-[查看原文](https://nitter.net/elonmusk/status/2090152004110925996#m)
 
 ---
 
@@ -247,7 +229,21 @@ Yep.
 
 He committed serious crimes, as did Fauci
 
-[查看原文](https://nitter.net/elonmusk/status/2090154365365710911#m)
+---
+
+## 2026-08-20 07:06:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls Release Notes: v1.0.7 Features: • Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable. • Permission prompts now show "Always allow" and "Never allow" options by default. • Users can now delete scheduled background loops directly from the tray. • Status line command scripts can now run on a timer via refresh_interval in config.toml. • Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project. • Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description. • New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs. • Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help. • Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab. Bug Fixes: • MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers. • Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions. • Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions. • Subagents no longer receive the ask-user-question tool. • Bare email addresses are now turned into clickable mailto links in the pager.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILKWqGPoZPquEfwEdBlCpGk1Zw4068AAIvEmsbcyYxVFLard9kP7DhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILKmqGPokuxdsy80Qhpt2QlGOLHJ5FAAIwEmsbcyYxVM_ZbFaB9coBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2090213954744463691#m)
 
 ---
 
