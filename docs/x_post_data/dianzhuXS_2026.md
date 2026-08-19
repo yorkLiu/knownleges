@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 335 条推文
+> 📊 推文存档 - 共 336 条推文
 
 ---
 
@@ -39,7 +39,17 @@ tags: ["2026"]
 
 別牆內一有「集會」，就又歸於民主運動啦 這次重慶時代峰峻抗議，小250們指向的是性別對立，並沒有抗議習近平 簡單說四個字～底層互害 這是「文革」在底層民眾中的最基本特徵 俗話說就是「欺軟怕硬」，一幫傻逼跪著互掐而已 沒救的😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://nitter.net/dianzhuXS/status/2089935422340358208#m)
+---
+
+## 2026-08-19 18:30:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨晚的直播錄音https://substack.com/@dianzhuxs/note/p-211545975?r=8moxkp&utm_medium=ios&utm_source=notes-share-action
+
+[查看原文](https://nitter.net/dianzhuXS/status/2090023691543613542#m)
 
 ---
 
