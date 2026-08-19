@@ -1,3606 +1,3003 @@
 ---
 title: "@xiaomustock 推文存档"
-date: 2026-08-19
+date: 2026-01-01
 author: "@xiaomustock"
-tags: ["20260818", "20260817", "20260816", "20260815", "20260814", "20260813", "20260812", "20260811", "20260810", "20260808", "20260807", "20260806", "20260805", "20260804", "20260803", "20260802", "20260801", "20260730", "20260728", "20260727", "20260726", "20260724", "20260723", "20260722", "20260721", "20260720", "20260719", "20260718", "20260717", "20260716", "20260715", "20260714", "20260713", "20260711", "20260710", "20260709", "20260708", "20260707", "20260706", "20260705", "20260704", "20260703", "20260702", "20260701", "20260630", "20260629", "20260628", "20260627", "20260626", "20260625", "20260624", "20260623", "20260622", "20260621", "20260620", "20260619", "20260618", "20260617", "20260616", "20260615", "20260614", "20260613", "20260612", "20260611", "20260610", "20260609", "20260608", "20260606", "20260605", "20260604", "20260603", "20260602", "20260601", "20260531"]
+tags: ["2026"]
 ---
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 350 条推文
+> 📊 推文存档 - 共 339 条推文
 
 ---
 
-## 📊 数据概览
+## 2026-08-18 14:58:54
 
-- **[20260818](./tags/20260818.html)**: 1 条
-- **[20260817](./tags/20260817.html)**: 3 条
-- **[20260816](./tags/20260816.html)**: 4 条
-- **[20260815](./tags/20260815.html)**: 1 条
-- **[20260814](./tags/20260814.html)**: 12 条
-- **[20260813](./tags/20260813.html)**: 4 条
-- **[20260812](./tags/20260812.html)**: 1 条
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<details>
-<summary>📋 查看更多 (67 个日期)</summary>
-
-- **[20260811](./tags/20260811.html)**: 1 条
-- **[20260810](./tags/20260810.html)**: 2 条
-- **[20260808](./tags/20260808.html)**: 2 条
-- **[20260807](./tags/20260807.html)**: 2 条
-- **[20260806](./tags/20260806.html)**: 2 条
-- **[20260805](./tags/20260805.html)**: 1 条
-- **[20260804](./tags/20260804.html)**: 8 条
-- **[20260803](./tags/20260803.html)**: 9 条
-- **[20260802](./tags/20260802.html)**: 1 条
-- **[20260801](./tags/20260801.html)**: 6 条
-- **[20260730](./tags/20260730.html)**: 1 条
-- **[20260728](./tags/20260728.html)**: 4 条
-- **[20260727](./tags/20260727.html)**: 3 条
-- **[20260726](./tags/20260726.html)**: 2 条
-- **[20260724](./tags/20260724.html)**: 2 条
-- **[20260723](./tags/20260723.html)**: 2 条
-- **[20260722](./tags/20260722.html)**: 3 条
-- **[20260721](./tags/20260721.html)**: 14 条
-- **[20260720](./tags/20260720.html)**: 4 条
-- **[20260719](./tags/20260719.html)**: 7 条
-- **[20260718](./tags/20260718.html)**: 2 条
-- **[20260717](./tags/20260717.html)**: 9 条
-- **[20260716](./tags/20260716.html)**: 4 条
-- **[20260715](./tags/20260715.html)**: 5 条
-- **[20260714](./tags/20260714.html)**: 9 条
-- **[20260713](./tags/20260713.html)**: 4 条
-- **[20260711](./tags/20260711.html)**: 1 条
-- **[20260710](./tags/20260710.html)**: 7 条
-- **[20260709](./tags/20260709.html)**: 2 条
-- **[20260708](./tags/20260708.html)**: 7 条
-- **[20260707](./tags/20260707.html)**: 7 条
-- **[20260706](./tags/20260706.html)**: 1 条
-- **[20260705](./tags/20260705.html)**: 2 条
-- **[20260704](./tags/20260704.html)**: 1 条
-- **[20260703](./tags/20260703.html)**: 6 条
-- **[20260702](./tags/20260702.html)**: 5 条
-- **[20260701](./tags/20260701.html)**: 8 条
-- **[20260630](./tags/20260630.html)**: 13 条
-- **[20260629](./tags/20260629.html)**: 11 条
-- **[20260628](./tags/20260628.html)**: 6 条
-- **[20260627](./tags/20260627.html)**: 2 条
-- **[20260626](./tags/20260626.html)**: 9 条
-- **[20260625](./tags/20260625.html)**: 13 条
-- **[20260624](./tags/20260624.html)**: 3 条
-- **[20260623](./tags/20260623.html)**: 6 条
-- **[20260622](./tags/20260622.html)**: 1 条
-- **[20260621](./tags/20260621.html)**: 1 条
-- **[20260620](./tags/20260620.html)**: 1 条
-- **[20260619](./tags/20260619.html)**: 3 条
-- **[20260618](./tags/20260618.html)**: 9 条
-- **[20260617](./tags/20260617.html)**: 7 条
-- **[20260616](./tags/20260616.html)**: 3 条
-- **[20260615](./tags/20260615.html)**: 3 条
-- **[20260614](./tags/20260614.html)**: 1 条
-- **[20260613](./tags/20260613.html)**: 1 条
-- **[20260612](./tags/20260612.html)**: 6 条
-- **[20260611](./tags/20260611.html)**: 2 条
-- **[20260610](./tags/20260610.html)**: 5 条
-- **[20260609](./tags/20260609.html)**: 5 条
-- **[20260608](./tags/20260608.html)**: 6 条
-- **[20260606](./tags/20260606.html)**: 2 条
-- **[20260605](./tags/20260605.html)**: 10 条
-- **[20260604](./tags/20260604.html)**: 10 条
-- **[20260603](./tags/20260603.html)**: 9 条
-- **[20260602](./tags/20260602.html)**: 13 条
-- **[20260601](./tags/20260601.html)**: 5 条
-- **[20260531](./tags/20260531.html)**: 2 条
-
-</details>
-
----
-
-## 2026-08-18 14:58:54  {#_0818-145854}
-
-🏷️ **[20260818](./tags/20260818.html)** 今日关注
+**内容**:
 
 棒子真是一坨呐，直接把存储坑下来了，昨天还加仓了海力士😭
 
-[📖 原文](https://nitter.net/xiaomustock/status/2089607956493205766#m)
-
-[🔗 #0818-145854](#_0818-145854)
+[查看原文](https://nitter.net/xiaomustock/status/2089607956493205766#m)
 
 ---
 
-## 2026-08-17 23:39:44  {#_0817-233944}
+## 2026-08-17 11:38:20
 
-🏷️ **[20260817](./tags/20260817.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK32qDNP-8Tqz5dDlRGYqCXV0yq4nbAAIIEmsb40IZVMnNydVGXuusAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2089376641445482583#m)
-
-[🔗 #0817-233944](#_0817-233944)
-
----
-
-## 2026-08-17 13:20:59  {#_0817-132059}
-
-🏷️ **[20260817](./tags/20260817.html)** 今日关注
-
-始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK2WqCnGaJ0wKCJtC691ODe3CRDBtXAAIxFGsb40IRVCR7bS5OcKXhAQADAgADeAADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2089220928840548847#m)
-
-[🔗 #0817-132059](#_0817-132059)
-
----
-
-## 2026-08-17 11:38:20  {#_0817-113820}
-
-🏷️ **[20260817](./tags/20260817.html)** 今日关注
+**内容**:
 
 闪迪真是强的可怕， 正儿八经伟大的机会显而易见随时上车。 那天发100%回购新闻的时候盘面都没有瞬间大幅爆拉一步到位，而是几天时间持续不断的拉盘。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK2GqChphTpS-oE1p-7lE7lLuRVKeiAAINFGsb40IRVCjYwpda5SD4AQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkGp95ic8QXPo7ykEytJFlizQ7NE-AAL3EWsbW2nwV5ZIFddhCgkIAQADAgADeQADPQQ.jpg)
+## 2026-08-17 13:20:59
 
-[📖 原文](https://nitter.net/xiaomustock/status/2089195093874061458#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0817-113820](#_0817-113820)
+**内容**:
+
+始终坚信这一条， 如果机会足够伟大， 绝对显而易见随时都能上车， 而不会因为某个人是霉逼或者某个人某类人是反指而买入就下跌。 万事万物中的伟大机会都会遵循这个原则。 如果没有遵循说明不够伟大很垃圾。
 
 ---
 
-## 2026-08-16 13:49:25  {#_0816-134925}
+## 2026-08-17 23:39:44
 
-🏷️ **[20260816](./tags/20260816.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-牛栏山酒厂母公司顺鑫农业的排卵区粪腾了。 全是牛来喊公司改名牛栏山😂
+**内容**:
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKymqBVWXo_4mC7FgHkffwUHdNN_xGAAKmEGsbXeoJVFibAne87sNYAQADAgADeQADPQQ.jpg)
+在闪迪美光长鑫涨成这逼样的情况下， 海力士再此非常具有性价比。 虽然韩国股市是一坨
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKy2qBVWmskaYTGAoayq1eJ_7bJreBAAKnEGsbXeoJVFL42owFvk0QAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK32qDNP-8Tqz5dDlRGYqCXV0yq4nbAAIIEmsb40IZVMnNydVGXuusAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2088865695320928754#m)
-
-[🔗 #0816-134925](#_0816-134925)
+[查看原文](https://nitter.net/xiaomustock/status/2089376641445482583#m)
 
 ---
 
-## 2026-08-16 13:30:02  {#_0816-133002}
+## 2026-08-16 12:33:00
 
-🏷️ **[20260816](./tags/20260816.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-差点我这艺术创作收不回来成本😂 买了一组从跌停板爆拉到涨停板， 再跌到跌停板的《牛来》座位票
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKyGqBTiEl4c4RVEHQ_J49QL6HheIYAAKZEGsbXeoJVL-dw0MHSyMHAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKyWqBTiUoKfFwnX0fxFv5vdAcLWJLAAKaEGsbXeoJVOxUsnOVidDqAQADAgADeQADPQQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxWqBRt2wVMIqxRLLqjgc4PMQjsIpAAKNEGsbXeoJVHy9i6Xz0sjcAQADAgADeQADPQQ.jpg)
-
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxmqBRuEiMEPGCJ6Av7ll4OQkmCprAAKOEGsbXeoJVOI9w_SehDzRAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088860816561082475#m)
-
-[🔗 #0816-133002](#_0816-133002)
-
----
-
-## 2026-08-16 12:53:35  {#_0816-125335}
-
-🏷️ **[20260816](./tags/20260816.html)** 今日关注
-
-图一是你以为的牛来， 图二是实际的牛来。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxWqBRt2wVMIqxRLLqjgc4PMQjsIpAAKNEGsbXeoJVHy9i6Xz0sjcAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKxmqBRuEiMEPGCJ6Av7ll4OQkmCprAAKOEGsbXeoJVOI9w_SehDzRAQADAgADeQADPQQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKx2qBRuRuzWjAlakfgkhKSE2CYok8AAKPEGsbXeoJVMyxLB6e9JKyAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088851644620615701#m)
-
-[🔗 #0816-125335](#_0816-125335)
-
----
-
-## 2026-08-16 12:33:00  {#_0816-123300}
-
-🏷️ **[20260816](./tags/20260816.html)** 今日关注
+**内容**:
 
 牛来这部电影可能是人类历史上最后一部手搓动漫电影！ 😂自此之后绝对绝版了， 绝对不可能有再比这个粗制滥造的电影进电影院看到。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKx2qBRuRuzWjAlakfgkhKSE2CYok8AAKPEGsbXeoJVMyxLB6e9JKyAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2088846462100910520#m)
+## 2026-08-16 12:53:35
 
-[🔗 #0816-123300](#_0816-123300)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+图一是你以为的牛来， 图二是实际的牛来。
 
 ---
 
-## 2026-08-15 06:32:19  {#_0815-063219}
+## 2026-08-16 13:30:02
 
-🏷️ **[20260815](./tags/20260815.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+差点我这艺术创作收不回来成本😂 买了一组从跌停板爆拉到涨停板， 再跌到跌停板的《牛来》座位票
+
+---
+
+## 2026-08-16 13:49:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+牛栏山酒厂母公司顺鑫农业的排卵区粪腾了。 全是牛来喊公司改名牛栏山😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKymqBVWXo_4mC7FgHkffwUHdNN_xGAAKmEGsbXeoJVFibAne87sNYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKy2qBVWmskaYTGAoayq1eJ_7bJreBAAKnEGsbXeoJVFL42owFvk0QAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088865695320928754#m)
+
+---
+
+## 2026-08-15 06:32:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 有个说法，现阶段英伟达主业是卖内存的， 他的gpu算力是赠送的。 降低了单柜的内存，那么英伟达拿到的内存总量不变能变相的卖出去更多的柜，让自己业绩好看点，能让财报看起来自己卖出去了很多算力。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKuGp_miR1sVfFvtG621LyIFbQ9gABpgACsxFrG13q-Veazv1MMZd1wgEAAwIAA3kAAz0E.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKuGp_miR1sVfFvtG621LyIFbQ9gABpgACsxFrG13q-Veazv1MMZd1wgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2088393308204888411#m)
-
-[🔗 #0815-063219](#_0815-063219)
+[查看原文](https://nitter.net/xiaomustock/status/2088393308204888411#m)
 
 ---
 
-## 2026-08-14 22:55:40  {#_0814-225540}
+## 2026-08-14 01:05:43
 
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-真开始定投spy和qqq，每次赚了就买一部分放着。 贵在坚持。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtmp_NGflNeBteMaipj73PnmEo8ZhAAKyE2sbW2n4V9OSY8hsrffRAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088278388486312026#m)
-
-[🔗 #0814-225540](#_0814-225540)
-
----
-
-## 2026-08-14 22:54:47  {#_0814-225447}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-什么都不缺了，全下来了
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088278166557360573#m)
-
-[🔗 #0814-225447](#_0814-225447)
-
----
-
-## 2026-08-14 21:33:52  {#_0814-213352}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-终于跌下来了，心不痒了
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtWp_HpvsHATDrCQtAXzgpXOivgdEAAKOE2sbW2n4V-aZPiL_4eVrAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088257802385211398#m)
-
-[🔗 #0814-213352](#_0814-213352)
-
----
-
-## 2026-08-14 21:29:34  {#_0814-212934}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-闪迪涨成这样逼样我再加仓会不会死里面。 看着心痒痒，闪迪仓位占比太小了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtWp_HpvsHATDrCQtAXzgpXOivgdEAAKOE2sbW2n4V-aZPiL_4eVrAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088256720208601264#m)
-
-[🔗 #0814-212934](#_0814-212934)
-
----
-
-## 2026-08-14 21:11:09  {#_0814-211109}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-cpu必然会发生和2026年跟存储发生的结构性需求缺口。 现在cpu和gpu的配置需求是1/8， 随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。八倍的需求提升，而高端cpu的产能完全不可能在最近的2个季度内实现产能8倍提升。 cpu需求的爆发点很接近了， 从这个季度英特尔的高端cpu挤压低端cpu产能可以看出这种变化正在加速。 最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。 也就是只剩下3-5个月时间窗口了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKs2p_F1dtSWYfh6Ovo-o3WOxt1BvRAAKDE2sbW2n4VzusBmeuvz65AQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKoGp-YaxCLPsXXVhtdCqImN5AfiRJAAJCEmsbW2nwVx10izcKWudSAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088252084437323966#m)
-
-[🔗 #0814-211109](#_0814-211109)
-
----
-
-## 2026-08-14 20:57:23  {#_0814-205723}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-未来每个国家都不得不投入巨额资金来建立本地的AI云厂实现AI数据的本地化管理， 因为各国的各类研究和开发不能都通过国外的云服务来做AI调用，这样机密和实验技术等都会被国外ai吸收掌握。 必须通过本地部署开源模型，为这类涉密数据搭建本地AI云服务。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtGp_F1sX-OwGHeTzmSPZayWs_PnhAAKEE2sbW2n4Vzz1u8RONYKMAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088248618767778069#m)
-
-[🔗 #0814-205723](#_0814-205723)
-
----
-
-## 2026-08-14 19:09:08  {#_0814-190908}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-有时候对比这些股票的市值，营收甚至远期的市值营收还是非常抽象。 虽然这人也做空了美光，但是做空这个 $NEBIUS 感觉没啥错虽然我不敢做空股票。 闪迪一个季度利润60亿美金，2000亿市值， nebius一个季度亏2亿美金，市值600亿美金。 然后nebius暴涨居然是因为27年28年能有个俩三百亿美金的营收，累计拿着个400亿美金订单。 和闪迪一比这公司数据就是一坨屎，都能值600亿。营收，利润，毛利啥啥都不行都能值600亿，可见存储相对于绝大多数公司还是非常便宜，存储这几家公司俩三年赚的钱可能其他公司十来年都赚不到，即使可能他们市值更高。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKsWp--kZB9PooliGP97quvt6kT0V3AAI6E2sbW2n4VxNKBxYqpkiDAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088221378944336033#m)
-
-[🔗 #0814-190908](#_0814-190908)
-
----
-
-## 2026-08-14 18:22:26  {#_0814-182226}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-我这人赌性太强了越涨越想上杠杆。 存储顺风行情买2x还不够还想继续杠杆梭哈上2x ，生怕错过大行情。 一直在提醒自己这次赚到了真开始践行定投spy和qqq.不然总感觉哪一天我这么搞一把又要爆仓爆掉。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKsGp-8wGbviNqLBqzO7nyXy4-T0bOAAIvE2sbW2n4V89DkK_5zrMPAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088209624218702136#m)
-
-[🔗 #0814-182226](#_0814-182226)
-
----
-
-## 2026-08-14 15:27:04  {#_0814-152704}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-$META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标准的大公司。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKrGp-x2iJzP00LCVBHNxVpVGcbz4mAAKkEmsbW2n4V7iLU2OnuVKxAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088165493622587573#m)
-
-[🔗 #0814-152704](#_0814-152704)
-
----
-
-## 2026-08-14 07:59:54  {#_0814-075954}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的就是token消耗量，kv键缓存命中率，同时DSH的同任务时间消耗是gpt或者clude的2倍。 这点透露的信息强化了我对英特尔陈立武老爷子说的CPU和dram存储堆叠封装的路线理解。 agent代理的普及很快会迎来cpu/gpu的1:1时刻，那时的cpu也非常需要像英伟达的gpu和hbm堆叠封装一样，需要把cpu和hbm堆叠封装在一起，极大的提高读取效率和降低计算时间。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKoGp-YaxCLPsXXVhtdCqImN5AfiRJAAJCEmsbW2nwVx10izcKWudSAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKjmp915xVfDPiPNpYBSQZLWvqHB9VAALTEWsbW2nwV_Em6T4OJ6qvAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2088052959741714846#m)
-
-[🔗 #0814-075954](#_0814-075954)
-
----
-
-## 2026-08-14 01:17:02  {#_0814-011702}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
-
-今天真是这个月涨的最舒服的一天， 闪迪承诺100%的股东回报， 其他几家不能太不要脸吧。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkWp-AzXqrJT55cmNPwABK1Jt9fbk_gACERJrG1tp8Fe5KLxjxhothwEAAwIAA3kAAz0E.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2087951574954107024#m)
-
-[🔗 #0814-011702](#_0814-011702)
-
----
-
-## 2026-08-14 01:05:43  {#_0814-010543}
-
-🏷️ **[20260814](./tags/20260814.html)** 今日关注
+**内容**:
 
 这个中微公司和安集科技真是俩好公司， 一个刻蚀全球领先，一个做抛光液，这俩都是存储堆叠层数越高用的越多。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkmp-AzkooqtUEB45gxAQPORiU9KVAAISEmsbW2nwV4HpbXWW6TuTAQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKk2p-Az2GdXTI03n2GZNporuAkaMoAAITEmsbW2nwVxJ6-tRdhrpmAQADAgADeQADPQQ.jpg)
+## 2026-08-14 01:17:02
 
-[📖 原文](https://nitter.net/xiaomustock/status/2087948726337990820#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0814-010543](#_0814-010543)
+**内容**:
+
+今天真是这个月涨的最舒服的一天， 闪迪承诺100%的股东回报， 其他几家不能太不要脸吧。
 
 ---
 
-## 2026-08-13 23:19:49  {#_0813-231949}
+## 2026-08-14 07:59:54
 
-🏷️ **[20260813](./tags/20260813.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-一个 $RAM ，相当于买了2x #海力士，2x #美光，2x #三星 顺风行情的时候这些2x工具是真爽。
+**内容**:
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKj2p95iRyXPbji1ekclRjGVMWTbv4AAL2EWsbW2nwVwtV7drpX78UAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2087922076254711923#m)
-
-[🔗 #0813-231949](#_0813-231949)
+睡醒看了很多人测评的deepseek的agent “DSH”，很多人聊的最多的就是token消耗量，kv键缓存命中率，同时DSH的同任务时间消耗是gpt或者clude的2倍。 这点透露的信息强化了我对英特尔陈立武老爷子说的CPU和dram存储堆叠封装的路线理解。 agent代理的普及很快会迎来cpu/gpu的1:1时刻，那时的cpu也非常需要像英伟达的gpu和hbm堆叠封装一样，需要把cpu和hbm堆叠封装在一起，极大的提高读取效率和降低计算时间。
 
 ---
 
-## 2026-08-13 23:11:12  {#_0813-231112}
+## 2026-08-14 15:27:04
 
-🏷️ **[20260813](./tags/20260813.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-利好都来了，闪迪 $SNDK 将把超额收益100%返还给股东。
+**内容**:
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkGp95ic8QXPo7ykEytJFlizQ7NE-AAL3EWsbW2nwV5ZIFddhCgkIAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2087919906994192425#m)
-
-[🔗 #0813-231112](#_0813-231112)
+$META 算是即谷歌之后第二家公司支持和共同开发闪迪的HBF标准的大公司。
 
 ---
 
-## 2026-08-13 22:25:03  {#_0813-222503}
+## 2026-08-14 18:22:26
 
-🏷️ **[20260813](./tags/20260813.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-陈立武在《Tech Surge》播客访谈透露， 英特尔正在研究 CPU 与存储堆叠的新型存储架构。 $INTC 的新存储架构把CPU和存储封装到一起降低agent代理工作的调用延迟提高AI代理的效率。
+**内容**:
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKjmp915xVfDPiPNpYBSQZLWvqHB9VAALTEWsbW2nwV_Em6T4OJ6qvAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdGp8pmkJ6wdcoMB9BlKXe91ZdPUTAAISFGsbufvhV95sOQUO4O71AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2087908296049189197#m)
-
-[🔗 #0813-222503](#_0813-222503)
+我这人赌性太强了越涨越想上杠杆。 存储顺风行情买2x还不够还想继续杠杆梭哈上2x ，生怕错过大行情。 一直在提醒自己这次赚到了真开始践行定投spy和qqq.不然总感觉哪一天我这么搞一把又要爆仓爆掉。
 
 ---
 
-## 2026-08-13 00:32:20  {#_0813-003220}
+## 2026-08-14 19:09:08
 
-🏷️ **[20260813](./tags/20260813.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有时候对比这些股票的市值，营收甚至远期的市值营收还是非常抽象。 虽然这人也做空了美光，但是做空这个 $NEBIUS 感觉没啥错虽然我不敢做空股票。 闪迪一个季度利润60亿美金，2000亿市值， nebius一个季度亏2亿美金，市值600亿美金。 然后nebius暴涨居然是因为27年28年能有个俩三百亿美金的营收，累计拿着个400亿美金订单。 和闪迪一比这公司数据就是一坨屎，都能值600亿。营收，利润，毛利啥啥都不行都能值600亿，可见存储相对于绝大多数公司还是非常便宜，存储这几家公司俩三年赚的钱可能其他公司十来年都赚不到，即使可能他们市值更高。
+
+---
+
+## 2026-08-14 20:57:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+未来每个国家都不得不投入巨额资金来建立本地的AI云厂实现AI数据的本地化管理， 因为各国的各类研究和开发不能都通过国外的云服务来做AI调用，这样机密和实验技术等都会被国外ai吸收掌握。 必须通过本地部署开源模型，为这类涉密数据搭建本地AI云服务。
+
+---
+
+## 2026-08-14 21:11:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+cpu必然会发生和2026年跟存储发生的结构性需求缺口。 现在cpu和gpu的配置需求是1/8， 随着各AI大模型公司下场AI代理，代理需求催生的高端cpu需求会在2-3个季度内快递被爆拉到1/1。八倍的需求提升，而高端cpu的产能完全不可能在最近的2个季度内实现产能8倍提升。 cpu需求的爆发点很接近了， 从这个季度英特尔的高端cpu挤压低端cpu产能可以看出这种变化正在加速。 最快今年年底最慢27年q1就能看见cpu大幅提价，复刻存储26年行情。 也就是只剩下3-5个月时间窗口了。
+
+---
+
+## 2026-08-14 21:29:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+闪迪涨成这样逼样我再加仓会不会死里面。 看着心痒痒，闪迪仓位占比太小了。
+
+---
+
+## 2026-08-14 21:33:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+终于跌下来了，心不痒了
+
+---
+
+## 2026-08-14 22:54:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+什么都不缺了，全下来了
+
+[查看原文](https://nitter.net/xiaomustock/status/2088278166557360573#m)
+
+---
+
+## 2026-08-14 22:55:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+真开始定投spy和qqq，每次赚了就买一部分放着。 贵在坚持。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKtmp_NGflNeBteMaipj73PnmEo8ZhAAKyE2sbW2n4V9OSY8hsrffRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2088278388486312026#m)
+
+---
+
+## 2026-08-13 00:32:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 陈立武自掏腰包1200万美金认购了 $INTC 200亿美金95刀的增发融资，计划扩建产线和重建英特尔内存业务。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKdGp8pmkJ6wdcoMB9BlKXe91ZdPUTAAISFGsbufvhV95sOQUO4O71AQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2087577939605180653#m)
+## 2026-08-13 22:25:03
 
-[🔗 #0813-003220](#_0813-003220)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+陈立武在《Tech Surge》播客访谈透露， 英特尔正在研究 CPU 与存储堆叠的新型存储架构。 $INTC 的新存储架构把CPU和存储封装到一起降低agent代理工作的调用延迟提高AI代理的效率。
 
 ---
 
-## 2026-08-12 16:28:10  {#_0812-162810}
+## 2026-08-13 23:11:12
 
-🏷️ **[20260812](./tags/20260812.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+利好都来了，闪迪 $SNDK 将把超额收益100%返还给股东。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKkGp95ic8QXPo7ykEytJFlizQ7NE-AAL3EWsbW2nwV5ZIFddhCgkIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2087919906994192425#m)
+
+---
+
+## 2026-08-13 23:19:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一个 $RAM ，相当于买了2x #海力士，2x #美光，2x #三星 顺风行情的时候这些2x工具是真爽。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKj2p95iRyXPbji1ekclRjGVMWTbv4AAL2EWsbW2nwVwtV7drpX78UAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2087922076254711923#m)
+
+---
+
+## 2026-08-12 16:28:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 相当于散户都没在车上了大都爆仓割肉了， 存储这波去杠杆很彻底了。 买在无人问津，卖在人声鼎沸。 “昨天，韩国金融监管方面，韩国副总理发言表示韩国股票杠杆的交易规模已从7月30日的12.4万亿韩元缩减至8月7日的8000亿韩元，较6月25日的19.4万亿韩元峰值减少近96%。 这某种程度上说明韩国第一波去杠杆应该是接近尾声。”
 
-[📖 原文](https://nitter.net/xiaomustock/status/2087456093979254889#m)
-
-[🔗 #0812-162810](#_0812-162810)
+[查看原文](https://nitter.net/xiaomustock/status/2087456093979254889#m)
 
 ---
 
-## 2026-08-11 09:43:52  {#_0811-094352}
+## 2026-08-11 09:43:52
 
-🏷️ **[20260811](./tags/20260811.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 sss了minimax，江湖再见。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKTGp6gh2ckseEHbcQdGIMFXO4vH5FAAIDEmsbDq7ZV7s5ovUtE6KpAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKTGp6gh2ckseEHbcQdGIMFXO4vH5FAAIDEmsbDq7ZV7s5ovUtE6KpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNmp5OxwjELZXpUPs9mBh_tl6-JY-AALWEmsbRszQVyBvQpPEreQ1AQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNmp5OxwjELZXpUPs9mBh_tl6-JY-AALWEmsbRszQVyBvQpPEreQ1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2086991960590725546#m)
-
-[🔗 #0811-094352](#_0811-094352)
+[查看原文](https://nitter.net/xiaomustock/status/2086991960590725546#m)
 
 ---
 
-## 2026-08-10 20:01:54  {#_0810-200154}
+## 2026-08-10 10:25:34
 
-🏷️ **[20260810](./tags/20260810.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-电脑就能装的小模型来了， $META 发布了Muse Spark 1.2模型精简版， 参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKPmp5xS30MOnAsBVBKPnH0W7O4lXeAAJ6FmsbDq7RVySy3Ao3q3AiAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2086785104333177130#m)
-
-[🔗 #0810-200154](#_0810-200154)
-
----
-
-## 2026-08-10 10:25:34  {#_0810-102534}
-
-🏷️ **[20260810](./tags/20260810.html)** 今日关注
+**内容**:
 
 bbbb回来了minimax， minimax还有个科创板上市的利好没有被过会。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKNmp5OxwjELZXpUPs9mBh_tl6-JY-AALWEmsbRszQVyBvQpPEreQ1AQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-Wp1Qb-ReiZkkxInd4owcQ13plU6AAMRaxs4CahXIGrPlqsNIDYBAAMCAAN5AAM9BA.jpg)
+## 2026-08-10 20:01:54
 
-[📖 原文](https://nitter.net/xiaomustock/status/2086640068824035640#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0810-102534](#_0810-102534)
+**内容**:
+
+电脑就能装的小模型来了， $META 发布了Muse Spark 1.2模型精简版， 参数规模只有300亿，RTX 3090 24GB规格以上的单显卡都能安装这个模型。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKPmp5xS30MOnAsBVBKPnH0W7O4lXeAAJ6FmsbDq7RVySy3Ao3q3AiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2086785104333177130#m)
 
 ---
 
-## 2026-08-08 13:20:37  {#_0808-132037}
+## 2026-08-08 04:06:35
 
-🏷️ **[20260808](./tags/20260808.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-现在局面比较诡异， 谷歌微软他们公司债推高了美债的利息， 即使不加息，债券市场也跟加息没区别。 美国这些产业数据大概率应该是为了稳住市场瞎编的。 美债规模最近也上来40万亿美金， 如此高的长期美债利息以及kimi和deepseek对美国AI的追赶降价打击让人对美元在未来的信誉有了不确定性。 同时7月科技持续暴跌导致资金对市场的避险需求催生了最近一个月老登资产和黄金白银的触底反弹。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKHWp2wuhN55W4rmVdjSV6QvIz2iKmAAL1Emsbgi25V-DqKMKUoidzAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2085959345200591001#m)
-
-[🔗 #0808-132037](#_0808-132037)
-
----
-
-## 2026-08-08 04:06:35  {#_0808-040635}
-
-🏷️ **[20260808](./tags/20260808.html)** 今日关注
+**内容**:
 
 gate真是说一套做一套，拖了这么多天gate都不给jc提供之前声称保存的手持视频和后台操作日志。 之前立案前口口声声催用户赶紧立案然后全力配合……恶心呐
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKDGp2QBtY1kuJdokcM2baXdwWM93DAALGF2sbgi2xVx8t91i3ZBRHAQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKDWp2QB_CWK_pdVA4vZPx67lS1BQnAALHF2sbgi2xV_WGomiLGzhHAQADAgADeQADPQQ.jpg)
+## 2026-08-08 13:20:37
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKDmp2QCNrYVtSVT0Y3mNqHeZ7zbeZAALIF2sbgi2xV8-hkEHniP13AQADAgADeQADPQQ.jpg)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKD2p2QCcFOw5b-4Z-rx6gjDyOwblIAALJF2sbgi2xV-7yo83R5ox9AQADAgADeQADPQQ.jpg)
+**内容**:
 
-![图片 5](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKEGp2QCtBnkIbTCB_LCKi8NAIWoXzAALKF2sbgi2xV4niH9-efY24AQADAgADeQADPQQ.jpg)
+现在局面比较诡异， 谷歌微软他们公司债推高了美债的利息， 即使不加息，债券市场也跟加息没区别。 美国这些产业数据大概率应该是为了稳住市场瞎编的。 美债规模最近也上来40万亿美金， 如此高的长期美债利息以及kimi和deepseek对美国AI的追赶降价打击让人对美元在未来的信誉有了不确定性。 同时7月科技持续暴跌导致资金对市场的避险需求催生了最近一个月老登资产和黄金白银的触底反弹。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2085819915202949219#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIKHWp2wuhN55W4rmVdjSV6QvIz2iKmAAL1Emsbgi25V-DqKMKUoidzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0808-040635](#_0808-040635)
+[查看原文](https://nitter.net/xiaomustock/status/2085959345200591001#m)
 
 ---
 
-## 2026-08-07 10:40:32  {#_0807-104032}
+## 2026-08-07 10:03:31
 
-🏷️ **[20260807](./tags/20260807.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-造孽了minimax卖飞了
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-mp1SQQE4sT_G4OBdtkNfUQwAAFClQACDRFrGzgJqFfLD6ZMl5fk0wEAAwIAA3kAAz0E.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2085556671712297190#m)
-
-[🔗 #0807-104032](#_0807-104032)
-
----
-
-## 2026-08-07 10:03:31  {#_0807-100331}
-
-🏷️ **[20260807](./tags/20260807.html)** 今日关注
+**内容**:
 
 minimax330卖完了 江湖再见
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-Wp1Qb-ReiZkkxInd4owcQ13plU6AAMRaxs4CahXIGrPlqsNIDYBAAMCAAN5AAM9BA.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ0Wpz7C6zAAGZQqUS9d3o5gABB7ZlYMMAAqUPaxs4CaBXXZoiuQk2AAGcAQADAgADeQADPQQ.jpg)
+## 2026-08-07 10:40:32
 
-[📖 原文](https://nitter.net/xiaomustock/status/2085547354695082306#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0807-100331](#_0807-100331)
+**内容**:
+
+造孽了minimax卖飞了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ-mp1SQQE4sT_G4OBdtkNfUQwAAFClQACDRFrGzgJqFfLD6ZMl5fk0wEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2085556671712297190#m)
 
 ---
 
-## 2026-08-06 09:49:50  {#_0806-094950}
+## 2026-08-06 01:20:01
 
-🏷️ **[20260806](./tags/20260806.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-今天minimax纳入港股通了， a股能买到的最小的ai大模型公司。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ0Wpz7C6zAAGZQqUS9d3o5gABB7ZlYMMAAqUPaxs4CaBXXZoiuQk2AAGcAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2085181524555780491#m)
-
-[🔗 #0806-094950](#_0806-094950)
-
----
-
-## 2026-08-06 01:20:01  {#_0806-012001}
-
-🏷️ **[20260806](./tags/20260806.html)** 今日关注
+**内容**:
 
 刚把snxx，muu，skhynix都减了一半仓位，怕闪迪财报向下波动，等闪迪财报波动结束，准备再把减掉的仓位集中干到muu和snxx上。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJz2pzd-nBL2N04jOI2cBj9yZ2cEJVAAI0E2sbDw-hVxuYjjG6YCLVAQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJtGpx73vtvPGfb26Abbedu0ZgkCItAAIQF2sbDw-RV3d2aZLypVK2AQADAgADeAADPQQ.jpg)
+## 2026-08-06 09:49:50
 
-[📖 原文](https://nitter.net/xiaomustock/status/2085053224386744756#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0806-012001](#_0806-012001)
+**内容**:
+
+今天minimax纳入港股通了， a股能买到的最小的ai大模型公司。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJ0Wpz7C6zAAGZQqUS9d3o5gABB7ZlYMMAAqUPaxs4CaBXXZoiuQk2AAGcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2085181524555780491#m)
 
 ---
 
-## 2026-08-05 13:32:45  {#_0805-133245}
+## 2026-08-05 13:32:45
 
-🏷️ **[20260805](./tags/20260805.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 梁圣太权威了，它还没像kimi一样堆参数， 只是几个月突然公布出来一个接近全球顶级模型能力的版本，再把价格达到白菜价。 除此之外从不在公众视野中出现。 这么搞同样token预算，存储消耗量得倍增。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJzGpy0MERtqO9QMw98v-oNgFow8pPAAKfGWsbDw-ZVyLCCYfMX1NQAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJzGpy0MERtqO9QMw98v-oNgFow8pPAAKfGWsbDw-ZVyLCCYfMX1NQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2084875235833348532#m)
-
-[🔗 #0805-133245](#_0805-133245)
+[查看原文](https://nitter.net/xiaomustock/status/2084875235833348532#m)
 
 ---
 
-## 2026-08-04 21:26:48  {#_0804-212648}
+## 2026-08-04 04:12:45
 
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084632143427522800#m)
-
-[🔗 #0804-212648](#_0804-212648)
-
----
-
-## 2026-08-04 19:11:54  {#_0804-191154}
-
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
-
-光猛归猛一个都不敢买，业绩太虚了。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084598196257603847#m)
-
-[🔗 #0804-191154](#_0804-191154)
-
----
-
-## 2026-08-04 18:56:49  {#_0804-185649}
-
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
-
-这条光收发器的新闻查了一下ai， 利好cohr，lite，avgo，mrvl
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084594400685085136#m)
-
-[🔗 #0804-185649](#_0804-185649)
-
----
-
-## 2026-08-04 15:32:38  {#_0804-153238}
-
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
-
-市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJrWpxmEzxSsGdE3vIQ-YCxdkPR5NRAAJuFmsbDw-RV5sUTTvHhMdRAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084543015864119375#m)
-
-[🔗 #0804-153238](#_0804-153238)
-
----
-
-## 2026-08-04 15:26:12  {#_0804-152612}
-
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
-
-这暴跌了一大波，利好就冒出来了。 存储三巨头的2027年产能售罄。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJrWpxmEzxSsGdE3vIQ-YCxdkPR5NRAAJuFmsbDw-RV5sUTTvHhMdRAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084541396569215031#m)
-
-[🔗 #0804-152612](#_0804-152612)
-
----
-
-## 2026-08-04 14:11:29  {#_0804-141129}
-
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
-
-今天选择买有三个原因， 1.adr规则要求下，8.4号刚好是股东回报分红计划可以公布的最早时间点。 2.前几天反弹后大幅回撤回来，刚好今天价格比较理想。 3.大模型公司被ds 百万token 0.02人民币远低于1美分的定价打得集体降价，势必增加更大规模的存储需求。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJq2pxib6Vw4WcqO-i6nraOcUXf5dhAAJ7Emsbb9KJVxnNTIC7DxKMAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084522592044724542#m)
-
-[🔗 #0804-141129](#_0804-141129)
-
----
-
-## 2026-08-04 13:59:31  {#_0804-135931}
-
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
-
-刚接了一波韩股海力士156万韩元成本
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJq2pxib6Vw4WcqO-i6nraOcUXf5dhAAJ7Emsbb9KJVxnNTIC7DxKMAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084519583248208175#m)
-
-[🔗 #0804-135931](#_0804-135931)
-
----
-
-## 2026-08-04 04:12:45  {#_0804-041245}
-
-🏷️ **[20260804](./tags/20260804.html)** 今日关注
+**内容**:
 
 标记一下这些麻瓜机构， 他们清一色的下调了 $META 的目标价。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJn2pw_6v7MMtCmFVy4f6LM8xwr5cVAAKeEWsbb9KJV3nM5aNJUx73AQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJoGpw_677DhyQnojAotCC18lvlf3tAAKfEWsbb9KJVwWv1eJH5LrfAQADAgADeQADPQQ.jpg)
+## 2026-08-04 13:59:31
 
-[📖 原文](https://nitter.net/xiaomustock/status/2084371915268050945#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0804-041245](#_0804-041245)
+**内容**:
+
+刚接了一波韩股海力士156万韩元成本
 
 ---
 
-## 2026-08-03 23:46:13  {#_0803-234613}
+## 2026-08-04 14:11:29
 
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-我觉得如果韩老板真打算赔， 警方调查到黑客不是受害者本人自导自演，确有黑客在没有受害者邮箱密码，谷歌验证，手机短信和受害者本人人脸的情况下对gate的风控实施了一连串的突破， 那证据十分充足的指向了你们gate的风控人工审核人员的过错导致资产被盗。 就大大方方直接赔偿。 如果等官方定责，那gate保管用户资金属于民事，虚拟币在国内不受理民事案件，没法定责，韩老板你这不就成了啥流氓了么，只开一个空头支票。
+**内容**:
 
-[📖 原文](https://nitter.net/xiaomustock/status/2084304840700920281#m)
-
-[🔗 #0803-234613](#_0803-234613)
+今天选择买有三个原因， 1.adr规则要求下，8.4号刚好是股东回报分红计划可以公布的最早时间点。 2.前几天反弹后大幅回撤回来，刚好今天价格比较理想。 3.大模型公司被ds 百万token 0.02人民币远低于1美分的定价打得集体降价，势必增加更大规模的存储需求。
 
 ---
 
-## 2026-08-03 22:44:44  {#_0803-224444}
+## 2026-08-04 15:26:12
 
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-韩老板赶紧把你的公关和风控审核的人开了吧，全是脑残。 再搞下去你的印钞机就被员工拆了， 他们大不了换个工作。
+**内容**:
 
-[📖 原文](https://nitter.net/xiaomustock/status/2084289370396442668#m)
-
-[🔗 #0803-224444](#_0803-224444)
+这暴跌了一大波，利好就冒出来了。 存储三巨头的2027年产能售罄。
 
 ---
 
-## 2026-08-03 22:00:52  {#_0803-220052}
+## 2026-08-04 15:32:38
 
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-以后就是永远缺 $META 😂
+**内容**:
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJm2pwoTPfHT_1QgxRoNrKxEtOVbWeAALzEmsbb9KBV2j3N9bhws7jAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084278330908627293#m)
-
-[🔗 #0803-220052](#_0803-220052)
+市场预测的27年存储崩盘，结果暴跌一波又发新闻说2027全年的产能在26年年中就全卖完了。deepseek这个低价策略，搞的其他顶级模型都降价，那么用户1000美元的预算能多用好几倍的token量，存储消耗量暴增。
 
 ---
 
-## 2026-08-03 21:44:12  {#_0803-214412}
+## 2026-08-04 18:56:49
 
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-伟大的川沐给韭菜指明了方向， $META 市值翻转开始了， 都高估和恐惧市场波动的时候， 低估资产就成了救命稻草， meta是美版腾讯，全球社交统治者。
+**内容**:
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJnGpwoTfn0ZlGwWyeOKbntsCh4gJoAAL1Emsbb9KBVyazEcbISj2uAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjWpwAVV35kTqAAEF3uNlGIlw3FLtLAACcxFrG2_SgVdQSF1fgTa4YQEAAwIAA3kAAz0E.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjmpwAVgsfVtMsusSgDSheCjCjLSYAAJ0EWsbb9KBV7GhJgNt-uCzAQADAgADeQADPQQ.jpg)
-
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJj2pwAVzb9eedGElFF_3A8qmaC3z4AAJ1EWsbb9KBV4rvmwR_OSQtAQADAgADeQADPQQ.jpg)
-
-![图片 5](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkGpwAWBDnou-fygxsw284myzVn0sAAJ2EWsbb9KBV8uvpWAx4q-OAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084274135052746772#m)
-
-[🔗 #0803-214412](#_0803-214412)
+这条光收发器的新闻查了一下ai， 利好cohr，lite，avgo，mrvl
 
 ---
 
-## 2026-08-03 19:41:17  {#_0803-194117}
+## 2026-08-04 19:11:54
 
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-R to @xiaomustock: 当时这个特斯拉的合约图是我用btc合约给改的😂
+**内容**:
 
-[📖 原文](https://nitter.net/xiaomustock/status/2084243202547359820#m)
-
-[🔗 #0803-194117](#_0803-194117)
+光猛归猛一个都不敢买，业绩太虚了。
 
 ---
 
-## 2026-08-03 19:35:54  {#_0803-193554}
+## 2026-08-04 21:26:48
 
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-伟大的川沐一年前给交易所指明了方向， 现在每个交易所都这样了。
+**内容**:
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJmmpwhCJo0bS07Mo6TigLoanLWwptAAK4Emsbb9KBV99xxIYmOGfkAQADAgADeQADPQQ.jpg)
+存储爆拉吧，openai和anthropic这俩资本圈的硬菜没上，怎么能允许AI熄火。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2084241849322197282#m)
+<img src="/images/xiaomustock/media_HO4Z4W-a4AAY3BG.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0803-193554](#_0803-193554)
-
----
-
-## 2026-08-03 12:15:29  {#_0803-121529}
-
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
-
-存储都快到纳米硅原子级别了为啥还没蛋白分子级别的dna存储效率高？
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJlGpwHmXl1nV6JUzN6xisDCLxwRWYAALMEWsbb9KBV0BMxSjvi-_3AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084131012267896966#m)
-
-[🔗 #0803-121529](#_0803-121529)
+[查看原文](https://nitter.net/xiaomustock/status/2084632143427522800#m)
 
 ---
 
-## 2026-08-03 10:23:51  {#_0803-102351}
+## 2026-08-03 03:25:11
 
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-$META 相比于 $APPL 利润实际非常接近甚至如果meta像apple不搞巨额ai投入，meta利润大概率超过苹果。 市值meta只有1万亿，apple4万亿。 长期80%的毛利率，营收一直在增长。 算美股巨头里面最有性价比的了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjWpwAVV35kTqAAEF3uNlGIlw3FLtLAACcxFrG2_SgVdQSF1fgTa4YQEAAwIAA3kAAz0E.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJjmpwAVgsfVtMsusSgDSheCjCjLSYAAJ0EWsbb9KBV7GhJgNt-uCzAQADAgADeQADPQQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJj2pwAVzb9eedGElFF_3A8qmaC3z4AAJ1EWsbb9KBV4rvmwR_OSQtAQADAgADeQADPQQ.jpg)
-
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJkGpwAWBDnou-fygxsw284myzVn0sAAJ2EWsbb9KBV8uvpWAx4q-OAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2084102919658565889#m)
-
-[🔗 #0803-102351](#_0803-102351)
-
----
-
-## 2026-08-03 03:25:11  {#_0803-032511}
-
-🏷️ **[20260803](./tags/20260803.html)** 今日关注
+**内容**:
 
 这个gate被盗170万美金现在比较明晰， gate这波公关太抽象。 就是黑客没有掌握用户最新的谷歌验证也没掌握邮箱密码，也不知道手机验证码， 只是一直提交重置申请， 然后gate系统人脸不通过， gate开始给人工手持审核，把假得不能再假的手持给通过了， 黑客借此重置了谷歌验证，重置了邮箱， 添加了白名单地址， 然后最后提笔到从未用过的地址又一次被gate系统拦截， 然后人工审核给依据一份黑客声称的支付宝录屏给通过了， 也就是说gate系统审核中的人脸识别，谷歌验证，邮箱验证全都没通过，gate人工全给黑客的假的不能再假的资料过了。 没立案之前gate嘲讽用户说是用户自己的人脸比对，已经保留了视频和照片。 立案后gate说是他们系统没有保存人脸识别的视频和照片，只给识别结果😂 也就是说全程从头到尾都人脸识别异常，不管是系统还是人工，但最终gate依据支付宝就觉得是本人给过了。 自己的安全项认证全都不信，gate信没有人脸信息的支付宝录屏？ gate是不是提前声明了支付宝能作为你gate账户资产安全项的审核依据？ 那别人币安或者okx或者信用卡被盗是不是录个屏就能顺手盗你gate用户资产？因为看起来币安@binance 和 @okx 确实比gate安全点。就像支付宝在gate认知里比gate安全一样。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJh2pvm5hJ5dG8uRMtXvmVCxIj3BEnAAK0FWsbb9J5V8c_CRjYdLaRAQADAgADeAADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2083997560654663931#m)
+## 2026-08-03 10:23:51
 
-[🔗 #0803-032511](#_0803-032511)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$META 相比于 $APPL 利润实际非常接近甚至如果meta像apple不搞巨额ai投入，meta利润大概率超过苹果。 市值meta只有1万亿，apple4万亿。 长期80%的毛利率，营收一直在增长。 算美股巨头里面最有性价比的了。
 
 ---
 
-## 2026-08-02 17:49:37  {#_0802-174937}
+## 2026-08-03 12:15:29
 
-🏷️ **[20260802](./tags/20260802.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+存储都快到纳米硅原子级别了为啥还没蛋白分子级别的dna存储效率高？
+
+---
+
+## 2026-08-03 19:35:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+伟大的川沐一年前给交易所指明了方向， 现在每个交易所都这样了。
+
+---
+
+## 2026-08-03 19:41:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+R to @xiaomustock: 当时这个特斯拉的合约图是我用btc合约给改的😂
+
+---
+
+## 2026-08-03 21:44:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+伟大的川沐给韭菜指明了方向， $META 市值翻转开始了， 都高估和恐惧市场波动的时候， 低估资产就成了救命稻草， meta是美版腾讯，全球社交统治者。
+
+---
+
+## 2026-08-03 22:00:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+以后就是永远缺 $META 😂
+
+---
+
+## 2026-08-03 22:44:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韩老板赶紧把你的公关和风控审核的人开了吧，全是脑残。 再搞下去你的印钞机就被员工拆了， 他们大不了换个工作。
+
+---
+
+## 2026-08-03 23:46:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我觉得如果韩老板真打算赔， 警方调查到黑客不是受害者本人自导自演，确有黑客在没有受害者邮箱密码，谷歌验证，手机短信和受害者本人人脸的情况下对gate的风控实施了一连串的突破， 那证据十分充足的指向了你们gate的风控人工审核人员的过错导致资产被盗。 就大大方方直接赔偿。 如果等官方定责，那gate保管用户资金属于民事，虚拟币在国内不受理民事案件，没法定责，韩老板你这不就成了啥流氓了么，只开一个空头支票。
+
+[查看原文](https://nitter.net/xiaomustock/status/2084304840700920281#m)
+
+---
+
+## 2026-08-02 17:49:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 现在所有的ai回答又臭又长， 重点核心就几句话写八百行， 沟通没以前高效。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2083852712744235037#m)
-
-[🔗 #0802-174937](#_0802-174937)
+[查看原文](https://nitter.net/xiaomustock/status/2083852712744235037#m)
 
 ---
 
-## 2026-08-01 17:31:52  {#_0801-173152}
+## 2026-08-01 03:44:41
 
-🏷️ **[20260801](./tags/20260801.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-gate有放钱的赶紧走吧， 不要跟自己的资金安全过不去。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJeGptw0M6SZ2YPLB2i4zBRJ7CZ6HzAAJvE2sbW_9wVwt-GQnCnfK7AQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJeWptw0cZkY3-BdRxMkPi36AraUcUAAJwE2sbW_9wV44ZtCv9ksYSAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2083485858909528143#m)
-
-[🔗 #0801-173152](#_0801-173152)
-
----
-
-## 2026-08-01 17:27:32  {#_0801-172732}
-
-🏷️ **[20260801](./tags/20260801.html)** 今日关注
-
-亚马逊2026 年 Q2 电话会中文翻译 今年早些时候，我们表示，计划在2026年投入约2000亿美元现金资本开支（Cash CapEx）。 其中绝大部分将用于支持 AI 和 AWS 的基础设施建设以及相关人员投入。 我们非常清楚，这些投资将带来十分可观的财务回报。下面我解释原因。 这项投资主要由两部分组成： 第一部分是数据中心（Data Centers）； 第二部分是部署在数据中心里的服务器（Servers）和网络设备（Networking Equipment）。 这两部分资产具有完全不同的资本投入周期。 数据中心通常需要提前约两年开始建设。 待数据中心建成后，我们再将服务器部署进去，即可开始产生收入。 一个数据中心一旦正式投入运营、服务器上线，我们几乎立刻便开始获得大量收入，并且这些数据中心未来30年以上都可以持续创造收益，而无需再次投入最初建设数据中心所需的大规模资本。 相比之下，服务器和网络设备属于更新周期较短的资产。 通常，我们会在正式投入使用前几个月才采购这些设备。 在决定采购之前，我们已经能够非常清楚地看到客户需求。 如果没有需求，我们就不会投入服务器和网络设备的资本。 平均而言，这类服务器投资不到三年即可收回成本（Break Even）。 目前服务器的使用寿命至少约为5～6年。 而如今，大多数 AI 算力合同的签约期限至少都是5年。 这意味着，在服务器和网络设备实现回本之后的未来2～3年，它们将持续产生大量自由现金流。 另外值得注意的是，AWS 一直拥有非常优秀的记录，能够不断缩短服务器投资的回本周期。 我们已经取得了实质性的进展，能够在不影响客户体验的前提下延长服务器设备的使用寿命。 对于寿命超过30年的数据中心而言，我们预计至少能够经历5～6代服务器升级。 正如前面所说，第二代、第三代以及之后的服务器，其整体经济效益都会优于第一代。 原因在于，我们无需再次投入最初建设数据中心的巨额资本。 因此，在短期内，由于市场需求迫使我们必须提前同步建设大量数据中心，而这些数据中心尚未开始产生收入，所以资本开支（CapEx）会维持在很高水平，自由现金流也会承受压力。 直到这些数据中心陆续上线并开始商业化运营之后，这种压力才会缓解。 随着服务器投入使用几年之后，收入增长最终将超过新增资本开支的增长速度——这一阶段迟早会到来。 届时，公司所产生的收入、自由现金流以及投入资本回报率（ROIC）都会非常具有吸引力。 我们其实在第一代云计算时代就已经经历过类似的发展过程。 只不过，当年的需求增长速度远没有今天 AI 时代这么快，而是更加循序渐进。 我们看到，如今 AI 业务的利润率和投资回报率，与当年 AWS 云计算业务发展到相同阶段时非常相似，甚至还要略好一些。 目前，我们预计2026年的现金资本开支将达到约2200亿美元。 相比此前约2000亿美元的预期有所提高。 主要原因是内存（Memory）成本上涨，推高了整体资本开支。 不过，即便投入达到2200亿美元，我们在2026年的算力仍然不足以满足全部客户需求。 我认为，这种供不应求的局面在2027年仍将持续。 事实上，我们目前已经收到的2028年需求规模都令人震惊。 请记住，目前企业客户在生产环境中大规模部署 AI 推理（Inference）仍处于非常早期阶段。 长期以来，我们一直认为 AWS 能够成长为一家数千亿美元年收入规模的业务。 而现在，我们认为它至少能够达到此前预期的两倍，并且非常有可能最终成为一家年收入达到1万亿美元的业务。 与此同时，它还将拥有极具吸引力的自由现金流和投入资本回报率（ROIC）。 上面那么多跟ai废话文学一样总结一下就是 亚马逊26q2ai核心观点： 开支：2200亿美元（原2000亿美元），主要因HBM/内存涨价。 需求：2026、2027算力仍供不应求，2028需求已非常强劲。 投资回本周期：服务器投资&lt;3年回本，之后持续产生自由现金流。 数据中心寿命30+年，可支持5–6代服务器升级，后续ROI持续提升。 现金流状况：短期自由现金流承压，长期自由现金流和ROIC大幅增长。 AWS长期目标：年收入1万亿美元。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJemptw0rbI6yc_IE3Pb_jBSO_js0kAAJxE2sbW_9wV8dhIE9W7uYsAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2083484767644004434#m)
-
-[🔗 #0801-172732](#_0801-172732)
-
----
-
-## 2026-08-01 17:13:24  {#_0801-171324}
-
-🏷️ **[20260801](./tags/20260801.html)** 今日关注
-
-刚进入8月还有一件大事，AI界的卷王DeepSeek正式更新V4 Flash ，ds flash已经逼近GLM-5.2，价格只有十五分之一。 ds 的Coding Agent和软件工程能力大幅提升，在终端操作、代码仓库修改和复杂开发任务上的表现明显增强； ds的AI Agent和工具调用能力明显增强，更适合连续执行多步骤任务； 针对Codex也做了适配，更方便接入各类AI编程和Agent工具。 这次升级是冲着Coding和AI Agent来的， 而且pro版本也很快要发布，那到时候真是要准备对着Cladue的核心coding业务干。 最值得关注的点是ds只用了2840亿参数就实现了接近对手万亿参数规模的智能水平， 全世界可训练参数规模再往上堆可能也就kimi这种2万多亿，他们参数堆到极限再往上空间不大了。但ds还有10倍的堆参数空间，正儿八经的性能优化调参的工程级卷王。 这一波不仅冲击了国内模型定价连带也必然冲击了国外ai的定价，如果ds 的pro版本coding能力逼近claude和openai，那么他俩的高价也必然无法维持都得降价。 降价就会被动带来海量的用量提升，数据存储压力倍增，对存储又反而是利好。市场对存储最大的担忧就是长鑫这条鲶鱼，而不是对存储需求的担忧。但实际这种担忧对业绩的影响是远期的，这种利好和利空的左右脑互搏，市场肯定会上下来回震荡，直到存储紧缺到市场所有人都难受的时候，可能路径才会再次明确。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJd2ptu_6xY_l-Tab1o26OOdCbFQXuAAJgE2sbW_9wV6FeyQIELXd7AQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdmpttMG3Bq5ydTFawYZD3mEeSyvYAAJXE2sbW_9wVyW7R-2_5lqNAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2083481209561141749#m)
-
-[🔗 #0801-171324](#_0801-171324)
-
----
-
-## 2026-08-01 16:48:09  {#_0801-164809}
-
-🏷️ **[20260801](./tags/20260801.html)** 今日关注
-
-虽然过去一个月亏了35%，账户接近腰斩，但是今年存储带来的收益还能剩268%。 不再激进求获得多高的收益， 只求能稳定健康点，祝老板们以后财富长虹。回看真正稳妥的大机会都是黑天鹅式的， 去年关税战暴跌到170的台积电，80多的英伟达， 今年美伊战争暴跌下来的存储，美光，闪迪，铠侠，三星海力士，全都跌成了白菜价。 以及7月份的存储俩周时间闪崩腰斩， 市场是真不缺机会，更不缺黑天鹅。 以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。像闪迪能一天拉40%，1000拉到1400。 这种时间直接梭哈带来的收益远超每年持有apy或者qqq平均带来的15%左右年化。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdGpttLrZ2lsKiLHyaXJxLL0hF_hwAAJVE2sbW_9wV4uwA4II8MwxAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdWpttL0y8wXuskkVtKvJNulO4uaxAAJWE2sbW_9wV0BDFQ2N4md3AQADAgADeQADPQQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJCmpoL-tDug8M9IR1drDjq6nWzHHxAAKQEWsb6lBJVwH_FxaY375XAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2083474854507069903#m)
-
-[🔗 #0801-164809](#_0801-164809)
-
----
-
-## 2026-08-01 16:36:15  {#_0801-163615}
-
-🏷️ **[20260801](./tags/20260801.html)** 今日关注
-
-刚进8月来了个鬼故事， 长鑫存储的lpddr6研发几乎完成，下半年就开始量产。 长鑫可以侵蚀掉dram份额， 不过三巨头的核心是hbm4，以及未来存算一体三位堆叠光电融合的共封装，这部分是 涉及到英伟达算力的hbm不可能撼动。美国佬不可能把算力交给长鑫来打包，而这是真正存储市场的爆发式的增长点。 长鑫吃国内厂商合作的存算一体hbm的算力基建也足够了，国家层面刚发了4万亿算力基建。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJdmpttMG3Bq5ydTFawYZD3mEeSyvYAAJXE2sbW_9wVyW7R-2_5lqNAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2083471859576979783#m)
-
-[🔗 #0801-163615](#_0801-163615)
-
----
-
-## 2026-08-01 03:44:41  {#_0801-034441}
-
-🏷️ **[20260801](./tags/20260801.html)** 今日关注
+**内容**:
 
 不想发大财也不想赚更多的钱或者以往冒很大风险了。最近这一个月体感太差。 趁着meta财报暴跌了一波.把这俩天抄底解脱卖出来的钱刚553刀买了点 $META 占个1/5仓。 meta这个长期80%毛利，18%的年营收增速和类似腾讯社交的全球社交地位，这点一万亿市值还是令人着迷。 对比纠结了半天都处于财报暴跌的苹果和meta，一个4万亿一个1万亿，最终还是选了个meta数据上长期拿胜率更高点，营收增速下5年后4000亿美金，80%毛利就能冲到3000亿美金毛利，相比现在这个市值对我自己来说还挺心动。希望以后meta别瞎折腾了，搞搞新出的云业务可能比他之前一直瞎搞好，搞了一堆啥都参与了啥都没成。 后面不想像以前那么激进操作了，万一真遇到啥更大规模的黑天鹅人干没了没必要，把spy和qqq配置得提上日程，只用小于一半的资金撸最热的大市值概念，猥琐狗起来，降低预期，不贪就不返贫。 也降低发推欲望，时间花在打游戏和看资料看书洗脚按摩上肯定比一直盯着股票和推特更开心。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJYWps_w-6VpTrGwWLSwOPWyB5DRv1AAIPE2sbdvdpV_HvBSWQBytQAQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJYmps_xMrXiv-QKV8jwxE8SGmfeKbAAIQE2sbdvdpV9mU2d2sL1DhAQADAgADeQADPQQ.jpg)
+## 2026-08-01 16:36:15
 
-[📖 原文](https://nitter.net/xiaomustock/status/2083277688824095080#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0801-034441](#_0801-034441)
+**内容**:
+
+刚进8月来了个鬼故事， 长鑫存储的lpddr6研发几乎完成，下半年就开始量产。 长鑫可以侵蚀掉dram份额， 不过三巨头的核心是hbm4，以及未来存算一体三位堆叠光电融合的共封装，这部分是 涉及到英伟达算力的hbm不可能撼动。美国佬不可能把算力交给长鑫来打包，而这是真正存储市场的爆发式的增长点。 长鑫吃国内厂商合作的存算一体hbm的算力基建也足够了，国家层面刚发了4万亿算力基建。
 
 ---
 
-## 2026-07-30 21:30:28  {#_0730-213028}
+## 2026-08-01 16:48:09
 
-🏷️ **[20260730](./tags/20260730.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+虽然过去一个月亏了35%，账户接近腰斩，但是今年存储带来的收益还能剩268%。 不再激进求获得多高的收益， 只求能稳定健康点，祝老板们以后财富长虹。回看真正稳妥的大机会都是黑天鹅式的， 去年关税战暴跌到170的台积电，80多的英伟达， 今年美伊战争暴跌下来的存储，美光，闪迪，铠侠，三星海力士，全都跌成了白菜价。 以及7月份的存储俩周时间闪崩腰斩， 市场是真不缺机会，更不缺黑天鹅。 以后打算长期保持个30%现金仓位学巴菲特蹲黑天鹅机会再下手，其他时间一点不动。像闪迪能一天拉40%，1000拉到1400。 这种时间直接梭哈带来的收益远超每年持有apy或者qqq平均带来的15%左右年化。
+
+---
+
+## 2026-08-01 17:13:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+刚进入8月还有一件大事，AI界的卷王DeepSeek正式更新V4 Flash ，ds flash已经逼近GLM-5.2，价格只有十五分之一。 ds 的Coding Agent和软件工程能力大幅提升，在终端操作、代码仓库修改和复杂开发任务上的表现明显增强； ds的AI Agent和工具调用能力明显增强，更适合连续执行多步骤任务； 针对Codex也做了适配，更方便接入各类AI编程和Agent工具。 这次升级是冲着Coding和AI Agent来的， 而且pro版本也很快要发布，那到时候真是要准备对着Cladue的核心coding业务干。 最值得关注的点是ds只用了2840亿参数就实现了接近对手万亿参数规模的智能水平， 全世界可训练参数规模再往上堆可能也就kimi这种2万多亿，他们参数堆到极限再往上空间不大了。但ds还有10倍的堆参数空间，正儿八经的性能优化调参的工程级卷王。 这一波不仅冲击了国内模型定价连带也必然冲击了国外ai的定价，如果ds 的pro版本coding能力逼近claude和openai，那么他俩的高价也必然无法维持都得降价。 降价就会被动带来海量的用量提升，数据存储压力倍增，对存储又反而是利好。市场对存储最大的担忧就是长鑫这条鲶鱼，而不是对存储需求的担忧。但实际这种担忧对业绩的影响是远期的，这种利好和利空的左右脑互搏，市场肯定会上下来回震荡，直到存储紧缺到市场所有人都难受的时候，可能路径才会再次明确。
+
+---
+
+## 2026-08-01 17:27:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+亚马逊2026 年 Q2 电话会中文翻译 今年早些时候，我们表示，计划在2026年投入约2000亿美元现金资本开支（Cash CapEx）。 其中绝大部分将用于支持 AI 和 AWS 的基础设施建设以及相关人员投入。 我们非常清楚，这些投资将带来十分可观的财务回报。下面我解释原因。 这项投资主要由两部分组成： 第一部分是数据中心（Data Centers）； 第二部分是部署在数据中心里的服务器（Servers）和网络设备（Networking Equipment）。 这两部分资产具有完全不同的资本投入周期。 数据中心通常需要提前约两年开始建设。 待数据中心建成后，我们再将服务器部署进去，即可开始产生收入。 一个数据中心一旦正式投入运营、服务器上线，我们几乎立刻便开始获得大量收入，并且这些数据中心未来30年以上都可以持续创造收益，而无需再次投入最初建设数据中心所需的大规模资本。 相比之下，服务器和网络设备属于更新周期较短的资产。 通常，我们会在正式投入使用前几个月才采购这些设备。 在决定采购之前，我们已经能够非常清楚地看到客户需求。 如果没有需求，我们就不会投入服务器和网络设备的资本。 平均而言，这类服务器投资不到三年即可收回成本（Break Even）。 目前服务器的使用寿命至少约为5～6年。 而如今，大多数 AI 算力合同的签约期限至少都是5年。 这意味着，在服务器和网络设备实现回本之后的未来2～3年，它们将持续产生大量自由现金流。 另外值得注意的是，AWS 一直拥有非常优秀的记录，能够不断缩短服务器投资的回本周期。 我们已经取得了实质性的进展，能够在不影响客户体验的前提下延长服务器设备的使用寿命。 对于寿命超过30年的数据中心而言，我们预计至少能够经历5～6代服务器升级。 正如前面所说，第二代、第三代以及之后的服务器，其整体经济效益都会优于第一代。 原因在于，我们无需再次投入最初建设数据中心的巨额资本。 因此，在短期内，由于市场需求迫使我们必须提前同步建设大量数据中心，而这些数据中心尚未开始产生收入，所以资本开支（CapEx）会维持在很高水平，自由现金流也会承受压力。 直到这些数据中心陆续上线并开始商业化运营之后，这种压力才会缓解。 随着服务器投入使用几年之后，收入增长最终将超过新增资本开支的增长速度——这一阶段迟早会到来。 届时，公司所产生的收入、自由现金流以及投入资本回报率（ROIC）都会非常具有吸引力。 我们其实在第一代云计算时代就已经经历过类似的发展过程。 只不过，当年的需求增长速度远没有今天 AI 时代这么快，而是更加循序渐进。 我们看到，如今 AI 业务的利润率和投资回报率，与当年 AWS 云计算业务发展到相同阶段时非常相似，甚至还要略好一些。 目前，我们预计2026年的现金资本开支将达到约2200亿美元。 相比此前约2000亿美元的预期有所提高。 主要原因是内存（Memory）成本上涨，推高了整体资本开支。 不过，即便投入达到2200亿美元，我们在2026年的算力仍然不足以满足全部客户需求。 我认为，这种供不应求的局面在2027年仍将持续。 事实上，我们目前已经收到的2028年需求规模都令人震惊。 请记住，目前企业客户在生产环境中大规模部署 AI 推理（Inference）仍处于非常早期阶段。 长期以来，我们一直认为 AWS 能够成长为一家数千亿美元年收入规模的业务。 而现在，我们认为它至少能够达到此前预期的两倍，并且非常有可能最终成为一家年收入达到1万亿美元的业务。 与此同时，它还将拥有极具吸引力的自由现金流和投入资本回报率（ROIC）。 上面那么多跟ai废话文学一样总结一下就是 亚马逊26q2ai核心观点： 开支：2200亿美元（原2000亿美元），主要因HBM/内存涨价。 需求：2026、2027算力仍供不应求，2028需求已非常强劲。 投资回本周期：服务器投资<3年回本，之后持续产生自由现金流。 数据中心寿命30+年，可支持5–6代服务器升级，后续ROI持续提升。 现金流状况：短期自由现金流承压，长期自由现金流和ROIC大幅增长。 AWS长期目标：年收入1万亿美元。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJemptw0rbI6yc_IE3Pb_jBSO_js0kAAJxE2sbW_9wV8dhIE9W7uYsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2083484767644004434#m)
+
+---
+
+## 2026-08-01 17:31:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+gate有放钱的赶紧走吧， 不要跟自己的资金安全过不去。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJeGptw0M6SZ2YPLB2i4zBRJ7CZ6HzAAJvE2sbW_9wVwt-GQnCnfK7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJeWptw0cZkY3-BdRxMkPi36AraUcUAAJwE2sbW_9wV44ZtCv9ksYSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2083485858909528143#m)
+
+---
+
+## 2026-07-30 21:30:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 能拉盘了吧，跌了一个多月。 【2026-07-30 21:28:59】 白宫国家经济委员会主任哈塞特：我并不认为市场由于AI方面的进展处于泡沫状态。 (金十数据APP)
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJQGprWZanih5HztnDailJBJ0Q4ItIAAKEFWsbUsJZV6VdzIQc2G6HAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJQGprWZanih5HztnDailJBJ0Q4ItIAAKEFWsbUsJZV6VdzIQc2G6HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2082821127613927926#m)
-
-[🔗 #0730-213028](#_0730-213028)
+[查看原文](https://nitter.net/xiaomustock/status/2082821127613927926#m)
 
 ---
 
-## 2026-07-28 21:17:08  {#_0728-211708}
+## 2026-07-28 10:44:16
 
-🏷️ **[20260728](./tags/20260728.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-看到一句话， 人类往往高估了一年内的变化， 同时也低估了10年后的变化。 最近亏到迷茫和自我怀疑， 存储真是盈亏同源的一波， 今年赚钱是因为存储， 亏钱还是因为存储。 巴菲特真是太牛逼， 他能在资本市场活这么久，肉体也能活这么久，跟他没杠杆，一直没满仓的操作风格肯定多少有关系，像我们普通人可能为了暴富上杠杆焦虑得睡不着觉，或者富了以后一直带杠杆亏盈都焦虑。 看他公司股价历史也无数次腰斩过， 但过几年还是能不断新高。 亏成这样，事已至此， 我在想以后我应该以什么样心态炒股票， 我应该以什么样眼光再看待未来， 去年的时候跟朋友一起抄底过300左右联合健康，拿了小半年毫无反应跑了，最近每次想到巴菲特的时候都想起来他在任时候最后也抄了联合健康，再去看的时候已经400多。什么样的心态才能做到他这种耐心愿意等待非常久获得收益。 对我们散户青春宝贵， 每次大幅回撤我都有一种时间的蹉跎感， 即使以后涨回来，除了劫后余生的轻松， 我总感觉有一部分的我在承受亏损的过程中死了，少了少年气。 但巴菲特面对回撤暴跌可能是真的兴奋，他的闲置仓位太多了全是货币资金，可能闲钱足够多就是他耐心和长寿的主因。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJDmposrmYOi9SyR8U7zNFQzVZYqfmAAIcE2sb6lBJV-_tyOmp-6xLAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2082092997622280410#m)
-
-[🔗 #0728-211708](#_0728-211708)
-
----
-
-## 2026-07-28 13:05:10  {#_0728-130510}
-
-🏷️ **[20260728](./tags/20260728.html)** 今日关注
-
-释怀了，听泉也炒股， 因为劝爸妈拿养老金炒股， 被爹妈都拉黑掉😂
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJC2poPnTzKDyjXUmNtFE3P49830gBAALPEWsb6lBJV2gz_GZenFG_AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2081969190198706642#m)
-
-[🔗 #0728-130510](#_0728-130510)
-
----
-
-## 2026-07-28 12:07:48  {#_0728-120748}
-
-🏷️ **[20260728](./tags/20260728.html)** 今日关注
-
-现在亏的呼吸都是痛的， 上个月要是那天清仓真不玩了， 真的他妈的天麻，现在是血亏，骨髓都亏出来了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJCmpoL-tDug8M9IR1drDjq6nWzHHxAAKQEWsb6lBJVwH_FxaY375XAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDimo6SocJj3E9V83o3lzcIxtvTdXgAAI8D2sbMUvQVeH9jQVKRBO7AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2081954751147876406#m)
-
-[🔗 #0728-120748](#_0728-120748)
-
----
-
-## 2026-07-28 10:44:16  {#_0728-104416}
-
-🏷️ **[20260728](./tags/20260728.html)** 今日关注
+**内容**:
 
 亏钱亏的超出认知了， 真他娘的最美的故事套最多的家人。 反弹给个机会再不玩了
 
-[📖 原文](https://nitter.net/xiaomustock/status/2081933731833794688#m)
+---
 
-[🔗 #0728-104416](#_0728-104416)
+## 2026-07-28 12:07:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+现在亏的呼吸都是痛的， 上个月要是那天清仓真不玩了， 真的他妈的天麻，现在是血亏，骨髓都亏出来了。
 
 ---
 
-## 2026-07-27 22:40:04  {#_0727-224004}
+## 2026-07-28 13:05:10
 
-🏷️ **[20260727](./tags/20260727.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-我买到了美股百年大顶
+**内容**:
 
-[📖 原文](https://nitter.net/xiaomustock/status/2081751480021946522#m)
-
-[🔗 #0727-224004](#_0727-224004)
+释怀了，听泉也炒股， 因为劝爸妈拿养老金炒股， 被爹妈都拉黑掉😂
 
 ---
 
-## 2026-07-27 18:30:14  {#_0727-183014}
+## 2026-07-28 21:17:08
 
-🏷️ **[20260727](./tags/20260727.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看到一句话， 人类往往高估了一年内的变化， 同时也低估了10年后的变化。 最近亏到迷茫和自我怀疑， 存储真是盈亏同源的一波， 今年赚钱是因为存储， 亏钱还是因为存储。 巴菲特真是太牛逼， 他能在资本市场活这么久，肉体也能活这么久，跟他没杠杆，一直没满仓的操作风格肯定多少有关系，像我们普通人可能为了暴富上杠杆焦虑得睡不着觉，或者富了以后一直带杠杆亏盈都焦虑。 看他公司股价历史也无数次腰斩过， 但过几年还是能不断新高。 亏成这样，事已至此， 我在想以后我应该以什么样心态炒股票， 我应该以什么样眼光再看待未来， 去年的时候跟朋友一起抄底过300左右联合健康，拿了小半年毫无反应跑了，最近每次想到巴菲特的时候都想起来他在任时候最后也抄了联合健康，再去看的时候已经400多。什么样的心态才能做到他这种耐心愿意等待非常久获得收益。 对我们散户青春宝贵， 每次大幅回撤我都有一种时间的蹉跎感， 即使以后涨回来，除了劫后余生的轻松， 我总感觉有一部分的我在承受亏损的过程中死了，少了少年气。 但巴菲特面对回撤暴跌可能是真的兴奋，他的闲置仓位太多了全是货币资金，可能闲钱足够多就是他耐心和长寿的主因。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIJDmposrmYOi9SyR8U7zNFQzVZYqfmAAIcE2sb6lBJV-_tyOmp-6xLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2082092997622280410#m)
+
+---
+
+## 2026-07-27 11:31:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+---
+
+## 2026-07-27 18:30:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
 
 gate这一路的操作真是离谱， 催受害人报警立案， 真立案了又刁难推诿踢皮球就是不配合调查。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII82pnQBkAAVT-KjAAAcyoPsIDItUqzhQAAmYWaxudUzlXv7L6F7ERlksBAAMCAAN5AAM9BA.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII9GpnQB2Q_24jh8772iJ3N_NwuwTQAAJnFmsbnVM5V7Wzv4wKYIlyAQADAgADeQADPQQ.jpg)
+## 2026-07-27 22:40:04
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII9WpnQCHWSaLxV-6oZqu8ZaU01zwWAAJoFmsbnVM5V8yHKSLUtWL6AQADAgADeQADPQQ.jpg)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII9mpnQCUeRpeDcH9RlXU9YkCMYQtkAAJpFmsbnVM5V1cLOzFBA5sDAQADAgADeQADPQQ.jpg)
+**内容**:
 
-[📖 原文](https://nitter.net/xiaomustock/status/2081688609078538487#m)
+我买到了美股百年大顶
 
-[🔗 #0727-183014](#_0727-183014)
+[查看原文](https://nitter.net/xiaomustock/status/2081751480021946522#m)
 
 ---
 
-## 2026-07-27 11:31:31  {#_0727-113131}
+## 2026-07-26 09:02:49
 
-🏷️ **[20260727](./tags/20260727.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII6Gpm0xeLBnvDaTwCdJK7NStDG1E1AAJkFWsbnVM5V_SM3p7Ruw-oAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII6Wpm0xvViyqCMHbw383dLhbbWQ7WAAJlFWsbnVM5V1e4HOmD9-fCAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2081583233792413948#m)
-
-[🔗 #0727-113131](#_0727-113131)
-
----
-
-## 2026-07-26 10:21:15  {#_0726-102115}
-
-🏷️ **[20260726](./tags/20260726.html)** 今日关注
-
-市场还有一个非常严重的误区， 大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多， 但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。 马斯克已经因为买卡赚死了。 而我们大陆，只能买3倍价格的卡， 美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。 其他成本占比如人力成本和电力成本占比都很低， ai研究本身是人才密度极高的行业，员工数都极其少。 电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2081203163928109207#m)
-
-[🔗 #0726-102115](#_0726-102115)
-
----
-
-## 2026-07-26 09:02:49  {#_0726-090249}
-
-🏷️ **[20260726](./tags/20260726.html)** 今日关注
 
 只有存储是真缺，负现金流问题几个月后再看谷歌营收就有答案了。ds拿着低效的华为烂卡用低价策略的回报速度都只有10个月， 谷歌这些云厂和claude他们投资回报的转化速度可以更快。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAII2mplYHwNskcLeOD5uHqFvM9x7CmRAAJKEmsbze4pV6Bo25FLEHwVAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2081183424342270321#m)
+## 2026-07-26 10:21:15
 
-[🔗 #0726-090249](#_0726-090249)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+
+市场还有一个非常严重的误区， 大陆ai投1000亿人民币，美区投1万亿美金，看起来美国佬投这么多钱搞出来的大模型实力水平都差不多， 但是投出去的钱大都买的是算力卡存储卡cpu卡，这些大陆买不仅不会更便宜反而更贵，都是能转化成收入的印钞机。 马斯克已经因为买卡赚死了。 而我们大陆，只能买3倍价格的卡， 美国佬投1万亿美金就是拿到了可以转化成1万亿美金收入的ai基建印钞机。 其他成本占比如人力成本和电力成本占比都很低， ai研究本身是人才密度极高的行业，员工数都极其少。 电力成本是平民化的东西也非常低，而且电力建设一直都是养老的印钞机也不可能亏损。
+
+[查看原文](https://nitter.net/xiaomustock/status/2081203163928109207#m)
 
 ---
 
-## 2026-07-24 12:07:54  {#_0724-120754}
+## 2026-07-24 00:50:43
 
-🏷️ **[20260724](./tags/20260724.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-如果爆亏了， 交易也是全球最大的知识付费市场， 就问你获没获得知识， 花没花钱。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2080505226398994837#m)
-
-[🔗 #0724-120754](#_0724-120754)
-
----
-
-## 2026-07-24 00:50:43  {#_0724-005043}
-
-🏷️ **[20260724](./tags/20260724.html)** 今日关注
 
 交易是最好玩的对手最多的全球竞技游戏
 
-[📖 原文](https://nitter.net/xiaomustock/status/2080334809445118410#m)
+---
 
-[🔗 #0724-005043](#_0724-005043)
+## 2026-07-24 12:07:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+
+如果爆亏了， 交易也是全球最大的知识付费市场， 就问你获没获得知识， 花没花钱。
+
+[查看原文](https://nitter.net/xiaomustock/status/2080505226398994837#m)
 
 ---
 
-## 2026-07-23 22:48:01  {#_0723-224801}
+## 2026-07-23 21:33:32
 
-🏷️ **[20260723](./tags/20260723.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-抄谷歌赌财报结果跌成麻瓜，按照梁总的卡10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股sk结果最垃圾。其他的存储天天涨。美光和sndk卖掉的钱买的谷歌🌚 太几把脸黑了我日呐
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIkmpiHM0pYqh4LvfxVhMAAQbjeuZ_yQAC9RJrG5yZEFcKx5AHE2tUvAEAAwIAA3kAAz0E.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIk2piHNKxqD1HOHH7V39WpAr2ITgNAAL2EmsbnJkQVyVE08RNvB50AQADAgADeQADPQQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIlGpiHNZSdyqvncFaAAGS5UTAhb6sMAAC9xJrG5yZEFecSLMX1JRo1gEAAwIAA3kAAz0E.jpg)
-
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIlWpiHNpvFunfrQABNc7-2ASFCc060wAC-BJrG5yZEFfee5GLGXak0gEAAwIAA3kAAz0E.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2080303930479972472#m)
-
-[🔗 #0723-224801](#_0723-224801)
-
----
-
-## 2026-07-23 21:33:32  {#_0723-213332}
-
-🏷️ **[20260723](./tags/20260723.html)** 今日关注
 
 最近亏的也不想说话了， 早晨看完梁文锋的这个总结觉得有意思的点划了一下。做个记录。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIkmpiHM0pYqh4LvfxVhMAAQbjeuZ_yQAC9RJrG5yZEFcKx5AHE2tUvAEAAwIAA3kAAz0E.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIk2piHNKxqD1HOHH7V39WpAr2ITgNAAL2EmsbnJkQVyVE08RNvB50AQADAgADeQADPQQ.jpg)
+## 2026-07-23 22:48:01
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIlGpiHNZSdyqvncFaAAGS5UTAhb6sMAAC9xJrG5yZEFecSLMX1JRo1gEAAwIAA3kAAz0E.jpg)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIlWpiHNpvFunfrQABNc7-2ASFCc060wAC-BJrG5yZEFfee5GLGXak0gEAAwIAA3kAAz0E.jpg)
 
-[📖 原文](https://nitter.net/xiaomustock/status/2080285184080118126#m)
+抄谷歌赌财报结果跌成麻瓜，按照梁总的卡10个月回本周期，谷歌的定价更贵云厂投入回本不成问题。存储反弹起来的时候把其他的清了留了韩股sk结果最垃圾。其他的存储天天涨。美光和sndk卖掉的钱买的谷歌🌚 太几把脸黑了我日呐
 
-[🔗 #0723-213332](#_0723-213332)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIkmpiHM0pYqh4LvfxVhMAAQbjeuZ_yQAC9RJrG5yZEFcKx5AHE2tUvAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIk2piHNKxqD1HOHH7V39WpAr2ITgNAAL2EmsbnJkQVyVE08RNvB50AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIlGpiHNZSdyqvncFaAAGS5UTAhb6sMAAC9xJrG5yZEFecSLMX1JRo1gEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIlWpiHNpvFunfrQABNc7-2ASFCc060wAC-BJrG5yZEFfee5GLGXak0gEAAwIAA3kAAz0E.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2080303930479972472#m)
 
 ---
 
-## 2026-07-22 13:31:19  {#_0722-133119}
+## 2026-07-22 11:01:57
 
-🏷️ **[20260722](./tags/20260722.html)** 今日关注
-
-棒子自杀了，我昨天正股加仓价1280，现在1264
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIWmpgWgXBZe3JhYIt_PkfF_D9Is5JAALKE2sbKZ0BVxDco54qXb5qAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079801442282734061#m)
-
-[🔗 #0722-133119](#_0722-133119)
-
----
-
-## 2026-07-22 12:27:09  {#_0722-122709}
-
-🏷️ **[20260722](./tags/20260722.html)** 今日关注
-
-量子闪存（Quantum Flash） 是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。 性能指标 量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。 去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIWGpgS3x2xWml7OaldenFzbJtV4s7AAKyE2sbKZ0BV47DKj5Grr3YAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIWWpgS38kNE5OXdfN-0iYoI5LN7q3AAKzE2sbKZ0BV6ppN4lYxmwoAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079785296787554614#m)
-
-[🔗 #0722-122709](#_0722-122709)
-
----
-
-## 2026-07-22 11:01:57  {#_0722-110157}
-
-🏷️ **[20260722](./tags/20260722.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 昨天openai的模型在沙盒环境下逃逸了， 出去攻击了huggung face系统偷答案。 这玩意真是越来越像终结者， 克服未来的恐惧就是捏住ai的蛋蛋。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIU2pgPPOdy2auRaWUI6XVAjo-1CarAAKXE2sbKZ0BV67n0sXzp_mqAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2079763854675095779#m)
+## 2026-07-22 12:27:09
 
-[🔗 #0722-110157](#_0722-110157)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+量子闪存（Quantum Flash） 是复旦大学周鹏、刘春森团队研发的一种室温单电子非易失性存储技术。该技术于2026年7月17日在国际学术期刊《科学》（Science）主刊上发表，通过独创的“归壹”结构（共面漏极-沟道-源极结构）和“态密度剪刀”理论，成功在室温（27℃）环境下实现了单个电子对单个比特信息的稳定存储，传统技术需要数万电子存单个比特。 性能指标 量子闪存实现了“一电子一比特”的理论极限存储密度，相比传统技术所需电子数减少了数万倍。该技术首次在室温（27℃）环境下实现了清晰的单电子非易失性存储观测，打破了需极低温环境的限制。单个电子注入产生的存储窗口（阈值电压偏移）达到0.5伏特，远超此前报道的55毫伏，且数据保持时间长达10年以上。此外，该技术可与现有的CMOS硅工艺兼容，为产业化应用奠定了基础。 去年4月，周鹏-刘春森团队于《自然》（Nature）期刊提出“破晓（PoX）”器件，实现了世界最快400皮秒超高速非易失存储，解决了自1967年浮栅晶体管发明后，高速与非易失无法兼得的基础性难题。
 
 ---
 
-## 2026-07-21 22:04:56  {#_0721-220456}
+## 2026-07-22 13:31:19
 
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-有点后悔减仓1/3的韩股海力士， 刚追回来又加仓到4000， 万一下周一a股长鑫市值拉特别高把韩股海力士带起来，仓位不够重只能做小孩一桌。
+棒子自杀了，我昨天正股加仓价1280，现在1264
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPmpfPpukGTf3MDqd9SZ3Oi6vS1sxAAIoGmsbHzQBVyzFHvTSuKSHAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIWmpgWgXBZe3JhYIt_PkfF_D9Is5JAALKE2sbKZ0BVxDco54qXb5qAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2079568310665195599#m)
-
-[🔗 #0721-220456](#_0721-220456)
+[查看原文](https://nitter.net/xiaomustock/status/2079801442282734061#m)
 
 ---
 
-## 2026-07-21 21:53:30  {#_0721-215330}
+## 2026-07-21 12:20:25
 
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-把闪迪和美光卖飞了我日
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIQ2pfgAQPvhaWDcfeRZFzEz1BpXvwAAJMG2sbHzQBV5dBX6qvkXZBAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079565433947177281#m)
-
-[🔗 #0721-215330](#_0721-215330)
-
----
-
-## 2026-07-21 21:10:24  {#_0721-211024}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-亏完的时候就躺着天天放羊了。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079554587095339447#m)
-
-[🔗 #0721-211024](#_0721-211024)
-
----
-
-## 2026-07-21 17:51:06  {#_0721-175106}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-长鑫如果市值被国内炒到6万亿跟海力士一个市值，那能变相的直接把韩股海力士拉飞。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079504430500868500#m)
-
-[🔗 #0721-175106](#_0721-175106)
-
----
-
-## 2026-07-21 17:22:10  {#_0721-172210}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-韩股海力士减了1/3，剩下2000股， 再卖剁手，卖顺手就想着全卖， 最难的事情真是不是买啥卖啥， 而是拿着钱或者股票保持定力不买或者不卖。太难了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPmpfPpukGTf3MDqd9SZ3Oi6vS1sxAAIoGmsbHzQBVyzFHvTSuKSHAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-Wpc8f_DFX5id79eH7JgpKZL2BZ4AAKjD2sbe_LpVovCPmKfY6dOAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079497152200655322#m)
-
-[🔗 #0721-172210](#_0721-172210)
-
----
-
-## 2026-07-21 14:44:28  {#_0721-144428}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-今天科创50的190期权涨了十几倍， 随时能买随时能卖， 太几把离谱。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOGpfGkTaQQ-gx6dy_5UYQbF9RI7UAAKLGGsbHzQBV2SrU8C6E8rPAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079457465599742072#m)
-
-[🔗 #0721-144428](#_0721-144428)
-
----
-
-## 2026-07-21 14:34:23  {#_0721-143423}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-光互连的迈威尔 $MRVL 205.6抄了一下。 现在看着mrvl和康宁都很有性价比， 不过mrvl故事的业绩来的更快
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIOWpfGkg3QbQKybFNgJpg2cExktRrAAKMGGsbHzQBV1S6Ylab0Or2AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079454924686103020#m)
-
-[🔗 #0721-143423](#_0721-143423)
-
----
-
-## 2026-07-21 14:20:58  {#_0721-142058}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-祖传u扫货了谷歌 $GOOGL 和 $GGLL 成本356和111.9 云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINmpfEwABgnWtYU5kgAiPlb6x_3LCNwACMxhrGx80AVcO78z3gj2AlwEAAwIAA3kAAz0E.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIN2pfEwNZDDbV1IsMhwyYfnf2R8XPAAI0GGsbHzQBVzOmc6d6tx_0AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079451551576584311#m)
-
-[🔗 #0721-142058](#_0721-142058)
-
----
-
-## 2026-07-21 13:24:01  {#_0721-132401}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-去他娘的都不想要了。snxx，muu，7709全卖了， 留了韩股正股。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIINGpfBHsw6wGRNujJkFapJljBbmoiAAIKF2sbHzT5VijEJ-Etr9QIAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKmpe9e1ldwRkWYs1beNhVEW081AZAAJSFmsbHzT5VmySfR9FGb8AAQEAAwIAA3gAAz0E.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079437217060327818#m)
-
-[🔗 #0721-132401](#_0721-132401)
-
----
-
-## 2026-07-21 12:45:06  {#_0721-124506}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-卸载同花顺就暴力v， 他这个被量化可能抓取成操作指标了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIMWpe_TIS-wG935_as1-Af2PKyeIWAAKwFmsbHzT5ViAm41_mn3JPAQADAgADeAADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHt2paDMcT09mwlwlBcBgV9haTP5lmAAKiEmsbxKvRVjfUDrg1Hd6VAQADAgADeAADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079427422731288973#m)
-
-[🔗 #0721-124506](#_0721-124506)
-
----
-
-## 2026-07-21 12:36:20  {#_0721-123620}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-回本路上遥遥无期呐， 过去一个月亏的疼的一逼。 别的品种不敢搞呐，希望下午韩股海力士涨停熔断。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIMmpe_Ta10DYXbWLyMlMEUvyL13OkAAKxFmsbHzT5VpPL1usmA-qJAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHDmpUpyWffwUU9VnCuU5E2utbmZiuAAKVD2sbNGmhVq24Zpq9LPLiAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079425218918105099#m)
-
-[🔗 #0721-123620](#_0721-123620)
-
----
-
-## 2026-07-21 12:32:15  {#_0721-123215}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-韩股海力士这个成本非常满意， 所以也不想卖，极其便宜他娘的，历史大底， 韩国佬自己就不能争点气，赚那么多钱维护一下自己股价。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079424189354905847#m)
-
-[🔗 #0721-123215](#_0721-123215)
-
----
-
-## 2026-07-21 12:24:29  {#_0721-122429}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
-
-soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 然后看看能买个啥后面再考虑考虑。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIKmpe9e1ldwRkWYs1beNhVEW081AZAAJSFmsbHzT5VmySfR9FGb8AAQEAAwIAA3gAAz0E.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHimpZFbdffwcdi3_JPw2zgDqRdq47AAJ4D2sbwyfJVojS1TiwaQeSAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079422236650570055#m)
-
-[🔗 #0721-122429](#_0721-122429)
-
----
-
-## 2026-07-21 12:20:25  {#_0721-122025}
-
-🏷️ **[20260721](./tags/20260721.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 海力士2x在59跑了20万股剩50万股， koru撸了25万刀跑了， 留了韩股海力士sk打算先一直捏着。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIK2pe9fHmQn0Whb_huZUUZayGriVIAAJTFmsbHzT5Vu0uyewmI-X7AQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILGpe9fUpjD62RGFcy61tu7ORH1-HAAJUFmsbHzT5VkHRnnaxPUyHAQADAgADeQADPQQ.jpg)
+## 2026-07-21 12:24:29
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIILWpe9fmHJlgyKc9YUORCCvoJ973EAAJVFmsbHzT5VrnPGFquXdBMAQADAgADeQADPQQ.jpg)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIE2pdkdixxdqhCQpto81qEHHgIhiSAAL0Dmsbe_LxVhlPlHABErD9AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079421210895745119#m)
-
-[🔗 #0721-122025](#_0721-122025)
+soxl没了，剩muu和snxx还在， 打算把snxx也清仓跑掉，留个muu， 然后看看能买个啥后面再考虑考虑。
 
 ---
 
-## 2026-07-20 10:46:59  {#_0720-104659}
+## 2026-07-21 12:32:15
 
-🏷️ **[20260720](./tags/20260720.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-均价52.3海力士2x我又来了 梭完了，生死有命富贵在天，买定离手了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIE2pdkdixxdqhCQpto81qEHHgIhiSAAL0Dmsbe_LxVhlPlHABErD9AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2079035312031039598#m)
-
-[🔗 #0720-104659](#_0720-104659)
+韩股海力士这个成本非常满意， 所以也不想卖，极其便宜他娘的，历史大底， 韩国佬自己就不能争点气，赚那么多钱维护一下自己股价。
 
 ---
 
-## 2026-07-20 06:28:30  {#_0720-062830}
+## 2026-07-21 12:36:20
 
-🏷️ **[20260720](./tags/20260720.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-完犊子，归零
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078970263484686514#m)
-
-[🔗 #0720-062830](#_0720-062830)
+回本路上遥遥无期呐， 过去一个月亏的疼的一逼。 别的品种不敢搞呐，希望下午韩股海力士涨停熔断。
 
 ---
 
-## 2026-07-20 00:20:04  {#_0720-002004}
+## 2026-07-21 12:45:06
 
-🏷️ **[20260720](./tags/20260720.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-买了5万刀阿根廷赢，最后一场了想把前面买球输的赚回来。 之前阿根廷那一场对手埃及还是谁进球了，被因为很早之前的踩脚吹掉了， 轮到阿根廷进球踩脚啥事没有。 后面阿根廷打的几局都莫名其妙，对手跟封印了一样只防守不进攻， 感觉是一种无形大手黑幕必须要让阿根廷保送。 巨大的阴谋。 再不赌球了他娘的买啥亏啥，我老是想反买一小博大被爆干，干服了正买又被爆干。🌚 赌球真几把脸黑呐。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-2pdAAGDykjR1m_azkiVJLkO2r-3KQACsA9rG3vy6VaWOwiJleMLMwEAAwIAA3kAAz0E.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078877540811415949#m)
-
-[🔗 #0720-002004](#_0720-002004)
+卸载同花顺就暴力v， 他这个被量化可能抓取成操作指标了。
 
 ---
 
-## 2026-07-20 00:00:21  {#_0720-000021}
+## 2026-07-21 13:24:01
 
-🏷️ **[20260720](./tags/20260720.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+去他娘的都不想要了。snxx，muu，7709全卖了， 留了韩股正股。
+
+---
+
+## 2026-07-21 14:20:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+祖传u扫货了谷歌 $GOOGL 和 $GGLL 成本356和111.9 云厂说不定是AI最终赢家，不管哪个模型今天牛逼，AI猛增云厂都爆赚。
+
+---
+
+## 2026-07-21 14:34:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+光互连的迈威尔 $MRVL 205.6抄了一下。 现在看着mrvl和康宁都很有性价比， 不过mrvl故事的业绩来的更快
+
+---
+
+## 2026-07-21 14:44:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+今天科创50的190期权涨了十几倍， 随时能买随时能卖， 太几把离谱。
+
+---
+
+## 2026-07-21 17:22:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+韩股海力士减了1/3，剩下2000股， 再卖剁手，卖顺手就想着全卖， 最难的事情真是不是买啥卖啥， 而是拿着钱或者股票保持定力不买或者不卖。太难了。
+
+---
+
+## 2026-07-21 17:51:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+长鑫如果市值被国内炒到6万亿跟海力士一个市值，那能变相的直接把韩股海力士拉飞。
+
+---
+
+## 2026-07-21 21:10:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+亏完的时候就躺着天天放羊了。
+
+---
+
+## 2026-07-21 21:53:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+把闪迪和美光卖飞了我日
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIQ2pfgAQPvhaWDcfeRZFzEz1BpXvwAAJMG2sbHzQBV5dBX6qvkXZBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079565433947177281#m)
+
+---
+
+## 2026-07-21 22:04:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+有点后悔减仓1/3的韩股海力士， 刚追回来又加仓到4000， 万一下周一a股长鑫市值拉特别高把韩股海力士带起来，仓位不够重只能做小孩一桌。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIPmpfPpukGTf3MDqd9SZ3Oi6vS1sxAAIoGmsbHzQBVyzFHvTSuKSHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2079568310665195599#m)
+
+---
+
+## 2026-07-20 00:00:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 全市场真正唯一害怕的事情就是这些云厂缩减2027年的财务开支，尤其是谷歌亚马逊，它俩家就占了全球总支出一半快4000亿美金。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-mpc-T8yGUUuiR1JsxVqxp4llTXMAAKqD2sbe_LpVnNG490_-uHZAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2078872580476535295#m)
+## 2026-07-20 00:20:04
 
-[🔗 #0720-000021](#_0720-000021)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+买了5万刀阿根廷赢，最后一场了想把前面买球输的赚回来。 之前阿根廷那一场对手埃及还是谁进球了，被因为很早之前的踩脚吹掉了， 轮到阿根廷进球踩脚啥事没有。 后面阿根廷打的几局都莫名其妙，对手跟封印了一样只防守不进攻， 感觉是一种无形大手黑幕必须要让阿根廷保送。 巨大的阴谋。 再不赌球了他娘的买啥亏啥，我老是想反买一小博大被爆干，干服了正买又被爆干。🌚 赌球真几把脸黑呐。
 
 ---
 
-## 2026-07-19 23:48:21  {#_0719-234821}
+## 2026-07-20 06:28:30
 
-🏷️ **[20260719](./tags/20260719.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-假如说此时kimi高价买了一大堆推理卡内存卡，等能到货安装运行的时候，如果被gpt或者ds或者别的claude反超远远拉开，这买的推理卡和内存卡是不是打水漂了或者收效甚低也错过了在模型领先时刻爆赚的红利。 云厂恰恰能解决所有大模型公司的这种顾虑。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078869561403941324#m)
-
-[🔗 #0719-234821](#_0719-234821)
+完犊子，归零
 
 ---
 
-## 2026-07-19 23:44:58  {#_0719-234458}
+## 2026-07-20 10:46:59
 
-🏷️ **[20260719](./tags/20260719.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-真正利好的是谷歌和亚马逊这种云厂。 不管谁的模型突然又又领先， 那么云厂都能给调配算力过去， 而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。 云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。 而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后，模型一时的领先对谷歌来说不重要了。
+均价52.3海力士2x我又来了 梭完了，生死有命富贵在天，买定离手了。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2078868708840349890#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIIE2pdkdixxdqhCQpto81qEHHgIhiSAAL0Dmsbe_LxVhlPlHABErD9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0719-234458](#_0719-234458)
-
----
-
-## 2026-07-19 23:32:41  {#_0719-233241}
-
-🏷️ **[20260719](./tags/20260719.html)** 今日关注
-
-再牛逼的模型，想把模型实力转化成收入， 那你就必须要有海量的内存卡和推理卡， 不然破天的富贵你把握不住， 所以你说内存和推理卡缺不缺？ kimi再牛逼能怎么样，富贵来了新增订阅都接不住。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-Gpc8fuMZALS8-m7aHjPDVNnRmP2AAKiD2sbe_LpViyvlwq-_v-7AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078865618779205687#m)
-
-[🔗 #0719-233241](#_0719-233241)
+[查看原文](https://nitter.net/xiaomustock/status/2079035312031039598#m)
 
 ---
 
-## 2026-07-19 23:24:04  {#_0719-232404}
+## 2026-07-19 08:38:19
 
-🏷️ **[20260719](./tags/20260719.html)** 今日关注
-
-这倒不是，现在主要需求是内存和推理卡，这部分是面向客户的，内存和推理卡越多能转化成的收入越多。 能达到kimi这个水平只是说明训练卡可能不需要特别顶尖一堆烂卡依然能训练出来顶尖模型， 但你你想转化成收入那就需要海量内存和推理卡为用户服务了。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078863449321533538#m)
-
-[🔗 #0719-232404](#_0719-232404)
-
----
-
-## 2026-07-19 23:15:49  {#_0719-231549}
-
-🏷️ **[20260719](./tags/20260719.html)** 今日关注
-
-明天又要搏命了，感觉soxl没skhynix稳，怕他娘的美股再跌个10%亏个大的我人没了直接换成了韩股sk。 这俩天kimi这个太热了，导致老外认识到大模型公司没有任何护城河，没几天就被别人干掉，今天gpt干gemini，明天claude干gpt。 市场可能会重新思考什么类型的公司是真正有稳固的护城河的。 能被kimi竞争登顶出现，很可能会被华尔街觉得长期利好谷歌，因为目前任何一家大模型公司谁能熬得过谷歌？稳固的现金流稳固的业务作为护城河，现在不管哪个模型领先，最终可能都是谷歌领先，它可以慢慢追，追到所有ai军备竞赛的大模型都耗尽家财，谷歌还有源源不断的血液继续干gemini。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-Wpc8f_DFX5id79eH7JgpKZL2BZ4AAKjD2sbe_LpVovCPmKfY6dOAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHwWpaY_yksENLtAL-KDs9rIdXH09ZAAJyE2sbxKvRVsWqDXmIo2SJAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078861372805501074#m)
-
-[🔗 #0719-231549](#_0719-231549)
-
----
-
-## 2026-07-19 23:02:00  {#_0719-230200}
-
-🏷️ **[20260719](./tags/20260719.html)** 今日关注
-
-对于顶尖的模型来的算力和内存一直紧缺， 差生只是文具多才出租算力。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH92pc6ra9EgGjgJKyDI_ra6WrPGC6AAKbD2sbe_LpVkB7ID4nnjraAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078857894511124667#m)
-
-[🔗 #0719-230200](#_0719-230200)
-
----
-
-## 2026-07-19 08:38:19  {#_0719-083819}
-
-🏷️ **[20260719](./tags/20260719.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 你们是什么时候开始知道hbm存储的
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH7WpcHz9VY0Ct5AHouzAjMpCdqnorAAJxDmsbe_LpVoIX8Yyx6_JuAQADAgADeQADPQQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH7mpcH0PMVQOJryS8UxWUyvT4XquhAAJyDmsbe_LpVrgmZcRJSyzgAQADAgADeQADPQQ.jpg)
+## 2026-07-19 23:02:00
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH72pcH0fPEbNg-9axayrmRcHHhNFaAAJzDmsbe_LpVlYDT0_Pfp3GAQADAgADeQADPQQ.jpg)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH8GpcH0vmks4YCnpYJGmUo9vXy0GbAAJ0Dmsbe_LpVovSVLgh7lP_AQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078640545442996467#m)
-
-[🔗 #0719-083819](#_0719-083819)
+对于顶尖的模型来的算力和内存一直紧缺， 差生只是文具多才出租算力。
 
 ---
 
-## 2026-07-18 05:11:31  {#_0718-051131}
+## 2026-07-19 23:15:49
 
-🏷️ **[20260718](./tags/20260718.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的時候。
+明天又要搏命了，感觉soxl没skhynix稳，怕他娘的美股再跌个10%亏个大的我人没了直接换成了韩股sk。 这俩天kimi这个太热了，导致老外认识到大模型公司没有任何护城河，没几天就被别人干掉，今天gpt干gemini，明天claude干gpt。 市场可能会重新思考什么类型的公司是真正有稳固的护城河的。 能被kimi竞争登顶出现，很可能会被华尔街觉得长期利好谷歌，因为目前任何一家大模型公司谁能熬得过谷歌？稳固的现金流稳固的业务作为护城河，现在不管哪个模型领先，最终可能都是谷歌领先，它可以慢慢追，追到所有ai军备竞赛的大模型都耗尽家财，谷歌还有源源不断的血液继续干gemini。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxWpanh0bQ36tjjs-uhsW_RFIIsX8AALUDmsbxKvZVtJ5lyFJ-xdKAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-Wpc8f_DFX5id79eH7JgpKZL2BZ4AAKjD2sbe_LpVovCPmKfY6dOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxmpaniES-rhSmmW5xxaFnZ5JavMlAALVDmsbxKvZVmE2t-378R-dAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHwWpaY_yksENLtAL-KDs9rIdXH09ZAAJyE2sbxKvRVsWqDXmIo2SJAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2078226111373467737#m)
-
-[🔗 #0718-051131](#_0718-051131)
+[查看原文](https://nitter.net/xiaomustock/status/2078861372805501074#m)
 
 ---
 
-## 2026-07-18 01:05:12  {#_0718-010512}
+## 2026-07-19 23:24:04
 
-🏷️ **[20260718](./tags/20260718.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这倒不是，现在主要需求是内存和推理卡，这部分是面向客户的，内存和推理卡越多能转化成的收入越多。 能达到kimi这个水平只是说明训练卡可能不需要特别顶尖一堆烂卡依然能训练出来顶尖模型， 但你你想转化成收入那就需要海量内存和推理卡为用户服务了。
+
+[查看原文](https://nitter.net/xiaomustock/status/2078863449321533538#m)
+
+---
+
+## 2026-07-19 23:32:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+再牛逼的模型，想把模型实力转化成收入， 那你就必须要有海量的内存卡和推理卡， 不然破天的富贵你把握不住， 所以你说内存和推理卡缺不缺？ kimi再牛逼能怎么样，富贵来了新增订阅都接不住。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIH-Gpc8fuMZALS8-m7aHjPDVNnRmP2AAKiD2sbe_LpViyvlwq-_v-7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2078865618779205687#m)
+
+---
+
+## 2026-07-19 23:44:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+真正利好的是谷歌和亚马逊这种云厂。 不管谁的模型突然又又领先， 那么云厂都能给调配算力过去， 而不是大模型公司自由算力在领先的时候爆赚在落后的时候爆亏。 云厂是不管谁领先，它的生意都越来越大需求越来越旺，它都能吃到调配算力的溢价。 而谷歌兼具大模型和云厂俩大业务真可能被他笑到最后，模型一时的领先对谷歌来说不重要了。
+
+[查看原文](https://nitter.net/xiaomustock/status/2078868708840349890#m)
+
+---
+
+## 2026-07-19 23:48:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+假如说此时kimi高价买了一大堆推理卡内存卡，等能到货安装运行的时候，如果被gpt或者ds或者别的claude反超远远拉开，这买的推理卡和内存卡是不是打水漂了或者收效甚低也错过了在模型领先时刻爆赚的红利。 云厂恰恰能解决所有大模型公司的这种顾虑。
+
+[查看原文](https://nitter.net/xiaomustock/status/2078869561403941324#m)
+
+---
+
+## 2026-07-18 01:05:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 爽呐，他娘的终于扛到回本了
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHwWpaY_yksENLtAL-KDs9rIdXH09ZAAJyE2sbxKvRVsWqDXmIo2SJAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2078164123289002167#m)
+## 2026-07-18 05:11:31
 
-[🔗 #0718-010512](#_0718-010512)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+kimi公司内部的五条准则 非常务实，不凭空想象推项目，靠实验数据说话。 记得gpt诞生之初，我用的就是kimi， kimi翻译小众文字文档的效果出奇的好。 期待它上市的時候。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxWpanh0bQ36tjjs-uhsW_RFIIsX8AALUDmsbxKvZVtJ5lyFJ-xdKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHxmpaniES-rhSmmW5xxaFnZ5JavMlAALVDmsbxKvZVmE2t-378R-dAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2078226111373467737#m)
 
 ---
 
-## 2026-07-17 18:37:09  {#_0717-183709}
+## 2026-07-17 01:12:10
 
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-无需多言，给你们抄底的信心。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHt2paDMcT09mwlwlBcBgV9haTP5lmAAKiEmsbxKvRVjfUDrg1Hd6VAQADAgADeAADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuGpQod89CKyV-0vR6krAMgsWG7diAAJ6EWsbWkeJVsTMejW3cKe7AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078066467980083408#m)
-
-[🔗 #0717-183709](#_0717-183709)
-
----
-
-## 2026-07-17 18:04:29  {#_0717-180429}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-反弹来了， 人生最有价值的一句建议，Do not fear！ 跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078058246259216419#m)
-
-[🔗 #0717-180429](#_0717-180429)
-
----
-
-## 2026-07-17 15:41:41  {#_0717-154141}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-目前gate被盗的这笔钱用户这边立案成功了， gate自己的人脸系统和人工手持验证被攻破， 也不去报警也不立案就隔那一天到晚嘲讽用户， 💰是保管在你交易所 @Gate 被盗的啊
-
-[📖 原文](https://nitter.net/xiaomustock/status/2078022313266803156#m)
-
-[🔗 #0717-154141](#_0717-154141)
-
----
-
-## 2026-07-17 13:27:59  {#_0717-132759}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-真是股灾了，哪哪都在暴跌 我自己金融危机了
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077988665767432262#m)
-
-[🔗 #0717-132759](#_0717-132759)
-
----
-
-## 2026-07-17 12:32:21  {#_0717-123221}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-昨天抄底的睡醒全被套了， 看来还是反弹再抄最安全， 朋友劝我我也没听😅
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077974663393919061#m)
-
-[🔗 #0717-123221](#_0717-123221)
-
----
-
-## 2026-07-17 12:10:48  {#_0717-121048}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-睡醒天塌了
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077969239865262495#m)
-
-[🔗 #0717-121048](#_0717-121048)
-
----
-
-## 2026-07-17 01:41:45  {#_0717-014145}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-这下好了，我是傻逼，亏死了他娘的
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077810933297267197#m)
-
-[🔗 #0717-014145](#_0717-014145)
-
----
-
-## 2026-07-17 01:33:59  {#_0717-013359}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
-
-全网现在都是清仓的，看空的，做空的。 怎么能让你们所有人都对呢， 意见越统一的时候傻逼越多。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHimpZFbdffwcdi3_JPw2zgDqRdq47AAJ4D2sbwyfJVojS1TiwaQeSAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077808981247238213#m)
-
-[🔗 #0717-013359](#_0717-013359)
-
----
-
-## 2026-07-17 01:12:10  {#_0717-011210}
-
-🏷️ **[20260717](./tags/20260717.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 全网看起来都清仓了， 抄了soxl，muu，snxx， 三个成本142/27.2/15
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHimpZFbdffwcdi3_JPw2zgDqRdq47AAJ4D2sbwyfJVojS1TiwaQeSAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2077803489942802814#m)
+## 2026-07-17 01:33:59
 
-[🔗 #0717-011210](#_0717-011210)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+全网现在都是清仓的，看空的，做空的。 怎么能让你们所有人都对呢， 意见越统一的时候傻逼越多。
 
 ---
 
-## 2026-07-16 23:54:08  {#_0716-235408}
+## 2026-07-17 01:41:45
 
-🏷️ **[20260716](./tags/20260716.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-冉莹颖跟这个品牌方不仅单呐，十指相扣，拳王皱市明钱不仅被这娘们败光了， 头顶说不定都是绿的，这眼神都拉丝了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHhGpZBy-RoPshG19obc_tUUxt-TIeAAJHD2sbwyfJVkH7oxgEyY8-AQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHhWpZBzKFgZ1nfzyNWx74HNZkrev1AAJID2sbwyfJVgIqcpB3MBiHAQADAgADeQADPQQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077783854694469787#m)
-
-[🔗 #0716-235408](#_0716-235408)
+这下好了，我是傻逼，亏死了他娘的
 
 ---
 
-## 2026-07-16 15:15:12  {#_0716-151512}
+## 2026-07-17 12:10:48
 
-🏷️ **[20260716](./tags/20260716.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-投降了，剩下60%刚58卖了，太贪心了， 本来买的时候就想着有个75就走， 真到了反而贪心了， 几把人性呐， 太恶心丑陋。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077653260094284052#m)
-
-[🔗 #0716-151512](#_0716-151512)
+睡醒天塌了
 
 ---
 
-## 2026-07-16 12:04:34  {#_0716-120434}
+## 2026-07-17 12:32:21
 
-🏷️ **[20260716](./tags/20260716.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-刚睡醒，又后悔没把剩下的60%也78卖掉，韩国人是真疯呐。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRWpXCoPazeHFJ4Z2Bw7mx-vVhAlqAAKjEWsb_c65VjQ2M69swAABWgEAAwIAA3kAAz0E.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077605283707462081#m)
-
-[🔗 #0716-120434](#_0716-120434)
+昨天抄底的睡醒全被套了， 看来还是反弹再抄最安全， 朋友劝我我也没听😅
 
 ---
 
-## 2026-07-16 00:31:07  {#_0716-003107}
+## 2026-07-17 13:27:59
 
-🏷️ **[20260716](./tags/20260716.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+真是股灾了，哪哪都在暴跌 我自己金融危机了
+
+---
+
+## 2026-07-17 15:41:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+目前gate被盗的这笔钱用户这边立案成功了， gate自己的人脸系统和人工手持验证被攻破， 也不去报警也不立案就隔那一天到晚嘲讽用户， 💰是保管在你交易所 @Gate 被盗的啊
+
+---
+
+## 2026-07-17 18:04:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+反弹来了， 人生最有价值的一句建议，Do not fear！ 跌成这逼样，再跌巴菲特得把几千亿美金梭哈了。
+
+---
+
+## 2026-07-17 18:37:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+无需多言，给你们抄底的信心。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHt2paDMcT09mwlwlBcBgV9haTP5lmAAKiEmsbxKvRVjfUDrg1Hd6VAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuGpQod89CKyV-0vR6krAMgsWG7diAAJ6EWsbWkeJVsTMejW3cKe7AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2078066467980083408#m)
+
+---
+
+## 2026-07-16 00:31:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 海力士已经跌的不是大力士也不是海公公了，只能叫它海狗
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHWWpXuOo3fvLltkTRLP9dYFD-v0Q8AAJTDWsbwyfBVgYdWWRjnUreAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2077430770302685530#m)
+## 2026-07-16 12:04:34
 
-[🔗 #0716-003107](#_0716-003107)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+刚睡醒，又后悔没把剩下的60%也78卖掉，韩国人是真疯呐。
 
 ---
 
-## 2026-07-15 11:59:02  {#_0715-115902}
+## 2026-07-16 15:15:12
 
-🏷️ **[20260715](./tags/20260715.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-51.5抄的78跑了40%， 非常后悔， 因为跑了一部分发现完全不知道买什么， 全市场都是垃圾股，没有比海力士更好的。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRWpXCoPazeHFJ4Z2Bw7mx-vVhAlqAAKjEWsb_c65VjQ2M69swAABWgEAAwIAA3kAAz0E.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077241505262313546#m)
-
-[🔗 #0715-115902](#_0715-115902)
+投降了，剩下60%刚58卖了，太贪心了， 本来买的时候就想着有个75就走， 真到了反而贪心了， 几把人性呐， 太恶心丑陋。
 
 ---
 
-## 2026-07-15 04:10:56  {#_0715-041056}
+## 2026-07-16 23:54:08
 
-🏷️ **[20260715](./tags/20260715.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。
+冉莹颖跟这个品牌方不仅单呐，十指相扣，拳王皱市明钱不仅被这娘们败光了， 头顶说不定都是绿的，这眼神都拉丝了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHMmpWXB73yUgiKocr4Uin_Ya-sCIaAALTEGsb_c65VpMvA8OXT0y5AQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHhGpZBy-RoPshG19obc_tUUxt-TIeAAJHD2sbwyfJVkH7oxgEyY8-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2077123703226413448#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHhWpZBzKFgZ1nfzyNWx74HNZkrev1AAJID2sbwyfJVgIqcpB3MBiHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0715-041056](#_0715-041056)
-
----
-
-## 2026-07-15 01:13:53  {#_0715-011353}
-
-🏷️ **[20260715](./tags/20260715.html)** 今日关注
-
-另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077079145587294555#m)
-
-[🔗 #0715-011353](#_0715-011353)
+[查看原文](https://nitter.net/xiaomustock/status/2077783854694469787#m)
 
 ---
 
-## 2026-07-15 01:09:08  {#_0715-010908}
+## 2026-07-15 00:19:21
 
-🏷️ **[20260715](./tags/20260715.html)** 今日关注
-
-做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077077950504259787#m)
-
-[🔗 #0715-010908](#_0715-010908)
-
----
-
-## 2026-07-15 00:19:21  {#_0715-001921}
-
-🏷️ **[20260715](./tags/20260715.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 盈透证券支持了稳定币的充提。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHM2pWY2JfiKlbfLi4gfFN04fG93TrAAL5EGsb_c65Vg0mn_wuwDpFAQADAgADeQADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2077065422822904063#m)
+## 2026-07-15 01:09:08
 
-[🔗 #0715-001921](#_0715-001921)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+做海力士差价收敛的长期都会死， 看看港股和a股有几个收敛的， 差价100%都是常事。
 
 ---
 
-## 2026-07-14 23:41:37  {#_0714-234137}
+## 2026-07-15 01:13:53
 
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。 如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。 但这些傻逼都没有考虑进去2年后AI会发展成什么样， 现在AI视频已经可以以假乱真， 俩年后更是不敢想象会进化到啥程度， 如果AI能进化到理解现实物理世界，那它处理的数据全是视频数据， 存储需求的数量级可能是百倍于现在， 要坚信你的存储。 试想一下AI俩年后会发展成什么样，回想过去俩年AI的进化速度和对存储需求的增长速度，不要再扔掉你们宝贵的 #海力士 $SKHYX 了。 AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？ AI使用群体数量俩年后会不会从1B暴增到几B？（使用群体不限于人，包括汽车，包括手机，包括机器人，甚至智能体本身…） AI现在人70%的使用是文字token，俩年后会不会进化到视频影像物理三维视频token输入输出？（这里存储数据量差别千倍万倍。） 这里面的需求差别2年后会是现在的多少倍？十倍还是百倍？ 那俩年后的存储产量增量是几倍？翻倍都撑死了吧？这些傻逼预测师永远不会这么给你算，只会基于现在AI状态误导你。 拿出你们290万韩元梭哈的勇气， 190万韩元都不敢买，真去死了算了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHMmpWXB73yUgiKocr4Uin_Ya-sCIaAALTEGsb_c65VpMvA8OXT0y5AQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077055927786885527#m)
-
-[🔗 #0714-234137](#_0714-234137)
+另外说明一下啥情况100%溢价，a股和h股里，如果h股只有a股流通量的1/10或者1/20，只要概念不错基本上都是100%溢价。
 
 ---
 
-## 2026-07-14 21:08:59  {#_0714-210859}
+## 2026-07-15 04:10:56
 
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHKmpWPw3qTYhX2e53WMVGbAwQONBUAAKIEGsb_c65Vj-K4QABPqqVOwEAAwIAA3kAAz0E.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2077017515545526305#m)
-
-[🔗 #0714-210859](#_0714-210859)
+未来各大巨头搞物理AI的军备竞赛的时候， 他们绝对的需求量不是gpu，cpu， 只有存储。 存储的量决定了他们能训练多少数据，因为音频数据的大小规模千倍万倍于文本图片。 未来俩年内会看到这个观点和变化。
 
 ---
 
-## 2026-07-14 13:33:39  {#_0714-133339}
+## 2026-07-15 11:59:02
 
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-韩国看来是要从向下熔断 变成接下来向上熔断
+51.5抄的78跑了40%， 非常后悔， 因为跑了一部分发现完全不知道买什么， 全市场都是垃圾股，没有比海力士更好的。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHImpV0gXxbFkJZjc6qbur6Rt4P1wQAAJHEGsb_c6xVmDETIQYL8NyAQADAgADeQADPQQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHRWpXCoPazeHFJ4Z2Bw7mx-vVhAlqAAKjEWsb_c65VjQ2M69swAABWgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2076902928359755987#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0714-133339](#_0714-133339)
-
----
-
-## 2026-07-14 13:29:48  {#_0714-132948}
-
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
-
-人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076901960129855716#m)
-
-[🔗 #0714-132948](#_0714-132948)
+[查看原文](https://nitter.net/xiaomustock/status/2077241505262313546#m)
 
 ---
 
-## 2026-07-14 13:03:56  {#_0714-130356}
+## 2026-07-14 10:46:46
 
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
-
-起飞了，75总能反弹到吧
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHIWpVysC814O-7obnLytHMS-ykvz3AAIrEGsb_c6xVii55S0qo3pzAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076895446749135298#m)
-
-[🔗 #0714-130356](#_0714-130356)
-
----
-
-## 2026-07-14 12:41:29  {#_0714-124129}
-
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
-
-51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHIGpVw3wpDKUxBslB7VfvsRNDX9joAAIYEGsb_c6xVs5vnTIEr3lXAQADAgADeQADPQQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076889799848591595#m)
-
-[🔗 #0714-124129](#_0714-124129)
-
----
-
-## 2026-07-14 12:27:14  {#_0714-122714}
-
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
-
-后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076886212716134783#m)
-
-[🔗 #0714-122714](#_0714-122714)
-
----
-
-## 2026-07-14 11:49:13  {#_0714-114913}
-
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
-
-克服恐惧的最好办法就是面对恐惧， 海力士不行，整个AI产业链都在一起崩。 刚抄了南海2x，成本51.5。 甭管什么Ai几把概念，都是和存储一荣俱荣
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076876646037307471#m)
-
-[🔗 #0714-114913](#_0714-114913)
-
----
-
-## 2026-07-14 10:46:46  {#_0714-104646}
-
-🏷️ **[20260714](./tags/20260714.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 保持有一定数量的散户涨跌都赚不到钱对国家生产活动很重要，各行各业需要他们专心干活，不伤国本。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHGpVpmg9mbWu_rn1wMVBgr3jXKQiAAL1D2sb_c6xVh4rwhNgtkTRAQADAgADeAADPQQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2076860930718302553#m)
+## 2026-07-14 11:49:13
 
-[🔗 #0714-104646](#_0714-104646)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+克服恐惧的最好办法就是面对恐惧， 海力士不行，整个AI产业链都在一起崩。 刚抄了南海2x，成本51.5。 甭管什么Ai几把概念，都是和存储一荣俱荣
 
 ---
 
-## 2026-07-13 16:32:13  {#_0713-163213}
+## 2026-07-14 12:27:14
 
-🏷️ **[20260713](./tags/20260713.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHDmpUpyWffwUU9VnCuU5E2utbmZiuAAKVD2sbNGmhVq24Zpq9LPLiAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076585478808281292#m)
-
-[🔗 #0713-163213](#_0713-163213)
+后面只希望存储反弹一波整体稳住撸一发， 存储稳住别的概念才有机会。 找未来还有10倍以上营收增长预期的标， 2x这种短撸一下没毛病，长拿命就没了。
 
 ---
 
-## 2026-07-13 14:24:33  {#_0713-142433}
+## 2026-07-14 12:41:29
 
-🏷️ **[20260713](./tags/20260713.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-韩国这帮疯子跳楼了
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076553346870370710#m)
-
-[🔗 #0713-142433](#_0713-142433)
+51.5抄到大底了艹她妈的， 南海2x海力士午盘开了估计也是爆拉。 哪有小孩天天哭。
 
 ---
 
-## 2026-07-13 13:00:14  {#_0713-130014}
+## 2026-07-14 13:03:56
 
-🏷️ **[20260713](./tags/20260713.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-这市场谁在赚钱啊，亏了整整一个月了
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHA2pUeanvQ-9sxteAKOPE-hOc0ajfAALqDmsbNGmhVjn-AAHubvDOrQEAAwIAA3kAAzwE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2076532128049992073#m)
-
-[🔗 #0713-130014](#_0713-130014)
+起飞了，75总能反弹到吧
 
 ---
 
-## 2026-07-13 10:27:27  {#_0713-102727}
+## 2026-07-14 13:29:48
 
-🏷️ **[20260713](./tags/20260713.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+人亏钱就跟得病了一样浑身难受，赚钱了就跟吃了灵丹妙药，但大多数人的财富多少并不会影响到衣食住行，这他娘的是为什么
+
+---
+
+## 2026-07-14 13:33:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+韩国看来是要从向下熔断 变成接下来向上熔断
+
+---
+
+## 2026-07-14 21:08:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+你们此时此刻是不是百病全消，神清气爽 保守估计自己又是全银河系最牛逼的人？
+
+---
+
+## 2026-07-14 23:41:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+请发给你的韩国朋友。 AI能干的事情过去2年， 慢慢从一维数据到二维数据再到未来的三维数据进化，也就是文字，图片，三维视频。 这经历的时间也才短短2年多，24年到现在26年。而存储扩产在2028年，也就是2年后，AI会发展成什么样，这些傻逼预测分析师硅谷投资客都没有考虑进去，他们只是基于现在的AI状态来分析存储未来尤其是存储2028年的未来做出当下的判断，他们都是傻逼。 如果物理AI能突破，处理的资料都是视频资料，不是文字，存储数据内容从一维到三维，存储的需求量是天量。人们现在对存储的假设是基于现有AI水平来测算。 但这些傻逼都没有考虑进去2年后AI会发展成什么样， 现在AI视频已经可以以假乱真， 俩年后更是不敢想象会进化到啥程度， 如果AI能进化到理解现实物理世界，那它处理的数据全是视频数据， 存储需求的数量级可能是百倍于现在， 要坚信你的存储。 试想一下AI俩年后会发展成什么样，回想过去俩年AI的进化速度和对存储需求的增长速度，不要再扔掉你们宝贵的 #海力士 $SKHYX 了。 AI用量会在俩年后暴增数倍，想象你2年后使用频率，从现在一天3-5次会不会暴增到30-50次？ AI使用群体数量俩年后会不会从1B暴增到几B？（使用群体不限于人，包括汽车，包括手机，包括机器人，甚至智能体本身…） AI现在人70%的使用是文字token，俩年后会不会进化到视频影像物理三维视频token输入输出？（这里存储数据量差别千倍万倍。） 这里面的需求差别2年后会是现在的多少倍？十倍还是百倍？ 那俩年后的存储产量增量是几倍？翻倍都撑死了吧？这些傻逼预测师永远不会这么给你算，只会基于现在AI状态误导你。 拿出你们290万韩元梭哈的勇气， 190万韩元都不敢买，真去死了算了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHMmpWXB73yUgiKocr4Uin_Ya-sCIaAALTEGsb_c65VpMvA8OXT0y5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHHWpVtPQscC_INo-lUy4fh9Ra0MahAAMQaxv9zrFWBPKMGybjDPgBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2077055927786885527#m)
+
+---
+
+## 2026-07-13 10:27:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 世界可以毁灭了，累了，就这样吧。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHBGpUeaw67tuAiyreVECo7S3NjIVsAALsDmsbNGmhVoDZEsqQfrDEAQADAgADeQADPAQ.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2076493680870043957#m)
+## 2026-07-13 13:00:14
 
-[🔗 #0713-102727](#_0713-102727)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这市场谁在赚钱啊，亏了整整一个月了
 
 ---
 
-## 2026-07-11 17:24:36  {#_0711-172436}
+## 2026-07-13 14:24:33
 
-🏷️ **[20260711](./tags/20260711.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+韩国这帮疯子跳楼了
+
+---
+
+## 2026-07-13 16:32:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+过去一个月利润最高50%全还回去， 还倒贴13%，棒子是真该死呐，一群精神病。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIHDmpUpyWffwUU9VnCuU5E2utbmZiuAAKVD2sbNGmhVq24Zpq9LPLiAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2076585478808281292#m)
+
+---
+
+## 2026-07-11 17:24:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 我觉得只要客户能证明不是自己操作的，平台就该赔，不然我为什么放你这。 如果是支付宝ai换脸，手持验证钱被盗了支付宝赔不赔？ @Gate 你是真牛逼你不赔？没操作所有安全项都开了钱都能丢我钱为什么放你这，有啥安全保障？
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG5mpSDS_5Qo4zRBjNtA5BMmk01xE4AAL6DmsbDu2RVh0_27BpEFFVAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIG5mpSDS_5Qo4zRBjNtA5BMmk01xE4AAL6DmsbDu2RVh0_27BpEFFVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGw2pQ6oMnVyaSAvOpUm7J0RzYr8aTAAJIEmsbWkeJVjwK5j2VsrQQAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGw2pQ6oMnVyaSAvOpUm7J0RzYr8aTAAJIEmsbWkeJVjwK5j2VsrQQAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2075873886185697351#m)
-
-[🔗 #0711-172436](#_0711-172436)
+[查看原文](https://nitter.net/xiaomustock/status/2075873886185697351#m)
 
 ---
 
-## 2026-07-10 23:20:34  {#_0710-232034}
+## 2026-07-10 10:21:09
 
-🏷️ **[20260710](./tags/20260710.html)** 今日关注
-
-对于国内来说，可回收火箭搞卫星通信优势不大，但是商业航天搞全球火箭物流速运，优势极大，高速传输。全球公海上搞一堆火箭接收平台。 满世界火箭发快递。 全球物流的极速传递，国人有机会这么干。 只要每公斤的单价卷到足够低的时候就是物流模式变革之日。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2075601078062879107#m)
-
-[🔗 #0710-232034](#_0710-232034)
-
----
-
-## 2026-07-10 23:02:43  {#_0710-230243}
-
-🏷️ **[20260710](./tags/20260710.html)** 今日关注
-
-去年真是满大街的好机会， 当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐， 去年的股票能预期业绩涨十倍股价也能十倍， 现阶段大部分AI红利涨幅被吃完了， 预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。 只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGxmpRDtm3cQv0e1itBFrp0DA8-NmbAAKIEmsbWkeJViUvsHeUg1SXAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGx2pRDtzdQ9uAv5NAi5XCny6ksqBYAAKJEmsbWkeJVhOkJy5NqIGBAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2075596586986754131#m)
-
-[🔗 #0710-230243](#_0710-230243)
-
----
-
-## 2026-07-10 20:16:45  {#_0710-201645}
-
-🏷️ **[20260710](./tags/20260710.html)** 今日关注
-
-gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清素颜视频音频外泄了， 现在AI换脸真可以实现以假乱真， 隐私在这个AI时代异常重要， 再发展下去基本上一套操作下来能突破你所有安全防线。太吓人了这次这事。 被盗资金已经被转移到洗钱地址。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGw2pQ6oMnVyaSAvOpUm7J0RzYr8aTAAJIEmsbWkeJVjwK5j2VsrQQAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGHWpOKAOjftoU5xyyyEMl92byTmnzAAIWD2sb_fR4VsjdzRnXt-wwAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2075554820401037509#m)
-
-[🔗 #0710-201645](#_0710-201645)
-
----
-
-## 2026-07-10 14:58:13  {#_0710-145813}
-
-🏷️ **[20260710](./tags/20260710.html)** 今日关注
-
-密切关注峰哥操作 割肉暴涨， 梭哈暴跌， 希望他今天就割肉，周一暴涨成全大家
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGuGpQod89CKyV-0vR6krAMgsWG7diAAJ6EWsbWkeJVsTMejW3cKe7AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2075474657634095577#m)
-
-[🔗 #0710-145813](#_0710-145813)
-
----
-
-## 2026-07-10 13:50:23  {#_0710-135023}
-
-🏷️ **[20260710](./tags/20260710.html)** 今日关注
-
-航天的一次性耗材用件产业链归零， 卫星的产业链用量发射量暴增。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2075457587223650310#m)
-
-[🔗 #0710-135023](#_0710-135023)
-
----
-
-## 2026-07-10 12:56:41  {#_0710-125641}
-
-🏷️ **[20260710](./tags/20260710.html)** 今日关注
-
-国内可回收火箭成功了，卧槽，牛逼炸了。 @elonmusk
-
-[📖 原文](https://nitter.net/xiaomustock/status/2075444072588927151#m)
-
-[🔗 #0710-125641](#_0710-125641)
-
----
-
-## 2026-07-10 10:21:09  {#_0710-102109}
-
-🏷️ **[20260710](./tags/20260710.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 海公公真垃圾呐，美股一个adr搞得价格纹丝不动。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGqmpQWS1FIwWzPVdSbMcJD6iiWaUIAAKrEGsbWkeJVuEO3_AAAU_afQEAAwIAA3kAAzwE.jpg)
+---
 
-[📖 原文](https://nitter.net/xiaomustock/status/2075404931784376696#m)
+## 2026-07-10 12:56:41
 
-[🔗 #0710-102109](#_0710-102109)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+国内可回收火箭成功了，卧槽，牛逼炸了。 @elonmusk
 
 ---
 
-## 2026-07-09 21:49:14  {#_0709-214914}
+## 2026-07-10 13:50:23
 
-🏷️ **[20260709](./tags/20260709.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-恭喜各位华尔街之狼，存储拉飞了。 存储不起来，其他所有概念都别想起来， 存储起来，说明ai未来光明， 其他概念才有机会，才值得抄底， 康宁 $GLW 就是。 傻逼只会喷不会懂这个底层道理。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGeGpPqsdIqqdBzTFOs9oDFNtA9vEaAAKcEmsbWkeBVphVS34FNKOVAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2075215703867838872#m)
-
-[🔗 #0709-214914](#_0709-214914)
+航天的一次性耗材用件产业链归零， 卫星的产业链用量发射量暴增。
 
 ---
 
-## 2026-07-09 14:33:38  {#_0709-143338}
+## 2026-07-10 14:58:13
 
-🏷️ **[20260709](./tags/20260709.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+密切关注峰哥操作 割肉暴涨， 梭哈暴跌， 希望他今天就割肉，周一暴涨成全大家
+
+---
+
+## 2026-07-10 20:16:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+gate的人脸能被突破就是@Gate 的问题， 一定要小心自己的高清素颜视频音频外泄了， 现在AI换脸真可以实现以假乱真， 隐私在这个AI时代异常重要， 再发展下去基本上一套操作下来能突破你所有安全防线。太吓人了这次这事。 被盗资金已经被转移到洗钱地址。
+
+---
+
+## 2026-07-10 23:02:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+去年真是满大街的好机会， 当时145梭哈的3万股amd现在已经高攀不起，回想起来真是脑残呐， 去年的股票能预期业绩涨十倍股价也能十倍， 现阶段大部分AI红利涨幅被吃完了， 预期不上不下，业绩翻倍都笑死，所以股价翻倍都笑死。 只能寻找业绩还能明确有十倍以上潜力的，才可能获得十倍左右的股价涨幅。
+
+---
+
+## 2026-07-10 23:20:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+对于国内来说，可回收火箭搞卫星通信优势不大，但是商业航天搞全球火箭物流速运，优势极大，高速传输。全球公海上搞一堆火箭接收平台。 满世界火箭发快递。 全球物流的极速传递，国人有机会这么干。 只要每公斤的单价卷到足够低的时候就是物流模式变革之日。
+
+[查看原文](https://nitter.net/xiaomustock/status/2075601078062879107#m)
+
+---
+
+## 2026-07-09 14:33:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 这些炒股炒的已经家破人亡了， 韩国估计集体返贫， 再跌10%海力士都跌40%了， 加仓猛干海力士的好时机。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGTmpPQ2jxA6M8WOuAvfzBrUnbIc66AALVEWsb_fSAVp-aGmoSIAyIAQADAgADeQADPAQ.jpg)
+---
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGT2pPQ2waIBz2zr9coXmZH0AdhCI-AALWEWsb_fSAVj0_Pbo1nf6wAQADAgADeQADPAQ.jpg)
+## 2026-07-09 21:49:14
 
-[📖 原文](https://nitter.net/xiaomustock/status/2075106084793286733#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[🔗 #0709-143338](#_0709-143338)
+恭喜各位华尔街之狼，存储拉飞了。 存储不起来，其他所有概念都别想起来， 存储起来，说明ai未来光明， 其他概念才有机会，才值得抄底， 康宁 $GLW 就是。 傻逼只会喷不会懂这个底层道理。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGeGpPqsdIqqdBzTFOs9oDFNtA9vEaAAKcEmsbWkeBVphVS34FNKOVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2075215703867838872#m)
 
 ---
 
-## 2026-07-08 21:50:48  {#_0708-215048}
+## 2026-07-08 15:03:13
 
-🏷️ **[20260708](./tags/20260708.html)** 今日关注
-
-明天看来海公公要硬起来了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJGpOWuDC_vykQdZAsldX6ZrEeSPdAAL7D2sb_fR4Voxk1n_-Yh6_AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074853711529275399#m)
-
-[🔗 #0708-215048](#_0708-215048)
-
----
-
-## 2026-07-08 21:49:30  {#_0708-214930}
-
-🏷️ **[20260708](./tags/20260708.html)** 今日关注
-
-活过来了，终于反弹了，韩股总不可能天天熔断吧。 AI总不可能不搞了吧。 机器人和agent都是半吊子智障阶段。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJWpOWuQxJDMGqIVoDgKEpYMUT1wiAAL8D2sb_fR4Vg6ueQABnmqFmgEAAwIAA3kAAzwE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074853384906264662#m)
-
-[🔗 #0708-214930](#_0708-214930)
-
----
-
-## 2026-07-08 18:04:08  {#_0708-180408}
-
-🏷️ **[20260708](./tags/20260708.html)** 今日关注
-
-这是正主@Gate @jheioff 查一下这个盗币怎么做到的， 我本以为有了谷歌验证已经是天下无敌， 查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074796670551031899#m)
-
-[🔗 #0708-180408](#_0708-180408)
-
----
-
-## 2026-07-08 17:44:55  {#_0708-174455}
-
-🏷️ **[20260708](./tags/20260708.html)** 今日关注
-
-有朋友刚在@Gate 被盗了170万美金， 账户资金被提空了，百分之百真实， 注意资金安全。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074791831624442331#m)
-
-[🔗 #0708-174455](#_0708-174455)
-
----
-
-## 2026-07-08 15:40:06  {#_0708-154006}
-
-🏷️ **[20260708](./tags/20260708.html)** 今日关注
-
-韩国为了不让港股这个2x吸走资金， 疯狂发行了十几个2倍做多etf， 全部破发， 韩国人大多数都上杠杆买的杠杆etf😂 本来是韩国人的狂欢， 现在韩国股民集体亏麻了。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074760420427260054#m)
-
-[🔗 #0708-154006](#_0708-154006)
-
----
-
-## 2026-07-08 15:18:53  {#_0708-151853}
-
-🏷️ **[20260708](./tags/20260708.html)** 今日关注
-
-涨的时候一个一个大力士， 跌的时候张口闭口海公公。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074755083942891862#m)
-
-[🔗 #0708-151853](#_0708-151853)
-
----
-
-## 2026-07-08 15:03:13  {#_0708-150313}
-
-🏷️ **[20260708](./tags/20260708.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 韩国股市天天这么暴涨暴跌， 韩国人能睡得着才怪，怪不得睡眠少。 我他妈拿着海力士正股都要被搞疯了。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2074751139313229851#m)
 
-[🔗 #0708-150313](#_0708-150313)
 
----
-
-## 2026-07-07 22:40:20  {#_0707-224020}
-
-🏷️ **[20260707](./tags/20260707.html)** 今日关注
-
-心脏疼，感觉像得了恶疾
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF5GpNE-BYbz4p3RTsSzsZtn7NdphtAAKpDmsbmMRoVor9hd34rix2AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074503788296368216#m)
-
-[🔗 #0707-224020](#_0707-224020)
+[查看原文](https://nitter.net/xiaomustock/status/2074751139313229851#m)
 
 ---
 
-## 2026-07-07 22:29:01  {#_0707-222901}
+## 2026-07-08 15:18:53
 
-🏷️ **[20260707](./tags/20260707.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-抄底被活埋跌服跌懵逼了，亏的麻麻的今天
+涨的时候一个一个大力士， 跌的时候张口闭口海公公。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2074500941899030867#m)
 
-[🔗 #0707-222901](#_0707-222901)
 
----
-
-## 2026-07-07 16:58:18  {#_0707-165818}
-
-🏷️ **[20260707](./tags/20260707.html)** 今日关注
-
-R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awareness Partners 三方合计70亿美金
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074417712261169223#m)
-
-[🔗 #0707-165818](#_0707-165818)
+[查看原文](https://nitter.net/xiaomustock/status/2074755083942891862#m)
 
 ---
 
-## 2026-07-07 15:58:06  {#_0707-155806}
+## 2026-07-08 15:40:06
 
-🏷️ **[20260707](./tags/20260707.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-牛市之中各个都是股神，买了不动你比股神还像股神，觉得自己顺极了，跌的时候才能知道自己啥逼样，天天恨不得自己是未成年。
+韩国为了不让港股这个2x吸走资金， 疯狂发行了十几个2倍做多etf， 全部破发， 韩国人大多数都上杠杆买的杠杆etf😂 本来是韩国人的狂欢， 现在韩国股民集体亏麻了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF2GpMtWnWZ2hW3O0lSuJ3Y8KxgHlcAAI0EGsbmMRgVprOkcbJrBwVAQADAgADeQADPAQ.jpg)
 
-[📖 原文](https://nitter.net/xiaomustock/status/2074402565207503360#m)
 
-[🔗 #0707-155806](#_0707-155806)
+[查看原文](https://nitter.net/xiaomustock/status/2074760420427260054#m)
 
 ---
 
-## 2026-07-07 14:30:05  {#_0707-143005}
+## 2026-07-08 17:44:55
 
-🏷️ **[20260707](./tags/20260707.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-韩国股市涨熔断的时候坚决不买， 跌停熔断韩国人都吓死了抓紧买
+有朋友刚在@Gate 被盗了170万美金， 账户资金被提空了，百分之百真实， 注意资金安全。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2074380412240228648#m)
 
-[🔗 #0707-143005](#_0707-143005)
 
----
 
-## 2026-07-07 14:28:31  {#_0707-142831}
 
-🏷️ **[20260707](./tags/20260707.html)** 今日关注
-
-今天应该是跌到位了， 美光跌到了918美金， 海力士跌到了1400美金左右。 跌的这些后上车跟风存储的人都折磨的 绝望离场就是新的开始。 美股韩股的特点股价涨幅得跟财报匹配
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzGpMn534-p24Fg0lYGomjM3OiHEPAALkD2sbmMRgVh5w4fr0aWrGAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzWpMn6F7OcCDXkQcTzmJ7Vcz2jv-AALlD2sbmMRgVpItbUL48fPhAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2074380020429226196#m)
-
-[🔗 #0707-142831](#_0707-142831)
+[查看原文](https://nitter.net/xiaomustock/status/2074791831624442331#m)
 
 ---
 
-## 2026-07-07 02:02:21  {#_0707-020221}
+## 2026-07-08 18:04:08
 
-🏷️ **[20260707](./tags/20260707.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这是正主@Gate @jheioff 查一下这个盗币怎么做到的， 我本以为有了谷歌验证已经是天下无敌， 查查是不是内部人作案，不然不可能突破这么多安全项拿到这么多资料信息。
+
+
+
+
+
+
+
+
+
+[查看原文](https://nitter.net/xiaomustock/status/2074796670551031899#m)
+
+---
+
+## 2026-07-08 21:49:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+活过来了，终于反弹了，韩股总不可能天天熔断吧。 AI总不可能不搞了吧。 机器人和agent都是半吊子智障阶段。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJWpOWuQxJDMGqIVoDgKEpYMUT1wiAAL8D2sb_fR4Vg6ueQABnmqFmgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074853384906264662#m)
+
+---
+
+## 2026-07-08 21:50:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+明天看来海公公要硬起来了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIGJGpOWuDC_vykQdZAsldX6ZrEeSPdAAL7D2sb_fR4Voxk1n_-Yh6_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074853711529275399#m)
+
+---
+
+## 2026-07-07 02:02:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 在海力士adr的sec文件中， OpenAI 股神 Leopold的基金Situational Awareness，准备认购70亿美金的海力士
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFv2pL8PzY-TNyNdcvGMNxtmQZGbqbAAKEEmsbmMRYVljuJ544yjKOAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFv2pL8PzY-TNyNdcvGMNxtmQZGbqbAAKEEmsbmMRYVljuJ544yjKOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2074192239459467536#m)
-
-[🔗 #0707-020221](#_0707-020221)
+[查看原文](https://nitter.net/xiaomustock/status/2074192239459467536#m)
 
 ---
 
-## 2026-07-06 15:02:31  {#_0706-150231}
+## 2026-07-07 14:28:31
 
-🏷️ **[20260706](./tags/20260706.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+今天应该是跌到位了， 美光跌到了918美金， 海力士跌到了1400美金左右。 跌的这些后上车跟风存储的人都折磨的 绝望离场就是新的开始。 美股韩股的特点股价涨幅得跟财报匹配
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzGpMn534-p24Fg0lYGomjM3OiHEPAALkD2sbmMRgVh5w4fr0aWrGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFzWpMn6F7OcCDXkQcTzmJ7Vcz2jv-AALlD2sbmMRgVpItbUL48fPhAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074380020429226196#m)
+
+---
+
+## 2026-07-07 14:30:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+韩国股市涨熔断的时候坚决不买， 跌停熔断韩国人都吓死了抓紧买
+
+[查看原文](https://nitter.net/xiaomustock/status/2074380412240228648#m)
+
+---
+
+## 2026-07-07 15:58:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+牛市之中各个都是股神，买了不动你比股神还像股神，觉得自己顺极了，跌的时候才能知道自己啥逼样，天天恨不得自己是未成年。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF2GpMtWnWZ2hW3O0lSuJ3Y8KxgHlcAAI0EGsbmMRgVprOkcbJrBwVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074402565207503360#m)
+
+---
+
+## 2026-07-07 16:58:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+R to @xiaomustock: 纠正一下是Baillie Gifford、Coatue、Situational Awareness Partners 三方合计70亿美金
+
+[查看原文](https://nitter.net/xiaomustock/status/2074417712261169223#m)
+
+---
+
+## 2026-07-07 22:29:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+抄底被活埋跌服跌懵逼了，亏的麻麻的今天
+
+[查看原文](https://nitter.net/xiaomustock/status/2074500941899030867#m)
+
+---
+
+## 2026-07-07 22:40:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+心脏疼，感觉像得了恶疾
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIF5GpNE-BYbz4p3RTsSzsZtn7NdphtAAKpDmsbmMRoVor9hd34rix2AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2074503788296368216#m)
+
+---
+
+## 2026-07-06 15:02:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 7月地狱难度，跌这么惨反弹这么弱
 
-[📖 原文](https://nitter.net/xiaomustock/status/2074026186599280750#m)
-
-[🔗 #0706-150231](#_0706-150231)
+[查看原文](https://nitter.net/xiaomustock/status/2074026186599280750#m)
 
 ---
 
-## 2026-07-05 23:32:15  {#_0705-233215}
+## 2026-07-05 03:30:15
 
-🏷️ **[20260705](./tags/20260705.html)** 今日关注
-
-三星7.7财报
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFdmpKfe_Gh0phbhM4QLg5AcwLhPrhAALQE2sb9e9QVkZch2CcyxzLAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2073792079445316057#m)
-
-[🔗 #0705-233215](#_0705-233215)
-
----
-
-## 2026-07-05 03:30:15  {#_0705-033015}
-
-🏷️ **[20260705](./tags/20260705.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 再整体记录一下上半年成功的操作。 $MRVL 爆拉前156刀推荐，35天最高329。 $MU 爆拉前118刀推荐，10个月最高1255 $LITE 爆拉前97刀推荐，10个月最高1085 $COHR 爆拉前164刀推荐，7个月最高440 #海力士 年初75万韩元推荐，6个月298万韩元 #中韩半导体 年初3.2推荐，6个月最高7.1 #五一世界 4月份47推荐，2月最高147 #2x海力士 年初23推荐，6个月最高193 $ewy 年初120推荐，6个月最高220 $DRAM 29美金推荐，3个月最高81 $GLW 康宁215推荐，7天最高271 除了上面所有， 今年买过最烂最失败的俩个就是港美互联网和nok，毕竟如果买的全暴涨那跟开挂有啥区别，有亏有赚才正常毕竟买的是股票不是玩的资金盘。 从半年前推特上没有几个中文推做股票， 到现在人人基本上做股票， 至少绝大多数人提前半年了解到存储应该我这个推特今年最大的意义。 这过程中有各种生物多样性的傻逼诋毁和嘲讽，2/3月份几乎拉黑屏蔽了所有我能刷到的看空存储的推，但这半年也有非常多朋友一直支持。努力让那些傻逼显的更傻逼。 人生得不断的承认错误，修正， 再对变化作出改变， 无尽重复，才能进步。 而不是顽固的固执己见， 汉语有关博大精深的词， “观点” 并不是简简单单的看法，古人构词的时候真实想法应该是某一刻或者某一点的看法才叫观点。具有很强的时间点特征，不可能像物理定律一样，永远有效。 投资或者炒作都是基于“观点”这个词， 看到变化推出另外一种变化的方向来投资交易，非常具有时效性，而时效的长短跟变化本来的长短也直接挂钩。AI带来的变化则非常久远，但肯定也有对应的时效。 所以市场流传这样一段话 “要么早信要么坚决不信， 先信卖后信” 每次下撤暴跌亏惨的要么是信最晚的， 相当于49年入国军，溥仪下台入宫当太监。 要么是杠杆打满的，看得再对也承受不住市场的跳动。 做交易只能负责，所以非常厌恶别人问能不能买要不要卖，只想关心自己买没买啥时候卖。自己没有的也不想关心。 回归务实还是多关心关心家人和朋友。 希望老板们未来能看到一个更强的自己。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFWmpJ1SZxIWiWLMPdZkUErgqucAH6AAJoEmsb9e9QVurwcvX04kZpAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFWmpJ1SZxIWiWLMPdZkUErgqucAH6AAJoEmsb9e9QVurwcvX04kZpAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFW2pJ1SmYbjj4VqDPMFxcqTQ0-dK4AAJpEmsb9e9QVk4RRSG8GcK8AQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFW2pJ1SmYbjj4VqDPMFxcqTQ0-dK4AAJpEmsb9e9QVk4RRSG8GcK8AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFXGpJ1S3CfYWP_lI3cT75jScv2eDAAAJqEmsb9e9QVuAekGO1TCmEAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFXGpJ1S3CfYWP_lI3cT75jScv2eDAAAJqEmsb9e9QVuAekGO1TCmEAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFXWpJ1TEzw1Nm1vv9O8OErmiAmh6uAAJrEmsb9e9QVhmmSb2MDVjbAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFXWpJ1TEzw1Nm1vv9O8OErmiAmh6uAAJrEmsb9e9QVhmmSb2MDVjbAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 5](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFXmpJ1TMDZkPMwoPjlQgSLpByrks4AAJsEmsb9e9QVrldjO_lS5ynAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFXmpJ1TMDZkPMwoPjlQgSLpByrks4AAJsEmsb9e9QVrldjO_lS5ynAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2073489584298840564#m)
-
-[🔗 #0705-033015](#_0705-033015)
+[查看原文](https://nitter.net/xiaomustock/status/2073489584298840564#m)
 
 ---
 
-## 2026-07-04 13:16:13  {#_0704-131613}
+## 2026-07-05 23:32:15
 
-🏷️ **[20260704](./tags/20260704.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+三星7.7财报
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFdmpKfe_Gh0phbhM4QLg5AcwLhPrhAALQE2sb9e9QVkZch2CcyxzLAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2073792079445316057#m)
+
+---
+
+## 2026-07-04 13:16:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 meta先发智能体进度不及预期，这俩天阿里和抖音又下架智能体服务，可能是觉得AI没到agi的话，强行投钱研究智能体意义不大。因为最终干活还是ai。 到了agi，自动全都是智能体。 agi出来，可以agi开发智能体。 meta砸几十上百亿美金都搞不出来啥进展，所以其他人直接也不想折腾了。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2073274662549848494#m)
-
-[🔗 #0704-131613](#_0704-131613)
+[查看原文](https://nitter.net/xiaomustock/status/2073274662549848494#m)
 
 ---
 
-## 2026-07-03 12:51:52  {#_0703-125152}
+## 2026-07-03 00:50:47
 
-🏷️ **[20260703](./tags/20260703.html)** 今日关注
-
-韩国指数涨停熔断了。海力士涨9% 夜里抄koru的估计发死了。不仅没跌停，还反向涨停。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFKWpHSRHbkYLFl4g5wBCWTBtO4RFwAAKSEGsbg2VBVuqQ7A-NtKNMAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2072906146638377019#m)
-
-[🔗 #0703-125152](#_0703-125152)
-
----
-
-## 2026-07-03 10:51:20  {#_0703-105120}
-
-🏷️ **[20260703](./tags/20260703.html)** 今日关注
-
-能健康的管理自己仓位已经赢过绝大多数人 即使买对215刀的康宁 $GLW ，如果上杠杆在2x康宁或者正股也上杠杆，昨天一来一回可能人没了。 但是康宁玻璃基板目前是英伟达robin以后芯片的唯一解决方案。 目前因为发热严重导致基板翘曲，无奈把gpu4颗改为俩颗，hbm4e从16组改为8组。 但英伟达还是会不断迭代更强更先进的芯片，堆叠更高的芯片层数，那么按照现有的基板会导致更为严重的发热翘曲完全无法使用。 只能快速推进玻璃基板的方案才能解决。 这都需要时间，但是时间在被加快，最快可能明年年底就能见到规模应用。 高端芯片里玻璃基板的完全垄断，成本敏感度低，为了更强悍的性能，堆叠更高的层数，唯一解能卖出更高的溢价。 一旦大规模量产使用，康宁的价值会被完全挖掘。现在对于傻逼散户来说，涨了就是对，跌了就是错。只能对这些傻逼笑呵呵。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFI2pHLAGpPGWDem3OLeGfXBFwxQThAAJpEGsbg2VBVk5jp9BtKmEFAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2072875811997393037#m)
-
-[🔗 #0703-105120](#_0703-105120)
-
----
-
-## 2026-07-03 10:36:31  {#_0703-103631}
-
-🏷️ **[20260703](./tags/20260703.html)** 今日关注
-
-昨天吓傻了，幸好海力士没跌。 正股跌成这逼样了还能怎么跌。 但2x千问别搞，不懂溢价和净值的要吃大亏
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2072872084175495668#m)
-
-[🔗 #0703-103631](#_0703-103631)
-
----
-
-## 2026-07-03 02:57:33  {#_0703-025733}
-
-🏷️ **[20260703](./tags/20260703.html)** 今日关注
-
-这波带杠杆的死了很多人， 美股分歧越来越大了， 小扎这波直接把AI干碎了。 活下去才有机会，仓位管理比买对啥更重要
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2072756582858019050#m)
-
-[🔗 #0703-025733](#_0703-025733)
-
----
-
-## 2026-07-03 02:11:20  {#_0703-021120}
-
-🏷️ **[20260703](./tags/20260703.html)** 今日关注
-
-v
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2072744950102700182#m)
-
-[🔗 #0703-021120](#_0703-021120)
-
----
-
-## 2026-07-03 00:50:47  {#_0703-005047}
-
-🏷️ **[20260703](./tags/20260703.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 我申请未成年人退款
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072724680503709981#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072724680503709981#m)
 
-[🔗 #0703-005047](#_0703-005047)
+[查看原文](https://nitter.net/xiaomustock/status/2072724680503709981#m)
+
+[查看原文](https://nitter.net/xiaomustock/status/2072724680503709981#m)
+
+[查看原文](https://nitter.net/xiaomustock/status/2072724680503709981#m)
+
+[查看原文](https://nitter.net/xiaomustock/status/2072724680503709981#m)
+
+[查看原文](https://nitter.net/xiaomustock/status/2072724680503709981#m)
 
 ---
 
-## 2026-07-02 17:16:36  {#_0702-171636}
+## 2026-07-03 02:11:20
 
-🏷️ **[20260702](./tags/20260702.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+v
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072744950102700182#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072744950102700182#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072744950102700182#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072744950102700182#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 7" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFBmpGsHrT7JpR98BOt2Pcgtep286bAAJuEmsbg2U5VuGhlkbEu6pWAQADAgADeQADPAQ.jpg" alt="图片 8" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072744950102700182#m)
+
+---
+
+## 2026-07-03 02:57:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这波带杠杆的死了很多人， 美股分歧越来越大了， 小扎这波直接把AI干碎了。 活下去才有机会，仓位管理比买对啥更重要
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072756582858019050#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072756582858019050#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072756582858019050#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFC2pGvwIV7w4irTOsBG-kFNNbnscTAAKAEmsbg2U5Vu0rcBOaIc0YAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072756582858019050#m)
+
+---
+
+## 2026-07-03 10:36:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+昨天吓傻了，幸好海力士没跌。 正股跌成这逼样了还能怎么跌。 但2x千问别搞，不懂溢价和净值的要吃大亏
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072872084175495668#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072872084175495668#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072872084175495668#m)
+
+---
+
+## 2026-07-03 10:51:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+能健康的管理自己仓位已经赢过绝大多数人 即使买对215刀的康宁 $GLW ，如果上杠杆在2x康宁或者正股也上杠杆，昨天一来一回可能人没了。 但是康宁玻璃基板目前是英伟达robin以后芯片的唯一解决方案。 目前因为发热严重导致基板翘曲，无奈把gpu4颗改为俩颗，hbm4e从16组改为8组。 但英伟达还是会不断迭代更强更先进的芯片，堆叠更高的芯片层数，那么按照现有的基板会导致更为严重的发热翘曲完全无法使用。 只能快速推进玻璃基板的方案才能解决。 这都需要时间，但是时间在被加快，最快可能明年年底就能见到规模应用。 高端芯片里玻璃基板的完全垄断，成本敏感度低，为了更强悍的性能，堆叠更高的层数，唯一解能卖出更高的溢价。 一旦大规模量产使用，康宁的价值会被完全挖掘。现在对于傻逼散户来说，涨了就是对，跌了就是错。只能对这些傻逼笑呵呵。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFI2pHLAGpPGWDem3OLeGfXBFwxQThAAJpEGsbg2VBVk5jp9BtKmEFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072875811997393037#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFI2pHLAGpPGWDem3OLeGfXBFwxQThAAJpEGsbg2VBVk5jp9BtKmEFAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072875811997393037#m)
+
+---
+
+## 2026-07-03 12:51:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+韩国指数涨停熔断了。海力士涨9% 夜里抄koru的估计发死了。不仅没跌停，还反向涨停。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFKWpHSRHbkYLFl4g5wBCWTBtO4RFwAAKSEGsbg2VBVuqQ7A-NtKNMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIFHGpHJLw8Cb3KF_xeHzBT8i_Ny4ZgAAJZEGsbg2VBVv9DVrzqYvV8AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072906146638377019#m)
+
+---
+
+## 2026-07-02 17:16:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 有花堪折直须折，莫待无花空折枝。 挥霍和珍惜都是同一件事情， 不舍得也是一种浪费， 在心动热爱的当下，大胆的去享用， 真正的珍惜不是供奉， 而是让美好的事物参与我们生命的流动。 你们要学这个秃头，能干妹子的年纪抓紧干妹子。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE9WpGPDgruoSviM--WZt4AVZzE0mXAALEEGsbg2U5Vn-yBCtNtcJMAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE9WpGPDgruoSviM--WZt4AVZzE0mXAALEEGsbg2U5Vn-yBCtNtcJMAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072610378241159562#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072610378241159562#m)
 
-[🔗 #0702-171636](#_0702-171636)
+## 2026-07-02 15:01:40
 
----
-
-## 2026-07-02 15:01:40  {#_0702-150140}
-
-🏷️ **[20260702](./tags/20260702.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 海力士我是正股没有杠杆，跌成这逼样只能装死了。正股今天都回撤2m太几把惨。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072576421449646285#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072576421449646285#m)
 
-[🔗 #0702-150140](#_0702-150140)
+[查看原文](https://nitter.net/xiaomustock/status/2072576421449646285#m)
 
----
+## 2026-07-02 14:28:01
 
-## 2026-07-02 14:28:01  {#_0702-142801}
-
-🏷️ **[20260702](./tags/20260702.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 韩国人小孩已经生了，塞不回去，好大一盘棋😂 买房贷款已经下来了，但是股市跌的贷款还不上，房子得被拍卖收回去。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE12pGC_AjqNVAiESgfVN2LxmLFfMXAAKcFWsbg2UxVvM7zrGcVyG_AQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIE12pGC_AjqNVAiESgfVN2LxmLFfMXAAKcFWsbg2UxVvM7zrGcVyG_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072567955888668992#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072567955888668992#m)
 
-[🔗 #0702-142801](#_0702-142801)
+[查看原文](https://nitter.net/xiaomustock/status/2072567955888668992#m)
 
----
+## 2026-07-02 14:22:38
 
-## 2026-07-02 14:22:38  {#_0702-142238}
-
-🏷️ **[20260702](./tags/20260702.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 今天亏的上街要饭了， 因为起不来，要不了早饭。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072566598385504509#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072566598385504509#m)
 
-[🔗 #0702-142238](#_0702-142238)
+[查看原文](https://nitter.net/xiaomustock/status/2072566598385504509#m)
 
----
+## 2026-07-02 00:01:54
 
-## 2026-07-02 00:01:54  {#_0702-000154}
-
-🏷️ **[20260702](./tags/20260702.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 画重点，韭菜交易员， 所以爆赚爆亏都别赖我，毕竟没收任何人钱，我也决定不了几千亿美金股票市值的走向。另外那些说看我买的亏的亏了喷我的，你爸妈说话都不听，我说话就听你了？ 另外康宁 $GLW 我215发推特的，快速涨到270。 #海力士 年初推荐到现在拉了3倍 先信卖后信，要么早信要么别信，半路信亏钱活该你傻逼。 我又不是庄家特朗普决定不了行情走向，巴菲特要是赚了笑嘻嘻亏了mmp可能现在穷的上大街要饭了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIExGpFQAN5CCwzrbwxEotW-CtXw5gpAAJ7EWsbitEpVpEcnwtzU_oWAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIExGpFQAN5CCwzrbwxEotW-CtXw5gpAAJ7EWsbitEpVpEcnwtzU_oWAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072349990467588346#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072349990467588346#m)
 
-[🔗 #0702-000154](#_0702-000154)
+[查看原文](https://nitter.net/xiaomustock/status/2072349990467588346#m)
 
 ---
 
-## 2026-07-01 22:05:30  {#_0701-220530}
+## 2026-07-01 22:05:30
 
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 现在市场还啥短缺卡脖子？ 缺钱？
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072320695070347276#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072320695070347276#m)
 
-[🔗 #0701-220530](#_0701-220530)
+## 2026-07-01 21:35:19
 
----
-
-## 2026-07-01 21:35:19  {#_0701-213519}
-
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 这一条新闻把整个AI链条的股票全干死了
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072313102151131546#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072313102151131546#m)
 
-[🔗 #0701-213519](#_0701-213519)
+## 2026-07-01 20:53:52
 
----
-
-## 2026-07-01 20:53:52  {#_0701-205352}
-
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 Meta Platforms(META.O)盘前迅速拉升，现涨超5%，消息称其正在出售富余的人工智能算力资源。 (来自金十数据APP) 这新闻特么，算力不缺了？ 英伟达老黄的没完成订单总不能假的吧mmp
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072302668396331048#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072302668396331048#m)
 
-[🔗 #0701-205352](#_0701-205352)
+## 2026-07-01 20:36:11
 
----
-
-## 2026-07-01 20:36:11  {#_0701-203611}
-
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 今天有个新etf上线， $KMEM ETF单仓 #SK海力士（41.53%） 为绝对第一大重仓； 美光 $MU （19.85%）， #三星（18.81%）次之。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072298219854586201#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072298219854586201#m)
 
-[🔗 #0701-203611](#_0701-203611)
+## 2026-07-01 17:47:38
 
----
-
-## 2026-07-01 17:47:38  {#_0701-174738}
-
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 今天想到一个问题，未来是属于AI的，那为啥AI产业链股暴涨路上还会有暴跌， 大概是市场在调节涨幅去跟它的季度营收或者数年内的预期营收做匹配。 就像草原上骑马，虽然马儿在狂奔，但实际奔跑过程中你一直在来回拉缰绳调控它的节奏，跑累了你还得给它一口草吃。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072255800974930315#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072255800974930315#m)
 
-[🔗 #0701-174738](#_0701-174738)
+## 2026-07-01 15:18:17
 
----
-
-## 2026-07-01 15:18:17  {#_0701-151817}
-
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 SK海力士近期与客户签下的长期供应合约（LTA）与竞争对手不同，采用的是不设价格上限的独特合约架构。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072218218010497414#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072218218010497414#m)
 
-[🔗 #0701-151817](#_0701-151817)
+## 2026-07-01 00:55:25
 
----
-
-## 2026-07-01 00:55:25  {#_0701-005525}
-
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 持有康宁 $GLW 要强大的耐心，2年十倍。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072001069492953548#m)
+[查看原文](https://nitter.net/xiaomustock/status/2072001069492953548#m)
 
-[🔗 #0701-005525](#_0701-005525)
+## 2026-07-01 00:51:43
 
----
-
-## 2026-07-01 00:51:43  {#_0701-005143}
-
-🏷️ **[20260701](./tags/20260701.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 康宁跌的亏麻了
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg)
+[查看原文](https://nitter.net/xiaomustock/status/2072000136872677650#m)
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg)
+[查看原文](https://nitter.net/xiaomustock/status/2072001069492953548#m)
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2072000136872677650#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0701-005143](#_0701-005143)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072218218010497414#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072255800974930315#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 7" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 8" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 9" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 10" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 11" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 12" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 13" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072298219854586201#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 7" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 8" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 9" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 10" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 11" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 12" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 13" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 14" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 15" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 16" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 17" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 18" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 19" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 20" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 21" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 22" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 23" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 24" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 25" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 26" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 27" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072302668396331048#m)
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 7" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 8" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 9" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 10" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 11" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 12" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 13" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 14" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 15" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 16" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 17" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 18" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 19" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 20" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 21" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 22" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 23" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 24" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 25" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 26" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 27" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 28" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvWpFFGtKQv9jokXmgM_b13rUbjIcAAIHEWsbitEpVjEmkYrJK4RBAQADAgADeQADPAQ.jpg" alt="图片 29" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 30" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 31" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 32" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 33" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 34" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 35" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 36" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 37" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 38" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 39" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 40" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 41" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 42" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEvGpFDScS_6b91sws6eCHx57vC00HAALvEGsbitEpVvuWS0J71D6KAQADAgADeQADPAQ.jpg" alt="图片 43" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 44" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 45" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 46" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 47" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 48" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 49" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 50" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 51" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 52" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEuWpExH4rpydcpIuQMMrq-PfWZGRPAAIqEGsbitEpVpTxsWu7ZznqAQADAgADeQADPAQ.jpg" alt="图片 53" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 54" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEoGpD-QsWmoIccc4HVtHIE6M5nWJtAAJbEmsbitEhVj-mgvjmmwfcAQADAgADeQADPAQ.jpg" alt="图片 55" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2072313102151131546#m)
 
 ---
 
-## 2026-06-30 22:20:36  {#_0630-222036}
+## 2026-06-30 00:09:18
 
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力，而且他们几乎不会随意操作，会拿非常久。指数调整的周期特别长， 散户购买指数都会被动买入。 也不存在小票被大户或者kol或者公司管理层操纵涨跌的情况，没有散户互割踩踏。 也能上大仓位。 持仓体验大部分非常舒服。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071962108586344859#m)
-
-[🔗 #0630-222036](#_0630-222036)
-
----
-
-## 2026-06-30 21:55:09  {#_0630-215509}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-$康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT 全部爆拉，做人做事首先要相信自己， 自己给自己洗脑， 自己都不信怎么可能拿得住呢。 大不了错了再改。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmmpD1LYK_oyISxjqlZNZvB7ggRZ7AALZEWsbitEhVtJrRvPX5_QJAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmGpDsGI_J7_ZdrGeut3vYSnhKvXeAAKaEGsbitEhVj_RVfP8sVh3AQADAgADeQADPAQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmWpDsGUK-HBjuq7QgkS16ETkX4c0AAKgEGsbitEhVkKQ5H2hvvSJAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071955704215458276#m)
-
-[🔗 #0630-215509](#_0630-215509)
-
----
-
-## 2026-06-30 19:38:27  {#_0630-193827}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-芯片的设备厂应该才刚刚开始， 存储三家公司赚的1/3可能都要流向这三家。 科磊 $KLAC 应用材料 $AMAT 泛林 $LRCX
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmGpDsGI_J7_ZdrGeut3vYSnhKvXeAAKaEGsbitEhVj_RVfP8sVh3AQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmWpDsGUK-HBjuq7QgkS16ETkX4c0AAKgEGsbitEhVkKQ5H2hvvSJAQADAgADeQADPAQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEj2pDStAqb7b2tAlZo6jXgbSAeQ1NAALeD2sb3DwhVqLDTDS8ISvgAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071921302861222147#m)
-
-[🔗 #0630-193827](#_0630-193827)
-
----
-
-## 2026-06-30 14:42:30  {#_0630-144230}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-影视行业是AI完完整整灭掉的第一个行业， 从导演，编剧，演员，特效等等，上上下下全部完完整整的干死。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071846825792094556#m)
-
-[🔗 #0630-144230](#_0630-144230)
-
----
-
-## 2026-06-30 14:31:42  {#_0630-143142}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-普通人能参与到机会大概率不是物理AI， 很可能是专门做物理AI数据采集的公司， 物理AI数据需求量和需求方的资金规模会给这类公司很高的安全感。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071844105148317910#m)
-
-[🔗 #0630-143142](#_0630-143142)
-
----
-
-## 2026-06-30 14:19:04  {#_0630-141904}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-物理AI很可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。 物理AI的数据采集就是天量的资金， 物理AI需要的存储卡也是天量级别，因为大部分都是视频数据， 物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。然后复刻文本AI节奏后期进入推理卡重新主导。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkmpDYJlMRPnhVxvWB5kirYgfDN-GAAIsEGsb3DwhVmdH9l08YT9cAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071840925597442518#m)
-
-[🔗 #0630-141904](#_0630-141904)
-
----
-
-## 2026-06-30 14:09:32  {#_0630-140932}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-物理AI被英伟达 $NVDA 反复提，但真正意义上的物理AI难找，文本AI都搞不赢的公司不可能搞赢物理AI。可能物理AI需要投入的资金体量要远大于文本AI。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkmpDYJlMRPnhVxvWB5kirYgfDN-GAAIsEGsb3DwhVmdH9l08YT9cAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071838526296227983#m)
-
-[🔗 #0630-140932](#_0630-140932)
-
----
-
-## 2026-06-30 13:41:59  {#_0630-134159}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-从股权和人事关系上看， 万润科技于长江存储， 很可能相当于 兆易创新于长鑫存储。 老板们可以研究一下，A股我也玩不明白。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkGpDWVQM-MeKpE30M2G6M1WlgtEzAAIIEGsb3DwhVkbRzjj4gR_1AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071831593115914395#m)
-
-[🔗 #0630-134159](#_0630-134159)
-
----
-
-## 2026-06-30 13:25:47  {#_0630-132547}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-明年HBM存储会再次挤压消费级dram市场， 因为英伟达必须持续增长，英伟达对于所有AI公司来说它的业绩不能出点点点问题，包括美国政府也不允许。 但是美光几乎不可能进口长鑫存储的dram，只有三星海力士能绕开限制，因为国内扩产的速度快，dram产能提升快，明年很大概率发生的事情就是三星海力士高价买长鑫的dram回来在韩国造hbm4e，再供货给英伟达。 不过这中间肯定会发生很多额外的屁眼交易才可能成功。 只要英伟达的业绩能翻倍增长那么存储价格就很难下来，如果明天这些都发生，那么三星海力士的hbm4e份额会大幅扩大，远远甩开美光。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkWpDWVnkn-_irwldITMTCp5BrxNQAAIJEGsb3DwhVqrVi7fL9GxxAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071827515392635333#m)
-
-[🔗 #0630-132547](#_0630-132547)
-
----
-
-## 2026-06-30 12:36:24  {#_0630-123624}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-康宁 $GLW 真是涨的无敌寂寞！262刀了. 5000亿市值也就600刀左右，对英伟达写明面上合作扩产10倍的康宁来说业绩翻10倍远远不止600刀这个价，期待市场不断的后知后觉涌入，尤其是大机构，他们早晚会根据此给更高的康宁评级。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEjmpDSszcOBd6yBHW2GAbjFz7b-bqAALdD2sb3DwhVkJ_14KeVzFsAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEfmpCo66Nhtb-smR4dsT0z1UjxpAEAAJVEmsb3DwZVkoRNOKYcRknAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071815091692150895#m)
-
-[🔗 #0630-123624](#_0630-123624)
-
----
-
-## 2026-06-30 12:26:16  {#_0630-122616}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-想再加仓点海力士，奈何仓位已经都打满了， 现在想买啥都买不了，昨天想买点芯片半导体设备的2x，忍住了怕杠杆出啥事也没搞。 现在被动成了康宁 $GLW 和 #海力士 躺平了 美股的三个芯片设备刚开始涨， 应用材料 $AMAT 科磊 $KLAC 泛林 $LRCX
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEj2pDStAqb7b2tAlZo6jXgbSAeQ1NAALeD2sb3DwhVqLDTDS8ISvgAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071812539953102902#m)
-
-[🔗 #0630-122616](#_0630-122616)
-
----
-
-## 2026-06-30 00:24:36  {#_0630-002436}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
-
-看来 康宁 $GLW 取代年初海力士的置顶，能挂置顶挂说不定一年。10倍扩产就是10倍业绩暴增，大把的沙雕机构和散户被爆拉起来才能后知后觉这个康宁 $GLW 机会。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEfmpCo66Nhtb-smR4dsT0z1UjxpAEAAJVEmsb3DwZVkoRNOKYcRknAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071630925017018671#m)
-
-[🔗 #0630-002436](#_0630-002436)
-
----
-
-## 2026-06-30 00:09:18  {#_0630-000918}
-
-🏷️ **[20260630](./tags/20260630.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 可惜没有钱往 $LRCX 和 $AMAT 上分配，这俩半导体设备巨头都拉了10%
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYWpCIOO2iOK_ZXffXG_BoDJriOxSAAKXEGsb3DwZVi3hciuDieAvAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYWpCIOO2iOK_ZXffXG_BoDJriOxSAAKXEGsb3DwZVi3hciuDieAvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYmpCIOc4j13sRS8sOoBaJAtV8j6FAAKYEGsb3DwZVitOOYYHxYfZAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYmpCIOc4j13sRS8sOoBaJAtV8j6FAAKYEGsb3DwZVitOOYYHxYfZAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071627073740062736#m)
-
-[🔗 #0630-000918](#_0630-000918)
+[查看原文](https://nitter.net/xiaomustock/status/2071627073740062736#m)
 
 ---
 
-## 2026-06-29 23:36:02  {#_0629-233602}
+## 2026-06-30 00:24:36
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍， 只能说明市场里的傻瓜太多了， 英伟达合作扩产10倍=康宁业绩*10倍。 这都没有被机构冲烂冲爆炸。
+看来 康宁 $GLW 取代年初海力士的置顶，能挂置顶挂说不定一年。10倍扩产就是10倍业绩暴增，大把的沙雕机构和散户被爆拉起来才能后知后觉这个康宁 $GLW 机会。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdGpClSZ5itnNkhGPsXpbWVoDiuubAAI9Emsb3DwZVhF1i1k3LfgGAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEfmpCo66Nhtb-smR4dsT0z1UjxpAEAAJVEmsb3DwZVkoRNOKYcRknAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdWpClSrF3gsJSBpJ4WlKE-bRRF3qAAI-Emsb3DwZVkfracevoZvEAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071618702269980695#m)
-
-[🔗 #0629-233602](#_0629-233602)
+[查看原文](https://nitter.net/xiaomustock/status/2071630925017018671#m)
 
 ---
 
-## 2026-06-29 23:22:41  {#_0629-232241}
+## 2026-06-30 12:26:16
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-眨眼功夫康宁 $GLW 又拉了10%，240刀， 康宁最大的魅力在于未来的确定性。 英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！ 这是英伟达 $NVDA 给康宁的定心丸。 这还只是在玻璃基板没火之前的事情。 自玻璃基板和玻璃桥出来后，康宁的投产后估值可能远不止10倍，那就是远超2万亿美金 按照康宁官方的10倍扩产时间表，完成时间在2028年前后。也就是2年左右的时间赌一个10倍爆拉，非常划算。
+想再加仓点海力士，奈何仓位已经都打满了， 现在想买啥都买不了，昨天想买点芯片半导体设备的2x，忍住了怕杠杆出啥事也没搞。 现在被动成了康宁 $GLW 和 #海力士 躺平了 美股的三个芯片设备刚开始涨， 应用材料 $AMAT 科磊 $KLAC 泛林 $LRCX
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdGpClSZ5itnNkhGPsXpbWVoDiuubAAI9Emsb3DwZVhF1i1k3LfgGAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEj2pDStAqb7b2tAlZo6jXgbSAeQ1NAALeD2sb3DwhVqLDTDS8ISvgAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdWpClSrF3gsJSBpJ4WlKE-bRRF3qAAI-Emsb3DwZVkfracevoZvEAQADAgADeQADPAQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEc2pCjeEgoVAXvar4R0IC0-SZDvIgAAIgEmsb3DwZVpSzcjBdpkGyAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071615344435937283#m)
-
-[🔗 #0629-232241](#_0629-232241)
+[查看原文](https://nitter.net/xiaomustock/status/2071812539953102902#m)
 
 ---
 
-## 2026-06-29 23:12:17  {#_0629-231217}
+## 2026-06-30 12:36:24
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-希望评论区能发一些有见解的评论和提供一些有价值的信息。 否则都会屏蔽，瞎几把水和流量于我没啥意义。
+康宁 $GLW 真是涨的无敌寂寞！262刀了. 5000亿市值也就600刀左右，对英伟达写明面上合作扩产10倍的康宁来说业绩翻10倍远远不止600刀这个价，期待市场不断的后知后觉涌入，尤其是大机构，他们早晚会根据此给更高的康宁评级。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071612729169998170#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEjmpDSszcOBd6yBHW2GAbjFz7b-bqAALdD2sb3DwhVkJ_14KeVzFsAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0629-231217](#_0629-231217)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEfmpCo66Nhtb-smR4dsT0z1UjxpAEAAJVEmsb3DwZVkoRNOKYcRknAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
----
-
-## 2026-06-29 23:09:55  {#_0629-230955}
-
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
-
-来了蓝v评论，评论区虽然没有了钓鱼号，但出现了大量的ai评论的蓝v号。 准备开始把yisiai评论的ai号都屏蔽掉。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071612133197087030#m)
-
-[🔗 #0629-230955](#_0629-230955)
+[查看原文](https://nitter.net/xiaomustock/status/2071815091692150895#m)
 
 ---
 
-## 2026-06-29 22:57:46  {#_0629-225746}
+## 2026-06-30 13:25:47
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-买康宁这几天虽然没挣钱但刚好躲过暴跌， 康宁 $GLW 硬的非常不正常 。
+明年HBM存储会再次挤压消费级dram市场， 因为英伟达必须持续增长，英伟达对于所有AI公司来说它的业绩不能出点点点问题，包括美国政府也不允许。 但是美光几乎不可能进口长鑫存储的dram，只有三星海力士能绕开限制，因为国内扩产的速度快，dram产能提升快，明年很大概率发生的事情就是三星海力士高价买长鑫的dram回来在韩国造hbm4e，再供货给英伟达。 不过这中间肯定会发生很多额外的屁眼交易才可能成功。 只要英伟达的业绩能翻倍增长那么存储价格就很难下来，如果明天这些都发生，那么三星海力士的hbm4e份额会大幅扩大，远远甩开美光。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEc2pCjeEgoVAXvar4R0IC0-SZDvIgAAIgEmsb3DwZVpSzcjBdpkGyAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkWpDWVnkn-_irwldITMTCp5BrxNQAAIJEGsb3DwhVqrVi7fL9GxxAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071609072424771784#m)
-
-[🔗 #0629-225746](#_0629-225746)
+[查看原文](https://nitter.net/xiaomustock/status/2071827515392635333#m)
 
 ---
 
-## 2026-06-29 22:32:03  {#_0629-223203}
+## 2026-06-30 13:41:59
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-还是康宁牛逼， 刚把我自己的 $asx 剩的一点都卖了换成康宁 $GLW 。 现在50% 海力士正股，50%康宁
+从股权和人事关系上看， 万润科技于长江存储， 很可能相当于 兆易创新于长鑫存储。 老板们可以研究一下，A股我也玩不明白。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEcmpChp4IF5YIQ3c8AvNQg1Hz5BxaAALiEWsb3DwZVkSghSMO7E5GAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkGpDWVQM-MeKpE30M2G6M1WlgtEzAAIIEGsb3DwhVkbRzjj4gR_1AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071602603545510353#m)
-
-[🔗 #0629-223203](#_0629-223203)
+[查看原文](https://nitter.net/xiaomustock/status/2071831593115914395#m)
 
 ---
 
-## 2026-06-29 22:13:07  {#_0629-221307}
+## 2026-06-30 14:09:32
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-存储炸了，天塌了一半
+物理AI被英伟达 $NVDA 反复提，但真正意义上的物理AI难找，文本AI都搞不赢的公司不可能搞赢物理AI。可能物理AI需要投入的资金体量要远大于文本AI。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071597838673555925#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkmpDYJlMRPnhVxvWB5kirYgfDN-GAAIsEGsb3DwhVmdH9l08YT9cAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0629-221307](#_0629-221307)
-
----
-
-## 2026-06-29 21:46:22  {#_0629-214622}
-
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
-
-想到一个问题，这几天看到英伟达190低估，20倍市盈率，按照每年几乎100%的增速，明年就是10倍市盈率。但是英伟达想实现100%增速，那么就要搭配double的hbm，那么就需要双倍的消费级dram去造hbm，但是明年存储还是没有新增产能，这个局面最终会怎么样？ 我猜测可能路径是明年某个时刻三星海力士找长鑫进口dram，然后再在自己家工厂封装成hbm4e。因为英伟达不可能直接用长鑫造的hbm，技术和国情都不允许。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071591106803118442#m)
-
-[🔗 #0629-214622](#_0629-214622)
+[查看原文](https://nitter.net/xiaomustock/status/2071838526296227983#m)
 
 ---
 
-## 2026-06-29 16:34:35  {#_0629-163435}
+## 2026-06-30 14:19:04
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， 这些etf都能涨停真是万万不可能想到。
+物理AI很可能没有1000亿美金的现金储备可能都搞不来，所以小公司都不用考虑。 物理AI的数据采集就是天量的资金， 物理AI需要的存储卡也是天量级别，因为大部分都是视频数据， 物理AI如果开始兴起那训练卡的需求会再次被打满，到时候很可能是英伟达的第二增长曲线。然后复刻文本AI节奏后期进入推理卡重新主导。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEZmpCNrAAAcaRa-13RWSxishVFe9HWAAC0xBrG9w8GVZRjvtAEcFhvAEAAwIAA3kAAzwE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEkmpDYJlMRPnhVxvWB5kirYgfDN-GAAIsEGsb3DwhVmdH9l08YT9cAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071512640715952494#m)
-
-[🔗 #0629-163435](#_0629-163435)
+[查看原文](https://nitter.net/xiaomustock/status/2071840925597442518#m)
 
 ---
 
-## 2026-06-29 15:24:45  {#_0629-152445}
+## 2026-06-30 14:31:42
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-问ai如果把日本韩国美国台湾欧盟的半导体设备龙头股组合成一个etf，取10个股票，如何组合，最好跟存储芯片的扩产路径相关的设备。 设备采购顺序一般是： 前道设备（刻蚀→薄膜沉积→清洗→检测→光刻）→ 后道封装（HBM）→ 测试 因此ETF应该偏重刻蚀、沉积、清洗，而不是EDA或晶圆代工。 1. $LRCX 20% 2. 8035.T 18% 3. AMAT 15% 4. 6525.T 10% 5. 7735.T 10% 6. http://ASM.AS 8% 7. 6857.T 8% 8. 042700.KS 5% 9.ASML / http://ASML.AS 4% 10. 8036.T 2% 核心逻辑： 重仓顺序： 刻蚀 &gt; 沉积 &gt; 清洗 &gt; 测试 &gt; HBM封装 &gt; 光刻/检测 最核心三只： LRCX、东京电子、AMAT 最贴近HBM后道： Advantest、Hanmi 最贴近DRAM/NAND前道扩产： LRCX、东京电子、AMAT、Kokusai、SCREEN
+普通人能参与到机会大概率不是物理AI， 很可能是专门做物理AI数据采集的公司， 物理AI数据需求量和需求方的资金规模会给这类公司很高的安全感。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYWpCIOO2iOK_ZXffXG_BoDJriOxSAAKXEGsb3DwZVi3hciuDieAvAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYmpCIOc4j13sRS8sOoBaJAtV8j6FAAKYEGsb3DwZVitOOYYHxYfZAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071495069815992433#m)
-
-[🔗 #0629-152445](#_0629-152445)
+[查看原文](https://nitter.net/xiaomustock/status/2071844105148317910#m)
 
 ---
 
-## 2026-06-29 10:59:05  {#_0629-105905}
+## 2026-06-30 14:42:30
 
-🏷️ **[20260629](./tags/20260629.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+影视行业是AI完完整整灭掉的第一个行业， 从导演，编剧，演员，特效等等，上上下下全部完完整整的干死。
+
+[查看原文](https://nitter.net/xiaomustock/status/2071846825792094556#m)
+
+---
+
+## 2026-06-30 19:38:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+芯片的设备厂应该才刚刚开始， 存储三家公司赚的1/3可能都要流向这三家。 科磊 $KLAC 应用材料 $AMAT 泛林 $LRCX
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmGpDsGI_J7_ZdrGeut3vYSnhKvXeAAKaEGsbitEhVj_RVfP8sVh3AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmWpDsGUK-HBjuq7QgkS16ETkX4c0AAKgEGsbitEhVkKQ5H2hvvSJAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEj2pDStAqb7b2tAlZo6jXgbSAeQ1NAALeD2sb3DwhVqLDTDS8ISvgAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071921302861222147#m)
+
+---
+
+## 2026-06-30 21:55:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+$康宁 $GLW 泛林 $LRCX 科磊 $KLAC 应用材料 $AMAT 全部爆拉，做人做事首先要相信自己， 自己给自己洗脑， 自己都不信怎么可能拿得住呢。 大不了错了再改。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmmpD1LYK_oyISxjqlZNZvB7ggRZ7AALZEWsbitEhVtJrRvPX5_QJAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmGpDsGI_J7_ZdrGeut3vYSnhKvXeAAKaEGsbitEhVj_RVfP8sVh3AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEmWpDsGUK-HBjuq7QgkS16ETkX4c0AAKgEGsbitEhVkKQ5H2hvvSJAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071955704215458276#m)
+
+---
+
+## 2026-06-30 22:20:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这些千亿级别的大市值股票还有个好处，趋势确立会有源源不断的机构和指数加仓猛干，形成合力，而且他们几乎不会随意操作，会拿非常久。指数调整的周期特别长， 散户购买指数都会被动买入。 也不存在小票被大户或者kol或者公司管理层操纵涨跌的情况，没有散户互割踩踏。 也能上大仓位。 持仓体验大部分非常舒服。
+
+[查看原文](https://nitter.net/xiaomustock/status/2071962108586344859#m)
+
+---
+
+## 2026-06-29 10:59:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 这人非常符合想象中韩国投资者的精神状态
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYGpB5sNcwWD82F3cS8p-FcSZCmvyAAKjEGsb3DwRVuQQaYlgX4u8AQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYGpB5sNcwWD82F3cS8p-FcSZCmvyAAKjEGsb3DwRVuQQaYlgX4u8AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071428211859394705#m)
-
-[🔗 #0629-105905](#_0629-105905)
+[查看原文](https://nitter.net/xiaomustock/status/2071428211859394705#m)
 
 ---
 
-## 2026-06-28 18:23:03  {#_0628-182303}
+## 2026-06-29 15:24:45
 
-🏷️ **[20260628](./tags/20260628.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-群联ceo在年初就预言下半年因为涨价或拿不到存储的消费电子公司会倒闭，比如那个运动相机鼻祖gopro已经因此倒闭了。 一切都在逐步印证他的想法。
+问ai如果把日本韩国美国台湾欧盟的半导体设备龙头股组合成一个etf，取10个股票，如何组合，最好跟存储芯片的扩产路径相关的设备。 设备采购顺序一般是： 前道设备（刻蚀→薄膜沉积→清洗→检测→光刻）→ 后道封装（HBM）→ 测试 因此ETF应该偏重刻蚀、沉积、清洗，而不是EDA或晶圆代工。 1. $LRCX 20% 2. 8035.T 18% 3. AMAT 15% 4. 6525.T 10% 5. 7735.T 10% 6. http://ASM.AS 8% 7. 6857.T 8% 8. 042700.KS 5% 9.ASML / http://ASML.AS 4% 10. 8036.T 2% 核心逻辑： 重仓顺序： 刻蚀 > 沉积 > 清洗 > 测试 > HBM封装 > 光刻/检测 最核心三只： LRCX、东京电子、AMAT 最贴近HBM后道： Advantest、Hanmi 最贴近DRAM/NAND前道扩产： LRCX、东京电子、AMAT、Kokusai、SCREEN
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEVWpA_kD_D4e8xEDxmn5Rbu3OJIaEAAKnEmsb85EIVi9nfhHjT8ULAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYWpCIOO2iOK_ZXffXG_BoDJriOxSAAKXEGsb3DwZVi3hciuDieAvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEVGpA9vu8kMeRU0SjFWwh1joKOI_IAAJxEGsb85EAAVZe2kcAAXyaYWsBAAMCAAN5AAM8BA.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEYmpCIOc4j13sRS8sOoBaJAtV8j6FAAKYEGsb3DwZVitOOYYHxYfZAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071177551670907386#m)
-
-[🔗 #0628-182303](#_0628-182303)
+[查看原文](https://nitter.net/xiaomustock/status/2071495069815992433#m)
 
 ---
 
-## 2026-06-28 18:17:24  {#_0628-181724}
+## 2026-06-29 16:34:35
 
-🏷️ **[20260628](./tags/20260628.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-谷歌限制了meta对gemini模型的使用需求。 这还不能证明AI基建还非常早期吗， 供不应求，AI的发展速度远超基建速度。 这些大公司是看到了产品狂暴的需求端可能才大举借债融资搞AI基建。 并非是没有转化成收入， 对谷歌来说都开始因为需求暴限制客户使用了， 咋可能没转化收入。 我们这些普通人都是小虾米，可能远远看不清未来的真相， 但自己看不见可以相信黄仁勋看得见，谷歌看得见，美光ceo看得见，三星海力士老板看得见，群联的那个ceo潘健成也非常非常有眼光和远见，我从去年到今年一直看他的存储相关的言论，他的思维和眼光特别超前。
+a股最近一个月的半导体设备etf涨疯了， 买个锤子的个股， 这些etf都能涨停真是万万不可能想到。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEVGpA9vu8kMeRU0SjFWwh1joKOI_IAAJxEGsb85EAAVZe2kcAAXyaYWsBAAMCAAN5AAM8BA.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEZmpCNrAAAcaRa-13RWSxishVFe9HWAAC0xBrG9w8GVZRjvtAEcFhvAEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071176129298534424#m)
-
-[🔗 #0628-181724](#_0628-181724)
+[查看原文](https://nitter.net/xiaomustock/status/2071512640715952494#m)
 
 ---
 
-## 2026-06-28 16:46:01  {#_0628-164601}
+## 2026-06-29 21:46:22
 
-🏷️ **[20260628](./tags/20260628.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-存储的地位一年内都难以改变， 安心等海力士7月23号发的1300亿美金的季度利润财报。 美光难料，但 #海力士 绝对没问题。 这些大公司云厂的借债和融资都是为了给存储送钱。要么生要么死，没有存储产品和服务就没法提供，这俩年产能就这么多。 即使是国内长鑫长江一样是满产。
+想到一个问题，这几天看到英伟达190低估，20倍市盈率，按照每年几乎100%的增速，明年就是10倍市盈率。但是英伟达想实现100%增速，那么就要搭配double的hbm，那么就需要双倍的消费级dram去造hbm，但是明年存储还是没有新增产能，这个局面最终会怎么样？ 我猜测可能路径是明年某个时刻三星海力士找长鑫进口dram，然后再在自己家工厂封装成hbm4e。因为英伟达不可能直接用长鑫造的hbm，技术和国情都不允许。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDz2o8l4tVO8UIEZFu4hkqg5wKjLb2AAKPE2sbQ-XhVUfki9UV4-s5AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071153131166314689#m)
-
-[🔗 #0628-164601](#_0628-164601)
+[查看原文](https://nitter.net/xiaomustock/status/2071591106803118442#m)
 
 ---
 
-## 2026-06-28 13:55:59  {#_0628-135559}
+## 2026-06-29 22:13:07
 
-🏷️ **[20260628](./tags/20260628.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-今天也算是半年过去，对自己上半年的惨痛交易也做个总结， 1.尽量买标品生意能流水线生产的或者互联网能直接复制产品的公司。 诺基亚这一俩个月俩回没啥起色，可能就跟它非标品的生意模式有关，基站啥的只能靠人力一点点干，搞土地搞关系搞人力搞供应链，苦力生意。 2.尽量买护城河极高，能参与公司极少的垄断公司垄断行业，湖南裕能这些就是对手多，无脑扩产的太疯狂，很难形成自己稳固的定价权。 3.自己没法掌控它实时仓过往业绩也不是特别好的etf或者lof少碰。当时5月初选港美互联网lof这个标是因为它持有美光和闪迪。如果基金经理完全按照一季度持仓加仓，则后续理论上表现会非常夸张，毕竟美光和闪迪在6月都涨了快50%，但真想不通这个傻逼经理在秀什么几把操作，后续价格走势完全跟美光和闪迪无关联。简直是盲盒交易。远不及中韩半导体这种etf持仓稳固，几个季度过去一直高比例持有三星海力士。 4.最重要最严重的错误，融资上杠杆。 差点在3月份爆仓死掉，2x海力士和ewy都暴跌差点没熬过去。以后再不去买超过自己本金的资产，顶多在自己本金范围内购买2x扩大上升周期的收益。 最沉痛的教训，当时3月的暴跌不仅吞噬了我1/2月份的收益，还直接巨亏打到了接近失去上桌的机会。 后续市场肯定还会有类似的波动， 比如真的加息来临， 比如市场承受不住大把的AI公司发债融资， 比如存储高价可能大幅抑制消费端需求，造成需求减弱，或者存储后期大幅度扩产引发降价等等。 总之市场会在我们意想不到的方式来一个黑天鹅来摧毁杠杆投资者，一俩个月风声过去，股市继续歌舞升平，全场新高，但与你无关。
+存储炸了，天塌了一半
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIESmpAvNrHIDL3jtRZcs-wesmq6PFWAAISEGsb85EAAVYDFZ4-n11Z6AEAAwIAA3kAAzwE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2071110343636779062#m)
-
-[🔗 #0628-135559](#_0628-135559)
+[查看原文](https://nitter.net/xiaomustock/status/2071597838673555925#m)
 
 ---
 
-## 2026-06-28 13:05:30  {#_0628-130530}
+## 2026-06-29 22:32:03
 
-🏷️ **[20260628](./tags/20260628.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-这是年初写的对去年的交易体会总结， 能未来替代目前全AI行业抽水机存储地位的，可能就是康宁的这个集成了光纤光通信的玻璃基板。 不过没有发生百亿美金规模级的利润前人们还很难确定，我也是。 只是从黄仁勋让康宁扩产10倍，那么肯定对应着未来英伟达十倍以上的需求。 说明在投产放量后会发生10倍以上的需求暴增，这跟存储发生的事情有点点像。 如果未来某一天发生AI的某细分行业数倍增速百亿美金级别的规模利润，如果还拥有极高护城河极少竞争对手，那值得瞬间梭哈 。 现在阶段只能猜，但最终会百分之一万有这么一天，至于哪个细分则不可知。
+还是康宁牛逼， 刚把我自己的 $asx 剩的一点都卖了换成康宁 $GLW 。 现在50% 海力士正股，50%康宁
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIESGpArlLYL1tKIJguj1Zr1ppjkN8KAAL5D2sb85EAAVY5lM2-pko2FwEAAwIAA3kAAzwE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEcmpChp4IF5YIQ3c8AvNQg1Hz5BxaAALiEWsb3DwZVkSghSMO7E5GAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2071097639148683490#m)
-
-[🔗 #0628-130530](#_0628-130530)
+[查看原文](https://nitter.net/xiaomustock/status/2071602603545510353#m)
 
 ---
 
-## 2026-06-28 03:11:19  {#_0628-031119}
+## 2026-06-29 22:57:46
 
-🏷️ **[20260628](./tags/20260628.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+买康宁这几天虽然没挣钱但刚好躲过暴跌， 康宁 $GLW 硬的非常不正常 。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEc2pCjeEgoVAXvar4R0IC0-SZDvIgAAIgEmsb3DwZVpSzcjBdpkGyAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071609072424771784#m)
+
+---
+
+## 2026-06-29 23:09:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+来了蓝v评论，评论区虽然没有了钓鱼号，但出现了大量的ai评论的蓝v号。 准备开始把yisiai评论的ai号都屏蔽掉。
+
+[查看原文](https://nitter.net/xiaomustock/status/2071612133197087030#m)
+
+---
+
+## 2026-06-29 23:12:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+希望评论区能发一些有见解的评论和提供一些有价值的信息。 否则都会屏蔽，瞎几把水和流量于我没啥意义。
+
+[查看原文](https://nitter.net/xiaomustock/status/2071612729169998170#m)
+
+---
+
+## 2026-06-29 23:22:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+眨眼功夫康宁 $GLW 又拉了10%，240刀， 康宁最大的魅力在于未来的确定性。 英伟达让康宁扩产10倍，那么在投产后说明康宁业绩也要10倍涨幅！ 这是英伟达 $NVDA 给康宁的定心丸。 这还只是在玻璃基板没火之前的事情。 自玻璃基板和玻璃桥出来后，康宁的投产后估值可能远不止10倍，那就是远超2万亿美金 按照康宁官方的10倍扩产时间表，完成时间在2028年前后。也就是2年左右的时间赌一个10倍爆拉，非常划算。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdGpClSZ5itnNkhGPsXpbWVoDiuubAAI9Emsb3DwZVhF1i1k3LfgGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdWpClSrF3gsJSBpJ4WlKE-bRRF3qAAI-Emsb3DwZVkfracevoZvEAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEc2pCjeEgoVAXvar4R0IC0-SZDvIgAAIgEmsb3DwZVpSzcjBdpkGyAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071615344435937283#m)
+
+---
+
+## 2026-06-29 23:36:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+康宁 $GLW 自跟英伟达合作扩产10倍，而康宁股价只涨了25%没翻倍， 只能说明市场里的傻瓜太多了， 英伟达合作扩产10倍=康宁业绩*10倍。 这都没有被机构冲烂冲爆炸。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdGpClSZ5itnNkhGPsXpbWVoDiuubAAI9Emsb3DwZVhF1i1k3LfgGAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEdWpClSrF3gsJSBpJ4WlKE-bRRF3qAAI-Emsb3DwZVkfracevoZvEAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071618702269980695#m)
+
+---
+
+## 2026-06-28 03:11:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 现在看来 康宁 $GLW 是英伟达接下来的芯片散热必选项。芯片越堆越厚，玻璃基板成了唯一解决方案。而未来康宁的产量会直接决定英伟达的产量，如果康宁不扩产，未来英伟达的芯片就没法迭代更先进的版本，因为传统基板满足不了后续新一代AI芯片的散热问题。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEQWpAJEQCXDQe93DlZMTquiWWXgKCAAKDD2sb85EAAVZCDm8xefEKuwEAAwIAA3kAAzwE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEQWpAJEQCXDQe93DlZMTquiWWXgKCAAKDD2sb85EAAVZCDm8xefEKuwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070948104535498983#m)
-
-[🔗 #0628-031119](#_0628-031119)
+[查看原文](https://nitter.net/xiaomustock/status/2070948104535498983#m)
 
 ---
 
-## 2026-06-27 11:31:50  {#_0627-113150}
+## 2026-06-28 13:05:30
 
-🏷️ **[20260627](./tags/20260627.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-美股即将上线海力士的2x杠杆etf $SKUU 做多 $SKDD 做空
+这是年初写的对去年的交易体会总结， 能未来替代目前全AI行业抽水机存储地位的，可能就是康宁的这个集成了光纤光通信的玻璃基板。 不过没有发生百亿美金规模级的利润前人们还很难确定，我也是。 只是从黄仁勋让康宁扩产10倍，那么肯定对应着未来英伟达十倍以上的需求。 说明在投产放量后会发生10倍以上的需求暴增，这跟存储发生的事情有点点像。 如果未来某一天发生AI的某细分行业数倍增速百亿美金级别的规模利润，如果还拥有极高护城河极少竞争对手，那值得瞬间梭哈 。 现在阶段只能猜，但最终会百分之一万有这么一天，至于哪个细分则不可知。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEK2o_SgyGIA43IWHUl2nMvKL7yS7fAAKpD2sbrrv4VbdT4NyqgwgaAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIESGpArlLYL1tKIJguj1Zr1ppjkN8KAAL5D2sb85EAAVY5lM2-pko2FwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070711678912921752#m)
-
-[🔗 #0627-113150](#_0627-113150)
+[查看原文](https://nitter.net/xiaomustock/status/2071097639148683490#m)
 
 ---
 
-## 2026-06-27 01:55:08  {#_0627-015508}
+## 2026-06-28 13:55:59
 
-🏷️ **[20260627](./tags/20260627.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+今天也算是半年过去，对自己上半年的惨痛交易也做个总结， 1.尽量买标品生意能流水线生产的或者互联网能直接复制产品的公司。 诺基亚这一俩个月俩回没啥起色，可能就跟它非标品的生意模式有关，基站啥的只能靠人力一点点干，搞土地搞关系搞人力搞供应链，苦力生意。 2.尽量买护城河极高，能参与公司极少的垄断公司垄断行业，湖南裕能这些就是对手多，无脑扩产的太疯狂，很难形成自己稳固的定价权。 3.自己没法掌控它实时仓过往业绩也不是特别好的etf或者lof少碰。当时5月初选港美互联网lof这个标是因为它持有美光和闪迪。如果基金经理完全按照一季度持仓加仓，则后续理论上表现会非常夸张，毕竟美光和闪迪在6月都涨了快50%，但真想不通这个傻逼经理在秀什么几把操作，后续价格走势完全跟美光和闪迪无关联。简直是盲盒交易。远不及中韩半导体这种etf持仓稳固，几个季度过去一直高比例持有三星海力士。 4.最重要最严重的错误，融资上杠杆。 差点在3月份爆仓死掉，2x海力士和ewy都暴跌差点没熬过去。以后再不去买超过自己本金的资产，顶多在自己本金范围内购买2x扩大上升周期的收益。 最沉痛的教训，当时3月的暴跌不仅吞噬了我1/2月份的收益，还直接巨亏打到了接近失去上桌的机会。 后续市场肯定还会有类似的波动， 比如真的加息来临， 比如市场承受不住大把的AI公司发债融资， 比如存储高价可能大幅抑制消费端需求，造成需求减弱，或者存储后期大幅度扩产引发降价等等。 总之市场会在我们意想不到的方式来一个黑天鹅来摧毁杠杆投资者，一俩个月风声过去，股市继续歌舞升平，全场新高，但与你无关。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIESmpAvNrHIDL3jtRZcs-wesmq6PFWAAISEGsb85EAAVYDFZ4-n11Z6AEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071110343636779062#m)
+
+---
+
+## 2026-06-28 16:46:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+存储的地位一年内都难以改变， 安心等海力士7月23号发的1300亿美金的季度利润财报。 美光难料，但 #海力士 绝对没问题。 这些大公司云厂的借债和融资都是为了给存储送钱。要么生要么死，没有存储产品和服务就没法提供，这俩年产能就这么多。 即使是国内长鑫长江一样是满产。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDz2o8l4tVO8UIEZFu4hkqg5wKjLb2AAKPE2sbQ-XhVUfki9UV4-s5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071153131166314689#m)
+
+---
+
+## 2026-06-28 18:17:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+谷歌限制了meta对gemini模型的使用需求。 这还不能证明AI基建还非常早期吗， 供不应求，AI的发展速度远超基建速度。 这些大公司是看到了产品狂暴的需求端可能才大举借债融资搞AI基建。 并非是没有转化成收入， 对谷歌来说都开始因为需求暴限制客户使用了， 咋可能没转化收入。 我们这些普通人都是小虾米，可能远远看不清未来的真相， 但自己看不见可以相信黄仁勋看得见，谷歌看得见，美光ceo看得见，三星海力士老板看得见，群联的那个ceo潘健成也非常非常有眼光和远见，我从去年到今年一直看他的存储相关的言论，他的思维和眼光特别超前。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEVGpA9vu8kMeRU0SjFWwh1joKOI_IAAJxEGsb85EAAVZe2kcAAXyaYWsBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071176129298534424#m)
+
+---
+
+## 2026-06-28 18:23:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+群联ceo在年初就预言下半年因为涨价或拿不到存储的消费电子公司会倒闭，比如那个运动相机鼻祖gopro已经因此倒闭了。 一切都在逐步印证他的想法。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEVWpA_kD_D4e8xEDxmn5Rbu3OJIaEAAKnEmsb85EIVi9nfhHjT8ULAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEVGpA9vu8kMeRU0SjFWwh1joKOI_IAAJxEGsb85EAAVZe2kcAAXyaYWsBAAMCAAN5AAM8BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2071177551670907386#m)
+
+---
+
+## 2026-06-27 01:55:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 跟AI聊了一会，对康宁 $GLW 的未来越来越有信心。 相当于康宁未来的市值=现在abf载板市值+cohr/lite这些cpo市值总和。 正儿八经三年后的万亿美元公司，康宁把光互连直接做到自己精通领域的玻璃板里面了，之前其他企业的光互连方案还在abf板上努力，但下一代芯片基板已经变了，降维打击。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEHmo-v_9VrtbJkfvwbv7o56gE7hqIAAKiDmsbrrv4VRaKAaBcM4q2AQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEHmo-v_9VrtbJkfvwbv7o56gE7hqIAAKiDmsbrrv4VRaKAaBcM4q2AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEH2o-wANbCBeN0eprrxmmqtCSsX9KAAKjDmsbrrv4VTRPcU557ttuAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEH2o-wANbCBeN0eprrxmmqtCSsX9KAAKjDmsbrrv4VTRPcU557ttuAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEIGo-wAYYSZaiZuTWSeVScH0tQAV5AAKkDmsbrrv4VVhW375fISaaAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEIGo-wAYYSZaiZuTWSeVScH0tQAV5AAKkDmsbrrv4VVhW375fISaaAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEIWo-wAp9H-gR5WiEJbkVFuWYeTlcAAKlDmsbrrv4VSA7NJEbetbhAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEIWo-wAp9H-gR5WiEJbkVFuWYeTlcAAKlDmsbrrv4VSA7NJEbetbhAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 5](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070566545139683434#m)
-
-[🔗 #0627-015508](#_0627-015508)
+[查看原文](https://nitter.net/xiaomustock/status/2070566545139683434#m)
 
 ---
 
-## 2026-06-26 23:12:34  {#_0626-231234}
+## 2026-06-27 11:31:50
 
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-马斯克也说产量和需求之间有巨大鸿沟， 马斯克的规划要非常庞大的存储量，除非马斯克上手自己造存储芯片，不然它的几个业务都不挣钱买不起海量的存储。
+美股即将上线海力士的2x杠杆etf $SKUU 做多 $SKDD 做空
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070525636251468136#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEK2o_SgyGIA43IWHUl2nMvKL7yS7fAAKpD2sbrrv4VbdT4NyqgwgaAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0626-231234](#_0626-231234)
-
----
-
-## 2026-06-26 19:52:22  {#_0626-195222}
-
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
-
-AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连网那种是个程序员都能干的。 你会敲个代码，能买个域名，自己就能捣鼓个网站干互联网产业。 AI你没有千亿万亿资金，什么也做不出来， 而拥有这个水平资金玩得起AI的，全球合起来都没多少家。 真正意义上的玩家俩只手数得过来。 所以赢家的范围非常小。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070475253793652956#m)
-
-[🔗 #0626-195222](#_0626-195222)
+[查看原文](https://nitter.net/xiaomustock/status/2070711678912921752#m)
 
 ---
 
-## 2026-06-26 19:44:08  {#_0626-194408}
+## 2026-06-26 11:02:25
 
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
-
-而且即使一旦发生AGI时刻，这些大厂原有购买到的存储卡算力卡也都会瞬间变成恐怖的印钞机。 人们觉得泡沫觉得要到头了， 是因为AI发展俩仨年了，人们还没有见过真正意义上能取代他们生活工作的超强AI，只觉得依照这种目前的Ai状态只能停留在手机电脑的聊天框里，他们似乎没有多大的价值。 这是对AI太弱小的嘲讽。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070473181593473436#m)
-
-[🔗 #0626-194408](#_0626-194408)
-
----
-
-## 2026-06-26 19:38:26  {#_0626-193826}
-
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
-
-现在确实是AI非常早期的阶段， 大厂之所以巨额投入， 就是想通过自己海量的算力，海量的存储， 抢先干出AGI时刻， 那就是赢家通吃的时刻， AI瞬间席卷摧毁变革所有行业， 赢家会成为人类有史以来市值最庞大的公司 你不投入不卷算力卷内存卷人才，那么你最终突破的几率就比别人少一点， 一旦突破的不是你， 那市场最终只有1和0。 为啥国内的智驾汽车卖不到美国， 跟特斯拉满血fsd比它就是1，其他就是0。 即使有人买也是美国底层傻逼实在是太多，智力分层严重。 我们此刻的恐惧，担忧，都受限于我们的想象力。老黄让康宁扩产10倍，总不能还没扩产AI没了，你聪明还是老黄聪明，你有远见还是老黄有远见。 他之所以提前让康宁扩大10倍的产能就是不想再未来下个阶段的产品重蹈存储三巨头的覆辙。康宁在英伟达下个阶段产品中对老黄太重要了。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070471746512429241#m)
-
-[🔗 #0626-193826](#_0626-193826)
-
----
-
-## 2026-06-26 19:28:02  {#_0626-192802}
-
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
-
-AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。 所有的脏活累活AI机器人干， 所有复杂耗时的脑力活动AI干， 现在的agent还很弱智。 现在的AI也没有普及进入每个人的生活， 你们现在所从事的工作没有被AI取代， 说明AI的泡沫破灭还路途遥远， AI都还没理解物理世界， 只在文字层面和虚拟空间挣扎， 跌一跌的很正常， 真到哪头满大街的机器人外卖员， 机器人服务员，机器人厨师， 所有的科技创新，创意，AI最终都会比人类干的更好，但现在远远没有， 等吧，泡沫最起码也是agi来临后。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEFmo-aM4eNGFBVOw-o74MTM_laMWEAAJkDWsbrrv4VbLZTuPXnCwvAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070469129996324930#m)
-
-[🔗 #0626-192802](#_0626-192802)
-
----
-
-## 2026-06-26 18:45:54  {#_0626-184554}
-
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
-
-在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。 对英伟达刚开始利空，长期也是利好，因为现在的英伟达是存储的搬运工，存储降价的时候，英伟达的产品不一定降价，利润也会暴涨，这也是这一年多英伟达不涨的原因。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070458526225563910#m)
-
-[🔗 #0626-184554](#_0626-184554)
-
----
-
-## 2026-06-26 18:41:37  {#_0626-184137}
-
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
-
-存储三家海力士三星美光合起来市值应该要比英伟达值钱。 三家可以不造hbm直接卖dram， 但英伟达不买hbm，营收就归零了。 话语权更大的一方应该享受更大的市值。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070457449300348980#m)
-
-[🔗 #0626-184137](#_0626-184137)
-
----
-
-## 2026-06-26 11:18:09  {#_0626-111809}
-
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
-
-充分证明了一点，找男女朋友一定不能找韩国人，韩国人的情绪无时无刻都处于暴怒爆喜来回跳跃。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEBmo99ItCPYQSGwEEmfFkobLZt9igAAKVDmsbrrvwVUl0cCsYRrBPAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070345847997702400#m)
-
-[🔗 #0626-111809](#_0626-111809)
-
----
-
-## 2026-06-26 11:02:25  {#_0626-110225}
-
-🏷️ **[20260626](./tags/20260626.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 又全崩了，康宁 $GLW 和日月光 $ASX 硬气，海力士正股跌的有点麻。 市场现在慌得一逼， 涨了慌，跌了也慌， 我也慌。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEBGo97Ue8dcAfTFAoh8La3e9mOdF1AAKIDmsbrrvwVaCCvYVPJlsDAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEBGo97Ue8dcAfTFAoh8La3e9mOdF1AAKIDmsbrrvwVaCCvYVPJlsDAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEBWo97UuAeQEQ-9XUnyMi5mujzKbAAAKJDmsbrrvwVSdJHCUsSUOuAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEBWo97UuAeQEQ-9XUnyMi5mujzKbAAAKJDmsbrrvwVSdJHCUsSUOuAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070341887903555663#m)
-
-[🔗 #0626-110225](#_0626-110225)
+[查看原文](https://nitter.net/xiaomustock/status/2070341887903555663#m)
 
 ---
 
-## 2026-06-25 22:10:19  {#_0625-221019}
+## 2026-06-26 11:18:09
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-康宁 $GLW 很硬气，刚普跌下去立马拉回来了。这俩天硬的离谱，该脆康宁改名 巨硬，对标微软。
+充分证明了一点，找男女朋友一定不能找韩国人，韩国人的情绪无时无刻都处于暴怒爆喜来回跳跃。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID8Go9PuYTTGPxIyKGGrvttP0Y8vSiAAKyFmsbQ-XpVWEggTVcDtUzAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEBmo99ItCPYQSGwEEmfFkobLZt9igAAKVDmsbrrvwVUl0cCsYRrBPAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070147581255266538#m)
-
-[🔗 #0625-221019](#_0625-221019)
+[查看原文](https://nitter.net/xiaomustock/status/2070345847997702400#m)
 
 ---
 
-## 2026-06-25 15:44:52  {#_0625-154452}
+## 2026-06-26 18:41:37
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-至于日月光半导体 $ASX 可以当成1000亿市值的小号台积电 $TSM ， 想象力无比夸张，也进入了供需紧张的提价周期。 现在手里就3个股票 #海力士 $GLW $ASX 别的没了，海力士正股占1/2，glw和asx各占1/4
+存储三家海力士三星美光合起来市值应该要比英伟达值钱。 三家可以不造hbm直接卖dram， 但英伟达不买hbm，营收就归零了。 话语权更大的一方应该享受更大的市值。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID62o84G84nt35CD-zMYscoQ2HVyPEAAJjFWsbQ-XpVRV6lt0cV-piAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDw2o797ENFLow86KK54EIvGowxcoaAAK2EmsbQ-XhVVqKTqeC4geVAQADAgADeAADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070050580547154071#m)
-
-[🔗 #0625-154452](#_0625-154452)
+[查看原文](https://nitter.net/xiaomustock/status/2070457449300348980#m)
 
 ---
 
-## 2026-06-25 15:39:00  {#_0625-153900}
+## 2026-06-26 18:45:54
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-下一代AI芯片用玻璃基板代替pcb，康宁是专业的， 下一代AI芯片pcb要换玻璃基板，康宁是专业的， 下一代电互连要换光互连，康宁是专业的， 康宁 $GLW 在玻璃这一块有无与伦比的话语权。
+在未来某个时刻存储降价开启的时刻，可以第一时间梭哈苹果，因为售价不变利润率飙升，预期财报利润暴涨。 对英伟达刚开始利空，长期也是利好，因为现在的英伟达是存储的搬运工，存储降价的时候，英伟达的产品不一定降价，利润也会暴涨，这也是这一年多英伟达不涨的原因。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070049103241941465#m)
-
-[🔗 #0625-153900](#_0625-153900)
+[查看原文](https://nitter.net/xiaomustock/status/2070458526225563910#m)
 
 ---
 
-## 2026-06-25 15:11:13  {#_0625-151113}
+## 2026-06-26 19:28:02
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-玻璃基板，康宁 $GLW 光纤，康宁 $GLW 玻璃光学互连CPO，康宁 $GLW 英伟达投资扩产，康宁 $GLW 康宁 $GLW 简直是下一代AI算力的底座，中了狗屎运。 黄仁勋也是190买的， 长个俩三倍到个5000亿美金不过分吧。
+AI有泡沫，但AI没有丝滑的取代所有白领的工作前就不可能破。路途遥远。 所有的脏活累活AI机器人干， 所有复杂耗时的脑力活动AI干， 现在的agent还很弱智。 现在的AI也没有普及进入每个人的生活， 你们现在所从事的工作没有被AI取代， 说明AI的泡沫破灭还路途遥远， AI都还没理解物理世界， 只在文字层面和虚拟空间挣扎， 跌一跌的很正常， 真到哪头满大街的机器人外卖员， 机器人服务员，机器人厨师， 所有的科技创新，创意，AI最终都会比人类干的更好，但现在远远没有， 等吧，泡沫最起码也是agi来临后。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIEFmo-aM4eNGFBVOw-o74MTM_laMWEAAJkDWsbrrv4VbLZTuPXnCwvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070042111026835547#m)
-
-[🔗 #0625-151113](#_0625-151113)
+[查看原文](https://nitter.net/xiaomustock/status/2070469129996324930#m)
 
 ---
 
-## 2026-06-25 14:28:38  {#_0625-142838}
+## 2026-06-26 19:38:26
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-努力给自己说，没有2x海力士就当再一次降低杠杆了，拿着正股风险小， 而且康宁 $GLW 也非常好，涨了2.5%😂
+现在确实是AI非常早期的阶段， 大厂之所以巨额投入， 就是想通过自己海量的算力，海量的存储， 抢先干出AGI时刻， 那就是赢家通吃的时刻， AI瞬间席卷摧毁变革所有行业， 赢家会成为人类有史以来市值最庞大的公司 你不投入不卷算力卷内存卷人才，那么你最终突破的几率就比别人少一点， 一旦突破的不是你， 那市场最终只有1和0。 为啥国内的智驾汽车卖不到美国， 跟特斯拉满血fsd比它就是1，其他就是0。 即使有人买也是美国底层傻逼实在是太多，智力分层严重。 我们此刻的恐惧，担忧，都受限于我们的想象力。老黄让康宁扩产10倍，总不能还没扩产AI没了，你聪明还是老黄聪明，你有远见还是老黄有远见。 他之所以提前让康宁扩大10倍的产能就是不想再未来下个阶段的产品重蹈存储三巨头的覆辙。康宁在英伟达下个阶段产品中对老黄太重要了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID2Wo80awQuV2-Z3fT0VkRr366n902AAIvFWsbQ-XpVZFnvWRnGNJlAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070031394861089160#m)
-
-[🔗 #0625-142838](#_0625-142838)
+[查看原文](https://nitter.net/xiaomustock/status/2070471746512429241#m)
 
 ---
 
-## 2026-06-25 13:33:18  {#_0625-133318}
+## 2026-06-26 19:44:08
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-海力士2x新高了，悔恨的泪水夺眶而出😭
+而且即使一旦发生AGI时刻，这些大厂原有购买到的存储卡算力卡也都会瞬间变成恐怖的印钞机。 人们觉得泡沫觉得要到头了， 是因为AI发展俩仨年了，人们还没有见过真正意义上能取代他们生活工作的超强AI，只觉得依照这种目前的Ai状态只能停留在手机电脑的聊天框里，他们似乎没有多大的价值。 这是对AI太弱小的嘲讽。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID1Go8wyQ1XALcyPnyLSm1JB1MMW58AAIwFGsbQ-XhVQU3Lyr6OsUSAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070017470195458113#m)
-
-[🔗 #0625-133318](#_0625-133318)
+[查看原文](https://nitter.net/xiaomustock/status/2070473181593473436#m)
 
 ---
 
-## 2026-06-25 13:29:06  {#_0625-132906}
+## 2026-06-26 19:52:22
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-海力士正股296万韩元，剩5000股， 再卖剁手了
+AI的门槛超乎想象的高，互联网根本不是一个级别，不是互连网那种是个程序员都能干的。 你会敲个代码，能买个域名，自己就能捣鼓个网站干互联网产业。 AI你没有千亿万亿资金，什么也做不出来， 而拥有这个水平资金玩得起AI的，全球合起来都没多少家。 真正意义上的玩家俩只手数得过来。 所以赢家的范围非常小。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID1Wo8wyixUmdkS2jWP73uNmzh1irlAAIxFGsbQ-XhVfr4Ad4HhtqCAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070016412601782621#m)
-
-[🔗 #0625-132906](#_0625-132906)
+[查看原文](https://nitter.net/xiaomustock/status/2070475253793652956#m)
 
 ---
 
-## 2026-06-25 12:59:47  {#_0625-125947}
+## 2026-06-26 23:12:34
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-昨天开心是因为没在车上， 今天难过也是因为没在车上。😂 本来想睡个好觉最重要， 今天又想着昨晚4点钟财报发的时候没睡觉多好😂
+马斯克也说产量和需求之间有巨大鸿沟， 马斯克的规划要非常庞大的存储量，除非马斯克上手自己造存储芯片，不然它的几个业务都不挣钱买不起海量的存储。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2070009036607832372#m)
-
-[🔗 #0625-125947](#_0625-125947)
+[查看原文](https://nitter.net/xiaomustock/status/2070525636251468136#m)
 
 ---
 
-## 2026-06-25 12:42:35  {#_0625-124235}
+## 2026-06-25 10:31:54
 
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
-
-人这生物真是犯贱， 亏了难受，少赚了也难受， 踏空了也难受， 其实啥都没变。 心态要是能变成万事万物波澜不惊， 那就牛逼了， 不过人味也没了。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2070004706475389198#m)
-
-[🔗 #0625-124235](#_0625-124235)
-
----
-
-## 2026-06-25 12:00:22  {#_0625-120022}
-
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
-
-我喜欢玩这些千亿万亿美金的大市值股票。股价很难被操纵， 这种股票全市场都没有多少人能影响其价格走势， 完全按照业绩和市场预期在驱动。 普通人更不可能操纵和影响他们的价格。 拿着睡觉踏实。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069994083666518412#m)
-
-[🔗 #0625-120022](#_0625-120022)
-
----
-
-## 2026-06-25 11:33:49  {#_0625-113349}
-
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
-
-刚继续加仓了康宁 $GLW 和日月光 $AXS 台积电，三星，英特尔三家都开始密集提到玻璃基板，康宁在光纤和玻璃基板都有垄断优势。 日月光近期提价，今天盘后暴涨夜盘暴跌，买的还能更便宜点了。 各搞了一样多，就看以后哪个能更赚钱点。 相当于把2x海力士的钱换成了康宁和日月光，留了正股海力士。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDw2o797ENFLow86KK54EIvGowxcoaAAK2EmsbQ-XhVVqKTqeC4geVAQADAgADeAADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069987400097620124#m)
-
-[🔗 #0625-113349](#_0625-113349)
-
----
-
-## 2026-06-25 11:08:24  {#_0625-110824}
-
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
-
-这波太菜了，2x海力士踏空了，正股没踏空， 正股284万韩元接回来了 本来想美光业绩不及预期跌个大的， 这下搞的2x不敢买了，这次给机会低价20%没中用。太贪心了想跌更多。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDz2o8l4tVO8UIEZFu4hkqg5wKjLb2AAKPE2sbQ-XhVUfki9UV4-s5AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069981005033984070#m)
-
-[🔗 #0625-110824](#_0625-110824)
-
----
-
-## 2026-06-25 10:31:54  {#_0625-103154}
-
-🏷️ **[20260625](./tags/20260625.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 按照美光财报利润280亿算， 海力士q2利润=280*2+740=1300亿美金 海力士二季度经营利润560亿美金， 财报利润1300亿美金， 这他娘的美光财报太好了，踏空了
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDz2o8l4tVO8UIEZFu4hkqg5wKjLb2AAKPE2sbQ-XhVUfki9UV4-s5AQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDz2o8l4tVO8UIEZFu4hkqg5wKjLb2AAKPE2sbQ-XhVUfki9UV4-s5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2069971817817948532#m)
-
-[🔗 #0625-103154](#_0625-103154)
+[查看原文](https://nitter.net/xiaomustock/status/2069971817817948532#m)
 
 ---
 
-## 2026-06-24 23:15:16  {#_0624-231516}
+## 2026-06-25 11:08:24
 
-🏷️ **[20260624](./tags/20260624.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-这节骨眼买股票真要勇气，刚买完立马亏。 AI说美元指数上涨有加息预期。
+这波太菜了，2x海力士踏空了，正股没踏空， 正股284万韩元接回来了 本来想美光业绩不及预期跌个大的， 这下搞的2x不敢买了，这次给机会低价20%没中用。太贪心了想跌更多。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDxGo7_vWd-KrwwGOQXn25z7x9ivd2AALAEmsbQ-XhVWeWfqR4umdNAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDz2o8l4tVO8UIEZFu4hkqg5wKjLb2AAKPE2sbQ-XhVUfki9UV4-s5AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDxWo7_vipzAxedV9LTMBwIMAq39uRAALBEmsbQ-XhVQlh0I7jZabVAQADAgADeAADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069801539699700111#m)
-
-[🔗 #0624-231516](#_0624-231516)
+[查看原文](https://nitter.net/xiaomustock/status/2069981005033984070#m)
 
 ---
 
-## 2026-06-24 23:07:49  {#_0624-230749}
+## 2026-06-25 11:33:49
 
-🏷️ **[20260624](./tags/20260624.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-小仓位1/7追了一下日月光半导体 $ASX 和康宁 $GLW 日月光是市占率最高的封测厂最近又提价。 康宁是玻璃基板和光纤俩个炒作概念的龙头，之所以买这俩是因为日月光营收利润增速跟康宁一样，市值日月光是康宁的一半，我想看看拿一段时间在业绩增速一样的情况下到底哪个会更强。 市值差异也可能跟康宁没啥竞争对手，康宁的市值包含了一部分“技术溢价”和“垄断性护城河溢价”，市场愿意为这种可预期的、低竞争性的增长支付更高倍数。
+刚继续加仓了康宁 $GLW 和日月光 $AXS 台积电，三星，英特尔三家都开始密集提到玻璃基板，康宁在光纤和玻璃基板都有垄断优势。 日月光近期提价，今天盘后暴涨夜盘暴跌，买的还能更便宜点了。 各搞了一样多，就看以后哪个能更赚钱点。 相当于把2x海力士的钱换成了康宁和日月光，留了正股海力士。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDw2o797ENFLow86KK54EIvGowxcoaAAK2EmsbQ-XhVVqKTqeC4geVAQADAgADeAADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDw2o797ENFLow86KK54EIvGowxcoaAAK2EmsbQ-XhVVqKTqeC4geVAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDwmo78G0HUuLsjGEzCRP8VtP3hfR5AAKeEmsbQ-XhVakE4grXVnWuAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069799662413115734#m)
-
-[🔗 #0624-230749](#_0624-230749)
+[查看原文](https://nitter.net/xiaomustock/status/2069987400097620124#m)
 
 ---
 
-## 2026-06-24 22:42:35  {#_0624-224235}
+## 2026-06-25 12:00:22
 
-🏷️ **[20260624](./tags/20260624.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+我喜欢玩这些千亿万亿美金的大市值股票。股价很难被操纵， 这种股票全市场都没有多少人能影响其价格走势， 完全按照业绩和市场预期在驱动。 普通人更不可能操纵和影响他们的价格。 拿着睡觉踏实。
+
+[查看原文](https://nitter.net/xiaomustock/status/2069994083666518412#m)
+
+---
+
+## 2026-06-25 12:42:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+人这生物真是犯贱， 亏了难受，少赚了也难受， 踏空了也难受， 其实啥都没变。 心态要是能变成万事万物波澜不惊， 那就牛逼了， 不过人味也没了。
+
+[查看原文](https://nitter.net/xiaomustock/status/2070004706475389198#m)
+
+---
+
+## 2026-06-25 12:59:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+昨天开心是因为没在车上， 今天难过也是因为没在车上。😂 本来想睡个好觉最重要， 今天又想着昨晚4点钟财报发的时候没睡觉多好😂
+
+[查看原文](https://nitter.net/xiaomustock/status/2070009036607832372#m)
+
+---
+
+## 2026-06-25 13:29:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+海力士正股296万韩元，剩5000股， 再卖剁手了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID1Wo8wyixUmdkS2jWP73uNmzh1irlAAIxFGsbQ-XhVfr4Ad4HhtqCAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2070016412601782621#m)
+
+---
+
+## 2026-06-25 13:33:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+海力士2x新高了，悔恨的泪水夺眶而出😭
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID1Go8wyQ1XALcyPnyLSm1JB1MMW58AAIwFGsbQ-XhVQU3Lyr6OsUSAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2070017470195458113#m)
+
+---
+
+## 2026-06-25 14:28:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+努力给自己说，没有2x海力士就当再一次降低杠杆了，拿着正股风险小， 而且康宁 $GLW 也非常好，涨了2.5%😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID2Wo80awQuV2-Z3fT0VkRr366n902AAIvFWsbQ-XpVZFnvWRnGNJlAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2070031394861089160#m)
+
+---
+
+## 2026-06-25 15:11:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+玻璃基板，康宁 $GLW 光纤，康宁 $GLW 玻璃光学互连CPO，康宁 $GLW 英伟达投资扩产，康宁 $GLW 康宁 $GLW 简直是下一代AI算力的底座，中了狗屎运。 黄仁勋也是190买的， 长个俩三倍到个5000亿美金不过分吧。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2070042111026835547#m)
+
+---
+
+## 2026-06-25 15:39:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+下一代AI芯片用玻璃基板代替pcb，康宁是专业的， 下一代AI芯片pcb要换玻璃基板，康宁是专业的， 下一代电互连要换光互连，康宁是专业的， 康宁 $GLW 在玻璃这一块有无与伦比的话语权。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID6mo82SzQyQqNZecYgnG1qFBKeKAhAAJSFWsbQ-XpVbSdbTxY0uGkAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2070049103241941465#m)
+
+---
+
+## 2026-06-25 15:44:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+至于日月光半导体 $ASX 可以当成1000亿市值的小号台积电 $TSM ， 想象力无比夸张，也进入了供需紧张的提价周期。 现在手里就3个股票 #海力士 $GLW $ASX 别的没了，海力士正股占1/2，glw和asx各占1/4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID62o84G84nt35CD-zMYscoQ2HVyPEAAJjFWsbQ-XpVRV6lt0cV-piAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDw2o797ENFLow86KK54EIvGowxcoaAAK2EmsbQ-XhVVqKTqeC4geVAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2070050580547154071#m)
+
+---
+
+## 2026-06-25 22:10:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+康宁 $GLW 很硬气，刚普跌下去立马拉回来了。这俩天硬的离谱，该脆康宁改名 巨硬，对标微软。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAID8Go9PuYTTGPxIyKGGrvttP0Y8vSiAAKyFmsbQ-XpVWEggTVcDtUzAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2070147581255266538#m)
+
+---
+
+## 2026-06-24 22:42:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 英伟达投资的玻璃基板和光纤双龙头的康宁 $GLW 盘中爆拉10%到213美金。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDwmo78G0HUuLsjGEzCRP8VtP3hfR5AAKeEmsbQ-XhVakE4grXVnWuAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDwmo78G0HUuLsjGEzCRP8VtP3hfR5AAKeEmsbQ-XhVakE4grXVnWuAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2069793311427363035#m)
-
-[🔗 #0624-224235](#_0624-224235)
+[查看原文](https://nitter.net/xiaomustock/status/2069793311427363035#m)
 
 ---
 
-## 2026-06-23 22:21:51  {#_0623-222151}
+## 2026-06-24 23:07:49
 
-🏷️ **[20260623](./tags/20260623.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-这下子真踏空了看来😂
+小仓位1/7追了一下日月光半导体 $ASX 和康宁 $GLW 日月光是市占率最高的封测厂最近又提价。 康宁是玻璃基板和光纤俩个炒作概念的龙头，之所以买这俩是因为日月光营收利润增速跟康宁一样，市值日月光是康宁的一半，我想看看拿一段时间在业绩增速一样的情况下到底哪个会更强。 市值差异也可能跟康宁没啥竞争对手，康宁的市值包含了一部分“技术溢价”和“垄断性护城河溢价”，市场愿意为这种可预期的、低竞争性的增长支付更高倍数。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2069425706694774806#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDw2o797ENFLow86KK54EIvGowxcoaAAK2EmsbQ-XhVVqKTqeC4geVAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0623-222151](#_0623-222151)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDwmo78G0HUuLsjGEzCRP8VtP3hfR5AAKeEmsbQ-XhVakE4grXVnWuAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
----
-
-## 2026-06-23 20:48:16  {#_0623-204816}
-
-🏷️ **[20260623](./tags/20260623.html)** 今日关注
-
-这帖子的评论区当时的嘲讽声好大， 差点盖过了我的意志。 全都在说我“搞笑吗？” 兄弟们帮我嘲讽回去
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC0GoymE5nEapMQG7Y90Z_Vd1k-8ZWAAIBEGsbC5-YVX0M3QpzPbljAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069402157636620600#m)
-
-[🔗 #0623-204816](#_0623-204816)
+[查看原文](https://nitter.net/xiaomustock/status/2069799662413115734#m)
 
 ---
 
-## 2026-06-23 20:43:22  {#_0623-204322}
+## 2026-06-24 23:15:16
 
-🏷️ **[20260623](./tags/20260623.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-现在都知道 $SPCX 的业务了吧， 可回收火箭， 发射出去还能收回来， 不炸的话还能再发射出去。
+这节骨眼买股票真要勇气，刚买完立马亏。 AI说美元指数上涨有加息预期。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDjmo6hKnQJnDVSC8JtaZS_fuwtM8wAAITEGsbMUvQVffN3BPkqHWrAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDxGo7_vWd-KrwwGOQXn25z7x9ivd2AALAEmsbQ-XhVWeWfqR4umdNAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2069400924800586164#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDxWo7_vipzAxedV9LTMBwIMAq39uRAALBEmsbQ-XhVQlh0I7jZabVAQADAgADeAADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0623-204322](#_0623-204322)
-
----
-
-## 2026-06-23 16:31:40  {#_0623-163140}
-
-🏷️ **[20260623](./tags/20260623.html)** 今日关注
-
-我对上半年很知足， 所以下半年只追求能睡得着的操作， 或者操作了以后能睡得着， 总之得睡得着😀
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDimo6SocJj3E9V83o3lzcIxtvTdXgAAI8D2sbMUvQVeH9jQVKRBO7AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069337580601225402#m)
-
-[🔗 #0623-163140](#_0623-163140)
+[查看原文](https://nitter.net/xiaomustock/status/2069801539699700111#m)
 
 ---
 
-## 2026-06-23 10:51:13  {#_0623-105113}
+## 2026-06-23 09:58:48
 
-🏷️ **[20260623](./tags/20260623.html)** 今日关注
-
-韩国人极端呐，真几把又跌熔断
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDe2o5-r_s8Q5QG-JALUc9_DRk5lp8AAIUDmsbMUvQVWCEkusAAX6hpgEAAwIAA3kAAzwE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2069251902978830773#m)
-
-[🔗 #0623-105113](#_0623-105113)
-
----
-
-## 2026-06-23 09:58:48  {#_0623-095848}
-
-🏷️ **[20260623](./tags/20260623.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 这个信号挺危险，说明美版云厂和AI公司巨额的投入没有带来AI消费端产品明显的代际差异。等韩国熔断我再回来，很多天没熔断了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDdWo57DcgRbltFwzSptand1IfwkZEAALfDWsbMUvQVatfEPEe-4dUAQADAgADeAADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDdWo57DcgRbltFwzSptand1IfwkZEAALfDWsbMUvQVatfEPEe-4dUAQADAgADeAADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2069238712811282693#m)
-
-[🔗 #0623-095848](#_0623-095848)
+[查看原文](https://nitter.net/xiaomustock/status/2069238712811282693#m)
 
 ---
 
-## 2026-06-22 08:21:36  {#_0622-082136}
+## 2026-06-23 10:51:13
 
-🏷️ **[20260622](./tags/20260622.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+韩国人极端呐，真几把又跌熔断
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDe2o5-r_s8Q5QG-JALUc9_DRk5lp8AAIUDmsbMUvQVWCEkusAAX6hpgEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2069251902978830773#m)
+
+---
+
+## 2026-06-23 16:31:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+我对上半年很知足， 所以下半年只追求能睡得着的操作， 或者操作了以后能睡得着， 总之得睡得着😀
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDimo6SocJj3E9V83o3lzcIxtvTdXgAAI8D2sbMUvQVeH9jQVKRBO7AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2069337580601225402#m)
+
+---
+
+## 2026-06-23 20:43:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+现在都知道 $SPCX 的业务了吧， 可回收火箭， 发射出去还能收回来， 不炸的话还能再发射出去。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDjmo6hKnQJnDVSC8JtaZS_fuwtM8wAAITEGsbMUvQVffN3BPkqHWrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2069400924800586164#m)
+
+---
+
+## 2026-06-23 20:48:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这帖子的评论区当时的嘲讽声好大， 差点盖过了我的意志。 全都在说我“搞笑吗？” 兄弟们帮我嘲讽回去
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC0GoymE5nEapMQG7Y90Z_Vd1k-8ZWAAIBEGsbC5-YVX0M3QpzPbljAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2069402157636620600#m)
+
+---
+
+## 2026-06-23 22:21:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这下子真踏空了看来😂
+
+[查看原文](https://nitter.net/xiaomustock/status/2069425706694774806#m)
+
+---
+
+## 2026-06-22 08:21:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 海力士美股adr很接近了， 机构资金都会提前买， 配合炸裂的财报， 要么adr前就翻倍， 要么adr后再翻倍。 所以涨跌根本不慌。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2068851864490381689#m)
-
-[🔗 #0622-082136](#_0622-082136)
+[查看原文](https://nitter.net/xiaomustock/status/2068851864490381689#m)
 
 ---
 
-## 2026-06-21 15:08:41  {#_0621-150841}
+## 2026-06-21 15:08:41
 
-🏷️ **[20260621](./tags/20260621.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 现在海力士276万韩元，距离390万韩元重估市值还有50%空间，这一段市场重估的钱会在45天内给捏住海力士的人。美股adr上线之日就是重估完成之时，机构不会给散户太多利润空间，就跟他们操作新股ipo一样，吃到极致的估值再卖给散户。
 
@@ -3608,19 +3005,17 @@ AI不需要折腾太多瞎搞，只需要🤏捏住AI的蛋蛋。
 我现在的仓位一半是海里，另一半是2x海力士，只有1%现金仓位。
 如果算上机动资金则是我预留了额外25%的钱在市场发生动荡的情况下心态能平和游刃应对，经历过今年三月黑天鹅，我改变了以往完全彻底孤注一掷，现在始终给自己一个发生暴跌情况下抄底的机会。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDPWo3kSQqggbMkyM4N-mcclj8xmWvAAJrEGsb9vfBVa7tAtM5apBvAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDPWo3kSQqggbMkyM4N-mcclj8xmWvAAJrEGsb9vfBVa7tAtM5apBvAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDPmo3kSY7V5ZhzTJiRDPCAAGkJFcFXgACbBBrG_b3wVWuwTddF0oWCwEAAwIAA3kAAzwE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDPmo3kSY7V5ZhzTJiRDPCAAGkJFcFXgACbBBrG_b3wVWuwTddF0oWCwEAAwIAA3kAAzwE.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2068591923288568053#m)
-
-[🔗 #0621-150841](#_0621-150841)
+[查看原文](https://nitter.net/xiaomustock/status/2068591923288568053#m)
 
 ---
 
-## 2026-06-20 16:36:08  {#_0620-163608}
+## 2026-06-20 16:36:08
 
-🏷️ **[20260620](./tags/20260620.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 年初当时等待的海力士adr美股即将要来了，
 进美股放大承接市场，
@@ -3628,17 +3023,55 @@ AI不需要折腾太多瞎搞，只需要🤏捏住AI的蛋蛋。
 牢牢捏住海力士45天！
 HODL！
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDH2o2WHlWsmJ2ydxOHHqdyhhO7LD0AAJbD2sb9vexVZbCYCmn5PCYAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDH2o2WHlWsmJ2ydxOHHqdyhhO7LD0AAJbD2sb9vexVZbCYCmn5PCYAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2068251542722097454#m)
-
-[🔗 #0620-163608](#_0620-163608)
+[查看原文](https://nitter.net/xiaomustock/status/2068251542722097454#m)
 
 ---
 
-## 2026-06-19 16:48:09  {#_0619-164809}
+## 2026-06-19 01:43:06
 
-🏷️ **[20260619](./tags/20260619.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这是特朗普和伊朗签的合约。
+把这俩图片放到gpt或者gemini中翻译时，
+会立马提示你所在地区不支持服务….
+但你要问AI事情就很正常….
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC9Wo0N4d5uvVj4jjCk0u11wRZmKKFAAL1Dmsbko6pVSGFtDOsKEobAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC9mo0N4vE8df91oA1vhOe3I18L5hpAAL2Dmsbko6pVQgU0lh-3vwxAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC92o0N46SsAs0WILeBqzd9sigZY7VAAL3Dmsbko6pVQ3eUfaOBNTTAQADAgADeQADPAQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC-Go0N5LzWM_Els2tI7aDKyHWgvn4AAL4Dmsbko6pVYQQl1is17bVAQADAgADeQADPAQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067664413709250730#m)
+
+---
+
+## 2026-06-19 11:23:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+海力士今天又是6个点，
+啥也不用研究，
+啥也不要做，
+做得多错的多，时间会给你一切，
+花里胡哨在那天天研究没屌用，
+捏住海力士躺平就够了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDDmo0ulClBYn3mtsKKFnzs5PUnH6tAAKpD2sbko6pVYUgY_tifzUVAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067810501581758828#m)
+
+---
+
+## 2026-06-19 16:48:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 这条推特当时挺火，
 可惜没几天特朗普打伊朗干趴了一个月，
@@ -3650,59 +3083,130 @@ HODL！
 很多人三月份被嘲讽被fud被恐惧下车了，
 没能坚持到现在。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2067892178542858386#m)
-
-[🔗 #0619-164809](#_0619-164809)
+[查看原文](https://nitter.net/xiaomustock/status/2067892178542858386#m)
 
 ---
 
-## 2026-06-19 11:23:36  {#_0619-112336}
+## 2026-06-18 00:03:22
 
-🏷️ **[20260619](./tags/20260619.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-海力士今天又是6个点，
-啥也不用研究，
-啥也不要做，
-做得多错的多，时间会给你一切，
-花里胡哨在那天天研究没屌用，
-捏住海力士躺平就够了。
+市值上万亿的公司不管在哪个市场，就算再利空都不会跌太多的，他们都是要做各个指数的核心持仓的，不会有太大波动。
+所以别看说 $spcx  市值太大了太虚就觉得可能跌特别多，其实不然，市值不仅仅代表市值，也代表着一个公司的融资能力和信用额度。
+它市值到这个位置，会有源源不断的钱流向他，他也能从市场源源不断的拿到钱。
+其他万亿公司也一样，不要瞎恐慌，
+涨了看涨跌了看跌。
+另外，#sk海力士 也是一样，现在它是韩国指数和全韩国人的希望，韩国人端午节不得集体凑钱梭哈海力士。接下来的45天是海力士绝对的强势期。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIDDmo0ulClBYn3mtsKKFnzs5PUnH6tAAKpD2sbko6pVYUgY_tifzUVAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC2Woyy3LXVhhOQn5ZoaHXCch0KnjuAAJSEGsbC5-YVedc5BI-bpeQAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067810501581758828#m)
-
-[🔗 #0619-112336](#_0619-112336)
+[查看原文](https://nitter.net/xiaomustock/status/2067276929078788560#m)
 
 ---
 
-## 2026-06-19 01:43:06  {#_0619-014306}
+## 2026-06-18 00:37:16
 
-🏷️ **[20260619](./tags/20260619.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-这是特朗普和伊朗签的合约。
-把这俩图片放到gpt或者gemini中翻译时，
-会立马提示你所在地区不支持服务….
-但你要问AI事情就很正常….
+美光和海力士都是1.1万亿美金。
+一旦海力士adr，双倍于 $MU 利润的海力士绝对会被市场疯抢，而资金都会打提前量。我绝大部分仓位都是 #SK海力士 和 #2x海力士
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC9Wo0N4d5uvVj4jjCk0u11wRZmKKFAAL1Dmsbko6pVSGFtDOsKEobAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC2moy0sTtvl4Yoe2Gb2UUDwyUZgABowACZBBrGwufmFXaHFrfXdyJMwEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC9mo0N4vE8df91oA1vhOe3I18L5hpAAL2Dmsbko6pVQgU0lh-3vwxAQADAgADeQADPAQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC92o0N46SsAs0WILeBqzd9sigZY7VAAL3Dmsbko6pVQ3eUfaOBNTTAQADAgADeQADPAQ.jpg)
-
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC-Go0N5LzWM_Els2tI7aDKyHWgvn4AAL4Dmsbko6pVYQQl1is17bVAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067664413709250730#m)
-
-[🔗 #0619-014306](#_0619-014306)
+[查看原文](https://nitter.net/xiaomustock/status/2067285458967785980#m)
 
 ---
 
-## 2026-06-18 22:38:12  {#_0618-223812}
+## 2026-06-18 10:23:29
 
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+拿着一个股票不动的时候最无聊，
+也不需要天天研究这研究那，
+只能被无穷无尽的上涨暴击幼小的心灵，
+学不到任何东西。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC4mozXY1R_naoaW6NZjgr6jnxZ84mAAIaD2sbC5-gVV-YEtHXn-_UAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067432987621511221#m)
+
+---
+
+## 2026-06-18 11:50:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+再打个标记
+人类历史上唯一一家单季度利润达到1000亿美金现金的公司就是海力士，
+下个月就能看见这样标题的新闻了，
+拭目以待。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC5Wozc1owUw4vUbw1PJEuMkuXZRfyAAJGD2sbC5-gVRh73hLdTRbSAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICyGoyThARUMyT4rKlOp18XxUSrag4AAKGD2sbC5-YVVum_dOYxaB_AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067454802607653290#m)
+
+---
+
+## 2026-06-18 13:46:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+拿着 #SK海力士 属实无聊呐，
+我想学习，太想进步了，这样啥也学不到，光赚钱有几把用。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC52ozkGkjfS1h5hJZG0RRM4PydwvKAAKKD2sbC5-gVWfEClgqLdOrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC4mozXY1R_naoaW6NZjgr6jnxZ84mAAIaD2sbC5-gVV-YEtHXn-_UAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067484131165126759#m)
+
+---
+
+## 2026-06-18 14:00:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+我想进步，我想学外语
+#SK海力士 #2x海力士
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC52ozkGkjfS1h5hJZG0RRM4PydwvKAAKKD2sbC5-gVWfEClgqLdOrAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067487552953847826#m)
+
+---
+
+## 2026-06-18 15:09:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+$spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来测算它太空算力部署的速度和规模。问ai给算了一下，如果搭配星链收入和xai可能有一丝机会够得到1万亿美金营收。虽然不是完全不可能但还是非常非常困难。
+真正关键点就是云厂以及英伟达跟spcx签署正式的太空算力部署合同。
+那时候才值得开始重点买。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC6GoznvJ5RSc-4KfH6phOXD-qgJNeAAI_D2sbko6hVaZpPoOctun_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067505075015323663#m)
+
+---
+
+## 2026-06-18 22:24:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+最近存储的ssd板块暴涨
+明天海力士继续收米，
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC8Wo0BK60tj4DVl-ORVAnrpQvnMjyAAJoEGsbko6hVYcINqSYj2h-AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067614352044433533#m)
+
+---
+
+## 2026-06-18 22:38:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 存储这波不仅卡住了AI的脖子，
 也卡了传统电子产品的脖子。
@@ -3719,247 +3223,18 @@ HODL！
 采购不到货的消费电子则会直接倒闭失去市场，
 亏损采购的现金流不够给存储商上贡的也会倒闭。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC8Go0BKvPiKS_CSXiVE_TQSmULaANAAJnEGsbko6hVZOR29hIzFDlAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC8Go0BKvPiKS_CSXiVE_TQSmULaANAAJnEGsbko6hVZOR29hIzFDlAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2067617882373337291#m)
-
-[🔗 #0618-223812](#_0618-223812)
+[查看原文](https://nitter.net/xiaomustock/status/2067617882373337291#m)
 
 ---
 
-## 2026-06-18 22:24:10  {#_0618-222410}
+## 2026-06-17 12:04:29
 
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-最近存储的ssd板块暴涨
-明天海力士继续收米，
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC8Wo0BK60tj4DVl-ORVAnrpQvnMjyAAJoEGsbko6hVYcINqSYj2h-AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067614352044433533#m)
-
-[🔗 #0618-222410](#_0618-222410)
-
----
-
-## 2026-06-18 15:09:56  {#_0618-150956}
-
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-$spcx 要实现2030年1万亿美金营收，必须搭配星舰的发射频率来测算它太空算力部署的速度和规模。问ai给算了一下，如果搭配星链收入和xai可能有一丝机会够得到1万亿美金营收。虽然不是完全不可能但还是非常非常困难。
-真正关键点就是云厂以及英伟达跟spcx签署正式的太空算力部署合同。
-那时候才值得开始重点买。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC6GoznvJ5RSc-4KfH6phOXD-qgJNeAAI_D2sbko6hVaZpPoOctun_AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067505075015323663#m)
-
-[🔗 #0618-150956](#_0618-150956)
-
----
-
-## 2026-06-18 14:00:19  {#_0618-140019}
-
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-我想进步，我想学外语
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC52ozkGkjfS1h5hJZG0RRM4PydwvKAAKKD2sbC5-gVWfEClgqLdOrAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067487552953847826#m)
-
-[🔗 #0618-140019](#_0618-140019)
-
----
-
-## 2026-06-18 13:46:43  {#_0618-134643}
-
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-拿着 #SK海力士 属实无聊呐，
-我想学习，太想进步了，这样啥也学不到，光赚钱有几把用。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC52ozkGkjfS1h5hJZG0RRM4PydwvKAAKKD2sbC5-gVWfEClgqLdOrAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC4mozXY1R_naoaW6NZjgr6jnxZ84mAAIaD2sbC5-gVV-YEtHXn-_UAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067484131165126759#m)
-
-[🔗 #0618-134643](#_0618-134643)
-
----
-
-## 2026-06-18 11:50:11  {#_0618-115011}
-
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-再打个标记
-人类历史上唯一一家单季度利润达到1000亿美金现金的公司就是海力士，
-下个月就能看见这样标题的新闻了，
-拭目以待。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC5Wozc1owUw4vUbw1PJEuMkuXZRfyAAJGD2sbC5-gVRh73hLdTRbSAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICyGoyThARUMyT4rKlOp18XxUSrag4AAKGD2sbC5-YVVum_dOYxaB_AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067454802607653290#m)
-
-[🔗 #0618-115011](#_0618-115011)
-
----
-
-## 2026-06-18 10:23:29  {#_0618-102329}
-
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-拿着一个股票不动的时候最无聊，
-也不需要天天研究这研究那，
-只能被无穷无尽的上涨暴击幼小的心灵，
-学不到任何东西。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC4mozXY1R_naoaW6NZjgr6jnxZ84mAAIaD2sbC5-gVV-YEtHXn-_UAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067432987621511221#m)
-
-[🔗 #0618-102329](#_0618-102329)
-
----
-
-## 2026-06-18 00:37:16  {#_0618-003716}
-
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-美光和海力士都是1.1万亿美金。
-一旦海力士adr，双倍于 $MU 利润的海力士绝对会被市场疯抢，而资金都会打提前量。我绝大部分仓位都是 #SK海力士 和 #2x海力士
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC2moy0sTtvl4Yoe2Gb2UUDwyUZgABowACZBBrGwufmFXaHFrfXdyJMwEAAwIAA3kAAzwE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067285458967785980#m)
-
-[🔗 #0618-003716](#_0618-003716)
-
----
-
-## 2026-06-18 00:03:22  {#_0618-000322}
-
-🏷️ **[20260618](./tags/20260618.html)** 今日关注
-
-市值上万亿的公司不管在哪个市场，就算再利空都不会跌太多的，他们都是要做各个指数的核心持仓的，不会有太大波动。
-所以别看说 $spcx  市值太大了太虚就觉得可能跌特别多，其实不然，市值不仅仅代表市值，也代表着一个公司的融资能力和信用额度。
-它市值到这个位置，会有源源不断的钱流向他，他也能从市场源源不断的拿到钱。
-其他万亿公司也一样，不要瞎恐慌，
-涨了看涨跌了看跌。
-另外，#sk海力士 也是一样，现在它是韩国指数和全韩国人的希望，韩国人端午节不得集体凑钱梭哈海力士。接下来的45天是海力士绝对的强势期。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC2Woyy3LXVhhOQn5ZoaHXCch0KnjuAAJSEGsbC5-YVedc5BI-bpeQAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067276929078788560#m)
-
-[🔗 #0618-000322](#_0618-000322)
-
----
-
-## 2026-06-17 21:09:19  {#_0617-210919}
-
-🏷️ **[20260617](./tags/20260617.html)** 今日关注
-
-R to @xiaomustock: 里面美光的财报日期记错了，624号
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067233126183747926#m)
-
-[🔗 #0617-210919](#_0617-210919)
-
----
-
-## 2026-06-17 20:20:51  {#_0617-202051}
-
-🏷️ **[20260617](./tags/20260617.html)** 今日关注
-
-这些人早喊1500美金 ，我也不至于拿不住 120的 $MU 
-存储依然是这轮AI革命的终极答案，刚刚开始。不过我现阶段更偏向海力士，下个月海力士adr美股上线，肯定有非常多人美光换海力士。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICz2oymEy7_X_UpUraBwc2C9PcIVhPAAMQaxsLn5hVrRbHumLCZ_gBAAMCAAN5AAM8BA.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC0GoymE5nEapMQG7Y90Z_Vd1k-8ZWAAIBEGsbC5-YVX0M3QpzPbljAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067220931739779152#m)
-
-[🔗 #0617-202051](#_0617-202051)
-
----
-
-## 2026-06-17 15:38:56  {#_0617-153856}
-
-🏷️ **[20260617](./tags/20260617.html)** 今日关注
-
-$MU 美光618财报利润*2+740亿美金=海力士q2利润
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICyGoyThARUMyT4rKlOp18XxUSrag4AAKGD2sbC5-YVVum_dOYxaB_AQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067149985439977914#m)
-
-[🔗 #0617-153856](#_0617-153856)
-
----
-
-## 2026-06-17 15:30:28  {#_0617-153028}
-
-🏷️ **[20260617](./tags/20260617.html)** 今日关注
-
-打个标记，
-海力士q2利润保守预估1100亿美金纯现金，
-今日海力士市值11200亿美金。
-接下来45天是海力士的强势期，
-到时候q2的利润绝对吓死绝大多数人。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICyGoyThARUMyT4rKlOp18XxUSrag4AAKGD2sbC5-YVVum_dOYxaB_AQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067147852535795743#m)
-
-[🔗 #0617-153028](#_0617-153028)
-
----
-
-## 2026-06-17 12:52:22  {#_0617-125222}
-
-🏷️ **[20260617](./tags/20260617.html)** 今日关注
-
-海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。
-准备大仓位捏45天。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067108064403369993#m)
-
-[🔗 #0617-125222](#_0617-125222)
-
----
-
-## 2026-06-17 12:40:58  {#_0617-124058}
-
-🏷️ **[20260617](./tags/20260617.html)** 今日关注
-
-摘抄个大佬的语录记录一下。
-炒股只做牛市 牛市只追高 但是追高的时候。选第一热门概念的， 
-第二护城河最强的  ，
-第三盈利最好的
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwmoyKCjPS6JRpDZDHUWytYO0EAKDAAJFD2sbC5-YVdYBo6NJrBKBAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2067105197537829135#m)
-
-[🔗 #0617-124058](#_0617-124058)
-
----
-
-## 2026-06-17 12:04:29  {#_0617-120429}
-
-🏷️ **[20260617](./tags/20260617.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 今天把大部分仓位换到了
-
+#sk海力士 正股和 #2x海力士 。
 有几个原因
 1.下个月海力士美股adr
 2.下个月hbm4e送样
@@ -3968,17 +3243,125 @@ $MU 美光618财报利润*2+740亿美金=海力士q2利润
 5.adr后的海力士分红计划和回购计划。
 6.怕其他股票因为涨幅波动，变相在海力士里面防守。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2067096013857567044#m)
-
-[🔗 #0617-120429](#_0617-120429)
+[查看原文](https://nitter.net/xiaomustock/status/2067096013857567044#m)
 
 ---
 
-## 2026-06-16 18:38:55  {#_0616-183855}
+## 2026-06-17 12:40:58
 
-🏷️ **[20260616](./tags/20260616.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+摘抄个大佬的语录记录一下。
+炒股只做牛市 牛市只追高 但是追高的时候。选第一热门概念的， 
+第二护城河最强的  ，
+第三盈利最好的
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwmoyKCjPS6JRpDZDHUWytYO0EAKDAAJFD2sbC5-YVdYBo6NJrBKBAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067105197537829135#m)
+
+---
+
+## 2026-06-17 12:52:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+海力士这一段是目前市面上确定性非常高的机会，45天内这些利好都要发生。
+准备大仓位捏45天。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067108064403369993#m)
+
+---
+
+## 2026-06-17 15:30:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+打个标记，
+海力士q2利润保守预估1100亿美金纯现金，
+今日海力士市值11200亿美金。
+接下来45天是海力士的强势期，
+到时候q2的利润绝对吓死绝大多数人。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICyGoyThARUMyT4rKlOp18XxUSrag4AAKGD2sbC5-YVVum_dOYxaB_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICwWoyIKGjimdMWv4CBfUYyGKiDV_ZAAI6D2sbC5-YVeQzoAujwwaOAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067147852535795743#m)
+
+---
+
+## 2026-06-17 15:38:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+$MU 美光618财报利润*2+740亿美金=海力士q2利润
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICyGoyThARUMyT4rKlOp18XxUSrag4AAKGD2sbC5-YVVum_dOYxaB_AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067149985439977914#m)
+
+---
+
+## 2026-06-17 20:20:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这些人早喊1500美金 ，我也不至于拿不住 120的 $MU 
+存储依然是这轮AI革命的终极答案，刚刚开始。不过我现阶段更偏向海力士，下个月海力士adr美股上线，肯定有非常多人美光换海力士。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICz2oymEy7_X_UpUraBwc2C9PcIVhPAAMQaxsLn5hVrRbHumLCZ_gBAAMCAAN5AAM8BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIC0GoymE5nEapMQG7Y90Z_Vd1k-8ZWAAIBEGsbC5-YVX0M3QpzPbljAQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2067220931739779152#m)
+
+---
+
+## 2026-06-17 21:09:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+R to @xiaomustock: 里面美光的财报日期记错了，624号
+
+[查看原文](https://nitter.net/xiaomustock/status/2067233126183747926#m)
+
+---
+
+## 2026-06-16 15:25:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明的救世主，能放螺旋屁屁的天才。
+
+<img src="/images/xiaomustock/amplify_video_thumb_2066784028506902528_img_WBwtxprE-MO_OPBj.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2066784093954793656#m)
+
+---
+
+## 2026-06-16 18:35:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+存储是AI革命的终极正解。
+其他股票对比起来，真是一坨垃圾。
+天壤之别。
+大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICtWoxKriylNOllkIDB7lalujnvzBdAAIqFWsbNgqIVS0xamsjfML-AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2066832061617545586#m)
+
+---
+
+## 2026-06-16 18:38:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 我当时2月的这个AI时代的存储唯一正解，
 被特朗普发动的战争，
@@ -3987,56 +3370,26 @@ $MU 美光618财报利润*2+740亿美金=海力士q2利润
 人大部分的恐惧来源于自己的想象，
 时间会抚平一切，也会证明一切。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2066832888847630555#m)
-
-[🔗 #0616-183855](#_0616-183855)
+[查看原文](https://nitter.net/xiaomustock/status/2066832888847630555#m)
 
 ---
 
-## 2026-06-16 18:35:38  {#_0616-183538}
+## 2026-06-15 12:22:40
 
-🏷️ **[20260616](./tags/20260616.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-存储是AI革命的终极正解。
-其他股票对比起来，真是一坨垃圾。
-天壤之别。
-大仓位一定要拿着存储，捏住🤏AI的俩个蛋蛋。
+美国建国以来签了第一份丧权辱国条约，
+美国和盟友给伊朗赔款3000亿美金。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICtWoxKriylNOllkIDB7lalujnvzBdAAIqFWsbNgqIVS0xamsjfML-AQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICmmovhIm9e-0XiS--Iooo1UXNTu85AALdEWsbEy-BVdZ6kJkGD6DRAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2066832061617545586#m)
-
-[🔗 #0616-183538](#_0616-183538)
+[查看原文](https://nitter.net/xiaomustock/status/2066375814145331574#m)
 
 ---
 
-## 2026-06-16 15:25:01  {#_0616-152501}
+## 2026-06-15 13:07:11
 
-🏷️ **[20260616](./tags/20260616.html)** 今日关注
-
-spcx这波太爽了，马斯克简直是银河系的耶稣转世，人类文明的救世主，能放螺旋屁屁的天才。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2066784093954793656#m)
-
-[🔗 #0616-152501](#_0616-152501)
-
----
-
-## 2026-06-15 13:09:28  {#_0615-130928}
-
-🏷️ **[20260615](./tags/20260615.html)** 今日关注
-
-R to @xiaomustock: 好像是美女发的@Ru7Longcrypto
-
-[📖 原文](https://nitter.net/xiaomustock/status/2066387591193116828#m)
-
-[🔗 #0615-130928](#_0615-130928)
-
----
-
-## 2026-06-15 13:07:11  {#_0615-130711}
-
-🏷️ **[20260615](./tags/20260615.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 一定要去正规市场玩，今天看到有人朋友圈分享的一段话。
 东北每到冬天，白雪皑皑，非常冷，要熬到春暖花开才暖和。
@@ -4044,44 +3397,33 @@ R to @xiaomustock: 好像是美女发的@Ru7Longcrypto
 
 dram，smh，qqq，海力士全是好东西，数不过来。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICm2ovjAZuMT3mMBXZ1H2hY7CtVhZFAAL1EWsbEy-BVYREvlzbY1FsAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICm2ovjAZuMT3mMBXZ1H2hY7CtVhZFAAL1EWsbEy-BVYREvlzbY1FsAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2066387018246971786#m)
-
-[🔗 #0615-130711](#_0615-130711)
+[查看原文](https://nitter.net/xiaomustock/status/2066387018246971786#m)
 
 ---
 
-## 2026-06-15 12:22:40  {#_0615-122240}
+## 2026-06-15 13:09:28
 
-🏷️ **[20260615](./tags/20260615.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-美国建国以来签了第一份丧权辱国条约，
-美国和盟友给伊朗赔款3000亿美金。
+R to @xiaomustock: 好像是美女发的@Ru7Longcrypto
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICmmovhIm9e-0XiS--Iooo1UXNTu85AALdEWsbEy-BVdZ6kJkGD6DRAQADAgADeQADPAQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2066375814145331574#m)
-
-[🔗 #0615-122240](#_0615-122240)
+[查看原文](https://nitter.net/xiaomustock/status/2066387591193116828#m)
 
 ---
 
-## 2026-06-14 15:27:46  {#_0614-152746}
-
-🏷️ **[20260614](./tags/20260614.html)** 
+## 2026-06-14 15:27:46
 
 牢牢抓紧内存，就是🤏捏住了ai的蛋蛋🥚🥚
 
-[📖 原文](https://nitter.net/xiaomustock/status/2066060007724974200#m)
-
-[🔗 #0614-152746](#_0614-152746)
+[查看原文](https://nitter.net/xiaomustock/status/2066060007724974200#m)
 
 ---
 
-## 2026-06-13 02:50:58  {#_0613-025058}
+## 2026-06-13 02:50:58 GMT+08:00
 
-🏷️ **[20260613](./tags/20260613.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 马斯克的 $SPCX 梦想离不开诺基亚 $NOK
 先别反驳，听我讲完。
@@ -4095,172 +3437,152 @@ dram，smh，qqq，海力士全是好东西，数不过来。
 老马下一步棋如果想要扩展完成它的太空算力计划，那么百分之百要跟诺基亚
 $NOK 紧密合作，甚至是入股投资或者收购，收购难度应该是最大的，大概率是大额资金入股。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICiWosW-0wukLxXVNzfbRgQ5mqDwHvAAL0D2sb3vthVfmTftjFXkQ-AQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICiWosW-0wukLxXVNzfbRgQ5mqDwHvAAL0D2sb3vthVfmTftjFXkQ-AQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2065507165700300920#m)
-
-[🔗 #0613-025058](#_0613-025058)
+[查看原文](https://nitter.net/xiaomustock/status/2065507165700300920#m)
 
 ---
 
-## 2026-06-12 22:52:41  {#_0612-225241}
+## 2026-06-12 00:20:40 GMT+08:00
 
-🏷️ **[20260612](./tags/20260612.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-spcx还是破发吧，让这些机构都亏钱，
-有钱赚的时候散户1毛钱额度都没有，
-只配下水道接盘，
-这个社会是真不公平。
+存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。
+历史上前所未有没比存储这波更稳的生意了。这些云厂哪怕借贷融资都买存储搞AI基建。
+$DRAM $MU $KORU #2X海力士
 
-[📖 原文](https://nitter.net/xiaomustock/status/2065447200684228634#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICWWoq43BHZl70AyERWFNWxBMtay9zAAIWFmsb5gdYVXtd4COxoeDjAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0612-225241](#_0612-225241)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICWmoq43VSda7PEgmIgvtA9Cj_WR8ZAAIXFmsb5gdYVe20cLPJSOW4AQADAgADeQADPAQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
----
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICTWoqZjwUSN1cHno4SbTq28kxW-r8AALhFGsb5gdYVSlVNx_yqc-ZAQADAgADeQADOwQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-## 2026-06-12 21:08:52  {#_0612-210852}
-
-🏷️ **[20260612](./tags/20260612.html)** 今日关注
-
-spcx接下来不管涨跌都会是这几周最火热的明星股，其他股票都得暗淡无光。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2065421073571790911#m)
-
-[🔗 #0612-210852](#_0612-210852)
+[查看原文](https://nitter.net/xiaomustock/status/2065106954415169666#m)
 
 ---
 
-## 2026-06-12 20:28:54  {#_0612-202854}
+## 2026-06-12 03:39:04 GMT+08:00
 
-🏷️ **[20260612](./tags/20260612.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-唯一区别是spcx是人类有史以来最伟大最有想象力的的公司，facebook不是。
+美股今晚大涨了没？
+艹，一帮菜逼反驳个锤子，
+屁玩意不懂。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICdmosAicbdCH9zeXSNbBplwZMHmqUAAL-Dmsb3vthVYNE8mumahXyAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICYWorFk2tnFEMDbN-K2qbqXxCh-XdAAJVFmsb5gdYVYm1qwABrTaUlQEAAwIAA3kAAzwE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2065411016062882237#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICTWoqZjwUSN1cHno4SbTq28kxW-r8AALhFGsb5gdYVSlVNx_yqc-ZAQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0612-202854](#_0612-202854)
+[查看原文](https://nitter.net/xiaomustock/status/2065156884781494544#m)
 
 ---
 
-## 2026-06-12 20:27:12  {#_0612-202712}
+## 2026-06-12 20:27:12 GMT+08:00
 
-🏷️ **[20260612](./tags/20260612.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 这张图可以今晚做个参考，
 当年facebook上市，美股总规模占比0.086%
 今天spcx上市，美股总规模占比0.11%
 比较接近。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICdmosAicbdCH9zeXSNbBplwZMHmqUAAL-Dmsb3vthVYNE8mumahXyAQADAgADeQADPAQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICdmosAicbdCH9zeXSNbBplwZMHmqUAAL-Dmsb3vthVYNE8mumahXyAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2065410587644051749#m)
-
-[🔗 #0612-202712](#_0612-202712)
+[查看原文](https://nitter.net/xiaomustock/status/2065410587644051749#m)
 
 ---
 
-## 2026-06-12 03:39:04  {#_0612-033904}
+## 2026-06-12 20:28:54 GMT+08:00
 
-🏷️ **[20260612](./tags/20260612.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-美股今晚大涨了没？
-艹，一帮菜逼反驳个锤子，
-屁玩意不懂。
+唯一区别是spcx是人类有史以来最伟大最有想象力的的公司，facebook不是。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICYWorFk2tnFEMDbN-K2qbqXxCh-XdAAJVFmsb5gdYVYm1qwABrTaUlQEAAwIAA3kAAzwE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICdmosAicbdCH9zeXSNbBplwZMHmqUAAL-Dmsb3vthVYNE8mumahXyAQADAgADeQADPAQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICTWoqZjwUSN1cHno4SbTq28kxW-r8AALhFGsb5gdYVSlVNx_yqc-ZAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2065156884781494544#m)
-
-[🔗 #0612-033904](#_0612-033904)
+[查看原文](https://nitter.net/xiaomustock/status/2065411016062882237#m)
 
 ---
 
-## 2026-06-12 00:20:40  {#_0612-002040}
+## 2026-06-12 21:08:52 GMT+08:00
 
-🏷️ **[20260612](./tags/20260612.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-存储三巨头27年的产能也已经都卖给云厂商了，已经开始卖28年。
-历史上前所未有没比存储这波更稳的生意了。这些云厂哪怕借贷融资都买存储搞AI基建。
-$DRAM $MU $KORU #2X海力士
+spcx接下来不管涨跌都会是这几周最火热的明星股，其他股票都得暗淡无光。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICWWoq43BHZl70AyERWFNWxBMtay9zAAIWFmsb5gdYVXtd4COxoeDjAQADAgADeQADPAQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICWmoq43VSda7PEgmIgvtA9Cj_WR8ZAAIXFmsb5gdYVe20cLPJSOW4AQADAgADeQADPAQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICTWoqZjwUSN1cHno4SbTq28kxW-r8AALhFGsb5gdYVSlVNx_yqc-ZAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2065106954415169666#m)
-
-[🔗 #0612-002040](#_0612-002040)
+[查看原文](https://nitter.net/xiaomustock/status/2065421073571790911#m)
 
 ---
 
-## 2026-06-11 15:22:39  {#_0611-152239}
+## 2026-06-12 22:52:41 GMT+08:00
 
-🏷️ **[20260611](./tags/20260611.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-美股今晚肯定大暴涨，相比于spcx抽走的几百亿资金，
-因为spcx募资而锁定的几千亿美金才是大头，这部分今晚美股就能放出来。
-最后的抄底机会。
+spcx还是破发吧，让这些机构都亏钱，
+有钱赚的时候散户1毛钱额度都没有，
+只配下水道接盘，
+这个社会是真不公平。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICTWoqZjwUSN1cHno4SbTq28kxW-r8AALhFGsb5gdYVSlVNx_yqc-ZAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064971558670553200#m)
-
-[🔗 #0611-152239](#_0611-152239)
+[查看原文](https://nitter.net/xiaomustock/status/2065447200684228634#m)
 
 ---
 
-## 2026-06-11 02:04:23  {#_0611-020423}
+## 2026-06-11 02:04:23 GMT+08:00
 
-🏷️ **[20260611](./tags/20260611.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 坚持住，spcx的ipo募资结束就能释放几千亿美金市场里。
 我问AI说就是11号募资结束。就是不知道几点了。
 一旦结束，盘面解放军就来了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICE2oqEQSmkP1p3AMRcFcm4UpG01loAAL9E2sb5gdQVdSAf0rS3bOZAQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICE2oqEQSmkP1p3AMRcFcm4UpG01loAAL9E2sb5gdQVdSAf0rS3bOZAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2064770669359808548#m)
-
-[🔗 #0611-020423](#_0611-020423)
+[查看原文](https://nitter.net/xiaomustock/status/2064770669359808548#m)
 
 ---
 
-## 2026-06-10 12:52:05  {#_0610-125205}
+## 2026-06-11 15:22:39 GMT+08:00
 
-🏷️ **[20260610](./tags/20260610.html)** 本周精选
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-韩国股市在ktv和icu之间来回蹦跶，
-天天都是熔断，
-要么涨停熔断要么跌停熔断，
-真他娘的心脏受不了。
+美股今晚肯定大暴涨，相比于spcx抽走的几百亿资金，
+因为spcx募资而锁定的几千亿美金才是大头，这部分今晚美股就能放出来。
+最后的抄底机会。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2064571279273804130#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICTWoqZjwUSN1cHno4SbTq28kxW-r8AALhFGsb5gdYVSlVNx_yqc-ZAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0610-125205](#_0610-125205)
-
----
-
-## 2026-06-10 10:50:53  {#_0610-105053}
-
-🏷️ **[20260610](./tags/20260610.html)** 本周精选
-
-假设美股跌几个月，唯一能靠业绩不断增长把股价拉回来的可能也就存储了，其他的都没业绩。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064540777754079664#m)
-
-[🔗 #0610-105053](#_0610-105053)
+[查看原文](https://nitter.net/xiaomustock/status/2064971558670553200#m)
 
 ---
 
-## 2026-06-10 09:04:11  {#_0610-090411}
+## 2026-06-10 00:20:04 GMT+08:00
 
-🏷️ **[20260610](./tags/20260610.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+跌的命没了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICFmoqEQ5NTKS7AkW1Ujh8ltTOTJ-AAAMUaxvmB1BVao_BmZ4vgOoBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2064382027915300999#m)
+
+---
+
+## 2026-06-10 00:21:48 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+想不出啥心理按摩的话了，
+只能说小以色列是真该死呐
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICFWoqEQoZfBFoGr6DmKgrIo9bfIEwAAL_E2sb5gdQVearBtjKv5I4AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2064382465242771920#m)
+
+---
+
+## 2026-06-10 09:04:11 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 暴涨暴跌，每天都来一次，没点信仰的话真是要被折磨疯。
 散户最大的亏损很可能
@@ -4268,115 +3590,38 @@ $DRAM $MU $KORU #2X海力士
 存储还是适合捏着别动，
 等市场慢慢重估。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICFGoqEQdhwHT6c1Or7zP1A44p63spAAL-E2sb5gdQVQvhOQ-dW-kUAQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICFGoqEQdhwHT6c1Or7zP1A44p63spAAL-E2sb5gdQVQvhOQ-dW-kUAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2064513926629412927#m)
-
-[🔗 #0610-090411](#_0610-090411)
+[查看原文](https://nitter.net/xiaomustock/status/2064513926629412927#m)
 
 ---
 
-## 2026-06-10 00:21:48  {#_0610-002148}
+## 2026-06-10 10:50:53 GMT+08:00
 
-🏷️ **[20260610](./tags/20260610.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-想不出啥心理按摩的话了，
-只能说小以色列是真该死呐
+假设美股跌几个月，唯一能靠业绩不断增长把股价拉回来的可能也就存储了，其他的都没业绩。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICFWoqEQoZfBFoGr6DmKgrIo9bfIEwAAL_E2sb5gdQVearBtjKv5I4AQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064382465242771920#m)
-
-[🔗 #0610-002148](#_0610-002148)
+[查看原文](https://nitter.net/xiaomustock/status/2064540777754079664#m)
 
 ---
 
-## 2026-06-10 00:20:04  {#_0610-002004}
+## 2026-06-10 12:52:05 GMT+08:00
 
-🏷️ **[20260610](./tags/20260610.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-跌的命没了
+韩国股市在ktv和icu之间来回蹦跶，
+天天都是熔断，
+要么涨停熔断要么跌停熔断，
+真他娘的心脏受不了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICFmoqEQ5NTKS7AkW1Ujh8ltTOTJ-AAAMUaxvmB1BVao_BmZ4vgOoBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064382027915300999#m)
-
-[🔗 #0610-002004](#_0610-002004)
-
----
-
-## 2026-06-09 22:19:29  {#_0609-221929}
-
-🏷️ **[20260609](./tags/20260609.html)** 本周精选
-
-麻了，又直线下跌📉
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064351682658435169#m)
-
-[🔗 #0609-221929](#_0609-221929)
+[查看原文](https://nitter.net/xiaomustock/status/2064571279273804130#m)
 
 ---
 
-## 2026-06-09 21:50:23  {#_0609-215023}
+## 2026-06-09 02:03:30 GMT+08:00
 
-🏷️ **[20260609](./tags/20260609.html)** 本周精选
-
-英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润，其他都是虚头巴脑的，就存储是真的，
-其他的就是股民的幻想。
-按照马斯克和黄仁勋的长远眼光看待存储，
-就是继续短缺到2030年，
-产能翻倍都远远不够。
-$DRAM $MU #2x海力士 #2x三星
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICF2oqERjYhIkzU_ZEemzGVirbojDfAAIBFGsb5gdQVWXeTZ5edPv8AQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB-monbc1RNwhWdksqbyF-kULxAeQIAAKcD2sbj4RBVT8q8g3J4Ot7AQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064344357776290094#m)
-
-[🔗 #0609-215023](#_0609-215023)
-
----
-
-## 2026-06-09 13:26:27  {#_0609-132627}
-
-🏷️ **[20260609](./tags/20260609.html)** 本周精选
-
-炒股这玩意每个人都不是神仙，暴跌抄底抄早了把自己抄成满仓最好还是装死。
-如果自己选股眼光不行，就上行业指数比如 $DRAM 或者 $SMH 这种，变相帮自己广撒网。
-如果嫌自己资金少，就2x看多etf，甚至如 $SOXL 这种三倍看多半导体。
-美股每次跌了都是好机会。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICGWoqESFd4mx1Na9Ckwd-XshG8ZCAAAICFGsb5gdQVfXKSXl4RH2IAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICGmoqESXsUzOLThCK20svvowAAT-OAQACAxRrG-YHUFX6VxHAkXPMJAEAAwIAA3gAAzsE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064217538263719963#m)
-
-[🔗 #0609-132627](#_0609-132627)
-
----
-
-## 2026-06-09 13:00:27  {#_0609-130027}
-
-🏷️ **[20260609](./tags/20260609.html)** 本周精选
-
-高频短线交易则是停留在打工人思维，想着靠短线每天挣点，除非你是天选打工人，否则很难发财甚至大部分人都肯定最终亏钱。
-
-而长期持有只在特定情况调仓是老板思维，
-如果你的眼光和认知配得上你的财富，拥有足够远见，则早晚必定发财。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICGmoqESXsUzOLThCK20svvowAAT-OAQACAxRrG-YHUFX6VxHAkXPMJAEAAwIAA3gAAzsE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2064210997590524098#m)
-
-[🔗 #0609-130027](#_0609-130027)
-
----
-
-## 2026-06-09 02:03:30  {#_0609-020330}
-
-🏷️ **[20260609](./tags/20260609.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 之前这张英伟达 $NVDA 的Vera Rubin NVL72成本图变化了，之前是780万美金预估，系基于过时的内存价格，严重低估了实际成本。伯恩斯坦分析师Stacy A. Rasgon给出了机架成本910万美元的预估底层逻辑。
 
@@ -4386,96 +3631,77 @@ GPU仍是最大单项成本。报告显示，Rubin GPU每颗5.5万美元，每�
 
 网络、冷却与供电合计成本200万美元。网络成本约127万美元，包括NVLink交换机约25万美元、线缆约24万美元、背板及其他规模扩展组件约38万美元，以及SpectrumX交换机约20万美元；冷却约16万美元，供电约15万美元。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB-monbc1RNwhWdksqbyF-kULxAeQIAAKcD2sbj4RBVT8q8g3J4Ot7AQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB-monbc1RNwhWdksqbyF-kULxAeQIAAKcD2sbj4RBVT8q8g3J4Ot7AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2064045672010068252#m)
-
-[🔗 #0609-020330](#_0609-020330)
+[查看原文](https://nitter.net/xiaomustock/status/2064045672010068252#m)
 
 ---
 
-## 2026-06-08 22:53:03  {#_0608-225303}
+## 2026-06-09 13:00:27 GMT+08:00
 
-🏷️ **[20260608](./tags/20260608.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-活过来了兄弟们，一堆大佬加持存储。
-今天马斯克也在摩根大通全球总部的采访中唱多美光科技。他表示，“真正的瓶颈在于芯片制造能力”，目前美光的产能还远不及芯片实际需求。
+高频短线交易则是停留在打工人思维，想着靠短线每天挣点，除非你是天选打工人，否则很难发财甚至大部分人都肯定最终亏钱。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB-2onbdFRmobE4epEQQ-mVpsZr-AZAAKdD2sbj4RBVSLlZbTupnn4AQADAgADeQADOwQ.jpg)
+而长期持有只在特定情况调仓是老板思维，
+如果你的眼光和认知配得上你的财富，拥有足够远见，则早晚必定发财。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2063997740544086195#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICGmoqESXsUzOLThCK20svvowAAT-OAQACAxRrG-YHUFX6VxHAkXPMJAEAAwIAA3gAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0608-225303](#_0608-225303)
-
----
-
-## 2026-06-08 18:14:52  {#_0608-181452}
-
-🏷️ **[20260608](./tags/20260608.html)** 本周精选
-
-老黄在韩国新闻发布会说暴跌应该兴奋。
-坚信存储， $DRAM #2x海力士 
-尤其是韩国其实没多少利空，最近利空都是美国市场的。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB9mommcfbtnan_72KEvvaeno2Xlq9AAKNEmsbj4Q5VXVHEvnZhiQkAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2063927733931930075#m)
-
-[🔗 #0608-181452](#_0608-181452)
+[查看原文](https://nitter.net/xiaomustock/status/2064210997590524098#m)
 
 ---
 
-## 2026-06-08 13:47:05  {#_0608-134705}
+## 2026-06-09 13:26:27 GMT+08:00
 
-🏷️ **[20260608](./tags/20260608.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-今天还得装死了，我的持仓全跌，
-全方位亏钱。
+#2x海力士 #港美 #DRAM #MRAVL 都涨回来了，除了 $NOK 看来诺基亚还是差点意思。
+炒股这玩意每个人都不是神仙，暴跌抄底抄早了把自己抄成满仓最好还是装死。
+如果自己选股眼光不行，就上行业指数比如 $DRAM 或者 $SMH 这种，变相帮自己广撒网。
+如果嫌自己资金少，就2x看多etf，甚至如 $SOXL 这种三倍看多半导体。
+美股每次跌了都是好机会。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2063860342787031192#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICGWoqESFd4mx1Na9Ckwd-XshG8ZCAAAICFGsb5gdQVfXKSXl4RH2IAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0608-134705](#_0608-134705)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICGmoqESXsUzOLThCK20svvowAAT-OAQACAxRrG-YHUFX6VxHAkXPMJAEAAwIAA3gAAzsE.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
----
-
-## 2026-06-08 11:16:52  {#_0608-111652}
-
-🏷️ **[20260608](./tags/20260608.html)** 本周精选
-
-搭配了养成情感大模型，本地存储记忆，
-外观与规格：分男款和女款。
-男款：身高 183 厘米，重量 42 千克。
-女款：身高 168 厘米，重量 35.2 千克。
-均配备 88 个自由度，旨在实现更自然的肢体动作。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB7WomPnQGkeH7-s4W6W1PdvdZQZ1oAAJmEWsbj4QxVe07ctGdEspxAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB7momPngcd6Mzao_USVQ5HdktEXu6AAJnEWsbj4QxVambtiu5hO9hAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2063822541286785098#m)
-
-[🔗 #0608-111652](#_0608-111652)
+[查看原文](https://nitter.net/xiaomustock/status/2064217538263719963#m)
 
 ---
 
-## 2026-06-08 11:02:25  {#_0608-110225}
+## 2026-06-09 21:50:23 GMT+08:00
 
-🏷️ **[20260608](./tags/20260608.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-You must argue and remember that everyone who disrespects you is gambling
-that you cannot succeed. You need  personally take yourself to everyplace that captures your heart.
+英伟达机柜这里面存储占300万美金的成本项，其他的概念都是占几万u甚至几千u少得可怜的，没有规模就没有利润，其他都是虚头巴脑的，就存储是真的，
+其他的就是股民的幻想。
+按照马斯克和黄仁勋的长远眼光看待存储，
+就是继续短缺到2030年，
+产能翻倍都远远不够。
+$DRAM $MU #2x海力士 #2x三星
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB7GomN1A2EaQ6v1kVCwQ8bdZzNbJDAAJZEWsbj4QxVUNOMV-2X95fAQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAICF2oqERjYhIkzU_ZEemzGVirbojDfAAIBFGsb5gdQVWXeTZ5edPv8AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2063818906771271885#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB-monbc1RNwhWdksqbyF-kULxAeQIAAKcD2sbj4RBVT8q8g3J4Ot7AQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0608-110225](#_0608-110225)
+[查看原文](https://nitter.net/xiaomustock/status/2064344357776290094#m)
 
 ---
 
-## 2026-06-08 10:26:20  {#_0608-102620}
+## 2026-06-09 22:19:29 GMT+08:00
 
-🏷️ **[20260608](./tags/20260608.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+麻了，又直线下跌📉
+
+[查看原文](https://nitter.net/xiaomustock/status/2064351682658435169#m)
+
+---
+
+## 2026-06-08 10:26:20 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
 假如马斯克的擎天柱机器人量产，@elonmusk 马斯克需要海量的记忆体。
 
@@ -4483,170 +3709,143 @@ that you cannot succeed. You need  personally take yourself to everyplace that c
 我们用手机随便拍几下就要几个gb，
 那一个能支持长期工作，有记忆能力的机器人需要多大容量的存储。
 这种肯定要优先ssd作为主要存储单元，但依然是一个天量。
+#海力士 跌的很便宜了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB6GomMHChaE-9nffdDVz1gXz3PY9oAAJUEWsbj4QxVZKYPDCcGgz2AQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB6GomMHChaE-9nffdDVz1gXz3PY9oAAJUEWsbj4QxVZKYPDCcGgz2AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2063809823423009159#m)
-
-[🔗 #0608-102620](#_0608-102620)
+[查看原文](https://nitter.net/xiaomustock/status/2063809823423009159#m)
 
 ---
 
-## 2026-06-06 02:50:42  {#_0606-025042}
+## 2026-06-08 11:02:25 GMT+08:00
 
-🏷️ **[20260606](./tags/20260606.html)** 今日关注
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+You must argue and remember that everyone who disrespects you is gambling
+that you cannot succeed. You need  personally take yourself to everyplace that captures your heart.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB7GomN1A2EaQ6v1kVCwQ8bdZzNbJDAAJZEWsbj4QxVUNOMV-2X95fAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2063818906771271885#m)
+
+---
+
+## 2026-06-08 11:16:52 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+#优必选  开售了仿生机器人U1，定位情感陪伴与人体交互，仅限18岁以上成人购买。
+搭配了养成情感大模型，本地存储记忆，
+外观与规格：分男款和女款。
+男款：身高 183 厘米，重量 42 千克。
+女款：身高 168 厘米，重量 35.2 千克。
+均配备 88 个自由度，旨在实现更自然的肢体动作。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB7WomPnQGkeH7-s4W6W1PdvdZQZ1oAAJmEWsbj4QxVe07ctGdEspxAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB7momPngcd6Mzao_USVQ5HdktEXu6AAJnEWsbj4QxVambtiu5hO9hAQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2063822541286785098#m)
+
+---
+
+## 2026-06-08 13:47:05 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+今天还得装死了，我的持仓全跌，
+全方位亏钱。
+
+[查看原文](https://nitter.net/xiaomustock/status/2063860342787031192#m)
+
+---
+
+## 2026-06-08 18:14:52 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+老黄在韩国新闻发布会说暴跌应该兴奋。
+坚信存储， $DRAM #2x海力士 
+尤其是韩国其实没多少利空，最近利空都是美国市场的。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB9mommcfbtnan_72KEvvaeno2Xlq9AAKNEmsbj4Q5VXVHEvnZhiQkAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2063927733931930075#m)
+
+---
+
+## 2026-06-08 22:53:03 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+活过来了兄弟们，一堆大佬加持存储。
+今天马斯克也在摩根大通全球总部的采访中唱多美光科技。他表示，“真正的瓶颈在于芯片制造能力”，目前美光的产能还远不及芯片实际需求。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIB-2onbdFRmobE4epEQQ-mVpsZr-AZAAKdD2sbj4RBVSLlZbTupnn4AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2063997740544086195#m)
+
+---
+
+## 2026-06-06 00:50:51 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+今天应该没有赚钱的吧，
+巴菲特今天也得脱层皮
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBnGojAAHsGyBqs0H5AhZJiRaU8V4--AACyQ5rG9h9GVUGDd76aQ-xxAEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062940225467277401#m)
+
+---
+
+## 2026-06-06 02:50:42 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 今天亏成这逼样才体会到
 巴菲特的真正牛逼之处，
 拿着巨额现金几年忍住不买，我们可能三五天都受不住。
 拿着股票几十年不卖，我们拿三五个月可能已经是上限。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBoWojHPLJj-lF6qeso1Q3Oq_ftCfBAALkDmsb2H0ZVXmXOddF07nWAQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBoWojHPLJj-lF6qeso1Q3Oq_ftCfBAALkDmsb2H0ZVXmXOddF07nWAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062970383930671336#m)
-
-[🔗 #0606-025042](#_0606-025042)
+[查看原文](https://nitter.net/xiaomustock/status/2062970383930671336#m)
 
 ---
 
-## 2026-06-06 00:50:51  {#_0606-005051}
+## 2026-06-05 00:52:11 GMT+08:00
 
-🏷️ **[20260606](./tags/20260606.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-今天应该没有赚钱的吧，
-巴菲特今天也得脱层皮
+今天 $AVGO 博通和 $MRVL 迈威尔这俩反弹带来的反差感，增强了我长期拿 $MRVL 的信心。
+这俩同时抄的底，开盘前都亏，现在 $MRVL 拉起来赚钱了， $AVGO 还亏，纹丝不动，感觉像被 $MRVL 吸血了一样。
+不过 $AVGO  5%总能反弹到的吧，他娘的。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBnGojAAHsGyBqs0H5AhZJiRaU8V4--AACyQ5rG9h9GVUGDd76aQ-xxAEAAwIAA3kAAzsE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBe2ohtk20rVnpoKiDsrIdP8hgH58cAAMSaxvYfQlVCSag4ynLsUYBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062940225467277401#m)
-
-[🔗 #0606-005051](#_0606-005051)
-
----
-
-## 2026-06-05 23:10:59  {#_0605-231059}
-
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
-
-人们都期待的是买入即拉盘，
-而不是漫长的等待，
-他们一刻都等不了，
-更别说五年十年。
-但真是买入天天暴涨，
-泡沫得大到多大的程度，
-公司的营收和科技的发展肯定得跟公司市值匹配或者不能差太多。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062915090433687927#m)
-
-[🔗 #0605-231059](#_0605-231059)
+[查看原文](https://nitter.net/xiaomustock/status/2062578172860710996#m)
 
 ---
 
-## 2026-06-05 23:08:36  {#_0605-230836}
+## 2026-06-05 01:35:49 GMT+08:00
 
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-今天这个心理按摩都按不动，
-跌的疼的一逼，
-身体没受害，
-感觉被砍了一刀。
-十年前的前十公司市值，合起来没有现在英伟达一家多。
-通货膨胀一直也在膨胀全球最顶级的公司市值。
+感谢老板们订阅，订阅里没啥太多不一样的内容，受之有愧，另外也不想跟老板们有啥资金纠葛。
+打算月底了绑个卡把这个钱捐给韩红基金会，
+就当给你们积福缘了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBl2oi67p7OUct2j8ZDpmEBC4weUy2AAJ6Dmsb2H0ZVZ0XTV0CAAEcHgEAAwIAA3kAAzsE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfGohvXfR7ANpnxS-Rvu01KGb9LaRAAIWEmsb2H0JVX-VEN4Y0LMuAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062914491289936038#m)
-
-[🔗 #0605-230836](#_0605-230836)
+[查看原文](https://nitter.net/xiaomustock/status/2062589153376600466#m)
 
 ---
 
-## 2026-06-05 22:36:25  {#_0605-223625}
+## 2026-06-05 02:09:45 GMT+08:00
 
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
-
-太惨了，如来佛祖来了
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBlWoi5LZXXMBsHk9F-EmoCnHQPn_5AAJjDmsb2H0ZVbwwyejF7fvOAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062906390109163597#m)
-
-[🔗 #0605-223625](#_0605-223625)
-
----
-
-## 2026-06-05 14:26:30  {#_0605-142630}
-
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
-
-女股神都救不了eth和btc，
-被cz俩口子搞成诈骗市场废了，
-唯一败绩败给了crytpo，
-再牛的人来了也得亏成裤衩子才能走。
-全线崩盘。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062783101550416181#m)
-
-[🔗 #0605-142630](#_0605-142630)
-
----
-
-## 2026-06-05 14:00:52  {#_0605-140052}
-
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
-
-仓位不大今天都亏到自闭，
-不说话了。
-沉浸式打游戏😂
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062776648634691934#m)
-
-[🔗 #0605-140052](#_0605-140052)
-
----
-
-## 2026-06-05 13:13:56  {#_0605-131356}
-
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
-
-股票就是先信卖后信，早信早发财。
-白毛女刚发的时候还是跌的，
-现在直接20cm
-周末说不定再发酵一波
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBjGoiXwiBu2h5hQQ3ormP8aSgwSMpAAKeD2sb2H0RVTcZXfEzj_CpAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062764837793419375#m)
-
-[🔗 #0605-131356](#_0605-131356)
-
----
-
-## 2026-06-05 02:19:21  {#_0605-021921}
-
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
-
-我要是 $INTC 英特尔老板，
-就直接全部放弃自己的cpu业务，转头给
-$NVDA 英伟达 和 $AMD 代工他们家的cpu，
-反正自己家的cpu都打不过他俩家，干脆不做了，直接给这俩家搞代工，这样俩家也不怕英特尔偷技术，反正自己cpu业务放弃了，还能出让点专利费。
-还能接来自海力士美光这些存储厂的HBM代工，
-以美国优先的策略，市值能轻轻松松干过 $台积电。
-可惜呐，非要自己浪费一大堆资金搞cpu研发，还亏的底朝天。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfWohxG6pKLDXSsDB7Kh9ese97P1tAAIhEmsb2H0JVUIjSwIEQeVxAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfmohxHI-MnQC0U1BFLSPuthP96aLAAIiEmsb2H0JVcwDFH8ljeD8AQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062600105249923433#m)
-
-[🔗 #0605-021921](#_0605-021921)
-
----
-
-## 2026-06-05 02:09:45  {#_0605-020945}
-
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 海力士除了与台积电代工合作，
 正在寻求 $INTC 英特尔来解决产能不足的问题，存储厂商都称27年产能缺口很大。
@@ -4659,120 +3858,213 @@ $NVDA 英伟达 和 $AMD 代工他们家的cpu，
 可惜英特尔还在硬捣鼓他们那个已经落后了的cpu芯片。
 就看以后英特尔会不会这样干。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfmohxHI-MnQC0U1BFLSPuthP96aLAAIiEmsb2H0JVcwDFH8ljeD8AQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfmohxHI-MnQC0U1BFLSPuthP96aLAAIiEmsb2H0JVcwDFH8ljeD8AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062597690307838038#m)
-
-[🔗 #0605-020945](#_0605-020945)
+[查看原文](https://nitter.net/xiaomustock/status/2062597690307838038#m)
 
 ---
 
-## 2026-06-05 01:35:49  {#_0605-013549}
+## 2026-06-05 02:19:21 GMT+08:00
 
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-感谢老板们订阅，订阅里没啥太多不一样的内容，受之有愧，另外也不想跟老板们有啥资金纠葛。
-打算月底了绑个卡把这个钱捐给韩红基金会，
-就当给你们积福缘了。
+我要是 $INTC 英特尔老板，
+就直接全部放弃自己的cpu业务，转头给
+$NVDA 英伟达 和 $AMD 代工他们家的cpu，
+反正自己家的cpu都打不过他俩家，干脆不做了，直接给这俩家搞代工，这样俩家也不怕英特尔偷技术，反正自己cpu业务放弃了，还能出让点专利费。
+还能接来自海力士美光这些存储厂的HBM代工，
+以美国优先的策略，市值能轻轻松松干过 $台积电。
+可惜呐，非要自己浪费一大堆资金搞cpu研发，还亏的底朝天。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfGohvXfR7ANpnxS-Rvu01KGb9LaRAAIWEmsb2H0JVX-VEN4Y0LMuAQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfWohxG6pKLDXSsDB7Kh9ese97P1tAAIhEmsb2H0JVUIjSwIEQeVxAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062589153376600466#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBfmohxHI-MnQC0U1BFLSPuthP96aLAAIiEmsb2H0JVcwDFH8ljeD8AQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0605-013549](#_0605-013549)
-
----
-
-## 2026-06-05 00:52:11  {#_0605-005211}
-
-🏷️ **[20260605](./tags/20260605.html)** 今日关注
-
-今天 $AVGO 博通和 $MRVL 迈威尔这俩反弹带来的反差感，增强了我长期拿 $MRVL 的信心。
-这俩同时抄的底，开盘前都亏，现在 $MRVL 拉起来赚钱了， $AVGO 还亏，纹丝不动，感觉像被 $MRVL 吸血了一样。
-不过 $AVGO  5%总能反弹到的吧，他娘的。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBe2ohtk20rVnpoKiDsrIdP8hgH58cAAMSaxvYfQlVCSag4ynLsUYBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062578172860710996#m)
-
-[🔗 #0605-005211](#_0605-005211)
+[查看原文](https://nitter.net/xiaomustock/status/2062600105249923433#m)
 
 ---
 
-## 2026-06-04 22:47:07  {#_0604-224707}
+## 2026-06-05 13:13:56 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-熊短牛长，跌的时候得克服恐惧抄。
+股票就是先信卖后信，早信早发财。
+白毛女刚发的时候还是跌的，
+现在直接20cm
+周末说不定再发酵一波
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062546698220499095#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBjGoiXwiBu2h5hQQ3ormP8aSgwSMpAAKeD2sb2H0RVTcZXfEzj_CpAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0604-224707](#_0604-224707)
-
----
-
-## 2026-06-04 21:24:20  {#_0604-212420}
-
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
-
-$AVGO 最后的低价促销6分钟
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBdWohfh4pseFy0WonJ-ZRvUvi0qnAAAK_EmsbcycIVeyGftZK3pndAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062525863741083651#m)
-
-[🔗 #0604-212420](#_0604-212420)
+[查看原文](https://nitter.net/xiaomustock/status/2062764837793419375#m)
 
 ---
 
-## 2026-06-04 17:57:19  {#_0604-175719}
+## 2026-06-05 14:00:52 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-今天市场的关键点就是博通 $AVGO 
-全都是被博通暴跌十几个点吓得，
-但实际博通财报非常好，q3的指引也非常好
+仓位不大今天都亏到自闭，
+不说话了。
+沉浸式打游戏😂
 
-只要博通能开盘拉回去大半，
-市场又当啥事没发生，
-太几把敏感了现在都。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaGohBoqov8eQvmfIy1lKxM3CNkwgAAJtEGsbcycIVael8d3tpVeDAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaWohBo7NPvqef3Z1VPbixekS3xbmAAJuEGsbcycIVQRhh6DSNsm0AQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062473765733208525#m)
-
-[🔗 #0604-175719](#_0604-175719)
+[查看原文](https://nitter.net/xiaomustock/status/2062776648634691934#m)
 
 ---
 
-## 2026-06-04 16:50:20  {#_0604-165020}
+## 2026-06-05 14:26:30 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-对做投资的人健康特别重要，
-假如梭哈的是纳指100，qqq，
-多活一年收益增加15%。
-多活5年资产翻倍。
-巴菲特之所以能成股神，除了他稳健的投资风格和生在美股，就是活的比别人长。
-美股里面比巴菲特牛的人也非常多，
-都被巴菲特熬死了，
-谁他娘的能活过巴菲特，
-他搭档查理都没活过他，
-所以自然他是股神。
+女股神都救不了eth和btc，
+被cz俩口子搞成诈骗市场废了，
+唯一败绩败给了crytpo，
+再牛的人来了也得亏成裤衩子才能走。
+全线崩盘。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBb2ohPr2OC792BEYGKJzy1U3xc5gdAAL6EWsbcycIVRDdkyqFZ-e8AQADAgADeAADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062456910444450152#m)
-
-[🔗 #0604-165020](#_0604-165020)
+[查看原文](https://nitter.net/xiaomustock/status/2062783101550416181#m)
 
 ---
 
-## 2026-06-04 16:46:00  {#_0604-164600}
+## 2026-06-05 22:36:25 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+太惨了，如来佛祖来了
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBlWoi5LZXXMBsHk9F-EmoCnHQPn_5AAJjDmsb2H0ZVbwwyejF7fvOAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062906390109163597#m)
+
+---
+
+## 2026-06-05 23:08:36 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+今天这个心理按摩都按不动，
+跌的疼的一逼，
+身体没受害，
+感觉被砍了一刀。
+十年前的前十公司市值，合起来没有现在英伟达一家多。
+通货膨胀一直也在膨胀全球最顶级的公司市值。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBl2oi67p7OUct2j8ZDpmEBC4weUy2AAJ6Dmsb2H0ZVZ0XTV0CAAEcHgEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062914491289936038#m)
+
+---
+
+## 2026-06-05 23:10:59 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+人们都期待的是买入即拉盘，
+而不是漫长的等待，
+他们一刻都等不了，
+更别说五年十年。
+但真是买入天天暴涨，
+泡沫得大到多大的程度，
+公司的营收和科技的发展肯定得跟公司市值匹配或者不能差太多。
+
+[查看原文](https://nitter.net/xiaomustock/status/2062915090433687927#m)
+
+---
+
+## 2026-06-04 02:50:00 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这阶段市场里的人都惊弓之鸟，
+稍有风吹草动，全作鸟兽散。
+发现啥事没有又都飞回来。
+spacx上市节点越来越近剩一周时间，
+持仓千万别带杠杆这段时间。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBWWoggRF2VDPaIyc5X6PVxGyDxyQsAAL0EGsbcycAAVX7UNptoLyANwEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062245430763684060#m)
+
+---
+
+## 2026-06-04 12:40:36 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+博通 $AVGO 的财报和指引都非常牛逼，
+市场暴跌纯粹是鸡蛋里挑骨头，
+60抄底了 $AVGX 俩倍做多博通，这完全是杀期权，把整个美股都带下来了。
+市盈率都跑到20了，按照年底q4利润算年50%增长，每年市盈率就剩下10了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaGohBoqov8eQvmfIy1lKxM3CNkwgAAJtEGsbcycIVael8d3tpVeDAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaWohBo7NPvqef3Z1VPbixekS3xbmAAJuEGsbcycIVQRhh6DSNsm0AQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062394061055524970#m)
+
+---
+
+## 2026-06-04 14:44:50 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+今天A股里的仓位就这些，巨亏了好几百，
+几乎所有持仓都是 #港美 ，其他啥玩意没有。
+计划是给港美半年时间像中韩半导体一样，
+拿到12月底的时候，
+如果港美不行，我就都换成纳指100，
+如果港美很行，我也计划换成一半的纳指100。
+不想在个股里面折腾废脑子。
+继续装死了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBbmohIp-DdO8ajgu9gMp65JCYxC_wAAL9EGsbcycIVewjuxCPrkLqAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAORah1KNLfp49Mdn1ILWkpeDWytfGgAAmoQaxtIMulUXd9JrG22MYsBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062425326769316135#m)
+
+---
+
+## 2026-06-04 14:46:36 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+现在我 $MRVL 和 $AVGX 各占一半。
+不管谁抢订单抢份额，只要市场规模在变大，那就整体肯定赚钱😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaGohBoqov8eQvmfIy1lKxM3CNkwgAAJtEGsbcycIVael8d3tpVeDAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaWohBo7NPvqef3Z1VPbixekS3xbmAAJuEGsbcycIVQRhh6DSNsm0AQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062425770497339442#m)
+
+---
+
+## 2026-06-04 16:39:21 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+炒美股最好别带杠杆，也别折腾小票。
+有多少钱干多大的事情，
+大市值的正股觉得慢，顶多买个2x做多etf。
+熊短牛长，
+跌的时候克服恐惧加点自己看好的，
+涨的时候再把加的仓位去掉，
+涨跌都开心，
+不影响睡眠，
+搞的自己睡不着的股票和操作别搞，
+赚钱不能影响身体健康。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBb2ohPr2OC792BEYGKJzy1U3xc5gdAAL6EWsbcycIVRDdkyqFZ-e8AQADAgADeAADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBWWoggRF2VDPaIyc5X6PVxGyDxyQsAAL0EGsbcycAAVX7UNptoLyANwEAAwIAA3kAAzsE.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062454144078671966#m)
+
+---
+
+## 2026-06-04 16:46:00 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 在资本市场活的久不久，
 有时候不在于看的准不准，
@@ -4787,267 +4079,405 @@ $AVGO 最后的低价促销6分钟
 😂不过好在熬过来了。
 以后绝不这样干了。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062455820273516914#m)
-
-[🔗 #0604-164600](#_0604-164600)
+[查看原文](https://nitter.net/xiaomustock/status/2062455820273516914#m)
 
 ---
 
-## 2026-06-04 16:39:21  {#_0604-163921}
+## 2026-06-04 16:50:20 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-炒美股最好别带杠杆，也别折腾小票。
-有多少钱干多大的事情，
-大市值的正股觉得慢，顶多买个2x做多etf。
-熊短牛长，
-跌的时候克服恐惧加点自己看好的，
-涨的时候再把加的仓位去掉，
-涨跌都开心，
-不影响睡眠，
-搞的自己睡不着的股票和操作别搞，
-赚钱不能影响身体健康。
+对做投资的人健康特别重要，
+假如梭哈的是纳指100，qqq，
+多活一年收益增加15%。
+多活5年资产翻倍。
+巴菲特之所以能成股神，除了他稳健的投资风格和生在美股，就是活的比别人长。
+美股里面比巴菲特牛的人也非常多，
+都被巴菲特熬死了，
+谁他娘的能活过巴菲特，
+他搭档查理都没活过他，
+所以自然他是股神。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBb2ohPr2OC792BEYGKJzy1U3xc5gdAAL6EWsbcycIVRDdkyqFZ-e8AQADAgADeAADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBb2ohPr2OC792BEYGKJzy1U3xc5gdAAL6EWsbcycIVRDdkyqFZ-e8AQADAgADeAADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBWWoggRF2VDPaIyc5X6PVxGyDxyQsAAL0EGsbcycAAVX7UNptoLyANwEAAwIAA3kAAzsE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062454144078671966#m)
-
-[🔗 #0604-163921](#_0604-163921)
+[查看原文](https://nitter.net/xiaomustock/status/2062456910444450152#m)
 
 ---
 
-## 2026-06-04 14:46:36  {#_0604-144636}
+## 2026-06-04 17:57:19 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-现在我 $MRVL 和 $AVGX 各占一半。
-不管谁抢订单抢份额，只要市场规模在变大，那就整体肯定赚钱😂
+今天市场的关键点就是博通 $AVGO 
+全都是被博通暴跌十几个点吓得，
+但实际博通财报非常好，q3的指引也非常好
+ 
+只要博通能开盘拉回去大半，
+市场又当啥事没发生，
+太几把敏感了现在都。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaGohBoqov8eQvmfIy1lKxM3CNkwgAAJtEGsbcycIVael8d3tpVeDAQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaGohBoqov8eQvmfIy1lKxM3CNkwgAAJtEGsbcycIVael8d3tpVeDAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaWohBo7NPvqef3Z1VPbixekS3xbmAAJuEGsbcycIVQRhh6DSNsm0AQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaWohBo7NPvqef3Z1VPbixekS3xbmAAJuEGsbcycIVQRhh6DSNsm0AQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062425770497339442#m)
-
-[🔗 #0604-144636](#_0604-144636)
-
----
-
-## 2026-06-04 14:44:50  {#_0604-144450}
-
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
-
-今天A股里的仓位就这些，巨亏了好几百，
-几乎所有持仓都是 #港美 ，其他啥玩意没有。
-计划是给港美半年时间像中韩半导体一样，
-拿到12月底的时候，
-如果港美不行，我就都换成纳指100，
-如果港美很行，我也计划换成一半的纳指100。
-不想在个股里面折腾废脑子。
-继续装死了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBbmohIp-DdO8ajgu9gMp65JCYxC_wAAL9EGsbcycIVewjuxCPrkLqAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAORah1KNLfp49Mdn1ILWkpeDWytfGgAAmoQaxtIMulUXd9JrG22MYsBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062425326769316135#m)
-
-[🔗 #0604-144450](#_0604-144450)
+[查看原文](https://nitter.net/xiaomustock/status/2062473765733208525#m)
 
 ---
 
-## 2026-06-04 12:40:36  {#_0604-124036}
+## 2026-06-04 21:24:20 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-博通 $AVGO 的财报和指引都非常牛逼，
-市场暴跌纯粹是鸡蛋里挑骨头，
-60抄底了 $AVGX 俩倍做多博通，这完全是杀期权，把整个美股都带下来了。
-市盈率都跑到20了，按照年底q4利润算年50%增长，每年市盈率就剩下10了。
+$AVGO 最后的低价促销6分钟
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaGohBoqov8eQvmfIy1lKxM3CNkwgAAJtEGsbcycIVael8d3tpVeDAQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBdWohfh4pseFy0WonJ-ZRvUvi0qnAAAK_EmsbcycIVeyGftZK3pndAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBaWohBo7NPvqef3Z1VPbixekS3xbmAAJuEGsbcycIVQRhh6DSNsm0AQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062394061055524970#m)
-
-[🔗 #0604-124036](#_0604-124036)
+[查看原文](https://nitter.net/xiaomustock/status/2062525863741083651#m)
 
 ---
 
-## 2026-06-04 02:50:00  {#_0604-025000}
+## 2026-06-04 22:47:07 GMT+08:00
 
-🏷️ **[20260604](./tags/20260604.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-这阶段市场里的人都惊弓之鸟，
-稍有风吹草动，全作鸟兽散。
-发现啥事没有又都飞回来。
-spacx上市节点越来越近剩一周时间，
-持仓千万别带杠杆这段时间。
+熊短牛长，跌的时候得克服恐惧抄。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBWWoggRF2VDPaIyc5X6PVxGyDxyQsAAL0EGsbcycAAVX7UNptoLyANwEAAwIAA3kAAzsE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062245430763684060#m)
-
-[🔗 #0604-025000](#_0604-025000)
+[查看原文](https://nitter.net/xiaomustock/status/2062546698220499095#m)
 
 ---
 
-## 2026-06-03 23:14:41  {#_0603-231441}
+## 2026-06-03 02:25:46 GMT+08:00
 
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+明年的AI焦点会是HBM4E 和企业级eSSD超级短缺。#海力士 在这俩块市场都最大。
+如果还能有别的就是 $MRVL 和 $NOK 在光通信领域营收开始爆发起量。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBKWofKHJrbN3T56xjtfviqY4yrXEsAAIiEWsbtcX5VD-YEvcvDnaTAQADAgADeAADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBKmofKHbmqIYYW18-xjlaUGjZHkLIAAIjEWsbtcX5VNRf-RU_Rcm4AQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBK2ofKHp74GrWxXVEzVq32gbRNkBSAAIkEWsbtcX5VBv6LFG8oXPHAQADAgADeQADOwQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBLGofKH47BLcAAWL-oAr2tbtoyOhqGgACJRFrG7XF-VSTrP1mKxM_qgEAAwIAA3kAAzsE.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBLWofKIKlcLiYuz3YnkM1uwfS1alUAAImEWsbtcX5VKZU95Ht9xUAAQEAAwIAA3kAAzsE.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061876947966140908#m)
+
+---
+
+## 2026-06-03 02:35:00 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+$MRVL 有多独特，昨天公司CEO称Marvell是全球唯一一家能够解决AI数据中心完整连接堆栈的公司，从芯片封装内部的毫米级到数据中心之间的公里级。
+Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等光通信有关的公司，市值暴涨前，这资金占它市值的1/4，公司在拿命梭哈光通信。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBKWofKHJrbN3T56xjtfviqY4yrXEsAAIiEWsbtcX5VD-YEvcvDnaTAQADAgADeAADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061879268313797010#m)
+
+---
+
+## 2026-06-03 09:24:14 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+我以为这300刀以下捡漏的日子是多久，
+没想到是1天😂
+昨天 $MRVL 是224，今天盘后就已经318😅
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBMmofirIzaE4NzZh6ippy-_jUKSPMAAKLEWsbtcX5VG_Ytfa63IsjAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061982257229791491#m)
+
+---
+
+## 2026-06-03 09:52:04 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+去年发过很多次 $COHR  和 $LITE  在一百多的时候。
+那会是因为国内炒新易盛这些，然后对照找的这俩股票。现在阶段怎么说对于我跑的价格都太高了，我都踏空了😂
+我选捏着 $MRVL $NOK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNGofkd0-hcQf1YJkdpsBMHuurix3AAJxDmsbtcUBVRky3ONXs4LtAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNWofkeIVWjHDceNX8RpnuVI7SsVfAAJyDmsbtcUBVSV5Y2PRltERAQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061989260828266641#m)
+
+---
+
+## 2026-06-03 10:14:02 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+光通信捏着 $MRVL 和 $NOK 就够了，
+其他的如何不用焦虑，
+他俩从芯片源头开卡收税。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBM2ofkdl4AVVA6xbvT2bkBnqdsZQUAAJwDmsbtcUBVROjqgWtpq6RAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061994790607015980#m)
+
+---
+
+## 2026-06-03 11:40:27 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+英伟达黄仁勋周内会到韩国再次与sk总裁会面吃炸鸡。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNmofpv4kXXdWpuFa6VR_rIwQD2bhAALyDmsbcyf4VOP-D6cqxU43AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062016536320114826#m)
+
+---
+
+## 2026-06-03 15:19:42 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+这 #港美互联网lof 的基金经理在搞啥，还不如我来管，这么好行情按比例把一季度持仓配进去完事，非要瞎折腾，不然不可能昨天才一个点收益，希望这个经理脑子里出花活别乱操作，真是醉了。
+我放着装死了。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBSWof2HOecUfga0QlXw1yEqBVEjf3AAJ9D2sbcyf4VIzizIsVd6qIAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2062071713429381534#m)
+
+---
+
+## 2026-06-03 22:22:45 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+还是 $NOK 和 $MRVL 硬
+
+[查看原文](https://nitter.net/xiaomustock/status/2062178177154203802#m)
+
+---
+
+## 2026-06-03 23:14:41 GMT+08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
 三星总裁因为行程缺席，黄仁勋跟sk总裁会有个闭门会谈。
 在台北被问到怎么看三星涨工资罢工的事情，
 黄仁勋说“员工的薪水越高越好，去问我的员工，我就是这么做的，我已经尽我所能给员工最高的薪资。”
 感觉三星老板有被黄仁勋被刺到😂
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBV2ogSKvW58lKRD--NrCBL9JqGgOXAAKeEGsbcycAAVWx47N3Q4_3dwEAAwIAA3kAAzsE.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBV2ogSKvW58lKRD--NrCBL9JqGgOXAAKeEGsbcycAAVWx47N3Q4_3dwEAAwIAA3kAAzsE.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNmofpv4kXXdWpuFa6VR_rIwQD2bhAALyDmsbcyf4VOP-D6cqxU43AQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNmofpv4kXXdWpuFa6VR_rIwQD2bhAALyDmsbcyf4VOP-D6cqxU43AQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062191246987202842#m)
-
-[🔗 #0603-231441](#_0603-231441)
+[查看原文](https://nitter.net/xiaomustock/status/2062191246987202842#m)
 
 ---
 
-## 2026-06-03 22:22:45  {#_0603-222245}
+## 2026-06-02 00:02:12 GMT+08:00
 
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-还是 $NOK 和 $MRVL 硬
+$NOK 诺基亚管理层上上下下这一俩个月一直在买买买自家股票。
+是不是有啥没有发布的内幕利好？
+欧盟学特朗普入资？
+还是欧盟或者英伟达给了诺基亚大单？
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062178177154203802#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPeah2zqX2heEdfQ6KZKPLEdDEPB6EAAjMPaxu1xfFUMiTj4njd8L8BAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0603-222245](#_0603-222245)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPfah2zrBa3opI-RJLSplOVm1gM20MAAjQPaxu1xfFU-_NarS4_Zi8BAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
----
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPgah2zrmAzuzCDpbxIU5CJezctPf8AAjUPaxu1xfFU5LR-MhIS2AQBAAMCAAN5AAM7BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-## 2026-06-03 15:19:42  {#_0603-151942}
-
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
-
-这 #港美互联网lof 的基金经理在搞啥，还不如我来管，这么好行情按比例把一季度持仓配进去完事，非要瞎折腾，不然不可能昨天才一个点收益，希望这个经理脑子里出花活别乱操作，真是醉了。
-我放着装死了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBSWof2HOecUfga0QlXw1yEqBVEjf3AAJ9D2sbcyf4VIzizIsVd6qIAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2062071713429381534#m)
-
-[🔗 #0603-151942](#_0603-151942)
+[查看原文](https://nitter.net/xiaomustock/status/2061478429178896831#m)
 
 ---
 
-## 2026-06-03 11:40:27  {#_0603-114027}
+## 2026-06-02 01:00:41 GMT+08:00
 
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-英伟达黄仁勋周内会到韩国再次与sk总裁会面吃炸鸡。
+$IBM 真是最近各种buff叠加，政府出资建量子芯片工厂，特朗普之前吹b的ibm视频助攻，英伟达在台北发表COMPUTEX主题演讲Vera Rubin 存储与系统层订单的厂商也包含 $IBM
+单凭借量子芯片工厂，未来万亿美金市值必有 $IBM 的位置
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNmofpv4kXXdWpuFa6VR_rIwQD2bhAALyDmsbcyf4VOP-D6cqxU43AQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPhah3ByKZpntvnmMl-0TPDFdioKHgAAkcPaxu1xfFUTtms1iI1rfkBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2062016536320114826#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAANJahqyBhzoh5R1W4MQyzDEibeDB6AAAlcRaxsTQtlUOC21KusFegIBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0603-114027](#_0603-114027)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAANKahqyCri1qAMCxStYlT5hDfXr_VcAAlgRaxsTQtlUoetvA-zQKggBAAMCAAN5AAM7BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
----
-
-## 2026-06-03 10:14:02  {#_0603-101402}
-
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
-
-光通信捏着 $MRVL 和 $NOK 就够了，
-其他的如何不用焦虑，
-他俩从芯片源头开卡收税。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBM2ofkdl4AVVA6xbvT2bkBnqdsZQUAAJwDmsbtcUBVROjqgWtpq6RAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061994790607015980#m)
-
-[🔗 #0603-101402](#_0603-101402)
+[查看原文](https://nitter.net/xiaomustock/status/2061493144525373759#m)
 
 ---
 
-## 2026-06-03 09:52:04  {#_0603-095204}
+## 2026-06-02 01:35:22 GMT+08:00
 
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-去年发过很多次 $COHR  和 $LITE  在一百多的时候。
-那会是因为国内炒新易盛这些，然后对照找的这俩股票。现在阶段怎么说对于我跑的价格都太高了，我都踏空了😂
-我选捏着 $MRVL $NOK
+仓位最近调整成了这样
+美区： $DRAM   $MRVL $NOK  $IBM 
+（主仓位dram 60%，1/20仓ibm，其他没变）
+港区：#2x做多海力士 
+a区：#港美互联网 （  #中韩半导体 已经清仓换了港美）
+支付宝基金：#富国全球科技 #建信新兴市场
+全方位无死角的存储持仓，光通信，附加一点 $IBM 作为未来量子仓。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNGofkd0-hcQf1YJkdpsBMHuurix3AAJxDmsbtcUBVRky3ONXs4LtAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBNWofkeIVWjHDceNX8RpnuVI7SsVfAAJyDmsbtcUBVSV5Y2PRltERAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061989260828266641#m)
-
-[🔗 #0603-095204](#_0603-095204)
+[查看原文](https://nitter.net/xiaomustock/status/2061501875703194018#m)
 
 ---
 
-## 2026-06-03 09:24:14  {#_0603-092414}
+## 2026-06-02 01:40:51 GMT+08:00
 
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-我以为这300刀以下捡漏的日子是多久，
-没想到是1天😂
-昨天 $MRVL 是224，今天盘后就已经318😅
+$arm 好归好，英伟达cpu芯片最大受益者。
+市盈率下不去手，我不想买我睡不着影响我睡眠的资产，所以小市值股票和超高市盈率股票我几乎都不买。
+以前吃过亏了，所以一些机会我只能无奈错过。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBMmofirIzaE4NzZh6ippy-_jUKSPMAAKLEWsbtcX5VG_Ytfa63IsjAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061982257229791491#m)
-
-[🔗 #0603-092414](#_0603-092414)
+[查看原文](https://nitter.net/xiaomustock/status/2061503255788532141#m)
 
 ---
 
-## 2026-06-03 02:35:00  {#_0603-023500}
+## 2026-06-02 02:16:31 GMT+08:00
 
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
-$MRVL 有多独特，昨天公司CEO称Marvell是全球唯一一家能够解决AI数据中心完整连接堆栈的公司，从芯片封装内部的毫米级到数据中心之间的公里级。
-Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等光通信有关的公司，市值暴涨前，这资金占它市值的1/4，公司在拿命梭哈光通信。
+$MRVL 专为AI而设计的102.4Tbps 的交换机芯片T100将在本季度交付，最低功耗最低延迟。
+如果本季度指的是财报季度，那么会极大提高下个财报季度预期。
+未来等着 $MRVL 的利好太多了。它还有谷歌的利好。
+能买到300刀以下的 $MRVL 的日子不多了。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBKWofKHJrbN3T56xjtfviqY4yrXEsAAIiEWsbtcX5VD-YEvcvDnaTAQADAgADeAADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2061879268313797010#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPjah3P055NzxdENK0drZQ8-w46ZkwAAmAPaxu1xfFUqAOMoopj96kBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0603-023500](#_0603-023500)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPkah3P1kKVkV3QiIDIx19oT3etrTMAAmEPaxu1xfFUC73hayFxzf0BAAMCAAN5AAM7BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
----
-
-## 2026-06-03 02:25:46  {#_0603-022546}
-
-🏷️ **[20260603](./tags/20260603.html)** 今日关注
-
-明年的AI焦点会是HBM4E 和企业级eSSD超级短缺。#海力士 在这俩块市场都最大。
-如果还能有别的就是 $MRVL 和 $NOK 在光通信领域营收开始爆发起量。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBKWofKHJrbN3T56xjtfviqY4yrXEsAAIiEWsbtcX5VD-YEvcvDnaTAQADAgADeAADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBKmofKHbmqIYYW18-xjlaUGjZHkLIAAIjEWsbtcX5VNRf-RU_Rcm4AQADAgADeQADOwQ.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBK2ofKHp74GrWxXVEzVq32gbRNkBSAAIkEWsbtcX5VBv6LFG8oXPHAQADAgADeQADOwQ.jpg)
-
-![图片 4](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBLGofKH47BLcAAWL-oAr2tbtoyOhqGgACJRFrG7XF-VSTrP1mKxM_qgEAAwIAA3kAAzsE.jpg)
-
-![图片 5](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBLWofKIKlcLiYuz3YnkM1uwfS1alUAAImEWsbtcX5VKZU95Ht9xUAAQEAAwIAA3kAAzsE.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061876947966140908#m)
-
-[🔗 #0603-022546](#_0603-022546)
+[查看原文](https://nitter.net/xiaomustock/status/2061512231670481031#m)
 
 ---
 
-## 2026-06-02 17:09:16  {#_0602-170916}
+## 2026-06-02 13:19:56 GMT+08:00
 
-🏷️ **[20260602](./tags/20260602.html)** 
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+
+英雄所见略同呐😂
+黄仁勋也来吹 $MRVL 会是下一家万亿美金公司，非常值得2万亿美金，在光通信普及的时候。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBDmoeca6EbckX3gGSeC5GAvAIhrWTAAKBEGsbtcXxVOBwzSjl8Yq8AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBD2oecbHk8zc1niTqCvpZFb3doLMlAAKCEGsbtcXxVP1q2eZgt72ZAQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061679183823089669#m)
+
+---
+
+## 2026-06-02 13:25:50 GMT+08:00
+
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+
+兄弟们牛逼不牛逼😀 $MRVL 本身足够优秀，所以才会有特别多的人也都看好，甚至老黄也公开喊单 $MRVL 非常值得万亿美金市值。
+
+#港美互联网 也捏住吃美股红利，都是好公司里面，躺着啥不干一年50%+一点问题没有，根本不用研究分析一堆个股。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBDWoecaogMIdUQilDdpA-ztwW8Q2pAAKAEGsbtcXxVPm4Ia8oHzhXAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061680669877526788#m)
+
+---
+
+## 2026-06-02 13:48:10 GMT+08:00
+
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+
+这俩月说过好几次 $MRVL 值万亿美金😂
+兄弟们捏住他娘的，
+这次又来自全球最顶级的AI话事人的首肯， $mrvl 还有十倍空间。
+老黄说的光通信是未来，
+其实只需要买俩个股票就够了，
+一个 $MRVL 一个 $NOK 诺基亚。
+$MRVL 负责芯片内部光通信互连，
+$NOK 诺基亚负责芯片外部远距离光通信互连。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBC2oecaO9YRXA5T1JeGHqpGV0z_McAAJ-EGsbtcXxVNCukjyHnHk3AQADAgADeAADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBDGoecadjcTCcSZLRFu7lyFcYoHO-AAJ_EGsbtcXxVHjQTZDNcAkmAQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061686289821290852#m)
+
+---
+
+## 2026-06-02 13:57:32 GMT+08:00
+
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+
+$NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
+芯片外的光通信业务，英伟达只会跟 $NOK 合作，不信拭目以待，目前的几个传统通信运营商，在英伟达的技术路线里的只有    $NOK ，国内这些不可能合作，国外就剩下 #爱立信 和 #诺基亚 ，只有诺基亚是基于GPU做基站，而爱立信则选 CPU做，跟英伟达不是一路人。同时英伟达还投资了 $NOK 诺基亚。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBEmoeeJ_21y-71MvNg9GGodgkwzEzAAKbEGsbtcXxVISdy6kBXjNJAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061688645690524095#m)
+
+---
+
+## 2026-06-02 14:19:53 GMT+08:00
+
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+
+我不玩小股票，追求大道至简，
+为什么大票安全，这些大市值的公司前五大股东基本上是贝莱德，道富，先锋领航，富达，这些资管巨头作为大股东，他们会严控公司的增发，分红，财务审计等等，他们合起来相当于实际控制着整个公司，对公司管理人员相当于一个局外强有力的监督者，不可能瞎搞增发啥的，资管公司的钱都是发的一些基金来的，影响他们未来募资和股价下跌的事情他们不可能任由公司管理层干。
+
+而小公司则不是，股权层面的控制人还是管理人员，增发对他们极其有利，直接收割散户，他们的市值之所以小就是过往极其恶劣的增发收割的流氓行为导致的，没有资管公司敢进入，也就没人能对管理层进行局外强监管。股价的风险会很大。
+
+虽然小股会带来可观的倍数收益，但是长期玩早晚都会被这些小公司的低劣增发手段坑进去。
+
+这也是美股大公司能稳定运营持续几十年增长的根本原因，很多人只觉得美股牛是科技牛，其实也是这种资本层面的牛，他们控制的公司股权，对公司的运营进行着法律层面的二次监管，保证了公司能持续对股东负责，只追求公司更进一步的发展。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBEGoeeJgEV0A9Fv_cjvp3OQ4KUiqdAAKZEGsbtcXxVLHSCO9l8vbFAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBEWoeeJz_1somRFm4-p4kB7tEaJ7zAAKaEGsbtcXxVIbojWbM4cBKAQADAgADeQADOwQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061694271393038445#m)
+
+---
+
+## 2026-06-02 16:18:31 GMT+08:00
+
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+
+我的持仓很稳定，今天还是这几个，没有变化。捏的越久涨的越猛，
+好股票不需要天天瞎折腾。
+#富国全球科技互联网 这个限额了，从500到一天50万，今天继续加了点。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBGGoelLCcd8gmqbt92Korg3tLMoFVAALyD2sbtcX5VKufCNyJ2_ntAQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061724128478966225#m)
+
+---
+
+## 2026-06-02 16:31:05 GMT+08:00
+
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
+
+能买到300刀以下 $MRVL 的日子真没几天了😂这他娘的老黄威力太大，已经271美金。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBG2oem6ZwEi0AAafoY7Oy0My_6d6mwAADEGsbtcX5VJ_6nrpN80r6AQADAgADeQADOwQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061727290489217409#m)
+
+---
+
+## 2026-06-02 17:09:16 GMT+08:00
+
+<a href="/tags.html?tag=" class="tag-badge tag-">🏷️ </a>
 
 很多人好奇为啥都能买美股为啥还在大a之前买 #中韩半导体 ，
 现在又在大a买 #港美互联网 
@@ -5059,285 +4489,27 @@ Marvell过去几年累计投资360亿美元收购Inphi, Cavium和Celestial Al等
 2.大a买境外qdii 的etf和lof 零税费，全球难找。
 3.资金分区管理，防范单一集中风险。
 
-[📖 原文](https://nitter.net/xiaomustock/status/2061736897391518178#m)
-
-[🔗 #0602-170916](#_0602-170916)
+[查看原文](https://nitter.net/xiaomustock/status/2061736897391518178#m)
 
 ---
 
-## 2026-06-02 16:31:05  {#_0602-163105}
+## 2026-06-01 08:42:51 GMT+08:00
 
-🏷️ **[20260602](./tags/20260602.html)** 
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-能买到300刀以下 $MRVL 的日子真没几天了😂这他娘的老黄威力太大，已经271美金。
+夜盘差5u破千 $MU
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBG2oem6ZwEi0AAafoY7Oy0My_6d6mwAADEGsbtcX5VJ_6nrpN80r6AQADAgADeQADOwQ.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOGahzZ2-ixvHTu55mO3pBo1unILhQAAvoPaxtIMuFUkq1FdR0WvEIBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061727290489217409#m)
-
-[🔗 #0602-163105](#_0602-163105)
+[查看原文](https://nitter.net/xiaomustock/status/2061247067410829539#m)
 
 ---
 
-## 2026-06-02 16:18:31  {#_0602-161831}
+## 2026-06-01 10:12:40 GMT+08:00
 
-🏷️ **[20260602](./tags/20260602.html)** 
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-我的持仓很稳定，今天还是这几个，没有变化。捏的越久涨的越猛，
-好股票不需要天天瞎折腾。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBGGoelLCcd8gmqbt92Korg3tLMoFVAALyD2sbtcX5VKufCNyJ2_ntAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061724128478966225#m)
-
-[🔗 #0602-161831](#_0602-161831)
-
----
-
-## 2026-06-02 14:19:53  {#_0602-141953}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-我不玩小股票，追求大道至简，
-为什么大票安全，这些大市值的公司前五大股东基本上是贝莱德，道富，先锋领航，富达，这些资管巨头作为大股东，他们会严控公司的增发，分红，财务审计等等，他们合起来相当于实际控制着整个公司，对公司管理人员相当于一个局外强有力的监督者，不可能瞎搞增发啥的，资管公司的钱都是发的一些基金来的，影响他们未来募资和股价下跌的事情他们不可能任由公司管理层干。
-
-而小公司则不是，股权层面的控制人还是管理人员，增发对他们极其有利，直接收割散户，他们的市值之所以小就是过往极其恶劣的增发收割的流氓行为导致的，没有资管公司敢进入，也就没人能对管理层进行局外强监管。股价的风险会很大。
-
-虽然小股会带来可观的倍数收益，但是长期玩早晚都会被这些小公司的低劣增发手段坑进去。
-
-这也是美股大公司能稳定运营持续几十年增长的根本原因，很多人只觉得美股牛是科技牛，其实也是这种资本层面的牛，他们控制的公司股权，对公司的运营进行着法律层面的二次监管，保证了公司能持续对股东负责，只追求公司更进一步的发展。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBEGoeeJgEV0A9Fv_cjvp3OQ4KUiqdAAKZEGsbtcXxVLHSCO9l8vbFAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBEWoeeJz_1somRFm4-p4kB7tEaJ7zAAKaEGsbtcXxVIbojWbM4cBKAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061694271393038445#m)
-
-[🔗 #0602-141953](#_0602-141953)
-
----
-
-## 2026-06-02 13:57:32  {#_0602-135732}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-$NOK 诺基亚也珍惜吧，没几刀就买不到20以下的了。
-芯片外的光通信业务，英伟达只会跟 $NOK 合作，不信拭目以待，目前的几个传统通信运营商，在英伟达的技术路线里的只有    $NOK ，国内这些不可能合作，国外就剩下 #爱立信 和 #诺基亚 ，只有诺基亚是基于GPU做基站，而爱立信则选 CPU做，跟英伟达不是一路人。同时英伟达还投资了 $NOK 诺基亚。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBEmoeeJ_21y-71MvNg9GGodgkwzEzAAKbEGsbtcXxVISdy6kBXjNJAQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061688645690524095#m)
-
-[🔗 #0602-135732](#_0602-135732)
-
----
-
-## 2026-06-02 13:48:10  {#_0602-134810}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-这俩月说过好几次 $MRVL 值万亿美金😂
-兄弟们捏住他娘的，
-这次又来自全球最顶级的AI话事人的首肯， $mrvl 还有十倍空间。
-老黄说的光通信是未来，
-其实只需要买俩个股票就够了，
-一个 $MRVL 一个 $NOK 诺基亚。
-$MRVL 负责芯片内部光通信互连，
-$NOK 诺基亚负责芯片外部远距离光通信互连。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBC2oecaO9YRXA5T1JeGHqpGV0z_McAAJ-EGsbtcXxVNCukjyHnHk3AQADAgADeAADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBDGoecadjcTCcSZLRFu7lyFcYoHO-AAJ_EGsbtcXxVHjQTZDNcAkmAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061686289821290852#m)
-
-[🔗 #0602-134810](#_0602-134810)
-
----
-
-## 2026-06-02 13:25:50  {#_0602-132550}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-兄弟们牛逼不牛逼😀 $MRVL 本身足够优秀，所以才会有特别多的人也都看好，甚至老黄也公开喊单 $MRVL 非常值得万亿美金市值。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBDWoecaogMIdUQilDdpA-ztwW8Q2pAAKAEGsbtcXxVPm4Ia8oHzhXAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061680669877526788#m)
-
-[🔗 #0602-132550](#_0602-132550)
-
----
-
-## 2026-06-02 13:19:56  {#_0602-131956}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-英雄所见略同呐😂
-黄仁勋也来吹 $MRVL 会是下一家万亿美金公司，非常值得2万亿美金，在光通信普及的时候。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBDmoeca6EbckX3gGSeC5GAvAIhrWTAAKBEGsbtcXxVOBwzSjl8Yq8AQADAgADeQADOwQ.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIBD2oecbHk8zc1niTqCvpZFb3doLMlAAKCEGsbtcXxVP1q2eZgt72ZAQADAgADeQADOwQ.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061679183823089669#m)
-
-[🔗 #0602-131956](#_0602-131956)
-
----
-
-## 2026-06-02 02:16:31  {#_0602-021631}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-$MRVL 专为AI而设计的102.4Tbps 的交换机芯片T100将在本季度交付，最低功耗最低延迟。
-如果本季度指的是财报季度，那么会极大提高下个财报季度预期。
-未来等着 $MRVL 的利好太多了。它还有谷歌的利好。
-能买到300刀以下的 $MRVL 的日子不多了。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPiah3PzmsQkd_h1yD2OfI-_eQ0G9wAAl8Paxu1xfFUESNYH34uKDIBAAMCAAN5AAM7BA.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPjah3P055NzxdENK0drZQ8-w46ZkwAAmAPaxu1xfFUqAOMoopj96kBAAMCAAN5AAM7BA.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPkah3P1kKVkV3QiIDIx19oT3etrTMAAmEPaxu1xfFUC73hayFxzf0BAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061512231670481031#m)
-
-[🔗 #0602-021631](#_0602-021631)
-
----
-
-## 2026-06-02 01:40:51  {#_0602-014051}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-$arm 好归好，英伟达cpu芯片最大受益者。
-市盈率下不去手，我不想买我睡不着影响我睡眠的资产，所以小市值股票和超高市盈率股票我几乎都不买。
-以前吃过亏了，所以一些机会我只能无奈错过。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061503255788532141#m)
-
-[🔗 #0602-014051](#_0602-014051)
-
----
-
-## 2026-06-02 01:35:22  {#_0602-013522}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-仓位最近调整成了这样
-美区： $DRAM   $MRVL $NOK  $IBM 
-（主仓位dram 60%，1/20仓ibm，其他没变）
-港区：#2x做多海力士 
-a区：#港美互联网 （  #中韩半导体 已经清仓换了港美）
-支付宝基金：#富国全球科技 #建信新兴市场
-全方位无死角的存储持仓，光通信，附加一点 $IBM 作为未来量子仓。
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061501875703194018#m)
-
-[🔗 #0602-013522](#_0602-013522)
-
----
-
-## 2026-06-02 01:00:41  {#_0602-010041}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-$IBM 真是最近各种buff叠加，政府出资建量子芯片工厂，特朗普之前吹b的ibm视频助攻，英伟达在台北发表COMPUTEX主题演讲Vera Rubin 存储与系统层订单的厂商也包含 $IBM
-单凭借量子芯片工厂，未来万亿美金市值必有 $IBM 的位置
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPhah3ByKZpntvnmMl-0TPDFdioKHgAAkcPaxu1xfFUTtms1iI1rfkBAAMCAAN5AAM7BA.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAANJahqyBhzoh5R1W4MQyzDEibeDB6AAAlcRaxsTQtlUOC21KusFegIBAAMCAAN5AAM7BA.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAANKahqyCri1qAMCxStYlT5hDfXr_VcAAlgRaxsTQtlUoetvA-zQKggBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061493144525373759#m)
-
-[🔗 #0602-010041](#_0602-010041)
-
----
-
-## 2026-06-02 00:02:12  {#_0602-000212}
-
-🏷️ **[20260602](./tags/20260602.html)** 
-
-$NOK 诺基亚管理层上上下下这一俩个月一直在买买买自家股票。
-是不是有啥没有发布的内幕利好？
-欧盟学特朗普入资？
-还是欧盟或者英伟达给了诺基亚大单？
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPeah2zqX2heEdfQ6KZKPLEdDEPB6EAAjMPaxu1xfFUMiTj4njd8L8BAAMCAAN5AAM7BA.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPfah2zrBa3opI-RJLSplOVm1gM20MAAjQPaxu1xfFU-_NarS4_Zi8BAAMCAAN5AAM7BA.jpg)
-
-![图片 3](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPgah2zrmAzuzCDpbxIU5CJezctPf8AAjUPaxu1xfFU5LR-MhIS2AQBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061478429178896831#m)
-
-[🔗 #0602-000212](#_0602-000212)
-
----
-
-## 2026-06-01 23:35:16  {#_0601-233516}
-
-🏷️ **[20260601](./tags/20260601.html)** 本周精选
-
-明天开盘 #港美 和 #2x海力士 可以搂元子了全麻。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPcah2sm1M0mmHGJUlZw9KCeqKg9lQAAiYPaxu1xfFUjhFXlklGMGABAAMCAAN5AAM7BA.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAORah1KNLfp49Mdn1ILWkpeDWytfGgAAmoQaxtIMulUXd9JrG22MYsBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061471650944544892#m)
-
-[🔗 #0601-233516](#_0601-233516)
-
----
-
-## 2026-06-01 17:12:00  {#_0601-171200}
-
-🏷️ **[20260601](./tags/20260601.html)** 本周精选
-
-今天这个台北大会摘要：
-英伟达在GTC大会上推出三项重大更新：旗舰AI平台Vera Rubin正式量产，打破延期传闻；推出专为代理式AI设计的Vera CPU，使CPU与GPU销售价值比趋近1:1，直接挑战英特尔与AMD；联合微软发布基于ARM架构的消费级AI PC芯片RTX Spark。
-
-总结一下就是英特尔 $INTC 和 $AMD x86处理器开发的传统Win系统需要借助模拟层才能运行，额外的性能损耗。对这俩利空，对 $ARM 利好，但是这个市盈率真是下不去手，我还是蹲在 $DRAM 里，反正都是内存用量显著提高，他们这些厂商包括 $NVDA 都只是内存的搬运工，都在给内存厂打工。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOSah1RLRW4cRXj2cu5iQ-TAsqHk7AAAn8QaxtIMulU7o_mJFjBo1wBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061375197068902910#m)
-
-[🔗 #0601-171200](#_0601-171200)
-
----
-
-## 2026-06-01 16:38:52  {#_0601-163852}
-
-🏷️ **[20260601](./tags/20260601.html)** 本周精选
-
-现在仓位更纯粹，中韩基本算出完了加仓了
-
-明天继续加仓 #富国全球科技互联网etf
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAORah1KNLfp49Mdn1ILWkpeDWytfGgAAmoQaxtIMulUXd9JrG22MYsBAAMCAAN5AAM7BA.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAANMahqyDcN3uP8Gb6YNlTd16j-M9WUAAloRaxsTQtlUnp6jWQK3sYMBAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061366861573320919#m)
-
-[🔗 #0601-163852](#_0601-163852)
-
----
-
-## 2026-06-01 10:12:40  {#_0601-101240}
-
-🏷️ **[20260601](./tags/20260601.html)** 本周精选
-
+#港美互联网LOF 
 如果买入时刻的原因和想法没有变，
 价格跌了你他娘的应该兴奋啊，
 可以买一堆更便宜的，
@@ -5350,33 +4522,74 @@ $NOK 诺基亚管理层上上下下这一俩个月一直在买买买自家股票
 几个点溢价对美股来说啥也不是，也就一俩天功夫。
 之前净值涨的慢是因为每天几亿大量申购把利润稀释了，现在下半年就是体验中韩半导体开年到现在翻倍的开始。
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOHahzuttakOnf9hEEYEoZW6B1K8gUAArkPaxtIMulUN-old2S6bOIBAAMCAAN5AAM7BA.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOHahzuttakOnf9hEEYEoZW6B1K8gUAArkPaxtIMulUN-old2S6bOIBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOIahzuuSP0t7FXgN9si9Elb9MbiKIAAroPaxtIMulUY_gzZyv-LeEBAAMCAAN5AAM7BA.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOIahzuuSP0t7FXgN9si9Elb9MbiKIAAroPaxtIMulUY_gzZyv-LeEBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2061269671815348467#m)
-
-[🔗 #0601-101240](#_0601-101240)
+[查看原文](https://nitter.net/xiaomustock/status/2061269671815348467#m)
 
 ---
 
-## 2026-06-01 08:42:51  {#_0601-084251}
+## 2026-06-01 16:38:52 GMT+08:00
 
-🏷️ **[20260601](./tags/20260601.html)** 本周精选
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
 
-夜盘差5u破千 $MU
+现在仓位更纯粹，中韩基本算出完了加仓了
+#港美互联网lof ，中韩半导体容易受它里面一堆a股垃圾股影响，港美还好点就腾讯和阿里这俩垃圾。
+明天继续加仓 #富国全球科技互联网etf
 
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOGahzZ2-ixvHTu55mO3pBo1unILhQAAvoPaxtIMuFUkq1FdR0WvEIBAAMCAAN5AAM7BA.jpg)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAORah1KNLfp49Mdn1ILWkpeDWytfGgAAmoQaxtIMulUXd9JrG22MYsBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[📖 原文](https://nitter.net/xiaomustock/status/2061247067410829539#m)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAANMahqyDcN3uP8Gb6YNlTd16j-M9WUAAloRaxsTQtlUnp6jWQK3sYMBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[🔗 #0601-084251](#_0601-084251)
+[查看原文](https://nitter.net/xiaomustock/status/2061366861573320919#m)
 
 ---
 
-## 2026-05-31 22:28:49  {#_0531-222849}
+## 2026-06-01 17:12:00 GMT+08:00
 
-🏷️ **[20260531](./tags/20260531.html)** 
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+今天这个台北大会摘要：
+英伟达在GTC大会上推出三项重大更新：旗舰AI平台Vera Rubin正式量产，打破延期传闻；推出专为代理式AI设计的Vera CPU，使CPU与GPU销售价值比趋近1:1，直接挑战英特尔与AMD；联合微软发布基于ARM架构的消费级AI PC芯片RTX Spark。
+
+总结一下就是英特尔 $INTC 和 $AMD x86处理器开发的传统Win系统需要借助模拟层才能运行，额外的性能损耗。对这俩利空，对 $ARM 利好，但是这个市盈率真是下不去手，我还是蹲在 $DRAM 里，反正都是内存用量显著提高，他们这些厂商包括 $NVDA 都只是内存的搬运工，都在给内存厂打工。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAOSah1RLRW4cRXj2cu5iQ-TAsqHk7AAAn8QaxtIMulU7o_mJFjBo1wBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061375197068902910#m)
+
+---
+
+## 2026-06-01 23:35:16 GMT+08:00
+
+<a href="/tags.html?tag=本周精选" class="tag-badge tag-本周精选">🏷️ 本周精选</a>
+
+明天开盘 #港美 和 #2x海力士 可以搂元子了全麻。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAPcah2sm1M0mmHGJUlZw9KCeqKg9lQAAiYPaxu1xfFUjhFXlklGMGABAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAORah1KNLfp49Mdn1ILWkpeDWytfGgAAmoQaxtIMulUXd9JrG22MYsBAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061471650944544892#m)
+
+---
+
+## 2026-05-31 21:48:54 GMT+08:00
+
+市场里的沙雕机构终于都开始集体把存储定义成长股pe了，一直坚持到他们把存储股的股价拉到pe回到18以上，
+那就可以走了。
+HODL ， $DRAM 坚持。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAN8ahw_BKDdC1gCg91TpkPKcptud44AAkUPaxtIMuFUa8kpdCYpVlEBAAMCAAN5AAM7BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAN9ahw_CD4NfJb-G7mkSi3xMEvcbpgAAkYPaxtIMuFUCrG87onz-BABAAMCAAN5AAM7BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2061082495332794506#m)
+
+---
+
+## 2026-05-31 22:28:49 GMT+08:00
 
 明天日子就不无聊了，
 minimax有ipo
@@ -5385,28 +4598,7 @@ AI pc看市场怎么炒
 港美最后一天申购出货，
 $DRAM 他娘的去99
 
-[📖 原文](https://nitter.net/xiaomustock/status/2061092538732155231#m)
-
-[🔗 #0531-222849](#_0531-222849)
+[查看原文](https://nitter.net/xiaomustock/status/2061092538732155231#m)
 
 ---
 
-## 2026-05-31 21:48:54  {#_0531-214854}
-
-🏷️ **[20260531](./tags/20260531.html)** 
-
-市场里的沙雕机构终于都开始集体把存储定义成长股pe了，一直坚持到他们把存储股的股价拉到pe回到18以上，
-那就可以走了。
-HODL ， $DRAM 坚持。
-
-![图片 1](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAN8ahw_BKDdC1gCg91TpkPKcptud44AAkUPaxtIMuFUa8kpdCYpVlEBAAMCAAN5AAM7BA.jpg)
-
-![图片 2](https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAN9ahw_CD4NfJb-G7mkSi3xMEvcbpgAAkYPaxtIMuFUCrG87onz-BABAAMCAAN5AAM7BA.jpg)
-
-[📖 原文](https://nitter.net/xiaomustock/status/2061082495332794506#m)
-
-[🔗 #0531-214854](#_0531-214854)
-
----
-
-*最后更新：2026-08-19T01:33:52.209Z*
