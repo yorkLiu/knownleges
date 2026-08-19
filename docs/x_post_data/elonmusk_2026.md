@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2199 条推文
+> 📊 推文存档 - 共 2204 条推文
 
 ---
 
@@ -251,6 +251,20 @@ RT by @elonmusk: The Department of Commerce’s Census Bureau just released its 
 
 ---
 
+## 2026-08-19 06:54:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I just built a brand-new landing page for my music and podcasts in only 10 minutes using Grok Build. It’s live in my bio now. 🔥 Bye-bye, Linktree. Who needs it when you have Grok Build?
+
+<img src="/images/elonmusk/amplify_video_thumb_2089848131550593024_img_zAS_Zfy5Rvd8-wrg.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/LaceyPresley/status/2089848391777808455#m)
+
+---
+
 ## 2026-08-19 08:03:07
 
 <a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
@@ -318,6 +332,20 @@ RT by @elonmusk: I’m currently having @bot do some things for me that I’ve b
 **内容**:
 
 RT by @elonmusk: I have to say, Grok 4.6 with the grok build harness is probably the best all-around, value-for-money subscription out there now on the $300/month Grok SuperHeavy plan. I have two of them now and think I'll probably get a few more. It does all my git commits and other stuff. Fast.
+
+---
+
+## 2026-08-19 11:15:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot is the best AI agent right now and a full walkthrough just dropped covering setup, use cases and plugins. An army of agents working around the clock 24/7. Set it up correctly and the leverage is real.
+
+<img src="/images/elonmusk/amplify_video_thumb_2089498185383436288_img_VDQWBJ4kmrEx5HOI.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/RoundtableSpace/status/2089913996711198870#m)
 
 ---
 
@@ -429,10 +457,6 @@ Specialist AI’s (single language, single area of knowledge) are another 100X
 
 RT by @elonmusk: Falcon 9 launches 24 @Starlink satellites from California
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILD2qFa9TACdukw1dsI1LGvssAAYsaNQACmBJrG7fUMFTbn3dKZd9s-AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SpaceX/status/2089971440682508750#m)
-
 ---
 
 ## 2026-08-19 15:27:05
@@ -453,9 +477,45 @@ Indeed
 
 No kidding …
 
-<img src="/images/elonmusk/card_img_2089221063762702336_ZhbeyvLO3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2089988123367440784#m)
+## 2026-08-19 16:33:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Odyssey bloopers by Grok Imagine
+
+<img src="/images/elonmusk/amplify_video_thumb_2080706938804072449_img_bt8saXBt0cD9Lrp1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089994188033306741#m)
+
+---
+
+## 2026-08-19 16:45:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+100
+
+<img src="/images/elonmusk/amplify_video_thumb_2089995998013878272_img_pWGGq0pXqp8MlFqo.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2089997238160502895#m)
+
+---
+
+## 2026-08-19 16:49:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So many “historical” movies that are a pack of lies
+
+[查看原文](https://nitter.net/elonmusk/status/2089998178456309976#m)
 
 ---
 
