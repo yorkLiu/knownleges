@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2251 条推文
+> 📊 推文存档 - 共 2252 条推文
 
 ---
 
@@ -249,7 +249,21 @@ RT by @elonmusk: Grok Build just got a new update bringing a first-class workflo
 
 Much appreciated!
 
-[查看原文](https://nitter.net/elonmusk/status/2090266488666247275#m)
+---
+
+## 2026-08-20 11:56:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build puts you in charge of your computer https://X.ai/build
+
+<img src="/images/elonmusk/card_img_2085599089140621312_oTaKva2u3Fformat3Djpg26name3D800x419" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILK2qGf-0N-T7mIRL83QxpcfVBQXgGAAKaEmsbcyYxVK2YN44QVUuQAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090286832319955414#m)
 
 ---
 
