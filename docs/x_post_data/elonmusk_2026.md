@@ -7,7 +7,173 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2261 条推文
+> 📊 推文存档 - 共 2281 条推文
+
+---
+
+## 2026-08-21 00:12:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILO2qHU0bzMBU5wegBvrruTz5QmxOkAAJnFWsbcyY5VO46gTAWe0e3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090471974313001026#m)
+
+---
+
+## 2026-08-21 00:13:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+[查看原文](https://nitter.net/elonmusk/status/2090472194946080795#m)
+
+---
+
+## 2026-08-21 00:49:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILOmqHU0MkEAO77FOn0ZXI6690zU-JAAJmFWsbcyY5VJdxvn7oc_PLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090481318849106250#m)
+
+---
+
+## 2026-08-21 00:49:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+𝕏 is growing fast
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILOWqHU0A-21d6bwqLzZaEeIGgPTtlAAJlFWsbcyY5VLpakTh2r0fkAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090481460599783592#m)
+
+---
+
+## 2026-08-21 00:55:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: My workflows changed when I started treating each Grok Bot like an application Client: chat Server: @bot DB: anything (gh, sheets, SaaS) I've been white-pilled on "agents for everything" - thin client, thick server
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIK_2qFOOywHafK0KWu9GcBbGHnOXvdAAJuEmsbt9QoVPDsS25ndD1tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mattyp/status/2090482777628324348#m)
+
+---
+
+## 2026-08-21 00:57:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The media never mentioned that the police officers called an ambulance immediately when Floyd complained of shortness of breath. Unusual behavior for “murderers”.
+
+<img src="/images/elonmusk/amplify_video_thumb_2090403862477721600_img_eEEHQzk4voz7Fmke.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090483357456990564#m)
+
+---
+
+## 2026-08-21 01:06:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: JUST IN: 𝕏 outpaced Google, YouTube, Facebook, Instagram, & Reddit in web traffic growth last month. — Similarweb
+
+[查看原文](https://nitter.net/Polymarket/status/2090485516755968480#m)
+
+---
+
+## 2026-08-21 01:22:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Preparing for another Starship flight
+
+<img src="/images/elonmusk/amplify_video_thumb_2090481777869574144_img_GrMTxCzCnwYOzfIT.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/elonmusk/amplify_video_thumb_2090481801093345281_img_7IqTFrCTkwAcaE9f.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090489744400482663#m)
+
+---
+
+## 2026-08-21 01:23:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting ways to use Grok @Bot
+
+[查看原文](https://nitter.net/elonmusk/status/2090489998382375423#m)
+
+---
+
+## 2026-08-21 01:33:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can make videos explaining complex concepts
+
+<img src="/images/elonmusk/amplify_video_thumb_2090484179117187072_img_8QF7OwrCilVHx5lQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILOGqHUzs70BznftuZIY91EGQVmIq0AAJkFWsbcyY5VLEHxv7YV6xZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090492504223170671#m)
+
+---
+
+## 2026-08-21 01:34:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: BREAKING: Grok 4.6 just tied for #1 on the Artificial Analysis Agentic Index.⚡🤖 • Grok 4.6 (High) — 59 • Claude Opus 5 (Max) — 59 Grok 4.6 is now at the top of the benchmark, ahead of other leading models. The Agentic Index focuses on capabilities that matter for real-world AI agents — tool use, planning, autonomy, and complex problem-solving. This is especially significant as Grok expands into Grok Build and Grok Bot, where AI needs to do more than answer questions — it needs to use tools and complete tasks. Source: Artificial Analysis
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILM2qHUyj3gY6KvV8ap6YspaX_MI0mAAJfFWsbcyY5VASePWKL-8zGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/teslaownersSV/status/2090492800777503090#m)
+
+---
+
+## 2026-08-21 01:42:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Accurate graph 😂
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILN2qHUzc2r01_c9L9dwXcDPxR1uXtAAJjFWsbcyY5VAg8uwXhL3uYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090494783068193078#m)
 
 ---
 
@@ -58,8 +224,6 @@ I warned them. It will get much worse.
 **内容**:
 
 RT by @elonmusk: More people died in France this year from not having air conditioning (7,300) than American deaths from mass shootings in all of recorded U.S. history (1,741).😬
-
-[查看原文](https://nitter.net/MattMorseTV/status/2090116221631139901#m)
 
 ---
 
@@ -140,6 +304,20 @@ RT by @elonmusk: 100 %
 **内容**:
 
 Nothing is guaranteed
+
+---
+
+## 2026-08-20 02:08:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: I gave Elon Musk's new Grok Bot an org chart instead of a to-do list, and in one week I stopped being a founder who does the work and became one who assigns it. eight bots. one org chart. nobody sleeps but me. here's the whole design, steal it. step 1 → 0:01 What we're covering step 2 → 2:01 Installation & Setup step 3 → 3:14 Building the First Bot step 4 → 8:18 Teaching by Screen Recording step 5 → 14:18 Putting it All Together THE ROSTER: Atlas, chief of staff. the only bot I talk to. I give it outcomes, never tasks. it decomposes them and delegates to the team in group chat, and it never does specialist work itself. it posts the plan every morning and what shipped every night, and it only comes to me when a decision is irreversible or spends money. Scout, research. finds and qualifies my ICP. every day: 25 verified prospects, one line on why they need us right now, and a source. if it can't verify, it marks it unverified. it never guesses. Quill, content. turns what the company learned this week into 5 posts and 1 long piece, in my voice, matched from the last 50 things I wrote. drafts only, it never publishes. Pitch, outbound. writes a first touch and two follow-ups for everyone Scout marks ready. 60 words max, one specific observation about their business, one clear ask. queued in drafts, I approve in bulk. Vault, inbox and ops. triages everything into needs-me, needs-a-bot, needs-nothing. it handles the last, routes the middle, and gives me five bullets on the first by 9am. Ledger, analyst. one report a night: what moved, what didn't, and the single number I should care about tomorrow. no dashboards, no adjectives. HOW THEY'RE WIRED one group chat per outcome, not per person. Atlas sits in all of them. the bots hand off inside the chat, so I only read the handoff, I never manage it. two rules that made this actually work: 1. every charter ends with a hard "never do this without asking" line. autonomy without a fence is just chaos on a schedule. 2. show once, don't describe. I ran the full workflow on my screen one time. that single demo taught them more than a page of instructions ever could. WEEK ONE 214 verified prospects delivered. 89 personalized outreaches queued and approved. inbox at zero every morning. 11 content pieces ready. THE POINT most people are still treating Grok Bot like a smarter chat window. it isn't. it's the first time one person can own an org chart instead of a to-do list. my bottleneck was never how much I could do, it was how much I could hand off. bookmark this.
+
+<img src="/images/elonmusk/amplify_video_thumb_2090138144179945472_img_B4TCzTeaf8oPDl-1.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/ridark_eth/status/2090138832511324179#m)
 
 ---
 
@@ -251,10 +429,6 @@ He committed serious crimes, as did Fauci
 
 RT by @elonmusk: Elon basically predicted the next revolution in medicine: “You can effectively think of the future of medicine as being digital” Much of traditional drug discovery has involved finding or screening molecules, testing them, and figuring out what they can do Synthetic RNA starts changing that model From discovering drugs by accident → programming treatments like software If we can understand exactly what biological instructions need to be written into RNA, medicine increasingly becomes something we can design for a specific problem And once we know what to program into synthetic RNA: “You can basically, cure almost anything” Medicine is becoming programmable
 
-<img src="/images/elonmusk/amplify_video_thumb_2057111721261539328_img_7wc93ghyxpdjdYE_.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2090154563064201629#m)
-
 ---
 
 ## 2026-08-20 04:42:07
@@ -264,10 +438,6 @@ RT by @elonmusk: Elon basically predicted the next revolution in medicine: “Yo
 **内容**:
 
 RT by @elonmusk: The sex difference in throwing is one of the largest behavioral sex differences ever measured. While training matters, the disparity appears to be mostly biological. Yet Anne Fausto-Sterling argues in favor of pure socialization while ignoring a mountain of evidence to the contrary. Few scholars claim to deny biology outright, with most agreeing that nature and nurture interact. In practice, however, they routinely reject biological explanations in favor of comparatively implausible environmental ones. They pay lip service to biology, but never actually allow it to explain anything. This new long read by professors Robert Deaner and Mike Lombardo examines the science of throwing, hunting, and combat, and ask a simple question: What evidence would actually be allowed to count as evidence for an innate sex difference? Read the free article on @RealLastStand below. 🔗https://www.realityslaststand.com/p/throwing-like-a-girl-is-biology-allowed
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILLGqGhzLGAgxfBlNtk-mVqwhohyGkAAKpEmsbcyYxVIpKdXNcpiKYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/SwipeWright/status/2090177511564943817#m)
 
 ---
 
@@ -279,10 +449,6 @@ RT by @elonmusk: The sex difference in throwing is one of the largest behavioral
 
 RT by @elonmusk: I was the bottleneck. So I made a Grok Bot the boss of my repo. From there it recruited more Grok Bots. All of this with two prompts + pstack. WARNING you will get "AI Psychosis" if you do this workflow.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILLmqGhzrR8nQschhxDTM6Ked7W-aLAAKrEmsbcyYxVLSOPQYv9C6eAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/RayFernando1337/status/2090195841822998888#m)
-
 ---
 
 ## 2026-08-20 06:57:57
@@ -292,8 +458,6 @@ RT by @elonmusk: I was the bottleneck. So I made a Grok Bot the boss of my repo.
 **内容**:
 
 RT by @elonmusk: So I looked into this a little more, and turns out voters approved a 1:1 match, then city council “amended” it to a 6:1 match
-
-[查看原文](https://nitter.net/Austen/status/2090211699135541402#m)
 
 ---
 
@@ -315,10 +479,6 @@ RT by @elonmusk: Grok Build just got a new update bringing a first-class workflo
 
 RT by @elonmusk: Not satire
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILL2qGhz2VknAFPUCCad8390mWu0ORAAKsEmsbcyYxVJ6LvumipYuHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/jgebbia/status/2090253570444599622#m)
-
 ---
 
 ## 2026-08-20 10:25:07
@@ -328,8 +488,6 @@ RT by @elonmusk: Not satire
 **内容**:
 
 RT by @elonmusk: Elon is right 💯
-
-[查看原文](https://nitter.net/hodgetwins/status/2090263833902219765#m)
 
 ---
 
@@ -361,9 +519,105 @@ Grok Build puts you in charge of your computer https://X.ai/build
 
 Grok upgrades
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILLWqGhzf71NAAAdquIim49N0qj_Ef3AACqhJrG3MmMVRs359o-FkS-AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://nitter.net/elonmusk/status/2090288581466304765#m)
+## 2026-08-20 19:29:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try @Grok @Bot
+
+<img src="/images/elonmusk/amplify_video_thumb_2090174281481109505_img_QPw4iTpQjP2FoKwS.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090400832126640405#m)
+
+---
+
+## 2026-08-20 19:40:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+<img src="/images/elonmusk/amplify_video_thumb_2090168819293810688_img_yn5QqcnZbxYebyaP.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090403660756865445#m)
+
+---
+
+## 2026-08-20 20:35:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Our goal is to make Grok Build as easy to use as possible. What are tasks you find harder to do with Grok Build compared to other similar products? Let me know and we’ll improve on them immediately.
+
+[查看原文](https://nitter.net/JasonBud/status/2090417454879265036#m)
+
+---
+
+## 2026-08-20 20:49:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: How To Set Up Grokbot The Right Way So It Runs Your Business While You Sleep In 2026
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILMmqHUyQjdFLO-3Ej8MxEGrFRfgABHAACXhVrG3MmOVQdOF5R7T2K-QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/heynavtoor/status/2090421070230966656#m)
+
+---
+
+## 2026-08-20 20:56:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot is amazing, holy F. My Grok Bot finished cleaning my 100,000 unread email inbox mess, and is now going through and unsubscribing me from all of the junk responsible for making the mess in the first place. Here are two screenshots below; one of my Grok Bot giving me the play-by-play, and another of the Bot's linux machine, where it is on Chrome physically unsubscribing from everything for me. When it can't complete execution, it just tells me to jump onto the chrome browser and do the final click. But it has completed most of them autonomously. Truly epic.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILNGqHUyysqIcISRGDUkreNQABspKnVwACYBVrG3MmOVQCP0EaAl_MGgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILNWqHUzCNyenhxo4J9W9sgImaVKIkAAJhFWsbcyY5VMq2NPfXxMmIAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILNmqHUzRkR5Ec2PscwUL47kPl0s3GAAJiFWsbcyY5VItVLP1R5zlgAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/mikepat711/status/2090422774825202020#m)
+
+---
+
+## 2026-08-20 22:53:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot never sleeps! Elon just highlighted the real difference with Grok Bot. It runs on its own remote computer managed by SpaceXAI. Close your laptop, reboot your desktop, go to sleep, whatever. The Bot keeps working. That is the core advantage over most other agent setups right now. Self-hosted options like Hermes or OpenClaw need a machine that stays on. If that machine is your laptop, the agent stops when you close the lid. If it is a VPS you manage, you are still responsible for uptime, updates, and security. Grok Bot removes that entire layer. SpaceXAI provisions and runs the computer. One computer per account, shared across all your Bots. Browser sessions, files, and logins stay live. One Bot can pick up exactly where another left off without re-authenticating or moving files around. You can also record a workflow once (up to ten minutes) and turn it into a reusable skill. Lowest friction path I have seen for teaching an agent a multi-step process. The practical result is simple: you can hand off real work and walk away. Sales follow-ups, bug reproduction, invoice processing, research that needs to run overnight. The Bot does not need your local machine to stay alive. That is the difference Elon is pointing at.
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILMWqHUyHfvPhtk3c2kRga5m-BVRxMAAJdFWsbcyY5VICD5RgGDtohAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/joehansen/status/2090452168037831119#m)
+
+---
+
+## 2026-08-20 23:17:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Qatar Airways is rolling out Starlink at an incredible pace The airline now has 150 widebody aircraft equipped with Starlink The latest milestones: • World’s first Starlink-equipped Boeing 787-9 • Entire Boeing 787-8 fleet already equipped • Overall widebody rollout now 83%+ complete • Full Boeing 787 rollout targeted by the end of 2026 • Up to 323 Starlink-equipped flights every day And the scale is already massive Since launching Starlink in October 2024, more than 23 MILLION passengers have connected across 86,000+ flights Passengers can get free gate-to-gate Wi-Fi with speeds of up to 500 Mbps per aircraft Starlink is rapidly becoming the new standard for internet in the sky 150 widebodies. 323 flights a day. 23 million passengers already connected SpaceX is changing what passengers expect from in-flight Wi-Fi
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILPGqHU0kkSKipKFsJUf813tB5xRbFAAJoFWsbcyY5VFTKm3kCkRvXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/XFreeze/status/2090458125128376729#m)
 
 ---
 
