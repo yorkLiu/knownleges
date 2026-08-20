@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2250 条推文
+> 📊 推文存档 - 共 2251 条推文
 
 ---
 
@@ -239,11 +239,17 @@ He committed serious crimes, as did Fauci
 
 RT by @elonmusk: Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls Release Notes: v1.0.7 Features: • Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable. • Permission prompts now show "Always allow" and "Never allow" options by default. • Users can now delete scheduled background loops directly from the tray. • Status line command scripts can now run on a timer via refresh_interval in config.toml. • Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project. • Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description. • New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs. • Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help. • Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab. Bug Fixes: • MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers. • Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions. • Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions. • Subagents no longer receive the ask-user-question tool. • Bare email addresses are now turned into clickable mailto links in the pager.
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILKWqGPoZPquEfwEdBlCpGk1Zw4068AAIvEmsbcyYxVFLard9kP7DhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILKmqGPokuxdsy80Qhpt2QlGOLHJ5FAAIwEmsbcyYxVM_ZbFaB9coBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-08-20 10:35:40
 
-[查看原文](https://nitter.net/XFreeze/status/2090213954744463691#m)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Much appreciated!
+
+[查看原文](https://nitter.net/elonmusk/status/2090266488666247275#m)
 
 ---
 
