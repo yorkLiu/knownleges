@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 341 条推文
+> 📊 推文存档 - 共 342 条推文
 
 ---
 
@@ -19,7 +19,19 @@ tags: ["2026"]
 
 海力士的50%现金回报股东其实相当于美光闪迪的100%回报股东。 因为海力士折价， 50%的钱可以买到像美光闪迪100%回报股东一样多的股票。
 
-[查看原文](https://nitter.net/xiaomustock/status/2090266141432377366#m)
+---
+
+## 2026-08-20 16:50:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+市场开始拥抱加密黄金炒美债危机叙事， 抛弃了存储科技。
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILMGqG15hEwRhx6Wdgd5w5zus9Fm9aAAK9E2sbcyY5VGxbSpZ-Rt5bAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/xiaomustock/status/2090360916877664495#m)
 
 ---
 
