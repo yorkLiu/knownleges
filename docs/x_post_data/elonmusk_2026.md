@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2301 条推文
+> 📊 推文存档 - 共 2302 条推文
 
 ---
 
@@ -299,8 +299,6 @@ RT by @elonmusk: 🔥THREAD: A roofing contractor is using Grok @Bot to run his 
 
 RT by @elonmusk: Grok Bot is hands down one of the best products I have ever used. Maybe the best ever. I have had it less than a week. I am not a developer. I talk to one chat and it already knows my business better than me. It reads Slack, email, meeting notes, Notion, and Stripe. It knows Farzad, my clients, the courses we sell, the agency, the sales calls, and who owes each step in our workflow. I do not brief it every morning. It briefs me. Course scripts go through a Claude project we linked. Claude writes. This thing briefs it, fact-checks, and makes it sound like me before I film. YouTube is another bit. It builds the 1080p slides to go in videos, zips them with a cue sheet, and drops the pack in Slack for the editors the same turn. Caught a bad number in a SpaceX video the night I was filming, rebuilt the slides, and sent the pack. Script change, slide change. I did not have to ask twice. It sat on our sales calls and reviewed the process. Then it wrote a rule from that. Book the next call before you hang up. Send the Stripe link while they are still there. Stop emailing homework. It built a live 50% off code on Stripe for an AI course and set when it dies. Stripe is a minefield when you don’t know what you’re doing, could have taken me an hour and it did it in one click. I told it my rules for life. Question every requirement. Delete before you simplify. It holds me to that on the work, without me invoking it. This is a chief of staff I hired on a Tuesday. Don’t sleep on GrokBot.
 
-[查看原文](https://nitter.net/DavidCarbutt_/status/2090603356649562522#m)
-
 ---
 
 ## 2026-08-21 09:46:01
@@ -310,10 +308,6 @@ RT by @elonmusk: Grok Bot is hands down one of the best products I have ever use
 **内容**:
 
 Starlink would help the least served in India, especially in rural areas
-
-<img src="/images/elonmusk/amplify_video_thumb_2090508150994862081_img_TfyTzfEt7NhVLRXM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090616381599629749#m)
 
 ---
 
@@ -325,7 +319,19 @@ Starlink would help the least served in India, especially in rural areas
 
 True
 
-[查看原文](https://nitter.net/elonmusk/status/2090628549745291611#m)
+---
+
+## 2026-08-21 12:20:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship is so sci-fi
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILRGqH1iqDwyXQ9LzPn3OLzgnaMG_QAALcFGsb7cVBVGY5ncIBPaPkAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090655236155384288#m)
 
 ---
 
