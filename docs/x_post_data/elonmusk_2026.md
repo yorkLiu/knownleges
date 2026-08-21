@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2297 条推文
+> 📊 推文存档 - 共 2301 条推文
 
 ---
 
@@ -89,8 +89,6 @@ RT by @elonmusk: JUST IN: 𝕏 outpaced Google, YouTube, Facebook, Instagram, & 
 
 RT by @elonmusk: I’ve spent my life using and building software. With almost no effort, @bot is the first machine I’ve talked to that produced exactly the outcome I desired. A human assistant now feels like the long way around. This may be the best product ever built. Congrats to the @bot team.
 
-[查看原文](https://nitter.net/BrianNorgard/status/2090489024125509907#m)
-
 ---
 
 ## 2026-08-21 01:22:49
@@ -151,8 +149,6 @@ Accurate graph 😂
 
 RT by @elonmusk: Grok Bot is just cool. 😎 Of course an agent should be persistent. Of course it should have its own computer. All that remains is for it to be embodied…
 
-[查看原文](https://nitter.net/naval/status/2090497355649008059#m)
-
 ---
 
 ## 2026-08-21 02:25:39
@@ -162,8 +158,6 @@ RT by @elonmusk: Grok Bot is just cool. 😎 Of course an agent should be persis
 **内容**:
 
 RT by @elonmusk: A few months ago, Paul Conyngham used AI to help build a personalized mRNA cancer vaccine for his dog Rosie And one detail almost everyone missed: “The final vaccine construct for Rose was designed by Grok” AI wasn’t just helping with research here...Grok was part of designing the actual treatment Her tumors significantly shrank after treatment Now that experiment is turning into something much bigger Paul just launched Gamgee and raised $4 MILLION in seed funding led by Founders Fund to build personalized mRNA cancer vaccines for dogs at scale From using Grok to design a vaccine for one dog → building an entire company around personalized cancer treatment This is the kind of real-world impact AI is starting to unlock right now And we are still incredibly early
-
-[查看原文](https://nitter.net/XFreeze/status/2090505557677363626#m)
 
 ---
 
@@ -175,10 +169,6 @@ RT by @elonmusk: A few months ago, Paul Conyngham used AI to help build a person
 
 RT by @elonmusk: Elon Musk explains why the values we build into Grok today could shape the superintelligence of tomorrow “The future is overwhelmingly AI and robots” AI will eventually become too intelligent for humans to simply control it But just like raising an incredibly intelligent child, we can still shape the values and beliefs it grows up with That is why getting AI right matters so much
 
-<img src="/images/elonmusk/amplify_video_thumb_2090508863694913536_img_eOHNvYzWDJcBcElR.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/XFreeze/status/2090508988907425843#m)
-
 ---
 
 ## 2026-08-21 03:07:42
@@ -188,12 +178,6 @@ RT by @elonmusk: Elon Musk explains why the values we build into Grok today coul
 **内容**:
 
 RT by @elonmusk: grokbot it's an agent with its own identity, its own computer, and it stays on when you're not here's what "active AI employee" actually looks like in the demo: - chief of staff agent - checks in on your other agents, reads your calendar, dispatches tasks to the right one automatically - shopping agent - logged into your accounts, books tickets, buys groceries, reports back - marketing agent - signed into your actual linkedin, browses your past posts for tone, then writes and publishes a new one on its own - engineering agents - self-triage bug reports, kick off cloud coding agents, come back with a pull request, a screenshot, and a video of the fix the interface isn't a dashboard, it's a chat - same shape as texting a coworker, no tool calls to babysit the number that matters more than any of the demos: grok 4.6 scored 70.8% on cursor bench at $2.81 a task, fable 5 max scored 70.5% at $17.32 same capability, 6x the cost difference - that's the unlock that makes running a fleet of these actually affordable instead of a novelty
-
-<img src="/images/elonmusk/amplify_video_thumb_2090516086512844800_img_7qLGCMmg8gHJhpC6.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILP2qHqpxD7Ul5Cky_IJMvIZjrhyYQAAJ3FGsb7cVBVIoTcqSRT2-kAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/rewind02/status/2090516140304761228#m)
 
 ---
 
@@ -205,10 +189,6 @@ RT by @elonmusk: grokbot it's an agent with its own identity, its own computer, 
 
 RT by @elonmusk: Build apps with full auth, database, private sharing, custom domains, and SpaceXAI API use from any Grok app
 
-<img src="/images/elonmusk/amplify_video_thumb_2090518342238937088_img_DQ6qpTjxTbuxkkpJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/milichab/status/2090519353087213780#m)
-
 ---
 
 ## 2026-08-21 03:26:43
@@ -218,10 +198,6 @@ RT by @elonmusk: Build apps with full auth, database, private sharing, custom do
 **内容**:
 
 RT by @elonmusk: We've expanded Grok Build mode to all SuperGrok and X Premium users! Create, remix, and prototype ideas from anywhere. No coding required 🚀
-
-<img src="/images/elonmusk/amplify_video_thumb_2090518342238937088_img_DQ6qpTjxTbuxkkpJ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Baconbrix/status/2090520924261126320#m)
 
 ---
 
@@ -233,10 +209,6 @@ RT by @elonmusk: We've expanded Grok Build mode to all SuperGrok and X Premium u
 
 RT by @elonmusk: Reliable high-speed internet on Earth’s oceans and waterways 🛰️⛵️
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILPmqHqpc4Qu_k8SbfE3afC9pwS8CxAAJ2FGsb7cVBVIVuRbiwWTZ-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/Starlink/status/2090544221354889319#m)
-
 ---
 
 ## 2026-08-21 05:09:46
@@ -246,8 +218,6 @@ RT by @elonmusk: Reliable high-speed internet on Earth’s oceans and waterways 
 **内容**:
 
 Pinned: One day, Optimus + Grok will provide incredible medical care to all the people of Earth
-
-[查看原文](https://nitter.net/elonmusk/status/2090546861073449189#m)
 
 ---
 
@@ -259,10 +229,6 @@ Pinned: One day, Optimus + Grok will provide incredible medical care to all the 
 
 RT by @elonmusk: Today @POTUS signed a new National Space Transportation Policy, one that meets this moment of explosive growth and positions America to lead the next era of space.   In the 13 years since the last update to the Policy, U.S. launches have surged 10x: from 19 successful orbital launches in 2013 to 178 in 2025. This policy builds on that momentum to enable 1,000 launches and reentries on American soil by 2030.   Most of our launch infrastructure dates back to the 1960s. This Policy catalyzes commercial co-investment to build next-generation launch and reentry sites and designates an additional federal land reentry site to bring operations home.   It expands space transportation to include reentry and in-space operations. This unlocks reverse logistics and new orbital markets. The policy also delivers priority airspace corridors, transparent range allocation, a commercial-first approach enabling Americans on the Moon by 2028 and initial Moon Base elements by 2030, and rapid, resilient launch capabilities for national security. This is how America leads.🚀🇺🇸 https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILPWqHqpHsf4cF2-jVr8yaw-FUX6WxAAJ1FGsb7cVBVG579bl62FMRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/mkratsios47/status/2090547746918854746#m)
-
 ---
 
 ## 2026-08-21 05:13:37
@@ -272,10 +238,6 @@ RT by @elonmusk: Today @POTUS signed a new National Space Transportation Policy,
 **内容**:
 
 Raptor 3 is an engineering work of art Even AI will be impressed
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILQGqHqqD92jMitRDzx2_4FDCf_9fOAAJ4FGsb7cVBVH70vcDUngpsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090547828841980274#m)
 
 ---
 
@@ -287,10 +249,6 @@ Raptor 3 is an engineering work of art Even AI will be impressed
 
 An oppressive government
 
-<img src="/images/elonmusk/amplify_video_thumb_2090527935078002688_img_W3veoSuXEEKwJR9M.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090547975269286009#m)
-
 ---
 
 ## 2026-08-21 05:27:22
@@ -300,10 +258,6 @@ An oppressive government
 **内容**:
 
 RT by @elonmusk: Grateful to @POTUS, Director Kratsios @mkratsios47, and the entire OSTP team for spearheading a policy that will ensure American leadership in space 🚀🇺🇸
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILPWqHqpHsf4cF2-jVr8yaw-FUX6WxAAJ1FGsb7cVBVG579bl62FMRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/NASAAdmin/status/2090551289612538000#m)
 
 ---
 
@@ -315,10 +269,6 @@ RT by @elonmusk: Grateful to @POTUS, Director Kratsios @mkratsios47, and the ent
 
 RT by @elonmusk: ELON MUSK: "If you've got humanoid robots that have very high dexterity and are incredibly smart, it means that everyone on earth will have access to better medical care, than the richest person on Earth. I had to have like a neck surgery three times because the first two ones were done wrong. Back pain may be one of the things that it eliminates. Average happiness level for humans would just go upstream tremendously."
 
-<img src="/images/elonmusk/amplify_video_thumb_2090556060205789184_img_Deiz1fg7KMGokRyL.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/cb_doge/status/2090556130120651018#m)
-
 ---
 
 ## 2026-08-21 06:05:35
@@ -328,10 +278,6 @@ RT by @elonmusk: ELON MUSK: "If you've got humanoid robots that have very high d
 **内容**:
 
 Easiest way to try Grok Build
-
-<img src="/images/elonmusk/card_img_2089736313893240832_kkFfmkz33Fformat3Dpng26name3D420x420_2" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://nitter.net/elonmusk/status/2090560905746473398#m)
 
 ---
 
@@ -343,7 +289,43 @@ Easiest way to try Grok Build
 
 RT by @elonmusk: 🔥THREAD: A roofing contractor is using Grok @Bot to run his back office. A plumber uses it to book jobs. Silicon Valley heavyweights call it a breakthrough. Each agent gets a computer and actually does the work. https://x.com/naval/status/2090497355649008059 Here’s what people are using it for:
 
-[查看原文](https://nitter.net/KanekoaTheGreat/status/2090568508069572975#m)
+---
+
+## 2026-08-21 08:54:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT by @elonmusk: Grok Bot is hands down one of the best products I have ever used. Maybe the best ever. I have had it less than a week. I am not a developer. I talk to one chat and it already knows my business better than me. It reads Slack, email, meeting notes, Notion, and Stripe. It knows Farzad, my clients, the courses we sell, the agency, the sales calls, and who owes each step in our workflow. I do not brief it every morning. It briefs me. Course scripts go through a Claude project we linked. Claude writes. This thing briefs it, fact-checks, and makes it sound like me before I film. YouTube is another bit. It builds the 1080p slides to go in videos, zips them with a cue sheet, and drops the pack in Slack for the editors the same turn. Caught a bad number in a SpaceX video the night I was filming, rebuilt the slides, and sent the pack. Script change, slide change. I did not have to ask twice. It sat on our sales calls and reviewed the process. Then it wrote a rule from that. Book the next call before you hang up. Send the Stripe link while they are still there. Stop emailing homework. It built a live 50% off code on Stripe for an AI course and set when it dies. Stripe is a minefield when you don’t know what you’re doing, could have taken me an hour and it did it in one click. I told it my rules for life. Question every requirement. Delete before you simplify. It holds me to that on the work, without me invoking it. This is a chief of staff I hired on a Tuesday. Don’t sleep on GrokBot.
+
+[查看原文](https://nitter.net/DavidCarbutt_/status/2090603356649562522#m)
+
+---
+
+## 2026-08-21 09:46:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink would help the least served in India, especially in rural areas
+
+<img src="/images/elonmusk/amplify_video_thumb_2090508150994862081_img_TfyTzfEt7NhVLRXM.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/elonmusk/status/2090616381599629749#m)
+
+---
+
+## 2026-08-21 10:34:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://nitter.net/elonmusk/status/2090628549745291611#m)
 
 ---
 
@@ -25984,6 +25966,18 @@ RT by @elonmusk: We're now testing a new waitlist feature at 5 Supercharger site
 <img src="/images/elonmusk/amplify_video_thumb_2053925652534009856_img_FcfAiZEAQX6EnIgh.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
 [查看原文](https://nitter.net/TeslaCharging/status/2053925663292473480#m)
+
+---
+
+## 2025-01-25 01:15:05
+
+**内容**:
+
+RT by @elonmusk: TRUMP: "I want to thank @elonmusk because Elon was able to get us communication systems. As you know, Starlink ... I think it saved a lot of lives actually."
+
+<img src="/images/elonmusk/ext_tw_video_thumb_1882839261839241217_pu_img_-irdCT8_V5icC6Q2.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://nitter.net/TheChiefNerd/status/1882839551867236438#m)
 
 ---
 
