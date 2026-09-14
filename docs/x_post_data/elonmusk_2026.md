@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2326 条推文
+> 📊 推文存档 - 共 2331 条推文
 
 ---
 
@@ -253,8 +253,6 @@ RT @XFreeze: Grok Bot Galaxy starts tomorrow (Sep 15) 🚀
 
 If you’re planning to tune in, here’s the full schedule so you don’t miss the sess…
 
-[查看原文](https://x.com/elonmusk/status/2099441706244456672)
-
 ---
 
 ## 2026-09-14 18:14:54
@@ -265,9 +263,69 @@ If you’re planning to tune in, here’s the full schedule so you don’t miss 
 
 RT @Tesla_India: Happy Ganesh Chaturthi https://t.co/gJioyQr99i
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILe2qnyoI3-x3yx9rhZ9D1Zt1rnP-kAAJqFGsbWlFBVao1fsVQ396sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2099441753589764421)
+## 2026-09-14 18:28:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @denispleiades: @yunta_tsai Meanwhile in Germany summon is limited to 6 meters, which is not even usable because you have to be so close…
+
+[查看原文](https://x.com/elonmusk/status/2099445110802956610)
+
+---
+
+## 2026-09-14 18:30:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving
+
+[查看原文](https://x.com/elonmusk/status/2099445708277387433)
+
+---
+
+## 2026-09-14 18:31:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @readswithravi: “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”
+
+— Richard…
+
+[查看原文](https://x.com/elonmusk/status/2099445951542788573)
+
+---
+
+## 2026-09-14 18:33:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TeslaAUNZ: FSD Supervised is making driving safer &amp; now cheaper
+
+Zurich is the first insurer in Australia to offer Tesla owners lower p…
+
+[查看原文](https://x.com/elonmusk/status/2099446445455639008)
+
+---
+
+## 2026-09-14 18:49:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Bot now lets your route through your local machine
+
+[查看原文](https://x.com/elonmusk/status/2099450564698423732)
 
 ---
 
