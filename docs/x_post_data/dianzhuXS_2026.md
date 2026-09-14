@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 356 条推文
+> 📊 推文存档 - 共 357 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 現在是2026年9月14日，看到一段視頻⋯⋯照這個速度，明年習近平再出鏡，是不是就必須要有人攙扶了？或者AI做視頻？喜聞樂見🤗🤗🤗
 
-[查看原文](https://x.com/dianzhuXS/status/2099236365569565123)
-
 ---
 
 ## 2026-09-14 07:12:09
@@ -31,10 +29,6 @@ tags: ["2026"]
 
 這個【晚期就是～植物人兒】要不要聊一期？就怕流量太大，又控制不住🤭🤭🤭 https://t.co/ENkYutUr7i
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILcWqnWi_Oq6BKoZbljd1NVrLM1n4oAAKVEGsbJZBBVd3ViThP6iCpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2099274969020768350)
-
 ---
 
 ## 2026-09-14 07:26:24
@@ -44,10 +38,6 @@ tags: ["2026"]
 **内容**:
 
 老喉舌又死了一位。看這段視頻的最大感覺是，敬一丹們那個時代的央視確實是「央」，共匪黨中央的「央」。而現在的「殃視」是效忠習近平，禍國殃民的「殃」。二者的區別在於，多了個「歹」⋯⋯歹者殘也😮‍💨 https://t.co/J95bNfRvKC
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILcGqnWi3OhcMY3FbDx7LiJ6K5Vm4gAAKUEGsbJZBBVRs1UobIZkVcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2099278552197931191)
 
 ---
 
@@ -60,8 +50,6 @@ tags: ["2026"]
 有的人死了，他還活著～查理
 有的人活著，牠已經死了～習近平
 
-[查看原文](https://x.com/dianzhuXS/status/2099282079750255065)
-
 ---
 
 ## 2026-09-14 08:08:53
@@ -72,9 +60,19 @@ tags: ["2026"]
 
 我好像明白了『馬斯克移民火星計劃』。大概率是他的團隊推算到了，太陽吞食水星之後，地球順位成為離太陽最近的第二大行星，再也不利於人類生存。所以提前部署，遷移到將來的第三位行星「火星」。我說對了嗎？@elonmusk https://t.co/CGWr7ioNXE
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILb2qnWip0pPup11tJIdKYP1q608HtAAKTEGsbJZBBVY2fllpNW8JlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2099289243327828260)
+## 2026-09-14 17:57:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這也太…保熟嗎？ https://t.co/M6rryYRymn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILfGqnyoddNznfwvb13oqu7CUrnAclAAJrFGsbWlFBVcAa5NmJp_pfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2099437285246968318)
 
 ---
 

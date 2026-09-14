@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2324 条推文
+> 📊 推文存档 - 共 2326 条推文
 
 ---
 
@@ -241,7 +241,33 @@ Starlink
 
 RT @tesla_na: FSD Supervised will change your life
 
-[查看原文](https://x.com/elonmusk/status/2099329445748215819)
+---
+
+## 2026-09-14 18:14:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Bot Galaxy starts tomorrow (Sep 15) 🚀
+
+If you’re planning to tune in, here’s the full schedule so you don’t miss the sess…
+
+[查看原文](https://x.com/elonmusk/status/2099441706244456672)
+
+---
+
+## 2026-09-14 18:14:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla_India: Happy Ganesh Chaturthi https://t.co/gJioyQr99i
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILe2qnyoI3-x3yx9rhZ9D1Zt1rnP-kAAJqFGsbWlFBVao1fsVQ396sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2099441753589764421)
 
 ---
 
