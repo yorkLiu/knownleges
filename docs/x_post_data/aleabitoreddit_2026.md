@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 449 条推文
+> 📊 推文存档 - 共 450 条推文
 
 ---
 
@@ -67,13 +67,23 @@ For H2 hikes:
 High-density NOR: 90-110% in H2
 SLC NAND: https://t.co/3nSNwF9z6n
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILeGqnrXFuyYB-Vuy0FsOXNu8AAVZGawAC8hNrG1pRQVU-6gVKcwLTBgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILeWqnrXTcWIrdqFG4XI-zpR1vZ9OoAALzE2sbWlFBVVhq9JAI_-72AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-14 19:20:27
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILemqnrXjBo_V-tptdVKTiu2O_gMoIAAL0E2sbWlFBVedQm10ltvsVAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://x.com/aleabitoreddit/status/2099411795131924487)
+**内容**:
+
+$IREN CEO on Anthropic call for frontier slowdown:
+
+“Even if models never improved from here…
+
+just rolling out what they can already do would take more compute than the world can build for years”
+
+I agree, and current narrative is reminiscent of the $NVDA DeepSeek selloff or
+
+[查看原文](https://x.com/aleabitoreddit/status/2099458250240618861)
 
 ---
 

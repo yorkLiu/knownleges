@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 357 条推文
+> 📊 推文存档 - 共 358 条推文
 
 ---
 
@@ -70,9 +70,19 @@ tags: ["2026"]
 
 這也太…保熟嗎？ https://t.co/M6rryYRymn
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILfGqnyoddNznfwvb13oqu7CUrnAclAAJrFGsbWlFBVcAa5NmJp_pfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2099437285246968318)
+## 2026-09-14 19:05:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+牆人思維是慕強而不講善惡的，這個群體奉行所謂的向上社交，以攀附權貴為榮。
+
+就這幫玩意，即使習近平流亡海外了，畫個大餅振臂一呼，還是一堆擁躉，沒救的😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://x.com/dianzhuXS/status/2099454415849803845)
 
 ---
 

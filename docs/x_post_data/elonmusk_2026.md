@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2331 条推文
+> 📊 推文存档 - 共 2333 条推文
 
 ---
 
@@ -273,8 +273,6 @@ RT @Tesla_India: Happy Ganesh Chaturthi https://t.co/gJioyQr99i
 
 RT @denispleiades: @yunta_tsai Meanwhile in Germany summon is limited to 6 meters, which is not even usable because you have to be so close…
 
-[查看原文](https://x.com/elonmusk/status/2099445110802956610)
-
 ---
 
 ## 2026-09-14 18:30:37
@@ -284,8 +282,6 @@ RT @denispleiades: @yunta_tsai Meanwhile in Germany summon is limited to 6 meter
 **内容**:
 
 Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving
-
-[查看原文](https://x.com/elonmusk/status/2099445708277387433)
 
 ---
 
@@ -299,8 +295,6 @@ RT @readswithravi: “Study hard what interests you the most in the most undisci
 
 — Richard…
 
-[查看原文](https://x.com/elonmusk/status/2099445951542788573)
-
 ---
 
 ## 2026-09-14 18:33:33
@@ -313,8 +307,6 @@ RT @TeslaAUNZ: FSD Supervised is making driving safer &amp; now cheaper
 
 Zurich is the first insurer in Australia to offer Tesla owners lower p…
 
-[查看原文](https://x.com/elonmusk/status/2099446445455639008)
-
 ---
 
 ## 2026-09-14 18:49:55
@@ -325,7 +317,31 @@ Zurich is the first insurer in Australia to offer Tesla owners lower p…
 
 Grok Bot now lets your route through your local machine
 
-[查看原文](https://x.com/elonmusk/status/2099450564698423732)
+---
+
+## 2026-09-14 19:05:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2099454402364920276)
+
+---
+
+## 2026-09-14 19:08:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the foreword. 
+
+I was thinking about AI safety long before 2014.
+
+[查看原文](https://x.com/elonmusk/status/2099455308284219727)
 
 ---
 
