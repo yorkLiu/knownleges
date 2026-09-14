@@ -10,8 +10,9 @@ X/Twitter 推文爬虫（增强版 v2）
 
 import feedparser
 import json
+import os
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from html.parser import HTMLParser
 import urllib.request
@@ -36,6 +37,26 @@ RSS_BASE_URL = config.get("rss_base_url", "https://nitter.net")
 MAX_TWEETS = config.get("max_tweets_per_user", 20)
 TIMEZONE_STR = config.get("timezone", "GMT+08:00")
 TIMEZONE_OFFSET = config.get("timezone_offset", 8)  # 默认东八区
+
+# ============ Syndication API 配置（首选数据源） ============
+# X 官方嵌入端点，替代已停服的 Nitter。需用户 cookie（cf_clearance 绑定出口 IP）。
+# 仅保留 ~20 条最新窗口，不能翻历史。
+SYNDICATION_URL = config.get(
+    "syndication_url", "https://syndication.twitter.com/srv/timeline-profile/screen-name/{}")
+COOKIE_FILE = config.get(
+    "cookie_file", "/data/hermes/.hermes/scripts/x_cookie.txt")
+SYNDICATION_UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " \
+                 "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+def _load_cookie():
+    """读取 X 用户 cookie 字符串，缺失返回空串"""
+    try:
+        p = Path(COOKIE_FILE)
+        if p.exists():
+            return p.read_text(encoding="utf-8").strip()
+    except Exception as e:
+        print(f" ❌ 读取 cookie 失败：{e}")
+    return ""
 
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -262,6 +283,19 @@ def format_time(dt):
     """将 datetime 对象格式化为字符串"""
     return dt.strftime("%Y-%m-%d %H:%M:%S")
 
+def parse_syndication_time(time_str):
+    """Syndication created_at: 'Mon Sep 14 00:08:53 +0000 2026' -> 东八区 naive datetime
+    （与旧 Nitter 路径一致，返回 naive，配 format_time 使用）"""
+    if not time_str:
+        return datetime.now()
+    try:
+        dt = datetime.strptime(time_str, "%a %b %d %H:%M:%S %z %Y")
+        local_tz = timezone(timedelta(hours=TIMEZONE_OFFSET))
+        return dt.astimezone(local_tz).replace(tzinfo=None)
+    except Exception as ex:
+        print(f"    ⚠️ syndication 时间解析失败：{time_str} ({ex})")
+        return datetime.now()
+
 def parse_time_with_timezone(time_str):
     """解析时间字符串，返回带时区信息的 datetime"""
     # Nitter 返回的格式：Mon, 25 May 2026 07:04:59 GMT
@@ -284,8 +318,8 @@ def parse_time_with_timezone(time_str):
         print(f"    ⚠️ 时间解析失败：{time_str} ({e})")
         return datetime.now()
 
-def fetch_user_tweets(username):
-    """从 Nitter RSS 获取用户推文"""
+def fetch_user_tweets_nitter(username):
+    """从 Nitter RSS 获取用户推文（Syndication 失败时回退）"""
     rss_url = f"{RSS_BASE_URL}/{username}/rss"
     
     try:
@@ -325,8 +359,87 @@ def fetch_user_tweets(username):
         
         return processed_tweets
     except Exception as e:
-        print(f" ❌ 获取失败：{e}")
+        print(f" ❌ Nitter 回退获取失败：{e}")
         return []
+
+def fetch_user_tweets_syndication(username):
+    """从 X Syndication API 获取用户时间线（官方嵌入端点，替代已停服的 Nitter）
+    
+    返回与 fetch_user_tweets_nitter 相同结构的 list，使下游 save_to_markdown 无需改动。
+    - content: full_text（RT 自带 'RT @user:' 前缀，与旧 md 风格一致）
+    - link: https://x.com/{user}/status/{id}
+    - images: entities.media[].media_url_https（pbs.twimg.com 直链，可下载）
+    - time: 东八区 naive datetime（与旧 Nitter 路径一致）
+    返回 [] 表示无内容（账号注销/删光推文/cookie 失效），触发 Nitter 回退。
+    """
+    cookie = _load_cookie()
+    url = SYNDICATION_URL.format(username)
+    req = urllib.request.Request(url, headers={
+        "Cookie": cookie,
+        "User-Agent": SYNDICATION_UA,
+        "Referer": "https://syndication.twitter.com/",
+        "Accept": "text/html,application/xhtml+xml",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            html = resp.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        if e.code == 403:
+            print(f" ❌ Syndication 403（cf_clearance 出口 IP 不匹配或 cookie 失效）")
+        else:
+            print(f" ❌ Syndication HTTP {e.code}")
+        return []
+    except Exception as e:
+        print(f" ❌ Syndication 请求失败：{e}")
+        return []
+    
+    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html, re.S)
+    if not m:
+        print(f" ❌ Syndication 响应缺少 __NEXT_DATA__（size={len(html)}）")
+        return []
+    try:
+        page_props = json.loads(m.group(1))["props"]["pageProps"]
+    except Exception as e:
+        print(f" ❌ Syndication JSON 解析失败：{e}")
+        return []
+    
+    entries = (page_props.get("timeline") or {}).get("entries") or []
+    processed = []
+    for e in entries:
+        t = (e.get("content") or {}).get("tweet")
+        if not t or not t.get("id_str"):
+            continue
+        created = t.get("created_at") or ""
+        pub_time = parse_syndication_time(created)
+        images = [
+            mm.get("media_url_https")
+            for mm in ((t.get("entities") or {}).get("media") or [])
+            if mm.get("media_url_https")
+        ]
+        processed.append({
+            "content": (t.get("full_text") or t.get("text") or "").replace("\xa0", " "),
+            "link": f"https://x.com/{username}/status/{t.get('id_str')}",
+            "time": format_time(pub_time),
+            "time_obj": pub_time,
+            "user": username,
+            "images": images,
+        })
+    return processed
+
+def fetch_user_tweets(username):
+    """获取用户推文：Syndication 为主，失败回退 Nitter RSS。
+    
+    返回推文 dict 列表；账号注销/无内容时返回空列表（由 main 标记为 ⚠️）。
+    """
+    tweets = fetch_user_tweets_syndication(username)
+    if tweets:
+        return tweets
+    # Syndication 空（注销/删光/403），尝试 Nitter 回退（通常也已停服）
+    fallback = fetch_user_tweets_nitter(username)
+    if fallback:
+        print(f"   ↩️  已回退到 Nitter RSS")
+        return fallback
+    return []
 
 def get_existing_tweet_ids(username):
     """获取已存在的推文 ID 列表（从每日文件）"""
