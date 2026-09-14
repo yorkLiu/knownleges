@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2323 条推文
+> 📊 推文存档 - 共 2324 条推文
 
 ---
 
@@ -20,8 +20,6 @@ tags: ["2026"]
 RT @jjfactorykat: 700 successful @SpaceX missions and thanks as always to @SES_Satellites for being a frequent flyer!
 
 We’ve launched crew…
-
-[查看原文](https://x.com/elonmusk/status/2099260303858913448)
 
 ---
 
@@ -37,8 +35,6 @@ A Roadster known as P1
 
 The keys went to Elon Musk, who dr…
 
-[查看原文](https://x.com/elonmusk/status/2099261754287038812)
-
 ---
 
 ## 2026-09-14 08:11:38
@@ -51,8 +47,6 @@ RT @TeslaBoomerMama: My @bot  Grok Bot team just sold their first item on @Poshm
 
 - Poshy built the ad, advised on pricing,…
 
-[查看原文](https://x.com/elonmusk/status/2099289936050446844)
-
 ---
 
 ## 2026-09-14 08:13:22
@@ -62,8 +56,6 @@ RT @TeslaBoomerMama: My @bot  Grok Bot team just sold their first item on @Poshm
 **内容**:
 
 Try Grok Build https://t.co/XXiqcvJ2p7
-
-[查看原文](https://x.com/elonmusk/status/2099290373046599959)
 
 ---
 
@@ -75,8 +67,6 @@ Try Grok Build https://t.co/XXiqcvJ2p7
 
 Try Tesla self-driving. It will blow your mind!
 
-[查看原文](https://x.com/elonmusk/status/2099290837184090469)
-
 ---
 
 ## 2026-09-14 08:15:23
@@ -86,8 +76,6 @@ Try Tesla self-driving. It will blow your mind!
 **内容**:
 
 RT @deedydas: @arampell @lipko 10/10 been my experience as well. Drove a loaner Y and it's damn near perfect at self-driving in the Bay Are…
-
-[查看原文](https://x.com/elonmusk/status/2099290881933103249)
 
 ---
 
@@ -101,10 +89,6 @@ RT @BillyM2k: this is the milky way galaxy flying through space
 
 like a butterfly https://t.co/v4fryXJrbx
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILXGqnWgHMCaKXx9HTnz9-seWv_6snAAKAEGsbJZBBVWJ81p1fiVSvAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2099291338629935157)
-
 ---
 
 ## 2026-09-14 08:17:19
@@ -117,8 +101,6 @@ RT @wmorrill3: Named my grok bot after the sentient AI, Jane, in speaker for the
 
 I look forward to when I can sub-vocalize like End…
 
-[查看原文](https://x.com/elonmusk/status/2099291366563909867)
-
 ---
 
 ## 2026-09-14 08:19:26
@@ -128,8 +110,6 @@ I look forward to when I can sub-vocalize like End…
 **内容**:
 
 Tesla Model 3 achieved 5-star safety rating in all categories!
-
-[查看原文](https://x.com/elonmusk/status/2099291898514907490)
 
 ---
 
@@ -141,8 +121,6 @@ Tesla Model 3 achieved 5-star safety rating in all categories!
 
 700 Falcon flights completed. Congrats to the SpaceX Falcon team!
 
-[查看原文](https://x.com/elonmusk/status/2099295234471461372)
-
 ---
 
 ## 2026-09-14 08:35:20
@@ -152,10 +130,6 @@ Tesla Model 3 achieved 5-star safety rating in all categories!
 **内容**:
 
 This @waitbutwhy cartoon hits the 🎯 https://t.co/LlGFbFbcYc
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILW2qnWf-g5x5WZyhaVZNkPRWNilRYAAJ_EGsbJZBBVT3sNIIlXEOJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2099295901529391177)
 
 ---
 
@@ -169,8 +143,6 @@ RT @XFreeze: Grok Build just got another update focused on making multi-agent se
 
 Subagent groups now cle…
 
-[查看原文](https://x.com/elonmusk/status/2099298129958871044)
-
 ---
 
 ## 2026-09-14 08:47:02
@@ -180,8 +152,6 @@ Subagent groups now cle…
 **内容**:
 
 Important reading
-
-[查看原文](https://x.com/elonmusk/status/2099298845876208089)
 
 ---
 
@@ -197,8 +167,6 @@ RT @iam_smx: Eight years ago, Elon Musk said:
 
 Elon didn’t give in to the AI doomers…
 
-[查看原文](https://x.com/elonmusk/status/2099300302818029616)
-
 ---
 
 ## 2026-09-14 08:53:44
@@ -209,8 +177,6 @@ Elon didn’t give in to the AI doomers…
 
 RT @dhh: Commit yourself to these seven virtues: Honor, strength, courage, duty, justice, beauty, and truth.
 
-[查看原文](https://x.com/elonmusk/status/2099300530455519434)
-
 ---
 
 ## 2026-09-14 08:54:10
@@ -220,10 +186,6 @@ RT @dhh: Commit yourself to these seven virtues: Honor, strength, courage, duty,
 **内容**:
 
 RT @cb_doge: Elon Musk showing Tesla Roadster to Arnold Schwarzenegger in 2008. https://t.co/m38pxajfkb
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILWmqnWf1uKhGleYxNYtquictM6bcDAAJ-EGsbJZBBVZfJ-Tco8RAzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2099300641709478181)
 
 ---
 
@@ -237,8 +199,6 @@ RT @cb_doge: 16 years of relentless engineering in one video.
 
 From SpaceX’s first Falcon 9 launch in 2010 to the 700th Falcon launch today…
 
-[查看原文](https://x.com/elonmusk/status/2099301662896673027)
-
 ---
 
 ## 2026-09-14 09:01:08
@@ -251,8 +211,6 @@ RT @cb_doge: This was the mission that launched Elon Musk’s original Tesla Roa
 
 On February 6, 2018, Falcon Heavy made its…
 
-[查看原文](https://x.com/elonmusk/status/2099302392697180284)
-
 ---
 
 ## 2026-09-14 09:01:42
@@ -262,8 +220,6 @@ On February 6, 2018, Falcon Heavy made its…
 **内容**:
 
 RT @SRBednarek: Today we completed our 700th successful Falcon mission! Proud doesn’t even cover it. The @SpaceX team continues to raise th…
-
-[查看原文](https://x.com/elonmusk/status/2099302538281427288)
 
 ---
 
@@ -275,7 +231,17 @@ RT @SRBednarek: Today we completed our 700th successful Falcon mission! Proud do
 
 Starlink
 
-[查看原文](https://x.com/elonmusk/status/2099307306685009955)
+---
+
+## 2026-09-14 10:48:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tesla_na: FSD Supervised will change your life
+
+[查看原文](https://x.com/elonmusk/status/2099329445748215819)
 
 ---
 
