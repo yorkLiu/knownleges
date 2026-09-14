@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 448 条推文
+> 📊 推文存档 - 共 449 条推文
 
 ---
 
@@ -47,11 +47,33 @@ Man Ray: So you’re buying Samsung?
 
 Patrick: No, I’m selling on a 4% drop because X said memory will https://t.co/eHtVQ31IDv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILdmqnnuuPPhkNIB8kktZ5Hh8Zis0UAAK8E2sbWlFBVZaOvdI-qs9iAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILd2qnnu4g6tUy7g40b6yf0SzScIGAAAK9E2sbWlFBVVgW7nreVR_oAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-14 16:15:51
 
-[查看原文](https://x.com/aleabitoreddit/status/2099392042657038698)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+NOR flash “Severe Supply Shortage” with high density continued increases of 90-110% for H2.
+
+I wonder who sells both high density NOR and SLC NAND? *cough cough, $ESMT*
+
+For H1 hikes:
+NOR: +100–120%
+SLC NAND: +130–150%
+
+For H2 hikes:
+High-density NOR: 90-110% in H2
+SLC NAND: https://t.co/3nSNwF9z6n
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILeGqnrXFuyYB-Vuy0FsOXNu8AAVZGawAC8hNrG1pRQVU-6gVKcwLTBgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILeWqnrXTcWIrdqFG4XI-zpR1vZ9OoAALzE2sbWlFBVVhq9JAI_-72AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILemqnrXjBo_V-tptdVKTiu2O_gMoIAAL0E2sbWlFBVedQm10ltvsVAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2099411795131924487)
 
 ---
 
