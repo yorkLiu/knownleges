@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 447 条推文
+> 📊 推文存档 - 共 448 条推文
 
 ---
 
@@ -23,7 +23,35 @@ And that majority of the "regulation" they try making is regulatory capture to s
 
 1. Anthropic/OpenAI will not willingly hand over their
 
-[查看原文](https://x.com/aleabitoreddit/status/2099229447304122410)
+---
+
+## 2026-09-14 14:57:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Man Ray: are you long Samsung?
+
+Patrick: Yup.
+
+Man Ray: Samsung has memory LTAs extending to 2031?
+
+Patrick: Yup.
+
+Man Ray: And it’s trading at ~2.8× 2027E P/E?
+
+Patrick: Yup.
+
+Man Ray: So you’re buying Samsung?
+
+Patrick: No, I’m selling on a 4% drop because X said memory will https://t.co/eHtVQ31IDv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILdmqnnuuPPhkNIB8kktZ5Hh8Zis0UAAK8E2sbWlFBVZaOvdI-qs9iAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILd2qnnu4g6tUy7g40b6yf0SzScIGAAAK9E2sbWlFBVVgW7nreVR_oAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2099392042657038698)
 
 ---
 
