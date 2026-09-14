@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2340 条推文
+> 📊 推文存档 - 共 2341 条推文
 
 ---
 
@@ -349,8 +349,6 @@ I was thinking about AI safety long before 2014.
 
 Gaming ftw
 
-[查看原文](https://x.com/elonmusk/status/2099459125579071512)
-
 ---
 
 ## 2026-09-14 19:30:04
@@ -360,8 +358,6 @@ Gaming ftw
 **内容**:
 
 Starlink supporting rural communities in Bolivia 🇧🇴
-
-[查看原文](https://x.com/elonmusk/status/2099460669326188591)
 
 ---
 
@@ -375,8 +371,6 @@ RT @KnowledgeArchiv: "If a perfectly moral man entered this world, he would be h
 
 – Plato, The Republic (375 BC) http…
 
-[查看原文](https://x.com/elonmusk/status/2099460964491882994)
-
 ---
 
 ## 2026-09-14 19:34:44
@@ -389,8 +383,6 @@ A welfare state and free immigration will obviously bankrupt any country.
 
 AI + robotics is the only path to universal high income for everyone on Earth.
 
-[查看原文](https://x.com/elonmusk/status/2099461843269906606)
-
 ---
 
 ## 2026-09-14 19:36:05
@@ -400,8 +392,6 @@ AI + robotics is the only path to universal high income for everyone on Earth.
 **内容**:
 
 RT @TheBabylonBee: 'Well Done,' Says God To Man Who Spent Life Arguing In The Comments Section https://t.co/uqKumHhyVO
-
-[查看原文](https://x.com/elonmusk/status/2099462184015147138)
 
 ---
 
@@ -415,8 +405,6 @@ RT @teslaownersSV: Elon Musk on scaling AI beyond Earth.
 
 "To reach a terawatt of compute per year, we need about 10 million tons to orbit…
 
-[查看原文](https://x.com/elonmusk/status/2099464648869200245)
-
 ---
 
 ## 2026-09-14 19:53:28
@@ -429,7 +417,17 @@ RT @Tesla_AI: FSD Supervised v14.3.9 starting to roll out shortly
 
 This release includes a new active safety feature set: FSD Supervised ca…
 
-[查看原文](https://x.com/elonmusk/status/2099466559144054919)
+---
+
+## 2026-09-14 22:18:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+AI data centers resulting in lower electricity prices for consumers
+
+[查看原文](https://x.com/elonmusk/status/2099503167079674202)
 
 ---
 
