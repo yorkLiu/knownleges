@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2373 条推文
+> 📊 推文存档 - 共 2376 条推文
 
 ---
 
@@ -29,7 +29,45 @@ tags: ["2026"]
 
 Grok Bot watching Grok Bot. Tell me about yourself 😂
 
-[查看原文](https://x.com/elonmusk/status/2099919095692992742)
+---
+
+## 2026-09-16 02:19:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: SpaceX says they've made several upgrades to Starship's heatshield for test flight 14:
+
+The upgrades include additional…
+
+[查看原文](https://x.com/elonmusk/status/2099926010812850686)
+
+---
+
+## 2026-09-16 02:19:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX is currently targeting Starship Flight 14 for September 22 🚀
+
+And this flight is a huge step beyond everything Starship…
+
+[查看原文](https://x.com/elonmusk/status/2099926101887995983)
+
+---
+
+## 2026-09-16 02:23:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Next Starship flight on 9/22
+
+[查看原文](https://x.com/elonmusk/status/2099927224761881030)
 
 ---
 
