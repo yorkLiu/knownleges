@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 358 条推文
+> 📊 推文存档 - 共 359 条推文
+
+---
+
+## 2026-09-15 08:27:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【生命在於靜止】
+
+靜止即是拉長細胞分裂週期，延緩海弗里克極限的50次大限。
+
+端粒霉導致細胞太活躍了就是癌，所以「凡事太盡勢必早盡」。無為即可得常勢，常勢如水，不爭先但滔滔不絕。
+
+人怎麼既抗老化又防止癌變呢？一句話～清靜可長生。不二法門！ https://t.co/5vw65smGrv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILf2qolfmyQNQa9gUZNE_wwa75onWTAAJbEGsbWlFJVRCbdbY8rpvjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2099656316994388303)
 
 ---
 
