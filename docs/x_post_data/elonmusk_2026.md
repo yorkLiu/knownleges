@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2365 条推文
+> 📊 推文存档 - 共 2369 条推文
 
 ---
 
@@ -171,8 +171,6 @@ RT @cb_doge: The world’s richest man is living in an Airstream trailer in Memp
 
 RT @cb_doge: ELON MUSK: “Physics is a harsh judge. There’s no fooling physics. Physics is the law, and everything else is a recommendation.…
 
-[查看原文](https://x.com/elonmusk/status/2099735034101907462)
-
 ---
 
 ## 2026-09-15 13:48:26
@@ -182,8 +180,6 @@ RT @cb_doge: ELON MUSK: “Physics is a harsh judge. There’s no fooling physic
 **内容**:
 
 This is the way
-
-[查看原文](https://x.com/elonmusk/status/2099737081756930206)
 
 ---
 
@@ -195,10 +191,6 @@ This is the way
 
 4D-Chess https://t.co/GoKFP6OVph
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILhWqo4MLAnWlcH1yIFGhUS8gDt7qsAAJYEWsbWlFJVVMHeiqRbK_uAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2099737765260763348)
-
 ---
 
 ## 2026-09-15 13:52:40
@@ -208,10 +200,6 @@ This is the way
 **内容**:
 
 RT @kevin_smith45: This might be the best political chart ever made… https://t.co/x2HfC1V3uW
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILhGqo4MAQbkVv69tSEcdr6BT1tRWvAAJXEWsbWlFJVdrtytEcKJ1PAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2099738149278663057)
 
 ---
 
@@ -223,8 +211,6 @@ RT @kevin_smith45: This might be the best political chart ever made… https://t
 
 All-In
 
-[查看原文](https://x.com/elonmusk/status/2099739227499942339)
-
 ---
 
 ## 2026-09-15 13:58:13
@@ -235,8 +221,6 @@ All-In
 
 Physics is a harsh judge
 
-[查看原文](https://x.com/elonmusk/status/2099739543360438774)
-
 ---
 
 ## 2026-09-15 13:59:01
@@ -246,8 +230,6 @@ Physics is a harsh judge
 **内容**:
 
 Wow
-
-[查看原文](https://x.com/elonmusk/status/2099739744598962225)
 
 ---
 
@@ -261,7 +243,53 @@ RT @cb_doge: ELON MUSK: I saw some pretty funny jokes on 𝕏. One of them I saw
 
 'Your girlfriend's a 10, but she's a benchmark maxxer.'…
 
-[查看原文](https://x.com/elonmusk/status/2099739838786257174)
+---
+
+## 2026-09-15 14:12:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon just gave a much more practical explanation of the current AI safety problem....and laid out a practical framework for ma…
+
+[查看原文](https://x.com/elonmusk/status/2099743177087291406)
+
+---
+
+## 2026-09-15 14:15:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2099743954707067058)
+
+---
+
+## 2026-09-15 14:17:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Slovenia 🇸🇮 🙌
+
+[查看原文](https://x.com/elonmusk/status/2099744349017747493)
+
+---
+
+## 2026-09-15 14:19:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @altcap: Trump calling @JensenHuang live during @theallinpod interview. “The grt thing about Jensen is that he can create the best AI ch…
+
+[查看原文](https://x.com/elonmusk/status/2099744950116122692)
 
 ---
 
