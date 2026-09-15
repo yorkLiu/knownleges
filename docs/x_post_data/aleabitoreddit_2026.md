@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 452 条推文
+> 📊 推文存档 - 共 453 条推文
 
 ---
 
@@ -37,11 +37,23 @@ Some color on current memory environments for the $MU / $SKHY bros:
 
 - Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or https://t.co/n6aIMBuuHt
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILgGqopIJgWkFK_hsLa7yskK6Ae7pNAAJ0EGsbWlFJVSu9RHWs-5b8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILgWqopIRXDNv0RJ8gfpwyd9TN2oRPAAJ1EGsbWlFJVSzNpsjiBMMvAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-15 16:58:39
 
-[查看原文](https://x.com/aleabitoreddit/status/2099674926697545849)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+哇,中国的 AI 视频生成能力可能已经是世界第一了吧？字节跳动的 Seedance 也太强了, 强到让我开始担心…
+
+日本的动画师会不会很快就被 AI 取代？
+
+但想象一下你可以随时生成新的剧情,让故事一直延续下去, 想看多久就看多久
+
+这还挺酷的
+
+[查看原文](https://x.com/aleabitoreddit/status/2099784954444210243)
 
 ---
 
