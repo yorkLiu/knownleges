@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2389 条推文
+> 📊 推文存档 - 共 2390 条推文
 
 ---
 
@@ -197,8 +197,6 @@ RT @LauraBeckerReal: “Cisgender. It’s a way of marginalizing a normal person
 
 -Norm Macdonald
 
-[查看原文](https://x.com/elonmusk/status/2099956707078402272)
-
 ---
 
 ## 2026-09-16 04:31:39
@@ -209,7 +207,17 @@ RT @LauraBeckerReal: “Cisgender. It’s a way of marginalizing a normal person
 
 The solar power exponential will continue until all other energy sources are &lt;&lt;0.1%
 
-[查看原文](https://x.com/elonmusk/status/2099959353004720393)
+---
+
+## 2026-09-16 06:31:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We will work on this
+
+[查看原文](https://x.com/elonmusk/status/2099989432925585534)
 
 ---
 
