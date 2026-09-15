@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2349 条推文
+> 📊 推文存档 - 共 2352 条推文
 
 ---
 
@@ -65,8 +65,6 @@ RT @cb_doge: BREAKING: Every rural school in Neuquén, Argentina, is now connect
 
 Since 2024, the prov…
 
-[查看原文](https://x.com/elonmusk/status/2099584560614805943)
-
 ---
 
 ## 2026-09-15 03:59:50
@@ -77,7 +75,43 @@ Since 2024, the prov…
 
 Charge your Tesla Semi 😉
 
-[查看原文](https://x.com/elonmusk/status/2099588955796554233)
+---
+
+## 2026-09-15 11:44:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla self-driving is amazing
+
+[查看原文](https://x.com/elonmusk/status/2099705926332690482)
+
+---
+
+## 2026-09-15 11:50:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @theallinpod: MUST SEE: Amazing moment as President Trump calls Nvidia CEO Jensen Huang while he's on stage at the All-In Summit.
+
+@POTU…
+
+[查看原文](https://x.com/elonmusk/status/2099707354996527115)
+
+---
+
+## 2026-09-15 11:52:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @OcrazioCornPop: 🚨 GOVT CAUSED THE GREAT DEPRESSION: Milton Friedman describes how the Federal Reserve made the Great Depression much wo…
+
+[查看原文](https://x.com/elonmusk/status/2099707921848279259)
 
 ---
 

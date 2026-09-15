@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 66 条推文
+> 📊 推文存档 - 共 67 条推文
 
 ---
 
@@ -23,9 +23,25 @@ tags: ["2026"]
 
 真正重要的，不是加不加，而是加几次。 https://t.co/Qjx6gKcN76
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILfWqoIbNxMdnpsgk1q_jYo8Y-WOEsAAKZFWsbWlFBVV9WjlEEqhG4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/JonathanDi3614/status/2099533497778225274)
+## 2026-09-15 12:03:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+市场在等，全球在震，等的是那只靴子落地。
+区区回撤，下午继续布局
+加，会涨。不加，也会涨。这种短线节奏，正是量化最喜欢的狩猎场——波动够大，方向不明，算法收割起来毫不费力。
+
+科技股这边，玩的是真心话大冒险。谁先踩刹车，谁就出局。别听嘴炮，只看产品和订单。验证，才是唯一的通行证。 https://t.co/mEVBSjXmkO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILgmqow66Z-kTN4bLaAkv4QQxk_YWrAAKuEGsbWlFJVaxxnmtwZmuVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILg2qow7LSXsFI2hE1FdWd0UUlk0jGAAKvEGsbWlFJVdl9VkNszESXAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2099710608560230624)
 
 ---
 
