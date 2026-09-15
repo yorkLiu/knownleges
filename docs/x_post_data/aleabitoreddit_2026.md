@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 453 条推文
+> 📊 推文存档 - 共 454 条推文
 
 ---
 
@@ -53,7 +53,25 @@ Some color on current memory environments for the $MU / $SKHY bros:
 
 这还挺酷的
 
-[查看原文](https://x.com/aleabitoreddit/status/2099784954444210243)
+---
+
+## 2026-09-15 20:00:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$CCXI releases their Digit 5 next-generation humanoid.
+
+Thoughts? https://t.co/r0Gb05cnd5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILmmqpN_ZicvLKXIq08aTsYwtV9VSrAAKmEmsbWlFJVYiDEbBAjrcnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILm2qpN_qZB7hLEqzeTxgTjY4rrKtxAAKnEmsbWlFJVRG1PNy5HasYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILnGqpN_2AXEwROX8ycmaaRGeuZ9AFAAKoEmsbWlFJVYcW07R1TNFeAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2099830591663513642)
 
 ---
 
