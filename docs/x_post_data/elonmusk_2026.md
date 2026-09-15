@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2387 条推文
+> 📊 推文存档 - 共 2389 条推文
 
 ---
 
@@ -107,8 +107,6 @@ RT @bot: Three SpaceXAI employees are building a company in 3 days with Grok Bot
 
 Matt Palmer (@mattyp), Lauren Tan (@potet…
 
-[查看原文](https://x.com/elonmusk/status/2099945093902086287)
-
 ---
 
 ## 2026-09-16 03:40:13
@@ -121,8 +119,6 @@ Blizzard’s inability to solve the login problem on their product launch day re
 
 https://t.co/sNtP0k2ojO
 
-[查看原文](https://x.com/elonmusk/status/2099946406345937242)
-
 ---
 
 ## 2026-09-16 03:40:59
@@ -132,8 +128,6 @@ https://t.co/sNtP0k2ojO
 **内容**:
 
 When the people who knew how to make the machine work are gone, the machine stops working
-
-[查看原文](https://x.com/elonmusk/status/2099946602295378125)
 
 ---
 
@@ -147,8 +141,6 @@ RT @WallStreetMav: I have used my X Money virtual Visa card, via my iPhone walle
 
 This app has come a long…
 
-[查看原文](https://x.com/elonmusk/status/2099947189254717951)
-
 ---
 
 ## 2026-09-16 03:50:22
@@ -158,8 +150,6 @@ This app has come a long…
 **内容**:
 
 Try @Grok @Bot
-
-[查看原文](https://x.com/elonmusk/status/2099948962400874950)
 
 ---
 
@@ -175,8 +165,6 @@ So we built one.
 
 In just…
 
-[查看原文](https://x.com/elonmusk/status/2099949235026505745)
-
 ---
 
 ## 2026-09-16 04:00:14
@@ -186,8 +174,6 @@ In just…
 **内容**:
 
 RT @aaronburnett: What’s crazy is that this bandwidth growth is well known but it’s likely impact is totally dismissed at the same time.…
-
-[查看原文](https://x.com/elonmusk/status/2099951447526002993)
 
 ---
 
@@ -199,7 +185,31 @@ RT @aaronburnett: What’s crazy is that this bandwidth growth is well known but
 
 RT @SawyerMerritt: Love seeing government officials actually trying @Tesla FSD (Supervised). Here's the Deputy Prime Minister of Slovenia u…
 
-[查看原文](https://x.com/elonmusk/status/2099951527133860142)
+---
+
+## 2026-09-16 04:21:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @LauraBeckerReal: “Cisgender. It’s a way of marginalizing a normal person” 
+
+-Norm Macdonald
+
+[查看原文](https://x.com/elonmusk/status/2099956707078402272)
+
+---
+
+## 2026-09-16 04:31:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The solar power exponential will continue until all other energy sources are &lt;&lt;0.1%
+
+[查看原文](https://x.com/elonmusk/status/2099959353004720393)
 
 ---
 
