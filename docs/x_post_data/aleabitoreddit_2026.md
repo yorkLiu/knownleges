@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 451 条推文
+> 📊 推文存档 - 共 452 条推文
 
 ---
 
@@ -23,7 +23,25 @@ As well Cramer calling $CRWD a "Must Buy".
 
 I'm not sure if Jim Cramer sees a $241B company  labelled "Cybersecurity" and thinks of it as
 
-[查看原文](https://x.com/aleabitoreddit/status/2099659874892386678)
+---
+
+## 2026-09-15 09:41:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Some color on current memory environments for the $MU / $SKHY bros:
+
+"There is zero risk of memory prices dropping" per Team Group GM Gerry Chen. 
+
+- Memory module makers have received notices warning of drastic cuts to their 2027 supply allocations. Some could receive 50% or https://t.co/n6aIMBuuHt
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILgGqopIJgWkFK_hsLa7yskK6Ae7pNAAJ0EGsbWlFJVSu9RHWs-5b8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILgWqopIRXDNv0RJ8gfpwyd9TN2oRPAAJ1EGsbWlFJVSzNpsjiBMMvAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2099674926697545849)
 
 ---
 
