@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2376 条推文
+> 📊 推文存档 - 共 2378 条推文
 
 ---
 
@@ -41,8 +41,6 @@ RT @SawyerMerritt: SpaceX says they've made several upgrades to Starship's heats
 
 The upgrades include additional…
 
-[查看原文](https://x.com/elonmusk/status/2099926010812850686)
-
 ---
 
 ## 2026-09-16 02:19:32
@@ -55,8 +53,6 @@ RT @XFreeze: SpaceX is currently targeting Starship Flight 14 for September 22 �
 
 And this flight is a huge step beyond everything Starship…
 
-[查看原文](https://x.com/elonmusk/status/2099926101887995983)
-
 ---
 
 ## 2026-09-16 02:23:59
@@ -67,7 +63,31 @@ And this flight is a huge step beyond everything Starship…
 
 Next Starship flight on 9/22
 
-[查看原文](https://x.com/elonmusk/status/2099927224761881030)
+---
+
+## 2026-09-16 02:44:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Solar is so obviously the future
+
+[查看原文](https://x.com/elonmusk/status/2099932353678467575)
+
+---
+
+## 2026-09-16 02:50:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink V3 constellation starts being deployed this month. 
+
+Ultimately, it will deliver more than 100 times the bandwidth of our current 11,000 satellite constellation.
+
+[查看原文](https://x.com/elonmusk/status/2099933912697127398)
 
 ---
 
