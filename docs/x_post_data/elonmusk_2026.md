@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2378 条推文
+> 📊 推文存档 - 共 2379 条推文
 
 ---
 
@@ -73,8 +73,6 @@ Next Starship flight on 9/22
 
 Solar is so obviously the future
 
-[查看原文](https://x.com/elonmusk/status/2099932353678467575)
-
 ---
 
 ## 2026-09-16 02:50:34
@@ -87,7 +85,17 @@ Starlink V3 constellation starts being deployed this month.
 
 Ultimately, it will deliver more than 100 times the bandwidth of our current 11,000 satellite constellation.
 
-[查看原文](https://x.com/elonmusk/status/2099933912697127398)
+---
+
+## 2026-09-16 03:32:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JackPosobiec: He assimilated in minutes
+
+[查看原文](https://x.com/elonmusk/status/2099944500785451397)
 
 ---
 
