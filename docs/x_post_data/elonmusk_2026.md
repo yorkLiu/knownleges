@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2352 条推文
+> 📊 推文存档 - 共 2353 条推文
 
 ---
 
@@ -85,8 +85,6 @@ Charge your Tesla Semi 😉
 
 Tesla self-driving is amazing
 
-[查看原文](https://x.com/elonmusk/status/2099705926332690482)
-
 ---
 
 ## 2026-09-15 11:50:18
@@ -99,8 +97,6 @@ RT @theallinpod: MUST SEE: Amazing moment as President Trump calls Nvidia CEO Je
 
 @POTU…
 
-[查看原文](https://x.com/elonmusk/status/2099707354996527115)
-
 ---
 
 ## 2026-09-15 11:52:33
@@ -111,7 +107,17 @@ RT @theallinpod: MUST SEE: Amazing moment as President Trump calls Nvidia CEO Je
 
 RT @OcrazioCornPop: 🚨 GOVT CAUSED THE GREAT DEPRESSION: Milton Friedman describes how the Federal Reserve made the Great Depression much wo…
 
-[查看原文](https://x.com/elonmusk/status/2099707921848279259)
+---
+
+## 2026-09-15 12:20:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot summary
+
+[查看原文](https://x.com/elonmusk/status/2099714967113015716)
 
 ---
 
