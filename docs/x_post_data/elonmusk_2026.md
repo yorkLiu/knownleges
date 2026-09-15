@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2369 条推文
+> 📊 推文存档 - 共 2371 条推文
 
 ---
 
@@ -253,8 +253,6 @@ RT @cb_doge: ELON MUSK: I saw some pretty funny jokes on 𝕏. One of them I saw
 
 RT @XFreeze: Elon just gave a much more practical explanation of the current AI safety problem....and laid out a practical framework for ma…
 
-[查看原文](https://x.com/elonmusk/status/2099743177087291406)
-
 ---
 
 ## 2026-09-15 14:15:44
@@ -264,8 +262,6 @@ RT @XFreeze: Elon just gave a much more practical explanation of the current AI 
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2099743954707067058)
 
 ---
 
@@ -277,8 +273,6 @@ True
 
 Slovenia 🇸🇮 🙌
 
-[查看原文](https://x.com/elonmusk/status/2099744349017747493)
-
 ---
 
 ## 2026-09-15 14:19:42
@@ -289,7 +283,33 @@ Slovenia 🇸🇮 🙌
 
 RT @altcap: Trump calling @JensenHuang live during @theallinpod interview. “The grt thing about Jensen is that he can create the best AI ch…
 
-[查看原文](https://x.com/elonmusk/status/2099744950116122692)
+---
+
+## 2026-09-15 22:59:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Live demo of building a company with @Grok @Bot!
+
+[查看原文](https://x.com/elonmusk/status/2099875660290228642)
+
+---
+
+## 2026-09-15 23:13:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattyp: Ever wake up and want to build a company?
+
+I'm building one today with @poteto &amp; @roshan_s 
+
+https://t.co/O0kyTtIFq1
+
+[查看原文](https://x.com/elonmusk/status/2099879361348297125)
 
 ---
 
