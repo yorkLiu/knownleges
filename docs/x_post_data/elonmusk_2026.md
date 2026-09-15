@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2353 条推文
+> 📊 推文存档 - 共 2357 条推文
 
 ---
 
@@ -117,7 +117,57 @@ RT @OcrazioCornPop: 🚨 GOVT CAUSED THE GREAT DEPRESSION: Milton Friedman descr
 
 Grok @Bot summary
 
-[查看原文](https://x.com/elonmusk/status/2099714967113015716)
+---
+
+## 2026-09-15 12:37:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @chamath: This was surreal
+
+[查看原文](https://x.com/elonmusk/status/2099719319185703251)
+
+---
+
+## 2026-09-15 12:38:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @adamcarolla: I thought white supremacy was the big issue
+
+[查看原文](https://x.com/elonmusk/status/2099719552451981623)
+
+---
+
+## 2026-09-15 12:56:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wintonARK: Sadly, California is the only state in the union that prohibits insurers from pricing based on how people actually drive.
+
+S…
+
+[查看原文](https://x.com/elonmusk/status/2099724086112907752)
+
+---
+
+## 2026-09-15 12:57:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: The world’s richest man is living in an Airstream trailer in Memphis.
+
+“This is Elon, by the way, doing what people don’t beli…
+
+[查看原文](https://x.com/elonmusk/status/2099724139791548928)
 
 ---
 
