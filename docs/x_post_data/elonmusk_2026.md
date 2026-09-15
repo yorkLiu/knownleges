@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2357 条推文
+> 📊 推文存档 - 共 2365 条推文
 
 ---
 
@@ -127,8 +127,6 @@ Grok @Bot summary
 
 RT @chamath: This was surreal
 
-[查看原文](https://x.com/elonmusk/status/2099719319185703251)
-
 ---
 
 ## 2026-09-15 12:38:46
@@ -138,8 +136,6 @@ RT @chamath: This was surreal
 **内容**:
 
 RT @adamcarolla: I thought white supremacy was the big issue
-
-[查看原文](https://x.com/elonmusk/status/2099719552451981623)
 
 ---
 
@@ -153,8 +149,6 @@ RT @wintonARK: Sadly, California is the only state in the union that prohibits i
 
 S…
 
-[查看原文](https://x.com/elonmusk/status/2099724086112907752)
-
 ---
 
 ## 2026-09-15 12:57:00
@@ -167,7 +161,107 @@ RT @cb_doge: The world’s richest man is living in an Airstream trailer in Memp
 
 “This is Elon, by the way, doing what people don’t beli…
 
-[查看原文](https://x.com/elonmusk/status/2099724139791548928)
+---
+
+## 2026-09-15 13:40:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: ELON MUSK: “Physics is a harsh judge. There’s no fooling physics. Physics is the law, and everything else is a recommendation.…
+
+[查看原文](https://x.com/elonmusk/status/2099735034101907462)
+
+---
+
+## 2026-09-15 13:48:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the way
+
+[查看原文](https://x.com/elonmusk/status/2099737081756930206)
+
+---
+
+## 2026-09-15 13:51:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+4D-Chess https://t.co/GoKFP6OVph
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILhWqo4MLAnWlcH1yIFGhUS8gDt7qsAAJYEWsbWlFJVVMHeiqRbK_uAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2099737765260763348)
+
+---
+
+## 2026-09-15 13:52:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kevin_smith45: This might be the best political chart ever made… https://t.co/x2HfC1V3uW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILhGqo4MAQbkVv69tSEcdr6BT1tRWvAAJXEWsbWlFJVdrtytEcKJ1PAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2099738149278663057)
+
+---
+
+## 2026-09-15 13:56:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All-In
+
+[查看原文](https://x.com/elonmusk/status/2099739227499942339)
+
+---
+
+## 2026-09-15 13:58:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Physics is a harsh judge
+
+[查看原文](https://x.com/elonmusk/status/2099739543360438774)
+
+---
+
+## 2026-09-15 13:59:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+[查看原文](https://x.com/elonmusk/status/2099739744598962225)
+
+---
+
+## 2026-09-15 13:59:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: ELON MUSK: I saw some pretty funny jokes on 𝕏. One of them I saw was:
+
+'Your girlfriend's a 10, but she's a benchmark maxxer.'…
+
+[查看原文](https://x.com/elonmusk/status/2099739838786257174)
 
 ---
 
