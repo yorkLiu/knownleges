@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2404 条推文
+> 📊 推文存档 - 共 2406 条推文
+
+---
+
+## 2026-09-17 02:51:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Only Grok is the most neutral AI....literally
+
+And this has been consistent across different neutrality and political-bias tes…
+
+[查看原文](https://x.com/elonmusk/status/2100296496310812884)
+
+---
+
+## 2026-09-17 02:52:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Watch a company being built live with @Grok @Bot!
+
+[查看原文](https://x.com/elonmusk/status/2100296847344783441)
 
 ---
 
