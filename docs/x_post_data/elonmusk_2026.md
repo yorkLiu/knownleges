@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2391 条推文
+> 📊 推文存档 - 共 2393 条推文
 
 ---
 
@@ -227,7 +227,29 @@ We will work on this
 
 RT @Erdayastronaut: Finally!!! A proper orbital attempt! Important note is that they won't be targeting orbit at SECO. They will only attem…
 
-[查看原文](https://x.com/elonmusk/status/2100008444606685317)
+---
+
+## 2026-09-16 11:52:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2100070216902594669)
+
+---
+
+## 2026-09-16 12:17:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tetsuoai: SpaceXAI engineer Lingxi Li, @lingxi, runs code cleanup while everyone else is asleep. Nobody is shipping at 3 AM, so conflic…
+
+[查看原文](https://x.com/elonmusk/status/2100076597831491742)
 
 ---
 
