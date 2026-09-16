@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2396 条推文
+> 📊 推文存档 - 共 2400 条推文
 
 ---
 
@@ -259,8 +259,6 @@ RT @Tesla_India: Your Tesla keeps getting safer.
 
 We push over-the-air updates remotely at no cost and with no service visit needed https…
 
-[查看原文](https://x.com/elonmusk/status/2100080430347378799)
-
 ---
 
 ## 2026-09-16 12:33:10
@@ -275,8 +273,6 @@ There are basically two problems:
 
 • Geopoli…
 
-[查看原文](https://x.com/elonmusk/status/2100080529593028699)
-
 ---
 
 ## 2026-09-16 12:44:07
@@ -287,7 +283,55 @@ There are basically two problems:
 
 Grok Build
 
-[查看原文](https://x.com/elonmusk/status/2100083283757584858)
+---
+
+## 2026-09-16 12:52:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2100085414161965074)
+
+---
+
+## 2026-09-16 12:52:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: The Government of Zambia has launched a three-year @Starlink powered digital learning programme for 70 schools. 🇿🇲…
+
+[查看原文](https://x.com/elonmusk/status/2100085464766226684)
+
+---
+
+## 2026-09-16 12:54:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂🎯
+
+[查看原文](https://x.com/elonmusk/status/2100085873807364122)
+
+---
+
+## 2026-09-16 12:54:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @StarbaseTX: Join us this Saturday at 9 AM for International Coastal Cleanup Day, and help take care of Boca Chica Beach.
+
+The City of S…
+
+[查看原文](https://x.com/elonmusk/status/2100085997300293870)
 
 ---
 
