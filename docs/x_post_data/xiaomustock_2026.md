@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 362 条推文
+> 📊 推文存档 - 共 363 条推文
+
+---
+
+## 2026-09-17 03:22:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+美联储明确了加息25基点，并暗示未来还将继续加息。集体下跌了一段。 https://t.co/BBn8fF6xfY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILqWqq8zzivxqvTb1mh410rdZDwaA_AAKsFWsbhOxQVW_GyNOmN7nLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100304407674101831)
 
 ---
 
