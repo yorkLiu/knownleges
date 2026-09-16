@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2393 条推文
+> 📊 推文存档 - 共 2396 条推文
 
 ---
 
@@ -237,8 +237,6 @@ RT @Erdayastronaut: Finally!!! A proper orbital attempt! Important note is that 
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2100070216902594669)
-
 ---
 
 ## 2026-09-16 12:17:33
@@ -249,7 +247,47 @@ True
 
 RT @tetsuoai: SpaceXAI engineer Lingxi Li, @lingxi, runs code cleanup while everyone else is asleep. Nobody is shipping at 3 AM, so conflic…
 
-[查看原文](https://x.com/elonmusk/status/2100076597831491742)
+---
+
+## 2026-09-16 12:32:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla_India: Your Tesla keeps getting safer.  
+
+We push over-the-air updates remotely at no cost and with no service visit needed https…
+
+[查看原文](https://x.com/elonmusk/status/2100080430347378799)
+
+---
+
+## 2026-09-16 12:33:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon just gave one of the clearest explanations yet for why Terafab has to exist
+
+There are basically two problems:
+
+• Geopoli…
+
+[查看原文](https://x.com/elonmusk/status/2100080529593028699)
+
+---
+
+## 2026-09-16 12:44:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build
+
+[查看原文](https://x.com/elonmusk/status/2100083283757584858)
 
 ---
 
