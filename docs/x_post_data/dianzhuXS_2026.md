@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 363 条推文
+> 📊 推文存档 - 共 364 条推文
 
 ---
 
@@ -19,7 +19,21 @@ tags: ["2026"]
 
 萬一零件匹配，或者熊貓血呢？算「自己作死」嗎？
 
-[查看原文](https://x.com/dianzhuXS/status/2100011056991260914)
+---
+
+## 2026-09-16 08:24:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天收到一位老朋友關於子女的咨詢，看了之後，覺得需要提醒一下大家。
+
+本月是「丁酉」月，所有己土日元和少數戊土日元的人，都是「梟神奪食」，人容易犯迷糊，不宜做任何重大決定，請周知😮‍💨😮‍💨😮‍💨 https://t.co/spnMsS3fVO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILoGqp5l42Wv7GJWMSLBuuJLMMCDfyAAL7EWsbhOxIVVKNCKbyYSuMAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2100018037990785178)
 
 ---
 
