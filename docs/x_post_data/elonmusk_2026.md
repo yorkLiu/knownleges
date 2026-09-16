@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2401 条推文
+> 📊 推文存档 - 共 2404 条推文
 
 ---
 
@@ -337,7 +337,47 @@ RT @boringcompany: Prufrock-5 finishing a test-tunnel in Bastrop, Texas.
 
 The ~900,000 lb boring machine will re-launch in November. htt…
 
-[查看原文](https://x.com/elonmusk/status/2100190803352302063)
+---
+
+## 2026-09-16 23:24:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: I had @bot go through my emails and unsubscribe from recurring payments, TV streaming, and media. 
+
+It works by getting to…
+
+[查看原文](https://x.com/elonmusk/status/2100244406905528632)
+
+---
+
+## 2026-09-16 23:25:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX’s Starlink satellites performed 207,152 proactive collision-avoidance maneuvers in just six months.
+
+The adva…
+
+[查看原文](https://x.com/elonmusk/status/2100244648266707135)
+
+---
+
+## 2026-09-16 23:25:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SquawkCNBC: Ron Baron gives his take on Tesla, @elonmusk, inflation &amp; overall markets: https://t.co/LkD179GrmN https://t.co/jrRwL1fe27
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILpWqquRpNG-YrYAStIA8QjF0kfdhOAAJ9FWsbhOxQVRz5CVZMlzCAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100244802466140199)
 
 ---
 
