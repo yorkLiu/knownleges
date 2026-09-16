@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2400 条推文
+> 📊 推文存档 - 共 2401 条推文
 
 ---
 
@@ -293,8 +293,6 @@ Grok Build
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2100085414161965074)
-
 ---
 
 ## 2026-09-16 12:52:47
@@ -305,8 +303,6 @@ True
 
 RT @cb_doge: BREAKING: The Government of Zambia has launched a three-year @Starlink powered digital learning programme for 70 schools. 🇿🇲…
 
-[查看原文](https://x.com/elonmusk/status/2100085464766226684)
-
 ---
 
 ## 2026-09-16 12:54:24
@@ -316,8 +312,6 @@ RT @cb_doge: BREAKING: The Government of Zambia has launched a three-year @Starl
 **内容**:
 
 😂🎯
-
-[查看原文](https://x.com/elonmusk/status/2100085873807364122)
 
 ---
 
@@ -331,7 +325,19 @@ RT @StarbaseTX: Join us this Saturday at 9 AM for International Coastal Cleanup 
 
 The City of S…
 
-[查看原文](https://x.com/elonmusk/status/2100085997300293870)
+---
+
+## 2026-09-16 19:51:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @boringcompany: Prufrock-5 finishing a test-tunnel in Bastrop, Texas.   
+
+The ~900,000 lb boring machine will re-launch in November. htt…
+
+[查看原文](https://x.com/elonmusk/status/2100190803352302063)
 
 ---
 
