@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2390 条推文
+> 📊 推文存档 - 共 2391 条推文
 
 ---
 
@@ -217,7 +217,17 @@ The solar power exponential will continue until all other energy sources are &lt
 
 We will work on this
 
-[查看原文](https://x.com/elonmusk/status/2099989432925585534)
+---
+
+## 2026-09-16 07:46:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Erdayastronaut: Finally!!! A proper orbital attempt! Important note is that they won't be targeting orbit at SECO. They will only attem…
+
+[查看原文](https://x.com/elonmusk/status/2100008444606685317)
 
 ---
 
