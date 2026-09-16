@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 369 条推文
+> 📊 推文存档 - 共 370 条推文
 
 ---
 
@@ -55,7 +55,25 @@ tags: ["2026"]
 
 信😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2100314588810269168)
+---
+
+## 2026-09-17 07:50:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+以前我以為這是歲月靜好長脖老等
+
+後來我以為這是老王八幫共匪韭菜
+
+現在我終於否定了我自己的觀點
+
+這就是個～精神病😮‍💨😮‍💨😮‍💨 https://t.co/MAvmG1HveV
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILqmqrLWGKfV0RFXmn6YMiqCqzQmiGAALBEWsbhOxYVc3Jry22v3ExAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2100371833489101131)
 
 ---
 
