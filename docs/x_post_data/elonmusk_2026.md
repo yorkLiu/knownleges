@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2420 条推文
+> 📊 推文存档 - 共 2421 条推文
 
 ---
 
@@ -187,9 +187,17 @@ RT @ArthurMacwaters: Just to recap the last week
 
 RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/Rwc9UkZVkp
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILtWqroaanxR5ng0czqWzT0_SGlNxXAAI4F2sbo75YVUc6mXL8LlLOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2100494603354784185)
+## 2026-09-17 16:24:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2100501250009686419)
 
 ---
 
