@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2421 条推文
+> 📊 推文存档 - 共 2429 条推文
 
 ---
 
@@ -197,7 +197,116 @@ RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You dro
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2100501250009686419)
+---
+
+## 2026-09-17 21:56:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nickshirleyy: 🚨 Welcome to the $15 billion California High Speed Rail to nowhere:
+Since 2008 California has spent $15 billion and has n…
+
+[查看原文](https://x.com/elonmusk/status/2100584793851224361)
+
+---
+
+## 2026-09-17 21:58:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @zerohedge: Dragged Off Her Own Porch: York College Students Beaten After Five 911 Calls - And A National Pattern Of Youth Street Mobs h…
+
+[查看原文](https://x.com/elonmusk/status/2100585163285532766)
+
+---
+
+## 2026-09-17 21:59:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WallStreetApes: This insane: California and China both started their High Speed Rail projects in 2008
+
+- California hasn’t completed a…
+
+[查看原文](https://x.com/elonmusk/status/2100585497886134542)
+
+---
+
+## 2026-09-17 22:01:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Final day of Grok Bot Galaxy starts in next few few hours 
+
+Day 3 — September 17
+
+• 9:00–10:30 AM — Grok Bot for Marketing Ope…
+
+[查看原文](https://x.com/elonmusk/status/2100585947452567859)
+
+---
+
+## 2026-09-17 22:04:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FischerKing64: Colleges and universities are so much more expensive because parasites called ‘administrators’ must all get paid. At the…
+
+[查看原文](https://x.com/elonmusk/status/2100586685134147730)
+
+---
+
+## 2026-09-17 22:10:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Falcon 9 launches USSF-259 to orbit from pad 4E in California https://t.co/eKB269BlYE
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILu2qr-NsXAg9vn7G_w6JCexn09Fu1AAKyEmsbo75gVVgX_g2ybb0SAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILvGqr-N7ImD2n613qLppXm0dT8KOdAAKzEmsbo75gVXZJEQHkmZvoAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILvWqr-OFWfM28iQdklP1tb1BRZC1VAAK0Emsbo75gVdUYjs_eihfcAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILvmqr-OTkWB-i7sYc5diITvXsqicXAAK1Emsbo75gVbz74yiZNBE-AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100588093325594881)
+
+---
+
+## 2026-09-17 22:15:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I love you
+
+[查看原文](https://x.com/elonmusk/status/2100589562191863914)
+
+---
+
+## 2026-09-17 22:19:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s amazing how damaging a single false premise (the blank slate fallacy) can be for humans. Same holds true for AI.
+
+[查看原文](https://x.com/elonmusk/status/2100590521831804986)
 
 ---
 
