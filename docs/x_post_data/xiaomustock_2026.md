@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 368 条推文
+> 📊 推文存档 - 共 369 条推文
 
 ---
 
@@ -53,10 +53,6 @@ openai的下一代模型应该是实现了RSI自进化
 木头姐的投资水平很烂，可以说是一坨屎。
 她找的标的可以参考参考，操作就算了，能亏的裤衩子都不剩。感觉她一直在跟投行ipo做屁眼交易。 https://t.co/Tfof3bqpXq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILs2qrkx9ylfNNFIRC4yPmpW6EtUOAAAKMEmsbhOxYVdIPWK76fW_WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2100477844799574072)
-
 ---
 
 ## 2026-09-17 14:59:08
@@ -67,10 +63,6 @@ openai的下一代模型应该是实现了RSI自进化
 
 minimax这种120亿美金的世界大模型公司去哪里找，
 而且能开源本地部署保护隐私。 https://t.co/uMwoBE3s36
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILsmqrkxwZqCLa7RLbB4et44m7nnsjAAKLEmsbhOxYVYAnHHa6p6InAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2100479652813066577)
 
 ---
 
@@ -86,7 +78,23 @@ minimax这种120亿美金的世界大模型公司去哪里找，
 加息直接暴涨，降息直接暴跌。
 市场麻瓜太多了，居然砸盘了昨天。
 
-[查看原文](https://x.com/xiaomustock/status/2100482996193394771)
+---
+
+## 2026-09-17 17:07:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+持续加息不必然导致市场崩盘，
+最直观的例子是上世纪90年代的互联网技术爆发期，那个年代利息长期高达10%以上。
+
+相似之处是这个时代的AI技术对人类的影响不亚于互联网技术。
+未来真的很难看懂会怎么变化，尤其是身处这种前所未有的变革面前。 https://t.co/Oi61viR49C
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILtmqrsC1Ay9_cpHWsyOGlX_mQtgEVAAJUF2sbo75YVdh7ulQVgt1HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100512071603667433)
 
 ---
 
