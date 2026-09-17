@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2430 条推文
+> 📊 推文存档 - 共 2431 条推文
 
 ---
 
@@ -296,7 +296,21 @@ RT @MiltonFriedmanW: Milton Friedman: “I am not a conservative. I’ve never b
 
 “We are lib…
 
-[查看原文](https://x.com/elonmusk/status/2100592762835870082)
+---
+
+## 2026-09-17 22:59:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: The attention to detail Tesla put into the Cybercab is pretty amazing. 
+
+It’s around 7:40 in the morning.
+
+I’m sitting h…
+
+[查看原文](https://x.com/elonmusk/status/2100600496901738698)
 
 ---
 
