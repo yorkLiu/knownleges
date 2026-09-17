@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 369 条推文
+> 📊 推文存档 - 共 370 条推文
 
 ---
 
@@ -92,9 +92,19 @@ minimax这种120亿美金的世界大模型公司去哪里找，
 相似之处是这个时代的AI技术对人类的影响不亚于互联网技术。
 未来真的很难看懂会怎么变化，尤其是身处这种前所未有的变革面前。 https://t.co/Oi61viR49C
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILtmqrsC1Ay9_cpHWsyOGlX_mQtgEVAAJUF2sbo75YVdh7ulQVgt1HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2100512071603667433)
+## 2026-09-17 21:19:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+留了crcl，其他的盘前跑完了，下次再搞了。 https://t.co/NPCZA5bpyO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILuWqr6k9Ib964lflA1PdjY74ObeLQAAKZEmsbo75gVSZmkX1ON47TAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100575274719183186)
 
 ---
 
