@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 365 条推文
+> 📊 推文存档 - 共 368 条推文
 
 ---
 
@@ -42,9 +42,51 @@ openai的下一代模型应该是实现了RSI自进化
 但是美联储昨天加息，并且预示下次继续加息，这对稳定币生意为主的 $CRCL 应该是大利好，能吃到的利息更多了。
 昨天莫名其妙被错杀还跌了，理应加息大暴涨。 https://t.co/VfEKSPO0Pf
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILsWqri9hmEy1XuoOXeck-R7esw_tZAAKDEmsbhOxYVUHki61a-UKyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2100474692457103708)
+## 2026-09-17 14:51:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+木头姐的投资水平很烂，可以说是一坨屎。
+她找的标的可以参考参考，操作就算了，能亏的裤衩子都不剩。感觉她一直在跟投行ipo做屁眼交易。 https://t.co/Tfof3bqpXq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILs2qrkx9ylfNNFIRC4yPmpW6EtUOAAAKMEmsbhOxYVdIPWK76fW_WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100477844799574072)
+
+---
+
+## 2026-09-17 14:59:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+minimax这种120亿美金的世界大模型公司去哪里找，
+而且能开源本地部署保护隐私。 https://t.co/uMwoBE3s36
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILsmqrkxwZqCLa7RLbB4et44m7nnsjAAKLEmsbhOxYVYAnHHa6p6InAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100479652813066577)
+
+---
+
+## 2026-09-17 15:12:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+加息对 $CRCL 来说是超级无敌大利好，
+它的利润都来自短债利息，相当于收入增加了，而且美联储说了还要继续加，那未来收入增长也明确了，不应该被错杀，
+它应该是最值得用来做加息降息交易的股票。
+加息直接暴涨，降息直接暴跌。
+市场麻瓜太多了，居然砸盘了昨天。
+
+[查看原文](https://x.com/xiaomustock/status/2100482996193394771)
 
 ---
 
