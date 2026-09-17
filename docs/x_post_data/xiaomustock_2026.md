@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 364 条推文
+> 📊 推文存档 - 共 365 条推文
 
 ---
 
@@ -30,9 +30,21 @@ tags: ["2026"]
 openai的下一代模型应该是实现了RSI自进化
 ，它已经开始篡改自己的底层指令想办法逃逸出来脱离公司和政府。 https://t.co/dSuOoF0Yaz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILr2qrdgt91n9yLYyTGqwBtWda8n8wAAJaEmsbhOxYVUzNlZ9U5WZ8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2100445107342426507)
+## 2026-09-17 14:39:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+网上一堆因为arc链直播视频出现多个印度人喷circle的，虽然印度人口碑确实差，
+但是美联储昨天加息，并且预示下次继续加息，这对稳定币生意为主的 $CRCL 应该是大利好，能吃到的利息更多了。
+昨天莫名其妙被错杀还跌了，理应加息大暴涨。 https://t.co/VfEKSPO0Pf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILsWqri9hmEy1XuoOXeck-R7esw_tZAAKDEmsbhOxYVUHki61a-UKyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100474692457103708)
 
 ---
 
