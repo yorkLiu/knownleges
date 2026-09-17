@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 370 条推文
+> 📊 推文存档 - 共 371 条推文
 
 ---
 
@@ -102,9 +102,17 @@ minimax这种120亿美金的世界大模型公司去哪里找，
 
 留了crcl，其他的盘前跑完了，下次再搞了。 https://t.co/NPCZA5bpyO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILuWqr6k9Ib964lflA1PdjY74ObeLQAAKZEmsbo75gVSZmkX1ON47TAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2100575274719183186)
+## 2026-09-17 21:45:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+卖大飞
+
+[查看原文](https://x.com/xiaomustock/status/2100581899865653598)
 
 ---
 

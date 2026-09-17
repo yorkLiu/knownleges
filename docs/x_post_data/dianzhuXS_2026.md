@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 372 条推文
+> 📊 推文存档 - 共 373 条推文
 
 ---
 
@@ -91,9 +91,17 @@ tags: ["2026"]
 
 揭秘，泡發了兩天，豪華版豬腳醋😋😋😋 https://t.co/dZmUdxeTIU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILt2qrsDVn8iyLWBdm0yEyo3rcXtsxAAJVF2sbo75YVa6Cp_TpMXIhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2100513958528758038)
+## 2026-09-17 21:42:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+精神病國實錘了😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://x.com/dianzhuXS/status/2100581083784061293)
 
 ---
 
