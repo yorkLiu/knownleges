@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2412 条推文
+> 📊 推文存档 - 共 2414 条推文
 
 ---
 
@@ -99,7 +99,31 @@ RT @JTLonsdale: Wow. Got them dead to rights.
 
 A main fundraising apparatus of the left was consistently and knowingly breaking the law, an…
 
-[查看原文](https://x.com/elonmusk/status/2100407887747272869)
+---
+
+## 2026-09-17 12:45:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NASAAdmin: The Moon is not the finish line. It’s the next starting point.
+
+There is a lot we can do with the resources already on the M…
+
+[查看原文](https://x.com/elonmusk/status/2100445938128982219)
+
+---
+
+## 2026-09-17 12:49:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink V5 terminal is in production
+
+[查看原文](https://x.com/elonmusk/status/2100447103927353423)
 
 ---
 
