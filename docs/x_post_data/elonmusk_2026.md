@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2411 条推文
+> 📊 推文存档 - 共 2412 条推文
 
 ---
 
@@ -87,7 +87,19 @@ https://t.co/oWLuqi4O1K
 
 💯
 
-[查看原文](https://x.com/elonmusk/status/2100392984240160839)
+---
+
+## 2026-09-17 10:13:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JTLonsdale: Wow. Got them dead to rights.
+
+A main fundraising apparatus of the left was consistently and knowingly breaking the law, an…
+
+[查看原文](https://x.com/elonmusk/status/2100407887747272869)
 
 ---
 
