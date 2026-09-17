@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2406 条推文
+> 📊 推文存档 - 共 2410 条推文
 
 ---
 
@@ -21,8 +21,6 @@ RT @XFreeze: Only Grok is the most neutral AI....literally
 
 And this has been consistent across different neutrality and political-bias tes…
 
-[查看原文](https://x.com/elonmusk/status/2100296496310812884)
-
 ---
 
 ## 2026-09-17 02:52:44
@@ -33,7 +31,61 @@ And this has been consistent across different neutrality and political-bias tes�
 
 Watch a company being built live with @Grok @Bot!
 
-[查看原文](https://x.com/elonmusk/status/2100296847344783441)
+---
+
+## 2026-09-17 08:40:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+New episode of @SpaceX documentary
+
+[查看原文](https://x.com/elonmusk/status/2100384403495293125)
+
+---
+
+## 2026-09-17 08:42:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: • Flashback: Elon Musk Explaining SpaceX In 2008
+
+So long ago he needed a name tag 😂 https://t.co/bNFQF0fxxR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILq2qrO-lYNN-so2QJQT3zt_xj60z9AALKEWsbhOxYVbGSK-FAWO_eAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100384977645093051)
+
+---
+
+## 2026-09-17 08:43:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: On the rise of transgenderism with @GadSaad:
+
+“When I’m a Hollywood superstar, as you said earlier—the stats on having one…
+
+[查看原文](https://x.com/elonmusk/status/2100385184642367942)
+
+---
+
+## 2026-09-17 08:48:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My Mom’s book is coming out soon @mayemusk 
+
+https://t.co/oWLuqi4O1K
+
+[查看原文](https://x.com/elonmusk/status/2100386414345236662)
 
 ---
 
