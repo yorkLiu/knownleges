@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 370 条推文
+> 📊 推文存档 - 共 371 条推文
 
 ---
 
@@ -71,9 +71,23 @@ tags: ["2026"]
 
 這就是個～精神病😮‍💨😮‍💨😮‍💨 https://t.co/MAvmG1HveV
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILqmqrLWGKfV0RFXmn6YMiqCqzQmiGAALBEWsbhOxYVc3Jry22v3ExAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2100371833489101131)
+## 2026-09-17 12:03:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一字謂之曰～泡 https://t.co/UlBGBV06zV
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILrGqrZ4e0dlC85ItjfW-zT7zRxblrAAI8EmsbhOxYVUfvCvDuFlzKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILrWqrZ4tSAAG2C6kE252g97X1JxCh4AACPRJrG4TsWFUc5sOofTvViwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILrmqrZ49jKyu0vgndIZZu1doeL5Y4AAI-EmsbhOxYVXFHUER_oFDNAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2100435415870345217)
 
 ---
 
