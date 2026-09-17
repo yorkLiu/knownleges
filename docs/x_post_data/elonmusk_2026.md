@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2416 条推文
+> 📊 推文存档 - 共 2419 条推文
 
 ---
 
@@ -135,8 +135,6 @@ December 21, 2015. Nearly 11 years later and it hits just as hard.
 
 Return to f…
 
-[查看原文](https://x.com/elonmusk/status/2100473700873117994)
-
 ---
 
 ## 2026-09-17 14:35:46
@@ -147,7 +145,45 @@ Return to f…
 
 RT @ArthurMacwaters: I still think about this all the time
 
-[查看原文](https://x.com/elonmusk/status/2100473772591521978)
+---
+
+## 2026-09-17 15:17:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aaronburnett: My favorite phrase from this episode “symphony of iteration”.  Also one SpaceX engineer estimated that starship surviving…
+
+[查看原文](https://x.com/elonmusk/status/2100484207248048547)
+
+---
+
+## 2026-09-17 15:35:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Liftoff! https://t.co/okVd5WzMOT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILtGqrmmHUb5SWnn-EwfKG25WYY3GKAAIlF2sbo75YVQ8HHNcBSUHSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100488763289821227)
+
+---
+
+## 2026-09-17 15:38:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: Just to recap the last week 
+
+- Dario agreed with a ngo-coded physiognomy “whistleblower” that AI has &gt;10% chance of e…
+
+[查看原文](https://x.com/elonmusk/status/2100489640255869414)
 
 ---
 
