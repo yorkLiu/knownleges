@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 457 条推文
+> 📊 推文存档 - 共 458 条推文
 
 ---
 
@@ -25,11 +25,26 @@ Foxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bott
 
 Very interesting to see these two themes reiterated https://t.co/OYnK9ZA6oM
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILpmqq5LbiFB87e1goqiEBH3ZTTOEWAAKjFWsbhOxQVeOFXtzD2oaoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILp2qq5LorR6Da3YtlHuvx9esW4iyUAAKkFWsbhOxQVaKG6d3SXO7qAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-17 18:21:13
 
-[查看原文](https://x.com/aleabitoreddit/status/2100290486569505223)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just in case you're wondering why I'm so bullish on legacy memory...
+
+Their hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes. 
+
+Price hikes projections expected for H2:
+
+- SLC NAND: +120-170% in H2 vs H1
+- High-capacity NOR: https://t.co/SZiqM1df2i
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILuGqrxfstFvoJUgTYUq6mwtWrWkiZAAImEmsbo75gVZqal5NEhWW5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2100530507549425704)
 
 ---
 
