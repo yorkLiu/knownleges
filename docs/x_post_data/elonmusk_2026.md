@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2419 条推文
+> 📊 推文存档 - 共 2420 条推文
 
 ---
 
@@ -155,8 +155,6 @@ RT @ArthurMacwaters: I still think about this all the time
 
 RT @aaronburnett: My favorite phrase from this episode “symphony of iteration”.  Also one SpaceX engineer estimated that starship surviving…
 
-[查看原文](https://x.com/elonmusk/status/2100484207248048547)
-
 ---
 
 ## 2026-09-17 15:35:21
@@ -166,10 +164,6 @@ RT @aaronburnett: My favorite phrase from this episode “symphony of iteration�
 **内容**:
 
 RT @SpaceX: Liftoff! https://t.co/okVd5WzMOT
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILtGqrmmHUb5SWnn-EwfKG25WYY3GKAAIlF2sbo75YVQ8HHNcBSUHSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2100488763289821227)
 
 ---
 
@@ -183,7 +177,19 @@ RT @ArthurMacwaters: Just to recap the last week
 
 - Dario agreed with a ngo-coded physiognomy “whistleblower” that AI has &gt;10% chance of e…
 
-[查看原文](https://x.com/elonmusk/status/2100489640255869414)
+---
+
+## 2026-09-17 15:58:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/Rwc9UkZVkp
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILtWqroaanxR5ng0czqWzT0_SGlNxXAAI4F2sbo75YVUc6mXL8LlLOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100494603354784185)
 
 ---
 
