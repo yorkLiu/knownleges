@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2460 条推文
+> 📊 推文存档 - 共 2462 条推文
 
 ---
 
@@ -308,10 +308,6 @@ RT @mattyp: you can now talk to @bot ! https://t.co/ZsgIJVPZWb
 
 RT @Cyborg21: Using my implant be like… https://t.co/BXPfvKypXJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL0WqtT9-Tp9awYwVYoIcjoSbGIHLCAAK4Emsbo75oVfbGdQfbya_ZAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2100959396603801728)
-
 ---
 
 ## 2026-09-18 22:48:18
@@ -324,7 +320,33 @@ RT @TLisFearless: Maye Musk REFUSES to live in fear.
 
 From waiting 12 years to become a U.S. citizen to using Grok 10 times a day, @mayem…
 
-[查看原文](https://x.com/elonmusk/status/2100960108645638654)
+---
+
+## 2026-09-18 22:51:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @as400495: Making it easy to enroll your kids in Trump Accounts, saving the American people hundreds of millions in drug costs with Trum…
+
+[查看原文](https://x.com/elonmusk/status/2100961004876083306)
+
+---
+
+## 2026-09-18 23:03:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @shaunmmaguire: My great grandfather took my family to Ukraine in 1993
+
+He wanted us to see the aftermath of communism
+
+We went to Odess…
+
+[查看原文](https://x.com/elonmusk/status/2100963899298263157)
 
 ---
 
