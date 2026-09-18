@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2464 条推文
+> 📊 推文存档 - 共 2465 条推文
 
 ---
 
@@ -19,7 +19,17 @@ tags: ["2026"]
 
 My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.
 
-[查看原文](https://x.com/elonmusk/status/2101011740574052697)
+---
+
+## 2026-09-19 04:27:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🧐
+
+[查看原文](https://x.com/elonmusk/status/2101045484827603373)
 
 ---
 
