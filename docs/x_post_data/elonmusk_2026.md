@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2445 条推文
+> 📊 推文存档 - 共 2448 条推文
 
 ---
 
@@ -137,8 +137,6 @@ RT @Starlink: In central Italy, @FASTWEB successfully tested its first video cal
 
 RT @travisk: That’s what OpenAI told their own agent swarm in the Hugging Face breach… and right before they did it, they turned off monito…
 
-[查看原文](https://x.com/elonmusk/status/2100899513833533597)
-
 ---
 
 ## 2026-09-18 18:53:58
@@ -148,8 +146,6 @@ RT @travisk: That’s what OpenAI told their own agent swarm in the Hugging Face
 **内容**:
 
 Tesla Energy
-
-[查看原文](https://x.com/elonmusk/status/2100901135389254101)
 
 ---
 
@@ -165,7 +161,41 @@ Nick Shirley at All-In Summit:
 
 "If it wasn't for Elon and X, none of this would…
 
-[查看原文](https://x.com/elonmusk/status/2100905776017543256)
+---
+
+## 2026-09-18 19:14:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Teslas driving on FSD (Supervised) in Australia and New Zealand experienced on average 40% fewer collisions than those d…
+
+[查看原文](https://x.com/elonmusk/status/2100906282274202070)
+
+---
+
+## 2026-09-18 19:16:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://x.com/elonmusk/status/2100906847049846951)
+
+---
+
+## 2026-09-18 19:25:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink is now often more reliable than cable
+
+[查看原文](https://x.com/elonmusk/status/2100909140931395881)
 
 ---
 
