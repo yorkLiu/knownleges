@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 459 条推文
+> 📊 推文存档 - 共 460 条推文
 
 ---
 
@@ -25,7 +25,23 @@ $SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summ
 
 - $GFS + $MRVL sign extended
 
-[查看原文](https://x.com/aleabitoreddit/status/2100735673561174047)
+---
+
+## 2026-09-18 21:20:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  
+
+-&gt; RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.
+
+-&gt; Per $NVDA ER, Hyperscaler capex goes up in 2027. Then you have 68% of hyperscaler capex per Trendforce going to https://t.co/m80ABt5dJC
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILzmqtQV52V7LRomg4a3Dk4cfAq4UAA4sSaxujvmhVpp-U0EI_xmkBAAMCAAN4AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2100938001077674262)
 
 ---
 
