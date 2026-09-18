@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2442 条推文
+> 📊 推文存档 - 共 2445 条推文
 
 ---
 
@@ -117,8 +117,6 @@ RT @stevenmarkryan: Grok bot is so good man.
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2100895399498145879)
-
 ---
 
 ## 2026-09-18 18:33:52
@@ -129,7 +127,45 @@ True
 
 RT @Starlink: In central Italy, @FASTWEB successfully tested its first video call with Starlink Mobile, which is powered by advanced satell…
 
-[查看原文](https://x.com/elonmusk/status/2100896078153261434)
+---
+
+## 2026-09-18 18:47:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @travisk: That’s what OpenAI told their own agent swarm in the Hugging Face breach… and right before they did it, they turned off monito…
+
+[查看原文](https://x.com/elonmusk/status/2100899513833533597)
+
+---
+
+## 2026-09-18 18:53:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla Energy
+
+[查看原文](https://x.com/elonmusk/status/2100901135389254101)
+
+---
+
+## 2026-09-18 19:12:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: NONE OF THIS WITHOUT ELON MUSK AND 𝕏.
+
+Nick Shirley at All-In Summit:
+
+"If it wasn't for Elon and X, none of this would…
+
+[查看原文](https://x.com/elonmusk/status/2100905776017543256)
 
 ---
 
