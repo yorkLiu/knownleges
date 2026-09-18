@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2465 条推文
+> 📊 推文存档 - 共 2467 条推文
 
 ---
 
@@ -29,7 +29,33 @@ My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. May
 
 🧐
 
-[查看原文](https://x.com/elonmusk/status/2101045484827603373)
+---
+
+## 2026-09-19 05:06:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: Someone gave the leading AI models the Political Compass test.
+
+Grok 4.5 landed by far closest to the political center…
+
+[查看原文](https://x.com/elonmusk/status/2101055162689196147)
+
+---
+
+## 2026-09-19 05:12:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: Taps sign https://t.co/G18a2oaAsb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL0mqtrlYPT4JiWNpQ1fOJLU1ALiTzAALUEGsbyXJxVex_QsrIXWuHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101056715802239422)
 
 ---
 
