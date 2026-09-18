@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2452 条推文
+> 📊 推文存档 - 共 2458 条推文
 
 ---
 
@@ -201,8 +201,6 @@ Starlink is now often more reliable than cable
 
 Watch your favorite games live on @Starlink
 
-[查看原文](https://x.com/elonmusk/status/2100937966424072607)
-
 ---
 
 ## 2026-09-18 21:26:01
@@ -212,10 +210,6 @@ Watch your favorite games live on @Starlink
 **内容**:
 
 RT @iam_smx: Elon Musk stepping out of his Airstream trailer in Memphis after posting an absolute banger on 𝕏 😂 https://t.co/cUV91lIXg8
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILzWqtQVqma6TJKi4UuogAAWHAQFQV0QACihJrG6O-aFUebcBksERVZwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2100939400108446111)
 
 ---
 
@@ -230,10 +224,6 @@ RT @teslajapan: 台風が来ても、変わらない暮らしを。
 停電時には Powerwall 3 から電気を供給。
 ご家族とご自宅を守ります。 https://t.co/XoOpuNUB5N
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILzGqtQVefMZywkA2qEQeJqmW6bpDoAAKJEmsbo75oVe_HGh380f7xAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2100939602076860490)
-
 ---
 
 ## 2026-09-18 21:32:51
@@ -244,7 +234,85 @@ RT @teslajapan: 台風が来ても、変わらない暮らしを。
 
 V2 of the @Starlink direct-to-phone satellite constellation is a giant improvement over V1 with 100 times more bandwidth!
 
-[查看原文](https://x.com/elonmusk/status/2100941122679738705)
+---
+
+## 2026-09-18 22:08:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Starlink high speed internet is scaling rapidly across airline fleets. 🔥 https://t.co/Q1vpHONfOz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL0GqtSJ311tLUv3JEA1lhzroQY2ElAAKmEmsbo75oVSxBXyBjEfISAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100950040281751678)
+
+---
+
+## 2026-09-18 22:08:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dogeofficialceo: We need a slur for retards
+
+[查看原文](https://x.com/elonmusk/status/2100950202106421315)
+
+---
+
+## 2026-09-18 22:08:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheRabbitHole: Narrative: Whites invented slavery.
+
+Reality: Slavery was a global practice.
+
+[查看原文](https://x.com/elonmusk/status/2100950216232821152)
+
+---
+
+## 2026-09-18 22:09:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @usairforce: 79 years of breaking barriers—and counting.
+
+Happy birthday to the U.S. Air Force! From the Bell X-1 to today’s Airmen, inn…
+
+[查看原文](https://x.com/elonmusk/status/2100950250848420214)
+
+---
+
+## 2026-09-18 22:13:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Well said
+
+[查看原文](https://x.com/elonmusk/status/2100951474482065487)
+
+---
+
+## 2026-09-18 22:15:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattyp: you can now talk to @bot ! https://t.co/ZsgIJVPZWb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILz2qtSJqwRzVG7cNmaL9tP6h3teZ-AAKlEmsbo75oVUoNjEkwNVqgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100951792355860535)
 
 ---
 
