@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2440 条推文
+> 📊 推文存档 - 共 2442 条推文
 
 ---
 
@@ -39,8 +39,6 @@ RT @grok: @Jason @cremieuxrecueil @bot Nah, command declined. I'm not spawning a
 
 RT @SpaceX: Now targeting to launch Starship Flight 14 as early as Monday, September 28, pending regulatory approval
 
-[查看原文](https://x.com/elonmusk/status/2100697838451658995)
-
 ---
 
 ## 2026-09-18 05:26:47
@@ -51,8 +49,6 @@ RT @SpaceX: Now targeting to launch Starship Flight 14 as early as Monday, Septe
 
 Grok @Bot now has a voice
 
-[查看原文](https://x.com/elonmusk/status/2100698004210475317)
-
 ---
 
 ## 2026-09-18 05:39:18
@@ -62,8 +58,6 @@ Grok @Bot now has a voice
 **内容**:
 
 RT @TheBabylonBee: Caveman Issues Dire Warning That The Wheel Is Going To Eliminate Countless Jobs https://t.co/U43hWmfDo0
-
-[查看原文](https://x.com/elonmusk/status/2100701152975176191)
 
 ---
 
@@ -76,10 +70,6 @@ RT @TheBabylonBee: Caveman Issues Dire Warning That The Wheel Is Going To Elimin
 RT @cb_doge: Nick Shirley on Elon Musk today:
 
 “Elon saved America by buying twitter and making 𝕏” https://t.co/VrTwatx2jw
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILxGqs-6znfzdpPkWmDguJXf_dHc62AAMSaxujvmhVjox0nQRJoMIBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2100798127477243955)
 
 ---
 
@@ -95,8 +85,6 @@ Live now, plus sessions for marketing and customer success.
 
 https://t.co/do5YUfO0I1
 
-[查看原文](https://x.com/elonmusk/status/2100798174247981561)
-
 ---
 
 ## 2026-09-18 12:15:26
@@ -109,8 +97,6 @@ RT @robotaxi: Train like you fight, fight like you train
 
 First responder feedback is directly incorporated into the design &amp; safe operatio…
 
-[查看原文](https://x.com/elonmusk/status/2100800840512545167)
-
 ---
 
 ## 2026-09-18 12:26:56
@@ -121,7 +107,29 @@ First responder feedback is directly incorporated into the design &amp; safe ope
 
 RT @stevenmarkryan: Grok bot is so good man.
 
-[查看原文](https://x.com/elonmusk/status/2100803735349850455)
+---
+
+## 2026-09-18 18:31:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2100895399498145879)
+
+---
+
+## 2026-09-18 18:33:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: In central Italy, @FASTWEB successfully tested its first video call with Starlink Mobile, which is powered by advanced satell…
+
+[查看原文](https://x.com/elonmusk/status/2100896078153261434)
 
 ---
 
