@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 377 条推文
+> 📊 推文存档 - 共 378 条推文
+
+---
+
+## 2026-09-19 07:03:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【川普牛逼，北極博弈，又贏了】
+
+以下是中文翻譯：
+
+突發新聞：
+
+我很高興宣布，美國已經與丹麥王國及格陵蘭達成一項協議，使美國對格陵蘭的安全以及其他所有需求擁有永久性的控制權，從而徹底解決我們美國方面長期存在的諸多問題。
+
+這不會讓美國付出任何代價！ https://t.co/ulobdayeWs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL02qtxCfUmR3zhMdUMLGVqeJOpkhqAALtEGsbyXJxVYK5UykuutAPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101084629298209091)
 
 ---
 
