@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 377 条推文
+> 📊 推文存档 - 共 378 条推文
 
 ---
 
@@ -40,10 +40,6 @@ zec这种币建议全网下架，不然真要眼红死。
 
 Minimax 这种130亿美金的世界大模型公司去哪里找。 https://t.co/nywWwyRA4A
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILw2qs-6i0vFo0vWVQQd-xJuYUZ9s1AAL_EWsbo75oVQJvk0foc4BBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2100772383594516595)
-
 ---
 
 ## 2026-09-18 16:46:26
@@ -55,10 +51,6 @@ Minimax 这种130亿美金的世界大模型公司去哪里找。 https://t.co/n
 $META 好起来了，app下载榜处于榜一。
 上个月初552左右买的meta没捏住😂哎 https://t.co/iWCmIvrDhn
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILwmqs-6Ui7SkUCYgfXLzK7BHRSD_BAAL-EWsbo75oVYgKbeDzR18uAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2100869042995335660)
-
 ---
 
 ## 2026-09-18 16:48:20
@@ -69,10 +61,6 @@ $META 好起来了，app下载榜处于榜一。
 
 uni这个5年豁免链上美股创新
 相当于美股链上的税收全部由uni来收。 https://t.co/1YYCwt2L2t
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILwWqs-6Io_liKua_EnhOVQx5OgF_3AAL9EWsbo75oVewQwHCqXLv8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2100869521943015731)
 
 ---
 
@@ -87,7 +75,19 @@ hood作为上市公司链上发行美股，
 uni做池子收税，
 hype做链上美股合约杠杆交易。
 
-[查看原文](https://x.com/xiaomustock/status/2100870147548537108)
+---
+
+## 2026-09-18 17:21:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+什么人会买印度造的食品？😂
+他们一个手指头擦屁眼，一个手吃饭。
+然后俩只手给你做吃的。
+
+[查看原文](https://x.com/xiaomustock/status/2100877842334835037)
 
 ---
 
