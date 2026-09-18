@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2462 条推文
+> 📊 推文存档 - 共 2463 条推文
 
 ---
 
@@ -330,8 +330,6 @@ From waiting 12 years to become a U.S. citizen to using Grok 10 times a day, @ma
 
 RT @as400495: Making it easy to enroll your kids in Trump Accounts, saving the American people hundreds of millions in drug costs with Trum…
 
-[查看原文](https://x.com/elonmusk/status/2100961004876083306)
-
 ---
 
 ## 2026-09-18 23:03:22
@@ -346,7 +344,17 @@ He wanted us to see the aftermath of communism
 
 We went to Odess…
 
-[查看原文](https://x.com/elonmusk/status/2100963899298263157)
+---
+
+## 2026-09-18 23:30:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattvanswol: 🚨#BREAKING: Outrage is erupting after a White elderly couple in their 80s let a Black female stranger use their shower bec…
+
+[查看原文](https://x.com/elonmusk/status/2100970660927270927)
 
 ---
 
