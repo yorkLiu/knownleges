@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 373 条推文
+> 📊 推文存档 - 共 377 条推文
 
 ---
 
@@ -18,8 +18,6 @@ tags: ["2026"]
 **内容**:
 
 都卖完了，完完全全踏空
-
-[查看原文](https://x.com/xiaomustock/status/2100617058442678708)
 
 ---
 
@@ -32,9 +30,64 @@ tags: ["2026"]
 zec这种币建议全网下架，不然真要眼红死。
 去年才几十块钱，今年一千多真是堪比币圈存储。天天瞎鸡儿涨，一搜都是赚了一裤兜几百上千万美金的。 https://t.co/w47H8yxFLY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILwGqsFeyw6El5R54fx43EBaNWSg5tAALtEmsbo75gVcITB5JVmTLAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2100617714956108023)
+## 2026-09-18 10:22:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Minimax 这种130亿美金的世界大模型公司去哪里找。 https://t.co/nywWwyRA4A
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILw2qs-6i0vFo0vWVQQd-xJuYUZ9s1AAL_EWsbo75oVQJvk0foc4BBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100772383594516595)
+
+---
+
+## 2026-09-18 16:46:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$META 好起来了，app下载榜处于榜一。
+上个月初552左右买的meta没捏住😂哎 https://t.co/iWCmIvrDhn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILwmqs-6Ui7SkUCYgfXLzK7BHRSD_BAAL-EWsbo75oVYgKbeDzR18uAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100869042995335660)
+
+---
+
+## 2026-09-18 16:48:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+uni这个5年豁免链上美股创新
+相当于美股链上的税收全部由uni来收。 https://t.co/1YYCwt2L2t
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILwWqs-6Io_liKua_EnhOVQx5OgF_3AAL9EWsbo75oVewQwHCqXLv8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2100869521943015731)
+
+---
+
+## 2026-09-18 16:50:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+真对链上美股利好的就三家，hype，uni， $HOOD 
+hood作为上市公司链上发行美股，
+uni做池子收税，
+hype做链上美股合约杠杆交易。
+
+[查看原文](https://x.com/xiaomustock/status/2100870147548537108)
 
 ---
 

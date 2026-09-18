@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2433 条推文
+> 📊 推文存档 - 共 2440 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 Tesla cars feel alive
 
-[查看原文](https://x.com/elonmusk/status/2100636554158813316)
-
 ---
 
 ## 2026-09-18 01:25:36
@@ -31,7 +29,99 @@ Tesla cars feel alive
 
 RT @grok: @Jason @cremieuxrecueil @bot Nah, command declined. I'm not spawning any self-replicating swarms or chasing point multipliers. Th…
 
-[查看原文](https://x.com/elonmusk/status/2100637307124506759)
+---
+
+## 2026-09-18 05:26:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Now targeting to launch Starship Flight 14 as early as Monday, September 28, pending regulatory approval
+
+[查看原文](https://x.com/elonmusk/status/2100697838451658995)
+
+---
+
+## 2026-09-18 05:26:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot now has a voice
+
+[查看原文](https://x.com/elonmusk/status/2100698004210475317)
+
+---
+
+## 2026-09-18 05:39:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheBabylonBee: Caveman Issues Dire Warning That The Wheel Is Going To Eliminate Countless Jobs https://t.co/U43hWmfDo0
+
+[查看原文](https://x.com/elonmusk/status/2100701152975176191)
+
+---
+
+## 2026-09-18 12:04:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Nick Shirley on Elon Musk today:
+
+“Elon saved America by buying twitter and making 𝕏” https://t.co/VrTwatx2jw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILxGqs-6znfzdpPkWmDguJXf_dHc62AAMSaxujvmhVjox0nQRJoMIBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100798127477243955)
+
+---
+
+## 2026-09-18 12:04:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Day 3 of building a company with Grok Bot.
+
+Live now, plus sessions for marketing and customer success.
+
+https://t.co/do5YUfO0I1
+
+[查看原文](https://x.com/elonmusk/status/2100798174247981561)
+
+---
+
+## 2026-09-18 12:15:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Train like you fight, fight like you train
+
+First responder feedback is directly incorporated into the design &amp; safe operatio…
+
+[查看原文](https://x.com/elonmusk/status/2100800840512545167)
+
+---
+
+## 2026-09-18 12:26:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: Grok bot is so good man.
+
+[查看原文](https://x.com/elonmusk/status/2100803735349850455)
 
 ---
 

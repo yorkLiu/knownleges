@@ -17,6 +17,7 @@ from pathlib import Path
 from html.parser import HTMLParser
 import urllib.request
 import urllib.error
+import urllib.parse
 import time
 import socket
 
@@ -57,6 +58,117 @@ def _load_cookie():
     except Exception as e:
         print(f" ❌ 读取 cookie 失败：{e}")
     return ""
+
+# ============ DNS 兜底（系统 DNS 被污染时自动 DoH 钉 IP） ============
+# 本机 systemd-resolved 上游为中国系 DNS，对 *.twitter.com / *.twimg.com 会返回
+# 垃圾应答（如 2001::1 → Errno 101 "Network is unreachable"，或别人的 IPv4 导致超时），
+# 而 1.1.1.1 / 8.8.8.8 字面 IP 直连始终可达。系统 DNS 探测失败时自动切 DoH
+# （DNS-over-HTTPS）取真实 Cloudflare IP 并钉 IP 直连（SNI/Host/证书校验均用真域名）。
+_DOH_ENDPOINTS = [
+    ("1.1.1.1", "cloudflare-dns.com", "/dns-query?name={q}&type=A"),
+    ("8.8.8.8", "dns.google", "/resolve?name={q}&type=A"),
+]
+_DOH_CACHE = {}    # host -> [ip]
+_PINNED_IPS = {}   # host -> [ip]（空列表 = 系统 DNS 正常，无需钉 IP）
+
+def _doh_resolve(host):
+    """通过 DoH（字面 IP 直连，绕开被污染的本地 DNS）查询 host 的真实 A 记录，跟随 CNAME"""
+    if host in _DOH_CACHE:
+        return _DOH_CACHE[host]
+    import http.client
+    import ssl
+    result = []
+    for ip, doh_host, tpl in _DOH_ENDPOINTS:
+        try:
+            ctx = ssl.create_default_context()
+            name = host
+            for _hop in range(6):  # CNAME 跟随上限
+                conn = http.client.HTTPSConnection(ip, 443, context=ctx, timeout=10)
+                conn.request("GET", tpl.format(q=name), headers={
+                    "Host": doh_host, "User-Agent": "x-scraper-doh",
+                    "accept": "application/dns-json"})
+                resp = conn.getresponse()
+                data = json.loads(resp.read().decode())
+                conn.close()
+                recs = data.get("Answer", [])
+                a_recs = [x["data"] for x in recs if x.get("type") == 1]
+                if a_recs:
+                    result = a_recs
+                    break
+                c_recs = [x for x in recs if x.get("type") == 5]
+                if c_recs:
+                    name = c_recs[0]["data"]
+                    continue
+                break
+            if result:
+                break
+        except Exception:
+            continue
+    _DOH_CACHE[host] = result
+    return result
+
+def _is_x_domain(host):
+    return bool(host) and (host.endswith(".twitter.com") or host.endswith(".twimg.com"))
+
+def _dns_ok(host):
+    """快速探测系统 DNS 是否可用；全不可达则返回 DoH 钉死 IP（空列表 = 系统 DNS 正常）"""
+    import socket
+    if host in _PINNED_IPS:
+        return _PINNED_IPS[host]
+    try:
+        candidates = [r[4][0] for r in socket.getaddrinfo(host, 443, socket.AF_INET, socket.SOCK_STREAM)]
+    except Exception:
+        candidates = []
+    for ip in candidates:
+        try:
+            s = socket.create_connection((ip, 443), timeout=2.5)
+            s.close()
+            _PINNED_IPS[host] = []
+            return []
+        except Exception:
+            continue
+    ips = [a for a in _doh_resolve(host) if a and ":" not in a]
+    if ips:
+        _PINNED_IPS[host] = ips
+        print(f"  ⚠️  {host} 系统 DNS 不可达，已切换 DoH 钉死 IP {ips[:2]}")
+    else:
+        print(f"  ❌ {host} 系统 DNS 与 DoH 均失败")
+    return _PINNED_IPS.get(host, [])
+
+_REAL_GETADDRINFO = None  # 首次钉 IP 时惰性初始化
+
+def _open_pinned(url, headers, timeout, host, ips):
+    """逐 IP 钉死后发 HTTPS 请求；SNI/Host/证书校验均使用真实域名"""
+    import socket
+    global _REAL_GETADDRINFO
+    if _REAL_GETADDRINFO is None:
+        _REAL_GETADDRINFO = socket.getaddrinfo
+    last_err = None
+    for ip in ips:
+        def _gai(h, p, *args, **kwargs):
+            if h == host and (not args or args[0] in (0, socket.AF_INET)):
+                return [(socket.AF_INET, socket.SOCK_STREAM, 6, "", (ip, p))]
+            return _REAL_GETADDRINFO(h, p, *args, **kwargs)
+        socket.getaddrinfo = _gai
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            return urllib.request.urlopen(req, timeout=timeout)
+        except Exception as e:
+            last_err = e
+        finally:
+            socket.getaddrinfo = _REAL_GETADDRINFO
+    raise last_err if last_err else RuntimeError(f"{host} 所有钉死 IP 均失败")
+
+def urlopen_x(url, headers, timeout=30):
+    """X 域名 HTTPS 请求入口：系统 DNS 被污染时自动走 DoH 钉 IP，其他域名正常直连"""
+    parsed = urllib.parse.urlparse(url)
+    host = parsed.hostname or ""
+    if _is_x_domain(host):
+        pinned = _dns_ok(host)
+        if pinned:
+            return _open_pinned(url, headers, timeout, host, pinned)
+    req = urllib.request.Request(url, headers=headers)
+    return urllib.request.urlopen(req, timeout=timeout)
 
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -243,12 +355,11 @@ def download_image(image_url, username, retry=5):
             # 否则返回本地路径
             return (True, f"/images/{username}/{image_id}")
 
-        # 下载图片
+        # 下载图片（pbs.twimg.com 域名经 urlopen_x：系统 DNS 被污染时自动 DoH 钉 IP）
         for attempt in range(retry):
             try:
                 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
-                req = urllib.request.Request(image_url, headers=headers)
-                with urllib.request.urlopen(req, timeout=60) as response:
+                with urlopen_x(image_url, headers, timeout=60) as response:
                     with open(local_path, 'wb') as img_file:
                         img_file.write(response.read())
                 time.sleep(0.5)
@@ -374,14 +485,15 @@ def fetch_user_tweets_syndication(username):
     """
     cookie = _load_cookie()
     url = SYNDICATION_URL.format(username)
-    req = urllib.request.Request(url, headers={
+    headers = {
         "Cookie": cookie,
         "User-Agent": SYNDICATION_UA,
         "Referer": "https://syndication.twitter.com/",
         "Accept": "text/html,application/xhtml+xml",
-    })
+    }
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        # 经 urlopen_x：系统 DNS 被污染时自动 DoH 钉 IP 直连，否则正常直连
+        with urlopen_x(url, headers, timeout=30) as resp:
             html = resp.read().decode("utf-8", "replace")
     except urllib.error.HTTPError as e:
         if e.code == 403:
