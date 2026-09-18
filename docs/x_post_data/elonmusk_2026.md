@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2458 条推文
+> 📊 推文存档 - 共 2460 条推文
 
 ---
 
@@ -244,10 +244,6 @@ V2 of the @Starlink direct-to-phone satellite constellation is a giant improveme
 
 RT @cb_doge: BREAKING: Starlink high speed internet is scaling rapidly across airline fleets. 🔥 https://t.co/Q1vpHONfOz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL0GqtSJ311tLUv3JEA1lhzroQY2ElAAKmEmsbo75oVSxBXyBjEfISAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2100950040281751678)
-
 ---
 
 ## 2026-09-18 22:08:56
@@ -257,8 +253,6 @@ RT @cb_doge: BREAKING: Starlink high speed internet is scaling rapidly across ai
 **内容**:
 
 RT @dogeofficialceo: We need a slur for retards
-
-[查看原文](https://x.com/elonmusk/status/2100950202106421315)
 
 ---
 
@@ -272,8 +266,6 @@ RT @TheRabbitHole: Narrative: Whites invented slavery.
 
 Reality: Slavery was a global practice.
 
-[查看原文](https://x.com/elonmusk/status/2100950216232821152)
-
 ---
 
 ## 2026-09-18 22:09:08
@@ -286,8 +278,6 @@ RT @usairforce: 79 years of breaking barriers—and counting.
 
 Happy birthday to the U.S. Air Force! From the Bell X-1 to today’s Airmen, inn…
 
-[查看原文](https://x.com/elonmusk/status/2100950250848420214)
-
 ---
 
 ## 2026-09-18 22:13:59
@@ -297,8 +287,6 @@ Happy birthday to the U.S. Air Force! From the Bell X-1 to today’s Airmen, inn
 **内容**:
 
 Well said
-
-[查看原文](https://x.com/elonmusk/status/2100951474482065487)
 
 ---
 
@@ -310,9 +298,33 @@ Well said
 
 RT @mattyp: you can now talk to @bot ! https://t.co/ZsgIJVPZWb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAILz2qtSJqwRzVG7cNmaL9tP6h3teZ-AAKlEmsbo75oVUoNjEkwNVqgAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2100951792355860535)
+## 2026-09-18 22:45:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Cyborg21: Using my implant be like… https://t.co/BXPfvKypXJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL0WqtT9-Tp9awYwVYoIcjoSbGIHLCAAK4Emsbo75oVfbGdQfbya_ZAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2100959396603801728)
+
+---
+
+## 2026-09-18 22:48:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TLisFearless: Maye Musk REFUSES to live in fear.  
+
+From waiting 12 years to become a U.S. citizen to using Grok 10 times a day, @mayem…
+
+[查看原文](https://x.com/elonmusk/status/2100960108645638654)
 
 ---
 
