@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2467 条推文
+> 📊 推文存档 - 共 2470 条推文
 
 ---
 
@@ -41,8 +41,6 @@ RT @KanekoaTheGreat: Someone gave the leading AI models the Political Compass te
 
 Grok 4.5 landed by far closest to the political center…
 
-[查看原文](https://x.com/elonmusk/status/2101055162689196147)
-
 ---
 
 ## 2026-09-19 05:12:11
@@ -53,9 +51,41 @@ Grok 4.5 landed by far closest to the political center…
 
 RT @KatieMiller: Taps sign https://t.co/G18a2oaAsb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL0mqtrlYPT4JiWNpQ1fOJLU1ALiTzAALUEGsbyXJxVex_QsrIXWuHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2101056715802239422)
+## 2026-09-19 12:54:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Transparency builds trust
+
+[查看原文](https://x.com/elonmusk/status/2101173138625122649)
+
+---
+
+## 2026-09-19 13:16:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The next @boringcompany merch will put Uranium in Uranus
+
+[查看原文](https://x.com/elonmusk/status/2101178647088410828)
+
+---
+
+## 2026-09-19 13:17:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @neuralink: Through the VOICE trial, Terry is using his Neuralink implant to help fine-tune a brain-to-voice interface for himself and o…
+
+[查看原文](https://x.com/elonmusk/status/2101178733042208776)
 
 ---
 
