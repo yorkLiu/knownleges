@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2481 条推文
+> 📊 推文存档 - 共 2484 条推文
 
 ---
 
@@ -184,8 +184,6 @@ RT @djseo: @Scobleizer Elon made some of the key technical decisions and still d
 
 Worth reading about this
 
-[查看原文](https://x.com/elonmusk/status/2101206965632258423)
-
 ---
 
 ## 2026-09-19 15:12:09
@@ -196,7 +194,43 @@ Worth reading about this
 
 SpaceX
 
-[查看原文](https://x.com/elonmusk/status/2101207701954974205)
+---
+
+## 2026-09-19 21:10:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The platform is seeing all-time record usage
+
+[查看原文](https://x.com/elonmusk/status/2101297890022879641)
+
+---
+
+## 2026-09-19 21:19:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceXAI is testing Remote Control for Grok Build
+
+This is one of the biggest Grok Build updates yet....and the one future I w…
+
+[查看原文](https://x.com/elonmusk/status/2101300107555524806)
+
+---
+
+## 2026-09-19 21:25:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Finally within reach
+
+[查看原文](https://x.com/elonmusk/status/2101301552585572749)
 
 ---
 
