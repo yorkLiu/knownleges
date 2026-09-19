@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2479 条推文
+> 📊 推文存档 - 共 2481 条推文
 
 ---
 
@@ -144,8 +144,6 @@ It’s not easy coming up with something that is both outrageously unsellable an
 
 RT @XOpenSource: We’ve expanded Under The Hood after seeing people’s appreciation of more transparency into government-required content fil…
 
-[查看原文](https://x.com/elonmusk/status/2101197537612870125)
-
 ---
 
 ## 2026-09-19 14:32:58
@@ -155,8 +153,6 @@ RT @XOpenSource: We’ve expanded Under The Hood after seeing people’s appreci
 **内容**:
 
 RT @realDonaldTrump: Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN!…
-
-[查看原文](https://x.com/elonmusk/status/2101197842828214445)
 
 ---
 
@@ -168,8 +164,6 @@ RT @realDonaldTrump: Ken Paxton has my Complete and Total Endorsement to be the 
 
 🎯
 
-[查看原文](https://x.com/elonmusk/status/2101197931755737531)
-
 ---
 
 ## 2026-09-19 14:35:03
@@ -180,7 +174,29 @@ RT @realDonaldTrump: Ken Paxton has my Complete and Total Endorsement to be the 
 
 RT @djseo: @Scobleizer Elon made some of the key technical decisions and still does to this day. We meet with him weekly (often more freque…
 
-[查看原文](https://x.com/elonmusk/status/2101198367711719729)
+---
+
+## 2026-09-19 15:09:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Worth reading about this
+
+[查看原文](https://x.com/elonmusk/status/2101206965632258423)
+
+---
+
+## 2026-09-19 15:12:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX
+
+[查看原文](https://x.com/elonmusk/status/2101207701954974205)
 
 ---
 
