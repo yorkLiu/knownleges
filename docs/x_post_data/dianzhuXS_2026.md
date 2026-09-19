@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 382 条推文
+> 📊 推文存档 - 共 383 条推文
 
 ---
 
@@ -66,8 +66,6 @@ tags: ["2026"]
 此處的「老婆孩子」泛指
 中國人和共產黨的官
 
-[查看原文](https://x.com/dianzhuXS/status/2101110515141668988)
-
 ---
 
 ## 2026-09-19 09:00:21
@@ -78,7 +76,19 @@ tags: ["2026"]
 
 轉發，MAGA💪
 
-[查看原文](https://x.com/dianzhuXS/status/2101114135736131923)
+---
+
+## 2026-09-19 13:36:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+多幾位🤭拍我老婆做飯，比我自己直播累多了😮‍💨 https://t.co/rtQwp6Yw8H
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL1GquIp5bNTUGdbzWaMYKi4ylzEanAAKMEmsbyXJxVebpy2FdfEhbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101183564230676927)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2470 条推文
+> 📊 推文存档 - 共 2475 条推文
 
 ---
 
@@ -61,8 +61,6 @@ RT @KatieMiller: Taps sign https://t.co/G18a2oaAsb
 
 Transparency builds trust
 
-[查看原文](https://x.com/elonmusk/status/2101173138625122649)
-
 ---
 
 ## 2026-09-19 13:16:42
@@ -72,8 +70,6 @@ Transparency builds trust
 **内容**:
 
 The next @boringcompany merch will put Uranium in Uranus
-
-[查看原文](https://x.com/elonmusk/status/2101178647088410828)
 
 ---
 
@@ -85,7 +81,68 @@ The next @boringcompany merch will put Uranium in Uranus
 
 RT @neuralink: Through the VOICE trial, Terry is using his Neuralink implant to help fine-tune a brain-to-voice interface for himself and o…
 
-[查看原文](https://x.com/elonmusk/status/2101178733042208776)
+---
+
+## 2026-09-19 13:19:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: NASA chief Jared Isaacman says SpaceX is incredible and the United States would be seriously challenged in space wit…
+
+[查看原文](https://x.com/elonmusk/status/2101179410485272642)
+
+---
+
+## 2026-09-19 13:31:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Grok Bot summary of SpaceX CFO Bret Johnsen’s new interview with Tony Kim at SpaceX Mission Control.
+
+Bret’s path
+- Came from…
+
+[查看原文](https://x.com/elonmusk/status/2101182278093115792)
+
+---
+
+## 2026-09-19 13:33:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Naturally, Uranus will glow in the dark, because otherwise how could you find it?
+
+[查看原文](https://x.com/elonmusk/status/2101182936112373866)
+
+---
+
+## 2026-09-19 13:35:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A Geiger Counter will be offered as an optional strap-on
+
+[查看原文](https://x.com/elonmusk/status/2101183464129151042)
+
+---
+
+## 2026-09-19 13:45:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s not easy coming up with something that is both outrageously unsellable and yet extremely popular
+
+[查看原文](https://x.com/elonmusk/status/2101185976227819544)
 
 ---
 
