@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2484 条推文
+> 📊 推文存档 - 共 2488 条推文
 
 ---
 
@@ -204,8 +204,6 @@ SpaceX
 
 The platform is seeing all-time record usage
 
-[查看原文](https://x.com/elonmusk/status/2101297890022879641)
-
 ---
 
 ## 2026-09-19 21:19:20
@@ -218,8 +216,6 @@ RT @XFreeze: SpaceXAI is testing Remote Control for Grok Build
 
 This is one of the biggest Grok Build updates yet....and the one future I w…
 
-[查看原文](https://x.com/elonmusk/status/2101300107555524806)
-
 ---
 
 ## 2026-09-19 21:25:05
@@ -230,7 +226,57 @@ This is one of the biggest Grok Build updates yet....and the one future I w…
 
 Finally within reach
 
-[查看原文](https://x.com/elonmusk/status/2101301552585572749)
+---
+
+## 2026-09-19 21:49:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Family is the best part of life. https://t.co/HvvsVROWrJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL2GquluQERGOzSz6lWacs2tWnirchAAIrFGsbyXJ5VauFf9p9YGsFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101307604131577894)
+
+---
+
+## 2026-09-19 21:58:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Outrageously unsellable, yet incredibly popular: Uranium in Uranus
+
+[查看原文](https://x.com/elonmusk/status/2101309965457670255)
+
+---
+
+## 2026-09-19 21:59:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+“:” 🤭
+
+[查看原文](https://x.com/elonmusk/status/2101310133489864904)
+
+---
+
+## 2026-09-19 22:00:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Brazil’s Environmental Police adds @Starlink to patrol vehicles for remote field operations. 🇧🇷
+
+Officers in Paraná…
+
+[查看原文](https://x.com/elonmusk/status/2101310526588350761)
 
 ---
 
