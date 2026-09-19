@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2488 条推文
+> 📊 推文存档 - 共 2490 条推文
 
 ---
 
@@ -236,10 +236,6 @@ Finally within reach
 
 RT @cb_doge: Family is the best part of life. https://t.co/HvvsVROWrJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL2GquluQERGOzSz6lWacs2tWnirchAAIrFGsbyXJ5VauFf9p9YGsFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2101307604131577894)
-
 ---
 
 ## 2026-09-19 21:58:30
@@ -250,8 +246,6 @@ RT @cb_doge: Family is the best part of life. https://t.co/HvvsVROWrJ
 
 Outrageously unsellable, yet incredibly popular: Uranium in Uranus
 
-[查看原文](https://x.com/elonmusk/status/2101309965457670255)
-
 ---
 
 ## 2026-09-19 21:59:10
@@ -261,8 +255,6 @@ Outrageously unsellable, yet incredibly popular: Uranium in Uranus
 **内容**:
 
 “:” 🤭
-
-[查看原文](https://x.com/elonmusk/status/2101310133489864904)
 
 ---
 
@@ -276,7 +268,31 @@ RT @cb_doge: BREAKING: Brazil’s Environmental Police adds @Starlink to patrol 
 
 Officers in Paraná…
 
-[查看原文](https://x.com/elonmusk/status/2101310526588350761)
+---
+
+## 2026-09-19 22:55:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Sounds bad
+
+[查看原文](https://x.com/elonmusk/status/2101324271712657470)
+
+---
+
+## 2026-09-19 23:01:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Whoever came up with the pronouns bs deserves a punch in the face. 
+
+It’s the dumbest thing ever.
+
+[查看原文](https://x.com/elonmusk/status/2101325886289072542)
 
 ---
 
