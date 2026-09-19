@@ -7,7 +7,22 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 378 条推文
+> 📊 推文存档 - 共 379 条推文
+
+---
+
+## 2026-09-19 23:37:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+下周美和华领导人会面，必然互相有承诺，
+所以我以布局美诺华😂 https://t.co/Zvz8WoHHWj
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL2WqurK4NE6oYjlvVaHzeMMkgIOxBAAJbFGsbyXJ5VQipSAR3vv9tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2101334948032712755)
 
 ---
 

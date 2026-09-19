@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2490 条推文
+> 📊 推文存档 - 共 2491 条推文
 
 ---
 
@@ -278,8 +278,6 @@ Officers in Paraná…
 
 Sounds bad
 
-[查看原文](https://x.com/elonmusk/status/2101324271712657470)
-
 ---
 
 ## 2026-09-19 23:01:46
@@ -292,7 +290,19 @@ Whoever came up with the pronouns bs deserves a punch in the face.
 
 It’s the dumbest thing ever.
 
-[查看原文](https://x.com/elonmusk/status/2101325886289072542)
+---
+
+## 2026-09-19 23:09:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Steve09812: Jerry Seinfeld The '3 Poison Ps' of Parenthood https://t.co/irAz6W0Qgq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL2mqurLKkUlP-G21iHGPthOvxwPcAA1wUaxvJcnlV43EQXqqtk-QBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101327789639041355)
 
 ---
 
