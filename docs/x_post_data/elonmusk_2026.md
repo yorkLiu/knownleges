@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2492 条推文
+> 📊 推文存档 - 共 2494 条推文
 
 ---
 
@@ -23,9 +23,29 @@ RT @FinanceLancelot: "The Federal Reserve intentionally caused the Great Depress
 
 https://t.co/ohr8YVHzU1
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL22qu5tc7J2AghWlA5zA2uoyvm4QxAALbFGsbyXJ5VWUtdVISmVs7AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2101397310475284547)
+## 2026-09-20 03:49:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Banger
+
+[查看原文](https://x.com/elonmusk/status/2101398181833515455)
+
+---
+
+## 2026-09-20 03:51:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The unboxing will be 🤌
+
+[查看原文](https://x.com/elonmusk/status/2101398902503068015)
 
 ---
 
