@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2475 条推文
+> 📊 推文存档 - 共 2479 条推文
 
 ---
 
@@ -91,8 +91,6 @@ RT @neuralink: Through the VOICE trial, Terry is using his Neuralink implant to 
 
 RT @cb_doge: BREAKING: NASA chief Jared Isaacman says SpaceX is incredible and the United States would be seriously challenged in space wit…
 
-[查看原文](https://x.com/elonmusk/status/2101179410485272642)
-
 ---
 
 ## 2026-09-19 13:31:07
@@ -106,8 +104,6 @@ RT @cb_doge: Grok Bot summary of SpaceX CFO Bret Johnsen’s new interview with 
 Bret’s path
 - Came from…
 
-[查看原文](https://x.com/elonmusk/status/2101182278093115792)
-
 ---
 
 ## 2026-09-19 13:33:44
@@ -117,8 +113,6 @@ Bret’s path
 **内容**:
 
 Naturally, Uranus will glow in the dark, because otherwise how could you find it?
-
-[查看原文](https://x.com/elonmusk/status/2101182936112373866)
 
 ---
 
@@ -130,8 +124,6 @@ Naturally, Uranus will glow in the dark, because otherwise how could you find it
 
 A Geiger Counter will be offered as an optional strap-on
 
-[查看原文](https://x.com/elonmusk/status/2101183464129151042)
-
 ---
 
 ## 2026-09-19 13:45:49
@@ -142,7 +134,53 @@ A Geiger Counter will be offered as an optional strap-on
 
 It’s not easy coming up with something that is both outrageously unsellable and yet extremely popular
 
-[查看原文](https://x.com/elonmusk/status/2101185976227819544)
+---
+
+## 2026-09-19 14:31:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XOpenSource: We’ve expanded Under The Hood after seeing people’s appreciation of more transparency into government-required content fil…
+
+[查看原文](https://x.com/elonmusk/status/2101197537612870125)
+
+---
+
+## 2026-09-19 14:32:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @realDonaldTrump: Ken Paxton has my Complete and Total Endorsement to be the next U.S. Senator from Texas — HE WILL NEVER LET YOU DOWN!…
+
+[查看原文](https://x.com/elonmusk/status/2101197842828214445)
+
+---
+
+## 2026-09-19 14:33:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🎯
+
+[查看原文](https://x.com/elonmusk/status/2101197931755737531)
+
+---
+
+## 2026-09-19 14:35:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @djseo: @Scobleizer Elon made some of the key technical decisions and still does to this day. We meet with him weekly (often more freque…
+
+[查看原文](https://x.com/elonmusk/status/2101198367711719729)
 
 ---
 
