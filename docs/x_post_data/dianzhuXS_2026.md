@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 378 条推文
+> 📊 推文存档 - 共 379 条推文
 
 ---
 
@@ -27,9 +27,21 @@ tags: ["2026"]
 
 這不會讓美國付出任何代價！ https://t.co/ulobdayeWs
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL02qtxCfUmR3zhMdUMLGVqeJOpkhqAALtEGsbyXJxVYK5UykuutAPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2101084629298209091)
+## 2026-09-19 08:06:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+為什麼要挺美國，挺川普，挺日本，挺高市早苗？
+
+就因為習近平怕他們，共產黨視他們為眼中釘，就這一點就夠了！
+
+別跟我說你們的那些瓶瓶罐罐兒。你個人利益受損，你可以恨川恨高，但不要想來教育我。因為我的理想是地球上再沒有共產主義，而你的理想是過小日子繁衍生息。
+
+[查看原文](https://x.com/dianzhuXS/status/2101100704941199784)
 
 ---
 
