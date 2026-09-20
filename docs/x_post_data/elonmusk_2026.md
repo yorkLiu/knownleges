@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2520 条推文
+> 📊 推文存档 - 共 2521 条推文
 
 ---
 
@@ -67,8 +67,6 @@ RT @jk_rowling: Every glib, arrogant, virtue-signalling celebrity who’s broadc
 
 A Tesla saves its owner from prison!
 
-[查看原文](https://x.com/elonmusk/status/2101766776325595530)
-
 ---
 
 ## 2026-09-21 04:14:38
@@ -79,7 +77,19 @@ A Tesla saves its owner from prison!
 
 Cybertruck as Heavy Cav
 
-[查看原文](https://x.com/elonmusk/status/2101767007406641574)
+---
+
+## 2026-09-21 06:17:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WallStreetMav: Taylor Lorenz said Elon will ruin Twitter back in 2023 after he bought it.
+
+Now she has flipped 100% and has admitted th…
+
+[查看原文](https://x.com/elonmusk/status/2101797925714334138)
 
 ---
 

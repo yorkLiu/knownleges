@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 464 条推文
+> 📊 推文存档 - 共 465 条推文
 
 ---
 
@@ -25,7 +25,19 @@ But if I share something in English: I only get 50 comments.
 
 Feels bad anon
 
-[查看原文](https://x.com/aleabitoreddit/status/2101730902615486643)
+---
+
+## 2026-09-21 06:16:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Jev potential implications + applications are actually insane to think about
+
+Does anyone have experience using open source decision model variants yet?
+
+[查看原文](https://x.com/aleabitoreddit/status/2101797616812269694)
 
 ---
 
