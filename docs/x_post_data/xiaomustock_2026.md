@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 381 条推文
+> 📊 推文存档 - 共 382 条推文
 
 ---
 
@@ -30,7 +30,19 @@ tags: ["2026"]
 时至今日快2个月了，@Gate 被盗用户刑事立案了，赔偿资产这方面还没出下文，请了一堆人吃吃喝喝写软文有钱。
 有时候很难懂这个世界，还是做交易没那么多复杂的人情世故。
 
-[查看原文](https://x.com/xiaomustock/status/2101646872083656822)
+---
+
+## 2026-09-20 21:11:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+下周的每一天都有美联储的出来讲话 https://t.co/Dk1a2T9hLu
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL5Gqv3eQxoVLGvL0BJpxtMvJ_GLiJAAInGWsbfgWBVZ6X5hKRnuszAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2101660487457124448)
 
 ---
 
