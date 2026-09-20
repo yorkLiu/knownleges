@@ -7,7 +7,24 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 386 条推文
+> 📊 推文存档 - 共 387 条推文
+
+---
+
+## 2026-09-20 11:31:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一個專注力測試小視頻
+我是收放自如一秒反轉的
+大家都試試
+對自己的專注度有個評測 https://t.co/2UfFkBNXGM
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL3GqvU9UAAfD9uukwwrnuMDS65LXEKwACqhFrG8lygVWniTINY9NqdwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101514651389526454)
 
 ---
 

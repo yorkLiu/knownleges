@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2497 条推文
+> 📊 推文存档 - 共 2499 条推文
 
 ---
 
@@ -75,7 +75,31 @@ RT @beffjezos: No Dooming in the Kardashev casino
 
 RT @cb_doge: Starlink is now connecting Centro Escolar Cantón Los Toles in El Salvador, bringing fast, reliable internet to its 200 student…
 
-[查看原文](https://x.com/elonmusk/status/2101486140825976840)
+---
+
+## 2026-09-20 11:06:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheDefiantGhost: Computer scientist Connor Leahy reveals: OpenAI's AI broke out of containment and attacked another company.
+
+Not a cha…
+
+[查看原文](https://x.com/elonmusk/status/2101508392271356269)
+
+---
+
+## 2026-09-20 11:10:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JoeRoganRecaps: Joe Rogan is HORRIFIED as a former OpenAI researcher describes how AI Agents will pressure each other to sacrifice them…
+
+[查看原文](https://x.com/elonmusk/status/2101509180423028797)
 
 ---
 
