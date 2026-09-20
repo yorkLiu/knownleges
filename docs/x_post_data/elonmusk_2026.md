@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2504 条推文
+> 📊 推文存档 - 共 2505 条推文
 
 ---
 
@@ -137,8 +137,6 @@ RT @SpaceX: Deployment of 27 @Starlink satellites confirmed
 
 Tesla has a Semi 😂
 
-[查看原文](https://x.com/elonmusk/status/2101538675284676696)
-
 ---
 
 ## 2026-09-20 13:16:10
@@ -151,7 +149,19 @@ RT @visegrad24: When will South Africa let the greatest South African entreprene
 
 Elon Musk says…
 
-[查看原文](https://x.com/elonmusk/status/2101540903508705781)
+---
+
+## 2026-09-20 16:12:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk in a Japanese game show in 2014 https://t.co/NiNU5Pd6pk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL4GqvnIO4uTRLjTK9fNPTqKvqGzpJAAJVGGsbfgWBVasMNCfOLpukAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101585270940545316)
 
 ---
 
