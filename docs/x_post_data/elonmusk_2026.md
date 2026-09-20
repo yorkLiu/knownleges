@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2510 条推文
+> 📊 推文存档 - 共 2514 条推文
 
 ---
 
@@ -169,10 +169,6 @@ RT @cb_doge: Elon Musk in a Japanese game show in 2014 https://t.co/NiNU5Pd6pk
 
 RT @tesla_semi: The only Tesla with 18 wheels https://t.co/Aut5wlCpsR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL4mqvo8afoIg1imq9rj9QyZAHNYrgAAJuGGsbfgWBVRXlZ73Jih7gAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2101595169703485730)
-
 ---
 
 ## 2026-09-20 16:53:09
@@ -182,8 +178,6 @@ RT @tesla_semi: The only Tesla with 18 wheels https://t.co/Aut5wlCpsR
 **内容**:
 
 8 years ago
-
-[查看原文](https://x.com/elonmusk/status/2101595506426429618)
 
 ---
 
@@ -197,10 +191,6 @@ RT @KatieMiller: Taylor in 2023:
 
 Taylor in 2026: “X is better now than ever” https://t.co/4s5IAvUPCO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL4Wqvo8MNFAfGShmzyOSl8cHiryWXAAJtGGsbfgWBVYfa-9CV4pbRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2101599387973722369)
-
 ---
 
 ## 2026-09-20 17:09:43
@@ -210,8 +200,6 @@ Taylor in 2026: “X is better now than ever” https://t.co/4s5IAvUPCO
 **内容**:
 
 Grok @Bot
-
-[查看原文](https://x.com/elonmusk/status/2101599676214702243)
 
 ---
 
@@ -223,7 +211,62 @@ Grok @Bot
 
 RT @TheBabylonBee: Caving to Demands for Diversity, SNL Hires Funny Cast Member https://t.co/ZpaepiMLYa
 
-[查看原文](https://x.com/elonmusk/status/2101600192470605988)
+---
+
+## 2026-09-20 17:18:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the future we shall bring into being https://t.co/8aD0w8MDVc
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL42qvqwehGHuO1vLN1rdRqSYHdR10AAJ9GGsbfgWBVevj1E_00odmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101601873115681037)
+
+---
+
+## 2026-09-20 17:22:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TeslaLarry: Orbital Data Center cost takes by Street analysts making the rounds: 
+Wood Mac ~$170B/GW, 
+BofA $160B to 180B, 
+Futurum ~$7…
+
+[查看原文](https://x.com/elonmusk/status/2101602784152031399)
+
+---
+
+## 2026-09-20 17:23:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceXAI just made a massive jump in image generation
+
+Grok Imagine Image 2.0 is now #4 on Artificial Analysis’ Text-to-Image…
+
+[查看原文](https://x.com/elonmusk/status/2101603057268293801)
+
+---
+
+## 2026-09-20 17:24:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: .@elonmusk WENT ALL IN
+
+"He went all in on SpaceX and Tesla. I think in many corners he does not get the respect that he…
+
+[查看原文](https://x.com/elonmusk/status/2101603329503887818)
 
 ---
 
