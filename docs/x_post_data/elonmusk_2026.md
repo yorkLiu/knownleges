@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2521 条推文
+> 📊 推文存档 - 共 2523 条推文
 
 ---
 
@@ -89,7 +89,33 @@ RT @WallStreetMav: Taylor Lorenz said Elon will ruin Twitter back in 2023 after 
 
 Now she has flipped 100% and has admitted th…
 
-[查看原文](https://x.com/elonmusk/status/2101797925714334138)
+---
+
+## 2026-09-21 06:47:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: in target in downtown SF
+
+imagine if we locked up criminals instead of laundry detergent
+
+[查看原文](https://x.com/elonmusk/status/2101805439507939704)
+
+---
+
+## 2026-09-21 06:47:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: Now, you can understand why the democrats have been attacking me in Pennsylvania. 
+
+We uncovered 371,595 non-citizens &amp; p…
+
+[查看原文](https://x.com/elonmusk/status/2101805551680381200)
 
 ---
 
