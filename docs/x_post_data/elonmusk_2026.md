@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2496 条推文
+> 📊 推文存档 - 共 2497 条推文
 
 ---
 
@@ -65,7 +65,17 @@ Put it on your mantelpiece and show your guests Uranus!
 
 RT @beffjezos: No Dooming in the Kardashev casino
 
-[查看原文](https://x.com/elonmusk/status/2101470604159299612)
+---
+
+## 2026-09-20 09:38:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink is now connecting Centro Escolar Cantón Los Toles in El Salvador, bringing fast, reliable internet to its 200 student…
+
+[查看原文](https://x.com/elonmusk/status/2101486140825976840)
 
 ---
 
