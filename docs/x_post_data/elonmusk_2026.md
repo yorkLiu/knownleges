@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2515 条推文
+> 📊 推文存档 - 共 2517 条推文
 
 ---
 
@@ -21,7 +21,35 @@ Boring Company is working on a simple, precursor Hyperloop tunnel between Austin
 
 Due to traffic congestion, that journey can currently take up to 2.5 hours. @BoringCompany can reduce that to a consistent &lt;30 mins.
 
-[查看原文](https://x.com/elonmusk/status/2101732496396439751)
+---
+
+## 2026-09-21 03:26:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @boringcompany: TBC would be excited and honored to build this massive infrastructure project. 
+
+Because Loop/Hyperloop is express (i.e.…
+
+[查看原文](https://x.com/elonmusk/status/2101754878297247939)
+
+---
+
+## 2026-09-21 03:32:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JTLonsdale: Amazing.
+
+Everybody is sleeping on how important this is. For all of us!
+
+For a relatively very small additional cost, we c…
+
+[查看原文](https://x.com/elonmusk/status/2101756333884342669)
 
 ---
 
