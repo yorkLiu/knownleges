@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2505 条推文
+> 📊 推文存档 - 共 2510 条推文
 
 ---
 
@@ -159,9 +159,71 @@ Elon Musk says…
 
 RT @cb_doge: Elon Musk in a Japanese game show in 2014 https://t.co/NiNU5Pd6pk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL4GqvnIO4uTRLjTK9fNPTqKvqGzpJAAJVGGsbfgWBVasMNCfOLpukAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2101585270940545316)
+## 2026-09-20 16:51:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tesla_semi: The only Tesla with 18 wheels https://t.co/Aut5wlCpsR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL4mqvo8afoIg1imq9rj9QyZAHNYrgAAJuGGsbfgWBVRXlZ73Jih7gAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101595169703485730)
+
+---
+
+## 2026-09-20 16:53:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+8 years ago
+
+[查看原文](https://x.com/elonmusk/status/2101595506426429618)
+
+---
+
+## 2026-09-20 17:08:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: Taylor in 2023:
+
+Taylor in 2026: “X is better now than ever” https://t.co/4s5IAvUPCO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL4Wqvo8MNFAfGShmzyOSl8cHiryWXAAJtGGsbfgWBVYfa-9CV4pbRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101599387973722369)
+
+---
+
+## 2026-09-20 17:09:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2101599676214702243)
+
+---
+
+## 2026-09-20 17:11:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheBabylonBee: Caving to Demands for Diversity, SNL Hires Funny Cast Member https://t.co/ZpaepiMLYa
+
+[查看原文](https://x.com/elonmusk/status/2101600192470605988)
 
 ---
 
