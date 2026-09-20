@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 462 条推文
+> 📊 推文存档 - 共 463 条推文
 
 ---
 
@@ -25,7 +25,21 @@ You could unintentionally cause bottlenecks across your main ASIC competitors:
 
 Like $MRVL (Celestial), AlChip, Mediatek, GUC (Ayar CPO), first gen
 
-[查看原文](https://x.com/aleabitoreddit/status/2101402656845808007)
+---
+
+## 2026-09-20 08:22:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我有点想在中国的社交平台上开个账号玩玩
+
+就玩一小段时间，跟用不了 X 的粉丝们互动一下
+
+大家推荐去哪个平台发帖？
+
+[查看原文](https://x.com/aleabitoreddit/status/2101467035972894984)
 
 ---
 

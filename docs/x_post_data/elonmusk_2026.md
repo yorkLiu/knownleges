@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2494 条推文
+> 📊 推文存档 - 共 2495 条推文
 
 ---
 
@@ -33,8 +33,6 @@ https://t.co/ohr8YVHzU1
 
 Banger
 
-[查看原文](https://x.com/elonmusk/status/2101398181833515455)
-
 ---
 
 ## 2026-09-20 03:51:55
@@ -45,7 +43,19 @@ Banger
 
 The unboxing will be 🤌
 
-[查看原文](https://x.com/elonmusk/status/2101398902503068015)
+---
+
+## 2026-09-20 08:25:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Uranium in Uranus will be our best merch ever. 
+
+Put it on your mantelpiece and show your guests Uranus!
+
+[查看原文](https://x.com/elonmusk/status/2101467808664084903)
 
 ---
 
