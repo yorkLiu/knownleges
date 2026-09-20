@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2518 条推文
+> 📊 推文存档 - 共 2520 条推文
 
 ---
 
@@ -57,7 +57,29 @@ For a relatively very small additional cost, we c…
 
 RT @jk_rowling: Every glib, arrogant, virtue-signalling celebrity who’s broadcast the lie that  kids will kill themselves if not allowed to…
 
-[查看原文](https://x.com/elonmusk/status/2101756818993422434)
+---
+
+## 2026-09-21 04:13:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A Tesla saves its owner from prison!
+
+[查看原文](https://x.com/elonmusk/status/2101766776325595530)
+
+---
+
+## 2026-09-21 04:14:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cybertruck as Heavy Cav
+
+[查看原文](https://x.com/elonmusk/status/2101767007406641574)
 
 ---
 
