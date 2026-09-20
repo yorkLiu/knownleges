@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2517 条推文
+> 📊 推文存档 - 共 2518 条推文
 
 ---
 
@@ -33,8 +33,6 @@ RT @boringcompany: TBC would be excited and honored to build this massive infras
 
 Because Loop/Hyperloop is express (i.e.…
 
-[查看原文](https://x.com/elonmusk/status/2101754878297247939)
-
 ---
 
 ## 2026-09-21 03:32:13
@@ -49,7 +47,17 @@ Everybody is sleeping on how important this is. For all of us!
 
 For a relatively very small additional cost, we c…
 
-[查看原文](https://x.com/elonmusk/status/2101756333884342669)
+---
+
+## 2026-09-21 03:34:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jk_rowling: Every glib, arrogant, virtue-signalling celebrity who’s broadcast the lie that  kids will kill themselves if not allowed to…
+
+[查看原文](https://x.com/elonmusk/status/2101756818993422434)
 
 ---
 
