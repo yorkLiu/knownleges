@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2523 条推文
+> 📊 推文存档 - 共 2525 条推文
 
 ---
 
@@ -101,8 +101,6 @@ RT @ArthurMacwaters: in target in downtown SF
 
 imagine if we locked up criminals instead of laundry detergent
 
-[查看原文](https://x.com/elonmusk/status/2101805439507939704)
-
 ---
 
 ## 2026-09-21 06:47:47
@@ -115,7 +113,31 @@ RT @ScottPresler: Now, you can understand why the democrats have been attacking 
 
 We uncovered 371,595 non-citizens &amp; p…
 
-[查看原文](https://x.com/elonmusk/status/2101805551680381200)
+---
+
+## 2026-09-21 07:28:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @allegrajacchia: The Creators Product team at 𝕏 is growing.
+
+I’m hiring someone to help bring more great creators to 𝕏 and help existing…
+
+[查看原文](https://x.com/elonmusk/status/2101815715011670220)
+
+---
+
+## 2026-09-21 07:40:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MichaelDell: Looking forward to this. Much needed! 🙏
+
+[查看原文](https://x.com/elonmusk/status/2101818870176813185)
 
 ---
 

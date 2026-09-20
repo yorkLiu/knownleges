@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 465 条推文
+> 📊 推文存档 - 共 466 条推文
 
 ---
 
@@ -37,7 +37,23 @@ Jev potential implications + applications are actually insane to think about
 
 Does anyone have experience using open source decision model variants yet?
 
-[查看原文](https://x.com/aleabitoreddit/status/2101797616812269694)
+---
+
+## 2026-09-21 07:38:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The internet is now cooked soon?
+
+With $RDDT to other social media like X more at risk due to AI.
+
+You can have new decision models like Jev making autonomous computer interaction at near $0 cost. (With actions becoming more human-like/adapative)
+
+Then LLMs outputs influencing
+
+[查看原文](https://x.com/aleabitoreddit/status/2101818303216013812)
 
 ---
 
