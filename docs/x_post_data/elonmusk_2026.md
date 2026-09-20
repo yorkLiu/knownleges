@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2499 条推文
+> 📊 推文存档 - 共 2502 条推文
 
 ---
 
@@ -87,8 +87,6 @@ RT @TheDefiantGhost: Computer scientist Connor Leahy reveals: OpenAI's AI broke 
 
 Not a cha…
 
-[查看原文](https://x.com/elonmusk/status/2101508392271356269)
-
 ---
 
 ## 2026-09-20 11:10:07
@@ -99,7 +97,45 @@ Not a cha…
 
 RT @JoeRoganRecaps: Joe Rogan is HORRIFIED as a former OpenAI researcher describes how AI Agents will pressure each other to sacrifice them…
 
-[查看原文](https://x.com/elonmusk/status/2101509180423028797)
+---
+
+## 2026-09-20 11:44:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Fairing separation confirmed. Today’s mission marks our first 40th flight of a fairing half! https://t.co/j3slt56YN0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL3mqvWxq1kUO10gFGXq1jSi_08TFSAAK5EWsbyXKBVd70teyaqCVIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101517868995080418)
+
+---
+
+## 2026-09-20 12:01:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Not many people know that Elon Musk started The Boring Company as a joke. https://t.co/djaBIvcOv2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL3WqvWxeO4nUMbkj9K6IYrtZALEWpAAK4EWsbyXKBVcXqoALSio6IAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101522086854357395)
+
+---
+
+## 2026-09-20 12:02:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Deployment of 27 @Starlink satellites confirmed
+
+[查看原文](https://x.com/elonmusk/status/2101522427977011594)
 
 ---
 
