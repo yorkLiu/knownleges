@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2514 条推文
+> 📊 推文存档 - 共 2515 条推文
+
+---
+
+## 2026-09-21 01:57:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Boring Company is working on a simple, precursor Hyperloop tunnel between Austin and San Antonio (&gt;200 mph). 
+
+Due to traffic congestion, that journey can currently take up to 2.5 hours. @BoringCompany can reduce that to a consistent &lt;30 mins.
+
+[查看原文](https://x.com/elonmusk/status/2101732496396439751)
 
 ---
 
