@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2495 条推文
+> 📊 推文存档 - 共 2496 条推文
 
 ---
 
@@ -55,7 +55,17 @@ Uranium in Uranus will be our best merch ever.
 
 Put it on your mantelpiece and show your guests Uranus!
 
-[查看原文](https://x.com/elonmusk/status/2101467808664084903)
+---
+
+## 2026-09-20 08:36:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @beffjezos: No Dooming in the Kardashev casino
+
+[查看原文](https://x.com/elonmusk/status/2101470604159299612)
 
 ---
 
