@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 393 条推文
+> 📊 推文存档 - 共 395 条推文
 
 ---
 
@@ -84,7 +84,33 @@ tags: ["2026"]
 【國運能量層級大於人運】
 出淤泥而不染的，有，是極少數
 
-[查看原文](https://x.com/dianzhuXS/status/2101860962165043282)
+---
+
+## 2026-09-21 13:59:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+根據你知道的關於我的一切，把這個容器兩面都填滿 @grok https://t.co/JajX25wtAp
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL6mqwzWXfVDnUZK7KZQeG_XwIe-8rAAJnEWsbfgWJVQXVNLHMwVl3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101914140105388290)
+
+---
+
+## 2026-09-21 14:15:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你看看人家別的AI做的，不臉紅嗎？你就說你是不是個文盲就完事了😮‍💨@grok https://t.co/De5MpLtFRv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL6WqwzWImGf3-WLmMC4pN1qwmT6ojAAJmEWsbfgWJVWHMiIhKYTOZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101918254281486473)
 
 ---
 
