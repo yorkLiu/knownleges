@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 391 条推文
+> 📊 推文存档 - 共 392 条推文
 
 ---
 
@@ -62,9 +62,17 @@ tags: ["2026"]
 我憑什麼要搭理你？
 跟你探討啥？ https://t.co/hxfSBwjFMI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL5mqwjE5FtcF8rI3_sRJFV51U_8uKAAJgEGsbfgWJVajjgmDsifnZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2101849177714295217)
+## 2026-09-21 09:54:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我這是看了很多1966年~1976年出生的人八字得出的結論，這些人的命運全部打上了「政治時間」的烙印，大多數終生背離天道法則「真太陽時」
+
+[查看原文](https://x.com/dianzhuXS/status/2101852452052246699)
 
 ---
 

@@ -17,9 +17,9 @@ title: 推文数据
 || [@elonmusk](./elonmusk_2026.md) | 2526 | ✅ | 1356 | [查看](./elonmusk_2026.md) |
 || [@karpathy](./karpathy_2026.md) | 43 |   | 17 | [查看](./karpathy_2026.md) |
 || [@aleabitoreddit](./aleabitoreddit_2026.md) | 466 | ✅ | 482 | [查看](./aleabitoreddit_2026.md) |
-|| [@dianzhuXS](./dianzhuXS_2026.md) | 391 | ✅ | 254 | [查看](./dianzhuXS_2026.md) |
+|| [@dianzhuXS](./dianzhuXS_2026.md) | 392 | ✅ | 253 | [查看](./dianzhuXS_2026.md) |
 || [@Mimiwftt](./Mimiwftt_2026.md) | 483 |   | 161 | [查看](./Mimiwftt_2026.md) |
-|| [@akohika1233](./akohika1233_2026.md) | 42 | ✅ | 23 | [查看](./akohika1233_2026.md) |
+|| [@akohika1233](./akohika1233_2026.md) | 44 | ✅ | 23 | [查看](./akohika1233_2026.md) |
 ---
 
 ## 📅 [日期归档](./tags/index.md)
