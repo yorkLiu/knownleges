@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2537 条推文
+> 📊 推文存档 - 共 2538 条推文
 
 ---
 
@@ -259,7 +259,19 @@ RT @wormuth: GPT-6 Astra pushed a simulated person off a ledge in multiple trial
 
 Intelligence is improving exponentially
 
-[查看原文](https://x.com/elonmusk/status/2101975928800714904)
+---
+
+## 2026-09-21 22:48:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Morgan Stanley's Adam Jonas in new note:
+
+"SpaceX and Tesla share tech, talent, and infrastructure in a shared mission o…
+
+[查看原文](https://x.com/elonmusk/status/2102047246422348171)
 
 ---
 
