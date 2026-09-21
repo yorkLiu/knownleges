@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 396 条推文
+> 📊 推文存档 - 共 398 条推文
 
 ---
 
@@ -114,9 +114,35 @@ tags: ["2026"]
 
 家門口小館兒，假裝在日本😊 https://t.co/fshK5sjbYO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL7Gqw8U8f3lM4znGncrfXt7NZiPcwAAIvEmsbfgWJVZ0Oqn0H9_W4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2101955084028662271)
+## 2026-09-21 18:08:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我也不知道這位筆下的「南師」是誰😅
+南懷瑾？我一直也不認為他是什麼師。還200年大運，笑死人了。
+再說一遍，我沒說過的就是沒說過，誰說的問誰去👇 https://t.co/w2bnIZDGwD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL7WqxBxvJPSS80HdxsF2W_bmUoaGVAAJ6EmsbfgWJVYNmmx7PYID6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101976902856777902)
+
+---
+
+## 2026-09-21 18:28:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不是我狂，是尊重史實，這一次人類文明，牆國歷史上就沒有走過200年大運的時候。
+
+最鼎盛的大唐貞觀之治到開元盛世，加上天寶合起來也就129年，這還是忽略了中間武則天竄唐，可能恐龍時代那地方走過200年的大運？由此可見，南懷瑾是張嘴就來，忽悠傻逼「遙遙領先」🤭
+
+[查看原文](https://x.com/dianzhuXS/status/2101981861052624903)
 
 ---
 
