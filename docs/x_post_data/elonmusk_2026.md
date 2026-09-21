@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2538 条推文
+> 📊 推文存档 - 共 2540 条推文
 
 ---
 
@@ -271,7 +271,33 @@ RT @SawyerMerritt: Morgan Stanley's Adam Jonas in new note:
 
 "SpaceX and Tesla share tech, talent, and infrastructure in a shared mission o…
 
-[查看原文](https://x.com/elonmusk/status/2102047246422348171)
+---
+
+## 2026-09-21 23:22:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: The next generation Starlink V5 has a smaller form factor and lightweight design with greater power efficiency.
+
+With speeds…
+
+[查看原文](https://x.com/elonmusk/status/2102055943705882928)
+
+---
+
+## 2026-09-21 23:31:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @thirdmetax: Tom Cruise reveals he never reads scripts himself, he has the writers read them to him out loud
+
+"What I do with directors…
+
+[查看原文](https://x.com/elonmusk/status/2102058173355946284)
 
 ---
 
