@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 382 条推文
+> 📊 推文存档 - 共 383 条推文
+
+---
+
+## 2026-09-21 21:39:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+meta上个月还是540这个月就要700了。
+最被低估的奶头乐产品，
+现在ai普通人都失业了，必须沉迷奶头乐维持社会稳定。 https://t.co/Wtq8t5K1KO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL7mqxOcMJ2bN0L-DoX3AF2b9Djc3rAALgEmsbfgWRVQlj4etNDpYqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2102029893207007405)
 
 ---
 
