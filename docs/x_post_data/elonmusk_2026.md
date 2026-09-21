@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2525 条推文
+> 📊 推文存档 - 共 2526 条推文
 
 ---
 
@@ -125,8 +125,6 @@ RT @allegrajacchia: The Creators Product team at 𝕏 is growing.
 
 I’m hiring someone to help bring more great creators to 𝕏 and help existing…
 
-[查看原文](https://x.com/elonmusk/status/2101815715011670220)
-
 ---
 
 ## 2026-09-21 07:40:43
@@ -137,7 +135,17 @@ I’m hiring someone to help bring more great creators to 𝕏 and help existing
 
 RT @MichaelDell: Looking forward to this. Much needed! 🙏
 
-[查看原文](https://x.com/elonmusk/status/2101818870176813185)
+---
+
+## 2026-09-21 08:08:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PeterDiamandis: ALIGNMENT must be the #1 objective.  Train next generation models on aligned data sets. Not the crap on Reddit and Face…
+
+[查看原文](https://x.com/elonmusk/status/2101825893710856301)
 
 ---
 
