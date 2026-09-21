@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2534 条推文
+> 📊 推文存档 - 共 2536 条推文
 
 ---
 
@@ -229,7 +229,31 @@ RT @natolambert: I don’t agree exactly on the assumption that full RSI will wo
 
 RT @mayemusk: Starlink saving lives, the real purpose.
 
-[查看原文](https://x.com/elonmusk/status/2101904983994065255)
+---
+
+## 2026-09-21 14:32:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aaronburnett: The only thing that matters is that the customer never feels the need to run a speed test. I ran speed tests far more on…
+
+[查看原文](https://x.com/elonmusk/status/2101922448501264660)
+
+---
+
+## 2026-09-21 14:40:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wormuth: GPT-6 Astra pushed a simulated person off a ledge in multiple trials. Grok, Gemini, and Claude did not. https://t.co/Yep9lVxgi3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL62qw1Kcsar3DP1Z-Ia_S6NsOBTc2AAKEEWsbfgWJVS1s4pgdKduKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2101924386810786013)
 
 ---
 
