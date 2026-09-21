@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 468 条推文
+> 📊 推文存档 - 共 469 条推文
+
+---
+
+## 2026-09-22 03:13:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’re in the modern agricultural revolution.
+
+In terms of civilization-level impact of AI.
+
+So… not sure how anyone can be bearish so early on into the singularity and before mass deployment of physical AI. https://t.co/uJAXpZm4MP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL92qxgm9wcQMIKhY6pA90tgTgWIBAAAJvE2sbfgWRVU4YRcgnRz2mAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2102114073836228810)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2563 条推文
+> 📊 推文存档 - 共 2565 条推文
 
 ---
 
@@ -153,8 +153,6 @@ RT @mattshumer_: I’ve been testing Grok 4.7… it’s a really great daily dri
 
 Definitely worth trying!
 
-[查看原文](https://x.com/elonmusk/status/2102102046216196545)
-
 ---
 
 ## 2026-09-22 02:28:14
@@ -167,8 +165,6 @@ Important to use Grok 4.7 with our Build harness for the best results
 
 https://t.co/ppqui4HYMm
 
-[查看原文](https://x.com/elonmusk/status/2102102621037236699)
-
 ---
 
 ## 2026-09-22 02:30:01
@@ -179,8 +175,6 @@ https://t.co/ppqui4HYMm
 
 RT @Box: We put Grok 4.7 from @SpaceXAI to work on a $2 million insurance claim where one deductible error alone changes the calculation by…
 
-[查看原文](https://x.com/elonmusk/status/2102103068112199821)
-
 ---
 
 ## 2026-09-22 02:33:49
@@ -190,8 +184,6 @@ RT @Box: We put Grok 4.7 from @SpaceXAI to work on a $2 million insurance claim 
 **内容**:
 
 RT @rauchg: I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fas…
-
-[查看原文](https://x.com/elonmusk/status/2102104027165008317)
 
 ---
 
@@ -205,8 +197,6 @@ RT @NickADobos: Electrical engineering score is a pretty big deal.
 
 SpaceX has the engineering data that software companies don't.
 
-[查看原文](https://x.com/elonmusk/status/2102104403276603555)
-
 ---
 
 ## 2026-09-22 02:38:00
@@ -216,12 +206,6 @@ SpaceX has the engineering data that software companies don't.
 **内容**:
 
 RT @SpaceXAI: Compare Grok 4.7 (first) and 4.6 (second) building an open world city game. https://t.co/uxo3ays7Bx
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL9WqxeywAAYEyQJpfYfFAiHgb71OP3QACaRNrG34FkVWDaDKzf_etAAEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL9mqxey9xMEfEi4ogKNybPTlePF87AAJqE2sbfgWRVYc_OT_Q_eodAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2102105077536248024)
 
 ---
 
@@ -235,8 +219,6 @@ RT @cherry_mx_reds: Grok 4.7 made this in blender.
 
 I didn't tell it what to make but only that it should be something it can accomplish i…
 
-[查看原文](https://x.com/elonmusk/status/2102105289075925436)
-
 ---
 
 ## 2026-09-22 02:40:59
@@ -249,8 +231,6 @@ RT @cb_doge: BREAKING: Grok 4.7 dominates the Legal Agent Benchmark.
 
 It scored 19.6% on realistic, long-term legal tasks, beating every o…
 
-[查看原文](https://x.com/elonmusk/status/2102105829306495312)
-
 ---
 
 ## 2026-09-22 02:41:32
@@ -261,9 +241,32 @@ It scored 19.6% on realistic, long-term legal tasks, beating every o…
 
 RT @stevehou: Wow Grok 4.7 mogging out there. @SpaceXAI has been cooking hard. https://t.co/tQCBtWruws
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL9GqxeylTDvpo57bsLgOdOgKFC-uHAAJoE2sbfgWRVb3Qgjl_mooJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2102105966028222906)
+## 2026-09-22 02:47:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: “I’ve used FSD for like 90%+ of my miles since Saturday morning. Literally feels like magic. Has handled issues on the road bett…
+
+[查看原文](https://x.com/elonmusk/status/2102107404124999910)
+
+---
+
+## 2026-09-22 02:47:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ericzakariasson: and here’s the grok 4.7 model card. a few jumps vs 4.6 that stood out:
+
+- Terminal-Bench: 20.3% → 38.0%
+- SWE-Marathon…
+
+[查看原文](https://x.com/elonmusk/status/2102107554578931980)
 
 ---
 
