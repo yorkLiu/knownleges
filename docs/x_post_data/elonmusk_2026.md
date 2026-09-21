@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2550 条推文
+> 📊 推文存档 - 共 2554 条推文
 
 ---
 
@@ -99,7 +99,55 @@ Grok 4.7 places @SpaceXAI as third, after Anthropic &amp; OpenAI, for agentic co
 
 When factoring in that Grok is significantly faster &amp; lower cost, it’s a great choice for your everyday workhorse.
 
-[查看原文](https://x.com/elonmusk/status/2102082011233931762)
+---
+
+## 2026-09-22 01:12:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @haozhu_wang: We trained 4.7 on longer-running problems compared to Grok 4.6. It holds context better and checks its own work more caref…
+
+[查看原文](https://x.com/elonmusk/status/2102083438354292878)
+
+---
+
+## 2026-09-22 01:13:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7 works extremely well with our Build harness
+
+https://t.co/qeSIpwH1Jp
+
+[查看原文](https://x.com/elonmusk/status/2102083930107101382)
+
+---
+
+## 2026-09-22 01:14:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🚀
+
+[查看原文](https://x.com/elonmusk/status/2102084081475350829)
+
+---
+
+## 2026-09-22 01:15:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @milichab: Try Grok 4.7 - it excels at coding, engineering work, and 3D, and the model is a fantastic thought partner at high TPS in Gro…
+
+[查看原文](https://x.com/elonmusk/status/2102084221086904559)
 
 ---
 
