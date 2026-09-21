@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 467 条推文
+> 📊 推文存档 - 共 468 条推文
 
 ---
 
@@ -67,11 +67,33 @@ I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-
 
 But I think legacy memory a very interesting trade https://t.co/SG50lI3Lv2
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL52qwxhsdSBB_vnHWhGgJV682dSCLAAIkEWsbfgWJVf7Q5PqMTBPyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL6Gqwxh_9ip9HEloRVNvtju1Foa9mAAIlEWsbfgWJVXwWKexyDgMdAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-21 23:48:30
 
-[查看原文](https://x.com/aleabitoreddit/status/2101906175046635887)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I'm not having a fun day since I got sick today. But the bottlenecks are having a good time: 
+
+$AMD +9.13% | $INTC +14.16% | $ARM +14.33%
+
+CPUs go brrr
+
+$SIVE +10.32% | $AAOI +3.39% | AMS OSRAM +24.61%
+
+Lasers go brrr
+
+$EWY +4.08% | $DRAM +2.83% | $MU +2.23%
+
+Memory go brrr https://t.co/fA5AFrWN66
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL8WqxVtwLgnof9V9JLkZsq4UbKj9sAAInE2sbfgWRVSfefaYaEwt6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL8mqxVt8yCJK8WuQHqvdQhQNMjkVhAAIoE2sbfgWRVffPhv1bgbS1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2102062423499047004)
 
 ---
 
