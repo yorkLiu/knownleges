@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2530 条推文
+> 📊 推文存档 - 共 2533 条推文
 
 ---
 
@@ -187,7 +187,43 @@ And I think this is one of those things that may sounds small to many people unt
 
 RT @kevinrose: Built this Grok Bot, fully offline index of all your saved instagram videos via @karpathy-wiki-style .md. Uses @bot, @grok V…
 
-[查看原文](https://x.com/elonmusk/status/2101866518757683464)
+---
+
+## 2026-09-21 12:50:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting
+
+[查看原文](https://x.com/elonmusk/status/2101896799699062963)
+
+---
+
+## 2026-09-21 12:52:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @larsencc: Week 1 at SpaceXAI.
+
+The intensity is real and the people are great, but there is so much information coming from every direc…
+
+[查看原文](https://x.com/elonmusk/status/2101897305204945189)
+
+---
+
+## 2026-09-21 13:08:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @natolambert: I don’t agree exactly on the assumption that full RSI will work, but this is an excellent video summarizing where we are a…
+
+[查看原文](https://x.com/elonmusk/status/2101901374195691900)
 
 ---
 
