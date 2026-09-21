@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2554 条推文
+> 📊 推文存档 - 共 2563 条推文
 
 ---
 
@@ -109,8 +109,6 @@ When factoring in that Grok is significantly faster &amp; lower cost, it’s a g
 
 RT @haozhu_wang: We trained 4.7 on longer-running problems compared to Grok 4.6. It holds context better and checks its own work more caref…
 
-[查看原文](https://x.com/elonmusk/status/2102083438354292878)
-
 ---
 
 ## 2026-09-22 01:13:58
@@ -123,8 +121,6 @@ Grok 4.7 works extremely well with our Build harness
 
 https://t.co/qeSIpwH1Jp
 
-[查看原文](https://x.com/elonmusk/status/2102083930107101382)
-
 ---
 
 ## 2026-09-22 01:14:34
@@ -134,8 +130,6 @@ https://t.co/qeSIpwH1Jp
 **内容**:
 
 🚀
-
-[查看原文](https://x.com/elonmusk/status/2102084081475350829)
 
 ---
 
@@ -147,7 +141,129 @@ https://t.co/qeSIpwH1Jp
 
 RT @milichab: Try Grok 4.7 - it excels at coding, engineering work, and 3D, and the model is a fantastic thought partner at high TPS in Gro…
 
-[查看原文](https://x.com/elonmusk/status/2102084221086904559)
+---
+
+## 2026-09-22 02:25:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattshumer_: I’ve been testing Grok 4.7… it’s a really great daily driver, and a huge step up over 4.6.
+
+Definitely worth trying!
+
+[查看原文](https://x.com/elonmusk/status/2102102046216196545)
+
+---
+
+## 2026-09-22 02:28:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Important to use Grok 4.7 with our Build harness for the best results 
+
+https://t.co/ppqui4HYMm
+
+[查看原文](https://x.com/elonmusk/status/2102102621037236699)
+
+---
+
+## 2026-09-22 02:30:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Box: We put Grok 4.7 from @SpaceXAI to work on a $2 million insurance claim where one deductible error alone changes the calculation by…
+
+[查看原文](https://x.com/elonmusk/status/2102103068112199821)
+
+---
+
+## 2026-09-22 02:33:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @rauchg: I just gave Grok 4.7 a pretty hard problem, involving reverse-engineering a running binary. Beautifully solved. And it's so fas…
+
+[查看原文](https://x.com/elonmusk/status/2102104027165008317)
+
+---
+
+## 2026-09-22 02:35:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NickADobos: Electrical engineering score is a pretty big deal.
+
+SpaceX has the engineering data that software companies don't.
+
+[查看原文](https://x.com/elonmusk/status/2102104403276603555)
+
+---
+
+## 2026-09-22 02:38:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceXAI: Compare Grok 4.7 (first) and 4.6 (second) building an open world city game. https://t.co/uxo3ays7Bx
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL9WqxeywAAYEyQJpfYfFAiHgb71OP3QACaRNrG34FkVWDaDKzf_etAAEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL9mqxey9xMEfEi4ogKNybPTlePF87AAJqE2sbfgWRVYc_OT_Q_eodAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2102105077536248024)
+
+---
+
+## 2026-09-22 02:38:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cherry_mx_reds: Grok 4.7 made this in blender. 
+
+I didn't tell it what to make but only that it should be something it can accomplish i…
+
+[查看原文](https://x.com/elonmusk/status/2102105289075925436)
+
+---
+
+## 2026-09-22 02:40:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Grok 4.7 dominates the Legal Agent Benchmark. 
+
+It scored 19.6% on realistic, long-term legal tasks, beating every o…
+
+[查看原文](https://x.com/elonmusk/status/2102105829306495312)
+
+---
+
+## 2026-09-22 02:41:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevehou: Wow Grok 4.7 mogging out there. @SpaceXAI has been cooking hard. https://t.co/tQCBtWruws
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL9GqxeylTDvpo57bsLgOdOgKFC-uHAAJoE2sbfgWRVb3Qgjl_mooJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2102105966028222906)
 
 ---
 
