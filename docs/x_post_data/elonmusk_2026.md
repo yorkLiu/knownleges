@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2529 条推文
+> 📊 推文存档 - 共 2530 条推文
 
 ---
 
@@ -155,8 +155,6 @@ RT @PeterDiamandis: ALIGNMENT must be the #1 objective.  Train next generation m
 
 RT @WSJ: Romanian gangs are exploiting 1960s tech in the American welfare system to pilfer hundreds of millions of dollars from food-stamp…
 
-[查看原文](https://x.com/elonmusk/status/2101863833648177412)
-
 ---
 
 ## 2026-09-21 10:43:50
@@ -166,8 +164,6 @@ RT @WSJ: Romanian gangs are exploiting 1960s tech in the American welfare system
 **内容**:
 
 Don’t mess with 𝕏
-
-[查看原文](https://x.com/elonmusk/status/2101864954173251996)
 
 ---
 
@@ -181,7 +177,17 @@ RT @Teslaconomics: Just connected my Grok Bot to 𝕏 Money.
 
 And I think this is one of those things that may sounds small to many people unt…
 
-[查看原文](https://x.com/elonmusk/status/2101865940325478653)
+---
+
+## 2026-09-21 10:50:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kevinrose: Built this Grok Bot, fully offline index of all your saved instagram videos via @karpathy-wiki-style .md. Uses @bot, @grok V…
+
+[查看原文](https://x.com/elonmusk/status/2101866518757683464)
 
 ---
 
