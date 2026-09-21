@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2549 条推文
+> 📊 推文存档 - 共 2550 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use
 
-[查看原文](https://x.com/elonmusk/status/2102068280156414171)
-
 ---
 
 ## 2026-09-22 00:12:45
@@ -30,8 +28,6 @@ In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satel
 **内容**:
 
 RT @jgebbia: America’s Golden Age will not simply be declared. It will be designed.
-
-[查看原文](https://x.com/elonmusk/status/2102068523115700306)
 
 ---
 
@@ -43,8 +39,6 @@ RT @jgebbia: America’s Golden Age will not simply be declared. It will be desi
 
 RT @JackPosobiec: They're rioting in Austin against the US govt while flying foreign flags
 
-[查看原文](https://x.com/elonmusk/status/2102068833729052707)
-
 ---
 
 ## 2026-09-22 00:25:47
@@ -54,8 +48,6 @@ RT @JackPosobiec: They're rioting in Austin against the US govt while flying for
 **内容**:
 
 Grok 4.7 is a strong combination of intelligence, speed &amp; low cost
-
-[查看原文](https://x.com/elonmusk/status/2102071804495872374)
 
 ---
 
@@ -69,10 +61,6 @@ RT @SpaceXAI: Grok 4.7 is here.
 
 It's a notable improvement over Grok 4.6 at the same price and speed. https://t.co/H3OTBbXyvO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL82qxXhhe-mYQv9_LuVOjyhGUTBMJAAJEE2sbfgWRVYCoxMNEz-73AQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2102071839690252484)
-
 ---
 
 ## 2026-09-22 00:26:45
@@ -84,8 +72,6 @@ It's a notable improvement over Grok 4.6 at the same price and speed. https://t.
 RT @aksheyd: Excited to bring 4.7 to you all! 
 
 Numerics aside, it's incredibly capable in Grok Build/Cursor. We spent a lot of hours on th…
-
-[查看原文](https://x.com/elonmusk/status/2102072048633684140)
 
 ---
 
@@ -101,7 +87,19 @@ And it’s already showing a huge jump in multi-hour office work
 
 Grok 4.7 outperforms GPT-6 As…
 
-[查看原文](https://x.com/elonmusk/status/2102072686293684710)
+---
+
+## 2026-09-22 01:06:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7 places @SpaceXAI as third, after Anthropic &amp; OpenAI, for agentic coding. 
+
+When factoring in that Grok is significantly faster &amp; lower cost, it’s a great choice for your everyday workhorse.
+
+[查看原文](https://x.com/elonmusk/status/2102082011233931762)
 
 ---
 
