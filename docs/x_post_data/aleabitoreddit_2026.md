@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 466 条推文
+> 📊 推文存档 - 共 467 条推文
 
 ---
 
@@ -53,7 +53,25 @@ You can have new decision models like Jev making autonomous computer interaction
 
 Then LLMs outputs influencing
 
-[查看原文](https://x.com/aleabitoreddit/status/2101818303216013812)
+---
+
+## 2026-09-21 13:27:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The main duo $SKHY and Samsung are having a fun day. 
+
+I'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time. 
+
+But I think legacy memory a very interesting trade https://t.co/SG50lI3Lv2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL52qwxhsdSBB_vnHWhGgJV682dSCLAAIkEWsbfgWJVf7Q5PqMTBPyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL6Gqwxh_9ip9HEloRVNvtju1Foa9mAAIlEWsbfgWJVXwWKexyDgMdAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2101906175046635887)
 
 ---
 
