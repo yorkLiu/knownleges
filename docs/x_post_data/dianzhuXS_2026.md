@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 389 条推文
+> 📊 推文存档 - 共 390 条推文
 
 ---
 
@@ -26,7 +26,21 @@ tags: ["2026"]
 即「習家王朝時間」
 一輩子被鎖死😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2101813821862195573)
+---
+
+## 2026-09-21 09:03:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+所有看完我的帖再自己延伸，所謂的「這麼說」、「以此類推」⋯⋯都別帶上我。
+
+我說過的話我承認且不怕看合訂本，但沒說過的就別硬往我這靠。因為我說的是研究成果，而別人是看完一條信息後心血來潮的一拍腦門。 https://t.co/QvFqDGNZaq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL5WqwhQprQqUf5MA8tSpAnVr01IBlAAJXEGsbfgWJVYAIBO1Yh9V5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101839803776205149)
 
 ---
 
