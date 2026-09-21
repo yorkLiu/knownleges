@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 390 条推文
+> 📊 推文存档 - 共 391 条推文
 
 ---
 
@@ -38,9 +38,33 @@ tags: ["2026"]
 
 我說過的話我承認且不怕看合訂本，但沒說過的就別硬往我這靠。因為我說的是研究成果，而別人是看完一條信息後心血來潮的一拍腦門。 https://t.co/QvFqDGNZaq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL5WqwhQprQqUf5MA8tSpAnVr01IBlAAJXEGsbfgWJVYAIBO1Yh9V5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2101839803776205149)
+## 2026-09-21 09:41:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+中簡圈越來越沒邊界感
+我準備設定已關注才能回覆了
+
+不想成為別人的情緒垃圾桶
+也不想成為別人體現自我價值的「槓台」
+我不跟陌生人「探討」
+原因就是【你不配】
+這是實話不是情緒發洩
+
+因為我的課題
+我付出精力和時間了
+而你根本什麼也沒付出
+就靠一張嘴
+我憑什麼要搭理你？
+跟你探討啥？ https://t.co/hxfSBwjFMI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL5mqwjE5FtcF8rI3_sRJFV51U_8uKAAJgEGsbfgWJVajjgmDsifnZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2101849177714295217)
 
 ---
 
