@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2565 条推文
+> 📊 推文存档 - 共 2566 条推文
 
 ---
 
@@ -251,8 +251,6 @@ RT @stevehou: Wow Grok 4.7 mogging out there. @SpaceXAI has been cooking hard. h
 
 RT @Tesla: “I’ve used FSD for like 90%+ of my miles since Saturday morning. Literally feels like magic. Has handled issues on the road bett…
 
-[查看原文](https://x.com/elonmusk/status/2102107404124999910)
-
 ---
 
 ## 2026-09-22 02:47:50
@@ -266,7 +264,17 @@ RT @ericzakariasson: and here’s the grok 4.7 model card. a few jumps vs 4.6 th
 - Terminal-Bench: 20.3% → 38.0%
 - SWE-Marathon…
 
-[查看原文](https://x.com/elonmusk/status/2102107554578931980)
+---
+
+## 2026-09-22 06:46:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok 4.7 xHigh is now at the top with just ONE point away from Claude Fable 5.1 Max on Artificial Analysis’ AA-Briefcase bench…
+
+[查看原文](https://x.com/elonmusk/status/2102167600692109421)
 
 ---
 
