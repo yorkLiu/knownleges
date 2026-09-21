@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 398 条推文
+> 📊 推文存档 - 共 399 条推文
 
 ---
 
@@ -126,10 +126,6 @@ tags: ["2026"]
 南懷瑾？我一直也不認為他是什麼師。還200年大運，笑死人了。
 再說一遍，我沒說過的就是沒說過，誰說的問誰去👇 https://t.co/w2bnIZDGwD
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL7WqxBxvJPSS80HdxsF2W_bmUoaGVAAJ6EmsbfgWJVYNmmx7PYID6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2101976902856777902)
-
 ---
 
 ## 2026-09-21 18:28:23
@@ -142,7 +138,27 @@ tags: ["2026"]
 
 最鼎盛的大唐貞觀之治到開元盛世，加上天寶合起來也就129年，這還是忽略了中間武則天竄唐，可能恐龍時代那地方走過200年的大運？由此可見，南懷瑾是張嘴就來，忽悠傻逼「遙遙領先」🤭
 
-[查看原文](https://x.com/dianzhuXS/status/2101981861052624903)
+---
+
+## 2026-09-21 19:22:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天罵了AI，懟了網絡陌生人
+大家也看膩了
+來點乾貨吧
+
+思考題
+
+大運天干地支分前五年後五年嗎？怎麼看大運好壞？
+
+比如甲木日元，庚午大運，七殺臨頭，怎麼斷？
+
+直播時公布答案，噢耶
+
+[查看原文](https://x.com/dianzhuXS/status/2101995382192689602)
 
 ---
 
