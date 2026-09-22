@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 388 条推文
+> 📊 推文存档 - 共 389 条推文
 
 ---
 
@@ -59,9 +59,17 @@ $META 和腾讯暴涨本质都是因为agent，
 其他的所有这些所谓回购的平台币都是爸散户当傻逼糊弄，所以他们的币价跟回购毫无关联，全部在造假玩数据玩文字游戏。
 想到俩个公司可以解释这种现象， https://t.co/GJwAMiMnQf
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMB2qyN7m8QBryqBufPrKmBZZjlNROAALhEGsb_MCRVZ36hBXHdK3qAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2102306755137225205)
+## 2026-09-22 16:14:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+muse的这个问题可以关注一下，对带病毒的后门程序没有筛查和安全提醒。@alexandr_wang
+
+[查看原文](https://x.com/xiaomustock/status/2102310574378136056)
 
 ---
 
