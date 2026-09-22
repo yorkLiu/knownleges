@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 386 条推文
+> 📊 推文存档 - 共 387 条推文
 
 ---
 
@@ -32,11 +32,20 @@ $META 和腾讯暴涨本质都是因为agent，
 但是真要找一家纯粹的agent公司非常难，市场里基本上没有，之前meta公司收购的manus如果香港上市可能是唯一纯度100%的agent智能体公司。
 不过神奇的点是腾讯居然又是manus最大股东….. https://t.co/KiQNELotGe
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL_Wqx9kpx_XF9iamilnzAZuqwVD0sAAJiEGsb_MCRVc9TTk-Ui3gPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL_mqx9k37Z_AzV8g9UDf8dAABObOORgACYxBrG_zAkVVi1vl2Inv0iwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-22 14:13:36
 
-[查看原文](https://x.com/xiaomustock/status/2102233613287014700)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+美股暴跌买snxx，ram，intw，soxl还能加一个metu，基本上够多了。
+关注的信息和标的越杂反而狗屁赚不到，
+每月赚个总资产10%那都是顶级操作。
+这次最大的问题就是没想到能拉这么多，没见着跌的时候就涨了赚了个芝麻钱跑了。
+
+[查看原文](https://x.com/xiaomustock/status/2102280132585271319)
 
 ---
 
