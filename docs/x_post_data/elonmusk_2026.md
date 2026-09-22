@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2585 条推文
+> 📊 推文存档 - 共 2589 条推文
 
 ---
 
@@ -451,8 +451,6 @@ Grok Build is now available on every plan - on web, iOS,…
 
 Grok will be able to make photo-realistic &amp; physics-precise games
 
-[查看原文](https://x.com/elonmusk/status/2102406300303049172)
-
 ---
 
 ## 2026-09-22 22:41:09
@@ -466,8 +464,6 @@ RT @mattyp: I let Grok Bot manage my YouTube channel... and it's better than I a
 0:53 Automating tagging with @Bot
 1:40 How the Bot work…
 
-[查看原文](https://x.com/elonmusk/status/2102407861808910532)
-
 ---
 
 ## 2026-09-22 22:41:39
@@ -477,8 +473,6 @@ RT @mattyp: I let Grok Bot manage my YouTube channel... and it's better than I a
 **内容**:
 
 RT @cb_doge: Made a fun little game for my nephew using Grok 4.7. I gave it a simple prompt, and within minutes, he was playing the game.…
-
-[查看原文](https://x.com/elonmusk/status/2102407988636209546)
 
 ---
 
@@ -490,7 +484,61 @@ RT @cb_doge: Made a fun little game for my nephew using Grok 4.7. I gave it a si
 
 Interesting perspective
 
-[查看原文](https://x.com/elonmusk/status/2102408239774151050)
+---
+
+## 2026-09-22 22:59:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7 with our Build harness is a strong daily workhorse
+
+[查看原文](https://x.com/elonmusk/status/2102412363332805078)
+
+---
+
+## 2026-09-22 23:00:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dragosroua: @XFreeze Not a big fan of benchmarking. 
+
+I just took it out for a real life test. Asked it to build me a bash only, self c…
+
+[查看原文](https://x.com/elonmusk/status/2102412796042629466)
+
+---
+
+## 2026-09-22 23:00:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok 4.7 just outperformed GPT-6 Astra on professional work
+
+On the same Artificial Analysis run:
+
+• GDPval-AA — Grok leads by…
+
+[查看原文](https://x.com/elonmusk/status/2102412843635384508)
+
+---
+
+## 2026-09-22 23:10:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok 4.7 Fast is now live in Grok Build and Cursor
+
+It’s the same Grok 4.7 model running on faster infrastructure, with roughl…
+
+[查看原文](https://x.com/elonmusk/status/2102415307025604915)
 
 ---
 
