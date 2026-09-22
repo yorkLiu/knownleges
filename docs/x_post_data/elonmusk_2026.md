@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2566 条推文
+> 📊 推文存档 - 共 2569 条推文
 
 ---
 
@@ -274,7 +274,45 @@ RT @ericzakariasson: and here’s the grok 4.7 model card. a few jumps vs 4.6 th
 
 RT @XFreeze: Grok 4.7 xHigh is now at the top with just ONE point away from Claude Fable 5.1 Max on Artificial Analysis’ AA-Briefcase bench…
 
-[查看原文](https://x.com/elonmusk/status/2102167600692109421)
+---
+
+## 2026-09-22 08:05:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7
+
+[查看原文](https://x.com/elonmusk/status/2102187423098642792)
+
+---
+
+## 2026-09-22 08:08:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2102188167860273661)
+
+---
+
+## 2026-09-22 08:25:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AlexFinn: Grok 4.7 just released and it's an EXCELLENT model
+
+It was trained FOR Grok Bot
+
+Meaning this is a fully agentic model traine…
+
+[查看原文](https://x.com/elonmusk/status/2102192595325559159)
 
 ---
 
