@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2605 条推文
+> 📊 推文存档 - 共 2607 条推文
 
 ---
 
@@ -125,8 +125,6 @@ RT @AriEmanuel: 💪
 
 RT @PeterDiamandis: If AI gave you back 2 hours a day, that's 730 hours a year. What would you do with them? Spend more time with your kids…
 
-[查看原文](https://x.com/elonmusk/status/2102460533433909417)
-
 ---
 
 ## 2026-09-23 02:21:33
@@ -139,7 +137,33 @@ RT @cb_doge: BREAKING: SpaceXAI just released a major Grok Build update, with Gr
 
 The update improves cr…
 
-[查看原文](https://x.com/elonmusk/status/2102463325045145978)
+---
+
+## 2026-09-23 02:29:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AmOptimistShow: 🚨NEW: @JTLonsdale &amp; @SquawkCNBC clash on AI and wealth inequality.
+
+Joe Lonsdale: 2030s is the disinflation decade... w…
+
+[查看原文](https://x.com/elonmusk/status/2102465393105523156)
+
+---
+
+## 2026-09-23 02:30:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: We rebuilt customer support around Grok Bot to scale our operations without adding headcount.
+
+It works autonomously to respond to…
+
+[查看原文](https://x.com/elonmusk/status/2102465645334220901)
 
 ---
 
