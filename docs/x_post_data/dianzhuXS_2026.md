@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 400 条推文
+> 📊 推文存档 - 共 401 条推文
 
 ---
 
@@ -20,15 +20,19 @@ tags: ["2026"]
 美聯儲加息後的股市
 直播中提到的「加息股市反漲」的「新黃曆」已經驗證，噢耶💪 https://t.co/2NBQ3VD198
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL-Gqxyq81YfY8nTG9LaffENUKd6PzAAIsEGsb_MCRVa0AAX_CZU9_VQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL-WqxyrIuK8D36QI7i2QBgR4p6Vh1AAItEGsb_MCRVdrJkdTwPW4WAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-22 13:55:53
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL-mqxyrVyw6MblodLNH0YpqeTIi4PAAIuEGsb_MCRVQizsnhvxQ7iAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL-2qxyrfVIc5AzyCKkYY6tGkq6S4UAAIvEGsb_MCRVSxQz0uQEfmzAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/dianzhuXS/status/2102187975769809211)
+我老婆說，今晚她的頻道要更新，最近AI做封皮的提示詞功力見長，至少知道給AI約束了🤭 https://t.co/3O8t5HeOfs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMBmqyGqU6j-TQMJYsrVGIP1Lk7EDfAAKsEGsb_MCRVR2vMHs1QmCXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2102275673188692232)
 
 ---
 
