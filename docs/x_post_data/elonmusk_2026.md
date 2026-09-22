@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2575 条推文
+> 📊 推文存档 - 共 2579 条推文
 
 ---
 
@@ -361,8 +361,6 @@ RT @kunchenguid: day 1 observations for grok 4.7
 
 ignore the reports that say “it’s terrible” and the only thing they reference is a public…
 
-[查看原文](https://x.com/elonmusk/status/2102249364043505664)
-
 ---
 
 ## 2026-09-22 12:21:38
@@ -373,9 +371,59 @@ ignore the reports that say “it’s terrible” and the only thing they refere
 
 RT @ns123abc: Grok TRIPLED on Terminal-Bench 4.0 in only two months (12.4% -&gt; 38.0%), overtaking GPT-5.6 Sol https://t.co/9APACDxKPP
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL_2qyBNKH06ZVgfctp8JsfOc2hnJwAAKBEGsb_MCRVYO8V_o6tKBwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2102251953707446408)
+## 2026-09-22 12:37:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @fasc1nate: Remembering Roger Boisjoly, the engineer who correctly identified a fatal flaw in the Challenger shuttle design months befor…
+
+[查看原文](https://x.com/elonmusk/status/2102256046018330706)
+
+---
+
+## 2026-09-22 12:39:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @A_d_n_R_d_i_g: Love Trump or hate him, it’s genuinely embarrassing the White House didn’t have this before now.
+
+Decline is a choice. h…
+
+[查看原文](https://x.com/elonmusk/status/2102256544381624809)
+
+---
+
+## 2026-09-22 12:41:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @StarbaseTX: Saturday was a good day for Boca Chica Beach.
+
+985 volunteers came out for International Coastal Cleanup Day and removed 2,…
+
+[查看原文](https://x.com/elonmusk/status/2102256837580275824)
+
+---
+
+## 2026-09-22 13:01:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheBritishIntel: I stand with @JohnCleese. https://t.co/TqCqR9vdJ8
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMA2qyDBmvpLZHs4JfnKWolQAB4Ot7RQACjxBrG_zAkVUqUjotr9nkcwEAAwIAA3gAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2102261893134197197)
 
 ---
 

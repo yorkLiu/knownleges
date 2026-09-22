@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 470 条推文
+> 📊 推文存档 - 共 471 条推文
 
 ---
 
@@ -41,13 +41,27 @@ When I ask it to do a bunch of long form tasks…
 
 Intel CEO also said recently https://t.co/GiyoF9sI5v
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMAAFqsgTWYaBEdBTpD0rgz71WefgseQACghBrG_zAkVVhStO9Lvh-uAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMAWqyBNlx_YH2-f8KbU-QtZ9lGLQnAAKDEGsb_MCRVYAD9Gki4ePBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-22 12:37:54
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMAmqyBNsd6Xd2NRtsVGUv5yWtjcwXAAKEEGsb_MCRVY5wNlASUDNuAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://x.com/aleabitoreddit/status/2102247915251224980)
+**内容**:
+
+Wow Bitcoin + Ethereum pulled pretty extreme recoveries.  
+
+Looks like $HOOD / $COIN / Crypto is back? 
+
+On-chain equities trading + regulator exemptions probably put a lot of fuel into the fire for the sector.  
+
+That aside... crypto is usually a great indicator for high-beta AI https://t.co/B7p8c3Ju3f
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMBGqyDB1O_MeuofMAATHrL30L84nsIQACkBBrG_zAkVX5CPP2P81EbgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMBWqyDCDPfwzceODEZ2y0pnYd9xkHAAKREGsb_MCRVTOpIGeukW9jAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2102256045938852015)
 
 ---
 
