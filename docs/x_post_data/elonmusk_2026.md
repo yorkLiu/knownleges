@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2603 条推文
+> 📊 推文存档 - 共 2605 条推文
 
 ---
 
@@ -71,8 +71,6 @@ RT @Tesla: Grok @bot lets you take on more complex tasks, like placing your usua
 
 RT @benjitaylor: Today we're beginning to roll out 𝕏 Numbers, a brand new way to let anyone contact you on 𝕏 without needing to follow each…
 
-[查看原文](https://x.com/elonmusk/status/2102452194201293090)
-
 ---
 
 ## 2026-09-23 01:37:22
@@ -84,8 +82,6 @@ RT @benjitaylor: Today we're beginning to roll out 𝕏 Numbers, a brand new way
 RT @chat: X Numbers are here.
 
 Share yours with anyone you want to contact you, even if you don't follow them. It's an optional way for peo…
-
-[查看原文](https://x.com/elonmusk/status/2102452207094464827)
 
 ---
 
@@ -99,8 +95,6 @@ RT @AriEmanuel: We’re taking the calls on the road. 🎟️ Book tour dates + 
 
 https://t.co/GDFZ5Qx69V https://t.co…
 
-[查看原文](https://x.com/elonmusk/status/2102452256746701030)
-
 ---
 
 ## 2026-09-23 01:47:11
@@ -110,8 +104,6 @@ https://t.co/GDFZ5Qx69V https://t.co…
 **内容**:
 
 RT @notch: I will admit, I am enjoying vibe coding. I may have been a teensy tiny bit wrong.
-
-[查看原文](https://x.com/elonmusk/status/2102454676688162857)
 
 ---
 
@@ -123,7 +115,31 @@ RT @notch: I will admit, I am enjoying vibe coding. I may have been a teensy tin
 
 RT @AriEmanuel: 💪
 
-[查看原文](https://x.com/elonmusk/status/2102454903901982748)
+---
+
+## 2026-09-23 02:10:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PeterDiamandis: If AI gave you back 2 hours a day, that's 730 hours a year. What would you do with them? Spend more time with your kids…
+
+[查看原文](https://x.com/elonmusk/status/2102460533433909417)
+
+---
+
+## 2026-09-23 02:21:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceXAI just released a major Grok Build update, with Grok 4.7 now available in Grok Build.
+
+The update improves cr…
+
+[查看原文](https://x.com/elonmusk/status/2102463325045145978)
 
 ---
 
