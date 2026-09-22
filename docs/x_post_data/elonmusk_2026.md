@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2595 条推文
+> 📊 推文存档 - 共 2598 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 lol
 
-[查看原文](https://x.com/elonmusk/status/2102428227545493995)
-
 ---
 
 ## 2026-09-23 00:10:13
@@ -31,7 +29,43 @@ lol
 
 Interesting
 
-[查看原文](https://x.com/elonmusk/status/2102430276450390482)
+---
+
+## 2026-09-23 00:40:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Grok Bot has just officially launched in @Tesla vehicles.
+
+I got early access a couple weeks ago. You can order stuff on…
+
+[查看原文](https://x.com/elonmusk/status/2102437848549147065)
+
+---
+
+## 2026-09-23 00:45:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot now in your Tesla!
+
+[查看原文](https://x.com/elonmusk/status/2102439262507725294)
+
+---
+
+## 2026-09-23 00:46:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Grok @bot lets you take on more complex tasks, like placing your usual coffee order, booking a reservation, or scheduling an app…
+
+[查看原文](https://x.com/elonmusk/status/2102439496860275160)
 
 ---
 
