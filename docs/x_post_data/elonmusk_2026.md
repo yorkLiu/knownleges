@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2598 条推文
+> 📊 推文存档 - 共 2603 条推文
 
 ---
 
@@ -41,8 +41,6 @@ RT @SawyerMerritt: Grok Bot has just officially launched in @Tesla vehicles.
 
 I got early access a couple weeks ago. You can order stuff on…
 
-[查看原文](https://x.com/elonmusk/status/2102437848549147065)
-
 ---
 
 ## 2026-09-23 00:45:56
@@ -52,8 +50,6 @@ I got early access a couple weeks ago. You can order stuff on…
 **内容**:
 
 Grok @Bot now in your Tesla!
-
-[查看原文](https://x.com/elonmusk/status/2102439262507725294)
 
 ---
 
@@ -65,7 +61,69 @@ Grok @Bot now in your Tesla!
 
 RT @Tesla: Grok @bot lets you take on more complex tasks, like placing your usual coffee order, booking a reservation, or scheduling an app…
 
-[查看原文](https://x.com/elonmusk/status/2102439496860275160)
+---
+
+## 2026-09-23 01:37:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benjitaylor: Today we're beginning to roll out 𝕏 Numbers, a brand new way to let anyone contact you on 𝕏 without needing to follow each…
+
+[查看原文](https://x.com/elonmusk/status/2102452194201293090)
+
+---
+
+## 2026-09-23 01:37:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @chat: X Numbers are here.
+
+Share yours with anyone you want to contact you, even if you don't follow them. It's an optional way for peo…
+
+[查看原文](https://x.com/elonmusk/status/2102452207094464827)
+
+---
+
+## 2026-09-23 01:37:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AriEmanuel: We’re taking the calls on the road. 🎟️ Book tour dates + tickets at the link below 👇 
+
+https://t.co/GDFZ5Qx69V https://t.co…
+
+[查看原文](https://x.com/elonmusk/status/2102452256746701030)
+
+---
+
+## 2026-09-23 01:47:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @notch: I will admit, I am enjoying vibe coding. I may have been a teensy tiny bit wrong.
+
+[查看原文](https://x.com/elonmusk/status/2102454676688162857)
+
+---
+
+## 2026-09-23 01:48:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AriEmanuel: 💪
+
+[查看原文](https://x.com/elonmusk/status/2102454903901982748)
 
 ---
 
