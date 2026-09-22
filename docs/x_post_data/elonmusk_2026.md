@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2579 条推文
+> 📊 推文存档 - 共 2580 条推文
 
 ---
 
@@ -381,8 +381,6 @@ RT @ns123abc: Grok TRIPLED on Terminal-Bench 4.0 in only two months (12.4% -&gt;
 
 RT @fasc1nate: Remembering Roger Boisjoly, the engineer who correctly identified a fatal flaw in the Challenger shuttle design months befor…
 
-[查看原文](https://x.com/elonmusk/status/2102256046018330706)
-
 ---
 
 ## 2026-09-22 12:39:52
@@ -394,8 +392,6 @@ RT @fasc1nate: Remembering Roger Boisjoly, the engineer who correctly identified
 RT @A_d_n_R_d_i_g: Love Trump or hate him, it’s genuinely embarrassing the White House didn’t have this before now.
 
 Decline is a choice. h…
-
-[查看原文](https://x.com/elonmusk/status/2102256544381624809)
 
 ---
 
@@ -409,8 +405,6 @@ RT @StarbaseTX: Saturday was a good day for Boca Chica Beach.
 
 985 volunteers came out for International Coastal Cleanup Day and removed 2,…
 
-[查看原文](https://x.com/elonmusk/status/2102256837580275824)
-
 ---
 
 ## 2026-09-22 13:01:08
@@ -421,9 +415,21 @@ RT @StarbaseTX: Saturday was a good day for Boca Chica Beach.
 
 RT @TheBritishIntel: I stand with @JohnCleese. https://t.co/TqCqR9vdJ8
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMA2qyDBmvpLZHs4JfnKWolQAB4Ot7RQACjxBrG_zAkVUqUjotr9nkcwEAAwIAA3gAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2102261893134197197)
+## 2026-09-22 13:05:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @marsrepublica: In just the last 90 days:
+
+1. Grok 4.3 — barely top 10. “xAI is dead beyond compute leases.”
+
+2. Grok 4.5 — massive come…
+
+[查看原文](https://x.com/elonmusk/status/2102262980230476242)
 
 ---
 
