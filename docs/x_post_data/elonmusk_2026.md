@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2589 条推文
+> 📊 推文存档 - 共 2593 条推文
 
 ---
 
@@ -494,8 +494,6 @@ Interesting perspective
 
 Grok 4.7 with our Build harness is a strong daily workhorse
 
-[查看原文](https://x.com/elonmusk/status/2102412363332805078)
-
 ---
 
 ## 2026-09-22 23:00:46
@@ -507,8 +505,6 @@ Grok 4.7 with our Build harness is a strong daily workhorse
 RT @dragosroua: @XFreeze Not a big fan of benchmarking. 
 
 I just took it out for a real life test. Asked it to build me a bash only, self c…
-
-[查看原文](https://x.com/elonmusk/status/2102412796042629466)
 
 ---
 
@@ -524,8 +520,6 @@ On the same Artificial Analysis run:
 
 • GDPval-AA — Grok leads by…
 
-[查看原文](https://x.com/elonmusk/status/2102412843635384508)
-
 ---
 
 ## 2026-09-22 23:10:44
@@ -538,7 +532,57 @@ RT @XFreeze: Grok 4.7 Fast is now live in Grok Build and Cursor
 
 It’s the same Grok 4.7 model running on faster infrastructure, with roughl…
 
-[查看原文](https://x.com/elonmusk/status/2102415307025604915)
+---
+
+## 2026-09-22 23:39:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Grok 4.7 turned a simple prompt into this interactive 3D jet engine visualizer in minutes.
+
+This is insane. 🔥 https://t.co/FyL…
+
+[查看原文](https://x.com/elonmusk/status/2102422648118554806)
+
+---
+
+## 2026-09-22 23:40:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7
+
+[查看原文](https://x.com/elonmusk/status/2102422703798137219)
+
+---
+
+## 2026-09-22 23:42:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7 doing real engineering work at Tesla
+
+[查看原文](https://x.com/elonmusk/status/2102423241897705926)
+
+---
+
+## 2026-09-22 23:44:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GuntherEagleman: 🚨 WTF! New York dumped the literacy exam for TEACHERS, because only 61% could pass it. 
+
+Not the kids… The teachers!…
+
+[查看原文](https://x.com/elonmusk/status/2102423686506508329)
 
 ---
 
