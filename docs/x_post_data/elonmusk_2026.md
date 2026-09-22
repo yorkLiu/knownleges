@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2573 条推文
+> 📊 推文存档 - 共 2575 条推文
 
 ---
 
@@ -318,8 +318,6 @@ Meaning this is a fully agentic model traine…
 
 RT @tetsuoai: @elonmusk I'm using it right now to build a game engine in C. It's really good.
 
-[查看原文](https://x.com/elonmusk/status/2102201280307540181)
-
 ---
 
 ## 2026-09-22 09:01:17
@@ -329,8 +327,6 @@ RT @tetsuoai: @elonmusk I'm using it right now to build a game engine in C. It's
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2102201534776025356)
 
 ---
 
@@ -343,8 +339,6 @@ True
 RT @ScriptedAlchemy: Been testing Grok 4.7 for the past week or more. It’s been a great improvement over 4.6. 
 It worked for over 70 hours…
 
-[查看原文](https://x.com/elonmusk/status/2102201921721262110)
-
 ---
 
 ## 2026-09-22 09:23:58
@@ -355,9 +349,33 @@ It worked for over 70 hours…
 
 Grok 4.7 https://t.co/wJvgyIPDr2
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL_Gqx2TRnjuaI0yIo_P-cUYBZY312AAI6EGsb_MCRVVNjj0V6tiq9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2102207241101144450)
+## 2026-09-22 12:11:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kunchenguid: day 1 observations for grok 4.7
+
+ignore the reports that say “it’s terrible” and the only thing they reference is a public…
+
+[查看原文](https://x.com/elonmusk/status/2102249364043505664)
+
+---
+
+## 2026-09-22 12:21:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ns123abc: Grok TRIPLED on Terminal-Bench 4.0 in only two months (12.4% -&gt; 38.0%), overtaking GPT-5.6 Sol https://t.co/9APACDxKPP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL_2qyBNKH06ZVgfctp8JsfOc2hnJwAAKBEGsb_MCRVYO8V_o6tKBwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2102251953707446408)
 
 ---
 

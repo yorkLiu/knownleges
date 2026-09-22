@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 469 条推文
+> 📊 推文存档 - 共 470 条推文
 
 ---
 
@@ -23,9 +23,31 @@ In terms of civilization-level impact of AI.
 
 So… not sure how anyone can be bearish so early on into the singularity and before mass deployment of physical AI. https://t.co/uJAXpZm4MP
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL92qxgm9wcQMIKhY6pA90tgTgWIBAAAJvE2sbfgWRVU4YRcgnRz2mAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2102114073836228810)
+## 2026-09-22 12:05:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All right $META Muse is cooking. 
+
+I can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.
+
+Along with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs
+
+When I ask it to do a bunch of long form tasks… 
+
+Intel CEO also said recently https://t.co/GiyoF9sI5v
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMAAFqsgTWYaBEdBTpD0rgz71WefgseQACghBrG_zAkVVhStO9Lvh-uAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMAWqyBNlx_YH2-f8KbU-QtZ9lGLQnAAKDEGsb_MCRVYAD9Gki4ePBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMAmqyBNsd6Xd2NRtsVGUv5yWtjcwXAAKEEGsb_MCRVY5wNlASUDNuAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2102247915251224980)
 
 ---
 
