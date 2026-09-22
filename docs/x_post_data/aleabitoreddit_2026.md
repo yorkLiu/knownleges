@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 471 条推文
+> 📊 推文存档 - 共 472 条推文
 
 ---
 
@@ -57,11 +57,23 @@ On-chain equities trading + regulator exemptions probably put a lot of fuel into
 
 That aside... crypto is usually a great indicator for high-beta AI https://t.co/B7p8c3Ju3f
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMBGqyDB1O_MeuofMAATHrL30L84nsIQACkBBrG_zAkVX5CPP2P81EbgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMBWqyDCDPfwzceODEZ2y0pnYd9xkHAAKREGsb_MCRVTOpIGeukW9jAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-22 21:36:39
 
-[查看原文](https://x.com/aleabitoreddit/status/2102256045938852015)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I feel like traditional "value investing" went into hibernation.
+
+Before it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.
+
+Then just enjoying slow growth but buyback/dividend appreciation from their https://t.co/sivvEjlWkG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMCWqyh4FiExDWdnxCbPuKq-f61SRlAAKkEWsb_MCZVbl1Fgx28a6iAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2102391630515110126)
 
 ---
 
