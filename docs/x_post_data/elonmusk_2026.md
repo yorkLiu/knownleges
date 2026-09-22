@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2580 条推文
+> 📊 推文存档 - 共 2581 条推文
 
 ---
 
@@ -429,7 +429,19 @@ RT @marsrepublica: In just the last 90 days:
 
 2. Grok 4.5 — massive come…
 
-[查看原文](https://x.com/elonmusk/status/2102262980230476242)
+---
+
+## 2026-09-22 22:05:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: Tell Grok an idea, and it builds a working version live in your chat. 
+
+Grok Build is now available on every plan - on web, iOS,…
+
+[查看原文](https://x.com/elonmusk/status/2102398931770409255)
 
 ---
 
