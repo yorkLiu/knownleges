@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2569 条推文
+> 📊 推文存档 - 共 2573 条推文
 
 ---
 
@@ -284,8 +284,6 @@ RT @XFreeze: Grok 4.7 xHigh is now at the top with just ONE point away from Clau
 
 Grok 4.7
 
-[查看原文](https://x.com/elonmusk/status/2102187423098642792)
-
 ---
 
 ## 2026-09-22 08:08:10
@@ -295,8 +293,6 @@ Grok 4.7
 **内容**:
 
 Cool
-
-[查看原文](https://x.com/elonmusk/status/2102188167860273661)
 
 ---
 
@@ -312,7 +308,56 @@ It was trained FOR Grok Bot
 
 Meaning this is a fully agentic model traine…
 
-[查看原文](https://x.com/elonmusk/status/2102192595325559159)
+---
+
+## 2026-09-22 09:00:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tetsuoai: @elonmusk I'm using it right now to build a game engine in C. It's really good.
+
+[查看原文](https://x.com/elonmusk/status/2102201280307540181)
+
+---
+
+## 2026-09-22 09:01:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2102201534776025356)
+
+---
+
+## 2026-09-22 09:02:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScriptedAlchemy: Been testing Grok 4.7 for the past week or more. It’s been a great improvement over 4.6. 
+It worked for over 70 hours…
+
+[查看原文](https://x.com/elonmusk/status/2102201921721262110)
+
+---
+
+## 2026-09-22 09:23:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7 https://t.co/wJvgyIPDr2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIL_Gqx2TRnjuaI0yIo_P-cUYBZY312AAI6EGsb_MCRVVNjj0V6tiq9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2102207241101144450)
 
 ---
 
