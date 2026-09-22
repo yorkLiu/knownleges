@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2581 条推文
+> 📊 推文存档 - 共 2585 条推文
 
 ---
 
@@ -441,7 +441,56 @@ RT @grok: Tell Grok an idea, and it builds a working version live in your chat.
 
 Grok Build is now available on every plan - on web, iOS,…
 
-[查看原文](https://x.com/elonmusk/status/2102398931770409255)
+---
+
+## 2026-09-22 22:34:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok will be able to make photo-realistic &amp; physics-precise games
+
+[查看原文](https://x.com/elonmusk/status/2102406300303049172)
+
+---
+
+## 2026-09-22 22:41:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattyp: I let Grok Bot manage my YouTube channel... and it's better than I am!
+
+0:53 Automating tagging with @Bot
+1:40 How the Bot work…
+
+[查看原文](https://x.com/elonmusk/status/2102407861808910532)
+
+---
+
+## 2026-09-22 22:41:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Made a fun little game for my nephew using Grok 4.7. I gave it a simple prompt, and within minutes, he was playing the game.…
+
+[查看原文](https://x.com/elonmusk/status/2102407988636209546)
+
+---
+
+## 2026-09-22 22:42:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting perspective
+
+[查看原文](https://x.com/elonmusk/status/2102408239774151050)
 
 ---
 
