@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 387 条推文
+> 📊 推文存档 - 共 388 条推文
 
 ---
 
@@ -45,7 +45,23 @@ $META 和腾讯暴涨本质都是因为agent，
 每月赚个总资产10%那都是顶级操作。
 这次最大的问题就是没想到能拉这么多，没见着跌的时候就涨了赚了个芝麻钱跑了。
 
-[查看原文](https://x.com/xiaomustock/status/2102280132585271319)
+---
+
+## 2026-09-22 15:59:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+币圈唯一良心项目方就是HYPE，
+程序化链上执行手续费和回购销毁，不玩猫腻，
+所以才有了现在不仅在1011后没有一蹶不振，而是不断刷新币价最高纪录，
+其他的所有这些所谓回购的平台币都是爸散户当傻逼糊弄，所以他们的币价跟回购毫无关联，全部在造假玩数据玩文字游戏。
+想到俩个公司可以解释这种现象， https://t.co/GJwAMiMnQf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMB2qyN7m8QBryqBufPrKmBZZjlNROAALhEGsb_MCRVZ36hBXHdK3qAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2102306755137225205)
 
 ---
 
