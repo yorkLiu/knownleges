@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2613 条推文
+> 📊 推文存档 - 共 2614 条推文
 
 ---
 
@@ -227,7 +227,19 @@ RT @poteto: the Grok @Bot desktop app just got even faster! we shipped 53 perf f
 
 RT @Starlink: 日本でのStarlinkの導入が、かつてないほど簡単になりました。  一部の地域では、ホーム向けの「レンタルMiniキット」の初期費用が0円になります。日本全国の大半の地域でスピーディに設置でき、いつでも最適なパフォーマンスを発揮します。… http…
 
-[查看原文](https://x.com/elonmusk/status/2102652267015061546)
+---
+
+## 2026-09-23 21:30:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @coldopn: Everyone says I need to touch grass - but I think Grok 4.7 does it best?
+
+I compared Grok 4.7 against Opus 5.5 on a grass-touc…
+
+[查看原文](https://x.com/elonmusk/status/2102752467985576189)
 
 ---
 
