@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2612 条推文
+> 📊 推文存档 - 共 2613 条推文
 
 ---
 
@@ -205,8 +205,6 @@ RT @cb_doge: Fitch gives Tesla its first-ever BBB investment-grade credit rating
 
 Fitch highlighted Tesla’s EV leadership, strong profitab…
 
-[查看原文](https://x.com/elonmusk/status/2102651780211617814)
-
 ---
 
 ## 2026-09-23 14:50:33
@@ -219,7 +217,17 @@ RT @poteto: the Grok @Bot desktop app just got even faster! we shipped 53 perf f
 
 • reconnecting after a flak…
 
-[查看原文](https://x.com/elonmusk/status/2102651819784827092)
+---
+
+## 2026-09-23 14:52:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: 日本でのStarlinkの導入が、かつてないほど簡単になりました。  一部の地域では、ホーム向けの「レンタルMiniキット」の初期費用が0円になります。日本全国の大半の地域でスピーディに設置でき、いつでも最適なパフォーマンスを発揮します。… http…
+
+[查看原文](https://x.com/elonmusk/status/2102652267015061546)
 
 ---
 
