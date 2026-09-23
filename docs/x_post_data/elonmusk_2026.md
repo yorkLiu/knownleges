@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2614 条推文
+> 📊 推文存档 - 共 2615 条推文
 
 ---
 
@@ -239,7 +239,17 @@ RT @coldopn: Everyone says I need to touch grass - but I think Grok 4.7 does it 
 
 I compared Grok 4.7 against Opus 5.5 on a grass-touc…
 
-[查看原文](https://x.com/elonmusk/status/2102752467985576189)
+---
+
+## 2026-09-23 21:49:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @battleangelviv: The Tesla sound system is so incredible that I waited all day to listen to the new album of one of my favorite artists,…
+
+[查看原文](https://x.com/elonmusk/status/2102757191770161257)
 
 ---
 
