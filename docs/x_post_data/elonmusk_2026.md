@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2620 条推文
+> 📊 推文存档 - 共 2621 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @paulg: A CS undergrad asked me where he could have most effect in the AI age. I said probably at either extreme: either close to the te…
 
-[查看原文](https://x.com/elonmusk/status/2102797715453411758)
-
 ---
 
 ## 2026-09-24 00:33:50
@@ -30,8 +28,6 @@ RT @paulg: A CS undergrad asked me where he could have most effect in the AI age
 **内容**:
 
 Grok @Bot usage is growing faster than anything we’ve ever seen
-
-[查看原文](https://x.com/elonmusk/status/2102798608227795393)
 
 ---
 
@@ -45,8 +41,6 @@ RT @cremieuxrecueil: True!
 
 When successful business owners pass away or even just retire, the company's profits fall. https://t.co/tWdgq6J…
 
-[查看原文](https://x.com/elonmusk/status/2102798777258213654)
-
 ---
 
 ## 2026-09-24 00:35:15
@@ -57,7 +51,17 @@ When successful business owners pass away or even just retire, the company's pro
 
 New Grok @Bot features!
 
-[查看原文](https://x.com/elonmusk/status/2102798963837665464)
+---
+
+## 2026-09-24 02:24:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benjitaylor: Have been using Grok Imagine to generate beautiful covers for the new Grokipedia. Amazing how consistent it is. https://t.…
+
+[查看原文](https://x.com/elonmusk/status/2102826341288874318)
 
 ---
 
