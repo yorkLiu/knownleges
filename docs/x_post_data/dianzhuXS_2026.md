@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 404 条推文
+> 📊 推文存档 - 共 406 条推文
 
 ---
 
@@ -19,7 +19,39 @@ tags: ["2026"]
 
 習豬起飛了嗎？
 
-[查看原文](https://x.com/dianzhuXS/status/2102535279781540220)
+---
+
+## 2026-09-23 08:11:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這兩位被很多中簡罵的領導人
+聯手遏制了東西方的共產主義
+這種功績在中簡眼中不值一提
+精緻利己們欠的就是共產鐵拳 https://t.co/2pQEPcj1p3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMC2qzH-woUNaVAAGT0e5q5waoAAEOLhoAAgsWaxv8wJlVrJlJyJc4I70BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2102551360185282977)
+
+---
+
+## 2026-09-23 08:15:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不行了
+嘴癮犯了，牙癢癢
+也不管知識點
+你們消化沒消化了
+必須直播一次了
+🤫🤫🤫
+
+[查看原文](https://x.com/dianzhuXS/status/2102552420484370653)
 
 ---
 
