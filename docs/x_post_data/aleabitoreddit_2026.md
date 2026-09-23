@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 473 条推文
+> 📊 推文存档 - 共 474 条推文
 
 ---
 
@@ -21,9 +21,25 @@ I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.
 
 Thanks Trump. https://t.co/x7tJcKjfsc
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMCmqyq9bkooZigQnCl1ZVCELTPg44AALFFWsb_MCZVesgt_DNYGj_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2102427727987179692)
+## 2026-09-23 09:07:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Elon Musk: "AI will beat [humans] in all fields by the end of next year or maybe 2028, at the latest."
+
+Kind of maps to Anthropic's economic implications paper where 2026-2028 was the buildout.
+
+Then 2028-2030 was unprecedented economic growth.
+
+So we're still early H2 2026. https://t.co/LpGJkHcgn2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMDGqzJy_1aChqgNzJtO7f26TRP1BoAAIVFmsb_MCZVV_DOR2lWW04AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2102565495342010529)
 
 ---
 
