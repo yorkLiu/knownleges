@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 474 条推文
+> 📊 推文存档 - 共 475 条推文
 
 ---
 
@@ -37,9 +37,28 @@ Then 2028-2030 was unprecedented economic growth.
 
 So we're still early H2 2026. https://t.co/LpGJkHcgn2
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMDGqzJy_1aChqgNzJtO7f26TRP1BoAAIVFmsb_MCZVV_DOR2lWW04AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2102565495342010529)
+## 2026-09-23 22:14:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So update from $LITE + Win Semi ( $SIVE ) foundry:  
+
+Lumentum in a meeting with Stifel at ECOC 2026 stated:
+
+- $NVDA Spectrum-6 CPO UHP demands increased materially. 
+- NPO as larger than CPO, with multi-wavelength external lasers lifting ASPs (Sivers offers multi wave length https://t.co/pv5EOmLu6n
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMEGqz46Ok2-emVla6BQABjEa1sbNTFAACvxFrGyUHoFVuswXf66LbGQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMEWqz46YUmC7I7Fzvtg3lXSTIBo9sAALAEWsbJQegVX6Jb6jhH9RoAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMEmqz46gDvOQC7NYgSUN6RBKVezPEAALBEWsbJQegVQ7c9f7_4SaiAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2102763548715753927)
 
 ---
 
