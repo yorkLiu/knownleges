@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2610 条推文
+> 📊 推文存档 - 共 2612 条推文
 
 ---
 
@@ -181,8 +181,6 @@ Interesting. Grok 4.7 is performing fairly well for a smallish model.
 
 RT @DavidSolomon: We’re indebted to the @FDNY for their selfless bravery every day, and last week I had the great honor to tell them how I…
 
-[查看原文](https://x.com/elonmusk/status/2102643431051038807)
-
 ---
 
 ## 2026-09-23 14:17:55
@@ -195,7 +193,33 @@ RT @cb_doge: BREAKING: Elon Musk on Optimus, and a future where money may not ma
 
 “If you think like St…
 
-[查看原文](https://x.com/elonmusk/status/2102643606276477058)
+---
+
+## 2026-09-23 14:50:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Fitch gives Tesla its first-ever BBB investment-grade credit rating.
+
+Fitch highlighted Tesla’s EV leadership, strong profitab…
+
+[查看原文](https://x.com/elonmusk/status/2102651780211617814)
+
+---
+
+## 2026-09-23 14:50:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: the Grok @Bot desktop app just got even faster! we shipped 53 perf fixes over the past few days:  
+
+• reconnecting after a flak…
+
+[查看原文](https://x.com/elonmusk/status/2102651819784827092)
 
 ---
 
