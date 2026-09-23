@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 408 条推文
+> 📊 推文存档 - 共 409 条推文
 
 ---
 
@@ -67,9 +67,18 @@ tags: ["2026"]
 
 如果哪天習近平覺得你們的房子也威脅到牠的安全了呢？我打賭，一幫「順民」還是乖乖排隊上交。因為疫情期間已經測試過了，捅嗓子捅肛都是乖乖排隊。就這還罵川普，罵高市早苗？嗯，你們也就只敢罵他倆了😮‍💨😮‍💨😮‍💨 https://t.co/ZBMPBMOZBH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMD2qzlAPXo2u9av_mlnGmc7z9ug3yAAIFEmsb_MChVZR_FOyqvZklAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2102678961545437184)
+## 2026-09-23 19:33:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天直播關於【「川習會」到底能談成什麼 】已立旗。過幾天來驗證💪
+https://t.co/vrp065u1bx
+
+[查看原文](https://x.com/dianzhuXS/status/2102722994615603231)
 
 ---
 
