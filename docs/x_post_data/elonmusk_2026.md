@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2608 条推文
+> 📊 推文存档 - 共 2610 条推文
 
 ---
 
@@ -171,7 +171,31 @@ It works autonomously to respond to…
 
 Interesting. Grok 4.7 is performing fairly well for a smallish model.
 
-[查看原文](https://x.com/elonmusk/status/2102520283618017355)
+---
+
+## 2026-09-23 14:17:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DavidSolomon: We’re indebted to the @FDNY for their selfless bravery every day, and last week I had the great honor to tell them how I…
+
+[查看原文](https://x.com/elonmusk/status/2102643431051038807)
+
+---
+
+## 2026-09-23 14:17:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Elon Musk on Optimus, and a future where money may not matter in his new interview with CCTV:
+
+“If you think like St…
+
+[查看原文](https://x.com/elonmusk/status/2102643606276477058)
 
 ---
 
