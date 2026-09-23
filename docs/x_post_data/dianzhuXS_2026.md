@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 407 条推文
+> 📊 推文存档 - 共 408 条推文
 
 ---
 
@@ -57,9 +57,19 @@ tags: ["2026"]
 
 一個小時後，Substack 叨逼叨過嘴癮 https://t.co/FyOdvH5pjs
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMDmqzPPzwMkBJ3IYoQYmHV5EAAZaY_QACKxZrG_zAmVXGpeCdRe7XoQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2102585830024069521)
+## 2026-09-23 16:38:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+如果哪天習近平覺得你們的房子也威脅到牠的安全了呢？我打賭，一幫「順民」還是乖乖排隊上交。因為疫情期間已經測試過了，捅嗓子捅肛都是乖乖排隊。就這還罵川普，罵高市早苗？嗯，你們也就只敢罵他倆了😮‍💨😮‍💨😮‍💨 https://t.co/ZBMPBMOZBH
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMD2qzlAPXo2u9av_mlnGmc7z9ug3yAAIFEmsb_MChVZR_FOyqvZklAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2102678961545437184)
 
 ---
 
