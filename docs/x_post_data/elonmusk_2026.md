@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2622 条推文
+> 📊 推文存档 - 共 2625 条推文
 
 ---
 
@@ -71,7 +71,43 @@ RT @benjitaylor: Have been using Grok Imagine to generate beautiful covers for t
 
 RT @signulll: i was having dinner with someone recently who asked why i spend so much time reading &amp; posting on x. she had a pretty negativ…
 
-[查看原文](https://x.com/elonmusk/status/2102837555851087964)
+---
+
+## 2026-09-24 03:14:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @eric_luhman1: excited to join the amazing team at @SpaceXAI
+
+it is our destiny to reach across the stars, and develop a multiplanetary…
+
+[查看原文](https://x.com/elonmusk/status/2102838938016862448)
+
+---
+
+## 2026-09-24 03:14:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @troyluhman: I am excited to be starting a new role at Cursor/SpaceXAI! I will be working on long term research with @ellev3n11 and the…
+
+[查看原文](https://x.com/elonmusk/status/2102839041737867638)
+
+---
+
+## 2026-09-24 03:15:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceXAI
+
+[查看原文](https://x.com/elonmusk/status/2102839221593710678)
 
 ---
 
