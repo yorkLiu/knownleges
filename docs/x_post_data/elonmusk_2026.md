@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2644 条推文
+> 📊 推文存档 - 共 2646 条推文
 
 ---
 
@@ -51,7 +51,31 @@ You can just tag @Grok an…
 
 Easy way to see how the 𝕏 algorithm works
 
-[查看原文](https://x.com/elonmusk/status/2103238840072937532)
+---
+
+## 2026-09-25 06:08:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @andrewjiang: Had opus 5.5 make a video predicting the next 50 years
+
+I'm optimistic that the end will be beautiful, but the transition…
+
+[查看原文](https://x.com/elonmusk/status/2103245261506064801)
+
+---
+
+## 2026-09-25 06:22:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stark0xbt: Gavin Baker owned 15% of Nvidia and 10% of Tesla sub-$2 billion. His biggest regret won't be either. It'll be the price you'…
+
+[查看原文](https://x.com/elonmusk/status/2103248831550791691)
 
 ---
 

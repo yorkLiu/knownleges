@@ -7,7 +7,41 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 416 条推文
+> 📊 推文存档 - 共 418 条推文
+
+---
+
+## 2026-09-25 06:09:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【習近平對美已慫，對內必會更狠】
+
+這篇文章是習近平於2026年9月24日在華盛頓白宮歡迎儀式上的致辭。從全文來看，核心可以概括成一句話：
+
+強調中美雖然存在競爭和分歧，但應避免衝突，通過溝通與合作建立長期穩定關係，並擴大經貿、人工智能、人文等領域合作。
+
+全文主要圍繞幾個主題展開： https://t.co/S0c1zyU2OA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMJWq1pWvFbskEqnJ1OtKokjDjpHFKAAJTGWsbwxupVcD7-5SsFt-5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2103245408885710956)
+
+---
+
+## 2026-09-25 06:12:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+習近平發言中，高喊「讓美國再次偉大」，徹底跪美跪川，喜聞樂見🤗 https://t.co/aftmujSxK3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMJGq1pWhV98IyWaa8feajTUJEnNZcAAJSGWsbwxupVWdUG-mO_FhqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2103246242822471842)
 
 ---
 
