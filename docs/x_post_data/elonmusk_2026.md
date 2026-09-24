@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2642 条推文
+> 📊 推文存档 - 共 2643 条推文
 
 ---
 
@@ -29,7 +29,19 @@ RT @elonmusk: @vasalex93 1. We will keep accelerating. Our AI efforts are only 3
 
 The amount of compute in space will obviously round up to 100% of all compute
 
-[查看原文](https://x.com/elonmusk/status/2103188449960313173)
+---
+
+## 2026-09-25 03:48:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok is now being tested inside XChat group chats...and soon it’ll respond just like another person
+
+You can just tag @Grok an…
+
+[查看原文](https://x.com/elonmusk/status/2103209862243275244)
 
 ---
 
