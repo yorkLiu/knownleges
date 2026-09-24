@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 477 条推文
+> 📊 推文存档 - 共 478 条推文
 
 ---
 
@@ -39,11 +39,21 @@ Despite the the hate from FinX back then.
 
 Very interesting to see Nebius up 6% even during sector https://t.co/CMneRlW7fJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMHmq1P5lZuikrWFX-jeKQsB-QKPRzAAKAEmsbJQeoVXWNInhc9_kwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMH2q1P5xNZuq89hh_zs5tgv0TLSemAAKBEmsbJQeoVUKP-OCrWlp3AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-24 23:58:03
 
-[查看原文](https://x.com/aleabitoreddit/status/2103139052363133062)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. 
+
+It's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using that to fund buildout.
+
+Or taking
+
+[查看原文](https://x.com/aleabitoreddit/status/2103151990146801812)
 
 ---
 
