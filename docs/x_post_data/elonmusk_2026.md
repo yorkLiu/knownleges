@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2643 条推文
+> 📊 推文存档 - 共 2644 条推文
 
 ---
 
@@ -41,7 +41,17 @@ RT @XFreeze: Grok is now being tested inside XChat group chats...and soon it’l
 
 You can just tag @Grok an…
 
-[查看原文](https://x.com/elonmusk/status/2103209862243275244)
+---
+
+## 2026-09-25 05:43:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Easy way to see how the 𝕏 algorithm works
+
+[查看原文](https://x.com/elonmusk/status/2103238840072937532)
 
 ---
 
