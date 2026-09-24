@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2628 条推文
+> 📊 推文存档 - 共 2633 条推文
 
 ---
 
@@ -133,9 +133,67 @@ Made with nickel cathode manufactured locally at Gigafactory Texas!
 
 RT @AlecStapp: This turned out to be the most prophetic tweet of the year https://t.co/dBGt5GGbin
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMFGq0gyyyEJhgG4HEv4H2JaeXpf11AALbEGsbJQeoVeUpC3ZwoMgzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2102933125018108169)
+## 2026-09-24 10:45:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Sunrise at Starbase. Opportunistic full stack testing is planned ahead of Flight 14's launch, which is on track for Monday, Sep…
+
+[查看原文](https://x.com/elonmusk/status/2102952506674536864)
+
+---
+
+## 2026-09-24 10:45:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Stacking Starship ahead of Flight 14 https://t.co/jLsgN2jj6d
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMFmq0kbYvnUhS7um-4IumO_5JCBlhAAL4EGsbJQeoVRpy7zY0_MmbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2102952564623131009)
+
+---
+
+## 2026-09-24 10:46:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Preparing for launch on Monday
+
+[查看原文](https://x.com/elonmusk/status/2102952674727784693)
+
+---
+
+## 2026-09-24 10:47:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2102952936771035459)
+
+---
+
+## 2026-09-24 10:50:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2102953907936993446)
 
 ---
 
