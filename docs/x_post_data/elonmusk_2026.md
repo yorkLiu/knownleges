@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2633 条推文
+> 📊 推文存档 - 共 2634 条推文
 
 ---
 
@@ -143,8 +143,6 @@ RT @AlecStapp: This turned out to be the most prophetic tweet of the year https:
 
 RT @SpaceX: Sunrise at Starbase. Opportunistic full stack testing is planned ahead of Flight 14's launch, which is on track for Monday, Sep…
 
-[查看原文](https://x.com/elonmusk/status/2102952506674536864)
-
 ---
 
 ## 2026-09-24 10:45:37
@@ -154,10 +152,6 @@ RT @SpaceX: Sunrise at Starbase. Opportunistic full stack testing is planned ahe
 **内容**:
 
 RT @SpaceX: Stacking Starship ahead of Flight 14 https://t.co/jLsgN2jj6d
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMFmq0kbYvnUhS7um-4IumO_5JCBlhAAL4EGsbJQeoVRpy7zY0_MmbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2102952564623131009)
 
 ---
 
@@ -169,8 +163,6 @@ RT @SpaceX: Stacking Starship ahead of Flight 14 https://t.co/jLsgN2jj6d
 
 Preparing for launch on Monday
 
-[查看原文](https://x.com/elonmusk/status/2102952674727784693)
-
 ---
 
 ## 2026-09-24 10:47:05
@@ -180,8 +172,6 @@ Preparing for launch on Monday
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2102952936771035459)
 
 ---
 
@@ -193,7 +183,17 @@ True
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2102953907936993446)
+---
+
+## 2026-09-24 11:31:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tesla_semi: Streaming live at 6pm PDT tomorrow https://t.co/eTDVRTFjOf
+
+[查看原文](https://x.com/elonmusk/status/2102964178210480238)
 
 ---
 
