@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 390 条推文
+> 📊 推文存档 - 共 391 条推文
 
 ---
 
@@ -22,9 +22,20 @@ tags: ["2026"]
 对货币总量而言，加息实际上是真增发，不过通过高利率收益把市场的流动筹码吸引锁起来。
 降息只不过是把加息增发的货币用极低利率驱赶出来流向社会。 https://t.co/pOBl7R7HXF
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMF2q09tsrVaUtP4YUPS644h5Px6nQAALfEWsbJQeoVYzwvuHhTJjIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2103061837155885476)
+## 2026-09-24 18:32:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+懂了，每个男生都有一枚未发射的火箭🚀
+@elonmusk https://t.co/r3pu2WuUOB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMGGq0_h_Z9ml4WyXdeOsTqBfRcmVoAALnEWsbJQeoVaVGrO-Beq46AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2103069935278997523)
 
 ---
 
