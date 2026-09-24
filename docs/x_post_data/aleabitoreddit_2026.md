@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 479 条推文
+> 📊 推文存档 - 共 480 条推文
 
 ---
 
@@ -23,11 +23,25 @@ Just now, “US and Iran discuss phased deal to reopen Hormuz and end US blockad
 
 - "A deal before the midterms could benefit Trump, as reopening Hormuz could ease tensions in the Gulf, contain ​oil prices and https://t.co/X8dOXioCcE
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMIGq1VXPfOcNluAwAARVH4Op-GUpcHgACmBJrGyUHqFVE4Zg5HHvV5wEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMIWq1VXZMIHPfda2-om3Cdfm4O4YXAAKZEmsbJQeoVVWa5cigzL8wAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-25 05:17:23
 
-[查看原文](https://x.com/aleabitoreddit/status/2103161145934963178)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.
+
+$AMD to $MU should be happy to hear this… 
+
+Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain https://t.co/oPiu1g4CSn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMImq1luAP6adZa9Vaq_ckyzjaFXDwAAIpE2sbJQewVYwyv9boHUrqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMI2q1luOsUa80yG7JED7wgdu_PUW4AAIqE2sbJQewVSEutVA1lxY9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2103232350348001701)
 
 ---
 
