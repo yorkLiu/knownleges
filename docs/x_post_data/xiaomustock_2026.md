@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 391 条推文
+> 📊 推文存档 - 共 392 条推文
 
 ---
 
@@ -33,9 +33,19 @@ tags: ["2026"]
 懂了，每个男生都有一枚未发射的火箭🚀
 @elonmusk https://t.co/r3pu2WuUOB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMGGq0_h_Z9ml4WyXdeOsTqBfRcmVoAALnEWsbJQeoVaVGrO-Beq46AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2103069935278997523)
+## 2026-09-24 19:49:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+对META 这款号称能全天续航有怀疑，
+买过一款杭州一个公司造的乐奇AI眼镜，用了一小时就没电了。
+看好meta造的muse charm这个小玩意，拿着随时对话和远程操控电脑。
+
+[查看原文](https://x.com/xiaomustock/status/2103089379334123669)
 
 ---
 
