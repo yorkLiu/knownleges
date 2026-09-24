@@ -19,7 +19,7 @@ title: 推文数据
 || [@aleabitoreddit](./aleabitoreddit_2026.md) | 476 | ✅ | 488 | [查看](./aleabitoreddit_2026.md) |
 || [@dianzhuXS](./dianzhuXS_2026.md) | 414 | ✅ | 253 | [查看](./dianzhuXS_2026.md) |
 || [@Mimiwftt](./Mimiwftt_2026.md) | 483 |   | 161 | [查看](./Mimiwftt_2026.md) |
-|| [@akohika1233](./akohika1233_2026.md) | 54 | ✅ | 26 | [查看](./akohika1233_2026.md) |
+|| [@akohika1233](./akohika1233_2026.md) | 55 | ✅ | 25 | [查看](./akohika1233_2026.md) |
 ---
 
 ## 📅 [日期归档](./tags/index.md)
