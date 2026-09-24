@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 476 条推文
+> 📊 推文存档 - 共 477 条推文
 
 ---
 
@@ -23,7 +23,27 @@ That actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and ot
 
 It’s pretty interesting what you find in the $30-$250m range for optical components, CPUs,
 
-[查看原文](https://x.com/aleabitoreddit/status/2102790422007550083)
+---
+
+## 2026-09-24 23:06:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow $NBIS relative outperformance is wild. 
+
+Back in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...
+
+Despite the the hate from FinX back then.
+
+Very interesting to see Nebius up 6% even during sector https://t.co/CMneRlW7fJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMHmq1P5lZuikrWFX-jeKQsB-QKPRzAAKAEmsbJQeoVXWNInhc9_kwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMH2q1P5xNZuq89hh_zs5tgv0TLSemAAKBEmsbJQeoVUKP-OCrWlp3AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2103139052363133062)
 
 ---
 
