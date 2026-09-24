@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2638 条推文
+> 📊 推文存档 - 共 2640 条推文
 
 ---
 
@@ -237,7 +237,29 @@ RT @visegrad24: BREAKING:
 
 It’s the highest…
 
-[查看原文](https://x.com/elonmusk/status/2103127614781309132)
+---
+
+## 2026-09-24 23:34:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mikepat711: We’ve reached a point in AI development where I find myself choosing an inferior model inside of a far better product over…
+
+[查看原文](https://x.com/elonmusk/status/2103146170033799391)
+
+---
+
+## 2026-09-24 23:40:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @edleonklinger: Hardly anyone on Earth understands the magnitude of this. It's actually happening right now.  Crazy that we get to witne…
+
+[查看原文](https://x.com/elonmusk/status/2103147550819615114)
 
 ---
 
