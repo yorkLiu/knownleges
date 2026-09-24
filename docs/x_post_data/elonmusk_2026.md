@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2635 条推文
+> 📊 推文存档 - 共 2637 条推文
 
 ---
 
@@ -203,7 +203,29 @@ RT @tesla_semi: Streaming live at 6pm PDT tomorrow https://t.co/eTDVRTFjOf
 
 RT @cb_doge: Grok 4.7 works really well with Blender. I’ve been using them to create these rough Raptor engine 3D models, and the improveme…
 
-[查看原文](https://x.com/elonmusk/status/2103002338399244371)
+---
+
+## 2026-09-24 14:14:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good idea to post an image of the front page
+
+[查看原文](https://x.com/elonmusk/status/2103005014277111831)
+
+---
+
+## 2026-09-24 14:15:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+An Earth economy is less than a trillionth the size of a K2 economy
+
+[查看原文](https://x.com/elonmusk/status/2103005475075670176)
 
 ---
 
