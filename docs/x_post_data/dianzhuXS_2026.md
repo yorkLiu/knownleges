@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 418 条推文
+> 📊 推文存档 - 共 419 条推文
 
 ---
 
@@ -25,10 +25,6 @@ tags: ["2026"]
 
 全文主要圍繞幾個主題展開： https://t.co/S0c1zyU2OA
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMJWq1pWvFbskEqnJ1OtKokjDjpHFKAAJTGWsbwxupVcD7-5SsFt-5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2103245408885710956)
-
 ---
 
 ## 2026-09-25 06:12:35
@@ -39,9 +35,24 @@ tags: ["2026"]
 
 習近平發言中，高喊「讓美國再次偉大」，徹底跪美跪川，喜聞樂見🤗 https://t.co/aftmujSxK3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMJGq1pWhV98IyWaa8feajTUJEnNZcAAJSGWsbwxupVWdUG-mO_FhqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2103246242822471842)
+## 2026-09-25 06:42:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我要是川普
+就安排習近平吃完麥當勞🍔趕緊滾，最多給可樂加個大杯，就完事了🤭🤭🤭
+
+好了，讓習近平見鬼去吧
+
+大家中秋節快樂，今日法會祈福，福滿中秋🤗🤗🤗 https://t.co/y0xxFOG4Mf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMJmq1rK6foOUusA2XQaecVc_oiNTHAAJUGWsbwxupVXBiIcctdKYtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2103253866829742526)
 
 ---
 
