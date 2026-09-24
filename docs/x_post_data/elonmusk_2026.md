@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2634 条推文
+> 📊 推文存档 - 共 2635 条推文
 
 ---
 
@@ -193,7 +193,17 @@ True
 
 RT @tesla_semi: Streaming live at 6pm PDT tomorrow https://t.co/eTDVRTFjOf
 
-[查看原文](https://x.com/elonmusk/status/2102964178210480238)
+---
+
+## 2026-09-24 14:03:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Grok 4.7 works really well with Blender. I’ve been using them to create these rough Raptor engine 3D models, and the improveme…
+
+[查看原文](https://x.com/elonmusk/status/2103002338399244371)
 
 ---
 
