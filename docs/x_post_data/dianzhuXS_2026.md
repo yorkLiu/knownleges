@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 415 条推文
+> 📊 推文存档 - 共 416 条推文
 
 ---
 
@@ -73,15 +73,19 @@ tags: ["2026"]
 跟習近平握手，川普居然都戴手套了，「死亡之握」已經名揚天下了🤭🤭🤭
 https://t.co/p1RZheYYUQ 來自 @YouTube https://t.co/8pQmIOXlVJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMGWq1MQqbmIr63QcOZOP18_lz_gn2AAJYEmsbJQeoVYqzCpxUu6zcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMGmq1MQz-l9EGpS5HgHWqrgpmZWZpAAJZEmsbJQeoVS2uXCbwR205AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-24 22:37:01
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMG2q1MRkX94LmCRcDSz3KjxbCydGKAAJaEmsbJQeoVdV8N6QaTZd9AQADAgADeAADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMHGq1MRsPKXn-MKKew5sSShN4cYBWAAJbEmsbJQeoVXUCbOU6ly91AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/dianzhuXS/status/2103122678731375008)
+實錘了，轟炸機壓頂，就是川普給習近平提前安排好的「下馬威」🤭🤭🤭 https://t.co/jodsRFPek3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMHWq1OE85ZdT1FZnN2fViAAHIE2EFtQACdhJrGyUHqFWzqmnvPQ272QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2103131596673192159)
 
 ---
 
