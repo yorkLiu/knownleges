@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 419 条推文
+> 📊 推文存档 - 共 420 条推文
 
 ---
 
@@ -50,9 +50,23 @@ tags: ["2026"]
 
 大家中秋節快樂，今日法會祈福，福滿中秋🤗🤗🤗 https://t.co/y0xxFOG4Mf
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMJmq1rK6foOUusA2XQaecVc_oiNTHAAJUGWsbwxupVXBiIcctdKYtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2103253866829742526)
+## 2026-09-25 07:23:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+過度解讀一下🤗🤗🤗
+
+習近平「幾年內邀請10萬美國年輕人到中國學習交流」
+
+其實就是釋放消息「出口轉內銷」，這些年還是自己說了算，二十一大勢在必得，終身連任並無任何接班人。順便問一句各位大V，五中全會還拿不拿下200斤？ https://t.co/xFunq3fd5J
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMJ2q1s_E6IZ-v9eeFa-F3ci35avVUAAL-D2sbwxuxVQtl3xJ9LH-VAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2103264162831098257)
 
 ---
 
