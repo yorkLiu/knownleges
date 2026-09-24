@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2640 条推文
+> 📊 推文存档 - 共 2641 条推文
+
+---
+
+## 2026-09-25 00:31:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @vasalex93 1. We will keep accelerating. Our AI efforts are only 3 years old, vs 6 and 10 years old for Anthropic and OpenAI.…
+
+[查看原文](https://x.com/elonmusk/status/2103160489207587285)
 
 ---
 
