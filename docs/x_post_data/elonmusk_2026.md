@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2662 条推文
+> 📊 推文存档 - 共 2663 条推文
 
 ---
 
@@ -199,8 +199,6 @@ RT @AISafetyMemes: UPDATE: AIs have achieved the highest *possible* score on the
 
 3 years ago: cognitively impai…
 
-[查看原文](https://x.com/elonmusk/status/2103385734249918809)
-
 ---
 
 ## 2026-09-25 15:35:07
@@ -210,8 +208,6 @@ RT @AISafetyMemes: UPDATE: AIs have achieved the highest *possible* score on the
 **内容**:
 
 RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi,…
-
-[查看原文](https://x.com/elonmusk/status/2103387807796298100)
 
 ---
 
@@ -223,8 +219,6 @@ RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President
 
 Tesla Semi Factory
 
-[查看原文](https://x.com/elonmusk/status/2103388450120737068)
-
 ---
 
 ## 2026-09-25 15:38:08
@@ -234,8 +228,6 @@ Tesla Semi Factory
 **内容**:
 
 RT @SpaceX: Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/yJCF…
-
-[查看原文](https://x.com/elonmusk/status/2103388567842201871)
 
 ---
 
@@ -249,7 +241,19 @@ RT @Google: We’re sending TPUs to space (yes, really).
 
 After years of research, we’re launching a satellite to evaluate if and how Google…
 
-[查看原文](https://x.com/elonmusk/status/2103390966111470016)
+---
+
+## 2026-09-25 15:56:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Built on Earth....designed for a future beyond it
+
+Every Starship flight brings humanity one step closer to becoming a multipl…
+
+[查看原文](https://x.com/elonmusk/status/2103393245036482612)
 
 ---
 
