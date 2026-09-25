@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2667 条推文
+> 📊 推文存档 - 共 2670 条推文
 
 ---
 
@@ -34,8 +34,6 @@ RT @SawyerMerritt: Motortrend after driving the new Tesla Semi:
 
 "Driving the Semi was surprisingly familiar, shockingly easy, and dare I s…
 
-[查看原文](https://x.com/elonmusk/status/2103523774066819459)
-
 ---
 
 ## 2026-09-26 00:44:14
@@ -46,7 +44,49 @@ RT @SawyerMerritt: Motortrend after driving the new Tesla Semi:
 
 Cool
 
-[查看原文](https://x.com/elonmusk/status/2103526000415879522)
+---
+
+## 2026-09-26 01:29:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+May Starship have the Mandate of Heaven https://t.co/YTgVhc9PY5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMNWq2sTxtY-drWs30E1obKwVkor9yAAIbEGsbvde5VWQpV0gul1E3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2103537377239015827)
+
+---
+
+## 2026-09-26 01:32:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AriEmanuel: Roll the Calls came out this week. 
+
+I’ve had great conversations with incredible people along the way.
+
+And we’re just get…
+
+[查看原文](https://x.com/elonmusk/status/2103538091306742160)
+
+---
+
+## 2026-09-26 01:32:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @HinrichsZane: Tesla Semi Pre-Reveal Revealed!
+
+Excited to share this segment of the drone flight one day prior to the Tesla Semi Reveal…
+
+[查看原文](https://x.com/elonmusk/status/2103538201105481848)
 
 ---
 
