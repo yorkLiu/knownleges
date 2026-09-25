@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2665 条推文
+> 📊 推文存档 - 共 2667 条推文
 
 ---
 
@@ -22,7 +22,31 @@ RT @SawyerMerritt: SpaceX has introduced a new website for its AI training clust
 New info:
 • Tesla Megapacks…
 
-[查看原文](https://x.com/elonmusk/status/2103523122989166661)
+---
+
+## 2026-09-26 00:35:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Motortrend after driving the new Tesla Semi:
+
+"Driving the Semi was surprisingly familiar, shockingly easy, and dare I s…
+
+[查看原文](https://x.com/elonmusk/status/2103523774066819459)
+
+---
+
+## 2026-09-26 00:44:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2103526000415879522)
 
 ---
 
