@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2672 条推文
+> 📊 推文存档 - 共 2673 条推文
 
 ---
 
@@ -90,8 +90,6 @@ Excited to share this segment of the drone flight one day prior to the Tesla Sem
 
 So beautiful
 
-[查看原文](https://x.com/elonmusk/status/2103590779385954434)
-
 ---
 
 ## 2026-09-26 05:08:27
@@ -106,7 +104,17 @@ RT @AustinJustice: 2017: Austin spent $35 million on homelessness. 2,036 homeles
 
 Spending m…
 
-[查看原文](https://x.com/elonmusk/status/2103592493119930675)
+---
+
+## 2026-09-26 05:24:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @garrytan: Legalize personalized education
+
+[查看原文](https://x.com/elonmusk/status/2103596475120758851)
 
 ---
 
