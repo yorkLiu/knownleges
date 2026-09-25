@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2646 条推文
+> 📊 推文存档 - 共 2647 条推文
 
 ---
 
@@ -63,8 +63,6 @@ RT @andrewjiang: Had opus 5.5 make a video predicting the next 50 years
 
 I'm optimistic that the end will be beautiful, but the transition…
 
-[查看原文](https://x.com/elonmusk/status/2103245261506064801)
-
 ---
 
 ## 2026-09-25 06:22:52
@@ -75,7 +73,17 @@ I'm optimistic that the end will be beautiful, but the transition…
 
 RT @stark0xbt: Gavin Baker owned 15% of Nvidia and 10% of Tesla sub-$2 billion. His biggest regret won't be either. It'll be the price you'…
 
-[查看原文](https://x.com/elonmusk/status/2103248831550791691)
+---
+
+## 2026-09-25 07:36:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🔥🔥
+
+[查看原文](https://x.com/elonmusk/status/2103267284001382676)
 
 ---
 
