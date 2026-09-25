@@ -1,6 +1,6 @@
 # X/Twitter 推文抓取统计报告
 
-**日期**: 2026-09-25 14:30:59 GMT+08:00**
+**日期**: 2026-09-25 15:01:56 GMT+08:00**
 
 ## 总体统计
 
@@ -18,10 +18,10 @@
 | @xiaomustock | 20 | 0 | 20 |
 | @elonmusk | 20 | 0 | 20 |
 | @karpathy | 20 | 0 | 20 |
-| @aleabitoreddit | 16 | 1 | 15 |
+| @aleabitoreddit | 16 | 0 | 16 |
 | @dianzhuXS | 17 | 0 | 17 |
 | @akohika1233 | 20 | 0 | 20 |
-| @iiiinvest | 20 | 0 | 20 |
+| @iiiinvest | 20 | 1 | 19 |
 
 ## 说明
 
