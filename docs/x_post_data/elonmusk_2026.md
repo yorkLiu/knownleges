@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2663 条推文
+> 📊 推文存档 - 共 2664 条推文
 
 ---
 
@@ -253,7 +253,17 @@ RT @XFreeze: Built on Earth....designed for a future beyond it
 
 Every Starship flight brings humanity one step closer to becoming a multipl…
 
-[查看原文](https://x.com/elonmusk/status/2103393245036482612)
+---
+
+## 2026-09-25 23:27:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: The European Union has delayed a vote on Tesla’s FSD (Supervised) to December at the earliest (from October 6th), accord…
+
+[查看原文](https://x.com/elonmusk/status/2103506652263780535)
 
 ---
 
