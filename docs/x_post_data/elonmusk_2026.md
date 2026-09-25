@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2648 条推文
+> 📊 推文存档 - 共 2652 条推文
 
 ---
 
@@ -93,7 +93,55 @@ RT @stark0xbt: Gavin Baker owned 15% of Nvidia and 10% of Tesla sub-$2 billion. 
 
 RT @ID_AA_Carmack: I recently had a conversation with a NASA JPL engineer that was bemoaning the fact that the internal “Planetary Protecti…
 
-[查看原文](https://x.com/elonmusk/status/2103309952114950647)
+---
+
+## 2026-09-25 11:12:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @luismbat: Testing Grok 4.7: I sketched the game literally on the back of an envelope and had it live and playable a few mins later.
+
+ht…
+
+[查看原文](https://x.com/elonmusk/status/2103321592789159961)
+
+---
+
+## 2026-09-25 11:15:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Congratulations to the @Tesla_Semi team on engineering and, even harder, bringing to production an amazing machine!
+
+[查看原文](https://x.com/elonmusk/status/2103322398862778827)
+
+---
+
+## 2026-09-25 11:24:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+10.01
+
+[查看原文](https://x.com/elonmusk/status/2103324760725725615)
+
+---
+
+## 2026-09-25 11:26:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @Actuallykeltan @a16z Elon has warned for over a decade that AI poses an existential risk. In 2014 he likened it to “summoning th…
+
+[查看原文](https://x.com/elonmusk/status/2103325329427181828)
 
 ---
 
