@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2657 条推文
+> 📊 推文存档 - 共 2662 条推文
 
 ---
 
@@ -167,8 +167,6 @@ The NGOs end up increasing the number of homeless people they manage, because th
 
 It was moving
 
-[查看原文](https://x.com/elonmusk/status/2103382290994962788)
-
 ---
 
 ## 2026-09-25 15:15:10
@@ -178,16 +176,6 @@ It was moving
 **内容**:
 
 RT @SpaceX: Launch rehearsal complete ahead of Starship Flight 14 https://t.co/h5LBYyBqi4
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMMGq2ICtaxqRWHWMQknvObgUYXRYlAAJGEWsbvdexVWawMm0WB2zwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMMWq2IC4U_0h7zf53QhE3eGplEykYAAJHEWsbvdexVTj7stxCzFNzAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMMmq2IDEgfgWsTBAlV4Eof2SziIulAAJIEWsbvdexVVYAASiBiBto5wEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMM2q2IEApgsyLgBZ_KYumVxduj_WpAAJJEWsbvdexVfgnZxBP9ts_AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2103382788863148465)
 
 ---
 
@@ -199,9 +187,69 @@ RT @SpaceX: Launch rehearsal complete ahead of Starship Flight 14 https://t.co/h
 
 Stainless Steel Starship https://t.co/1U6B2ELhA9
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIML2q2ICiti1QziAozHgV685JvrMX5AAJFEWsbvdexVYGk0DssHCWvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2103383018882896249)
+## 2026-09-25 15:26:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AISafetyMemes: UPDATE: AIs have achieved the highest *possible* score on the Mensa Norway IQ test - 151
+
+3 years ago: cognitively impai…
+
+[查看原文](https://x.com/elonmusk/status/2103385734249918809)
+
+---
+
+## 2026-09-25 15:35:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DanScavino: Behind the scenes at the @WhiteHouse #StateDinner with President @realDonaldTrump, First Lady @MelaniaTrump, President Xi,…
+
+[查看原文](https://x.com/elonmusk/status/2103387807796298100)
+
+---
+
+## 2026-09-25 15:37:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla Semi Factory
+
+[查看原文](https://x.com/elonmusk/status/2103388450120737068)
+
+---
+
+## 2026-09-25 15:38:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Dragon arrives at pad 40 ahead of the upcoming Crew-13 launch to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/yJCF…
+
+[查看原文](https://x.com/elonmusk/status/2103388567842201871)
+
+---
+
+## 2026-09-25 15:47:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Google: We’re sending TPUs to space (yes, really).
+
+After years of research, we’re launching a satellite to evaluate if and how Google…
+
+[查看原文](https://x.com/elonmusk/status/2103390966111470016)
 
 ---
 
