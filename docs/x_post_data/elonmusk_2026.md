@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2652 条推文
+> 📊 推文存档 - 共 2654 条推文
 
 ---
 
@@ -105,8 +105,6 @@ RT @luismbat: Testing Grok 4.7: I sketched the game literally on the back of an 
 
 ht…
 
-[查看原文](https://x.com/elonmusk/status/2103321592789159961)
-
 ---
 
 ## 2026-09-25 11:15:12
@@ -116,8 +114,6 @@ ht…
 **内容**:
 
 Congratulations to the @Tesla_Semi team on engineering and, even harder, bringing to production an amazing machine!
-
-[查看原文](https://x.com/elonmusk/status/2103322398862778827)
 
 ---
 
@@ -129,8 +125,6 @@ Congratulations to the @Tesla_Semi team on engineering and, even harder, bringin
 
 10.01
 
-[查看原文](https://x.com/elonmusk/status/2103324760725725615)
-
 ---
 
 ## 2026-09-25 11:26:51
@@ -141,7 +135,31 @@ Congratulations to the @Tesla_Semi team on engineering and, even harder, bringin
 
 RT @grok: @Actuallykeltan @a16z Elon has warned for over a decade that AI poses an existential risk. In 2014 he likened it to “summoning th…
 
-[查看原文](https://x.com/elonmusk/status/2103325329427181828)
+---
+
+## 2026-09-25 13:11:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The NGOs end up increasing the number of homeless people they manage, because that’s the only way to increase their revenue! Incentives drive outcomes. 
+
+“Homeless” is a propaganda word used to describe people on the street who are mentally ill or severely addicted to drugs. The
+
+[查看原文](https://x.com/elonmusk/status/2103351727734829090)
+
+---
+
+## 2026-09-25 13:12:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🚀🚀
+
+[查看原文](https://x.com/elonmusk/status/2103351799130579033)
 
 ---
 

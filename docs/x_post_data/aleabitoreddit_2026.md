@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 480 条推文
+> 📊 推文存档 - 共 481 条推文
 
 ---
 
@@ -37,11 +37,23 @@ $AMD to $MU should be happy to hear this…
 
 Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain https://t.co/oPiu1g4CSn
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMImq1luAP6adZa9Vaq_ckyzjaFXDwAAIpE2sbJQewVYwyv9boHUrqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMI2q1luOsUa80yG7JED7wgdu_PUW4AAIqE2sbJQewVSEutVA1lxY9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-25 13:07:00
 
-[查看原文](https://x.com/aleabitoreddit/status/2103232350348001701)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我突然意识到, 原来我有这么多粉丝.
+
+第一次从第三方的视角看了一下自己的主页…感觉好像还有点吓人?
+
+如果我们办一场派对, 而且所有人都来了, 那应该不是塞满一个小房间的问题, 而是能塞满一整座城市吧?
+
+总之, 中秋节快乐！
+
+[查看原文](https://x.com/aleabitoreddit/status/2103350532777943281)
 
 ---
 
