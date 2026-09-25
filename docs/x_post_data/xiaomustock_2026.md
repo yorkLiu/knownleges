@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 393 条推文
+> 📊 推文存档 - 共 394 条推文
 
 ---
 
@@ -21,9 +21,20 @@ tags: ["2026"]
 俩个一个搞企业agent一个搞个人agent。
 meta牛逼的点就是业务不依赖新业务爆发，吃老本就很牛逼 https://t.co/qhjqHH6bWD
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMLmq13zXWZDTJvJkYoCRLZ4Kok2poAAJsEGsbwxuxVeFXm21F578NAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2103309360894259620)
+## 2026-09-25 13:47:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我不信，现在我觉得推特内置的grok最抽象弱智的事情是我给它链接地址让提炼总结某些推特上的长推文，它居然做不到😅
+6个月后的xai可能才有现在gpt6水平，但现在gpt6依然不够完美，
+而gpt和anthropic不可能纹丝不动。
+国内的ds，kimi，glm都在追赶。
+
+[查看原文](https://x.com/xiaomustock/status/2103360825742467223)
 
 ---
 
