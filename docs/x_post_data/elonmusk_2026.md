@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2670 条推文
+> 📊 推文存档 - 共 2672 条推文
 
 ---
 
@@ -54,10 +54,6 @@ Cool
 
 May Starship have the Mandate of Heaven https://t.co/YTgVhc9PY5
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMNWq2sTxtY-drWs30E1obKwVkor9yAAIbEGsbvde5VWQpV0gul1E3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2103537377239015827)
-
 ---
 
 ## 2026-09-26 01:32:17
@@ -72,8 +68,6 @@ I’ve had great conversations with incredible people along the way.
 
 And we’re just get…
 
-[查看原文](https://x.com/elonmusk/status/2103538091306742160)
-
 ---
 
 ## 2026-09-26 01:32:43
@@ -86,7 +80,33 @@ RT @HinrichsZane: Tesla Semi Pre-Reveal Revealed!
 
 Excited to share this segment of the drone flight one day prior to the Tesla Semi Reveal…
 
-[查看原文](https://x.com/elonmusk/status/2103538201105481848)
+---
+
+## 2026-09-26 05:01:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So beautiful
+
+[查看原文](https://x.com/elonmusk/status/2103590779385954434)
+
+---
+
+## 2026-09-26 05:08:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AustinJustice: 2017: Austin spent $35 million on homelessness. 2,036 homeless counted.
+
+2025: $118 million. 3,238 homeless.
+
+Spending m…
+
+[查看原文](https://x.com/elonmusk/status/2103592493119930675)
 
 ---
 
