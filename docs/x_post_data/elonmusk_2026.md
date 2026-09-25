@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2654 条推文
+> 📊 推文存档 - 共 2657 条推文
 
 ---
 
@@ -147,8 +147,6 @@ The NGOs end up increasing the number of homeless people they manage, because th
 
 “Homeless” is a propaganda word used to describe people on the street who are mentally ill or severely addicted to drugs. The
 
-[查看原文](https://x.com/elonmusk/status/2103351727734829090)
-
 ---
 
 ## 2026-09-25 13:12:01
@@ -159,7 +157,51 @@ The NGOs end up increasing the number of homeless people they manage, because th
 
 🚀🚀
 
-[查看原文](https://x.com/elonmusk/status/2103351799130579033)
+---
+
+## 2026-09-25 15:13:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It was moving
+
+[查看原文](https://x.com/elonmusk/status/2103382290994962788)
+
+---
+
+## 2026-09-25 15:15:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Launch rehearsal complete ahead of Starship Flight 14 https://t.co/h5LBYyBqi4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMMGq2ICtaxqRWHWMQknvObgUYXRYlAAJGEWsbvdexVWawMm0WB2zwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMMWq2IC4U_0h7zf53QhE3eGplEykYAAJHEWsbvdexVTj7stxCzFNzAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMMmq2IDEgfgWsTBAlV4Eof2SziIulAAJIEWsbvdexVVYAASiBiBto5wEAAwIAA3kAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMM2q2IEApgsyLgBZ_KYumVxduj_WpAAJJEWsbvdexVfgnZxBP9ts_AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2103382788863148465)
+
+---
+
+## 2026-09-25 15:16:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Stainless Steel Starship https://t.co/1U6B2ELhA9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIML2q2ICiti1QziAozHgV685JvrMX5AAJFEWsbvdexVYGk0DssHCWvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2103383018882896249)
 
 ---
 
