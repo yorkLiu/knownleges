@@ -7,7 +7,22 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2664 条推文
+> 📊 推文存档 - 共 2665 条推文
+
+---
+
+## 2026-09-26 00:32:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: SpaceX has introduced a new website for its AI training clusters in Tennessee/Mississippi.
+
+New info:
+• Tesla Megapacks…
+
+[查看原文](https://x.com/elonmusk/status/2103523122989166661)
 
 ---
 
