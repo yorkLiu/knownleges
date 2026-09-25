@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 481 条推文
+> 📊 推文存档 - 共 482 条推文
 
 ---
 
@@ -53,7 +53,25 @@ Akamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B 
 
 总之, 中秋节快乐！
 
-[查看原文](https://x.com/aleabitoreddit/status/2103350532777943281)
+---
+
+## 2026-09-25 22:21:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+People really need to stop thinking about 5% yields over 10 years or 30 years.
+
+Even the inflation of my $SUBWAY sandwich has gone up like 12% a year.
+
+Today it was like $20 after tax, when it used to be like $5… 12 years ago.
+
+The best way to keep up with inflation of the https://t.co/UpZLcTgbr4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMNGq2haFfTRHkAshvXnVIWOPbSrj6AAJoEmsbvdexVVA0nxMEDQqAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2103490181525631382)
 
 ---
 
