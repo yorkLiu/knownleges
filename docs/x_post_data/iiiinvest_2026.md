@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 27 条推文
+> 📊 推文存档 - 共 28 条推文
 
 ---
 
@@ -25,9 +25,17 @@ tags: ["2026"]
 3、做多币股半导体，赚1000多万
 高点差不多赚4000万，有所回撤。这中间的机会我操作逻辑都提前发过。 https://t.co/TzUTP6G4d5
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMNmq3HhNPyTdPW5Tp1BpPU0wGvBJ9AAI5EGsbvde5VfK0Iun7uDKOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2103654963323060698)
+## 2026-09-26 12:40:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我他妈气笑了
+
+[查看原文](https://x.com/iiiinvest/status/2103706141628997825)
 
 ---
 
