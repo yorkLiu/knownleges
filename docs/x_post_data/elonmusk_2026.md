@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2695 条推文
+> 📊 推文存档 - 共 2698 条推文
 
 ---
 
@@ -51,7 +51,41 @@ After that, America will become a one-party state.
 
 RT @MrAndyNgo: A trans person in Manaus, Brazil has been arrested after allegedly biting off his stepfather's eyes, gouging the victim's ey…
 
-[查看原文](https://x.com/elonmusk/status/2103942735334178816)
+---
+
+## 2026-09-27 05:21:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can manage your finances
+
+[查看原文](https://x.com/elonmusk/status/2103958249922072840)
+
+---
+
+## 2026-09-27 05:23:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @xdNiBoR: Non tech people I know are buying Starlink for their homes because it is faster AND cheaper than cable internet here in Belgiu…
+
+[查看原文](https://x.com/elonmusk/status/2103958544035004805)
+
+---
+
+## 2026-09-27 05:31:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Production on the Moon &amp; Mars will accelerate by far more than double every year, until natural limits are encountered
+
+[查看原文](https://x.com/elonmusk/status/2103960796942516451)
 
 ---
 
