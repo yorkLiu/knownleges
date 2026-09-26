@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2692 条推文
+> 📊 推文存档 - 共 2694 条推文
 
 ---
 
@@ -19,7 +19,31 @@ tags: ["2026"]
 
 This keeps getting worse
 
-[查看原文](https://x.com/elonmusk/status/2103888225974800812)
+---
+
+## 2026-09-27 01:08:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bdistel: The @bot team is on fire. Got a sneak preview of what’s coming and 🤯. People are still sleeping on @SpaceXAI which is insane a…
+
+[查看原文](https://x.com/elonmusk/status/2103894461906583939)
+
+---
+
+## 2026-09-27 01:09:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is exactly what they will do. 
+
+After that, America will become a one-party state.
+
+[查看原文](https://x.com/elonmusk/status/2103894760838897922)
 
 ---
 
