@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 424 条推文
+> 📊 推文存档 - 共 426 条推文
 
 ---
 
@@ -39,12 +39,6 @@ tags: ["2026"]
 
 這兩天在連續的死人，比如游本昌死了，劉歡也死了⋯⋯明星死了算個熱點，普通人死了沒幾個人知道，很多人其實不死也會掉層皮，想保持現狀很難。有些人富不過2028，原因就是「能量守恆」，想當初欠的早晚要還，而且得的太多了損壽，財富如此，名氣如此，流量亦如此😮‍💨😮‍💨😮‍💨 https://t.co/58sg3SMQcn
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMOGq3Oy-j26NOPEizVc0tez6JX5ibAAKSEGsbvde5VeUB7UN6qov5AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMOWq3OzIFJrFB_EtjxBMVwjGnL9GbAAKTEGsbvde5VZy_N-XPybudAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2103681598759809276)
-
 ---
 
 ## 2026-09-26 11:21:39
@@ -57,9 +51,29 @@ tags: ["2026"]
 
 我托人買了幾本他的書。雖然出生曲藝之鄉的我，因為聽過見過太多的泰斗級人物，並不承認他是什麼相聲宗師。但對他的一些相聲作品也是相當認可的，值得收藏以後常看看😮‍💨😮‍💨😮‍💨 https://t.co/2QlGfJofhE
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMN2q3OyxU_92IBkMreEFuGDDt1LqQAAKREGsbvde5VasiE1Q4ZQrCAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2103686408556953629)
+## 2026-09-26 11:46:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+等習近平落地牆國，用那個太極點咱們再起一局啊，看看後面是不是「以殺為本」🤗🤗🤗
+
+[查看原文](https://x.com/dianzhuXS/status/2103692690567377280)
+
+---
+
+## 2026-09-26 11:47:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+主要是嫌髒🤗🤗🤗
+
+[查看原文](https://x.com/dianzhuXS/status/2103692997456195600)
 
 ---
 

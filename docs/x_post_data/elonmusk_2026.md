@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2674 条推文
+> 📊 推文存档 - 共 2677 条推文
 
 ---
 
@@ -124,7 +124,46 @@ RT @garrytan: Legalize personalized education
 
 RT @dhh: I was surprised how bad it was just walking from the hotel to the Rails World venue. One strung-out guy wanted to fight me for som…
 
-[查看原文](https://x.com/elonmusk/status/2103684659989340627)
+---
+
+## 2026-09-26 11:33:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: • Grok Bot's EXPLOSIVE User Growth
+• Team Is Cooking Like Crazy https://t.co/XRt4WC9EaK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMO2q3QnGgX1po0bm0HS7707fi6lsoAAKWEGsbvde5VSZ_WjvRXcTiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2103689291822145945)
+
+---
+
+## 2026-09-26 11:39:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @michaelnicollsx: Cookin’ in Memphis/Southhaven!  And hiring at a rapid clip for hard-working and talented individuals… join us
+
+[查看原文](https://x.com/elonmusk/status/2103690818238222551)
+
+---
+
+## 2026-09-26 11:48:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @realDonaldTrump: https://t.co/5nyt88MN3R
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMOmq3Qm6nVfnAkjg5eOzmjQkBMoGjAAKVEGsbvde5VS9bnwAB-MBc1gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2103693067354284070)
 
 ---
 
