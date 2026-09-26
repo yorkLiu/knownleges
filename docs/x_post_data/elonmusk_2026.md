@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2685 条推文
+> 📊 推文存档 - 共 2687 条推文
 
 ---
 
@@ -229,10 +229,6 @@ RT @stevenmarkryan: • "At All Costs" - Elon Knows
 • @shaunmmaguire's S-Tier SpaceXAI Article
 • Live Grok Voice Demo https://t.co/BFfcW5CDKa
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMQGq3gb6xc7LugwifbOeRglMYmkHaAALgEGsbvde5VS9r_OocIR4cAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2103758177460531517)
-
 ---
 
 ## 2026-09-26 16:10:37
@@ -243,7 +239,31 @@ RT @stevenmarkryan: • "At All Costs" - Elon Knows
 
 RT @dhh: Bring back insane asylums, workhouses, and vagrancy laws. There's nothing kind or compassionate about letting mentally-ill drug ad…
 
-[查看原文](https://x.com/elonmusk/status/2103759131907932302)
+---
+
+## 2026-09-26 21:36:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @satyanadella: We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re annou…
+
+[查看原文](https://x.com/elonmusk/status/2103841089765384503)
+
+---
+
+## 2026-09-26 21:38:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Dr_Singularity: 2023: AI scores 64 on the Mensa Norway IQ test, about what you'd get by guessing randomly. Retard level.
+
+2026: 151 IQ.…
+
+[查看原文](https://x.com/elonmusk/status/2103841551227228630)
 
 ---
 
