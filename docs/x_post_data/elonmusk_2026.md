@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2690 条推文
+> 📊 推文存档 - 共 2691 条推文
 
 ---
 
@@ -271,8 +271,6 @@ RT @Dr_Singularity: 2023: AI scores 64 on the Mensa Norway IQ test, about what y
 
 Rockets don’t need vision
 
-[查看原文](https://x.com/elonmusk/status/2103851336454586382)
-
 ---
 
 ## 2026-09-26 22:22:57
@@ -282,10 +280,6 @@ Rockets don’t need vision
 **内容**:
 
 RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/MBDdD5TLeu
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMQmq32G3TePqdeffcVDUzYvKFQtXzAAItE2sbvdfBVadQNP3SgzHjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2103852833833693222)
 
 ---
 
@@ -299,7 +293,19 @@ RT @cb_doge: Former Italian MP Capezzone praised Neuralink after a man with ALS 
 
 “Thanks to ef…
 
-[查看原文](https://x.com/elonmusk/status/2103854837938966946)
+---
+
+## 2026-09-26 22:40:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @rynorhn: holy fucking shit the openai rogue agent story keeps getting crazier.
+
+the openai agents apparently started trying to recruit…
+
+[查看原文](https://x.com/elonmusk/status/2103857157653610620)
 
 ---
 
