@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2673 条推文
+> 📊 推文存档 - 共 2674 条推文
 
 ---
 
@@ -114,7 +114,17 @@ Spending m…
 
 RT @garrytan: Legalize personalized education
 
-[查看原文](https://x.com/elonmusk/status/2103596475120758851)
+---
+
+## 2026-09-26 11:14:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dhh: I was surprised how bad it was just walking from the hotel to the Rails World venue. One strung-out guy wanted to fight me for som…
+
+[查看原文](https://x.com/elonmusk/status/2103684659989340627)
 
 ---
 
