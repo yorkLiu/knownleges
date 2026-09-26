@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 431 条推文
+> 📊 推文存档 - 共 432 条推文
 
 ---
 
@@ -127,9 +127,19 @@ tags: ["2026"]
 
 今天是2026年9月26日，從現在開始，牆國進入「外慫內狠」習近平新時代，你們就偷著樂吧😮‍💨😮‍💨😮‍💨 https://t.co/jMebUO5PiJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMQWq30SJNAVaIaMimzO_Z3MA8uHYAAyQTaxu918FVg_h7tIACJzABAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2103846999544193281)
+## 2026-09-26 22:11:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【台灣穩中穩】
+
+習近平滾出美國後，川普第一時間通電話，說明川習會交談內容的是日本首相高市早苗。啥意思？這還用說嗎？台灣穩了！亞太地區不允許習近平胡作非為，回憶一下大盧的金句【日本選高市，台海無戰事】💪
+
+[查看原文](https://x.com/dianzhuXS/status/2103849857375178848)
 
 ---
 
