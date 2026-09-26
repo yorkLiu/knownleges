@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2678 条推文
+> 📊 推文存档 - 共 2683 条推文
 
 ---
 
@@ -165,7 +165,75 @@ RT @realDonaldTrump: https://t.co/5nyt88MN3R
 
 RT @SpaceXAIMemphis: SpaceX's supercomputing facilities in the Mid-South rank among the world’s most advanced AI training clusters, spannin…
 
-[查看原文](https://x.com/elonmusk/status/2103710462319956342)
+---
+
+## 2026-09-26 15:06:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tesla_na: Tesla Diner fall drink menu 🍂 https://t.co/bzAiM0f6JG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMPWq3c2C4h2xw7z_mv6WJLOr0KWhEAALIEGsbvde5VVTsgcGbPMZWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMPmq3c2Nnetsp7iBQpGHWBg7vZDRbAALJEGsbvde5VXLHmEwRS3mFAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMP2q3c2YwSFm0TXs4Hq3DrBblGFujAALKEGsbvde5VX3h4ZgTI461AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2103743032054972887)
+
+---
+
+## 2026-09-26 15:09:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WSJ: Take an early look at the front page of The Wall Street Journal's weekend edition. https://t.co/wZu4QYAtTk https://t.co/EmxdXPeaTz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMPGq3c11k_mU3UDOANREWuYO1udhZAALHEGsbvde5VSwhjX9w7uHfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2103743759565660223)
+
+---
+
+## 2026-09-26 15:10:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NASASpaceOps: Four crew members from three space agencies will launch to the @Space_Station no earlier than spring 2027 for a long-dura…
+
+[查看原文](https://x.com/elonmusk/status/2103744122632933727)
+
+---
+
+## 2026-09-26 15:20:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Troubling
+
+[查看原文](https://x.com/elonmusk/status/2103746441667862603)
+
+---
+
+## 2026-09-26 15:20:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: I've created a new Grok Bot Tutorial template for anyone new to Grok @Bot.
+
+This hands-on course includes 20 lessons. It…
+
+[查看原文](https://x.com/elonmusk/status/2103746575805587530)
 
 ---
 
