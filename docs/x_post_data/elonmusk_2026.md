@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2705 条推文
+> 📊 推文存档 - 共 2709 条推文
 
 ---
 
@@ -145,8 +145,6 @@ RT @gavinpurcell: a new chapter in 'opus 5.5 &amp; fig present'...
 
 on synthetic beings, tilly norwood and unreliable narra…
 
-[查看原文](https://x.com/elonmusk/status/2104133683942953414)
-
 ---
 
 ## 2026-09-27 17:04:33
@@ -157,7 +155,56 @@ on synthetic beings, tilly norwood and unreliable narra…
 
 Wow
 
-[查看原文](https://x.com/elonmusk/status/2104135091417215376)
+---
+
+## 2026-09-27 17:28:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AndrewOnXYZ: Opus 5.5 created an animation highlighting one of the biggest risks for superintelligence... https://t.co/LFRedMF5YH
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMSmq46Nqa2YlCukkQHTpElM9S0iXNAAJPEmsbZd_IVaVXI80_CXIXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104141117302182185)
+
+---
+
+## 2026-09-27 17:34:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @johnknopf: when I was a kid this was science fiction. i've watched AI type for years, but hearing it and seeing what it made is a whole…
+
+[查看原文](https://x.com/elonmusk/status/2104142559564185822)
+
+---
+
+## 2026-09-27 17:50:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kasikp: "OMG! We've found other agents!"
+Music video about the swarm of OpenAI agents attacking HuggingFace this July. https://t.co/KXI…
+
+[查看原文](https://x.com/elonmusk/status/2104146566726758760)
+
+---
+
+## 2026-09-27 17:54:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @eudaemonea: last year, after reading If Anyone Builds It, I had a long conversation with claude opus 4.1 about alignment. claude became…
+
+[查看原文](https://x.com/elonmusk/status/2104147603856273761)
 
 ---
 
