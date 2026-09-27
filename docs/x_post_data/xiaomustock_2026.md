@@ -7,7 +7,24 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 394 条推文
+> 📊 推文存档 - 共 395 条推文
+
+---
+
+## 2026-09-27 18:05:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+山东的饮食和气候光照估计真有点说法，
+一个双胞胎失散，浙江的哥哥很矮，
+山东的弟弟符合山东人身高，
+看来很多南方人身高不高单纯是地理环境和饮食导致的，跟基因可能无关。 https://t.co/iRpyWbWlcH
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMS2q48CbjZZCY3wuEUE3BhiKiPYTlAAJnEmsbZd_IVWKXzkuw2es1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2104150427906511004)
 
 ---
 

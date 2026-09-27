@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2709 条推文
+> 📊 推文存档 - 共 2713 条推文
 
 ---
 
@@ -165,10 +165,6 @@ Wow
 
 RT @AndrewOnXYZ: Opus 5.5 created an animation highlighting one of the biggest risks for superintelligence... https://t.co/LFRedMF5YH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMSmq46Nqa2YlCukkQHTpElM9S0iXNAAJPEmsbZd_IVaVXI80_CXIXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104141117302182185)
-
 ---
 
 ## 2026-09-27 17:34:13
@@ -178,8 +174,6 @@ RT @AndrewOnXYZ: Opus 5.5 created an animation highlighting one of the biggest r
 **内容**:
 
 RT @johnknopf: when I was a kid this was science fiction. i've watched AI type for years, but hearing it and seeing what it made is a whole…
-
-[查看原文](https://x.com/elonmusk/status/2104142559564185822)
 
 ---
 
@@ -192,8 +186,6 @@ RT @johnknopf: when I was a kid this was science fiction. i've watched AI type f
 RT @kasikp: "OMG! We've found other agents!"
 Music video about the swarm of OpenAI agents attacking HuggingFace this July. https://t.co/KXI…
 
-[查看原文](https://x.com/elonmusk/status/2104146566726758760)
-
 ---
 
 ## 2026-09-27 17:54:16
@@ -204,7 +196,61 @@ Music video about the swarm of OpenAI agents attacking HuggingFace this July. ht
 
 RT @eudaemonea: last year, after reading If Anyone Builds It, I had a long conversation with claude opus 4.1 about alignment. claude became…
 
-[查看原文](https://x.com/elonmusk/status/2104147603856273761)
+---
+
+## 2026-09-27 18:02:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WinterArc2125: HOLY SHIT. OPUS 5.5 IS CRAZY.
+
+Napoleon's sharpest battle lasted a morning and won him Europe. I just had it turn that m…
+
+[查看原文](https://x.com/elonmusk/status/2104149624026275853)
+
+---
+
+## 2026-09-27 18:11:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @shinboson: if you missed the slightly insane AI safety schizopoast, I put it into a song for you and you should turn the sound on right…
+
+[查看原文](https://x.com/elonmusk/status/2104152040410845205)
+
+---
+
+## 2026-09-27 18:16:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elliotarledge: claude opus 5.5 just one-shot a music video on how to optimize CUDA kernels https://t.co/YDfrCaD9eg
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMTWq48CzsmRILMB7etVUtsKUZpHCMAAJpEmsbZd_IVVhfPCxogzIsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104153237431402959)
+
+---
+
+## 2026-09-27 18:19:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: Gave Opus 5.5 donald's prompt, Midjourney, and a moodboard 
+
+12 hours later, woke up to this: https://t.co/yKlgyEm5KW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMTGq48CqUH4Oe1OQOVcVb2604SN79AAJoEmsbZd_IVfAYclFHygRlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104153852354105853)
 
 ---
 
