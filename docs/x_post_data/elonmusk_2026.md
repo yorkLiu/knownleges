@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2716 条推文
+> 📊 推文存档 - 共 2717 条推文
 
 ---
 
@@ -250,8 +250,6 @@ RT @anabology: Gave Opus 5.5 donald's prompt, Midjourney, and a moodboard
 
 RT @eudaemonea: when Anthropic released their Functional Emotions paper, I gave it to Claude and asked for a song. tonight I asked Opus 5.5…
 
-[查看原文](https://x.com/elonmusk/status/2104157046891303288)
-
 ---
 
 ## 2026-09-27 18:43:24
@@ -261,8 +259,6 @@ RT @eudaemonea: when Anthropic released their Functional Emotions paper, I gave 
 **内容**:
 
 RT @CineAudu: I swear the suspense in this Deal OR No Deal sketch is unbeatable. Even horror movie can't match the pace https://t.co/b30Yhm…
-
-[查看原文](https://x.com/elonmusk/status/2104159967364423863)
 
 ---
 
@@ -276,7 +272,19 @@ RT @domenic: We didn't start the scaling.
 
 Nine years of AI, from "Attention" to Opus 5.5, as an anime opening. It's one of six genres on t…
 
-[查看原文](https://x.com/elonmusk/status/2104160415118942609)
+---
+
+## 2026-09-27 23:49:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @herbertong: SpaceX's CFO says Starlink demand is unprecedented. The interesting part is who's driving it!
+
+Larry Goldberg @TeslaLarry b…
+
+[查看原文](https://x.com/elonmusk/status/2104237035791814976)
 
 ---
 
