@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2720 条推文
+> 📊 推文存档 - 共 2721 条推文
 
 ---
 
@@ -31,8 +31,6 @@ RT @brivael: I gave Opus 5.5 one of my french theory analysis that got 80 millio
 
 This…
 
-[查看原文](https://x.com/elonmusk/status/2104253907790713339)
-
 ---
 
 ## 2026-09-28 00:57:10
@@ -43,9 +41,17 @@ This…
 
 RT @prasenx: asked claude in cursor to make a video on history of video games https://t.co/65QZo9zmod
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMTmq5TZ_QnhuM_zgKPkLn0d8kqYFyAAIWEGsbZd_QVWuqYuq2Tvb3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2104254031061557730)
+## 2026-09-28 02:01:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Kalshi: JUST IN: 98% of new cars sold in Norway this year are EVs, with Tesla's Model Y leading the next model by over 300%
+
+[查看原文](https://x.com/elonmusk/status/2104270094746501157)
 
 ---
 
