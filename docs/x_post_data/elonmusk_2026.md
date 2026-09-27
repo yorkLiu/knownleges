@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2699 条推文
+> 📊 推文存档 - 共 2701 条推文
 
 ---
 
@@ -91,7 +91,31 @@ Production on the Moon &amp; Mars will accelerate by far more than double every 
 
 RT @aaronburnett: SpaceX’s Starship flight 14 is launching 26 V3 Starlinks and represents ~26 Tbps for the launch (based on company specs)……
 
-[查看原文](https://x.com/elonmusk/status/2104009175923560454)
+---
+
+## 2026-09-27 08:56:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes 😂
+
+[查看原文](https://x.com/elonmusk/status/2104012335954440279)
+
+---
+
+## 2026-09-27 08:57:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AISafetyMemes: Update https://t.co/xyM29cdUp1
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMQ2q4bmnZ7wdGOt1u3VMyRtq6smBEAAKqEWsbZd_IVQ5dzNmql4TTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104012608340648402)
 
 ---
 
