@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2713 条推文
+> 📊 推文存档 - 共 2716 条推文
 
 ---
 
@@ -208,8 +208,6 @@ RT @WinterArc2125: HOLY SHIT. OPUS 5.5 IS CRAZY.
 
 Napoleon's sharpest battle lasted a morning and won him Europe. I just had it turn that m…
 
-[查看原文](https://x.com/elonmusk/status/2104149624026275853)
-
 ---
 
 ## 2026-09-27 18:11:54
@@ -220,8 +218,6 @@ Napoleon's sharpest battle lasted a morning and won him Europe. I just had it tu
 
 RT @shinboson: if you missed the slightly insane AI safety schizopoast, I put it into a song for you and you should turn the sound on right…
 
-[查看原文](https://x.com/elonmusk/status/2104152040410845205)
-
 ---
 
 ## 2026-09-27 18:16:39
@@ -231,10 +227,6 @@ RT @shinboson: if you missed the slightly insane AI safety schizopoast, I put it
 **内容**:
 
 RT @elliotarledge: claude opus 5.5 just one-shot a music video on how to optimize CUDA kernels https://t.co/YDfrCaD9eg
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMTWq48CzsmRILMB7etVUtsKUZpHCMAAJpEmsbZd_IVVhfPCxogzIsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104153237431402959)
 
 ---
 
@@ -248,9 +240,43 @@ RT @anabology: Gave Opus 5.5 donald's prompt, Midjourney, and a moodboard
 
 12 hours later, woke up to this: https://t.co/yKlgyEm5KW
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMTGq48CqUH4Oe1OQOVcVb2604SN79AAJoEmsbZd_IVfAYclFHygRlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2104153852354105853)
+## 2026-09-27 18:31:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @eudaemonea: when Anthropic released their Functional Emotions paper, I gave it to Claude and asked for a song. tonight I asked Opus 5.5…
+
+[查看原文](https://x.com/elonmusk/status/2104157046891303288)
+
+---
+
+## 2026-09-27 18:43:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CineAudu: I swear the suspense in this Deal OR No Deal sketch is unbeatable. Even horror movie can't match the pace https://t.co/b30Yhm…
+
+[查看原文](https://x.com/elonmusk/status/2104159967364423863)
+
+---
+
+## 2026-09-27 18:45:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @domenic: We didn't start the scaling.
+
+Nine years of AI, from "Attention" to Opus 5.5, as an anime opening. It's one of six genres on t…
+
+[查看原文](https://x.com/elonmusk/status/2104160415118942609)
 
 ---
 
