@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 32 条推文
+> 📊 推文存档 - 共 33 条推文
 
 ---
 
@@ -31,7 +31,24 @@ tags: ["2026"]
 
 我梳理下接下来的策略，稍等发出来，兄弟们可以参考！
 
-[查看原文](https://x.com/iiiinvest/status/2104044317618884907)
+---
+
+## 2026-09-27 11:28:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+如何抓住比特币牛市（实盘策略披露）
+
+1、上次写策略是BTC 7.6万的时候，现在8.4万，我通过BTC和MSTR赚了差不多100万美金，没踏空行情。
+2、BTC牛市的逻辑上次说过了，我完善下自己的策略，核心是将收益最大化。
+
+一、复盘行情 https://t.co/rYeMVi0GDO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMRGq4knVj4Pce8RArbwc5deyb0FnqAALXEWsbZd_IVUU7un8jV08WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2104050491626062254)
 
 ---
 
