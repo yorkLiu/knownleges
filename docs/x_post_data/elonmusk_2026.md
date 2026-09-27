@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2727 条推文
+> 📊 推文存档 - 共 2728 条推文
 
 ---
 
@@ -63,8 +63,6 @@ In New York and California, they have made it illegal for officials to ask for o
 
 They made election fraud mandatory.
 
-[查看原文](https://x.com/elonmusk/status/2104286187754033326)
-
 ---
 
 ## 2026-09-28 03:06:00
@@ -75,10 +73,6 @@ They made election fraud mandatory.
 
 RT @ArthurMacwaters: *taps sign https://t.co/y2XKS2xD2J
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMT2q5alwtusqfVkvewnxxpsDftrAFAAIqEGsbZd_QVcu68_ltFuenAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104286451672158279)
-
 ---
 
 ## 2026-09-28 03:06:44
@@ -88,8 +82,6 @@ RT @ArthurMacwaters: *taps sign https://t.co/y2XKS2xD2J
 **内容**:
 
 Yup
-
-[查看原文](https://x.com/elonmusk/status/2104286638079676914)
 
 ---
 
@@ -103,8 +95,6 @@ RT @KatieMiller: Sam Altman was asked in 2023: “You have an incredible amount 
 
 Sam respo…
 
-[查看原文](https://x.com/elonmusk/status/2104286931194704092)
-
 ---
 
 ## 2026-09-28 03:10:17
@@ -116,8 +106,6 @@ Sam respo…
 RT @larsencc: Grok 4.7 is insanely good.
 
 The model is not the bottleneck anymore. I believe harness reliability and everything around it i…
-
-[查看原文](https://x.com/elonmusk/status/2104287530606907824)
 
 ---
 
@@ -131,7 +119,19 @@ RT @SawyerMerritt: SpaceXAI has just introduced Grok @Bot Creator Rewards!
 
 Rewards will go out every two weeks. Rewards are based on usage…
 
-[查看原文](https://x.com/elonmusk/status/2104287632330990060)
+---
+
+## 2026-09-28 03:21:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mikepat711: How is this real life? Seriously wtf man. https://t.co/taavhgPHpI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMUGq5cajqwitdNcM38eyHAAGvgzzCCgACKxBrG2Xf0FWLYx1TQCVrlgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104290292761497884)
 
 ---
 
