@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2717 条推文
+> 📊 推文存档 - 共 2718 条推文
+
+---
+
+## 2026-09-28 00:08:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Erdayastronaut: 10 years ago today, @elonmusk announced his Mars plans in the form of the Interplanetary Transportation System, now kno…
+
+[查看原文](https://x.com/elonmusk/status/2104241882280706176)
 
 ---
 
