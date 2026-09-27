@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 34 条推文
+> 📊 推文存档 - 共 35 条推文
 
 ---
 
@@ -59,9 +59,21 @@ tags: ["2026"]
 1、周五收盘后，川普不答应协议，要干伊朗，油已经涨上去了，周一大盘有回调需求。
 2、Bg被盗这个事，周六说周一下午4点只先开放提现BTC，毛估估应该有50%的资金会有提现需求，期间会不少换成BTC的，过去一天了，该换的换的差不多。 https://t.co/B5O6hx7To9
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMRWq4vYiI1trXDB5ndjHInGoBkG92AAIWEmsbZd_IVWu6yIjTkXxhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2104095002729275503)
+## 2026-09-27 19:35:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+交易没什么神秘的，就是赌。
+
+区别在于，敢不敢！之前看到一句话说的挺好：不赌就是最大的赌，赌注是一辈子平庸。
+
+最后还是回归到认知，你是相信世界是公平的，还是偏颇的，是市场的还是计划的。最终每个人都在为自己价值观买单！
+
+[查看原文](https://x.com/iiiinvest/status/2104172973079060696)
 
 ---
 
