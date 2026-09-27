@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2703 条推文
+> 📊 推文存档 - 共 2705 条推文
 
 ---
 
@@ -131,15 +131,33 @@ Literally
 
 RT @SpaceX: Falcon 9 launches USSF-385 to orbit from pad 4E in California https://t.co/gEmvXTvgYz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMRmq42kCz3xx-RMdVTvlwt3viwVv1AAI4EmsbZd_IVZQf-HU2tH2-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMR2q42kPerHendw5pqCMPFCl9rfyJAAI6EmsbZd_IVd038DlWIo2aAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-27 16:58:57
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMSGq42kackfgyIGV4vo4mBJz3DVNJAAI7EmsbZd_IVbITEpSivVOJAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMSWq42kjoG-EDaYZH_dYKpXIm9ceyAAI8EmsbZd_IVR8V0d40gJ24AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/elonmusk/status/2104129033399160871)
+RT @gavinpurcell: a new chapter in 'opus 5.5 &amp; fig present'...
+
+"present company" 
+
+on synthetic beings, tilly norwood and unreliable narra…
+
+[查看原文](https://x.com/elonmusk/status/2104133683942953414)
+
+---
+
+## 2026-09-27 17:04:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+[查看原文](https://x.com/elonmusk/status/2104135091417215376)
 
 ---
 
