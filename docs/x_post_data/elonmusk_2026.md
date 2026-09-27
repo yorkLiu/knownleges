@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2698 条推文
+> 📊 推文存档 - 共 2699 条推文
 
 ---
 
@@ -61,8 +61,6 @@ RT @MrAndyNgo: A trans person in Manaus, Brazil has been arrested after allegedl
 
 Grok @Bot can manage your finances
 
-[查看原文](https://x.com/elonmusk/status/2103958249922072840)
-
 ---
 
 ## 2026-09-27 05:23:01
@@ -72,8 +70,6 @@ Grok @Bot can manage your finances
 **内容**:
 
 RT @xdNiBoR: Non tech people I know are buying Starlink for their homes because it is faster AND cheaper than cable internet here in Belgiu…
-
-[查看原文](https://x.com/elonmusk/status/2103958544035004805)
 
 ---
 
@@ -85,7 +81,17 @@ RT @xdNiBoR: Non tech people I know are buying Starlink for their homes because 
 
 Production on the Moon &amp; Mars will accelerate by far more than double every year, until natural limits are encountered
 
-[查看原文](https://x.com/elonmusk/status/2103960796942516451)
+---
+
+## 2026-09-27 08:44:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aaronburnett: SpaceX’s Starship flight 14 is launching 26 V3 Starlinks and represents ~26 Tbps for the launch (based on company specs)……
+
+[查看原文](https://x.com/elonmusk/status/2104009175923560454)
 
 ---
 
