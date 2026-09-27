@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2718 条推文
+> 📊 推文存档 - 共 2720 条推文
 
 ---
 
@@ -19,7 +19,33 @@ tags: ["2026"]
 
 RT @Erdayastronaut: 10 years ago today, @elonmusk announced his Mars plans in the form of the Interplanetary Transportation System, now kno…
 
-[查看原文](https://x.com/elonmusk/status/2104241882280706176)
+---
+
+## 2026-09-28 00:56:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: I gave Opus 5.5 one of my french theory analysis that got 80 million views and simply asked it to turn it into a video.
+
+This…
+
+[查看原文](https://x.com/elonmusk/status/2104253907790713339)
+
+---
+
+## 2026-09-28 00:57:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @prasenx: asked claude in cursor to make a video on history of video games https://t.co/65QZo9zmod
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMTmq5TZ_QnhuM_zgKPkLn0d8kqYFyAAIWEGsbZd_QVWuqYuq2Tvb3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104254031061557730)
 
 ---
 
