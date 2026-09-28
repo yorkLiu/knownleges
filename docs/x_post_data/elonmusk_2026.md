@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2736 条推文
+> 📊 推文存档 - 共 2741 条推文
 
 ---
 
@@ -191,10 +191,6 @@ RT @abufenyrcd: The e/acc conversion funnel
 
 NEVER doom https://t.co/oSvnZT9LM4
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMUWq5wMRRkQ87YJHd8SpU4C71JlnqAAJ3EGsbZd_QVaWXNFYZP5qoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104373966907605090)
-
 ---
 
 ## 2026-09-28 08:59:11
@@ -204,8 +200,6 @@ NEVER doom https://t.co/oSvnZT9LM4
 **内容**:
 
 Accurate
-
-[查看原文](https://x.com/elonmusk/status/2104375332048613752)
 
 ---
 
@@ -219,7 +213,82 @@ RT @JasonYanowitz: Fascinating.
 
 Chief Economist at Apollo: agents could cause a bank run by sweeping household cash into accounts paying 3…
 
-[查看原文](https://x.com/elonmusk/status/2104377378998759603)
+---
+
+## 2026-09-28 09:21:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @liam_fallen: I made a Grok Bot that finds you money.
+
+It hunts down claims you qualify for.
+
+→ Scans official sources
+→ Checks your eli…
+
+[查看原文](https://x.com/elonmusk/status/2104381070787461303)
+
+---
+
+## 2026-09-28 09:24:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2104381674796495229)
+
+---
+
+## 2026-09-28 09:24:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KettlebellDan: Is it just me or is x getting better by the day? 
+
+- more network connections 
+- increasingly valuable opportunities 
+-…
+
+[查看原文](https://x.com/elonmusk/status/2104381714780901756)
+
+---
+
+## 2026-09-28 09:25:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Falcon 9 and Dragon are at pad 40 in Florida for @NASA’s Crew-13 mission to the @Space_Station https://t.co/XPea7uGa4T
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMUmq5yBGX8XcJtwM9X0nbtl6MNj7UAAJ9EGsbZd_QVdpcqZntS3d0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMU2q5yBPvujmp2urAFzZHOk2cr97oAAJ-EGsbZd_QVfCzsviXWSOZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMVGq5yBZpNuIMW-2SdcVpkeyD5NCDAAJ_EGsbZd_QVetUIoRAk6mdAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMVWq5yBkfCRgZKKuObgABQYgXrI_qkAACgBBrG2Xf0FU6p4SnyNADrgEAAwIAA3kAAz0E.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104382033787228593)
+
+---
+
+## 2026-09-28 09:38:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Bravo @JMilei!
+
+[查看原文](https://x.com/elonmusk/status/2104385138545365067)
 
 ---
 
