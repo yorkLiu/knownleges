@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2733 条推文
+> 📊 推文存档 - 共 2736 条推文
 
 ---
 
@@ -179,7 +179,47 @@ Worth considering
 
 Accurate (for now)
 
-[查看原文](https://x.com/elonmusk/status/2104366530938994817)
+---
+
+## 2026-09-28 08:53:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @abufenyrcd: The e/acc conversion funnel
+
+NEVER doom https://t.co/oSvnZT9LM4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMUWq5wMRRkQ87YJHd8SpU4C71JlnqAAJ3EGsbZd_QVaWXNFYZP5qoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104373966907605090)
+
+---
+
+## 2026-09-28 08:59:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Accurate
+
+[查看原文](https://x.com/elonmusk/status/2104375332048613752)
+
+---
+
+## 2026-09-28 09:07:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JasonYanowitz: Fascinating.
+
+Chief Economist at Apollo: agents could cause a bank run by sweeping household cash into accounts paying 3…
+
+[查看原文](https://x.com/elonmusk/status/2104377378998759603)
 
 ---
 
