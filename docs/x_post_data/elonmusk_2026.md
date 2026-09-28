@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2746 条推文
+> 📊 推文存档 - 共 2749 条推文
 
 ---
 
@@ -332,7 +332,42 @@ there are extremely few decisions that matter an…
 
 RT @JensenHuang: Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell a…
 
-[查看原文](https://x.com/elonmusk/status/2104541062136287336)
+---
+
+## 2026-09-28 20:10:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Erdayastronaut: WE'RE LIVE to watch the FIRST ORBITAL STARSHIP!!! LET'S GO!!! https://t.co/pgurvGzTnf
+
+[查看原文](https://x.com/elonmusk/status/2104544189824303323)
+
+---
+
+## 2026-09-28 20:14:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship Flight 14 launches in ~30 mins
+https://t.co/aJL2lNl2Xt
+
+[查看原文](https://x.com/elonmusk/status/2104545337478406579)
+
+---
+
+## 2026-09-28 20:14:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Watch Starship Flight 14 https://t.co/uQKQvgbrch
+
+[查看原文](https://x.com/elonmusk/status/2104545383640629321)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 445 条推文
+> 📊 推文存档 - 共 447 条推文
 
 ---
 
@@ -97,7 +97,35 @@ tags: ["2026"]
 
 好吧，這次帶貨很成功，我高低也去搞一個彭大帥同款🤭
 
-[查看原文](https://x.com/dianzhuXS/status/2104535545955418450)
+---
+
+## 2026-09-28 20:12:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+好吧，來兩句乾貨
+
+「十靈日」都知道吧，現在一幫愛好者瘋傳，這樣的日主與玄學有緣，都是祖師爺賞飯的天才😅😅😅
+
+一共就六十甲子，（甲辰、乙亥、丙辰、丁酉、戊午、庚寅、庚戌、辛亥、壬寅、癸未），每六個人就出一個十靈日，遍地都是玄學天才？ https://t.co/oTXjgw0BWP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMXmq6XtmW8jN7MfA6Cw2fkq-CD4EcAAJ9Fmsb56jRVQ_JqhUHhCL5AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2104544866034442593)
+
+---
+
+## 2026-09-28 20:30:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一家讓我“哇”了無數聲的餐廳，環境美食我都想“偷師”～  #vlog #美食 https://t.co/Vc846ylQTj 來自 @YouTube
+
+[查看原文](https://x.com/dianzhuXS/status/2104549311690531281)
 
 ---
 
