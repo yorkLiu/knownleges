@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 46 条推文
+> 📊 推文存档 - 共 47 条推文
 
 ---
 
@@ -140,9 +140,19 @@ tags: ["2026"]
 
 那么现在呢？ https://t.co/3JVUqb3qSA
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMYGq6e5ZrUJs_RRdO2JYdKaqzwOZCAALBFmsb56jRVYiCIQUPNlIvAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2104573378699096321)
+## 2026-09-28 23:00:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+真他妈绝了，我这节奏踩的太好了，我都佩服自己！
+
+兄弟们跟上了吗？还不理解的，上一条好好读。接下来，给我拿住！👏🏻
+
+[查看原文](https://x.com/iiiinvest/status/2104587037706006983)
 
 ---
 
