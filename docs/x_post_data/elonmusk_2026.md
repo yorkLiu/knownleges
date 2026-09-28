@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2741 条推文
+> 📊 推文存档 - 共 2744 条推文
 
 ---
 
@@ -228,8 +228,6 @@ It hunts down claims you qualify for.
 → Scans official sources
 → Checks your eli…
 
-[查看原文](https://x.com/elonmusk/status/2104381070787461303)
-
 ---
 
 ## 2026-09-28 09:24:23
@@ -239,8 +237,6 @@ It hunts down claims you qualify for.
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2104381674796495229)
 
 ---
 
@@ -256,8 +252,6 @@ RT @KettlebellDan: Is it just me or is x getting better by the day?
 - increasingly valuable opportunities 
 -…
 
-[查看原文](https://x.com/elonmusk/status/2104381714780901756)
-
 ---
 
 ## 2026-09-28 09:25:49
@@ -267,16 +261,6 @@ RT @KettlebellDan: Is it just me or is x getting better by the day?
 **内容**:
 
 RT @SpaceX: Falcon 9 and Dragon are at pad 40 in Florida for @NASA’s Crew-13 mission to the @Space_Station https://t.co/XPea7uGa4T
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMUmq5yBGX8XcJtwM9X0nbtl6MNj7UAAJ9EGsbZd_QVdpcqZntS3d0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMU2q5yBPvujmp2urAFzZHOk2cr97oAAJ-EGsbZd_QVfCzsviXWSOZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMVGq5yBZpNuIMW-2SdcVpkeyD5NCDAAJ_EGsbZd_QVetUIoRAk6mdAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMVWq5yBkfCRgZKKuObgABQYgXrI_qkAACgBBrG2Xf0FU6p4SnyNADrgEAAwIAA3kAAz0E.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104382033787228593)
 
 ---
 
@@ -288,7 +272,49 @@ RT @SpaceX: Falcon 9 and Dragon are at pad 40 in Florida for @NASA’s Crew-13 m
 
 Bravo @JMilei!
 
-[查看原文](https://x.com/elonmusk/status/2104385138545365067)
+---
+
+## 2026-09-28 10:19:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: “Reaching even 1% of the Sun’s energy would make a civilization vastly more powerful than us” 
+
+— Elon Musk https://t.co/00Vkw…
+
+[查看原文](https://x.com/elonmusk/status/2104395496391684269)
+
+---
+
+## 2026-09-28 10:20:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @C_3C_3: So…
+
+Billionaires sitting at Trump’s head table for Xi visit: 5
+
+Bernie Sanders outrage posts about it: 4
+
+Billionaires sitting…
+
+[查看原文](https://x.com/elonmusk/status/2104395696153792583)
+
+---
+
+## 2026-09-28 10:22:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Upgrades
+
+[查看原文](https://x.com/elonmusk/status/2104396243434651759)
 
 ---
 
