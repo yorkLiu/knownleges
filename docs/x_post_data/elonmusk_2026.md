@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2764 条推文
+> 📊 推文存档 - 共 2766 条推文
 
 ---
 
@@ -101,8 +101,6 @@ Harvard University ran a controlled experiment pitti…
 
 RT @Starlink: Today’s Starlink payload will add up to 26 Terabits of capacity to the constellation.
 
-[查看原文](https://x.com/elonmusk/status/2104643807031783851)
-
 ---
 
 ## 2026-09-29 02:54:16
@@ -112,8 +110,6 @@ RT @Starlink: Today’s Starlink payload will add up to 26 Terabits of capacity 
 **内容**:
 
 RT @AJamesMcCarthy: I set a camera really close to the launch pad to get this shot. It was a sound activated trigger since it wasn’t safe f…
-
-[查看原文](https://x.com/elonmusk/status/2104645885338775840)
 
 ---
 
@@ -127,7 +123,37 @@ RT @ApoStructura: There are only two launches in history that put more payload m
 
 And that’s with only…
 
-[查看原文](https://x.com/elonmusk/status/2104646008294535211)
+---
+
+## 2026-09-29 04:09:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Liftoff of Starship's first orbital flight https://t.co/vG6QWlpwnY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZGq6yqqHhHlsSlWojewZqFthsbdaAALSEWsb56jZVXbg9tOlgnO5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZWq6yq0UNKSb0E6Le3xiv8Fij29dAALTEWsb56jZVatEWEbxoZwPAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZmq6yrBQii2ipgVuCYcG5DC0PWFjAALUEWsb56jZVSbUBGnXYWdPAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZ2q6yrIPve5PHj3gwp0l1zYttCELAALVEWsb56jZVe7LzUaP03lnAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104664876518105132)
+
+---
+
+## 2026-09-29 04:10:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Starship achieved orbit on its first attempt and successfully delivered Starlink V3 satellites to space for the first time → ht…
+
+[查看原文](https://x.com/elonmusk/status/2104665147105251768)
 
 ---
 
