@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 482 条推文
+> 📊 推文存档 - 共 483 条推文
+
+---
+
+## 2026-09-29 06:22:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Everyone is asking "Where is Serenity" or "Who is Serenity". But nobody is asking...
+
+"How is Serenity"?  
+
+I do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. 
+
+I remember saying physical AI + world models
+
+[查看原文](https://x.com/aleabitoreddit/status/2104698369591706069)
 
 ---
 
