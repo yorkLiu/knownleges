@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2744 条推文
+> 📊 推文存档 - 共 2745 条推文
 
 ---
 
@@ -284,8 +284,6 @@ RT @XFreeze: “Reaching even 1% of the Sun’s energy would make a civilization
 
 — Elon Musk https://t.co/00Vkw…
 
-[查看原文](https://x.com/elonmusk/status/2104395496391684269)
-
 ---
 
 ## 2026-09-28 10:20:06
@@ -302,8 +300,6 @@ Bernie Sanders outrage posts about it: 4
 
 Billionaires sitting…
 
-[查看原文](https://x.com/elonmusk/status/2104395696153792583)
-
 ---
 
 ## 2026-09-28 10:22:16
@@ -314,7 +310,19 @@ Billionaires sitting…
 
 Upgrades
 
-[查看原文](https://x.com/elonmusk/status/2104396243434651759)
+---
+
+## 2026-09-28 10:49:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gabriel1: with elon, people focus too much on trying to find individual bad decisions
+
+there are extremely few decisions that matter an…
+
+[查看原文](https://x.com/elonmusk/status/2104402989570297895)
 
 ---
 
