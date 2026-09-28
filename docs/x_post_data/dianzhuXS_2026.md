@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 449 条推文
+> 📊 推文存档 - 共 450 条推文
 
 ---
 
@@ -31,9 +31,17 @@ tags: ["2026"]
 
 習近平同款找到了，彭大帥同款暫時沒有蹤跡😅😅😅 https://t.co/UOstxLdVt3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMamq69YZ0T3B-wA_ZCnrFZ83I9QhJAALmEWsb56jZVVa2QuNL8CCIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2104709126777700525)
+## 2026-09-29 07:18:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+再說一遍，這首曲子能避邪，這不是封建迷信，這是普通人都能理解的，最簡單的「高頻共振」。
+
+[查看原文](https://x.com/dianzhuXS/status/2104712448272171417)
 
 ---
 

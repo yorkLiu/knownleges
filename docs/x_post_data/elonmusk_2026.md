@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2769 条推文
+> 📊 推文存档 - 共 2773 条推文
 
 ---
 
@@ -153,10 +153,6 @@ RT @SpaceX: Starship achieved orbit on its first attempt and successfully delive
 
 RT @IterIntellectus: renaissance painting https://t.co/KIKBjtE6R8
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMaWq69YAFOXLLs7IhHBKtzfcfM3doAALlEWsb56jZVX13lvah1Og0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104704880627617820)
-
 ---
 
 ## 2026-09-29 07:08:10
@@ -166,8 +162,6 @@ RT @IterIntellectus: renaissance painting https://t.co/KIKBjtE6R8
 **内容**:
 
 Now @Bot works as a team!
-
-[查看原文](https://x.com/elonmusk/status/2104709783999729911)
 
 ---
 
@@ -179,7 +173,55 @@ Now @Bot works as a team!
 
 RT @poteto: very excited to share one of my favorite new features! grok @bot is now multiplayer. make a team bot which has access to your p…
 
-[查看原文](https://x.com/elonmusk/status/2104709892762120484)
+---
+
+## 2026-09-29 07:30:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: in case you missed it over the weekend, grok @bot can help with your finances! combined with the other connectors available in…
+
+[查看原文](https://x.com/elonmusk/status/2104715520759271702)
+
+---
+
+## 2026-09-29 07:31:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceXAI: Grok 4.7 is now on Amazon Bedrock https://t.co/wM8bj1Wm9N
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMa2q6_MyUmXT0P3PTmCfxTs7Hs-B3AALxEWsb56jZVaEw0phhPTd3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104715560734838855)
+
+---
+
+## 2026-09-29 07:32:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Not bad
+
+[查看原文](https://x.com/elonmusk/status/2104715842319786148)
+
+---
+
+## 2026-09-29 07:34:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @_MaxQ_: Starship transiting the Sun this morning during Flight 14 — prior to this morning's mission, this has never been captured befor…
+
+[查看原文](https://x.com/elonmusk/status/2104716406516228196)
 
 ---
 
