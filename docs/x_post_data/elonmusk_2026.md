@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2761 条推文
+> 📊 推文存档 - 共 2764 条推文
 
 ---
 
@@ -39,10 +39,6 @@ RT @SpaceX: Starship performs its orbital insertion burn and enters orbit of Ear
 
 RT @SpaceX: Super Heavy has splashed down in the Gulf of America! https://t.co/pEIjC2Aae1
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMY2q6tMd-V4Q9ZsaAcW9DQoC3qgnBAAIfF2sb56jRVcMCtFx8vy2zAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104638475404218840)
-
 ---
 
 ## 2026-09-29 02:25:02
@@ -52,8 +48,6 @@ RT @SpaceX: Super Heavy has splashed down in the Gulf of America! https://t.co/p
 **内容**:
 
 RT @NASAAdmin: Congrats @SpaceX! Gorgeous launch, getting Ship to orbit and managing every step in a safe, responsible, and especially insp…
-
-[查看原文](https://x.com/elonmusk/status/2104638529192014093)
 
 ---
 
@@ -65,8 +59,6 @@ RT @NASAAdmin: Congrats @SpaceX! Gorgeous launch, getting Ship to orbit and mana
 
 Starship landing
 
-[查看原文](https://x.com/elonmusk/status/2104640740399976477)
-
 ---
 
 ## 2026-09-29 02:35:25
@@ -77,10 +69,6 @@ Starship landing
 
 RT @SpaceX: Our approach to Starship’s first orbital mission https://t.co/FPrEFQXweO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMYmq6tMOZCDUnPHmwfb_FZgZm-7WLAAIeF2sb56jRVZeXuVcmEmm6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104641143984034207)
-
 ---
 
 ## 2026-09-29 02:40:16
@@ -90,8 +78,6 @@ RT @SpaceX: Our approach to Starship’s first orbital mission https://t.co/FPrE
 **内容**:
 
 SpaceX is building massive infrastructure for the future
-
-[查看原文](https://x.com/elonmusk/status/2104642361645003002)
 
 ---
 
@@ -105,7 +91,43 @@ RT @thesupermannx: Researchers proved AI has deleted every reason universities e
 
 Harvard University ran a controlled experiment pitti…
 
-[查看原文](https://x.com/elonmusk/status/2104642472613949490)
+---
+
+## 2026-09-29 02:46:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: Today’s Starlink payload will add up to 26 Terabits of capacity to the constellation.
+
+[查看原文](https://x.com/elonmusk/status/2104643807031783851)
+
+---
+
+## 2026-09-29 02:54:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AJamesMcCarthy: I set a camera really close to the launch pad to get this shot. It was a sound activated trigger since it wasn’t safe f…
+
+[查看原文](https://x.com/elonmusk/status/2104645885338775840)
+
+---
+
+## 2026-09-29 02:54:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ApoStructura: There are only two launches in history that put more payload mass in orbit than Starship Flight 14.
+
+And that’s with only…
+
+[查看原文](https://x.com/elonmusk/status/2104646008294535211)
 
 ---
 
