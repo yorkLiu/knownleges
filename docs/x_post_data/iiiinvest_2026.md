@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 39 条推文
+> 📊 推文存档 - 共 40 条推文
 
 ---
 
@@ -45,8 +45,6 @@ tags: ["2026"]
 
 比特币和币股相对特殊一点，因为大周期处于上升通道，回调会是很好的买入机会。
 
-[查看原文](https://x.com/iiiinvest/status/2104414295559983477)
-
 ---
 
 ## 2026-09-28 11:52:47
@@ -57,9 +55,19 @@ tags: ["2026"]
 
 半场开个香槟，又是100万。把鱼哥牛逼打在评论区！ https://t.co/LhjJHTCwFV
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMWWq55Ukf9zqnO0za3-WjkZvgjDeCAALCEGsbZd_QVbt7-kYWmzAjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2104419020644712461)
+## 2026-09-28 12:47:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看到有些兄弟不理解，带单的策略目前是撸短线增厚利润，同时通过下跌积累底仓。实盘是主观交易，短期看空和长期看多不矛盾。
+
+如果不好理解，就看结果。求求不理解的兄弟先看下置顶的文章。初期可以质疑，但实盘收益都50%了，我自己放50万现在70多万美金，你还不信任就别参与了。我真的很累！
+
+[查看原文](https://x.com/iiiinvest/status/2104432874892189954)
 
 ---
 
