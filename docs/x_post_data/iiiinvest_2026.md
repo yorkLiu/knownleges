@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 43 条推文
+> 📊 推文存档 - 共 44 条推文
 
 ---
 
@@ -100,9 +100,17 @@ tags: ["2026"]
 1天
 掌声👏🏻 https://t.co/aFmBzlzk6s
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMXWq6LLmmZIcF3hTsJQoHQZ9OQnD1AALMFWsb56jRVcz6GOhP2Q12AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2104493349466243311)
+## 2026-09-28 19:06:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+比特币这是支线任务，今晚的纳指才是主线。兄弟们，我们能走到对岸吗！
+
+[查看原文](https://x.com/iiiinvest/status/2104528201066406078)
 
 ---
 
