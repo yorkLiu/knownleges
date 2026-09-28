@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 42 条推文
+> 📊 推文存档 - 共 43 条推文
 
 ---
 
@@ -87,7 +87,22 @@ tags: ["2026"]
 
 逻辑很硬，目前看BTC确实跌的很独立！
 
-[查看原文](https://x.com/iiiinvest/status/2104488697458782698)
+---
+
+## 2026-09-28 16:48:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+平掉了，
+19万美金
+1天
+掌声👏🏻 https://t.co/aFmBzlzk6s
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMXWq6LLmmZIcF3hTsJQoHQZ9OQnD1AALMFWsb56jRVcz6GOhP2Q12AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2104493349466243311)
 
 ---
 
