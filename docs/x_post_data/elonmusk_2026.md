@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2766 条推文
+> 📊 推文存档 - 共 2769 条推文
 
 ---
 
@@ -133,16 +133,6 @@ And that’s with only…
 
 RT @SpaceX: Liftoff of Starship's first orbital flight https://t.co/vG6QWlpwnY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZGq6yqqHhHlsSlWojewZqFthsbdaAALSEWsb56jZVXbg9tOlgnO5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZWq6yq0UNKSb0E6Le3xiv8Fij29dAALTEWsb56jZVatEWEbxoZwPAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZmq6yrBQii2ipgVuCYcG5DC0PWFjAALUEWsb56jZVSbUBGnXYWdPAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMZ2q6yrIPve5PHj3gwp0l1zYttCELAALVEWsb56jZVe7LzUaP03lnAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104664876518105132)
-
 ---
 
 ## 2026-09-29 04:10:48
@@ -153,7 +143,43 @@ RT @SpaceX: Liftoff of Starship's first orbital flight https://t.co/vG6QWlpwnY
 
 RT @SpaceX: Starship achieved orbit on its first attempt and successfully delivered Starlink V3 satellites to space for the first time → ht…
 
-[查看原文](https://x.com/elonmusk/status/2104665147105251768)
+---
+
+## 2026-09-29 06:48:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @IterIntellectus: renaissance painting https://t.co/KIKBjtE6R8
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMaWq69YAFOXLLs7IhHBKtzfcfM3doAALlEWsb56jZVX13lvah1Og0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104704880627617820)
+
+---
+
+## 2026-09-29 07:08:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Now @Bot works as a team!
+
+[查看原文](https://x.com/elonmusk/status/2104709783999729911)
+
+---
+
+## 2026-09-29 07:08:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: very excited to share one of my favorite new features! grok @bot is now multiplayer. make a team bot which has access to your p…
+
+[查看原文](https://x.com/elonmusk/status/2104709892762120484)
 
 ---
 
