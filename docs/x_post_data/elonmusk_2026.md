@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2732 条推文
+> 📊 推文存档 - 共 2733 条推文
 
 ---
 
@@ -149,10 +149,6 @@ RT @raywongy: Deleted Muse after seeing this post on Threads about how it told s
 
 I really felt the AGI profoundly this time https://t.co/tiAB4qETtt
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMTGq48CqUH4Oe1OQOVcVb2604SN79AAJoEmsbZd_IVfAYclFHygRlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104360927474921529)
-
 ---
 
 ## 2026-09-28 08:03:47
@@ -162,8 +158,6 @@ I really felt the AGI profoundly this time https://t.co/tiAB4qETtt
 **内容**:
 
 Starship Flight 14 aiming to launch tomorrow morning
-
-[查看原文](https://x.com/elonmusk/status/2104361390123430335)
 
 ---
 
@@ -175,7 +169,17 @@ Starship Flight 14 aiming to launch tomorrow morning
 
 Worth considering
 
-[查看原文](https://x.com/elonmusk/status/2104361756412019115)
+---
+
+## 2026-09-28 08:24:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Accurate (for now)
+
+[查看原文](https://x.com/elonmusk/status/2104366530938994817)
 
 ---
 
