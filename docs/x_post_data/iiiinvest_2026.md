@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 45 条推文
+> 📊 推文存档 - 共 46 条推文
 
 ---
 
@@ -124,7 +124,25 @@ tags: ["2026"]
 
 我一般开仓就开足，但有时也会打头仓，后面再补。这就导致，我和兄弟们的开仓价可能不一样。最后结果可能是我赚钱了，你可能还亏了。
 
-[查看原文](https://x.com/iiiinvest/status/2104541615838908456)
+---
+
+## 2026-09-28 22:06:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+现在市场在交易什么
+
+纳指在新高附近震荡，多和空好像都有理由。这时候还是要抓住市场的主线，不然很容易被震下车。
+
+先回顾下，上一轮的逻辑：加息预期—加息—利空落地，伴随着虹吸外围市场资金，市场上涨。
+
+那么现在呢？ https://t.co/3JVUqb3qSA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMYGq6e5ZrUJs_RRdO2JYdKaqzwOZCAALBFmsb56jRVYiCIQUPNlIvAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2104573378699096321)
 
 ---
 

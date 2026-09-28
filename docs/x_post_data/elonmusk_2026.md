@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2751 条推文
+> 📊 推文存档 - 共 2753 条推文
 
 ---
 
@@ -373,8 +373,6 @@ RT @SpaceX: Watch Starship Flight 14 https://t.co/uQKQvgbrch
 
 First orbital flight of Starship successful!
 
-[查看原文](https://x.com/elonmusk/status/2104572192247984493)
-
 ---
 
 ## 2026-09-28 22:02:56
@@ -385,7 +383,31 @@ First orbital flight of Starship successful!
 
 All 26 Starlink V3 operational satellites deployed and operating nominally
 
-[查看原文](https://x.com/elonmusk/status/2104572572067099102)
+---
+
+## 2026-09-28 22:06:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Liftoff of Starship! https://t.co/40D8bXSkr2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMX2q6e44FDbUuF7G85_bVoZsmTHg0AALAFmsb56jRVXmizOZaCyu8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2104573403973759123)
+
+---
+
+## 2026-09-28 22:07:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Starship’s Raptor engines ignite during hot-staging separation. Super Heavy boosted back towards its splashdown site in the Gul…
+
+[查看原文](https://x.com/elonmusk/status/2104573602146267294)
 
 ---
 
