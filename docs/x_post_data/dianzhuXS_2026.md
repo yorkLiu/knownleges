@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 443 条推文
+> 📊 推文存档 - 共 444 条推文
 
 ---
 
@@ -77,13 +77,17 @@ tags: ["2026"]
 
 又來吃小館啦😋😋😋 https://t.co/48qQy5bWur
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMWmq6LK1X_ihULLsLK0pbDwZw3IPXAALJFWsb56jRVRVYBthQBz5_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMW2q6LLBil58JvNYjGm3yaPlKxRirAALKFWsb56jRVTAz-Rms32iEAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-28 19:01:34
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMXGq6LLTHkgV35tJvMW8_WV5tN6ZRAALLFWsb56jRVWNwJwVSGq85AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://x.com/dianzhuXS/status/2104494277447520630)
+**内容**:
+
+前兩天直播罵習近平，情緒價值拉滿了吧？舒服了，但也別忘了正事，這兩天該安排小範圍叨逼叨啦，都抓緊學能耐吧，時間不多了。等大多數行業都被AI碾壓的時候，等科學與玄學並軌合一的時候，呵呵⋯⋯
+
+[查看原文](https://x.com/dianzhuXS/status/2104526928002810093)
 
 ---
 
