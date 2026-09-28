@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2749 条推文
+> 📊 推文存档 - 共 2751 条推文
 
 ---
 
@@ -342,8 +342,6 @@ RT @JensenHuang: Today, with over 100 industry partners, we introduced the NVIDI
 
 RT @Erdayastronaut: WE'RE LIVE to watch the FIRST ORBITAL STARSHIP!!! LET'S GO!!! https://t.co/pgurvGzTnf
 
-[查看原文](https://x.com/elonmusk/status/2104544189824303323)
-
 ---
 
 ## 2026-09-28 20:14:43
@@ -355,8 +353,6 @@ RT @Erdayastronaut: WE'RE LIVE to watch the FIRST ORBITAL STARSHIP!!! LET'S GO!!
 Starship Flight 14 launches in ~30 mins
 https://t.co/aJL2lNl2Xt
 
-[查看原文](https://x.com/elonmusk/status/2104545337478406579)
-
 ---
 
 ## 2026-09-28 20:14:54
@@ -367,7 +363,29 @@ https://t.co/aJL2lNl2Xt
 
 RT @SpaceX: Watch Starship Flight 14 https://t.co/uQKQvgbrch
 
-[查看原文](https://x.com/elonmusk/status/2104545383640629321)
+---
+
+## 2026-09-28 22:01:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+First orbital flight of Starship successful!
+
+[查看原文](https://x.com/elonmusk/status/2104572192247984493)
+
+---
+
+## 2026-09-28 22:02:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All 26 Starlink V3 operational satellites deployed and operating nominally
+
+[查看原文](https://x.com/elonmusk/status/2104572572067099102)
 
 ---
 
