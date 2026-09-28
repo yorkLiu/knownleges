@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2745 条推文
+> 📊 推文存档 - 共 2746 条推文
 
 ---
 
@@ -322,7 +322,17 @@ RT @gabriel1: with elon, people focus too much on trying to find individual bad 
 
 there are extremely few decisions that matter an…
 
-[查看原文](https://x.com/elonmusk/status/2104402989570297895)
+---
+
+## 2026-09-28 19:57:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JensenHuang: Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell a…
+
+[查看原文](https://x.com/elonmusk/status/2104541062136287336)
 
 ---
 
