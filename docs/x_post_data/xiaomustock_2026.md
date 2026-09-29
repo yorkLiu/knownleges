@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 398 条推文
+> 📊 推文存档 - 共 399 条推文
 
 ---
 
@@ -31,9 +31,19 @@ tags: ["2026"]
 存储已经这么赚钱了，赚上千亿，
 既不分红也不回购还要继续定增募资增发。 https://t.co/DycTlHxq0f
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMb2q7aJwdJe0RSkqlmEox9lsbuW99AALaEmsb56jZVfKAZs8SEqUjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2104833104527630775)
+## 2026-09-29 19:33:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+在云南遇见一个水果很像海贼王里的恶魔果实 https://t.co/4j4tCkjqtq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMcWq7okTyyTfYaebXj-FFo5svu_AlAAK_E2sb56jZVcYERvFTX6otAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2104897277571879306)
 
 ---
 
