@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2774 条推文
+> 📊 推文存档 - 共 2775 条推文
 
 ---
 
@@ -223,7 +223,17 @@ RT @_MaxQ_: Starship transiting the Sun this morning during Flight 14 — prior 
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2104746577793298608)
+---
+
+## 2026-09-29 23:40:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @xenocosmography: "Everyone has ethnicity except European-descended peoples, because that would be Adolf Hitler," is not proving to be a…
+
+[查看原文](https://x.com/elonmusk/status/2104959555230642379)
 
 ---
 
