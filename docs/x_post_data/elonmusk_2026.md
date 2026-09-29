@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2780 条推文
+> 📊 推文存档 - 共 2781 条推文
 
 ---
 
@@ -31,8 +31,6 @@ https://t.co/3B8E0…
 
 RT @hexiang: try https://t.co/A8QzJgoZEB
 
-[查看原文](https://x.com/elonmusk/status/2105020388053016832)
-
 ---
 
 ## 2026-09-30 03:42:52
@@ -45,8 +43,6 @@ RT @cb_doge: BREAKING: Grok is helping power America .gov, the U.S. government�
 
 U.S. Chief Design Officer Joe Gebbia s…
 
-[查看原文](https://x.com/elonmusk/status/2105020503932952711)
-
 ---
 
 ## 2026-09-30 03:55:20
@@ -56,8 +52,6 @@ U.S. Chief Design Officer Joe Gebbia s…
 **内容**:
 
 Super Intelligence
-
-[查看原文](https://x.com/elonmusk/status/2105023642312601851)
 
 ---
 
@@ -69,7 +63,17 @@ Super Intelligence
 
 RT @cb_doge: BREAKING: Elon Musk was sitting next to President Trump at the White House Super Intelligence luncheon. Here is President Trum…
 
-[查看原文](https://x.com/elonmusk/status/2105023703507747265)
+---
+
+## 2026-09-30 04:22:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship flight videos
+
+[查看原文](https://x.com/elonmusk/status/2105030525132124476)
 
 ---
 
