@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2790 条推文
+> 📊 推文存档 - 共 2791 条推文
 
 ---
 
@@ -93,10 +93,6 @@ RT @nicksortor: 🚨 JUST NOW: Elon Musk, shoulder to shoulder with President Tr
 
 RT @WhiteHouse: Official. https://t.co/BoTuIhxbTg
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMeGq8Pzjj_yz8FCijUK1WzbkzRcpLAALgEGsbMe3gVZJ6-0iOuE9SAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105059007006458337)
-
 ---
 
 ## 2026-09-30 06:20:09
@@ -107,8 +103,6 @@ RT @WhiteHouse: Official. https://t.co/BoTuIhxbTg
 
 Congratulations, @jgebbia!
 
-[查看原文](https://x.com/elonmusk/status/2105060085164863695)
-
 ---
 
 ## 2026-09-30 06:20:27
@@ -118,8 +112,6 @@ Congratulations, @jgebbia!
 **内容**:
 
 RT @RapidResponse47: Chief Design Officer @jgebbia officially unveils https://t.co/tMEB6EUmxg, the new online home for the United States of…
-
-[查看原文](https://x.com/elonmusk/status/2105060164437197096)
 
 ---
 
@@ -132,8 +124,6 @@ RT @RapidResponse47: Chief Design Officer @jgebbia officially unveils https://t.
 RT @mkratsios47: White House Accord on Super Intelligence
 Joint Commitment on Frontier Responsibilities
 
-[查看原文](https://x.com/elonmusk/status/2105060244988514444)
-
 ---
 
 ## 2026-09-30 06:21:24
@@ -143,10 +133,6 @@ Joint Commitment on Frontier Responsibilities
 **内容**:
 
 RT @america: Elon Musk's full discussion with NVIDIA CEO Jensen Huang at the https://t.co/IzUYzFJ4OH launch event. https://t.co/qH6xZbVNmM
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMd2q8PzUNkGiZqYjLUu6tjAfG9sonAALfEGsbMe3gVRXpWvhjNCNhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105060403416101020)
 
 ---
 
@@ -158,8 +144,6 @@ RT @america: Elon Musk's full discussion with NVIDIA CEO Jensen Huang at the htt
 
 RT @StateDept: SECRETARY RUBIO on https://t.co/pt9rQXC44r PASSPORTS: No printing forms, no drugstore hostage photo, no appointment, no line…
 
-[查看原文](https://x.com/elonmusk/status/2105060514795798742)
-
 ---
 
 ## 2026-09-30 06:25:43
@@ -169,8 +153,6 @@ RT @StateDept: SECRETARY RUBIO on https://t.co/pt9rQXC44r PASSPORTS: No printing
 **内容**:
 
 RT @DavidSacks: Only President Trump could convene all the leaders of the top companies developing chips, data centers and frontier models…
-
-[查看原文](https://x.com/elonmusk/status/2105061488134426894)
 
 ---
 
@@ -182,11 +164,19 @@ RT @DavidSacks: Only President Trump could convene all the leaders of the top co
 
 RT @WhiteHouse: America leads the future of Super Intelligence. 🇺🇸 https://t.co/gHuBoMn7Wj
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMdWq8PzHEtRI_-eoPJFUaJaVoEFMhAALdEGsbMe3gVU4wyvF7S-NlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMdmq8PzOfLYAhQm9in0s3Spdev_EvAALeEGsbMe3gVQPtizBFgpoZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-30 07:19:34
 
-[查看原文](https://x.com/elonmusk/status/2105061818536526300)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jgebbia: Thanks @BretBaier for having me 🇺🇸
+
+Airbnb co-founder leads Trump admin in creating 'concierge' to navigate government https:/…
+
+[查看原文](https://x.com/elonmusk/status/2105075040974950469)
 
 ---
 
