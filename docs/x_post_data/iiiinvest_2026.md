@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 55 条推文
+> 📊 推文存档 - 共 56 条推文
 
 ---
 
@@ -96,10 +96,6 @@ tags: ["2026"]
 
 看到了吗，空了10000股SOXL！ https://t.co/xr2jSyNKqY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMc2q7xitLp-T1FDCbAjbz4z-F_xsIAAIJEWsb56jhVQzcyFIsTjuDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/iiiinvest/status/2104930265059766291)
-
 ---
 
 ## 2026-09-29 21:57:51
@@ -110,7 +106,25 @@ tags: ["2026"]
 
 今天半导体确实强于大盘，我是这么想的，先试试盘，如果大盘跌，一定是半导体也涨到头。交易纪律上也比较好设置，前高止损掉就行了。
 
-[查看原文](https://x.com/iiiinvest/status/2104933678585622700)
+---
+
+## 2026-09-29 23:35:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+半导体SOXL的空单加到了2万股
+
+是的，每次开单刚开始都不舒服，除了300万的纳指空单，这次又加上了300万的半导体空单。共计600万美金。
+
+如果这次跌下去，大赚特赚。如果跌不下去，那么新高止损，应该亏20万美金左右。
+
+值。 https://t.co/N446RRImQC
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMdGq72412VDHZnoX6F40nFfvFyM-HAAJPEWsb56jhVZPTXTY_ERvhAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2104958165297316325)
 
 ---
 
