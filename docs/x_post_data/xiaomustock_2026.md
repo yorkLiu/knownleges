@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 396 条推文
+> 📊 推文存档 - 共 397 条推文
+
+---
+
+## 2026-09-29 12:42:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+国内燃油价格有红线，属于民生物料不可能允许瞎几把涨，昨天空了一把2611的燃油期货，成本4445，希望能破个4000 https://t.co/QTsiaiYxBD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMbWq7RLiNXlSUoqLF2bzuj3yLVN-DAAKLEmsb56jZVScB6TNuY-O_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2104793920886788172)
 
 ---
 
