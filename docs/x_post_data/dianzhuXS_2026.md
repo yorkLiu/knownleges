@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 454 条推文
+> 📊 推文存档 - 共 455 条推文
 
 ---
 
@@ -76,10 +76,6 @@ tags: ["2026"]
 
 這是習近平夫婦唯一一次正確的使用方式 https://t.co/lRNsXmm3jl
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMcGq7jHat-foE9nUbCcsnIzU2qGBqAAJDE2sb56jZVaTAMefkvdkYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2104869943305224502)
-
 ---
 
 ## 2026-09-29 17:51:51
@@ -92,7 +88,25 @@ tags: ["2026"]
 那麼問題來了
 牆國還有哪沒崩？
 
-[查看原文](https://x.com/dianzhuXS/status/2104871771644289053)
+---
+
+## 2026-09-29 21:10:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+對了，忘了說了
+這期直播抽獎失敗了
+好像是遇到敏感詞
+大家都沒發出去
+話說回來
+「川普牛逼」算敏感詞？
+好吧
+下次直播抽兩回，補上
+https://t.co/O6vEDzpsVm
+
+[查看原文](https://x.com/dianzhuXS/status/2104921697858289991)
 
 ---
 
