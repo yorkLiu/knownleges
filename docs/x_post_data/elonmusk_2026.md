@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2781 条推文
+> 📊 推文存档 - 共 2782 条推文
 
 ---
 
@@ -73,7 +73,17 @@ RT @cb_doge: BREAKING: Elon Musk was sitting next to President Trump at the Whit
 
 Starship flight videos
 
-[查看原文](https://x.com/elonmusk/status/2105030525132124476)
+---
+
+## 2026-09-30 05:59:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nicksortor: 🚨 JUST NOW: Elon Musk, shoulder to shoulder with President Trump, explains why AI is going to lift up ALL of humanity -- no…
+
+[查看原文](https://x.com/elonmusk/status/2105054888606527982)
 
 ---
 
