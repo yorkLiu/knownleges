@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2773 条推文
+> 📊 推文存档 - 共 2774 条推文
 
 ---
 
@@ -183,8 +183,6 @@ RT @poteto: very excited to share one of my favorite new features! grok @bot is 
 
 RT @poteto: in case you missed it over the weekend, grok @bot can help with your finances! combined with the other connectors available in…
 
-[查看原文](https://x.com/elonmusk/status/2104715520759271702)
-
 ---
 
 ## 2026-09-29 07:31:08
@@ -194,10 +192,6 @@ RT @poteto: in case you missed it over the weekend, grok @bot can help with your
 **内容**:
 
 RT @SpaceXAI: Grok 4.7 is now on Amazon Bedrock https://t.co/wM8bj1Wm9N
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMa2q6_MyUmXT0P3PTmCfxTs7Hs-B3AALxEWsb56jZVaEw0phhPTd3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2104715560734838855)
 
 ---
 
@@ -209,8 +203,6 @@ RT @SpaceXAI: Grok 4.7 is now on Amazon Bedrock https://t.co/wM8bj1Wm9N
 
 Not bad
 
-[查看原文](https://x.com/elonmusk/status/2104715842319786148)
-
 ---
 
 ## 2026-09-29 07:34:29
@@ -221,7 +213,17 @@ Not bad
 
 RT @_MaxQ_: Starship transiting the Sun this morning during Flight 14 — prior to this morning's mission, this has never been captured befor…
 
-[查看原文](https://x.com/elonmusk/status/2104716406516228196)
+---
+
+## 2026-09-29 09:34:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2104746577793298608)
 
 ---
 
