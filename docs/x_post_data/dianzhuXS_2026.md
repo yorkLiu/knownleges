@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 452 条推文
+> 📊 推文存档 - 共 454 条推文
 
 ---
 
@@ -66,7 +66,33 @@ tags: ["2026"]
 
 我再說一遍，拿性教的別TM關注我，嫌你們髒，聽得懂人話嗎？
 
-[查看原文](https://x.com/dianzhuXS/status/2104865037391470638)
+---
+
+## 2026-09-29 17:44:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這是習近平夫婦唯一一次正確的使用方式 https://t.co/lRNsXmm3jl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMcGq7jHat-foE9nUbCcsnIzU2qGBqAAJDE2sb56jZVaTAMefkvdkYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2104869943305224502)
+
+---
+
+## 2026-09-29 17:51:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+據說上海消費崩了？
+那麼問題來了
+牆國還有哪沒崩？
+
+[查看原文](https://x.com/dianzhuXS/status/2104871771644289053)
 
 ---
 
