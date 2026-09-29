@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 50 条推文
+> 📊 推文存档 - 共 51 条推文
 
 ---
 
@@ -45,9 +45,21 @@ tags: ["2026"]
 
 实现了量（粉丝）价（盈利）齐升，接下来我会好好表现的🫡 https://t.co/7Xod4PGADA
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMbmq7TAlofqWmUy5C2MZOuzhT0uN9AAKdEmsb56jZVYoi0F85y6xwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2104798644729962538)
+## 2026-09-29 16:48:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+纳指波动挺大的，有几个点需要注意
+
+1、夜盘和盘前最近主要受外围市场影响，重点还是关注盘中表现。
+2、设定好纪律，忽略中间无效波动，除非到了止损点，不然拿住了。
+3、市场的主线要认清，我认为目前就是博弈：连续加息，时间有利于我们。
+
+[查看原文](https://x.com/iiiinvest/status/2104855824564977809)
 
 ---
 
