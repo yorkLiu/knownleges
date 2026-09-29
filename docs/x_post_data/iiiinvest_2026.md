@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 53 条推文
+> 📊 推文存档 - 共 55 条推文
 
 ---
 
@@ -86,7 +86,31 @@ tags: ["2026"]
 
 怕个几把！
 
-[查看原文](https://x.com/iiiinvest/status/2104907644184268951)
+---
+
+## 2026-09-29 21:44:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看到了吗，空了10000股SOXL！ https://t.co/xr2jSyNKqY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMc2q7xitLp-T1FDCbAjbz4z-F_xsIAAIJEWsb56jhVQzcyFIsTjuDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2104930265059766291)
+
+---
+
+## 2026-09-29 21:57:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天半导体确实强于大盘，我是这么想的，先试试盘，如果大盘跌，一定是半导体也涨到头。交易纪律上也比较好设置，前高止损掉就行了。
+
+[查看原文](https://x.com/iiiinvest/status/2104933678585622700)
 
 ---
 
