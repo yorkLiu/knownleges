@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2775 条推文
+> 📊 推文存档 - 共 2776 条推文
+
+---
+
+## 2026-09-30 00:13:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @beehrhart: Retail investors should be heard.  And @Tesla is proud to create practical tools to empower their voice.
+
+https://t.co/3B8E0…
+
+[查看原文](https://x.com/elonmusk/status/2104967913883230222)
 
 ---
 
