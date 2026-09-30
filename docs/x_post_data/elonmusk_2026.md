@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2791 条推文
+> 📊 推文存档 - 共 2793 条推文
 
 ---
 
@@ -176,7 +176,29 @@ RT @jgebbia: Thanks @BretBaier for having me 🇺🇸
 
 Airbnb co-founder leads Trump admin in creating 'concierge' to navigate government https:/…
 
-[查看原文](https://x.com/elonmusk/status/2105075040974950469)
+---
+
+## 2026-09-30 08:14:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7 rank 1 on AA cyber index
+
+[查看原文](https://x.com/elonmusk/status/2105088792139014331)
+
+---
+
+## 2026-09-30 08:14:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @as400495: Possible thanks to @taigrr @caelin_sutch @ahmadaccino and the great career staff across the government
+
+[查看原文](https://x.com/elonmusk/status/2105088893972254789)
 
 ---
 
