@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2793 条推文
+> 📊 推文存档 - 共 2798 条推文
 
 ---
 
@@ -186,8 +186,6 @@ Airbnb co-founder leads Trump admin in creating 'concierge' to navigate governme
 
 Grok 4.7 rank 1 on AA cyber index
 
-[查看原文](https://x.com/elonmusk/status/2105088792139014331)
-
 ---
 
 ## 2026-09-30 08:14:37
@@ -198,7 +196,68 @@ Grok 4.7 rank 1 on AA cyber index
 
 RT @as400495: Possible thanks to @taigrr @caelin_sutch @ahmadaccino and the great career staff across the government
 
-[查看原文](https://x.com/elonmusk/status/2105088893972254789)
+---
+
+## 2026-09-30 08:19:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Due to high winds, the new Roadster demo is postponed by 2 weeks
+
+[查看原文](https://x.com/elonmusk/status/2105090209897500828)
+
+---
+
+## 2026-09-30 08:22:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GavinSBaker: Backstage before our panel on superintelligence at the launch of https://t.co/pdYe2rppWr
+
+Will post the video when it come…
+
+[查看原文](https://x.com/elonmusk/status/2105090883909726597)
+
+---
+
+## 2026-09-30 08:27:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SRBednarek: We’re now live in Ecuador with @Starlink Mobile! The new service with @CNT_EC will connect people in cellular dead zones ac…
+
+[查看原文](https://x.com/elonmusk/status/2105092216649867327)
+
+---
+
+## 2026-09-30 08:28:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mdahardy: We should just sandbox the agents by giving them Delta Wifi
+
+[查看原文](https://x.com/elonmusk/status/2105092479053975681)
+
+---
+
+## 2026-09-30 08:31:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @_sholtodouglas: This is excellent 🫡
+Its pretty fucking cool that we get to live at the time when there is a "White House Accord on Supe…
+
+[查看原文](https://x.com/elonmusk/status/2105093055535817108)
 
 ---
 
