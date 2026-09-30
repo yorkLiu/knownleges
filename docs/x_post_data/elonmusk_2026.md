@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2803 条推文
+> 📊 推文存档 - 共 2807 条推文
 
 ---
 
@@ -289,8 +289,6 @@ RT @SpaceX: Crew-13, SpaceX, and @NASA completed a full rehearsal of launch day 
 
 Also sprach Zarathustra
 
-[查看原文](https://x.com/elonmusk/status/2105107252529013032)
-
 ---
 
 ## 2026-09-30 09:35:28
@@ -301,7 +299,61 @@ Also sprach Zarathustra
 
 RT @nicksortor: 🚨 JUST NOW: Elon Musk and Jensen Huang give an INSIDE LOOK at the big meeting between top AI firms and President Trump toda…
 
-[查看原文](https://x.com/elonmusk/status/2105109239198892187)
+---
+
+## 2026-09-30 09:51:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Stellarixorine: 🚀 For 13 flights, Starship was intentionally kept on a suborbital path. Flight 14 changed that.
+
+On September 28, Ship…
+
+[查看原文](https://x.com/elonmusk/status/2105113383632597207)
+
+---
+
+## 2026-09-30 09:58:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @niccruzpatane: From concept to reality.
+
+@SpaceX has successfully deployed Starlink V3 satellites into Earth’s orbit and made contact w…
+
+[查看原文](https://x.com/elonmusk/status/2105115000591286666)
+
+---
+
+## 2026-09-30 10:11:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alpaysh: i still think about this ngl https://t.co/0gPtL7KKJq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMfGq8caLpUS5wrdQ-krHaRp-VSttHAAIEEWsbMe3gVTv2yQAB1rP1PAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105118281803960612)
+
+---
+
+## 2026-09-30 10:14:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: Views from of one of the first 26 Starlink V3 satellites successfully deployed to orbit by Starship
+
+Thanks for the ride, @Sp…
+
+[查看原文](https://x.com/elonmusk/status/2105118961532596360)
 
 ---
 
