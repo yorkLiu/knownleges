@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2801 条推文
+> 📊 推文存档 - 共 2803 条推文
 
 ---
 
@@ -259,8 +259,6 @@ Its pretty fucking cool that we get to live at the time when there is a "White H
 
 RT @finkd: I think it's a significant positive step that the leaders of every major American lab have committed to implementing robust inte…
 
-[查看原文](https://x.com/elonmusk/status/2105103348273983868)
-
 ---
 
 ## 2026-09-30 09:13:25
@@ -270,8 +268,6 @@ RT @finkd: I think it's a significant positive step that the leaders of every ma
 **内容**:
 
 Starship Super Heavy
-
-[查看原文](https://x.com/elonmusk/status/2105103689417408624)
 
 ---
 
@@ -283,13 +279,29 @@ Starship Super Heavy
 
 RT @SpaceX: Crew-13, SpaceX, and @NASA completed a full rehearsal of launch day activities https://t.co/RP9MUppxpm
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMeWq8Y0QR3lHP-8wDXYh74ccfzlEcAALtEGsbMe3gVZhAm7uHfJbJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMemq8Y0e-R7NQc6vLrpRBkr60-lUAA-4Qaxsx7eBV4bY6QUVHiFABAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-09-30 09:27:34
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMe2q8Y0paAey9SXVCFtVJdB3T6HZwAALvEGsbMe3gVUbEV4C7bV8kAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://x.com/elonmusk/status/2105104159011954984)
+**内容**:
+
+Also sprach Zarathustra
+
+[查看原文](https://x.com/elonmusk/status/2105107252529013032)
+
+---
+
+## 2026-09-30 09:35:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nicksortor: 🚨 JUST NOW: Elon Musk and Jensen Huang give an INSIDE LOOK at the big meeting between top AI firms and President Trump toda…
+
+[查看原文](https://x.com/elonmusk/status/2105109239198892187)
 
 ---
 
