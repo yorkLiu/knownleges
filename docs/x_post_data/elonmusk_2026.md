@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2820 条推文
+> 📊 推文存档 - 共 2823 条推文
 
 ---
 
@@ -121,7 +121,45 @@ Here is the 30 minute video of our tour hosted by Plant Manager Rob Rayl and…
 
 My guess for real GDP growth next year is &gt;50% higher than 2026, so &gt;3.3%
 
-[查看原文](https://x.com/elonmusk/status/2105361313392476174)
+---
+
+## 2026-10-01 06:33:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Accurate analysis
+
+[查看原文](https://x.com/elonmusk/status/2105425770965356697)
+
+---
+
+## 2026-10-01 06:33:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: SpaceXAI has just released Grokipedia v0.3, which includes improved visuals.
+
+https://t.co/8EwExEwhwl https://t.co/E6fPA…
+
+[查看原文](https://x.com/elonmusk/status/2105425861281534365)
+
+---
+
+## 2026-10-01 06:34:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @christopherrufo: 25 percent of San Francisco’s convicted pedophiles, rapists, and sex offenders live in government-funded housing.
+
+You…
+
+[查看原文](https://x.com/elonmusk/status/2105426089963143617)
 
 ---
 
