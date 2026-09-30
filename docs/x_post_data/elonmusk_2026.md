@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2819 条推文
+> 📊 推文存档 - 共 2820 条推文
 
 ---
 
@@ -59,8 +59,6 @@ New in @Grok @Bot
 
 RT @DrewPavlou: Holy shit, the Omani pilot stabbed his co-pilot and then put the plane into a nose dive. Almost murdered 180 people. Passen…
 
-[查看原文](https://x.com/elonmusk/status/2105350680034853371)
-
 ---
 
 ## 2026-10-01 01:36:46
@@ -70,8 +68,6 @@ RT @DrewPavlou: Holy shit, the Omani pilot stabbed his co-pilot and then put the
 **内容**:
 
 RT @KanekoaTheGreat: Elon Musk says SpaceX and Tesla are aiming to produce 200 gigawatts of solar per year and take it to space, where "it'…
-
-[查看原文](https://x.com/elonmusk/status/2105351160333017494)
 
 ---
 
@@ -83,8 +79,6 @@ RT @KanekoaTheGreat: Elon Musk says SpaceX and Tesla are aiming to produce 200 g
 
 RT @bchesky: So much of Airbnb’s success came from @jgebbia’s design brilliance. I’m delighted he brought those gifts to our government.…
 
-[查看原文](https://x.com/elonmusk/status/2105351736198418564)
-
 ---
 
 ## 2026-10-01 01:47:41
@@ -95,8 +89,6 @@ RT @bchesky: So much of Airbnb’s success came from @jgebbia’s design brillia
 
 Starship will expand the aperture of physics research by placing much larger telescopes in orbit and giant ones on the Moon
 
-[查看原文](https://x.com/elonmusk/status/2105353907799228549)
-
 ---
 
 ## 2026-10-01 01:50:16
@@ -106,8 +98,6 @@ Starship will expand the aperture of physics research by placing much larger tel
 **内容**:
 
 Starship Flight 14
-
-[查看原文](https://x.com/elonmusk/status/2105354554866864631)
 
 ---
 
@@ -121,7 +111,17 @@ RT @SERobinsonJr: Want to see inside the Tesla Semi Factory?
 
 Here is the 30 minute video of our tour hosted by Plant Manager Rob Rayl and…
 
-[查看原文](https://x.com/elonmusk/status/2105357198972874800)
+---
+
+## 2026-10-01 02:17:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My guess for real GDP growth next year is &gt;50% higher than 2026, so &gt;3.3%
+
+[查看原文](https://x.com/elonmusk/status/2105361313392476174)
 
 ---
 
