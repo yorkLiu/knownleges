@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 484 条推文
+> 📊 推文存档 - 共 485 条推文
+
+---
+
+## 2026-10-01 04:39:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$GOOGL Gemini 4 Argon benchmarks got released.
+
+Against GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.
+
+Still coughing nonstop, so will comment on $MU / $JBL  earnings later. 
+
+I've always thought Google's internal models were stellar, but anecdotally, they seem to get hard nerfed https://t.co/zCBn8RzlDe
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMg2q9c4lRoEB9W0xS2_7wphXcOklrAALjEmsbMe3oVck16r0_bOyTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2105397070681248021)
 
 ---
 
