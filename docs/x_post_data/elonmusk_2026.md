@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2813 条推文
+> 📊 推文存档 - 共 2819 条推文
 
 ---
 
@@ -29,10 +29,6 @@ RT @CJHandmer: This is too much fun. A render of how the quilted hyperbolic isot
 
 RT @DavidSacks: The Bretton Woods of Super Intelligence https://t.co/J7eFIqYUMq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMgmq9SDQ22VRAVisMxD9lT-TBmB_CAALXEmsbMe3oVd-rvfr4QRBzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105350082228826364)
-
 ---
 
 ## 2026-10-01 01:32:41
@@ -42,8 +38,6 @@ RT @DavidSacks: The Bretton Woods of Super Intelligence https://t.co/J7eFIqYUMq
 **内容**:
 
 RT @JensenHuang: Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intel…
-
-[查看原文](https://x.com/elonmusk/status/2105350130354254308)
 
 ---
 
@@ -55,7 +49,79 @@ RT @JensenHuang: Yesterday at the White House, leaders from across our industry 
 
 New in @Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2105350300534210708)
+---
+
+## 2026-10-01 01:34:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DrewPavlou: Holy shit, the Omani pilot stabbed his co-pilot and then put the plane into a nose dive. Almost murdered 180 people. Passen…
+
+[查看原文](https://x.com/elonmusk/status/2105350680034853371)
+
+---
+
+## 2026-10-01 01:36:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: Elon Musk says SpaceX and Tesla are aiming to produce 200 gigawatts of solar per year and take it to space, where "it'…
+
+[查看原文](https://x.com/elonmusk/status/2105351160333017494)
+
+---
+
+## 2026-10-01 01:39:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bchesky: So much of Airbnb’s success came from @jgebbia’s design brilliance. I’m delighted he brought those gifts to our government.…
+
+[查看原文](https://x.com/elonmusk/status/2105351736198418564)
+
+---
+
+## 2026-10-01 01:47:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship will expand the aperture of physics research by placing much larger telescopes in orbit and giant ones on the Moon
+
+[查看原文](https://x.com/elonmusk/status/2105353907799228549)
+
+---
+
+## 2026-10-01 01:50:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship Flight 14
+
+[查看原文](https://x.com/elonmusk/status/2105354554866864631)
+
+---
+
+## 2026-10-01 02:00:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SERobinsonJr: Want to see inside the Tesla Semi Factory?
+
+Here is the 30 minute video of our tour hosted by Plant Manager Rob Rayl and…
+
+[查看原文](https://x.com/elonmusk/status/2105357198972874800)
 
 ---
 
