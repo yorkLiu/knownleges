@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2853 条推文
+> 📊 推文存档 - 共 2857 条推文
 
 ---
 
@@ -128,7 +128,65 @@ RT @yunta_tsai: People hate commuting because they sit in traffic and get nothin
 
 Tesla x Grok @bot changes the equation. Arrive hom…
 
-[查看原文](https://x.com/elonmusk/status/2105723908104298535)
+---
+
+## 2026-10-02 03:17:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Watch Falcon 9 launch the Transporter-18 mission to orbit https://t.co/W4VS07HPRZ
+
+[查看原文](https://x.com/elonmusk/status/2105738982768435595)
+
+---
+
+## 2026-10-02 03:18:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aaronburnett: For a given range of expected IRR, SpaceX is without equal in its intangibles as a public investment. 
+
+In many ways, inv…
+
+[查看原文](https://x.com/elonmusk/status/2105739243322527922)
+
+---
+
+## 2026-10-02 03:19:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: Starship aesthetics are unparalleled https://t.co/j9WJYoX6KJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMkGq-tlAcXjkeAfQiewZRDMGXvPIlAAInEWsbrnP5VR3Ytw5m8hkaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMkWq-tlQQ7BQTHhe6txyQB1TTUDdNAAIoEWsbrnP5VcL5gOK5y2kaAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMkmq-tlZBeQ009j8Vc6QHfqZIHSJKAAIpEWsbrnP5VXqMu43Z2naoAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMk2q-tlmYslyvF8IM2SMkScBT_eLvAAIqEWsbrnP5VeoOL3YhD5rNAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105739315854836215)
+
+---
+
+## 2026-10-02 03:19:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceXAI just literally shared its engineering team’s Grok Bots with everyone
+
+And Grok Bots just got much more powerful for b…
+
+[查看原文](https://x.com/elonmusk/status/2105739394602725475)
 
 ---
 
