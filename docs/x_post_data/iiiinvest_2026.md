@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 71 条推文
+> 📊 推文存档 - 共 72 条推文
 
 ---
 
@@ -114,7 +114,23 @@ PCE美光财报后，我的4000万空单计划
 2、美债涨，现在的核心风暴眼，压制美股估值。
 3、石油涨，通胀高，提高加息预期，压制美股。
 
-[查看原文](https://x.com/iiiinvest/status/2105677846928826784)
+---
+
+## 2026-10-01 23:35:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨晚平掉的半导体空单又加回来了，恢复到300万美金！
+
+哎~，知道-做到中间，差的不是一个字，而是一道巨大的甚至无法逾越的鸿沟。
+
+兄弟们，鱼哥这次背上应行囊继续出发了，不是我不等你，是我知道，你尽力了！ https://t.co/ZZkDc76P4j
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMjWq-hBpf8zJHgaEN2XiOocLSqgABFAACohNrG65z8VXdaUsI59zoswEAAwIAA20AAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2105683061577052177)
 
 ---
 

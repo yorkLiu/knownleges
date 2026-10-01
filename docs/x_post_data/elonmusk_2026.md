@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2840 条推文
+> 📊 推文存档 - 共 2842 条推文
 
 ---
 
@@ -317,8 +317,6 @@ RT @SpaceX: The Dragon supporting this mission previously flew Ax-4 to the @Spac
 
 RT @cb_doge: BREAKING: After reports of Delta CEO’s remarks about Elon Musk, United and American Airlines invite customers to switch withou…
 
-[查看原文](https://x.com/elonmusk/status/2105680369022345497)
-
 ---
 
 ## 2026-10-01 23:27:27
@@ -328,10 +326,6 @@ RT @cb_doge: BREAKING: After reports of Delta CEO’s remarks about Elon Musk, U
 **内容**:
 
 Both @United and @AmericanAir have @Starlink! https://t.co/7EfINWq1nU
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMjGq-fMl9zHzKZJGx-7BiHqOo0ZgkAAKYE2sbrnPxVQn_-Uw6gA8VAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105681004371542326)
 
 ---
 
@@ -343,7 +337,31 @@ Both @United and @AmericanAir have @Starlink! https://t.co/7EfINWq1nU
 
 RT @SpaceX: Meet the crew flying on Dragon for @NASA’s Crew-13 mission to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/GeY2n6o…
 
-[查看原文](https://x.com/elonmusk/status/2105681096914710820)
+---
+
+## 2026-10-01 23:58:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @UngaTheGreat: You Were Fooled By COVID For Five Years
+
+ADAM CAROLLA: “I want to tell everyone: you guys got duped by COVID for five yea…
+
+[查看原文](https://x.com/elonmusk/status/2105688841013399865)
+
+---
+
+## 2026-10-01 23:59:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Welcome to orbit!
+
+[查看原文](https://x.com/elonmusk/status/2105688953978298612)
 
 ---
 
