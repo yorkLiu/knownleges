@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2864 条推文
+> 📊 推文存档 - 共 2867 条推文
 
 ---
 
@@ -182,10 +182,6 @@ And Grok Bots just got much more powerful for b…
 
 RT @SpaceX: Falcon 9 lands at LZ-40! https://t.co/BSygjZ47oZ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMlWq-vZwR3Fl7aXjiztxTvamrtOvUAAIzEWsbrnP5VWwo0xmthkQpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105744109898182812)
-
 ---
 
 ## 2026-10-02 03:39:16
@@ -195,8 +191,6 @@ RT @SpaceX: Falcon 9 lands at LZ-40! https://t.co/BSygjZ47oZ
 **内容**:
 
 RT @XBusiness: Advertisers are using (and loving) the new X Ads Manager - no secret why - the results speak for themselves
-
-[查看原文](https://x.com/elonmusk/status/2105744376177766793)
 
 ---
 
@@ -208,10 +202,6 @@ RT @XBusiness: Advertisers are using (and loving) the new X Ads Manager - no sec
 
 RT @SpaceX: Liftoff of Transporter-18! https://t.co/VAEHM1NG9K
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMlGq-vZnqodDMLJz-ZFh25zLcx7QVAAIyEWsbrnP5Va9ozZq_Z_3MAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105744566775422995)
-
 ---
 
 ## 2026-10-02 03:40:09
@@ -221,8 +211,6 @@ RT @SpaceX: Liftoff of Transporter-18! https://t.co/VAEHM1NG9K
 **内容**:
 
 RT @MdeZegher: All-time Supercharger energy delivered: 28.9 TWh
-
-[查看原文](https://x.com/elonmusk/status/2105744599184740464)
 
 ---
 
@@ -234,8 +222,6 @@ RT @MdeZegher: All-time Supercharger energy delivered: 28.9 TWh
 
 RT @elonmusk: @Geiger_Capital Instagram is for girls
 
-[查看原文](https://x.com/elonmusk/status/2105745001598820441)
-
 ---
 
 ## 2026-10-02 03:42:18
@@ -245,8 +231,6 @@ RT @elonmusk: @Geiger_Capital Instagram is for girls
 **内容**:
 
 RT @DavidSHolz: when i was a teen i was a little emo, and i think it was because i felt like i didnt control anything important about my li…
-
-[查看原文](https://x.com/elonmusk/status/2105745140388360543)
 
 ---
 
@@ -258,7 +242,43 @@ RT @DavidSHolz: when i was a teen i was a little emo, and i think it was because
 
 Frontier installing @Starlink in 2027
 
-[查看原文](https://x.com/elonmusk/status/2105751225476276268)
+---
+
+## 2026-10-02 04:08:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The nation owes a debt to @JGebbia and his excellent team. They worked incredibly hard, with no compensation, to make government services work better for all Americans. 
+
+🫡 🇺🇸
+
+[查看原文](https://x.com/elonmusk/status/2105751786925752511)
+
+---
+
+## 2026-10-02 04:09:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is an amazing assistant
+
+[查看原文](https://x.com/elonmusk/status/2105752064747847794)
+
+---
+
+## 2026-10-02 04:24:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Major speed improvements to @Bot
+
+[查看原文](https://x.com/elonmusk/status/2105755817555436014)
 
 ---
 
