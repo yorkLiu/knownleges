@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2857 条推文
+> 📊 推文存档 - 共 2864 条推文
 
 ---
 
@@ -138,8 +138,6 @@ Tesla x Grok @bot changes the equation. Arrive hom…
 
 RT @SpaceX: Watch Falcon 9 launch the Transporter-18 mission to orbit https://t.co/W4VS07HPRZ
 
-[查看原文](https://x.com/elonmusk/status/2105738982768435595)
-
 ---
 
 ## 2026-10-02 03:18:53
@@ -152,8 +150,6 @@ RT @aaronburnett: For a given range of expected IRR, SpaceX is without equal in 
 
 In many ways, inv…
 
-[查看原文](https://x.com/elonmusk/status/2105739243322527922)
-
 ---
 
 ## 2026-10-02 03:19:10
@@ -163,16 +159,6 @@ In many ways, inv…
 **内容**:
 
 RT @ArthurMacwaters: Starship aesthetics are unparalleled https://t.co/j9WJYoX6KJ
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMkGq-tlAcXjkeAfQiewZRDMGXvPIlAAInEWsbrnP5VR3Ytw5m8hkaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMkWq-tlQQ7BQTHhe6txyQB1TTUDdNAAIoEWsbrnP5VcL5gOK5y2kaAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMkmq-tlZBeQ009j8Vc6QHfqZIHSJKAAIpEWsbrnP5VXqMu43Z2naoAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMk2q-tlmYslyvF8IM2SMkScBT_eLvAAIqEWsbrnP5VeoOL3YhD5rNAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105739315854836215)
 
 ---
 
@@ -186,7 +172,93 @@ RT @XFreeze: SpaceXAI just literally shared its engineering team’s Grok Bots w
 
 And Grok Bots just got much more powerful for b…
 
-[查看原文](https://x.com/elonmusk/status/2105739394602725475)
+---
+
+## 2026-10-02 03:38:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Falcon 9 lands at LZ-40! https://t.co/BSygjZ47oZ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMlWq-vZwR3Fl7aXjiztxTvamrtOvUAAIzEWsbrnP5VWwo0xmthkQpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105744109898182812)
+
+---
+
+## 2026-10-02 03:39:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XBusiness: Advertisers are using (and loving) the new X Ads Manager - no secret why - the results speak for themselves
+
+[查看原文](https://x.com/elonmusk/status/2105744376177766793)
+
+---
+
+## 2026-10-02 03:40:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Liftoff of Transporter-18! https://t.co/VAEHM1NG9K
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMlGq-vZnqodDMLJz-ZFh25zLcx7QVAAIyEWsbrnP5Va9ozZq_Z_3MAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105744566775422995)
+
+---
+
+## 2026-10-02 03:40:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MdeZegher: All-time Supercharger energy delivered: 28.9 TWh
+
+[查看原文](https://x.com/elonmusk/status/2105744599184740464)
+
+---
+
+## 2026-10-02 03:41:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Geiger_Capital Instagram is for girls
+
+[查看原文](https://x.com/elonmusk/status/2105745001598820441)
+
+---
+
+## 2026-10-02 03:42:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DavidSHolz: when i was a teen i was a little emo, and i think it was because i felt like i didnt control anything important about my li…
+
+[查看原文](https://x.com/elonmusk/status/2105745140388360543)
+
+---
+
+## 2026-10-02 04:06:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Frontier installing @Starlink in 2027
+
+[查看原文](https://x.com/elonmusk/status/2105751225476276268)
 
 ---
 
