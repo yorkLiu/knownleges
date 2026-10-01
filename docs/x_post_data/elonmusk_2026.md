@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2829 条推文
+> 📊 推文存档 - 共 2834 条推文
 
 ---
 
@@ -199,8 +199,6 @@ RT @VigilantFox: Andrew Ross Sorkin gushes over Trump's new America. gov website
 
 Sorkin is…
 
-[查看原文](https://x.com/elonmusk/status/2105538420504469521)
-
 ---
 
 ## 2026-10-01 14:08:48
@@ -210,8 +208,6 @@ Sorkin is…
 **内容**:
 
 RT @innovationcncl: 🚨🚨🚨 @DavidSacks nails it. We already have laws that apply to super intelligence: laws covering cyberattacks, privacy vi…
-
-[查看原文](https://x.com/elonmusk/status/2105540412391710960)
 
 ---
 
@@ -225,7 +221,69 @@ RT @stevenmarkryan: You Are NOT Ready For These Jaw Dropping Starlink Numbers
 
 Starlink Could Be More Profitable Than NVIDIA, Google, Amazo…
 
-[查看原文](https://x.com/elonmusk/status/2105541602701983870)
+---
+
+## 2026-10-01 14:20:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grokipedia v0.3 just released. 
+
+Join @SpaceXAI if you want to create Encyclopedia Galactica!
+
+[查看原文](https://x.com/elonmusk/status/2105543421712843238)
+
+---
+
+## 2026-10-01 14:20:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benjitaylor: Introducing the newly refreshed Grokipedia. https://t.co/l0IqMax9Wu
+
+[查看原文](https://x.com/elonmusk/status/2105543480663806451)
+
+---
+
+## 2026-10-01 14:21:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Diegopasini: We must expand the scope and scale of consciousness
+
+[查看原文](https://x.com/elonmusk/status/2105543544383660336)
+
+---
+
+## 2026-10-01 14:23:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try the latest Grok @Bot. Many great upgrades!
+
+[查看原文](https://x.com/elonmusk/status/2105543992637100269)
+
+---
+
+## 2026-10-01 14:25:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @herbertong: Data centers on the ground are limited by permits and power.
+
+SpaceX's answer is Starmind, orbital AI data centers with abo…
+
+[查看原文](https://x.com/elonmusk/status/2105544504535396482)
 
 ---
 
