@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2834 条推文
+> 📊 推文存档 - 共 2835 条推文
 
 ---
 
@@ -233,8 +233,6 @@ Grokipedia v0.3 just released.
 
 Join @SpaceXAI if you want to create Encyclopedia Galactica!
 
-[查看原文](https://x.com/elonmusk/status/2105543421712843238)
-
 ---
 
 ## 2026-10-01 14:20:59
@@ -244,8 +242,6 @@ Join @SpaceXAI if you want to create Encyclopedia Galactica!
 **内容**:
 
 RT @benjitaylor: Introducing the newly refreshed Grokipedia. https://t.co/l0IqMax9Wu
-
-[查看原文](https://x.com/elonmusk/status/2105543480663806451)
 
 ---
 
@@ -257,8 +253,6 @@ RT @benjitaylor: Introducing the newly refreshed Grokipedia. https://t.co/l0IqMa
 
 RT @Diegopasini: We must expand the scope and scale of consciousness
 
-[查看原文](https://x.com/elonmusk/status/2105543544383660336)
-
 ---
 
 ## 2026-10-01 14:23:01
@@ -268,8 +262,6 @@ RT @Diegopasini: We must expand the scope and scale of consciousness
 **内容**:
 
 Try the latest Grok @Bot. Many great upgrades!
-
-[查看原文](https://x.com/elonmusk/status/2105543992637100269)
 
 ---
 
@@ -283,7 +275,19 @@ RT @herbertong: Data centers on the ground are limited by permits and power.
 
 SpaceX's answer is Starmind, orbital AI data centers with abo…
 
-[查看原文](https://x.com/elonmusk/status/2105544504535396482)
+---
+
+## 2026-10-01 15:06:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @0xGenAi: WHAT THE F*CK. SpaceXAI is using Grok Bot to build Grok Bot. Its agents design, code, test, and ship the product.
+
+In this 45-…
+
+[查看原文](https://x.com/elonmusk/status/2105555039133561242)
 
 ---
 
