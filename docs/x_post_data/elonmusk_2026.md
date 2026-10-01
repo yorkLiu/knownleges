@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2837 条推文
+> 📊 推文存档 - 共 2840 条推文
 
 ---
 
@@ -297,8 +297,6 @@ In this 45-…
 
 Three Falcons ready to fly simultaneously
 
-[查看原文](https://x.com/elonmusk/status/2105668516259266881)
-
 ---
 
 ## 2026-10-01 22:38:00
@@ -309,11 +307,43 @@ Three Falcons ready to fly simultaneously
 
 RT @SpaceX: The Dragon supporting this mission previously flew Ax-4 to the @Space_Station https://t.co/cDRXV8g2XK
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMimq-dXy3OMiNhXgo65yo7HHrce4EAAKEE2sbrnPxVTRMgOKv3em-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMi2q-dYgL9AsszHky4jieEltm5aKVAAKFE2sbrnPxVZm67wxm4WwGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-01 23:24:56
 
-[查看原文](https://x.com/elonmusk/status/2105668558902755798)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: After reports of Delta CEO’s remarks about Elon Musk, United and American Airlines invite customers to switch withou…
+
+[查看原文](https://x.com/elonmusk/status/2105680369022345497)
+
+---
+
+## 2026-10-01 23:27:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Both @United and @AmericanAir have @Starlink! https://t.co/7EfINWq1nU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMjGq-fMl9zHzKZJGx-7BiHqOo0ZgkAAKYE2sbrnPxVQn_-Uw6gA8VAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105681004371542326)
+
+---
+
+## 2026-10-01 23:27:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Meet the crew flying on Dragon for @NASA’s Crew-13 mission to the @Space_Station → https://t.co/l8scSzMfaO https://t.co/GeY2n6o…
+
+[查看原文](https://x.com/elonmusk/status/2105681096914710820)
 
 ---
 
