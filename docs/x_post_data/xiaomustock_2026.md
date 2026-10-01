@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 401 条推文
+> 📊 推文存档 - 共 402 条推文
 
 ---
 
@@ -19,9 +19,20 @@ tags: ["2026"]
 
 距离1011还有10天 https://t.co/EceRoDYbuw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMhGq9rNFxsnKsMXx9dbO-s7oLLKx8AAJjEWsbMe3wVWwCi-m-4zR6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2105457971518226760)
+## 2026-10-01 09:05:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+拼音都搞不对，我还是建议这个超级智能的缩写别叫SI，改成SB I最好。
+SUPER BIG AI，适合他们。 https://t.co/b9xRmg4SQQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMhWq9tBnrm2Ub4vBpoOHFUAwmmJhQAAJqEWsbMe3wVZMdEr7R8Fc7AQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2105464089053212705)
 
 ---
 

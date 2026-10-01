@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2824 条推文
+> 📊 推文存档 - 共 2825 条推文
 
 ---
 
@@ -167,7 +167,17 @@ RT @bot: Grok Bot is now more powerful for building software.
 
 Bots can hand off coding tasks to Cursor, manage your PRs with GitHub and Or…
 
-[查看原文](https://x.com/elonmusk/status/2105457482424590592)
+---
+
+## 2026-10-01 09:01:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Worth trying
+
+[查看原文](https://x.com/elonmusk/status/2105463042305667103)
 
 ---
 
