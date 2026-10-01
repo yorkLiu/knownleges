@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 66 条推文
+> 📊 推文存档 - 共 67 条推文
 
 ---
 
@@ -54,11 +54,17 @@ PCE美光财报后，我的4000万空单计划
 
 这波做空那些验证了，那些证伪了？ https://t.co/IAwewlsWLS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMhmq9wnV1u943FPOsUXS5EDDZ85jQAAJ3EWsbMe3wVbf6e8kfRU7BAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMh2q9wnjr5aCMGLUkRbRNcUpsCb5pAAJ4EWsbMe3wVaH5eZAHd6QUAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-01 12:12:11
 
-[查看原文](https://x.com/iiiinvest/status/2105478806656229693)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+夜盘，半导体和夜盘挺强的。一般新高会反复下，我等开盘看看。
+
+[查看原文](https://x.com/iiiinvest/status/2105511066742775983)
 
 ---
 
