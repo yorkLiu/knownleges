@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2867 条推文
+> 📊 推文存档 - 共 2870 条推文
 
 ---
 
@@ -254,8 +254,6 @@ The nation owes a debt to @JGebbia and his excellent team. They worked incredibl
 
 🫡 🇺🇸
 
-[查看原文](https://x.com/elonmusk/status/2105751786925752511)
-
 ---
 
 ## 2026-10-02 04:09:49
@@ -265,8 +263,6 @@ The nation owes a debt to @JGebbia and his excellent team. They worked incredibl
 **内容**:
 
 Grok @Bot is an amazing assistant
-
-[查看原文](https://x.com/elonmusk/status/2105752064747847794)
 
 ---
 
@@ -278,7 +274,51 @@ Grok @Bot is an amazing assistant
 
 Major speed improvements to @Bot
 
-[查看原文](https://x.com/elonmusk/status/2105755817555436014)
+---
+
+## 2026-10-02 04:45:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DimaZeniuk: SpaceX 
+
+2006 vs 2026 https://t.co/w8FWkron9P
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMlmq-zDS3z90AATMJT_I8KRzZcoeRLwACNxFrG65z-VU0WJZ32CWZ8AEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMl2q-zDc0j6Tl7uO4JKuRvr7gLzDgAAI4EWsbrnP5VVZPQBk56qgBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105761085127262299)
+
+---
+
+## 2026-10-02 04:45:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @veggie_eric: Proud that https://t.co/YiU2GXS0T1 is powered by Grok.
+
+No more sifting through the maze of government websites to find an…
+
+[查看原文](https://x.com/elonmusk/status/2105761115384721658)
+
+---
+
+## 2026-10-02 04:48:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FlyFrontier: Plot twist: Your next flight might have better Wi-Fi than your home. @Starlink, Wi-Fi coming in 2027.  🛜✈️
+
+https://t.co/t…
+
+[查看原文](https://x.com/elonmusk/status/2105761769730064644)
 
 ---
 
