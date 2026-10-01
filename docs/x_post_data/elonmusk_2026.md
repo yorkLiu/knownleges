@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2852 条推文
+> 📊 推文存档 - 共 2853 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @NASAAdmin: Congratulations @NASA and @SpaceX teams, on another gorgeous launch. Godspeed Crew-13!
 
-[查看原文](https://x.com/elonmusk/status/2105716989456941181)
-
 ---
 
 ## 2026-10-02 01:50:54
@@ -30,8 +28,6 @@ RT @NASAAdmin: Congratulations @NASA and @SpaceX teams, on another gorgeous laun
 **内容**:
 
 RT @AmericanAir: @elonmusk @united @Starlink For anyone suddenly reconsidering their airline loyalty: we can match your status and keep you…
-
-[查看原文](https://x.com/elonmusk/status/2105717102648992219)
 
 ---
 
@@ -46,8 +42,6 @@ Now it's time for you to make a change.
 
 We’ll match your hard…
 
-[查看原文](https://x.com/elonmusk/status/2105717326989406655)
-
 ---
 
 ## 2026-10-02 01:52:39
@@ -60,8 +54,6 @@ RT @SawyerMerritt: Alaska Air Group has announced that is has now installed @Sta
 
 Installations…
 
-[查看原文](https://x.com/elonmusk/status/2105717545831633315)
-
 ---
 
 ## 2026-10-02 01:53:28
@@ -71,8 +63,6 @@ Installations…
 **内容**:
 
 RT @SpaceX: Up next, Falcon 9 will launch 130 payloads to orbit from California aboard the Transporter-18 mission. Liftoff is targeted for…
-
-[查看原文](https://x.com/elonmusk/status/2105717748848595406)
 
 ---
 
@@ -84,8 +74,6 @@ RT @SpaceX: Up next, Falcon 9 will launch 130 payloads to orbit from California 
 
 Each @SpaceX Star Mind super intelligence spacecraft will have over 250kW of solar power, which is about 20% more than the International Space Station
 
-[查看原文](https://x.com/elonmusk/status/2105718806769512812)
-
 ---
 
 ## 2026-10-02 01:58:13
@@ -95,10 +83,6 @@ Each @SpaceX Star Mind super intelligence spacecraft will have over 250kW of sol
 **内容**:
 
 RT @SpaceX: Liftoff of Crew-13! https://t.co/vteT0DXMTh
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMj2q-oKTkzJwrvqkjopYrXzjccMdlAAIjEWsbrnP5VSbKZ_-ry6zSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105718946259238974)
 
 ---
 
@@ -110,8 +94,6 @@ RT @SpaceX: Liftoff of Crew-13! https://t.co/vteT0DXMTh
 
 Try Grok @Bot!
 
-[查看原文](https://x.com/elonmusk/status/2105719249826099666)
-
 ---
 
 ## 2026-10-02 01:59:51
@@ -121,10 +103,6 @@ Try Grok @Bot!
 **内容**:
 
 RT @anabology: It looks so much like a cigarette, I had to make this edit https://t.co/pRliW41ZGk
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMjmq-oKGh6XjiwoQONwlSO69s1pr5AAIiEWsbrnP5VesPjWuU8fiEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105719354671181993)
 
 ---
 
@@ -138,7 +116,19 @@ RT @GavinSBaker: The White House Accord on Super Intelligence will have a positi
 
 Committing to hire third party audito…
 
-[查看原文](https://x.com/elonmusk/status/2105720023436398762)
+---
+
+## 2026-10-02 02:17:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: People hate commuting because they sit in traffic and get nothing done.
+
+Tesla x Grok @bot changes the equation. Arrive hom…
+
+[查看原文](https://x.com/elonmusk/status/2105723908104298535)
 
 ---
 
