@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 485 条推文
+> 📊 推文存档 - 共 486 条推文
+
+---
+
+## 2026-10-02 01:21:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+"Potential FCC rules on optical transceivers more likely to come at 3.2T" - $LITE, $AAOI, $COHR, $SIVE.
+
+Morgan Stanley met with Washington officials:
+
+- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left alone)
+
+- Potential restrictions would
+
+[查看原文](https://x.com/aleabitoreddit/status/2105709782854435274)
 
 ---
 
