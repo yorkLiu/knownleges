@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2835 条推文
+> 📊 推文存档 - 共 2837 条推文
 
 ---
 
@@ -287,7 +287,33 @@ RT @0xGenAi: WHAT THE F*CK. SpaceXAI is using Grok Bot to build Grok Bot. Its ag
 
 In this 45-…
 
-[查看原文](https://x.com/elonmusk/status/2105555039133561242)
+---
+
+## 2026-10-01 22:37:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Three Falcons ready to fly simultaneously
+
+[查看原文](https://x.com/elonmusk/status/2105668516259266881)
+
+---
+
+## 2026-10-01 22:38:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: The Dragon supporting this mission previously flew Ax-4 to the @Space_Station https://t.co/cDRXV8g2XK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMimq-dXy3OMiNhXgo65yo7HHrce4EAAKEE2sbrnPxVTRMgOKv3em-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMi2q-dYgL9AsszHky4jieEltm5aKVAAKFE2sbrnPxVZm67wxm4WwGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105668558902755798)
 
 ---
 
