@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 65 条推文
+> 📊 推文存档 - 共 66 条推文
 
 ---
 
@@ -39,7 +39,26 @@ tags: ["2026"]
 
 昨天的盘面还是挺有意思的，一会复盘下。
 
-[查看原文](https://x.com/iiiinvest/status/2105458679357292794)
+---
+
+## 2026-10-01 10:04:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+PCE美光财报后，我的4000万空单计划
+
+1、受PCE利好，昨晚纳指还是比较强势的，半导体尾盘走强，整体受季末调仓影响，微涨收盘。
+2、美光，我想到了涨也想到了跌，但没想到不涨不跌，说明资金炒作预期不强，我体现了市场参与度。
+
+这波做空那些验证了，那些证伪了？ https://t.co/IAwewlsWLS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMhmq9wnV1u943FPOsUXS5EDDZ85jQAAJ3EWsbMe3wVbf6e8kfRU7BAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMh2q9wnjr5aCMGLUkRbRNcUpsCb5pAAJ4EWsbMe3wVaH5eZAHd6QUAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2105478806656229693)
 
 ---
 
