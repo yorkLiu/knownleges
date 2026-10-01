@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2826 条推文
+> 📊 推文存档 - 共 2829 条推文
 
 ---
 
@@ -187,9 +187,45 @@ Worth trying
 
 RT @SawyerMerritt: No company inspires me more than @SpaceX. https://t.co/WdADn3WAAV
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMiGq99Glvgf3jIOj1e8qphaQObRHWAALsEWsbMe3wVUvx-cTphxV9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2105533964480086036)
+## 2026-10-01 14:00:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @VigilantFox: Andrew Ross Sorkin gushes over Trump's new America. gov website on live TV while Joe Kernen sits there stunned.
+
+Sorkin is…
+
+[查看原文](https://x.com/elonmusk/status/2105538420504469521)
+
+---
+
+## 2026-10-01 14:08:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @innovationcncl: 🚨🚨🚨 @DavidSacks nails it. We already have laws that apply to super intelligence: laws covering cyberattacks, privacy vi…
+
+[查看原文](https://x.com/elonmusk/status/2105540412391710960)
+
+---
+
+## 2026-10-01 14:13:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: You Are NOT Ready For These Jaw Dropping Starlink Numbers
+
+Starlink Could Be More Profitable Than NVIDIA, Google, Amazo…
+
+[查看原文](https://x.com/elonmusk/status/2105541602701983870)
 
 ---
 
