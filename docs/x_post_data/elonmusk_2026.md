@@ -7,7 +7,99 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2887 条推文
+> 📊 推文存档 - 共 2894 条推文
+
+---
+
+## 2026-10-03 02:06:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Great work by the @SpaceX team!
+
+[查看原文](https://x.com/elonmusk/status/2106083414848028834)
+
+---
+
+## 2026-10-03 02:09:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @visegrad24: 93-year-old Marie-Louise was found dead and covered in blood inside her home in Toulouse, France, with a naked 33-year-old…
+
+[查看原文](https://x.com/elonmusk/status/2106084127573483743)
+
+---
+
+## 2026-10-03 02:17:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: SpaceX launched five missions in the last six days.
+
+• Sep 26 — USSF-385, Falcon 9
+• Sep 28 — Starship Flight 14
+• Oct 1 — Cre…
+
+[查看原文](https://x.com/elonmusk/status/2106086087647166910)
+
+---
+
+## 2026-10-03 02:17:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @aaronburnett Correct, roughly 90% of SpaceX’s revenue this year will be commercial. In Q4, our government revenue will be le…
+
+[查看原文](https://x.com/elonmusk/status/2106086238558327217)
+
+---
+
+## 2026-10-03 02:21:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Docking confirmed! https://t.co/Y1xwyaevSL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMqGq_-ZpKHK4HdKyiC2vjuluOylLzAAJfEmsbnpEAAVarWvWCOebeDwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106087265969791392)
+
+---
+
+## 2026-10-03 02:22:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceXAIMemphis: Happy to support – good luck to all of the runners!
+
+[查看原文](https://x.com/elonmusk/status/2106087371985084711)
+
+---
+
+## 2026-10-03 02:22:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MorganLBrennan: Plus re-landing four boosters— and starting the week with Starship’s first orbital flight.
+
+For investors new to the sp…
+
+[查看原文](https://x.com/elonmusk/status/2106087534724005935)
 
 ---
 
