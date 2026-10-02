@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2902 条推文
+> 📊 推文存档 - 共 2903 条推文
 
 ---
 
@@ -139,8 +139,6 @@ thanks to Elon we hav…
 
 Beautiful view of Starlink V3 deployment
 
-[查看原文](https://x.com/elonmusk/status/2106098911840772412)
-
 ---
 
 ## 2026-10-03 03:14:29
@@ -150,8 +148,6 @@ Beautiful view of Starlink V3 deployment
 **内容**:
 
 Actual amount that SpaceX saved taxpayers is even higher now
-
-[查看原文](https://x.com/elonmusk/status/2106100526744240519)
 
 ---
 
@@ -163,8 +159,6 @@ Actual amount that SpaceX saved taxpayers is even higher now
 
 Sci-fi irl
 
-[查看原文](https://x.com/elonmusk/status/2106100988751057316)
-
 ---
 
 ## 2026-10-03 03:17:00
@@ -175,7 +169,19 @@ Sci-fi irl
 
 Travel anywhere with Tesla Superchargers
 
-[查看原文](https://x.com/elonmusk/status/2106101160008720499)
+---
+
+## 2026-10-03 07:06:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @battleangelviv: Not a phone in sight, just people living in the moment https://t.co/A5lMrkrCoB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMrWrAOd7nsnbr_RFGEZLjyKzSOTMVAAKREmsbnpEAAVZtATPN9zvTbAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106158911111999540)
 
 ---
 
