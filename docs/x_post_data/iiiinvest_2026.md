@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 74 条推文
+> 📊 推文存档 - 共 75 条推文
 
 ---
 
@@ -34,9 +34,19 @@ tags: ["2026"]
 币安带单，排名跑到第2名了
 有兄弟问怎么看BTC：其实行情已经表明，现在是震荡。我认为这轮BTC和美元强势有很大关系。怎么应对呢？量化负责短线，主观负责方向，是我认为的最佳策略。未来我有信心做到第1名。 https://t.co/IiSYwAoKgw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMmWq_MQP10Ejiuut80SewlunK7WwvAAIEEmsbrnP5VREx5Tv7ugRDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2105869956412051766)
+## 2026-10-02 19:20:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+浮亏的时候，说啥都没意义。我不愿意说，因为该说的说完了。你也不愿意听，因为没心情。
+
+感受过程吧，一会非农就业数据来了，关于10月加息，我的判断是反复，不可能现在就定价不加息。
+
+[查看原文](https://x.com/iiiinvest/status/2105981172832735601)
 
 ---
 
