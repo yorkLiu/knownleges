@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 404 条推文
+> 📊 推文存档 - 共 405 条推文
 
 ---
 
@@ -20,11 +20,17 @@ tags: ["2026"]
 如果谷歌的算力卫星成功，成本和收益可视化，马斯克的 $SPCX 股价的未来预期就会爆炸。
 这颗算力卫星非常值得关注。 https://t.co/cL7w8OgHTh
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMpmq_lYdLCMfGvWvrarxMTf8cuX1zAAK4EmsbrnP5VfDW0nbcTbyOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMp2q_lYq9B94E59UTGA5rV8horsJlAAK5EmsbrnP5VYUMT6-Gwp8bAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-02 22:01:32
 
-[查看原文](https://x.com/xiaomustock/status/2105981427200499904)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+你这想法就跟火车刚出来跑的比马车还慢，然后说别搞了火车没戏一个道理，技术需要不断迭代。
+
+[查看原文](https://x.com/xiaomustock/status/2106021769006195169)
 
 ---
 
