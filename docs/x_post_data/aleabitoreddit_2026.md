@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 486 条推文
+> 📊 推文存档 - 共 487 条推文
 
 ---
 
@@ -25,7 +25,27 @@ Morgan Stanley met with Washington officials:
 
 - Potential restrictions would
 
-[查看原文](https://x.com/aleabitoreddit/status/2105709782854435274)
+---
+
+## 2026-10-02 16:50:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$LITE CEO: "Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand...
+
+By 70%. Literally 70%. So we can only supply 30%. 
+
+And this has caught us by supply. By 2029-2030, we get to some level of balance."
+
+Source: Global Photonics https://t.co/RoTAwp6Mqu
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMpGq_cfu8BRlWiFaTNnnzkmZDrBO2AAJeEmsbrnP5VUAYQWnqExJqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMpWq_cf4TJWdDiVP5UD8sPMIAAenLwQACXxJrG65z-VVmm2cSuGhXXQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2105943565918703696)
 
 ---
 
