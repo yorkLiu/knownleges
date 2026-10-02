@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2898 条推文
+> 📊 推文存档 - 共 2902 条推文
 
 ---
 
@@ -95,8 +95,6 @@ For investors new to the sp…
 
 This is pretty cool
 
-[查看原文](https://x.com/elonmusk/status/2106097088123834773)
-
 ---
 
 ## 2026-10-03 03:00:58
@@ -106,16 +104,6 @@ This is pretty cool
 **内容**:
 
 RT @SpaceX: Starship's first orbital flight delivered 26 Starlink V3 satellites to space https://t.co/zTcsMqS9lm
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMqWrAAAHnmrruOM6duug_ofXZp3gsEAACYRJrG56RAAFW1bwy-krvahcBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMqmrAAAHq_J50tfSbU4hgExKg3k_yKAACYhJrG56RAAFWpc2ZrJ0kjY8BAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMq2rAAAHt9CiyK-f_c3edj4kR0Dk2rQACYxJrG56RAAFWTMDLfslU_b0BAAMCAAN5AAM9BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMrGrAAAHwWu67-lKknMyDgj7XGGteAANkEmsbnpEAAVYKCa1Ga2y7awEAAwIAA3kAAz0E.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2106097124593348987)
 
 ---
 
@@ -129,8 +117,6 @@ RT @wintonARK: not sure that people really grok the revenue generation potential
 
 on our expectations each…
 
-[查看原文](https://x.com/elonmusk/status/2106097286464098645)
-
 ---
 
 ## 2026-10-03 03:01:59
@@ -143,7 +129,53 @@ RT @IterIntellectus: it’s honestly insane how much of the modern tech tree has
 
 thanks to Elon we hav…
 
-[查看原文](https://x.com/elonmusk/status/2106097381859336397)
+---
+
+## 2026-10-03 03:08:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Beautiful view of Starlink V3 deployment
+
+[查看原文](https://x.com/elonmusk/status/2106098911840772412)
+
+---
+
+## 2026-10-03 03:14:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Actual amount that SpaceX saved taxpayers is even higher now
+
+[查看原文](https://x.com/elonmusk/status/2106100526744240519)
+
+---
+
+## 2026-10-03 03:16:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Sci-fi irl
+
+[查看原文](https://x.com/elonmusk/status/2106100988751057316)
+
+---
+
+## 2026-10-03 03:17:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Travel anywhere with Tesla Superchargers
+
+[查看原文](https://x.com/elonmusk/status/2106101160008720499)
 
 ---
 
