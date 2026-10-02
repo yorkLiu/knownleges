@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 73 条推文
+> 📊 推文存档 - 共 74 条推文
 
 ---
 
@@ -23,7 +23,20 @@ tags: ["2026"]
 
 油定短期，债定长期，到底是嘴硬还是数据硬，市场会走出来的，我站在市场一边！
 
-[查看原文](https://x.com/iiiinvest/status/2105832103879594300)
+---
+
+## 2026-10-02 11:58:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+币安带单，排名跑到第2名了
+有兄弟问怎么看BTC：其实行情已经表明，现在是震荡。我认为这轮BTC和美元强势有很大关系。怎么应对呢？量化负责短线，主观负责方向，是我认为的最佳策略。未来我有信心做到第1名。 https://t.co/IiSYwAoKgw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMmWq_MQP10Ejiuut80SewlunK7WwvAAIEEmsbrnP5VREx5Tv7ugRDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2105869956412051766)
 
 ---
 
