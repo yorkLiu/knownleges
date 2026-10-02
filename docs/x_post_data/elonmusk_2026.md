@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2894 条推文
+> 📊 推文存档 - 共 2898 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 Great work by the @SpaceX team!
 
-[查看原文](https://x.com/elonmusk/status/2106083414848028834)
-
 ---
 
 ## 2026-10-03 02:09:19
@@ -30,8 +28,6 @@ Great work by the @SpaceX team!
 **内容**:
 
 RT @visegrad24: 93-year-old Marie-Louise was found dead and covered in blood inside her home in Toulouse, France, with a naked 33-year-old…
-
-[查看原文](https://x.com/elonmusk/status/2106084127573483743)
 
 ---
 
@@ -47,8 +43,6 @@ RT @cb_doge: SpaceX launched five missions in the last six days.
 • Sep 28 — Starship Flight 14
 • Oct 1 — Cre…
 
-[查看原文](https://x.com/elonmusk/status/2106086087647166910)
-
 ---
 
 ## 2026-10-03 02:17:43
@@ -58,8 +52,6 @@ RT @cb_doge: SpaceX launched five missions in the last six days.
 **内容**:
 
 RT @elonmusk: @aaronburnett Correct, roughly 90% of SpaceX’s revenue this year will be commercial. In Q4, our government revenue will be le…
-
-[查看原文](https://x.com/elonmusk/status/2106086238558327217)
 
 ---
 
@@ -71,10 +63,6 @@ RT @elonmusk: @aaronburnett Correct, roughly 90% of SpaceX’s revenue this year
 
 RT @SpaceX: Docking confirmed! https://t.co/Y1xwyaevSL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMqGq_-ZpKHK4HdKyiC2vjuluOylLzAAJfEmsbnpEAAVarWvWCOebeDwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2106087265969791392)
-
 ---
 
 ## 2026-10-03 02:22:13
@@ -84,8 +72,6 @@ RT @SpaceX: Docking confirmed! https://t.co/Y1xwyaevSL
 **内容**:
 
 RT @SpaceXAIMemphis: Happy to support – good luck to all of the runners!
-
-[查看原文](https://x.com/elonmusk/status/2106087371985084711)
 
 ---
 
@@ -99,7 +85,65 @@ RT @MorganLBrennan: Plus re-landing four boosters— and starting the week with 
 
 For investors new to the sp…
 
-[查看原文](https://x.com/elonmusk/status/2106087534724005935)
+---
+
+## 2026-10-03 03:00:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is pretty cool
+
+[查看原文](https://x.com/elonmusk/status/2106097088123834773)
+
+---
+
+## 2026-10-03 03:00:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Starship's first orbital flight delivered 26 Starlink V3 satellites to space https://t.co/zTcsMqS9lm
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMqWrAAAHnmrruOM6duug_ofXZp3gsEAACYRJrG56RAAFW1bwy-krvahcBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMqmrAAAHq_J50tfSbU4hgExKg3k_yKAACYhJrG56RAAFWpc2ZrJ0kjY8BAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMq2rAAAHt9CiyK-f_c3edj4kR0Dk2rQACYxJrG56RAAFWTMDLfslU_b0BAAMCAAN5AAM9BA.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMrGrAAAHwWu67-lKknMyDgj7XGGteAANkEmsbnpEAAVYKCa1Ga2y7awEAAwIAA3kAAz0E.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106097124593348987)
+
+---
+
+## 2026-10-03 03:01:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wintonARK: not sure that people really grok the revenue generation potential of starship + starlink/starmind
+
+on our expectations each…
+
+[查看原文](https://x.com/elonmusk/status/2106097286464098645)
+
+---
+
+## 2026-10-03 03:01:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @IterIntellectus: it’s honestly insane how much of the modern tech tree has been unlocked because of a single guy
+
+thanks to Elon we hav…
+
+[查看原文](https://x.com/elonmusk/status/2106097381859336397)
 
 ---
 
