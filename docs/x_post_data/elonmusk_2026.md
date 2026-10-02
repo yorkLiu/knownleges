@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2872 条推文
+> 📊 推文存档 - 共 2873 条推文
 
 ---
 
@@ -330,7 +330,28 @@ RT @SpaceX: Watch Dragon and the Crew-13 astronauts dock with the @Space_Station
 
 RT @SpaceX: Up next, Falcon Heavy will launch the NROL-97 mission from Launch Complex 39A in Florida → https://t.co/Lv1aXt1wlY https://t.co…
 
-[查看原文](https://x.com/elonmusk/status/2105807065537298741)
+---
+
+## 2026-10-02 13:16:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jjfactorykat: 4 astronauts 
+130 payloads 
+1 docking 
+1 secret
+4 boosters landed
+Another day at the office ! https://t.co/JfdyiYSr8A
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMmmq_P1pFr2VXuLfaO7pO9Ir5BKc-AAIPEmsbrnP5VRhv4mVsW2B1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMm2q_P110WzfEN8kyw6qknTrON2pvAAIQEmsbrnP5VTNpYEZ-Hvh1AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMnGq_P2EPQqmz_mTLhyr3c4WtUei4AAIREmsbrnP5VWtH8f3JlQjWAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105889700280209613)
 
 ---
 
