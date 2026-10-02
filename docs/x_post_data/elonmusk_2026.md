@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2885 条推文
+> 📊 推文存档 - 共 2887 条推文
 
 ---
 
@@ -465,8 +465,6 @@ TIMESTAMPS
 
 0:00 Crew Dragon ISS Mission…
 
-[查看原文](https://x.com/elonmusk/status/2105940448472866826)
-
 ---
 
 ## 2026-10-02 16:42:41
@@ -477,7 +475,29 @@ TIMESTAMPS
 
 RT @SpaceX: Today’s mission is the @NRO_gov’s first launch aboard the Falcon Heavy rocket. Falcon 9 previously launched 22 missions over ni…
 
-[查看原文](https://x.com/elonmusk/status/2105941530246787259)
+---
+
+## 2026-10-02 23:41:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Congratulations!
+
+[查看原文](https://x.com/elonmusk/status/2106046950584008717)
+
+---
+
+## 2026-10-02 23:44:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NASAAdmin: Incredible Falcon Heavy footage! Congrats @SpaceX and @DeptofWar on a spectacular launch. October 1st was a big day for the…
+
+[查看原文](https://x.com/elonmusk/status/2106047762978722085)
 
 ---
 
