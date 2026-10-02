@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2877 条推文
+> 📊 推文存档 - 共 2878 条推文
 
 ---
 
@@ -355,16 +355,6 @@ Another day at the office ! https://t.co/JfdyiYSr8A
 
 RT @SpaceX: Falcon Heavy launches NROL-97 from pad 39A in Florida https://t.co/LQxZZzTneI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMn2q_XBgpeRCSrxKtzWXQFikHoz7-AAI8EmsbrnP5VTojSsTf8S8WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMoGq_XBl089Tp_wpG4zDIRjrtAAH4KQACPRJrG65z-VXtqNqPlhklAQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMoWq_XBwZes9kkzSO_A-6mWlqh0TlAAI-EmsbrnP5VchvbO9RFSz-AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMomq_XB_PBB9oicDe6R7HpOqtYN0UAAI_EmsbrnP5VXtnHOQkGFOgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105914034612851076)
-
 ---
 
 ## 2026-10-02 15:00:45
@@ -377,8 +367,6 @@ RT @sundarpichai: I remember the first meeting where the team pitched the idea o
 
 Today's succes…
 
-[查看原文](https://x.com/elonmusk/status/2105915874993635804)
-
 ---
 
 ## 2026-10-02 15:04:41
@@ -388,10 +376,6 @@ Today's succes…
 **内容**:
 
 RT @cybertruck: Love a little ambiance https://t.co/ufRI4kNsyh
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMnmq_XBWrpHAzJaTRjyE8SjpkvVilAAI7EmsbrnP5VcUa6R88DjG8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2105916864572608637)
 
 ---
 
@@ -403,9 +387,17 @@ RT @cybertruck: Love a little ambiance https://t.co/ufRI4kNsyh
 
 RT @SpaceX: Side booster separation confirmed https://t.co/0ukHJwZlSB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMnWq_XBJJSOvhcDtJaNR0BqbM5cilAAI6EmsbrnP5VSx8jg00F1rSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2105917070676508761)
+## 2026-10-02 15:53:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Super Intelligence (fka AI) is now acing accounting tests
+
+[查看原文](https://x.com/elonmusk/status/2105929186556998055)
 
 ---
 
