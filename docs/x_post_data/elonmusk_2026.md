@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2878 条推文
+> 📊 推文存档 - 共 2883 条推文
 
 ---
 
@@ -397,7 +397,69 @@ RT @SpaceX: Side booster separation confirmed https://t.co/0ukHJwZlSB
 
 Super Intelligence (fka AI) is now acing accounting tests
 
-[查看原文](https://x.com/elonmusk/status/2105929186556998055)
+---
+
+## 2026-10-02 15:58:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mstockton: For folks not understanding where we are at with AI now - if the task is verifiable, it is now solved by AI.
+
+Yes, earlier d…
+
+[查看原文](https://x.com/elonmusk/status/2105930323913798107)
+
+---
+
+## 2026-10-02 16:18:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Grok Bot can now suggest ways to help without you needing to ask. https://t.co/BpZKEbkF1n
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMo2q_aqwp_43K30PFfLASw6r9zRKLAAJVEmsbrnP5VWd9SPGNpl2nAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2105935528197783658)
+
+---
+
+## 2026-10-02 16:23:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: In the very near future, it will be considered malpractice *not* to put every x-ray, lab report, blood panel, etc into…
+
+[查看原文](https://x.com/elonmusk/status/2105936756885631481)
+
+---
+
+## 2026-10-02 16:25:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AndrewCurran_: I was lucky enough to be in a group chat testing this last month, and it's a lot of fun. Grok can see images in the chat…
+
+[查看原文](https://x.com/elonmusk/status/2105937100805972247)
+
+---
+
+## 2026-10-02 16:25:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Ask @Grok in XChat
+
+[查看原文](https://x.com/elonmusk/status/2105937204044615707)
 
 ---
 
