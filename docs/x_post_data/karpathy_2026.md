@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @karpathy
 
-> 📊 推文存档 - 共 43 条推文
+> 📊 推文存档 - 共 44 条推文
+
+---
+
+## 2026-10-02 08:37:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:
+
+Writing. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for https://t.co/uMFWTcBCsl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMmGq-_mFAz0VA6kMbshR_zckNM0z4AAKyEWsbrnP5VWmlAhrbAAEqUAEAAwIAA3kAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/karpathy/status/2105819303471976479)
 
 ---
 
