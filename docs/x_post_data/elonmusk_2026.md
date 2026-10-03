@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2906 条推文
+> 📊 推文存档 - 共 2907 条推文
 
 ---
 
@@ -211,7 +211,23 @@ Robotaxi operating hours moved from 10pm to 11pm.
 
 The main thing we’re trying to solve is making sure that we don’t run over pets when they’re hard to see at night. Literally trying to avoid grey kittens on grey tarmac in the dark.
 
-[查看原文](https://x.com/elonmusk/status/2106239692866019479)
+---
+
+## 2026-10-03 13:44:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Q3 2026  
+
+Production: 464,391
+Deliveries: 486,532
+Energy storage deployments: 13.7 GWh
+
+Our Q3 Company Update will be streamed…
+
+[查看原文](https://x.com/elonmusk/status/2106259023117050123)
 
 ---
 
