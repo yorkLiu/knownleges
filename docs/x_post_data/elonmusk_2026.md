@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2905 条推文
+> 📊 推文存档 - 共 2906 条推文
 
 ---
 
@@ -189,8 +189,6 @@ RT @battleangelviv: Not a phone in sight, just people living in the moment https
 
 RT @TurkeyBeaver: @SpaceX is the greatest team on Earth
 
-[查看原文](https://x.com/elonmusk/status/2106163339617550418)
-
 ---
 
 ## 2026-10-03 07:24:13
@@ -201,7 +199,19 @@ RT @TurkeyBeaver: @SpaceX is the greatest team on Earth
 
 RT @SpaceX: Teams complete three Falcon launches, four first stage landings at four landing zones in Florida and California, and docking Dr…
 
-[查看原文](https://x.com/elonmusk/status/2106163371930427777)
+---
+
+## 2026-10-03 12:27:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Robotaxi operating hours moved from 10pm to 11pm. 
+
+The main thing we’re trying to solve is making sure that we don’t run over pets when they’re hard to see at night. Literally trying to avoid grey kittens on grey tarmac in the dark.
+
+[查看原文](https://x.com/elonmusk/status/2106239692866019479)
 
 ---
 
