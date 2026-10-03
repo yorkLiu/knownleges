@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2922 条推文
+> 📊 推文存档 - 共 2923 条推文
 
 ---
 
@@ -58,8 +58,6 @@ RT @Jason: First @united flight with @Starlink today (ATX to LAX)
 
 Such a game changer… can't wait for it to show up on the Japan and MENA…
 
-[查看原文](https://x.com/elonmusk/status/2106486495657803946)
-
 ---
 
 ## 2026-10-04 04:48:31
@@ -72,8 +70,6 @@ RT @shaunmmaguire: What happened at Cornell is disgusting
 
 But if you think it’s bad, go look into what the migrant rape gangs in Europe ha…
 
-[查看原文](https://x.com/elonmusk/status/2106486577728041083)
-
 ---
 
 ## 2026-10-04 04:48:43
@@ -84,8 +80,6 @@ But if you think it’s bad, go look into what the migrant rape gangs in Europe 
 
 RT @realDonaldTrump: Republicans must WIN the 2026 Midterm Elections, and we must use every appropriate tool – whether you vote early, abse…
 
-[查看原文](https://x.com/elonmusk/status/2106486626860044532)
-
 ---
 
 ## 2026-10-04 04:59:54
@@ -95,8 +89,6 @@ RT @realDonaldTrump: Republicans must WIN the 2026 Midterm Elections, and we mus
 **内容**:
 
 RT @elonmusk: @SawyerMerritt We are being extremely careful with autonomous safety, just as we are with making Teslas the safest cars in th…
-
-[查看原文](https://x.com/elonmusk/status/2106489444802982297)
 
 ---
 
@@ -110,7 +102,17 @@ RT @TeslaBoomerMama: Grok is making the impossible possible.
 
 Have always been a work horse, yet never capable of multi-tasking. So I worke…
 
-[查看原文](https://x.com/elonmusk/status/2106490886502969680)
+---
+
+## 2026-10-04 06:36:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starbase is inspiring
+
+[查看原文](https://x.com/elonmusk/status/2106513648294269390)
 
 ---
 
