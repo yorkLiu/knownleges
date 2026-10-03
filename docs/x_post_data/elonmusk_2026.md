@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2907 条推文
+> 📊 推文存档 - 共 2910 条推文
 
 ---
 
@@ -227,7 +227,44 @@ Energy storage deployments: 13.7 GWh
 
 Our Q3 Company Update will be streamed…
 
-[查看原文](https://x.com/elonmusk/status/2106259023117050123)
+---
+
+## 2026-10-03 15:32:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+How would you like your FSD?
+
+[查看原文](https://x.com/elonmusk/status/2106286369018716581)
+
+---
+
+## 2026-10-03 15:48:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX launched three missions in less than 13 hours.
+
+• Crew-13: 4 astronauts to the ISS
+• Transporter-18: payloads…
+
+[查看原文](https://x.com/elonmusk/status/2106290216172666944)
+
+---
+
+## 2026-10-03 15:49:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @laralogan: This is uncomfortable viewing for me. Takes me back to when I was attacked by a mob of some 200 men in Tahrir Square in Cair…
+
+[查看原文](https://x.com/elonmusk/status/2106290647892435201)
 
 ---
 
