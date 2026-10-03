@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2915 条推文
+> 📊 推文存档 - 共 2917 条推文
 
 ---
 
@@ -23,7 +23,34 @@ RT @XFreeze: Treasury Secretary Scott Bessent just made his support for Elon Mus
 
 He compared their re…
 
-[查看原文](https://x.com/elonmusk/status/2106449964163616928)
+---
+
+## 2026-10-04 02:39:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Falcon 9 flew more missions in ONE YEAR than the entire Space Shuttle program flew in 30 years
+
+• The entire Shuttle fleet:
+13…
+
+[查看原文](https://x.com/elonmusk/status/2106454043895964113)
+
+---
+
+## 2026-10-04 02:42:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship deploying Starlink V3 satellites https://t.co/TG7b8iHYkY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMr2rBUhtdjEZToUIBhOvay8Ay92uvAAIKGmsbnpEIVrbOFDPqkOn9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106454808676716916)
 
 ---
 
