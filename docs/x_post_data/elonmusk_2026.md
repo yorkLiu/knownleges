@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2910 条推文
+> 📊 推文存档 - 共 2912 条推文
 
 ---
 
@@ -237,8 +237,6 @@ Our Q3 Company Update will be streamed…
 
 How would you like your FSD?
 
-[查看原文](https://x.com/elonmusk/status/2106286369018716581)
-
 ---
 
 ## 2026-10-03 15:48:15
@@ -252,8 +250,6 @@ RT @cb_doge: BREAKING: SpaceX launched three missions in less than 13 hours.
 • Crew-13: 4 astronauts to the ISS
 • Transporter-18: payloads…
 
-[查看原文](https://x.com/elonmusk/status/2106290216172666944)
-
 ---
 
 ## 2026-10-03 15:49:58
@@ -264,7 +260,33 @@ RT @cb_doge: BREAKING: SpaceX launched three missions in less than 13 hours.
 
 RT @laralogan: This is uncomfortable viewing for me. Takes me back to when I was attacked by a mob of some 200 men in Tahrir Square in Cair…
 
-[查看原文](https://x.com/elonmusk/status/2106290647892435201)
+---
+
+## 2026-10-03 16:00:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A sufficiently large quantity is a quality all its own. 
+
+Big difference between bacteria with one cell and a human with 35 trillion cells, even though both are made of cells.
+
+[查看原文](https://x.com/elonmusk/status/2106293251233738928)
+
+---
+
+## 2026-10-03 16:12:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @lingxi: how can we make @bot better for you in next two weeks?
+
+any confusion, frustration, criticism, wishes. just dump them to me plz…
+
+[查看原文](https://x.com/elonmusk/status/2106296408261415150)
 
 ---
 
