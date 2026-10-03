@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2914 条推文
+> 📊 推文存档 - 共 2915 条推文
+
+---
+
+## 2026-10-04 02:23:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Treasury Secretary Scott Bessent just made his support for Elon Musk very clear:
+
+“I am a huge Elon fan”
+
+He compared their re…
+
+[查看原文](https://x.com/elonmusk/status/2106449964163616928)
 
 ---
 
