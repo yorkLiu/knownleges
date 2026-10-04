@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2924 条推文
+> 📊 推文存档 - 共 2930 条推文
 
 ---
 
@@ -122,9 +122,85 @@ Starbase is inspiring
 
 RT @Grokipedia: Grokipedia v0.3 https://t.co/QkJwaQz3pk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMsGrBi4ooO5QwdiGQJe4_HAZ1eg8aAAJZGmsbnpEIVqr0N9FtAhHHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2106517973557219729)
+## 2026-10-04 09:21:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NASAAdmin: Congratulations to the @NASA workforce and our partner @SpaceX on another successful crewed launch to the International Spac…
+
+[查看原文](https://x.com/elonmusk/status/2106555172684239266)
+
+---
+
+## 2026-10-04 09:27:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla FSD feels like magic
+
+[查看原文](https://x.com/elonmusk/status/2106556694683677059)
+
+---
+
+## 2026-10-04 09:30:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: Grok Bot is the superior product. 
+
+Last month, I set @bot up to pay recurring monthly bills. This morning without prompti…
+
+[查看原文](https://x.com/elonmusk/status/2106557642915377519)
+
+---
+
+## 2026-10-04 09:35:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EndWokeness: 91% of black female homicides in the US are committed by black men
+
+8% are committed by black women
+
+1% from all other cat…
+
+[查看原文](https://x.com/elonmusk/status/2106558823297380459)
+
+---
+
+## 2026-10-04 09:36:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk explains why Tesla is being extremely careful while scaling Robotaxi
+
+The ambition is massive...but Elon’s priority…
+
+[查看原文](https://x.com/elonmusk/status/2106558982403833939)
+
+---
+
+## 2026-10-04 09:42:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://x.com/elonmusk/status/2106560585358082229)
 
 ---
 
