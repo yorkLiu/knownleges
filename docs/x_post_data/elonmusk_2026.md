@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2958 条推文
+> 📊 推文存档 - 共 2963 条推文
 
 ---
 
@@ -31,7 +31,71 @@ Helpful guide to hiring your first @Grok @Bot employee.
 
 It really is like hiring an amazing helper that learns your needs and gets smarter almost every day!
 
-[查看原文](https://x.com/elonmusk/status/2106787765622800496)
+---
+
+## 2026-10-05 03:20:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Again, Elon was already thinking seriously about Super Intelligence more than a decade before today’s SI boom
+
+Nick Bostrom’s…
+
+[查看原文](https://x.com/elonmusk/status/2106826794183925830)
+
+---
+
+## 2026-10-05 03:22:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+5 live football games streamed simultaneously on a commercial flight with @Starlink
+
+[查看原文](https://x.com/elonmusk/status/2106827233650147822)
+
+---
+
+## 2026-10-05 03:22:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2106827340084887945)
+
+---
+
+## 2026-10-05 03:23:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: June 2025: https://t.co/WNeKtm2NgB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMuGrCrQdsWin2fC8hUcnLmIIOJYcTAALjEWsbS3EZVhrTMjABudNVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106827518900625719)
+
+---
+
+## 2026-10-05 03:23:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Bot passed Google’s “I’m not a robot” test when it launched 😂
+
+The other agents… wherever the hell they are, I still have…
+
+[查看原文](https://x.com/elonmusk/status/2106827614493327606)
 
 ---
 
