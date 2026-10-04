@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 469 条推文
+> 📊 推文存档 - 共 470 条推文
 
 ---
 
@@ -29,7 +29,19 @@ tags: ["2026"]
 
 習的長生位都要被穿了，鷄飛狗跳不簡單！ https://t.co/415TwqvuFt 來自 @YouTube
 
-[查看原文](https://x.com/dianzhuXS/status/2106615642304676341)
+---
+
+## 2026-10-04 19:54:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+韓國提議重新學習漢字這事，簡中圈請別給自己加戲，人家想恢復的是正體字，跟毛賊東1956年開始推行的『漢字簡化』無關！ https://t.co/NWOV3J7Yni
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMtmrCQkc30W3sFRqhYoy3oVYR-70nAAKxEmsbS3ERVr-SXUYOh5DhAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2106714542395027630)
 
 ---
 
