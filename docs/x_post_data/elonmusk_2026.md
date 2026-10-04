@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2942 条推文
+> 📊 推文存档 - 共 2943 条推文
 
 ---
 
@@ -314,8 +314,6 @@ SpaceX is a super intelligence company
 
 I love SI slopcore
 
-[查看原文](https://x.com/elonmusk/status/2106685209085202535)
-
 ---
 
 ## 2026-10-04 18:03:38
@@ -328,9 +326,19 @@ RT @elsleightholm: No, AI didn’t just solve the Navier-Stokes equations.
 
 So what did it do? https://t.co/BJZqofVqlQ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMtWrCJcY1JdHprxUvf6GARW7pRWw5AAKGEmsbS3ERVlYcDxPpq5j2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2106686677712343113)
+## 2026-10-04 18:10:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: The next generation Starlink V5 has a smaller form factor and lightweight design with greater power efficiency.
+
+With speeds…
+
+[查看原文](https://x.com/elonmusk/status/2106688464444141619)
 
 ---
 
