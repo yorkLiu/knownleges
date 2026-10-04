@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2951 条推文
+> 📊 推文存档 - 共 2956 条推文
 
 ---
 
@@ -358,8 +358,6 @@ RT @XFreeze: Elon was thinking about superintelligence long before anyone in the
 
 The upside of extremism
 
-[查看原文](https://x.com/elonmusk/status/2106757368419958954)
-
 ---
 
 ## 2026-10-04 22:45:45
@@ -369,8 +367,6 @@ The upside of extremism
 **内容**:
 
 RT @markfinkelstein: "Just because Ken Paxton made some bad personal decisions doesn't mean I have to put my face in a wood chipper and vot…
-
-[查看原文](https://x.com/elonmusk/status/2106757672209170437)
 
 ---
 
@@ -382,8 +378,6 @@ RT @markfinkelstein: "Just because Ken Paxton made some bad personal decisions d
 
 Always has been
 
-[查看原文](https://x.com/elonmusk/status/2106758102674534734)
-
 ---
 
 ## 2026-10-04 23:01:38
@@ -394,8 +388,6 @@ Always has been
 
 Grok
 
-[查看原文](https://x.com/elonmusk/status/2106761668256759878)
-
 ---
 
 ## 2026-10-04 23:05:17
@@ -405,8 +397,6 @@ Grok
 **内容**:
 
 RT @ray4tesla: Thomas, a longtime Porsche enthusiast, never imagined—“not in a million years,” as he puts it—that he would go from being a…
-
-[查看原文](https://x.com/elonmusk/status/2106762590382948631)
 
 ---
 
@@ -420,8 +410,6 @@ RT @morganlinton: It looks like I might have underestimated Grok 4.7, this is a 
 
 It just scored the highest on Frontier v4…
 
-[查看原文](https://x.com/elonmusk/status/2106764384924024964)
-
 ---
 
 ## 2026-10-04 23:12:49
@@ -434,7 +422,79 @@ RT @mark_k: MAJOR update for Grok Imagine by @SpaceXAI 🔥
 
 Grok Imagine now supports keyframes for video generation! You can choose images f…
 
-[查看原文](https://x.com/elonmusk/status/2106764483762717173)
+---
+
+## 2026-10-04 23:31:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2106769237435982129)
+
+---
+
+## 2026-10-04 23:34:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2106769853575000431)
+
+---
+
+## 2026-10-04 23:34:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @spectnfa: SpaceXAI just released a free 53-minute Grok Bot workshop
+
+their GTM team shows exactly how they run a team of bots:
+
+01:11 -…
+
+[查看原文](https://x.com/elonmusk/status/2106769935615897708)
+
+---
+
+## 2026-10-04 23:36:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Grok is now making all boring stuff for me.
+
+For Argil.
+
+For personal stuff.
+
+It’s like having a 10-person S-tier team working…
+
+[查看原文](https://x.com/elonmusk/status/2106770444468797749)
+
+---
+
+## 2026-10-04 23:37:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @distortgeekin: SpaceXAI engineer, Lauren Tan:
+
+"I was a meat proxy between my agent and my browser. So I fired myself
+
+Now 10+ Chiefs o…
+
+[查看原文](https://x.com/elonmusk/status/2106770571920871655)
 
 ---
 
