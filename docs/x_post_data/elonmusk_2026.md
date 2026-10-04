@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2932 条推文
+> 📊 推文存档 - 共 2934 条推文
 
 ---
 
@@ -214,9 +214,35 @@ In 2025,…
 
 RT @OppenheimJason: A public service announcement. https://t.co/NYa1IpKwBX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMsmrBwIXxXJpwDlLaaVt-mJgG08rSAAJkEWsbnpEQVl24JHWYcH8DAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2106575798576845260)
+## 2026-10-04 16:28:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s so OVER … 
+
+We’re so BACK!!
+
+[查看原文](https://x.com/elonmusk/status/2106662762894307405)
+
+---
+
+## 2026-10-04 16:29:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk giving a tour of Dragon V2 in 2014
+
+Back then it was a vision for returning human spaceflight from American soil
+
+To…
+
+[查看原文](https://x.com/elonmusk/status/2106662936341028970)
 
 ---
 
