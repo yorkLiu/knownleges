@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2944 条推文
+> 📊 推文存档 - 共 2951 条推文
 
 ---
 
@@ -348,7 +348,93 @@ With speeds…
 
 RT @XFreeze: Elon was thinking about superintelligence long before anyone in the mainstream even understood where superintelligence was hea…
 
-[查看原文](https://x.com/elonmusk/status/2106700322521665920)
+---
+
+## 2026-10-04 22:44:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The upside of extremism
+
+[查看原文](https://x.com/elonmusk/status/2106757368419958954)
+
+---
+
+## 2026-10-04 22:45:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @markfinkelstein: "Just because Ken Paxton made some bad personal decisions doesn't mean I have to put my face in a wood chipper and vot…
+
+[查看原文](https://x.com/elonmusk/status/2106757672209170437)
+
+---
+
+## 2026-10-04 22:47:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Always has been
+
+[查看原文](https://x.com/elonmusk/status/2106758102674534734)
+
+---
+
+## 2026-10-04 23:01:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok
+
+[查看原文](https://x.com/elonmusk/status/2106761668256759878)
+
+---
+
+## 2026-10-04 23:05:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ray4tesla: Thomas, a longtime Porsche enthusiast, never imagined—“not in a million years,” as he puts it—that he would go from being a…
+
+[查看原文](https://x.com/elonmusk/status/2106762590382948631)
+
+---
+
+## 2026-10-04 23:12:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @morganlinton: It looks like I might have underestimated Grok 4.7, this is a very good model.
+
+It just scored the highest on Frontier v4…
+
+[查看原文](https://x.com/elonmusk/status/2106764384924024964)
+
+---
+
+## 2026-10-04 23:12:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mark_k: MAJOR update for Grok Imagine by @SpaceXAI 🔥
+
+Grok Imagine now supports keyframes for video generation! You can choose images f…
+
+[查看原文](https://x.com/elonmusk/status/2106764483762717173)
 
 ---
 
