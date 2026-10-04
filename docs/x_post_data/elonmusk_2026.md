@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2930 条推文
+> 📊 推文存档 - 共 2931 条推文
 
 ---
 
@@ -132,8 +132,6 @@ RT @Grokipedia: Grokipedia v0.3 https://t.co/QkJwaQz3pk
 
 RT @NASAAdmin: Congratulations to the @NASA workforce and our partner @SpaceX on another successful crewed launch to the International Spac…
 
-[查看原文](https://x.com/elonmusk/status/2106555172684239266)
-
 ---
 
 ## 2026-10-04 09:27:08
@@ -143,8 +141,6 @@ RT @NASAAdmin: Congratulations to the @NASA workforce and our partner @SpaceX on
 **内容**:
 
 Tesla FSD feels like magic
-
-[查看原文](https://x.com/elonmusk/status/2106556694683677059)
 
 ---
 
@@ -157,8 +153,6 @@ Tesla FSD feels like magic
 RT @KatieMiller: Grok Bot is the superior product. 
 
 Last month, I set @bot up to pay recurring monthly bills. This morning without prompti…
-
-[查看原文](https://x.com/elonmusk/status/2106557642915377519)
 
 ---
 
@@ -174,8 +168,6 @@ RT @EndWokeness: 91% of black female homicides in the US are committed by black 
 
 1% from all other cat…
 
-[查看原文](https://x.com/elonmusk/status/2106558823297380459)
-
 ---
 
 ## 2026-10-04 09:36:14
@@ -188,8 +180,6 @@ RT @XFreeze: Elon Musk explains why Tesla is being extremely careful while scali
 
 The ambition is massive...but Elon’s priority…
 
-[查看原文](https://x.com/elonmusk/status/2106558982403833939)
-
 ---
 
 ## 2026-10-04 09:42:36
@@ -200,7 +190,21 @@ The ambition is massive...but Elon’s priority…
 
 Exactly
 
-[查看原文](https://x.com/elonmusk/status/2106560585358082229)
+---
+
+## 2026-10-04 09:46:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: In 2024, Canada euthanized 16,499 non-criminals. 
+
+In 2024, the United States executed 25 convinced criminals. 
+
+In 2025,…
+
+[查看原文](https://x.com/elonmusk/status/2106561605156864062)
 
 ---
 
