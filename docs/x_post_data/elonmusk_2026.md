@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2934 条推文
+> 📊 推文存档 - 共 2939 条推文
 
 ---
 
@@ -226,8 +226,6 @@ It’s so OVER …
 
 We’re so BACK!!
 
-[查看原文](https://x.com/elonmusk/status/2106662762894307405)
-
 ---
 
 ## 2026-10-04 16:29:18
@@ -242,7 +240,73 @@ Back then it was a vision for returning human spaceflight from American soil
 
 To…
 
-[查看原文](https://x.com/elonmusk/status/2106662936341028970)
+---
+
+## 2026-10-04 16:37:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AlyssaSolen: Stop the Model. Humanity is Losing Control. 
+
+😛😏 You can't say I didn't warn you. https://t.co/6rBldCfcFx
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMtGrCF3b2N_8uPuH0nS2cZekFW4PBAAJpEmsbS3ERVi8a5VYAART8OwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106664943672349022)
+
+---
+
+## 2026-10-04 16:38:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/1iJ6XnWSUo
+
+[查看原文](https://x.com/elonmusk/status/2106665276758491194)
+
+---
+
+## 2026-10-04 16:40:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+No more AI
+SI
+It’s better
+
+[查看原文](https://x.com/elonmusk/status/2106665679361618173)
+
+---
+
+## 2026-10-04 17:06:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The most important people on Earth are on 𝕏
+
+[查看原文](https://x.com/elonmusk/status/2106672211797168438)
+
+---
+
+## 2026-10-04 17:07:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It always was https://t.co/KjNhju2nbA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMs2rCF252gQJZuL1vcxTwVg5ca2KOAAJoEmsbS3ERVt0lCUo5Sza8AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106672522771272121)
 
 ---
 
