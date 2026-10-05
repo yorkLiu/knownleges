@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2982 条推文
+> 📊 推文存档 - 共 2983 条推文
 
 ---
 
@@ -291,7 +291,21 @@ RT @cb_doge: Elon Musk 8 years ago:
 
 “Nothing will affect the future of humanity more than digital super-intelligence.” https://t.co/6B1gnX…
 
-[查看原文](https://x.com/elonmusk/status/2107064467473199222)
+---
+
+## 2026-10-05 19:56:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Tesla just took the top two spots in the entire Netherlands new-car market 🇳🇱
+
+Not just EVs...every car
+
+September registratio…
+
+[查看原文](https://x.com/elonmusk/status/2107077372637749687)
 
 ---
 
