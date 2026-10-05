@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2963 条推文
+> 📊 推文存档 - 共 2967 条推文
 
 ---
 
@@ -43,8 +43,6 @@ RT @XFreeze: Again, Elon was already thinking seriously about Super Intelligence
 
 Nick Bostrom’s…
 
-[查看原文](https://x.com/elonmusk/status/2106826794183925830)
-
 ---
 
 ## 2026-10-05 03:22:10
@@ -54,8 +52,6 @@ Nick Bostrom’s…
 **内容**:
 
 5 live football games streamed simultaneously on a commercial flight with @Starlink
-
-[查看原文](https://x.com/elonmusk/status/2106827233650147822)
 
 ---
 
@@ -67,8 +63,6 @@ Nick Bostrom’s…
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2106827340084887945)
-
 ---
 
 ## 2026-10-05 03:23:18
@@ -78,10 +72,6 @@ True
 **内容**:
 
 RT @KatieMiller: June 2025: https://t.co/WNeKtm2NgB
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMuGrCrQdsWin2fC8hUcnLmIIOJYcTAALjEWsbS3EZVhrTMjABudNVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2106827518900625719)
 
 ---
 
@@ -95,7 +85,55 @@ RT @XFreeze: Grok Bot passed Google’s “I’m not a robot” test when it lau
 
 The other agents… wherever the hell they are, I still have…
 
-[查看原文](https://x.com/elonmusk/status/2106827614493327606)
+---
+
+## 2026-10-05 08:31:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2106905035065991214)
+
+---
+
+## 2026-10-05 08:37:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Propagating super intelligence to the stars is a great success condition for a biological bootloader
+
+[查看原文](https://x.com/elonmusk/status/2106906678293606496)
+
+---
+
+## 2026-10-05 08:40:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EndWokeness: Before vs after college (these are real) https://t.co/1tiC8ZJD6t
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMuWrC9B1DSOxDWtvqlXdcuIkKUKLfAAIREmsbS3EZVo-VbS1whHrCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2106907297624821870)
+
+---
+
+## 2026-10-05 08:41:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: United Airlines just announced that 880+ aircraft will have @Starlink by the end of 2026, with its entire fleet expe…
+
+[查看原文](https://x.com/elonmusk/status/2106907525136466346)
 
 ---
 
