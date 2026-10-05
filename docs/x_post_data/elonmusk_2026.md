@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2967 条推文
+> 📊 推文存档 - 共 2968 条推文
 
 ---
 
@@ -95,8 +95,6 @@ The other agents… wherever the hell they are, I still have…
 
 Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2106905035065991214)
-
 ---
 
 ## 2026-10-05 08:37:51
@@ -106,8 +104,6 @@ Grok @Bot
 **内容**:
 
 Propagating super intelligence to the stars is a great success condition for a biological bootloader
-
-[查看原文](https://x.com/elonmusk/status/2106906678293606496)
 
 ---
 
@@ -119,10 +115,6 @@ Propagating super intelligence to the stars is a great success condition for a b
 
 RT @EndWokeness: Before vs after college (these are real) https://t.co/1tiC8ZJD6t
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMuWrC9B1DSOxDWtvqlXdcuIkKUKLfAAIREmsbS3EZVo-VbS1whHrCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2106907297624821870)
-
 ---
 
 ## 2026-10-05 08:41:13
@@ -133,7 +125,17 @@ RT @EndWokeness: Before vs after college (these are real) https://t.co/1tiC8ZJD6
 
 RT @cb_doge: BREAKING: United Airlines just announced that 880+ aircraft will have @Starlink by the end of 2026, with its entire fleet expe…
 
-[查看原文](https://x.com/elonmusk/status/2106907525136466346)
+---
+
+## 2026-10-05 10:10:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: Before the superintelligence era, Tesla’s iterating and scaling of its own inference computers for each car sold was, in re…
+
+[查看原文](https://x.com/elonmusk/status/2106929961185812903)
 
 ---
 
