@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2980 条推文
+> 📊 推文存档 - 共 2981 条推文
 
 ---
 
@@ -257,10 +257,6 @@ RT @Bqlsj2023: 英伟达上周又历史新高了
 
 RT @BasicLogicIQ: Why Are Judges Releasing Violent Criminals?  https://t.co/emGwULq59F https://t.co/m8a3XxdUK0
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMvWrDfHWNlJzIJ6ly3s5rsAjKey4QAAIPE2sbS3EhVpph5vc42QEEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2107054599085654295)
-
 ---
 
 ## 2026-10-05 18:29:31
@@ -271,7 +267,19 @@ RT @BasicLogicIQ: Why Are Judges Releasing Violent Criminals?  https://t.co/emGw
 
 RT @XBusiness: Launch ads in minutes. Find customers for a lifetime.
 
-[查看原文](https://x.com/elonmusk/status/2107055578577285414)
+---
+
+## 2026-10-05 18:54:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX now holds all 5 fastest U.S. launch-to-docking times at the International Space Station. 🇺🇸
+
+• Crew-13: 7h 55…
+
+[查看原文](https://x.com/elonmusk/status/2107061909904035998)
 
 ---
 
