@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2981 条推文
+> 📊 推文存档 - 共 2982 条推文
 
 ---
 
@@ -279,7 +279,19 @@ RT @cb_doge: BREAKING: SpaceX now holds all 5 fastest U.S. launch-to-docking tim
 
 • Crew-13: 7h 55…
 
-[查看原文](https://x.com/elonmusk/status/2107061909904035998)
+---
+
+## 2026-10-05 19:04:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk 8 years ago:
+
+“Nothing will affect the future of humanity more than digital super-intelligence.” https://t.co/6B1gnX…
+
+[查看原文](https://x.com/elonmusk/status/2107064467473199222)
 
 ---
 
