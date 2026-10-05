@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2971 条推文
+> 📊 推文存档 - 共 2974 条推文
 
 ---
 
@@ -145,8 +145,6 @@ RT @yunta_tsai: Before the superintelligence era, Tesla’s iterating and scalin
 
 💯😂
 
-[查看原文](https://x.com/elonmusk/status/2106977888008642611)
-
 ---
 
 ## 2026-10-05 13:22:44
@@ -156,8 +154,6 @@ RT @yunta_tsai: Before the superintelligence era, Tesla’s iterating and scalin
 **内容**:
 
 Grok
-
-[查看原文](https://x.com/elonmusk/status/2106978370999537965)
 
 ---
 
@@ -169,9 +165,41 @@ Grok
 
 RT @stevenmarkryan: Watch This Stunning Tesla Awakening https://t.co/y0XykoqndI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMumrDNPULEYrou06VdVlFiSmOMXAEAAI9FGsbS3EZVltXwLoRZUBtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2106978849582137595)
+## 2026-10-05 13:40:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+[查看原文](https://x.com/elonmusk/status/2106982949832774039)
+
+---
+
+## 2026-10-05 13:51:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: Do the math. https://t.co/4HGjePp1PV
+
+[查看原文](https://x.com/elonmusk/status/2106985530520949053)
+
+---
+
+## 2026-10-05 13:54:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @beffjezos: We have a duty to expand the scope and scale of civilization in order to preserve the state of matter that is intelligence i…
+
+[查看原文](https://x.com/elonmusk/status/2106986386997891567)
 
 ---
 

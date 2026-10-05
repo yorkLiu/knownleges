@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 472 条推文
+> 📊 推文存档 - 共 473 条推文
 
 ---
 
@@ -54,7 +54,19 @@ tags: ["2026"]
 
 支持川普，支持高市早苗⋯⋯等保守派國家領導人，才是從根本上反共。世界向右轉，中共重回文革，要不了幾年就會類似1976年的光景⋯⋯即什麼都玩不轉的死寂。
 
-[查看原文](https://x.com/dianzhuXS/status/2106924070524932159)
+---
+
+## 2026-10-05 13:46:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+接下來，抽空講講這個 https://t.co/soCgxKl7Tq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMu2rDPEiGc0N2njQrppX72pTeityjAAJIFGsbS3EZVqWsn6rEK4s8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2106984238876930405)
 
 ---
 
