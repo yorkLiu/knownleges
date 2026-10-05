@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 473 条推文
+> 📊 推文存档 - 共 474 条推文
 
 ---
 
@@ -64,9 +64,17 @@ tags: ["2026"]
 
 接下來，抽空講講這個 https://t.co/soCgxKl7Tq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMu2rDPEiGc0N2njQrppX72pTeityjAAJIFGsbS3EZVqWsn6rEK4s8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2106984238876930405)
+## 2026-10-05 16:50:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不是說不盼著中國好，是沒有底線的只要「自己好」就行，那就請保持「大餅卷手指頭」內循環。靠騙，靠偷，靠內卷出的人礦紅利⋯⋯永遠不可能「好」。
+
+[查看原文](https://x.com/dianzhuXS/status/2107030709793587353)
 
 ---
 

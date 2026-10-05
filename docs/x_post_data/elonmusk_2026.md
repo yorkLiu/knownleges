@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2974 条推文
+> 📊 推文存档 - 共 2978 条推文
 
 ---
 
@@ -175,8 +175,6 @@ RT @stevenmarkryan: Watch This Stunning Tesla Awakening https://t.co/y0XykoqndI
 
 Grok Imagine
 
-[查看原文](https://x.com/elonmusk/status/2106982949832774039)
-
 ---
 
 ## 2026-10-05 13:51:11
@@ -186,8 +184,6 @@ Grok Imagine
 **内容**:
 
 RT @stevenmarkryan: Do the math. https://t.co/4HGjePp1PV
-
-[查看原文](https://x.com/elonmusk/status/2106985530520949053)
 
 ---
 
@@ -199,7 +195,67 @@ RT @stevenmarkryan: Do the math. https://t.co/4HGjePp1PV
 
 RT @beffjezos: We have a duty to expand the scope and scale of civilization in order to preserve the state of matter that is intelligence i…
 
-[查看原文](https://x.com/elonmusk/status/2106986386997891567)
+---
+
+## 2026-10-05 16:47:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+USAID engaged in election interference and regime change around the world, causing massive strife
+
+[查看原文](https://x.com/elonmusk/status/2107029927589470636)
+
+---
+
+## 2026-10-05 16:49:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tetsuoai: Grok 4.7 is now available on Amazon Bedrock and on Google's Gemini Enterprise Agent Platform.
+
+Both platforms already offered…
+
+[查看原文](https://x.com/elonmusk/status/2107030436103045282)
+
+---
+
+## 2026-10-05 16:50:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kobaHUB: Jack Ma told Elon Musk humans will always be smarter than machines. 
+
+Musk’s reaction says everything.
+
+“Computers may be very…
+
+[查看原文](https://x.com/elonmusk/status/2107030567438987391)
+
+---
+
+## 2026-10-05 16:53:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Bqlsj2023: 英伟达上周又历史新高了
+
+我看B站除了好多恶搞视频
+
+不得不说，现在Ai做视频，基本看不出来痕迹
+
+太夸张了 https://t.co/fmOrXg8EYm
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMvGrDZwFiA4gayJN2_WzfmcjwwVE1AALgEmsbS3EhVllvfkMSKhf5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107031340919280087)
 
 ---
 
