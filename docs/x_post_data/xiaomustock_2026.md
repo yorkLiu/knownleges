@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 405 条推文
+> 📊 推文存档 - 共 406 条推文
+
+---
+
+## 2026-10-05 23:29:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+投资需要到正规市场，
+$SPCX 拉盘太暴力了，
+如果真能降低太空算力部署成本，spcx在它的领域无敌，星舰运力上百吨，以后一天能发射很多次，马斯克目标是星舰运力成本每公斤60-70美金。 https://t.co/gwCe04AyVP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMvmrDw5yJ_EU2wBy39hVpO7htEZ7GAAKwE2sbS3EhVimUdlrf6w92AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMv2rDw58C1eTlXxp_y_Xfqd7zthcaAAKxE2sbS3EhVhM5JBL-egRGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2107131043082097022)
 
 ---
 
