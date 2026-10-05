@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2978 条推文
+> 📊 推文存档 - 共 2980 条推文
 
 ---
 
@@ -205,8 +205,6 @@ RT @beffjezos: We have a duty to expand the scope and scale of civilization in o
 
 USAID engaged in election interference and regime change around the world, causing massive strife
 
-[查看原文](https://x.com/elonmusk/status/2107029927589470636)
-
 ---
 
 ## 2026-10-05 16:49:37
@@ -218,8 +216,6 @@ USAID engaged in election interference and regime change around the world, causi
 RT @tetsuoai: Grok 4.7 is now available on Amazon Bedrock and on Google's Gemini Enterprise Agent Platform.
 
 Both platforms already offered…
-
-[查看原文](https://x.com/elonmusk/status/2107030436103045282)
 
 ---
 
@@ -234,8 +230,6 @@ RT @kobaHUB: Jack Ma told Elon Musk humans will always be smarter than machines.
 Musk’s reaction says everything.
 
 “Computers may be very…
-
-[查看原文](https://x.com/elonmusk/status/2107030567438987391)
 
 ---
 
@@ -253,9 +247,31 @@ RT @Bqlsj2023: 英伟达上周又历史新高了
 
 太夸张了 https://t.co/fmOrXg8EYm
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMvGrDZwFiA4gayJN2_WzfmcjwwVE1AALgEmsbS3EhVllvfkMSKhf5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2107031340919280087)
+## 2026-10-05 18:25:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasicLogicIQ: Why Are Judges Releasing Violent Criminals?  https://t.co/emGwULq59F https://t.co/m8a3XxdUK0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMvWrDfHWNlJzIJ6ly3s5rsAjKey4QAAIPE2sbS3EhVpph5vc42QEEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107054599085654295)
+
+---
+
+## 2026-10-05 18:29:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XBusiness: Launch ads in minutes. Find customers for a lifetime.
+
+[查看原文](https://x.com/elonmusk/status/2107055578577285414)
 
 ---
 
