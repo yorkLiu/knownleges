@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2998 条推文
+> 📊 推文存档 - 共 2999 条推文
 
 ---
 
@@ -91,7 +91,17 @@ RT @elonmusk: @JohnStossel @SpaceX @Tesla This is simply due to my ownership sta
 
 As those companies build more an…
 
-[查看原文](https://x.com/elonmusk/status/2107569797814988881)
+---
+
+## 2026-10-07 05:13:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nypost: Trans killer blames transition for stabbing hiker 15 times on trail: Victim was 'what I want to look like' https://t.co/gD0ByHa…
+
+[查看原文](https://x.com/elonmusk/status/2107579927726068017)
 
 ---
 
