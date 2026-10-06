@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2991 条推文
+> 📊 推文存档 - 共 2992 条推文
+
+---
+
+## 2026-10-07 03:17:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nateliason: Things my @bot setup does that still blow my mind:
+
+1. A Chief of Staff who opens the day pulling open loops from email &amp; t…
+
+[查看原文](https://x.com/elonmusk/status/2107550925141274624)
 
 ---
 
