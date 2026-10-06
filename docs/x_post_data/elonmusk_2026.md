@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2997 条推文
+> 📊 推文存档 - 共 2998 条推文
 
 ---
 
@@ -33,8 +33,6 @@ RT @cb_doge: BREAKING: Grok 4.7 takes the #1 spot on VulcanBench Frontier v4, a 
 
 The top three po…
 
-[查看原文](https://x.com/elonmusk/status/2107565952695250986)
-
 ---
 
 ## 2026-10-07 04:22:51
@@ -44,8 +42,6 @@ The top three po…
 **内容**:
 
 SpaceX will provide connectivity throughout the solar system and beyond
-
-[查看原文](https://x.com/elonmusk/status/2107567281480028562)
 
 ---
 
@@ -61,8 +57,6 @@ Google CEO Sundar Pichai on Elon Musk:
 
 "I spent time with Elon maybe two weeks ago... his ability to wil…
 
-[查看原文](https://x.com/elonmusk/status/2107567417715224967)
-
 ---
 
 ## 2026-10-07 04:25:24
@@ -75,8 +69,6 @@ RT @KanekoaTheGreat: LL Cool J warns Joe Rogan: programmers' political biases wi
 
 On the Political Compass test, xAI's Grok is t…
 
-[查看原文](https://x.com/elonmusk/status/2107567923552526598)
-
 ---
 
 ## 2026-10-07 04:25:54
@@ -87,7 +79,19 @@ On the Political Compass test, xAI's Grok is t…
 
 RT @TashaARK: Starship delivered its first commercial success last week in orbit. More importantly, SpaceX is making progress toward full r…
 
-[查看原文](https://x.com/elonmusk/status/2107568047964004648)
+---
+
+## 2026-10-07 04:32:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @JohnStossel @SpaceX @Tesla This is simply due to my ownership stakes in SpaceX and Tesla. 
+
+As those companies build more an…
+
+[查看原文](https://x.com/elonmusk/status/2107569797814988881)
 
 ---
 
