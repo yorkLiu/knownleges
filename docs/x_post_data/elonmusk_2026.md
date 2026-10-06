@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2999 条推文
+> 📊 推文存档 - 共 3001 条推文
 
 ---
 
@@ -101,7 +101,31 @@ As those companies build more an…
 
 RT @nypost: Trans killer blames transition for stabbing hiker 15 times on trail: Victim was 'what I want to look like' https://t.co/gD0ByHa…
 
-[查看原文](https://x.com/elonmusk/status/2107579927726068017)
+---
+
+## 2026-10-07 05:41:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @luismbat: I built a personal newspaper on a Zectrix e-paper display and stuck it on my fridge:
+
+• Local events I might like (using Grok…
+
+[查看原文](https://x.com/elonmusk/status/2107587053303308695)
+
+---
+
+## 2026-10-07 05:42:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Riley_Gaines_: This is why we shouldn't give mentally ill people copious amounts of synthetic chemicals and injectable hormones
+
+[查看原文](https://x.com/elonmusk/status/2107587206194098350)
 
 ---
 
