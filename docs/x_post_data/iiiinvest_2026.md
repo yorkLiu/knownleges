@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 82 条推文
+> 📊 推文存档 - 共 83 条推文
 
 ---
 
@@ -20,9 +20,21 @@ tags: ["2026"]
 空单，全部止损了
 纳指+半导体＝亏40万美金 https://t.co/fqcMTbJqox
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMw2rEA-sROoAEcqomnxYs2_onr05tAAJbEGsbv1ggViwYrlFUGBPpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2107201035362295922)
+## 2026-10-06 20:27:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+交易里面，止损比止盈困难一万倍。不要低估人在失去时的损失厌恶！
+
+从结果上，此轮做空损失300万，但从交易上，止损是成功的。
+
+无论如何，这轮做的不好，挨打要立正，我要反思！兄弟们这轮鱼哥没带好队，对不住！
+
+[查看原文](https://x.com/iiiinvest/status/2107447536793649580)
 
 ---
 
