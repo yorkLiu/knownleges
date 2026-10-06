@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 2990 条推文
+> 📊 推文存档 - 共 2991 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 Grok @Bot tips
 
-[查看原文](https://x.com/elonmusk/status/2107493516741939571)
-
 ---
 
 ## 2026-10-06 23:32:43
@@ -30,8 +28,6 @@ Grok @Bot tips
 **内容**:
 
 Grok 4.7 is excellent at dealing with large code repositories
-
-[查看原文](https://x.com/elonmusk/status/2107494267816186338)
 
 ---
 
@@ -45,8 +41,6 @@ RT @stevenmarkryan: Ask me anything.
 
 Once enough questions are posted I'll ask Grok Bot to pick a bunch of them and record my answers. ht…
 
-[查看原文](https://x.com/elonmusk/status/2107494445759312321)
-
 ---
 
 ## 2026-10-06 23:36:58
@@ -56,8 +50,6 @@ Once enough questions are posted I'll ask Grok Bot to pick a bunch of them and r
 **内容**:
 
 Grok @Bot can be your personal chief financial officer!
-
-[查看原文](https://x.com/elonmusk/status/2107495338873389121)
 
 ---
 
@@ -70,8 +62,6 @@ Grok @Bot can be your personal chief financial officer!
 Track the change log of @Grok Bot &amp; Build
  https://t.co/S6Sj2Plhpi
 
-[查看原文](https://x.com/elonmusk/status/2107495875576824197)
-
 ---
 
 ## 2026-10-06 23:39:32
@@ -81,8 +71,6 @@ Track the change log of @Grok Bot &amp; Build
 **内容**:
 
 Make no mistakes
-
-[查看原文](https://x.com/elonmusk/status/2107495983328464979)
 
 ---
 
@@ -94,7 +82,17 @@ Make no mistakes
 
 RT @stevenmarkryan: If you are not using Grok Bot, you are fking up.
 
-[查看原文](https://x.com/elonmusk/status/2107496086407631012)
+---
+
+## 2026-10-06 23:54:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: btw in case you missed this, you can get rewarded for creating high quality Grok Bot templates! if you've made or use any good…
+
+[查看原文](https://x.com/elonmusk/status/2107499649326363105)
 
 ---
 
