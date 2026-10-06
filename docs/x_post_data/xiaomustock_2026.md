@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 408 条推文
+> 📊 推文存档 - 共 409 条推文
 
 ---
 
@@ -31,9 +31,23 @@ SpaceX 如果能在地球外围套个靠太阳能运转的算力卫星矩阵的�
 
 $SPCX 这单爽了，一把跑完了，撸了55万 https://t.co/IDkXHNxXiu
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMxGrFA7nHhV98NjC2zzj226L4BoLHAALcEGsbv1goVmySm3n7HkwAAQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2107470606136680471)
+## 2026-10-06 22:28:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$OKLO 和 $XE 俩家核能公司到了非常值得建仓的击球区，刚各搞了一部分仓位。
+前者金主是openai，后者大股东是亚马逊。
+今天消息面谷歌与核能公司签20年合作协议是个不错的启动点。 https://t.co/Dfa6h0NyBl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMxWrFCwfyq1FzhCiKCYJoF_hnS1gLAAL9EGsbv1goVlCV1FWtEfnDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMxmrFCwm8f1S8UG-tWpYkODb46waKAAL-EGsbv1goVoSqkIXQllVDAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2107478178499600705)
 
 ---
 
