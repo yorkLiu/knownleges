@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 407 条推文
+> 📊 推文存档 - 共 408 条推文
 
 ---
 
@@ -21,11 +21,19 @@ SpaceX 如果能在地球外围套个靠太阳能运转的算力卫星矩阵的�
 算力和电力都靠无线了传回地面，
 估计也需要海量的基站接收，人类文明才高速发展几百年，真再给我们几百年不敢想象人类会夸张到啥程度，但绝对百分之百靠超级智能体运转。 https://t.co/J1e2zA0JSR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMwWrD7ndMB21txZT5DaiWUbuxwXTdAALkE2sbS3EhVkqrPW1q6uKfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMwmrD7ntMPgtXrC3u75dQjAwT6XNHAALlE2sbS3EhVv8UINpT3IiKAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-06 21:58:42
 
-[查看原文](https://x.com/xiaomustock/status/2107172894711378025)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$SPCX 这单爽了，一把跑完了，撸了55万 https://t.co/IDkXHNxXiu
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMxGrFA7nHhV98NjC2zzj226L4BoLHAALcEGsbv1goVmySm3n7HkwAAQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2107470606136680471)
 
 ---
 
