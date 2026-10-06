@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 482 条推文
+> 📊 推文存档 - 共 483 条推文
+
+---
+
+## 2026-10-07 07:27:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+普京放毒的遁甲局。這次的普京來勢洶洶，鼠疫之勢散播很快，但正如赤壁之戰的曹操，外強內傷必敗無疑！壬水乘子鼠作亂，關鍵是以土掩水，需要聊聊嗎？ https://t.co/f4LMDqcwNR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMx2rFhNaNmKT-VY3VY04T2JsTwkFcAAJ4EWsbv1goVtkIUL0YPmh7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2107613745715544067)
 
 ---
 
