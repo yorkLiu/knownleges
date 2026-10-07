@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 483 条推文
+> 📊 推文存档 - 共 484 条推文
 
 ---
 
@@ -19,9 +19,17 @@ tags: ["2026"]
 
 普京放毒的遁甲局。這次的普京來勢洶洶，鼠疫之勢散播很快，但正如赤壁之戰的曹操，外強內傷必敗無疑！壬水乘子鼠作亂，關鍵是以土掩水，需要聊聊嗎？ https://t.co/f4LMDqcwNR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMx2rFhNaNmKT-VY3VY04T2JsTwkFcAAJ4EWsbv1goVtkIUL0YPmh7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2107613745715544067)
+## 2026-10-07 08:12:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我們的受眾，不管您身在何處，後面兩個月多念『土地經』，沒有『土地經』的多念『安土地神咒』。今日拜懺，等這幾天法會結束後，安排直播。
+
+[查看原文](https://x.com/dianzhuXS/status/2107625133489958956)
 
 ---
 
