@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3066 条推文
+> 📊 推文存档 - 共 3070 条推文
 
 ---
 
@@ -261,8 +261,6 @@ Operating principle is to give Grok Bot users the best possible combination of s
 
 RT @XFreeze: For nearly FIVE YEARS, Elon and the Starlink team have been trying to bring high-speed internet to India, especially to rural…
 
-[查看原文](https://x.com/elonmusk/status/2107920000346661264)
-
 ---
 
 ## 2026-10-08 03:48:40
@@ -273,7 +271,55 @@ RT @XFreeze: For nearly FIVE YEARS, Elon and the Starlink team have been trying 
 
 Try the latest Grok @Bot!
 
-[查看原文](https://x.com/elonmusk/status/2107921069126672602)
+---
+
+## 2026-10-08 04:03:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DimaZeniuk: BREAKING: The FCC has approved SpaceX to deploy up to 15,000 next-generation Starlink satellites, enabling direct-to-cell s…
+
+[查看原文](https://x.com/elonmusk/status/2107924727662772436)
+
+---
+
+## 2026-10-08 04:03:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anoopkumar_ch: People opposing @Starlink in India have probably never experienced internet in other countries. The speeds we’ve normali…
+
+[查看原文](https://x.com/elonmusk/status/2107924892314415584)
+
+---
+
+## 2026-10-08 04:04:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 STARLINK IS READY TO SERVE INDIA
+
+SpaceX’s Starlink Vice President Lauren Dreyer said the company is prepared to bring inte…
+
+[查看原文](https://x.com/elonmusk/status/2107925158413643862)
+
+---
+
+## 2026-10-08 04:09:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Grok Bot is the most useful AI I've used. It takes on real work start to finish, picks the best model for each task, and gets…
+
+[查看原文](https://x.com/elonmusk/status/2107926260668354994)
 
 ---
 
