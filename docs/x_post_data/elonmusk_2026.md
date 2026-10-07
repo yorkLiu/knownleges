@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3028 条推文
+> 📊 推文存档 - 共 3039 条推文
 
 ---
 
@@ -342,8 +342,6 @@ https://t.co/FLvXJomCdL
 
 RT @melvindvivas: Grok Bot is awesome
 
-[查看原文](https://x.com/elonmusk/status/2107722382211424679)
-
 ---
 
 ## 2026-10-07 14:39:29
@@ -356,8 +354,6 @@ RT @thecsguy: Grok bot proactively helping every day is like having many executi
 
 There hasn’t be…
 
-[查看原文](https://x.com/elonmusk/status/2107722464591794325)
-
 ---
 
 ## 2026-10-07 14:40:20
@@ -367,8 +363,6 @@ There hasn’t be…
 **内容**:
 
 RT @debs_obrien: OK I rock. I just built an @AmazonAlexa skill so I can talk to my Grok @bot. It works and that blows my mind. I used voice…
-
-[查看原文](https://x.com/elonmusk/status/2107722678799077887)
 
 ---
 
@@ -384,8 +378,6 @@ It'll claim an inbox — name@mail.grokbot.com
 
 Your bot now has an email to use…
 
-[查看原文](https://x.com/elonmusk/status/2107723129120518469)
-
 ---
 
 ## 2026-10-07 14:46:50
@@ -400,8 +392,6 @@ Going forward, @SpaceX will use the best back end model for any given task, incl
 
 Whatever is most likely to give you the best outcome.
 
-[查看原文](https://x.com/elonmusk/status/2107724314451878104)
-
 ---
 
 ## 2026-10-07 14:48:13
@@ -412,8 +402,6 @@ Whatever is most likely to give you the best outcome.
 
 RT @parkersmith: Sign up to hear the latest on @bot! I'll be sharing some of the ways proactivity has supercharged @bot, should be a good t…
 
-[查看原文](https://x.com/elonmusk/status/2107724662239293694)
-
 ---
 
 ## 2026-10-07 14:48:33
@@ -423,8 +411,6 @@ RT @parkersmith: Sign up to hear the latest on @bot! I'll be sharing some of the
 **内容**:
 
 RT @xenocosmography: Finally. https://t.co/Z2grZvXaYF
-
-[查看原文](https://x.com/elonmusk/status/2107724743386501180)
 
 ---
 
@@ -438,7 +424,155 @@ RT @LaurenDreyer: Great to be at India Mobile Congress today.
 
 Thank you to the Government of India and @DoT_India for the opportunity to s…
 
-[查看原文](https://x.com/elonmusk/status/2107724867705651557)
+---
+
+## 2026-10-07 22:44:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NathanLands: People clearly prefer Grok Bot to Dots. https://t.co/iJcZ5xKPfG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMzWrGYWsoU4U_V8f-AWC4zcm5hrX1AALuEmsbAvYxVgbMRVhHWx8JAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107844435224809938)
+
+---
+
+## 2026-10-07 22:52:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Intel CEO Lip-Bu Tan confirms the company will continue working with Elon Musk on Terafab.
+
+He made the comments in…
+
+[查看原文](https://x.com/elonmusk/status/2107846560155623569)
+
+---
+
+## 2026-10-07 22:53:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX’s Vice President of @Starlink Business Operations, Lauren Dreyer, spoke at India Mobile Congress today, sayin…
+
+[查看原文](https://x.com/elonmusk/status/2107846706721427895)
+
+---
+
+## 2026-10-07 22:56:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaeurope: Winter is coming 
+
+FSD Supervised is ready https://t.co/qi0adtGQg4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMzGrGYWfcqReKAlrPCgGF8vim5HzmAALtEmsbAvYxViTRLQhfaiRLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107847564456604151)
+
+---
+
+## 2026-10-07 22:58:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mmoklaaa: Paul Allen said Bill Gates tried to cut his Microsoft stake to almost nothing while he was fighting cancer.
+
+Allen kept the s…
+
+[查看原文](https://x.com/elonmusk/status/2107847937984536805)
+
+---
+
+## 2026-10-07 22:58:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Here’s the full speech of SpaceX’s Vice President of @Starlink Business Operations, Lauren Dreyer, at the 10th India Mobile Co…
+
+[查看原文](https://x.com/elonmusk/status/2107848138681991433)
+
+---
+
+## 2026-10-07 22:59:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaeurope: 3 in 4 Norwegian Tesla owners make their next car another Tesla 🇳🇴 
+
+We love ya too https://t.co/9KeAjdfdKI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMy2rGYWVW2Q_uMu1S0Ek4rYJfiRddAALsEmsbAvYxVtHLkBNS9A-vAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107848300196237458)
+
+---
+
+## 2026-10-07 23:00:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Dragon undocks from the Space Station
+
+[查看原文](https://x.com/elonmusk/status/2107848493830463815)
+
+---
+
+## 2026-10-07 23:01:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @joeroganhq: Elon Musk says he was on Twitter almost from the beginning, and his early tweets were already crazy. 😂
+
+He originally delet…
+
+[查看原文](https://x.com/elonmusk/status/2107848813201571866)
+
+---
+
+## 2026-10-07 23:04:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot will use whatever achieves the best outcome for users. 
+
+Simple questions will route to small, fast models. Questions with complex answers will route to large models.
+
+[查看原文](https://x.com/elonmusk/status/2107849623364895151)
+
+---
+
+## 2026-10-07 23:11:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @xenocosmography TITS could be funded from merch sales alone!
+
+[查看原文](https://x.com/elonmusk/status/2107851390710415525)
 
 ---
 
