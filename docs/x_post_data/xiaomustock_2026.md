@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 410 条推文
+> 📊 推文存档 - 共 411 条推文
 
 ---
 
@@ -19,9 +19,21 @@ tags: ["2026"]
 
 昨天跑的真是恰到好处175，现在168，如果还能回到160以下打算再搞回来。今天跌除了确实突然涨太多还有一个就是 $SPCX  发债400亿美金买英伟达芯片。 https://t.co/Qh8lSGVqSH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMyWrGDANxk_AAAZBJsQSs6aKImFz5_wACzxFrGwL2MVZM9DW8aHogvwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2107752529815904743)
+## 2026-10-07 17:27:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+马斯克太狠了，也就是说自家bot在调用ai的时候可能很难用到自家的xai？😂
+只调用特定任务最先进的模型。
+这是把自家ai往绝路逼，置之死地而后生？ https://t.co/yRkB8eCG23
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMymrGE1NB2ixczD8D8FptKptUNpyEAAI7EmsbAvYxViuqYTvdkAUCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2107764726453428534)
 
 ---
 
