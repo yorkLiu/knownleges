@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3001 条推文
+> 📊 推文存档 - 共 3004 条推文
 
 ---
 
@@ -113,8 +113,6 @@ RT @luismbat: I built a personal newspaper on a Zectrix e-paper display and stuc
 
 • Local events I might like (using Grok…
 
-[查看原文](https://x.com/elonmusk/status/2107587053303308695)
-
 ---
 
 ## 2026-10-07 05:42:01
@@ -125,7 +123,49 @@ RT @luismbat: I built a personal newspaper on a Zectrix e-paper display and stuc
 
 RT @Riley_Gaines_: This is why we shouldn't give mentally ill people copious amounts of synthetic chemicals and injectable hormones
 
-[查看原文](https://x.com/elonmusk/status/2107587206194098350)
+---
+
+## 2026-10-07 09:28:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @larsencc: NEW: @bot tagging just went live.
+
+Reply to any post:
+&gt; @bot add this to my Notion reading list
+&gt; @bot remind me to read this…
+
+[查看原文](https://x.com/elonmusk/status/2107644163219202213)
+
+---
+
+## 2026-10-07 09:28:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @free_ai_guides: BREAKING NEWS 🚨: Grok Bot can now run your admin like a $4,000 per month personal assistant.
+
+Connect your email and ca…
+
+[查看原文](https://x.com/elonmusk/status/2107644201060192682)
+
+---
+
+## 2026-10-07 09:28:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @reflection_ai: Introducing Beam: a highly efficient agentic open model with 501B total parameters and 23B active.
+
+- Frontier reasoning…
+
+[查看原文](https://x.com/elonmusk/status/2107644308405039202)
 
 ---
 
