@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3048 条推文
+> 📊 推文存档 - 共 3059 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @UpdatingOnRome: Dionysius of Halicarnassus who had the searched the ancient annals of Rome, claimed he seen an old law which required t…
 
-[查看原文](https://x.com/elonmusk/status/2107869656816267667)
-
 ---
 
 ## 2026-10-08 00:25:27
@@ -30,8 +28,6 @@ RT @UpdatingOnRome: Dionysius of Halicarnassus who had the searched the ancient 
 **内容**:
 
 RT @KanekoaTheGreat: NEW: The DOJ released photos of the Tumbler Ridge school shooter's guns: a shotgun with a trans flag-colored sticker,…
-
-[查看原文](https://x.com/elonmusk/status/2107869927290159518)
 
 ---
 
@@ -45,8 +41,6 @@ RT @Rothmus: Chomsky wrote off a live genocide as a fabrication while the killin
 
 In 1977, with Pol Pot still in power…
 
-[查看原文](https://x.com/elonmusk/status/2107871230607114428)
-
 ---
 
 ## 2026-10-08 00:35:12
@@ -56,8 +50,6 @@ In 1977, with Pol Pot still in power…
 **内容**:
 
 🤨
-
-[查看原文](https://x.com/elonmusk/status/2107872382367281252)
 
 ---
 
@@ -69,8 +61,6 @@ In 1977, with Pol Pot still in power…
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2107872596465446922)
-
 ---
 
 ## 2026-10-08 00:36:22
@@ -81,7 +71,157 @@ True
 
 💯
 
-[查看原文](https://x.com/elonmusk/status/2107872672785084550)
+---
+
+## 2026-10-08 00:51:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Whatever it take for @Bot to deliver the best product experience for users
+
+[查看原文](https://x.com/elonmusk/status/2107876487454179416)
+
+---
+
+## 2026-10-08 00:52:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: And yet again.
+I ask my family:
+Did you see or hear about what is going on in the world?
+
+One answer keeps coming:
+NO.…
+
+[查看原文](https://x.com/elonmusk/status/2107876662138532294)
+
+---
+
+## 2026-10-08 00:53:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/VqtIbnhisS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM0GrGfmdls8NiqBnJuQ5hLLPQjlRrAAI7E2sbAvYxVmwSMNsYmP8tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107876928162275329)
+
+---
+
+## 2026-10-08 00:54:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottJenningsKY: Democrats are for open borders and couldn’t care less when American citizens are murdered by illegal aliens. Listen fo…
+
+[查看原文](https://x.com/elonmusk/status/2107877168575590458)
+
+---
+
+## 2026-10-08 00:54:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: The spacecraft is executing a series of departure burns to move away from the @Space_Station. Dragon will reenter the Earth's a…
+
+[查看原文](https://x.com/elonmusk/status/2107877217774784674)
+
+---
+
+## 2026-10-08 00:59:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NotTomBrown: @KatieMiller Hall of Fame community note https://t.co/9P39pWihly
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMz2rGfmQCP7IcxJe38sWtIYOTPkGiAAI6E2sbAvYxVvyoBi_Bvn_fAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107878471636861204)
+
+---
+
+## 2026-10-08 01:01:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pduan: Manual driving is like riding a horse or hand-coding in Perl and PHP.
+
+You can still do it. You just don’t have to.
+
+[查看原文](https://x.com/elonmusk/status/2107878899518742933)
+
+---
+
+## 2026-10-08 01:05:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @DefiantLs Gibney is a tinfoil hat crackpot 🤡 who thinks I use space lasers to influence elections. Zero credibility.
+
+[查看原文](https://x.com/elonmusk/status/2107879914393546874)
+
+---
+
+## 2026-10-08 01:05:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @C_3C_3: Can’t unsee it…
+
+Elon is a creator.
+Bernie is a taker.
+
+Elon is a doer.
+Bernie is a talker.
+
+Elon is a builder.
+Bernie is a des…
+
+[查看原文](https://x.com/elonmusk/status/2107880037567676664)
+
+---
+
+## 2026-10-08 01:05:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: However, we cannot mitigate risk when another operator maneuvers without sharing a predicted trajectory that includes the bur…
+
+[查看原文](https://x.com/elonmusk/status/2107880103132938288)
+
+---
+
+## 2026-10-08 01:09:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jimfarley98: While I was in Bentonville, Arkansas for the Heartland Summit this week, I stopped to check out the Walmart Museum and see…
+
+[查看原文](https://x.com/elonmusk/status/2107881014907551940)
 
 ---
 
