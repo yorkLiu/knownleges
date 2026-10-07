@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3070 条推文
+> 📊 推文存档 - 共 3071 条推文
 
 ---
 
@@ -281,8 +281,6 @@ Try the latest Grok @Bot!
 
 RT @DimaZeniuk: BREAKING: The FCC has approved SpaceX to deploy up to 15,000 next-generation Starlink satellites, enabling direct-to-cell s…
 
-[查看原文](https://x.com/elonmusk/status/2107924727662772436)
-
 ---
 
 ## 2026-10-08 04:03:52
@@ -292,8 +290,6 @@ RT @DimaZeniuk: BREAKING: The FCC has approved SpaceX to deploy up to 15,000 nex
 **内容**:
 
 RT @anoopkumar_ch: People opposing @Starlink in India have probably never experienced internet in other countries. The speeds we’ve normali…
-
-[查看原文](https://x.com/elonmusk/status/2107924892314415584)
 
 ---
 
@@ -307,8 +303,6 @@ RT @AsFoundX: 🚨 STARLINK IS READY TO SERVE INDIA
 
 SpaceX’s Starlink Vice President Lauren Dreyer said the company is prepared to bring inte…
 
-[查看原文](https://x.com/elonmusk/status/2107925158413643862)
-
 ---
 
 ## 2026-10-08 04:09:18
@@ -319,7 +313,19 @@ SpaceX’s Starlink Vice President Lauren Dreyer said the company is prepared to
 
 RT @iam_smx: Grok Bot is the most useful AI I've used. It takes on real work start to finish, picks the best model for each task, and gets…
 
-[查看原文](https://x.com/elonmusk/status/2107926260668354994)
+---
+
+## 2026-10-08 06:30:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink beams are turned off over India, so the claim that they were used by anyone for any reason is absolutely false https://t.co/y3R2L5JV7h
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM0mrGzNw1WXL7lE8yrRFZOyVuo80oAAJwE2sbAvYxVj9hOWrgUfkJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107961709717807149)
 
 ---
 
