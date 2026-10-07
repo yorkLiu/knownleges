@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3016 条推文
+> 📊 推文存档 - 共 3020 条推文
 
 ---
 
@@ -256,8 +256,6 @@ It really is
 
 RT @davidellison: Today is a new day for @Skydance, and I'm incredibly grateful to everyone who helped get us here. It's a big day, and we'…
 
-[查看原文](https://x.com/elonmusk/status/2107701276641493321)
-
 ---
 
 ## 2026-10-07 13:17:28
@@ -269,8 +267,6 @@ RT @davidellison: Today is a new day for @Skydance, and I'm incredibly grateful 
 RT @XFreeze: The engineering underneath Super Heavy is absolutely insane
 
 It literally looks more like science fiction than rocket hardware…
-
-[查看原文](https://x.com/elonmusk/status/2107701822379143323)
 
 ---
 
@@ -284,8 +280,6 @@ RT @Sassafrass_84: Elon nailed the double standard.
 
 If we shipped 100,000 Americans to Greenland, elected an American prime minister, and…
 
-[查看原文](https://x.com/elonmusk/status/2107702145378316440)
-
 ---
 
 ## 2026-10-07 13:19:13
@@ -296,7 +290,55 @@ If we shipped 100,000 Americans to Greenland, elected an American prime minister
 
 RT @SawyerMerritt: The Model Y was the #1 best-selling car of any kind (EV or gas) in South Korea in September for the 3rd consecutive mont…
 
-[查看原文](https://x.com/elonmusk/status/2107702262227415400)
+---
+
+## 2026-10-07 14:09:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🇩🇪 Danke Schön! 🇩🇪
+
+[查看原文](https://x.com/elonmusk/status/2107714870313676807)
+
+---
+
+## 2026-10-07 14:20:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @xenocosmography: Leftists: "We're going to set the Orks on our own people until they're all thoroughly raped and killed. Also, we're th…
+
+[查看原文](https://x.com/elonmusk/status/2107717606702776559)
+
+---
+
+## 2026-10-07 14:21:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PrishaMosley: I am suing my doctors for transitioning me starting as a minor in the state of North Carolina.
+
+[查看原文](https://x.com/elonmusk/status/2107717829780967641)
+
+---
+
+## 2026-10-07 14:21:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: I talk a lot about Grok Bot on Slack, but did you know you can also add @MicrosoftTeams?
+
+https://t.co/FLvXJomCdL
+
+[查看原文](https://x.com/elonmusk/status/2107717867064209705)
 
 ---
 
