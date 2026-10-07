@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3039 条推文
+> 📊 推文存档 - 共 3042 条推文
 
 ---
 
@@ -434,10 +434,6 @@ Thank you to the Government of India and @DoT_India for the opportunity to s…
 
 RT @NathanLands: People clearly prefer Grok Bot to Dots. https://t.co/iJcZ5xKPfG
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMzWrGYWsoU4U_V8f-AWC4zcm5hrX1AALuEmsbAvYxVgbMRVhHWx8JAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2107844435224809938)
-
 ---
 
 ## 2026-10-07 22:52:36
@@ -450,8 +446,6 @@ RT @cb_doge: BREAKING: Intel CEO Lip-Bu Tan confirms the company will continue w
 
 He made the comments in…
 
-[查看原文](https://x.com/elonmusk/status/2107846560155623569)
-
 ---
 
 ## 2026-10-07 22:53:11
@@ -461,8 +455,6 @@ He made the comments in…
 **内容**:
 
 RT @cb_doge: BREAKING: SpaceX’s Vice President of @Starlink Business Operations, Lauren Dreyer, spoke at India Mobile Congress today, sayin…
-
-[查看原文](https://x.com/elonmusk/status/2107846706721427895)
 
 ---
 
@@ -476,10 +468,6 @@ RT @teslaeurope: Winter is coming
 
 FSD Supervised is ready https://t.co/qi0adtGQg4
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMzGrGYWfcqReKAlrPCgGF8vim5HzmAALtEmsbAvYxViTRLQhfaiRLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2107847564456604151)
-
 ---
 
 ## 2026-10-07 22:58:04
@@ -492,8 +480,6 @@ RT @mmoklaaa: Paul Allen said Bill Gates tried to cut his Microsoft stake to alm
 
 Allen kept the s…
 
-[查看原文](https://x.com/elonmusk/status/2107847937984536805)
-
 ---
 
 ## 2026-10-07 22:58:52
@@ -503,8 +489,6 @@ Allen kept the s…
 **内容**:
 
 RT @cb_doge: Here’s the full speech of SpaceX’s Vice President of @Starlink Business Operations, Lauren Dreyer, at the 10th India Mobile Co…
-
-[查看原文](https://x.com/elonmusk/status/2107848138681991433)
 
 ---
 
@@ -518,10 +502,6 @@ RT @teslaeurope: 3 in 4 Norwegian Tesla owners make their next car another Tesla
 
 We love ya too https://t.co/9KeAjdfdKI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMy2rGYWVW2Q_uMu1S0Ek4rYJfiRddAALsEmsbAvYxVtHLkBNS9A-vAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2107848300196237458)
-
 ---
 
 ## 2026-10-07 23:00:17
@@ -531,8 +511,6 @@ We love ya too https://t.co/9KeAjdfdKI
 **内容**:
 
 Dragon undocks from the Space Station
-
-[查看原文](https://x.com/elonmusk/status/2107848493830463815)
 
 ---
 
@@ -546,8 +524,6 @@ RT @joeroganhq: Elon Musk says he was on Twitter almost from the beginning, and 
 
 He originally delet…
 
-[查看原文](https://x.com/elonmusk/status/2107848813201571866)
-
 ---
 
 ## 2026-10-07 23:04:46
@@ -560,8 +536,6 @@ Grok @Bot will use whatever achieves the best outcome for users.
 
 Simple questions will route to small, fast models. Questions with complex answers will route to large models.
 
-[查看原文](https://x.com/elonmusk/status/2107849623364895151)
-
 ---
 
 ## 2026-10-07 23:11:48
@@ -572,7 +546,45 @@ Simple questions will route to small, fast models. Questions with complex answer
 
 RT @elonmusk: @xenocosmography TITS could be funded from merch sales alone!
 
-[查看原文](https://x.com/elonmusk/status/2107851390710415525)
+---
+
+## 2026-10-07 23:15:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: After many years in top machine learning organizations, with friends at frontier labs, I still consider Tesla’s ML engineer…
+
+[查看原文](https://x.com/elonmusk/status/2107852404570062983)
+
+---
+
+## 2026-10-07 23:21:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink Mobile (direct-to-cell) V2 satellites are incredible. 
+
+This @SpaceX constellation will enable more than 100 times the bandwidth of our current V1 system!
+
+[查看原文](https://x.com/elonmusk/status/2107853835528274320)
+
+---
+
+## 2026-10-07 23:23:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Unfortunately, we are being blocked by certain oligarchs in order to maintain their monopolistic chokehold on the Indian people. You can guess who they are …
+
+This is a crime against the people of India!
+
+[查看原文](https://x.com/elonmusk/status/2107854307077034294)
 
 ---
 
