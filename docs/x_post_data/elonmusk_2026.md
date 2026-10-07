@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3020 条推文
+> 📊 推文存档 - 共 3028 条推文
 
 ---
 
@@ -300,8 +300,6 @@ RT @SawyerMerritt: The Model Y was the #1 best-selling car of any kind (EV or ga
 
 🇩🇪 Danke Schön! 🇩🇪
 
-[查看原文](https://x.com/elonmusk/status/2107714870313676807)
-
 ---
 
 ## 2026-10-07 14:20:11
@@ -312,8 +310,6 @@ RT @SawyerMerritt: The Model Y was the #1 best-selling car of any kind (EV or ga
 
 RT @xenocosmography: Leftists: "We're going to set the Orks on our own people until they're all thoroughly raped and killed. Also, we're th…
 
-[查看原文](https://x.com/elonmusk/status/2107717606702776559)
-
 ---
 
 ## 2026-10-07 14:21:04
@@ -323,8 +319,6 @@ RT @xenocosmography: Leftists: "We're going to set the Orks on our own people un
 **内容**:
 
 RT @PrishaMosley: I am suing my doctors for transitioning me starting as a minor in the state of North Carolina.
-
-[查看原文](https://x.com/elonmusk/status/2107717829780967641)
 
 ---
 
@@ -338,7 +332,113 @@ RT @poteto: I talk a lot about Grok Bot on Slack, but did you know you can also 
 
 https://t.co/FLvXJomCdL
 
-[查看原文](https://x.com/elonmusk/status/2107717867064209705)
+---
+
+## 2026-10-07 14:39:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @melvindvivas: Grok Bot is awesome
+
+[查看原文](https://x.com/elonmusk/status/2107722382211424679)
+
+---
+
+## 2026-10-07 14:39:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @thecsguy: Grok bot proactively helping every day is like having many executive assistants for each area of your life. 
+
+There hasn’t be…
+
+[查看原文](https://x.com/elonmusk/status/2107722464591794325)
+
+---
+
+## 2026-10-07 14:40:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @debs_obrien: OK I rock. I just built an @AmazonAlexa skill so I can talk to my Grok @bot. It works and that blows my mind. I used voice…
+
+[查看原文](https://x.com/elonmusk/status/2107722678799077887)
+
+---
+
+## 2026-10-07 14:42:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @melvindvivas: Try asking your Grok Bot to send an email
+
+It'll claim an inbox — name@mail.grokbot.com
+
+Your bot now has an email to use…
+
+[查看原文](https://x.com/elonmusk/status/2107723129120518469)
+
+---
+
+## 2026-10-07 14:46:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Important note regarding Grok @Bot:
+
+Going forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. 
+
+Whatever is most likely to give you the best outcome.
+
+[查看原文](https://x.com/elonmusk/status/2107724314451878104)
+
+---
+
+## 2026-10-07 14:48:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @parkersmith: Sign up to hear the latest on @bot! I'll be sharing some of the ways proactivity has supercharged @bot, should be a good t…
+
+[查看原文](https://x.com/elonmusk/status/2107724662239293694)
+
+---
+
+## 2026-10-07 14:48:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @xenocosmography: Finally. https://t.co/Z2grZvXaYF
+
+[查看原文](https://x.com/elonmusk/status/2107724743386501180)
+
+---
+
+## 2026-10-07 14:49:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @LaurenDreyer: Great to be at India Mobile Congress today.
+
+Thank you to the Government of India and @DoT_India for the opportunity to s…
+
+[查看原文](https://x.com/elonmusk/status/2107724867705651557)
 
 ---
 
