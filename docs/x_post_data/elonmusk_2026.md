@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3006 条推文
+> 📊 推文存档 - 共 3012 条推文
 
 ---
 
@@ -173,8 +173,6 @@ RT @XFreeze: Grok Build just got one of its biggest updates yet.....a massive up
 
 Compac…
 
-[查看原文](https://x.com/elonmusk/status/2107689502508781586)
-
 ---
 
 ## 2026-10-07 12:31:09
@@ -185,7 +183,82 @@ Compac…
 
 RT @SawyerMerritt: One million-mile trucker @adamlwingfield in new interview after going to the Tesla Semi launch event a couple weeks ago:…
 
-[查看原文](https://x.com/elonmusk/status/2107690167343673712)
+---
+
+## 2026-10-07 12:53:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla self-driving is magical
+
+[查看原文](https://x.com/elonmusk/status/2107695858259292561)
+
+---
+
+## 2026-10-07 12:55:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX talk
+
+[查看原文](https://x.com/elonmusk/status/2107696351794622954)
+
+---
+
+## 2026-10-07 12:56:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Here’s the full IAC 2026 presentation by SpaceXAI President @michaelnicollsx :
+
+0:00 Walk-on and opening
+1:40 Growth of the St…
+
+[查看原文](https://x.com/elonmusk/status/2107696505432035633)
+
+---
+
+## 2026-10-07 12:56:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: Bro… after connecting all my Gmail accounts to Grok Bot, I don’t even need to open Gmail anymore. Today it cleaned up 2,…
+
+[查看原文](https://x.com/elonmusk/status/2107696566870114470)
+
+---
+
+## 2026-10-07 12:58:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceXAI: Grok 4.7 is now live on Microsoft Foundry https://t.co/r450VLImFN
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMyGrF0yLeBAImzk1csxcX7gz2czXrAAKbEmsbv1gwVu7zRY5XrYXzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107696927068536968)
+
+---
+
+## 2026-10-07 12:58:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It really is
+
+[查看原文](https://x.com/elonmusk/status/2107697003899846720)
 
 ---
 
