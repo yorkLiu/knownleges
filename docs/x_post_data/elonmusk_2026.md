@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3004 条推文
+> 📊 推文存档 - 共 3006 条推文
 
 ---
 
@@ -137,8 +137,6 @@ Reply to any post:
 &gt; @bot add this to my Notion reading list
 &gt; @bot remind me to read this…
 
-[查看原文](https://x.com/elonmusk/status/2107644163219202213)
-
 ---
 
 ## 2026-10-07 09:28:30
@@ -150,8 +148,6 @@ Reply to any post:
 RT @free_ai_guides: BREAKING NEWS 🚨: Grok Bot can now run your admin like a $4,000 per month personal assistant.
 
 Connect your email and ca…
-
-[查看原文](https://x.com/elonmusk/status/2107644201060192682)
 
 ---
 
@@ -165,7 +161,31 @@ RT @reflection_ai: Introducing Beam: a highly efficient agentic open model with 
 
 - Frontier reasoning…
 
-[查看原文](https://x.com/elonmusk/status/2107644308405039202)
+---
+
+## 2026-10-07 12:28:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Build just got one of its biggest updates yet.....a massive upgrade touching almost every part of the agent stack
+
+Compac…
+
+[查看原文](https://x.com/elonmusk/status/2107689502508781586)
+
+---
+
+## 2026-10-07 12:31:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: One million-mile trucker @adamlwingfield in new interview after going to the Tesla Semi launch event a couple weeks ago:…
+
+[查看原文](https://x.com/elonmusk/status/2107690167343673712)
 
 ---
 
