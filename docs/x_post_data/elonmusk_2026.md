@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3062 条推文
+> 📊 推文存档 - 共 3064 条推文
 
 ---
 
@@ -207,8 +207,6 @@ RT @jimfarley98: While I was in Bentonville, Arkansas for the Heartland Summit t
 
 Starlink in India would enable high-speed, affordable Internet connectivity for those who can’t afford current prices or who don’t have a connection at all!
 
-[查看原文](https://x.com/elonmusk/status/2107887475251458094)
-
 ---
 
 ## 2026-10-08 01:38:41
@@ -218,8 +216,6 @@ Starlink in India would enable high-speed, affordable Internet connectivity for 
 **内容**:
 
 RT @promptEkom: At 47 he paid the SEC $20 million for a tweet a jury later found him not guilty for. If he hadn't paid, Tesla would have go…
-
-[查看原文](https://x.com/elonmusk/status/2107888357636530590)
 
 ---
 
@@ -231,7 +227,33 @@ RT @promptEkom: At 47 he paid the SEC $20 million for a tweet a jury later found
 
 RT @wholemars: Order a Tesla online in under 5 minutes and find out why they have the highest brand loyalty in the world
 
-[查看原文](https://x.com/elonmusk/status/2107889372859388016)
+---
+
+## 2026-10-08 01:54:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk on why internet access is one of the most powerful tools humanity has for lifting people out of poverty:
+
+“The singl…
+
+[查看原文](https://x.com/elonmusk/status/2107892291637805325)
+
+---
+
+## 2026-10-08 02:02:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+However, most @Bot requests are pretty simple and will be handled by a lightning-fast version of Grok 4.8 when that comes out. 
+
+Operating principle is to give Grok Bot users the best possible combination of speed &amp; intelligence.
+
+[查看原文](https://x.com/elonmusk/status/2107894231922876510)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 412 条推文
+> 📊 推文存档 - 共 413 条推文
 
 ---
 
@@ -19,9 +19,26 @@ tags: ["2026"]
 
 核电股亏麻，只硬了一天，都跌成这逼样了还能一直跌，嘎了一半留了一半，全跑的话不甘心，不跑的话又觉得跌的恶心。 https://t.co/oVeTbHW8Dm
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIMzmrGdxbpnzSbdX4R8IYzrfoK-gI8AAIwE2sbAvYxVljgcGeH2tbqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2107868771650245100)
+## 2026-10-08 02:01:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+人很容易一叶障目，比如原油，
+大家能看到的油价波动都来自霍尔木兹海峡开与否或者中东战事，
+但都自动忽略了北美洲也产石油，南美洲也产，
+而且他们量还都很大，
+巴西日均产油380万桶，
+委内瑞拉日均110万桶，
+美国日均1350万桶，
+加拿大日均500万桶。 https://t.co/QwbrJdhRLs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM0WrGjQABSxK-AAGYmo73EEU4ujPSIUUAAkwTaxsC9jFWt29cvXC9IuoBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2107894081087291697)
 
 ---
 
