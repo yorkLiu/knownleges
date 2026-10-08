@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3162 条推文
+> 📊 推文存档 - 共 3169 条推文
 
 ---
 
@@ -97,8 +97,6 @@ Refer a friend to Starlink and both of you can receive $100
 
 Available in most…
 
-[查看原文](https://x.com/elonmusk/status/2108255956274450789)
-
 ---
 
 ## 2026-10-09 01:59:51
@@ -111,7 +109,103 @@ RT @cb_doge: BREAKING: President Trump on Elon Musk today:
 
 “First, we honor an industrial titan, a brilliant engineer, and one of the grea…
 
-[查看原文](https://x.com/elonmusk/status/2108256069109584074)
+---
+
+## 2026-10-09 02:20:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RapidResponse47: .@POTUS: "We honor an industrial titan, a brilliant engineer, and one of the greatest technology founders ever to live…
+
+[查看原文](https://x.com/elonmusk/status/2108261199196356841)
+
+---
+
+## 2026-10-09 02:23:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WhiteHouse: America will establish a permanent presence on the moon. 🚀🌕
+
+[查看原文](https://x.com/elonmusk/status/2108261942624477524)
+
+---
+
+## 2026-10-09 02:32:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 ELON MUSK ON STARLINK FOR RURAL INDIA
+
+Back in June 2023, Elon said he hoped to bring Starlink to India.
+
+“The Starlink int…
+
+[查看原文](https://x.com/elonmusk/status/2108264207896432923)
+
+---
+
+## 2026-10-09 02:35:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon and Jensen. Bros being bros.
+
+📸 Kent NISHIMURA / GettyImages https://t.co/14lRQbqnfw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM4GrH5KiJ_lpJsUybaMsH1kRFEjS5AAJWE2sbAvY5VtwNqbmDq3O9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108264919489540364)
+
+---
+
+## 2026-10-09 02:42:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Shopify: New connectors just dropped:
+
+Connect to @grok to ask questions about your business
+
+Or connect to @bot to build a team of age…
+
+[查看原文](https://x.com/elonmusk/status/2108266803122102527)
+
+---
+
+## 2026-10-09 02:43:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is why
+
+[查看原文](https://x.com/elonmusk/status/2108266929203155367)
+
+---
+
+## 2026-10-09 02:44:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: SpaceX went from 8 launches in 2016 to 170 in 2025.
+
+What critics called a “subsidy scam” and a “Musk vanity project” already…
+
+[查看原文](https://x.com/elonmusk/status/2108267386105385465)
 
 ---
 
