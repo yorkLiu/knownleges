@@ -14,13 +14,13 @@ title: 推文数据
 |------|
 || [@JonathanDi3614](./JonathanDi3614_2026.md) | 70 | ✅ | 75 | [查看](./JonathanDi3614_2026.md) |
 || [@xiaomustock](./xiaomustock_2026.md) | 417 | ✅ | 431 | [查看](./xiaomustock_2026.md) |
-|| [@elonmusk](./elonmusk_2026.md) | 3124 | ✅ | 1357 | [查看](./elonmusk_2026.md) |
+|| [@elonmusk](./elonmusk_2026.md) | 3126 | ✅ | 1357 | [查看](./elonmusk_2026.md) |
 || [@karpathy](./karpathy_2026.md) | 45 |   | 17 | [查看](./karpathy_2026.md) |
 || [@aleabitoreddit](./aleabitoreddit_2026.md) | 488 |   | 496 | [查看](./aleabitoreddit_2026.md) |
 || [@dianzhuXS](./dianzhuXS_2026.md) | 489 | ✅ | 258 | [查看](./dianzhuXS_2026.md) |
 || [@Mimiwftt](./Mimiwftt_2026.md) | 483 |   | 161 | [查看](./Mimiwftt_2026.md) |
 || [@akohika1233](./akohika1233_2026.md) | 57 |   | 26 | [查看](./akohika1233_2026.md) |
-|| [@iiiinvest](./iiiinvest_2026.md) | 85 | ✅ | 8 | [查看](./iiiinvest_2026.md) |
+|| [@iiiinvest](./iiiinvest_2026.md) | 86 | ✅ | 8 | [查看](./iiiinvest_2026.md) |
 ---
 
 ## 📅 [日期归档](./tags/index.md)
