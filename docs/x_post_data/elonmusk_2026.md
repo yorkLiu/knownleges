@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3202 条推文
+> 📊 推文存档 - 共 3206 条推文
 
 ---
 
@@ -514,8 +514,6 @@ RT @nvidia: Congratulations to our CEO @JensenHuang on receiving the National Me
 
 This will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy
 
-[查看原文](https://x.com/elonmusk/status/2108315261044445330)
-
 ---
 
 ## 2026-10-09 05:55:47
@@ -530,8 +528,6 @@ So they forced delivery apps to pay drivers MORE.
  
 "I woul…
 
-[查看原文](https://x.com/elonmusk/status/2108315446948626662)
-
 ---
 
 ## 2026-10-09 06:10:36
@@ -541,10 +537,6 @@ So they forced delivery apps to pay drivers MORE.
 **内容**:
 
 🤔 https://t.co/hW4zmCBsMk
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM5WrIF0db-me7ZT2b3kXXOi37o0_AAAKqE2sbNSZBVidWNS_72c1SAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108319173851947042)
 
 ---
 
@@ -558,7 +550,59 @@ Excited to announce that all super intelligence organizations have now jointly a
 
 Moving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!
 
-[查看原文](https://x.com/elonmusk/status/2108321181602353333)
+---
+
+## 2026-10-09 06:26:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @C_3C_3: Reid Hoffman is James Talarico's top donor.
+
+Yes, this Reid Hoffman.👇 https://t.co/aVroy8Lz6c
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM5mrIHpQNzC6m6XxdAYXmLssbE5u4AAKsE2sbNSZBVoAaq8FkIbgSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108323124685230302)
+
+---
+
+## 2026-10-09 06:29:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @paulg: Talked to someone recently who knows a lot about defense tech, and he made an interesting point: the test of most military hardw…
+
+[查看原文](https://x.com/elonmusk/status/2108323886865555666)
+
+---
+
+## 2026-10-09 06:39:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Btw, this would ACTUALLY work!!
+
+[查看原文](https://x.com/elonmusk/status/2108326517323248060)
+
+---
+
+## 2026-10-09 06:41:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @harleyf: Shopify now connects to @grok and @bot. One more place merchants already work, now connected to their store. 
+
+Solo founder no…
+
+[查看原文](https://x.com/elonmusk/status/2108326822697902170)
 
 ---
 
