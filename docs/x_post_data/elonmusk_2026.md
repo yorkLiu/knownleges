@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3148 条推文
+> 📊 推文存档 - 共 3153 条推文
 
 ---
 
@@ -1162,8 +1162,6 @@ SpaceXAI is donating $1.5 million in Grok tokens to support Omarchy, th…
 
 RT @Im_pritam18: We really want @Starlink @elonmusk services, I work here in Gandhinagar which is capital city of Gujarat and it is conside…
 
-[查看原文](https://x.com/elonmusk/status/2108198714242200045)
-
 ---
 
 ## 2026-10-08 22:12:41
@@ -1174,7 +1172,71 @@ RT @Im_pritam18: We really want @Starlink @elonmusk services, I work here in Gan
 
 RT @YaseenK7212: I think it will be a great assist if India gets starlink because Elon Musk says that it’s one of the best Internet in the…
 
-[查看原文](https://x.com/elonmusk/status/2108198900762837151)
+---
+
+## 2026-10-08 23:41:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Thank you, Rahul. 
+
+This is indeed troubling.
+
+[查看原文](https://x.com/elonmusk/status/2108221292788981881)
+
+---
+
+## 2026-10-08 23:44:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benln: Grok Bot team shipped in the last few days:
+
+• Proactive primary bot
+• X search and monitoring, no API key needed
+• Faster repli…
+
+[查看原文](https://x.com/elonmusk/status/2108221942658638265)
+
+---
+
+## 2026-10-08 23:51:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Welcome home!
+
+[查看原文](https://x.com/elonmusk/status/2108223791138734327)
+
+---
+
+## 2026-10-08 23:56:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Thank you on behalf of the amazing people of SpaceX, Tesla, Neuralink and Boring Company, without whom anything I have done would have been impossible
+
+[查看原文](https://x.com/elonmusk/status/2108225043419574573)
+
+---
+
+## 2026-10-08 23:57:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+2011
+
+[查看原文](https://x.com/elonmusk/status/2108225227339550790)
 
 ---
 
