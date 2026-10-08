@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3191 条推文
+> 📊 推文存档 - 共 3198 条推文
 
 ---
 
@@ -319,8 +319,6 @@ RT @XFreeze: SpaceX just officially announced two massive milestones for Starlin
 
 Starlink is on its way to becoming a major mobile…
 
-[查看原文](https://x.com/elonmusk/status/2108299408588849248)
-
 ---
 
 ## 2026-10-09 04:52:48
@@ -333,8 +331,6 @@ RT @XFreeze: Why SpaceX acquiring 800 MHz spectrum is a BIG deal for Starlink Mo
 
 Lower frequencies travel farther and penetrate walls…
 
-[查看原文](https://x.com/elonmusk/status/2108299593515467159)
-
 ---
 
 ## 2026-10-09 04:53:45
@@ -344,10 +340,6 @@ Lower frequencies travel farther and penetrate walls…
 **内容**:
 
 RT @techdevnotes: SpaceX has released an update: Building the World's Most Advanced Mobile Network https://t.co/ZZytau6thz
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM5GrICLHGAAEzTac_88uumScircMbhgACiRNrGzUmQVZ06shThVbSFwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108299836126801979)
 
 ---
 
@@ -359,8 +351,6 @@ RT @techdevnotes: SpaceX has released an update: Building the World's Most Advan
 
 RT @SpaceX: We announced an agreement to acquire a nationwide low-band spectrum license portfolio that will pave the way for @Starlink to b…
 
-[查看原文](https://x.com/elonmusk/status/2108300263425720381)
-
 ---
 
 ## 2026-10-09 04:56:09
@@ -370,8 +360,6 @@ RT @SpaceX: We announced an agreement to acquire a nationwide low-band spectrum 
 **内容**:
 
 Starlink saves lives during natural disasters
-
-[查看原文](https://x.com/elonmusk/status/2108300437799702562)
 
 ---
 
@@ -387,8 +375,6 @@ He’s the World’s first trillionaire and National Medal of Science Award winn
 
 The M…
 
-[查看原文](https://x.com/elonmusk/status/2108300805010784339)
-
 ---
 
 ## 2026-10-09 04:58:22
@@ -399,8 +385,6 @@ The M…
 
 RT @alx: Is anyone really surprised that Reid Hoffman is backing Talarico?
 
-[查看原文](https://x.com/elonmusk/status/2108300997281956175)
-
 ---
 
 ## 2026-10-09 04:58:34
@@ -410,8 +394,6 @@ RT @alx: Is anyone really surprised that Reid Hoffman is backing Talarico?
 **内容**:
 
 RT @america: Democrat Nominee for U.S. Senate in Texas James Talarico: “I don't care where you get the revenue, I don't care what taxes you…
-
-[查看原文](https://x.com/elonmusk/status/2108301048129667241)
 
 ---
 
@@ -425,8 +407,6 @@ RT @SawyerMerritt: Remember when some people said Tesla's vision only robotaxis 
 
 Welp, it turns out…
 
-[查看原文](https://x.com/elonmusk/status/2108301193219133873)
-
 ---
 
 ## 2026-10-09 04:59:38
@@ -436,8 +416,6 @@ Welp, it turns out…
 **内容**:
 
 As easy as asking
-
-[查看原文](https://x.com/elonmusk/status/2108301316451922073)
 
 ---
 
@@ -449,9 +427,96 @@ As easy as asking
 
 RT @TrungTPhan: doing deep research with Grok Bot’s new X integration https://t.co/unsQuUEXkV
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM42rICK4Ca_sCVqA6wNQDsWgD3Xl_AAKIE2sbNSZBVqW06mMUVNFfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2108303850650443930)
+## 2026-10-09 05:20:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ClownWorld: I love @bot 🤖
+
+I’m using it to clean up one of my Shopify stores and remove the worst-performing products.
+
+Something that…
+
+[查看原文](https://x.com/elonmusk/status/2108306628390932872)
+
+---
+
+## 2026-10-09 05:29:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2108308835949740320)
+
+---
+
+## 2026-10-09 05:29:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @michaelnicollsx: Big day for @Starlink Mobile…
+
+[查看原文](https://x.com/elonmusk/status/2108308944049389953)
+
+---
+
+## 2026-10-09 05:35:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Congratulations to Sergey, Jensen, Lisa, Michael and Satya!
+
+[查看原文](https://x.com/elonmusk/status/2108310399477293085)
+
+---
+
+## 2026-10-09 05:41:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Gwynne_Shotwell: I have been a posting slug!
+
+How about that launch triple header last week:  Starship, Crew 13, and Heavy!!!
+Terrestri…
+
+[查看原文](https://x.com/elonmusk/status/2108311744255021547)
+
+---
+
+## 2026-10-09 05:46:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @X: heard you have other apps...that's cute
+
+[查看原文](https://x.com/elonmusk/status/2108313143533306024)
+
+---
+
+## 2026-10-09 05:48:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nvidia: Congratulations to our CEO @JensenHuang on receiving the National Medal of Science for advancing GPU computing to power scienti…
+
+[查看原文](https://x.com/elonmusk/status/2108313682799182252)
 
 ---
 
