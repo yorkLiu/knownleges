@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3146 条推文
+> 📊 推文存档 - 共 3148 条推文
 
 ---
 
@@ -1098,8 +1098,6 @@ RT @epkaufm: 1/ NEW REPORT: Since October 7, 2023, the left has *dominated* Jew-
 
 Left-wing perpetrators are responsible…
 
-[查看原文](https://x.com/elonmusk/status/2108190383557443852)
-
 ---
 
 ## 2026-10-08 21:39:55
@@ -1109,8 +1107,6 @@ Left-wing perpetrators are responsible…
 **内容**:
 
 RT @WhiteHouse: TODAY: President Trump honors our great science and technology leaders at the White House, with the National Medal of Scien…
-
-[查看原文](https://x.com/elonmusk/status/2108190656178901319)
 
 ---
 
@@ -1124,8 +1120,6 @@ RT @AsFoundX: 🚨 ELON MUSK ON ORBITAL REFUELING FOR MARS
 
 Elon explained that one of the most important technologies for going to Mars is or…
 
-[查看原文](https://x.com/elonmusk/status/2108191591706108333)
-
 ---
 
 ## 2026-10-08 21:52:02
@@ -1136,8 +1130,6 @@ Elon explained that one of the most important technologies for going to Mars is 
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2108193704322494869)
-
 ---
 
 ## 2026-10-08 22:00:37
@@ -1147,8 +1139,6 @@ True
 **内容**:
 
 RT @SPAC89: Grok Bot is honestly doing better research than GPT-6 Pro for me right now, especially after the update that lets it access sou…
-
-[查看原文](https://x.com/elonmusk/status/2108195864762277939)
 
 ---
 
@@ -1162,7 +1152,29 @@ RT @AsFoundX: 🚨 SPACEXAI BACKS OPEN SOURCE LINUX WITH $1.5 MILLION
 
 SpaceXAI is donating $1.5 million in Grok tokens to support Omarchy, th…
 
-[查看原文](https://x.com/elonmusk/status/2108197123451928653)
+---
+
+## 2026-10-08 22:11:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Im_pritam18: We really want @Starlink @elonmusk services, I work here in Gandhinagar which is capital city of Gujarat and it is conside…
+
+[查看原文](https://x.com/elonmusk/status/2108198714242200045)
+
+---
+
+## 2026-10-08 22:12:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @YaseenK7212: I think it will be a great assist if India gets starlink because Elon Musk says that it’s one of the best Internet in the…
+
+[查看原文](https://x.com/elonmusk/status/2108198900762837151)
 
 ---
 
