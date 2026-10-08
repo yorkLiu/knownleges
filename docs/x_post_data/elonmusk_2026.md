@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3072 条推文
+> 📊 推文存档 - 共 3073 条推文
 
 ---
 
@@ -333,7 +333,19 @@ Starlink beams are turned off over India, so the claim that they were used by an
 
 Grok x 𝕏
 
-[查看原文](https://x.com/elonmusk/status/2107979289501344137)
+---
+
+## 2026-10-08 08:47:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: grok @bot is by far my most used personal agent https://t.co/jDYFrruifx
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM1GrG6ZvQ0Y-rr174lj56jVGDY0CVAAKRE2sbAvYxVod-VeigXhBKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2107996249576391105)
 
 ---
 
