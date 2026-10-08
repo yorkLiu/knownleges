@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3081 条推文
+> 📊 推文存档 - 共 3085 条推文
 
 ---
 
@@ -399,8 +399,6 @@ RT @cryp_cryp: In April 2009, Elon Musk was asked why General Motors wouldn't ju
 
 Fifty-five days la…
 
-[查看原文](https://x.com/elonmusk/status/2108009936143659034)
-
 ---
 
 ## 2026-10-08 09:43:23
@@ -410,8 +408,6 @@ Fifty-five days la…
 **内容**:
 
 Connectivity leads to prosperity
-
-[查看原文](https://x.com/elonmusk/status/2108010337165521305)
 
 ---
 
@@ -427,8 +423,6 @@ How much money should any one person have?
 
 https:/…
 
-[查看原文](https://x.com/elonmusk/status/2108010641738854910)
-
 ---
 
 ## 2026-10-08 09:48:29
@@ -439,7 +433,55 @@ https:/…
 
 RT @teslaownersSV: Elon Musk was set to spend 1995 at Stanford working on the biggest problem holding back electric cars. Then he walked in…
 
-[查看原文](https://x.com/elonmusk/status/2108011617342595386)
+---
+
+## 2026-10-08 11:27:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot gets better every day
+
+[查看原文](https://x.com/elonmusk/status/2108036583861485812)
+
+---
+
+## 2026-10-08 11:29:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Grok Bot can now search, read, and monitor X. https://t.co/KTYcATvrG4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM1mrHFKXicnnjNjdnPazoVihEJ6zYAAKPEWsbAvY5VpzyJ8rcQUspAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108036943879749830)
+
+---
+
+## 2026-10-08 11:32:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink connecting Bangladesh!
+
+[查看原文](https://x.com/elonmusk/status/2108037853993439563)
+
+---
+
+## 2026-10-08 11:34:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is like hiring an extremely competent employee!
+
+[查看原文](https://x.com/elonmusk/status/2108038296572137792)
 
 ---
 
