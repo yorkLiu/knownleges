@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 415 条推文
+> 📊 推文存档 - 共 416 条推文
 
 ---
 
@@ -56,9 +56,17 @@ tags: ["2026"]
 
 一个人的认知与财富不匹配的时候财富就会流向华为 https://t.co/F98O6uysAZ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM2GrHIz5Fd84xG11yLSGOD454AovwAAKgEWsbAvY5VgNoo6FxTNrUAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2108056970620252564)
+## 2026-10-08 14:54:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Claude一把干死了低价模型的股票和落后模型的叙事。
+
+[查看原文](https://x.com/xiaomustock/status/2108088598079897650)
 
 ---
 
