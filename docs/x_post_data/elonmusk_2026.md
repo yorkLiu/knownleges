@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3198 条推文
+> 📊 推文存档 - 共 3202 条推文
 
 ---
 
@@ -441,8 +441,6 @@ I’m using it to clean up one of my Shopify stores and remove the worst-perform
 
 Something that…
 
-[查看原文](https://x.com/elonmusk/status/2108306628390932872)
-
 ---
 
 ## 2026-10-09 05:29:31
@@ -452,8 +450,6 @@ Something that…
 **内容**:
 
 Yes
-
-[查看原文](https://x.com/elonmusk/status/2108308835949740320)
 
 ---
 
@@ -465,8 +461,6 @@ Yes
 
 RT @michaelnicollsx: Big day for @Starlink Mobile…
 
-[查看原文](https://x.com/elonmusk/status/2108308944049389953)
-
 ---
 
 ## 2026-10-09 05:35:44
@@ -476,8 +470,6 @@ RT @michaelnicollsx: Big day for @Starlink Mobile…
 **内容**:
 
 Congratulations to Sergey, Jensen, Lisa, Michael and Satya!
-
-[查看原文](https://x.com/elonmusk/status/2108310399477293085)
 
 ---
 
@@ -492,8 +484,6 @@ RT @Gwynne_Shotwell: I have been a posting slug!
 How about that launch triple header last week:  Starship, Crew 13, and Heavy!!!
 Terrestri…
 
-[查看原文](https://x.com/elonmusk/status/2108311744255021547)
-
 ---
 
 ## 2026-10-09 05:46:38
@@ -503,8 +493,6 @@ Terrestri…
 **内容**:
 
 RT @X: heard you have other apps...that's cute
-
-[查看原文](https://x.com/elonmusk/status/2108313143533306024)
 
 ---
 
@@ -516,7 +504,61 @@ RT @X: heard you have other apps...that's cute
 
 RT @nvidia: Congratulations to our CEO @JensenHuang on receiving the National Medal of Science for advancing GPU computing to power scienti…
 
-[查看原文](https://x.com/elonmusk/status/2108313682799182252)
+---
+
+## 2026-10-09 05:55:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy
+
+[查看原文](https://x.com/elonmusk/status/2108315261044445330)
+
+---
+
+## 2026-10-09 05:55:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JohnStossel: Seattle city council wanted to help "exploited" gig workers.
+ 
+So they forced delivery apps to pay drivers MORE.
+ 
+"I woul…
+
+[查看原文](https://x.com/elonmusk/status/2108315446948626662)
+
+---
+
+## 2026-10-09 06:10:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🤔 https://t.co/hW4zmCBsMk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM5WrIF0db-me7ZT2b3kXXOi37o0_AAAKqE2sbNSZBVidWNS_72c1SAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108319173851947042)
+
+---
+
+## 2026-10-09 06:18:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Excited to announce that all super intelligence organizations have now jointly agreed to the ultimate in AI/SI safety:
+
+Moving all testing to Delta Airlines flights, where accessing the Internet is utterly impossible!
+
+[查看原文](https://x.com/elonmusk/status/2108321181602353333)
 
 ---
 
