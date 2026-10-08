@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3077 条推文
+> 📊 推文存档 - 共 3081 条推文
 
 ---
 
@@ -353,8 +353,6 @@ RT @ArthurMacwaters: grok @bot is by far my most used personal agent https://t.c
 
 🇧🇩 Starlink Mobile now available in Bangladesh! 🇧🇩
 
-[查看原文](https://x.com/elonmusk/status/2107998173663051794)
-
 ---
 
 ## 2026-10-08 08:56:15
@@ -364,8 +362,6 @@ RT @ArthurMacwaters: grok @bot is by far my most used personal agent https://t.c
 **内容**:
 
 RT @Teslaconomics: I just turned my own comment section into a full-color Japanese manga using Grok Bot. So if you replied to my CFO post,…
-
-[查看原文](https://x.com/elonmusk/status/2107998474218446880)
 
 ---
 
@@ -379,8 +375,6 @@ RT @XFreeze: Starlink is much bigger than faster internet
 
 It gives a country an entirely new layer of infrastructure that reaches people t…
 
-[查看原文](https://x.com/elonmusk/status/2107998540073181440)
-
 ---
 
 ## 2026-10-08 09:01:52
@@ -391,7 +385,61 @@ It gives a country an entirely new layer of infrastructure that reaches people t
 
 Try Grok @Bot!
 
-[查看原文](https://x.com/elonmusk/status/2107999887187165544)
+---
+
+## 2026-10-08 09:41:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cryp_cryp: In April 2009, Elon Musk was asked why General Motors wouldn't just buy Tesla. 
+
+"You can't afford it." 
+
+Fifty-five days la…
+
+[查看原文](https://x.com/elonmusk/status/2108009936143659034)
+
+---
+
+## 2026-10-08 09:43:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Connectivity leads to prosperity
+
+[查看原文](https://x.com/elonmusk/status/2108010337165521305)
+
+---
+
+## 2026-10-08 09:44:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JohnStossel: When Elon Musk became the world’s first trillionaire, people got mad.
+
+How much money should any one person have?
+
+https:/…
+
+[查看原文](https://x.com/elonmusk/status/2108010641738854910)
+
+---
+
+## 2026-10-08 09:48:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Elon Musk was set to spend 1995 at Stanford working on the biggest problem holding back electric cars. Then he walked in…
+
+[查看原文](https://x.com/elonmusk/status/2108011617342595386)
 
 ---
 
