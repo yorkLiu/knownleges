@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3160 条推文
+> 📊 推文存档 - 共 3162 条推文
 
 ---
 
@@ -73,8 +73,6 @@ RT @morganlinton: It has been fascinating to use Muse, Dot, and Grok Bot all alo
 
 Makes it very clear how far in the lead…
 
-[查看原文](https://x.com/elonmusk/status/2108236660760809531)
-
 ---
 
 ## 2026-10-09 00:46:03
@@ -85,7 +83,35 @@ Makes it very clear how far in the lead…
 
 Try using @Bot for your hardest tasks!
 
-[查看原文](https://x.com/elonmusk/status/2108237497952055631)
+---
+
+## 2026-10-09 01:59:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Starlink just launched a new referral program
+
+Refer a friend to Starlink and both of you can receive $100
+
+Available in most…
+
+[查看原文](https://x.com/elonmusk/status/2108255956274450789)
+
+---
+
+## 2026-10-09 01:59:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: President Trump on Elon Musk today:
+
+“First, we honor an industrial titan, a brilliant engineer, and one of the grea…
+
+[查看原文](https://x.com/elonmusk/status/2108256069109584074)
 
 ---
 
