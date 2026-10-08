@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3118 条推文
+> 📊 推文存档 - 共 3119 条推文
 
 ---
 
@@ -788,8 +788,6 @@ RT @GeniusGTX: This is Elon Musk in 2003, after selling his first company Zip2 f
 
 He told a Stanford lecture hall exactly how he b…
 
-[查看原文](https://x.com/elonmusk/status/2108071024050782505)
-
 ---
 
 ## 2026-10-08 13:45:22
@@ -799,8 +797,6 @@ He told a Stanford lecture hall exactly how he b…
 **内容**:
 
 Grok @Bot can manage your finances
-
-[查看原文](https://x.com/elonmusk/status/2108071231413198857)
 
 ---
 
@@ -812,8 +808,6 @@ Grok @Bot can manage your finances
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2108071705122111819)
-
 ---
 
 ## 2026-10-08 13:48:22
@@ -823,8 +817,6 @@ True
 **内容**:
 
 RT @Founder_Tribune: Elon Musk: "Instead of teaching to the problem, currently people teach to the tool. It would be like having a course o…
-
-[查看原文](https://x.com/elonmusk/status/2108071986215657861)
 
 ---
 
@@ -838,8 +830,6 @@ RT @AsFoundX: 🚨 ELON MUSK ON WHY X IS THE BEST PLATFORM
 
 Elon explained that if you want to reach senior decision makers, the most influent…
 
-[查看原文](https://x.com/elonmusk/status/2108072878281306367)
-
 ---
 
 ## 2026-10-08 13:53:57
@@ -852,7 +842,17 @@ Try Grok @Bot yourself
 
 It can change your life
 
-[查看原文](https://x.com/elonmusk/status/2108073390821294432)
+---
+
+## 2026-10-08 14:15:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TribalArmy: . @elonmusk India’s most remote villages, tribal communities, mountains and islands still struggle with reliable internet c…
+
+[查看原文](https://x.com/elonmusk/status/2108078902589759934)
 
 ---
 
