@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 416 条推文
+> 📊 推文存档 - 共 417 条推文
 
 ---
 
@@ -66,7 +66,21 @@ tags: ["2026"]
 
 Claude一把干死了低价模型的股票和落后模型的叙事。
 
-[查看原文](https://x.com/xiaomustock/status/2108088598079897650)
+---
+
+## 2026-10-08 16:08:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+刹车踏板断裂的公关词都帮华为想好了。
+华为：我们计划下一代尊界去掉刹车踏板和方向盘，
+对齐甚至远远超越特斯拉智驾。 https://t.co/gYDh899oa0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM2mrHVQySr2U9YcqlMtwYB4bYuIzWAAIvEmsbAvY5Vt_ot1avDBw8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2108107246861471955)
 
 ---
 

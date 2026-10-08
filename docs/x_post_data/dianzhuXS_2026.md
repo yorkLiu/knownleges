@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 488 条推文
+> 📊 推文存档 - 共 489 条推文
 
 ---
 
@@ -39,9 +39,17 @@ tags: ["2026"]
 
 脫離「傷官見官」交節換氣進入「戊戌」月有靈有驗。今日法會，在譜的「兵馬化形」又來了。嗯，也可能是巧合，不神叨，理性看待吧🤭當年，老師公驅蟲吓退紅衛兵，用的是馬蜂。我玩的是螳螂，吼吼吼🤭🤭🤭 https://t.co/3p73q2LheG
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM2WrHMaVgkjvgBF7l4k0GRgw8OKaUAAK0EWsbAvY5Vo0Wpm4RuNzFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2108068594303336746)
+## 2026-10-08 16:25:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+先聲明我也是支持尹錫悅的，但是對這波流量，我還是得說實話，請在「改判無罪」前面加上定語。是所有案件都無罪了嗎？如果是，那大家一起歡呼喝酒慶祝吧。但事實上關於「戒嚴令」案件的判決目前為止並沒有改變。現在看到被「改判無罪」的，只是一個當年本就是事實不清的「受賄案」而已😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://x.com/dianzhuXS/status/2108111589908074948)
 
 ---
 
