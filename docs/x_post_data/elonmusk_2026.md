@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3140 条推文
+> 📊 推文存档 - 共 3146 条推文
 
 ---
 
@@ -1012,8 +1012,6 @@ Stormwind was not ready. ⚔️🦾
 
 Made with one prompt on @grok Imag…
 
-[查看原文](https://x.com/elonmusk/status/2108182362756444255)
-
 ---
 
 ## 2026-10-08 21:08:31
@@ -1023,8 +1021,6 @@ Made with one prompt on @grok Imag…
 **内容**:
 
 Starlink coming to KLM!
-
-[查看原文](https://x.com/elonmusk/status/2108182754969928184)
 
 ---
 
@@ -1038,8 +1034,6 @@ RT @moneycontrolcom: 🚨 #WATCH | Starlink is ready to serve India, says VP Lau
 
 Speaking at India Mobile Congress, SpaceX VP of St…
 
-[查看原文](https://x.com/elonmusk/status/2108185025074368613)
-
 ---
 
 ## 2026-10-08 21:19:22
@@ -1050,8 +1044,6 @@ Speaking at India Mobile Congress, SpaceX VP of St…
 
 Yes, they are traitors aiding an invasion and they deserve the fate of traitors
 
-[查看原文](https://x.com/elonmusk/status/2108185484425863265)
-
 ---
 
 ## 2026-10-08 21:19:42
@@ -1061,10 +1053,6 @@ Yes, they are traitors aiding an invasion and they deserve the fate of traitors
 **内容**:
 
 RT @StateDept: Western civilization is worth defending. https://t.co/yuBiK1yIrD
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM22rHnCE4bdveaxYQLSuIjkghbthYAALyEmsbAvY5VhaXM2BXGy7cAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108185571071807718)
 
 ---
 
@@ -1078,8 +1066,6 @@ Starlink is licensed in over 165 countries and has spent five years complying wi
 
 Is Ambani the real boss of India?
 
-[查看原文](https://x.com/elonmusk/status/2108187065687118261)
-
 ---
 
 ## 2026-10-08 21:31:18
@@ -1089,8 +1075,6 @@ Is Ambani the real boss of India?
 **内容**:
 
 RT @nitinmeshram_: BSNL’s slogan was “Connecting India,” and Reliance famously said, “Kar Lo Duniya Mutthi Mein” (“Hold the world in your f…
-
-[查看原文](https://x.com/elonmusk/status/2108188487384011050)
 
 ---
 
@@ -1102,7 +1086,83 @@ RT @nitinmeshram_: BSNL’s slogan was “Connecting India,” and Reliance famo
 
 RT @robinren: First time on a @united transatlantic flight equipped with free @Starlink service. The experience is INCREDIBLE. Thank you @S…
 
-[查看原文](https://x.com/elonmusk/status/2108188722634100983)
+---
+
+## 2026-10-08 21:38:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @epkaufm: 1/ NEW REPORT: Since October 7, 2023, the left has *dominated* Jew-hatred in America.
+
+Left-wing perpetrators are responsible…
+
+[查看原文](https://x.com/elonmusk/status/2108190383557443852)
+
+---
+
+## 2026-10-08 21:39:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WhiteHouse: TODAY: President Trump honors our great science and technology leaders at the White House, with the National Medal of Scien…
+
+[查看原文](https://x.com/elonmusk/status/2108190656178901319)
+
+---
+
+## 2026-10-08 21:43:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 ELON MUSK ON ORBITAL REFUELING FOR MARS
+
+Elon explained that one of the most important technologies for going to Mars is or…
+
+[查看原文](https://x.com/elonmusk/status/2108191591706108333)
+
+---
+
+## 2026-10-08 21:52:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2108193704322494869)
+
+---
+
+## 2026-10-08 22:00:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SPAC89: Grok Bot is honestly doing better research than GPT-6 Pro for me right now, especially after the update that lets it access sou…
+
+[查看原文](https://x.com/elonmusk/status/2108195864762277939)
+
+---
+
+## 2026-10-08 22:05:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 SPACEXAI BACKS OPEN SOURCE LINUX WITH $1.5 MILLION
+
+SpaceXAI is donating $1.5 million in Grok tokens to support Omarchy, th…
+
+[查看原文](https://x.com/elonmusk/status/2108197123451928653)
 
 ---
 

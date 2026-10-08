@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 86 条推文
+> 📊 推文存档 - 共 87 条推文
 
 ---
 
@@ -33,7 +33,21 @@ tags: ["2026"]
 
 今晚我应该会继续做空，等开盘！
 
-[查看原文](https://x.com/iiiinvest/status/2108147686679683098)
+---
+
+## 2026-10-08 21:53:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+2000万，做空了美光！
+
+昨天的上涨，给了一个比较好的做空位置，止损定前高1108。不嘴炮，亮仓位：300万美金！ https://t.co/za4qWMGosB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM3GrHo29fqKea5VCQRJpXewoiKuaIAAMTaxsC9jlW1AIHcN3GytsBAAMCAAN4AAM9BA.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2108194055410819526)
 
 ---
 
