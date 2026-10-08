@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3169 条推文
+> 📊 推文存档 - 共 3172 条推文
 
 ---
 
@@ -119,8 +119,6 @@ RT @cb_doge: BREAKING: President Trump on Elon Musk today:
 
 RT @RapidResponse47: .@POTUS: "We honor an industrial titan, a brilliant engineer, and one of the greatest technology founders ever to live…
 
-[查看原文](https://x.com/elonmusk/status/2108261199196356841)
-
 ---
 
 ## 2026-10-09 02:23:11
@@ -130,8 +128,6 @@ RT @RapidResponse47: .@POTUS: "We honor an industrial titan, a brilliant enginee
 **内容**:
 
 RT @WhiteHouse: America will establish a permanent presence on the moon. 🚀🌕
-
-[查看原文](https://x.com/elonmusk/status/2108261942624477524)
 
 ---
 
@@ -147,8 +143,6 @@ Back in June 2023, Elon said he hoped to bring Starlink to India.
 
 “The Starlink int…
 
-[查看原文](https://x.com/elonmusk/status/2108264207896432923)
-
 ---
 
 ## 2026-10-09 02:35:01
@@ -160,10 +154,6 @@ Back in June 2023, Elon said he hoped to bring Starlink to India.
 RT @cb_doge: Elon and Jensen. Bros being bros.
 
 📸 Kent NISHIMURA / GettyImages https://t.co/14lRQbqnfw
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM4GrH5KiJ_lpJsUybaMsH1kRFEjS5AAJWE2sbAvY5VtwNqbmDq3O9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108264919489540364)
 
 ---
 
@@ -179,8 +169,6 @@ Connect to @grok to ask questions about your business
 
 Or connect to @bot to build a team of age…
 
-[查看原文](https://x.com/elonmusk/status/2108266803122102527)
-
 ---
 
 ## 2026-10-09 02:43:00
@@ -190,8 +178,6 @@ Or connect to @bot to build a team of age…
 **内容**:
 
 This is why
-
-[查看原文](https://x.com/elonmusk/status/2108266929203155367)
 
 ---
 
@@ -205,7 +191,43 @@ RT @Rothmus: SpaceX went from 8 launches in 2016 to 170 in 2025.
 
 What critics called a “subsidy scam” and a “Musk vanity project” already…
 
-[查看原文](https://x.com/elonmusk/status/2108267386105385465)
+---
+
+## 2026-10-09 02:54:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok 4.7 ranks first in legal matters
+
+[查看原文](https://x.com/elonmusk/status/2108269794268975387)
+
+---
+
+## 2026-10-09 02:56:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is actually this good
+
+[查看原文](https://x.com/elonmusk/status/2108270309824438588)
+
+---
+
+## 2026-10-09 03:03:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot works well on your phone. Just download the app from Apple or Android. 
+
+https://t.co/Efbxq5vqTm
+
+[查看原文](https://x.com/elonmusk/status/2108272088582676627)
 
 ---
 

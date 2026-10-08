@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 488 条推文
+> 📊 推文存档 - 共 489 条推文
+
+---
+
+## 2026-10-09 03:04:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Can someone explain how media headlines about OpenAI’s ~$50B ARR…
+
+(vs. ~$70B from incorrect accounting comparisons with Anthropic)
+
+Somehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?
+
+Hint: it doesn’t. https://t.co/FiVsvg8I0G
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM4WrH6_aSRtJ8o2YRih-43a5ky3S4AAJqE2sbAvY5VghwTzkAARe3gAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM4mrH6_nA87HWnKJccLrCDpFBFR3tAAJsE2sbAvY5Vh3Rjlsj4aJ0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2108272287908860377)
 
 ---
 
