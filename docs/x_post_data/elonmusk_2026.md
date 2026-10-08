@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3073 条推文
+> 📊 推文存档 - 共 3077 条推文
 
 ---
 
@@ -343,9 +343,55 @@ Grok x 𝕏
 
 RT @ArthurMacwaters: grok @bot is by far my most used personal agent https://t.co/jDYFrruifx
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM1GrG6ZvQ0Y-rr174lj56jVGDY0CVAAKRE2sbAvYxVod-VeigXhBKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2107996249576391105)
+## 2026-10-08 08:55:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🇧🇩 Starlink Mobile now available in Bangladesh! 🇧🇩
+
+[查看原文](https://x.com/elonmusk/status/2107998173663051794)
+
+---
+
+## 2026-10-08 08:56:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: I just turned my own comment section into a full-color Japanese manga using Grok Bot. So if you replied to my CFO post,…
+
+[查看原文](https://x.com/elonmusk/status/2107998474218446880)
+
+---
+
+## 2026-10-08 08:56:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Starlink is much bigger than faster internet
+
+It gives a country an entirely new layer of infrastructure that reaches people t…
+
+[查看原文](https://x.com/elonmusk/status/2107998540073181440)
+
+---
+
+## 2026-10-08 09:01:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot!
+
+[查看原文](https://x.com/elonmusk/status/2107999887187165544)
 
 ---
 
