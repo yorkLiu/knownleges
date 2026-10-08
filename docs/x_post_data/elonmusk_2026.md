@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3172 条推文
+> 📊 推文存档 - 共 3180 条推文
 
 ---
 
@@ -201,8 +201,6 @@ What critics called a “subsidy scam” and a “Musk vanity project” already
 
 Grok 4.7 ranks first in legal matters
 
-[查看原文](https://x.com/elonmusk/status/2108269794268975387)
-
 ---
 
 ## 2026-10-09 02:56:26
@@ -212,8 +210,6 @@ Grok 4.7 ranks first in legal matters
 **内容**:
 
 Grok @Bot is actually this good
-
-[查看原文](https://x.com/elonmusk/status/2108270309824438588)
 
 ---
 
@@ -227,7 +223,105 @@ Grok @Bot works well on your phone. Just download the app from Apple or Android.
 
 https://t.co/Efbxq5vqTm
 
-[查看原文](https://x.com/elonmusk/status/2108272088582676627)
+---
+
+## 2026-10-09 04:31:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: I asked Grok @Bot to turn President Trump awarding Elon Musk the National Medal of Science into a vertical short with…
+
+[查看原文](https://x.com/elonmusk/status/2108294140773667220)
+
+---
+
+## 2026-10-09 04:32:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JessePeltan: The entire U.S. is 500 GW (average).
+
+That's how crazy these numbers are.
+
+[查看原文](https://x.com/elonmusk/status/2108294449961046320)
+
+---
+
+## 2026-10-09 04:33:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Automatically used by Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2108294618597216470)
+
+---
+
+## 2026-10-09 04:34:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Give Grok @Bot your toughest problems
+
+[查看原文](https://x.com/elonmusk/status/2108294950492553464)
+
+---
+
+## 2026-10-09 04:39:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America
+
+[查看原文](https://x.com/elonmusk/status/2108296168094544099)
+
+---
+
+## 2026-10-09 04:40:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mikepat711: LOL. Grok Bot is legit a jaw through the floor AI moment all over again after yesterday’s changes. Reminds me of my first t…
+
+[查看原文](https://x.com/elonmusk/status/2108296429462819030)
+
+---
+
+## 2026-10-09 04:41:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Very big deal
+
+[查看原文](https://x.com/elonmusk/status/2108296638263652416)
+
+---
+
+## 2026-10-09 04:46:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+And Grok @Bot only gets better from here 🚀 🚀
+
+You could build an entire company made of Grok Bots!
+
+[查看原文](https://x.com/elonmusk/status/2108298090755031284)
 
 ---
 
