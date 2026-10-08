@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 413 条推文
+> 📊 推文存档 - 共 414 条推文
 
 ---
 
@@ -36,9 +36,19 @@ tags: ["2026"]
 美国日均1350万桶，
 加拿大日均500万桶。 https://t.co/QwbrJdhRLs
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM0WrGjQABSxK-AAGYmo73EEU4ujPSIUUAAkwTaxsC9jFWt29cvXC9IuoBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2107894081087291697)
+## 2026-10-08 12:21:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一夜之间变天了，他娘的，太乱了。 https://t.co/7X2TNQbPwm
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM12rHG-9tlzyJ7WarzpR_FinQhGKgAAKWEWsbAvY5VpnVpxTKaANVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2108050230298247271)
 
 ---
 
