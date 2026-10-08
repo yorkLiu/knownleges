@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3119 条推文
+> 📊 推文存档 - 共 3124 条推文
 
 ---
 
@@ -852,7 +852,65 @@ It can change your life
 
 RT @TribalArmy: . @elonmusk India’s most remote villages, tribal communities, mountains and islands still struggle with reliable internet c…
 
-[查看原文](https://x.com/elonmusk/status/2108078902589759934)
+---
+
+## 2026-10-08 18:25:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheBigGeek: I have built and run data centres in India for 30+ years. I have watched our Internet grow from dial-up to gigabit—and I ha…
+
+[查看原文](https://x.com/elonmusk/status/2108141752053870707)
+
+---
+
+## 2026-10-08 18:27:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Thank you
+
+[查看原文](https://x.com/elonmusk/status/2108142154174402910)
+
+---
+
+## 2026-10-08 18:27:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @frontierindica: Elon is right. Some vested interests who are happy with current crony-run telecom market don't want Starlink to become…
+
+[查看原文](https://x.com/elonmusk/status/2108142252627546489)
+
+---
+
+## 2026-10-08 18:30:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+2003
+
+[查看原文](https://x.com/elonmusk/status/2108143108382654635)
+
+---
+
+## 2026-10-08 18:31:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RohitKaNation: In reality, these are the very few people who do not want our country, India, to move forward in step with the rest of t…
+
+[查看原文](https://x.com/elonmusk/status/2108143202650013735)
 
 ---
 
