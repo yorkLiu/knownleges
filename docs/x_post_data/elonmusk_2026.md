@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3132 条推文
+> 📊 推文存档 - 共 3140 条推文
 
 ---
 
@@ -948,8 +948,6 @@ RT @cb_doge: India needs @Starlink 🇮🇳
 
 🇮🇳  Starlink will help the least-served in India  🇮🇳
 
-[查看原文](https://x.com/elonmusk/status/2108177695271948445)
-
 ---
 
 ## 2026-10-08 20:51:34
@@ -964,8 +962,6 @@ Anyone can generate personalized music with Grok Bot.
 
 This isn't just a post for me. It's…
 
-[查看原文](https://x.com/elonmusk/status/2108178487337169354)
-
 ---
 
 ## 2026-10-08 20:55:11
@@ -975,8 +971,6 @@ This isn't just a post for me. It's…
 **内容**:
 
 Starlink provides Internet connectivity to the least-served, enabling self-education and prosperity by giving people access to sell their products worldwide!
-
-[查看原文](https://x.com/elonmusk/status/2108179398700757378)
 
 ---
 
@@ -989,8 +983,6 @@ Starlink provides Internet connectivity to the least-served, enabling self-educa
 People who oppose @Starlink hurt only the least-served. 
 
 The wealthy or those living in large cities already have good Internet, so they don’t understand.
-
-[查看原文](https://x.com/elonmusk/status/2108180318842736942)
 
 ---
 
@@ -1006,7 +998,111 @@ We should listen to him more about robots, money, and the woke mind virus.
 
 His f…
 
-[查看原文](https://x.com/elonmusk/status/2108180607302025605)
+---
+
+## 2026-10-08 21:06:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @thesimaximalist: POV: Elon and Optimus just logged into WoW For Ever💀
+
+Stormwind was not ready. ⚔️🦾
+
+Made with one prompt on @grok Imag…
+
+[查看原文](https://x.com/elonmusk/status/2108182362756444255)
+
+---
+
+## 2026-10-08 21:08:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink coming to KLM!
+
+[查看原文](https://x.com/elonmusk/status/2108182754969928184)
+
+---
+
+## 2026-10-08 21:17:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @moneycontrolcom: 🚨 #WATCH | Starlink is ready to serve India, says VP Lauren Dreyer
+
+Speaking at India Mobile Congress, SpaceX VP of St…
+
+[查看原文](https://x.com/elonmusk/status/2108185025074368613)
+
+---
+
+## 2026-10-08 21:19:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes, they are traitors aiding an invasion and they deserve the fate of traitors
+
+[查看原文](https://x.com/elonmusk/status/2108185484425863265)
+
+---
+
+## 2026-10-08 21:19:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @StateDept: Western civilization is worth defending. https://t.co/yuBiK1yIrD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM22rHnCE4bdveaxYQLSuIjkghbthYAALyEmsbAvY5VhaXM2BXGy7cAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108185571071807718)
+
+---
+
+## 2026-10-08 21:25:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink is licensed in over 165 countries and has spent five years complying with every single law and requirement of the government of India, so why still no license? 
+
+Is Ambani the real boss of India?
+
+[查看原文](https://x.com/elonmusk/status/2108187065687118261)
+
+---
+
+## 2026-10-08 21:31:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nitinmeshram_: BSNL’s slogan was “Connecting India,” and Reliance famously said, “Kar Lo Duniya Mutthi Mein” (“Hold the world in your f…
+
+[查看原文](https://x.com/elonmusk/status/2108188487384011050)
+
+---
+
+## 2026-10-08 21:32:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robinren: First time on a @united transatlantic flight equipped with free @Starlink service. The experience is INCREDIBLE. Thank you @S…
+
+[查看原文](https://x.com/elonmusk/status/2108188722634100983)
 
 ---
 
