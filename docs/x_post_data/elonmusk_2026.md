@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3180 条推文
+> 📊 推文存档 - 共 3191 条推文
 
 ---
 
@@ -233,8 +233,6 @@ https://t.co/Efbxq5vqTm
 
 RT @KanekoaTheGreat: I asked Grok @Bot to turn President Trump awarding Elon Musk the National Medal of Science into a vertical short with…
 
-[查看原文](https://x.com/elonmusk/status/2108294140773667220)
-
 ---
 
 ## 2026-10-09 04:32:21
@@ -247,8 +245,6 @@ RT @JessePeltan: The entire U.S. is 500 GW (average).
 
 That's how crazy these numbers are.
 
-[查看原文](https://x.com/elonmusk/status/2108294449961046320)
-
 ---
 
 ## 2026-10-09 04:33:01
@@ -258,8 +254,6 @@ That's how crazy these numbers are.
 **内容**:
 
 Automatically used by Grok @Bot
-
-[查看原文](https://x.com/elonmusk/status/2108294618597216470)
 
 ---
 
@@ -271,8 +265,6 @@ Automatically used by Grok @Bot
 
 Give Grok @Bot your toughest problems
 
-[查看原文](https://x.com/elonmusk/status/2108294950492553464)
-
 ---
 
 ## 2026-10-09 04:39:11
@@ -282,8 +274,6 @@ Give Grok @Bot your toughest problems
 **内容**:
 
 This is the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America
-
-[查看原文](https://x.com/elonmusk/status/2108296168094544099)
 
 ---
 
@@ -295,8 +285,6 @@ This is the last critical piece of the spectrum puzzle needed for SpaceX to prov
 
 RT @mikepat711: LOL. Grok Bot is legit a jaw through the floor AI moment all over again after yesterday’s changes. Reminds me of my first t…
 
-[查看原文](https://x.com/elonmusk/status/2108296429462819030)
-
 ---
 
 ## 2026-10-09 04:41:03
@@ -306,8 +294,6 @@ RT @mikepat711: LOL. Grok Bot is legit a jaw through the floor AI moment all ove
 **内容**:
 
 Very big deal
-
-[查看原文](https://x.com/elonmusk/status/2108296638263652416)
 
 ---
 
@@ -321,7 +307,151 @@ And Grok @Bot only gets better from here 🚀 🚀
 
 You could build an entire company made of Grok Bots!
 
-[查看原文](https://x.com/elonmusk/status/2108298090755031284)
+---
+
+## 2026-10-09 04:52:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX just officially announced two massive milestones for Starlink Mobile
+
+Starlink is on its way to becoming a major mobile…
+
+[查看原文](https://x.com/elonmusk/status/2108299408588849248)
+
+---
+
+## 2026-10-09 04:52:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Why SpaceX acquiring 800 MHz spectrum is a BIG deal for Starlink Mobile
+
+Lower frequencies travel farther and penetrate walls…
+
+[查看原文](https://x.com/elonmusk/status/2108299593515467159)
+
+---
+
+## 2026-10-09 04:53:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @techdevnotes: SpaceX has released an update: Building the World's Most Advanced Mobile Network https://t.co/ZZytau6thz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM5GrICLHGAAEzTac_88uumScircMbhgACiRNrGzUmQVZ06shThVbSFwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108299836126801979)
+
+---
+
+## 2026-10-09 04:55:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: We announced an agreement to acquire a nationwide low-band spectrum license portfolio that will pave the way for @Starlink to b…
+
+[查看原文](https://x.com/elonmusk/status/2108300263425720381)
+
+---
+
+## 2026-10-09 04:56:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives during natural disasters
+
+[查看原文](https://x.com/elonmusk/status/2108300437799702562)
+
+---
+
+## 2026-10-09 04:57:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @C_3C_3: 505 days after Elon’s decline and fall…
+
+He’s the World’s first trillionaire and National Medal of Science Award winner.
+
+The M…
+
+[查看原文](https://x.com/elonmusk/status/2108300805010784339)
+
+---
+
+## 2026-10-09 04:58:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: Is anyone really surprised that Reid Hoffman is backing Talarico?
+
+[查看原文](https://x.com/elonmusk/status/2108300997281956175)
+
+---
+
+## 2026-10-09 04:58:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: Democrat Nominee for U.S. Senate in Texas James Talarico: “I don't care where you get the revenue, I don't care what taxes you…
+
+[查看原文](https://x.com/elonmusk/status/2108301048129667241)
+
+---
+
+## 2026-10-09 04:59:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Remember when some people said Tesla's vision only robotaxis wouldn't work at night and in the rain?
+
+Welp, it turns out…
+
+[查看原文](https://x.com/elonmusk/status/2108301193219133873)
+
+---
+
+## 2026-10-09 04:59:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+As easy as asking
+
+[查看原文](https://x.com/elonmusk/status/2108301316451922073)
+
+---
+
+## 2026-10-09 05:09:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TrungTPhan: doing deep research with Grok Bot’s new X integration https://t.co/unsQuUEXkV
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM42rICK4Ca_sCVqA6wNQDsWgD3Xl_AAKIE2sbNSZBVqW06mMUVNFfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108303850650443930)
 
 ---
 
