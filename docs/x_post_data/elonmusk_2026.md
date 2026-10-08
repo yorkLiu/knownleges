@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3126 条推文
+> 📊 推文存档 - 共 3127 条推文
 
 ---
 
@@ -914,8 +914,6 @@ Starlink will be of great help to areas of India that have bad or no Internet an
 
 No country has perfect coverage, including America, but Starlink can fill in the coverage gaps for those who most need it.
 
-[查看原文](https://x.com/elonmusk/status/2108144416175398920)
-
 ---
 
 ## 2026-10-08 18:57:58
@@ -926,7 +924,21 @@ No country has perfect coverage, including America, but Starlink can fill in the
 
 RT @KatieMiller: “Speaking at an industry conference in New Delhi on Wednesday, Lauren Dreyer, vice president of Starlink business operatio…
 
-[查看原文](https://x.com/elonmusk/status/2108149902387589549)
+---
+
+## 2026-10-08 19:14:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: India needs @Starlink 🇮🇳
+
+• 11,256 of India’s listed villages still lacked 4G coverage as of May 2026.
+
+• India had 1.093 bill…
+
+[查看原文](https://x.com/elonmusk/status/2108154146818048084)
 
 ---
 
