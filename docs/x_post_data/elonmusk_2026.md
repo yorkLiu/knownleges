@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3206 条推文
+> 📊 推文存档 - 共 3208 条推文
 
 ---
 
@@ -562,10 +562,6 @@ RT @C_3C_3: Reid Hoffman is James Talarico's top donor.
 
 Yes, this Reid Hoffman.👇 https://t.co/aVroy8Lz6c
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM5mrIHpQNzC6m6XxdAYXmLssbE5u4AAKsE2sbNSZBVoAaq8FkIbgSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108323124685230302)
-
 ---
 
 ## 2026-10-09 06:29:20
@@ -576,8 +572,6 @@ Yes, this Reid Hoffman.👇 https://t.co/aVroy8Lz6c
 
 RT @paulg: Talked to someone recently who knows a lot about defense tech, and he made an interesting point: the test of most military hardw…
 
-[查看原文](https://x.com/elonmusk/status/2108323886865555666)
-
 ---
 
 ## 2026-10-09 06:39:47
@@ -587,8 +581,6 @@ RT @paulg: Talked to someone recently who knows a lot about defense tech, and he
 **内容**:
 
 Btw, this would ACTUALLY work!!
-
-[查看原文](https://x.com/elonmusk/status/2108326517323248060)
 
 ---
 
@@ -602,7 +594,37 @@ RT @harleyf: Shopify now connects to @grok and @bot. One more place merchants al
 
 Solo founder no…
 
-[查看原文](https://x.com/elonmusk/status/2108326822697902170)
+---
+
+## 2026-10-09 07:25:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 ELON MUSK ON INTERNET AND POVERTY
+
+Elon said the single biggest thing you can do to lift people out of poverty is give them…
+
+[查看原文](https://x.com/elonmusk/status/2108338048186695685)
+
+---
+
+## 2026-10-09 07:41:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Gfilche: In the Cybercab I’m at peace 😌
+
+Watching YouTube videos, lounging 
+
+I don’t want the ride to end 🤣 so relaxed 
+
+@robotaxi &amp; @t…
+
+[查看原文](https://x.com/elonmusk/status/2108341931499536698)
 
 ---
 
