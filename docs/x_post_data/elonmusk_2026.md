@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3127 条推文
+> 📊 推文存档 - 共 3132 条推文
 
 ---
 
@@ -938,7 +938,75 @@ RT @cb_doge: India needs @Starlink 🇮🇳
 
 • India had 1.093 bill…
 
-[查看原文](https://x.com/elonmusk/status/2108154146818048084)
+---
+
+## 2026-10-08 20:48:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🇮🇳  Starlink will help the least-served in India  🇮🇳
+
+[查看原文](https://x.com/elonmusk/status/2108177695271948445)
+
+---
+
+## 2026-10-08 20:51:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: It's time to face the fact.
+
+Anyone can generate personalized music with Grok Bot.
+
+This isn't just a post for me. It's…
+
+[查看原文](https://x.com/elonmusk/status/2108178487337169354)
+
+---
+
+## 2026-10-08 20:55:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink provides Internet connectivity to the least-served, enabling self-education and prosperity by giving people access to sell their products worldwide!
+
+[查看原文](https://x.com/elonmusk/status/2108179398700757378)
+
+---
+
+## 2026-10-08 20:58:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+People who oppose @Starlink hurt only the least-served. 
+
+The wealthy or those living in large cities already have good Internet, so they don’t understand.
+
+[查看原文](https://x.com/elonmusk/status/2108180318842736942)
+
+---
+
+## 2026-10-08 20:59:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Elon is a visionary from a long, long time.
+
+We should listen to him more about robots, money, and the woke mind virus.
+
+His f…
+
+[查看原文](https://x.com/elonmusk/status/2108180607302025605)
 
 ---
 
