@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3092 条推文
+> 📊 推文存档 - 共 3103 条推文
 
 ---
 
@@ -483,8 +483,6 @@ Grok @Bot is like hiring an extremely competent employee!
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2108048212233785664)
-
 ---
 
 ## 2026-10-08 12:17:49
@@ -497,8 +495,6 @@ RT @venturetwins: Holy shit we have meme search on X now!
 
 Grok @bot's new X scan feature is insanely good if you give it an image or a sti…
 
-[查看原文](https://x.com/elonmusk/status/2108049200470532602)
-
 ---
 
 ## 2026-10-08 12:20:18
@@ -509,8 +505,6 @@ Grok @bot's new X scan feature is insanely good if you give it an image or a sti
 
 Grok @Bot improves literally every day
 
-[查看原文](https://x.com/elonmusk/status/2108049822658052404)
-
 ---
 
 ## 2026-10-08 12:21:22
@@ -520,8 +514,6 @@ Grok @Bot improves literally every day
 **内容**:
 
 Yes
-
-[查看原文](https://x.com/elonmusk/status/2108050093916164568)
 
 ---
 
@@ -535,8 +527,6 @@ RT @gailalfaratx: Elon Musk spoke these words 14 years ago.
 
 "Manufacturing is building the machine that makes the machine. If you think t…
 
-[查看原文](https://x.com/elonmusk/status/2108050298505990362)
-
 ---
 
 ## 2026-10-08 12:23:32
@@ -549,8 +539,6 @@ RT @Alex_J_Mandel: Two biggest life hacks today:
 1) FSD
 2) @bot
 
-[查看原文](https://x.com/elonmusk/status/2108050637766492433)
-
 ---
 
 ## 2026-10-08 12:27:24
@@ -561,7 +549,150 @@ RT @Alex_J_Mandel: Two biggest life hacks today:
 
 It’s that good @Bot
 
-[查看原文](https://x.com/elonmusk/status/2108051613160034340)
+---
+
+## 2026-10-08 12:38:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting analysis
+
+[查看原文](https://x.com/elonmusk/status/2108054434936926210)
+
+---
+
+## 2026-10-08 12:38:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2108054509234622525)
+
+---
+
+## 2026-10-08 12:39:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DimaZeniuk: Starlink’s affordable global internet could help millions by providing access to education and global markets
+
+Reliable con…
+
+[查看原文](https://x.com/elonmusk/status/2108054653665517886)
+
+---
+
+## 2026-10-08 12:40:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://x.com/elonmusk/status/2108054781147148329)
+
+---
+
+## 2026-10-08 12:41:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @romanugarte_: Grok Bot now has X data built in. I've got mine listening for customer feedback, sending me new blog posts that are gaini…
+
+[查看原文](https://x.com/elonmusk/status/2108055045597995366)
+
+---
+
+## 2026-10-08 12:43:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @united: Our fast, free inflight Wi-Fi from Starlink is game-changing. 
+Now it’s time for you to make a change. 
+We’ll match your hard-e…
+
+[查看原文](https://x.com/elonmusk/status/2108055589221744881)
+
+---
+
+## 2026-10-08 12:43:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @davis7: Started out thinking I was gonna make a video on Dots and my issues with them, but kinda ended up just talking about "personal…
+
+[查看原文](https://x.com/elonmusk/status/2108055779622416879)
+
+---
+
+## 2026-10-08 12:46:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s really quite useful 👍 @Bot 
+
+And you can download to your phone:
+
+https://t.co/Efbxq5vYIU
+
+[查看原文](https://x.com/elonmusk/status/2108056430872064383)
+
+---
+
+## 2026-10-08 12:47:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 ELON MUSK ON STARLINK IN INDIA
+
+Elon said they would love to be operating Starlink in India.
+
+It has been nearly four years…
+
+[查看原文](https://x.com/elonmusk/status/2108056735156170980)
+
+---
+
+## 2026-10-08 12:58:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ai_for_success: Grok Bot is crazy, man. You can claim your email with literally one click. I just did it.
+And I also set up cross-chann…
+
+[查看原文](https://x.com/elonmusk/status/2108059532362465671)
+
+---
+
+## 2026-10-08 12:59:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wmorrill3: Several Cybertruck owners in this thread sharing the same sentiment
+
+[查看原文](https://x.com/elonmusk/status/2108059585693286800)
 
 ---
 

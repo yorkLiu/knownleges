@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 414 条推文
+> 📊 推文存档 - 共 415 条推文
 
 ---
 
@@ -46,9 +46,19 @@ tags: ["2026"]
 
 一夜之间变天了，他娘的，太乱了。 https://t.co/7X2TNQbPwm
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM12rHG-9tlzyJ7WarzpR_FinQhGKgAAKWEWsbAvY5VpnVpxTKaANVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2108050230298247271)
+## 2026-10-08 12:48:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+一个人的认知与财富不匹配的时候财富就会流向华为 https://t.co/F98O6uysAZ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM2GrHIz5Fd84xG11yLSGOD454AovwAAKgEWsbAvY5VgNoo6FxTNrUAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2108056970620252564)
 
 ---
 
