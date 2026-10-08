@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3103 条推文
+> 📊 推文存档 - 共 3112 条推文
 
 ---
 
@@ -559,8 +559,6 @@ It’s that good @Bot
 
 Interesting analysis
 
-[查看原文](https://x.com/elonmusk/status/2108054434936926210)
-
 ---
 
 ## 2026-10-08 12:38:55
@@ -570,8 +568,6 @@ Interesting analysis
 **内容**:
 
 Yes
-
-[查看原文](https://x.com/elonmusk/status/2108054509234622525)
 
 ---
 
@@ -585,8 +581,6 @@ RT @DimaZeniuk: Starlink’s affordable global internet could help millions by p
 
 Reliable con…
 
-[查看原文](https://x.com/elonmusk/status/2108054653665517886)
-
 ---
 
 ## 2026-10-08 12:40:00
@@ -597,8 +591,6 @@ Reliable con…
 
 Exactly
 
-[查看原文](https://x.com/elonmusk/status/2108054781147148329)
-
 ---
 
 ## 2026-10-08 12:41:03
@@ -608,8 +600,6 @@ Exactly
 **内容**:
 
 RT @romanugarte_: Grok Bot now has X data built in. I've got mine listening for customer feedback, sending me new blog posts that are gaini…
-
-[查看原文](https://x.com/elonmusk/status/2108055045597995366)
 
 ---
 
@@ -623,8 +613,6 @@ RT @united: Our fast, free inflight Wi-Fi from Starlink is game-changing.
 Now it’s time for you to make a change. 
 We’ll match your hard-e…
 
-[查看原文](https://x.com/elonmusk/status/2108055589221744881)
-
 ---
 
 ## 2026-10-08 12:43:58
@@ -634,8 +622,6 @@ We’ll match your hard-e…
 **内容**:
 
 RT @davis7: Started out thinking I was gonna make a video on Dots and my issues with them, but kinda ended up just talking about "personal…
-
-[查看原文](https://x.com/elonmusk/status/2108055779622416879)
 
 ---
 
@@ -651,8 +637,6 @@ And you can download to your phone:
 
 https://t.co/Efbxq5vYIU
 
-[查看原文](https://x.com/elonmusk/status/2108056430872064383)
-
 ---
 
 ## 2026-10-08 12:47:46
@@ -667,8 +651,6 @@ Elon said they would love to be operating Starlink in India.
 
 It has been nearly four years…
 
-[查看原文](https://x.com/elonmusk/status/2108056735156170980)
-
 ---
 
 ## 2026-10-08 12:58:53
@@ -680,8 +662,6 @@ It has been nearly four years…
 RT @ai_for_success: Grok Bot is crazy, man. You can claim your email with literally one click. I just did it.
 And I also set up cross-chann…
 
-[查看原文](https://x.com/elonmusk/status/2108059532362465671)
-
 ---
 
 ## 2026-10-08 12:59:05
@@ -692,7 +672,127 @@ And I also set up cross-chann…
 
 RT @wmorrill3: Several Cybertruck owners in this thread sharing the same sentiment
 
-[查看原文](https://x.com/elonmusk/status/2108059585693286800)
+---
+
+## 2026-10-08 12:59:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: Ask any car company if their car can drive you through a city.
+
+Dozens of them will say yes in the ad.
+
+One of them mean…
+
+[查看原文](https://x.com/elonmusk/status/2108059756849938808)
+
+---
+
+## 2026-10-08 13:03:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Bounty of Beauty
+
+[查看原文](https://x.com/elonmusk/status/2108060588748497083)
+
+---
+
+## 2026-10-08 13:03:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Scobleizer: I told you this years ago.
+
+Fun watching others join the tribe.
+
+Be in Austin this weekend to hang out with the tribe.
+
+[查看原文](https://x.com/elonmusk/status/2108060760731754849)
+
+---
+
+## 2026-10-08 13:05:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @trevin: Huge differentiator for Grok @bot here because it'll give you access to search, read and monitor @X for free.
+
+So one thing you…
+
+[查看原文](https://x.com/elonmusk/status/2108061083499905428)
+
+---
+
+## 2026-10-08 13:08:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Perspicacious path to a petawatt/year
+
+[查看原文](https://x.com/elonmusk/status/2108061974751826055)
+
+---
+
+## 2026-10-08 13:08:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JensenHuang: Awesome day, @satyanadella! 
+
+Windows sparked a platform shift that created a new industry for NVIDIA. Then we invented pr…
+
+[查看原文](https://x.com/elonmusk/status/2108062018490249347)
+
+---
+
+## 2026-10-08 13:09:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Google: Project Suncatcher is our moonshot exploring whether we can one day host machine learning infrastructure in space 🚀
+
+To do so,…
+
+[查看原文](https://x.com/elonmusk/status/2108062258618048625)
+
+---
+
+## 2026-10-08 13:11:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Seriously
+
+[查看原文](https://x.com/elonmusk/status/2108062702778368023)
+
+---
+
+## 2026-10-08 13:28:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+[查看原文](https://x.com/elonmusk/status/2108066901679034686)
 
 ---
 
