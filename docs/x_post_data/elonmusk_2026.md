@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3112 条推文
+> 📊 推文存档 - 共 3118 条推文
 
 ---
 
@@ -686,8 +686,6 @@ Dozens of them will say yes in the ad.
 
 One of them mean…
 
-[查看原文](https://x.com/elonmusk/status/2108059756849938808)
-
 ---
 
 ## 2026-10-08 13:03:04
@@ -697,8 +695,6 @@ One of them mean…
 **内容**:
 
 Bounty of Beauty
-
-[查看原文](https://x.com/elonmusk/status/2108060588748497083)
 
 ---
 
@@ -714,8 +710,6 @@ Fun watching others join the tribe.
 
 Be in Austin this weekend to hang out with the tribe.
 
-[查看原文](https://x.com/elonmusk/status/2108060760731754849)
-
 ---
 
 ## 2026-10-08 13:05:02
@@ -728,8 +722,6 @@ RT @trevin: Huge differentiator for Grok @bot here because it'll give you access
 
 So one thing you…
 
-[查看原文](https://x.com/elonmusk/status/2108061083499905428)
-
 ---
 
 ## 2026-10-08 13:08:35
@@ -739,8 +731,6 @@ So one thing you…
 **内容**:
 
 Perspicacious path to a petawatt/year
-
-[查看原文](https://x.com/elonmusk/status/2108061974751826055)
 
 ---
 
@@ -754,8 +744,6 @@ RT @JensenHuang: Awesome day, @satyanadella!
 
 Windows sparked a platform shift that created a new industry for NVIDIA. Then we invented pr…
 
-[查看原文](https://x.com/elonmusk/status/2108062018490249347)
-
 ---
 
 ## 2026-10-08 13:09:43
@@ -768,8 +756,6 @@ RT @Google: Project Suncatcher is our moonshot exploring whether we can one day 
 
 To do so,…
 
-[查看原文](https://x.com/elonmusk/status/2108062258618048625)
-
 ---
 
 ## 2026-10-08 13:11:28
@@ -779,8 +765,6 @@ To do so,…
 **内容**:
 
 Seriously
-
-[查看原文](https://x.com/elonmusk/status/2108062702778368023)
 
 ---
 
@@ -792,7 +776,83 @@ Seriously
 
 Grok Imagine
 
-[查看原文](https://x.com/elonmusk/status/2108066901679034686)
+---
+
+## 2026-10-08 13:44:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GeniusGTX: This is Elon Musk in 2003, after selling his first company Zip2 for $307M.
+
+He told a Stanford lecture hall exactly how he b…
+
+[查看原文](https://x.com/elonmusk/status/2108071024050782505)
+
+---
+
+## 2026-10-08 13:45:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can manage your finances
+
+[查看原文](https://x.com/elonmusk/status/2108071231413198857)
+
+---
+
+## 2026-10-08 13:47:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2108071705122111819)
+
+---
+
+## 2026-10-08 13:48:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Founder_Tribune: Elon Musk: "Instead of teaching to the problem, currently people teach to the tool. It would be like having a course o…
+
+[查看原文](https://x.com/elonmusk/status/2108071986215657861)
+
+---
+
+## 2026-10-08 13:51:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 ELON MUSK ON WHY X IS THE BEST PLATFORM
+
+Elon explained that if you want to reach senior decision makers, the most influent…
+
+[查看原文](https://x.com/elonmusk/status/2108072878281306367)
+
+---
+
+## 2026-10-08 13:53:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot yourself 
+
+It can change your life
+
+[查看原文](https://x.com/elonmusk/status/2108073390821294432)
 
 ---
 
