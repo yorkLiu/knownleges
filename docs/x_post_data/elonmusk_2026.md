@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3218 条推文
+> 📊 推文存档 - 共 3220 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @cb_doge: BREAKING: SpaceX donated nearly $500,000 to Anderson-Shiro CISD in Texas for 3 new school buses with three-point seatbelts, ca…
 
-[查看原文](https://x.com/elonmusk/status/2108595327091524090)
-
 ---
 
 ## 2026-10-10 00:36:14
@@ -31,7 +29,33 @@ RT @cb_doge: BREAKING: SpaceX donated nearly $500,000 to Anderson-Shiro CISD in 
 
 Internet connectivity enables education &amp; prosperity
 
-[查看原文](https://x.com/elonmusk/status/2108597418065613301)
+---
+
+## 2026-10-10 01:03:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Dear Prime Minister Ambani,
+
+Please accept my humble apologies for not realizing that you are the real boss of India. 
+
+Naturally, you would prefer to maintain your monopolistic exploitation of the great people of India, but would you nonetheless consider allowing Starlink to
+
+[查看原文](https://x.com/elonmusk/status/2108604227643719745)
+
+---
+
+## 2026-10-10 01:06:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Also, Starlink has proven to be essential for saving lives during natural disasters throughout the world, when all other communications systems have failed, so you would also be helping save men, women and children throughout India. 🇮🇳
+
+[查看原文](https://x.com/elonmusk/status/2108605079746167163)
 
 ---
 
