@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3214 条推文
+> 📊 推文存档 - 共 3215 条推文
 
 ---
 
@@ -688,7 +688,19 @@ RT @yunta_tsai: Tesla Super Intelligence is the only one dedicated to solving re
 
 😑
 
-[查看原文](https://x.com/elonmusk/status/2108462793112371679)
+---
+
+## 2026-10-09 21:08:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GavinSBaker: Why open-weight models that compress margins at the model layer are net positive for AI infra demand, exhibit 1001.
+
+An op…
+
+[查看原文](https://x.com/elonmusk/status/2108545259403952438)
 
 ---
 
