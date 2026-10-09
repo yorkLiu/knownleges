@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3210 条推文
+> 📊 推文存档 - 共 3213 条推文
 
 ---
 
@@ -648,7 +648,41 @@ The recent update with native X monitoring opens up a ton of new capabilities!
 
 My 4 favorite routine…
 
-[查看原文](https://x.com/elonmusk/status/2108354371960578480)
+---
+
+## 2026-10-09 11:18:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Using Grok @Bot is like hiring a super smart, hard-working person for peanuts
+
+[查看原文](https://x.com/elonmusk/status/2108396588544745887)
+
+---
+
+## 2026-10-09 11:19:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’re just going to have @Grok Bots manage Grokipedia
+
+[查看原文](https://x.com/elonmusk/status/2108396888160387541)
+
+---
+
+## 2026-10-09 11:19:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: Tesla Super Intelligence is the only one dedicated to solving real-world intelligence, from large-scale bits to atoms. http…
+
+[查看原文](https://x.com/elonmusk/status/2108396951246958649)
 
 ---
 
