@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3215 条推文
+> 📊 推文存档 - 共 3216 条推文
 
 ---
 
@@ -700,7 +700,19 @@ RT @GavinSBaker: Why open-weight models that compress margins at the model layer
 
 An op…
 
-[查看原文](https://x.com/elonmusk/status/2108545259403952438)
+---
+
+## 2026-10-09 22:33:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslajapan: テスラ家庭用蓄電池 Powerwall 3 は、水深0.6mまで浸水対応🐟 https://t.co/y37uGhwkrj
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM7GrI_POCkwABZwReL-sOENCgjFt0NwACtBNrGzUmSVZ6R5ArlXaBXgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108566520787833159)
 
 ---
 
