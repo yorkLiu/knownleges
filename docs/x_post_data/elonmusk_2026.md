@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3208 条推文
+> 📊 推文存档 - 共 3209 条推文
 
 ---
 
@@ -606,8 +606,6 @@ RT @AsFoundX: 🚨 ELON MUSK ON INTERNET AND POVERTY
 
 Elon said the single biggest thing you can do to lift people out of poverty is give them…
 
-[查看原文](https://x.com/elonmusk/status/2108338048186695685)
-
 ---
 
 ## 2026-10-09 07:41:02
@@ -624,7 +622,19 @@ I don’t want the ride to end 🤣 so relaxed
 
 @robotaxi &amp; @t…
 
-[查看原文](https://x.com/elonmusk/status/2108341931499536698)
+---
+
+## 2026-10-09 08:17:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stepango: One of my favorite and totally underrated @bot features is canvas.
+
+Just ask your Chief of Staff to present you an updates on…
+
+[查看原文](https://x.com/elonmusk/status/2108351149103271986)
 
 ---
 
