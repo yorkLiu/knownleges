@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 89 条推文
+> 📊 推文存档 - 共 90 条推文
 
 ---
 
@@ -35,9 +35,20 @@ tags: ["2026"]
 
 后续重要观察点 https://t.co/bfEriu5q9q
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM6GrIZu2KtYG1GmujE0q5gdYmpPv8AAIJEmsbNSZJVn_BVzzDY7gnAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2108400965829448094)
+## 2026-10-09 14:46:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看了你们这几天的留言，感慨，感慨~
+
+没止损：新高了，不按纪律，说一套做一套。
+止损了：亏了吧，再坚持2天就回来了。
+
+[查看原文](https://x.com/iiiinvest/status/2108449123280241011)
 
 ---
 
