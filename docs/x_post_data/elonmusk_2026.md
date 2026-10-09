@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3220 条推文
+> 📊 推文存档 - 共 3225 条推文
 
 ---
 
@@ -43,8 +43,6 @@ Please accept my humble apologies for not realizing that you are the real boss o
 
 Naturally, you would prefer to maintain your monopolistic exploitation of the great people of India, but would you nonetheless consider allowing Starlink to
 
-[查看原文](https://x.com/elonmusk/status/2108604227643719745)
-
 ---
 
 ## 2026-10-10 01:06:41
@@ -55,7 +53,67 @@ Naturally, you would prefer to maintain your monopolistic exploitation of the gr
 
 Also, Starlink has proven to be essential for saving lives during natural disasters throughout the world, when all other communications systems have failed, so you would also be helping save men, women and children throughout India. 🇮🇳
 
-[查看原文](https://x.com/elonmusk/status/2108605079746167163)
+---
+
+## 2026-10-10 01:21:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2108608762856800302)
+
+---
+
+## 2026-10-10 01:23:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Elon Musk takes aim at Mukesh Ambani, calling him “Prime Minister Ambani” and asking him to let Starlink compete in…
+
+[查看原文](https://x.com/elonmusk/status/2108609316286529861)
+
+---
+
+## 2026-10-10 01:27:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Grok Bot now has its own email.
+
+Bot can use it to sign up for services, contact businesses for you, or schedule time with someone…
+
+[查看原文](https://x.com/elonmusk/status/2108610275041562862)
+
+---
+
+## 2026-10-10 01:37:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can now set up its own email
+
+[查看原文](https://x.com/elonmusk/status/2108612939842511217)
+
+---
+
+## 2026-10-10 01:43:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2108614272112525781)
 
 ---
 
