@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 419 条推文
+> 📊 推文存档 - 共 420 条推文
 
 ---
 
@@ -19,9 +19,22 @@ tags: ["2026"]
 
 做空的麻了，全线暴跌 https://t.co/KTHoqHtmX7
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM32rH1g23Ny6hpQ9B3cwy94Cu5rkyAAJIE2sbAvY5Vg6zbw2gZXvaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2108245214708334828)
+## 2026-10-09 16:18:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+openai这个收入不及预期少了200亿美金，市场普跌。
+如果明年anthropic和openai都上市后，营收增长都不及预期，AI肯定会集体崩。
+所以这就是大概率明年黑天鹅式的波澜壮阔的大机会，
+到时候梭哈美债作保证金，然后抄底纳指，要么生要么死。 https://t.co/AyN6cdGQlA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM62rIp3noHN9mAAEtsRzFrZDYloeOrwACmxJrGzUmSVYaptq7cshkeAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2108472042970648741)
 
 ---
 
