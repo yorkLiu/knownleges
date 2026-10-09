@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3225 条推文
+> 📊 推文存档 - 共 3226 条推文
 
 ---
 
@@ -63,8 +63,6 @@ Also, Starlink has proven to be essential for saving lives during natural disast
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2108608762856800302)
-
 ---
 
 ## 2026-10-10 01:23:31
@@ -74,8 +72,6 @@ Yes
 **内容**:
 
 RT @cb_doge: BREAKING: Elon Musk takes aim at Mukesh Ambani, calling him “Prime Minister Ambani” and asking him to let Starlink compete in…
-
-[查看原文](https://x.com/elonmusk/status/2108609316286529861)
 
 ---
 
@@ -89,8 +85,6 @@ RT @bot: Grok Bot now has its own email.
 
 Bot can use it to sign up for services, contact businesses for you, or schedule time with someone…
 
-[查看原文](https://x.com/elonmusk/status/2108610275041562862)
-
 ---
 
 ## 2026-10-10 01:37:55
@@ -100,8 +94,6 @@ Bot can use it to sign up for services, contact businesses for you, or schedule 
 **内容**:
 
 Grok @Bot can now set up its own email
-
-[查看原文](https://x.com/elonmusk/status/2108612939842511217)
 
 ---
 
@@ -113,7 +105,17 @@ Grok @Bot can now set up its own email
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2108614272112525781)
+---
+
+## 2026-10-10 03:54:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+How is Grok @Bot working with your Shopify store?
+
+[查看原文](https://x.com/elonmusk/status/2108647297487720682)
 
 ---
 
