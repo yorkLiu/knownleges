@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3213 条推文
+> 📊 推文存档 - 共 3214 条推文
 
 ---
 
@@ -658,8 +658,6 @@ My 4 favorite routine…
 
 Using Grok @Bot is like hiring a super smart, hard-working person for peanuts
 
-[查看原文](https://x.com/elonmusk/status/2108396588544745887)
-
 ---
 
 ## 2026-10-09 11:19:24
@@ -669,8 +667,6 @@ Using Grok @Bot is like hiring a super smart, hard-working person for peanuts
 **内容**:
 
 We’re just going to have @Grok Bots manage Grokipedia
-
-[查看原文](https://x.com/elonmusk/status/2108396888160387541)
 
 ---
 
@@ -682,7 +678,17 @@ We’re just going to have @Grok Bots manage Grokipedia
 
 RT @yunta_tsai: Tesla Super Intelligence is the only one dedicated to solving real-world intelligence, from large-scale bits to atoms. http…
 
-[查看原文](https://x.com/elonmusk/status/2108396951246958649)
+---
+
+## 2026-10-09 15:41:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😑
+
+[查看原文](https://x.com/elonmusk/status/2108462793112371679)
 
 ---
 
