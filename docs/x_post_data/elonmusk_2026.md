@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3209 条推文
+> 📊 推文存档 - 共 3210 条推文
 
 ---
 
@@ -634,7 +634,21 @@ RT @stepango: One of my favorite and totally underrated @bot features is canvas.
 
 Just ask your Chief of Staff to present you an updates on…
 
-[查看原文](https://x.com/elonmusk/status/2108351149103271986)
+---
+
+## 2026-10-09 08:30:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @rowancheung: I'm GrokBot pilled.
+
+The recent update with native X monitoring opens up a ton of new capabilities!
+
+My 4 favorite routine…
+
+[查看原文](https://x.com/elonmusk/status/2108354371960578480)
 
 ---
 
