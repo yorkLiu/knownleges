@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3260 条推文
+> 📊 推文存档 - 共 3261 条推文
 
 ---
 
@@ -409,8 +409,6 @@ Grok @Bot
 
 RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…
 
-[查看原文](https://x.com/elonmusk/status/2108933144724590962)
-
 ---
 
 ## 2026-10-10 22:50:57
@@ -423,8 +421,6 @@ RT @Rothmus: Ambani runs India’s internet policy.
 
 When Starlink won the telecom license and space approval last year, the government still…
 
-[查看原文](https://x.com/elonmusk/status/2108933309967278292)
-
 ---
 
 ## 2026-10-10 22:53:21
@@ -434,10 +430,6 @@ When Starlink won the telecom license and space approval last year, the governme
 **内容**:
 
 RT @SpaceX: Falcon 9’s first stage lands on LZ-4 https://t.co/GfEeoDu420
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM9mrKVKB6WSR6TR3zcosQFjV9YIosAAJqFmsbr4RQVrJE2uKnQr5jAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108933913804742693)
 
 ---
 
@@ -450,8 +442,6 @@ RT @SpaceX: Falcon 9’s first stage lands on LZ-4 https://t.co/GfEeoDu420
 RT @brivael: Voici mon socle philosophique.
 
 On me demande souvent si je suis croyant. La réponse honnête, c'est que je suis agnostique. Ma…
-
-[查看原文](https://x.com/elonmusk/status/2108934234786422804)
 
 ---
 
@@ -467,8 +457,6 @@ To build the characters for https://t.co/24dGRRSFgE, I sourced inspiration from 
 
 I…
 
-[查看原文](https://x.com/elonmusk/status/2108935780865552649)
-
 ---
 
 ## 2026-10-10 23:01:04
@@ -480,10 +468,6 @@ I…
 RT @teslayoda: Fate loves irony.
 
 Si is silicon on the periodic table. https://t.co/bAEMqWJdEf
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM9WrKVJ6MItioAdti4Xb5Ux_wP4_NAAJpFmsbr4RQVtiO0Gam72GXAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108935855222276474)
 
 ---
 
@@ -498,7 +482,17 @@ RT @SamSokolin: Excited to finally ship this to GA (and sorry for gatekeeping in
 Some of my favorite use cases so far:
  • Grok…
 
-[查看原文](https://x.com/elonmusk/status/2108936693336187103)
+---
+
+## 2026-10-10 23:34:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting piece from CEO of Microsoft
+
+[查看原文](https://x.com/elonmusk/status/2108944224032825761)
 
 ---
 
