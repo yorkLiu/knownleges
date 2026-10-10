@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3264 条推文
+> 📊 推文存档 - 共 3265 条推文
 
 ---
 
@@ -31,7 +31,19 @@ RT @SawyerMerritt: My 76-year-old Mom took her first ever @Tesla Cybercab ride t
 
 "Kudos to the designers and the engine…
 
-[查看原文](https://x.com/elonmusk/status/2108954741674029416)
+---
+
+## 2026-10-11 02:55:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The ridiculous arguments by Ambani’s army of Internet shills make no sense
+
+On the one hand, they say Starlink couldn’t possibly compete with the amazing low prices offered by Ambani’s de facto monopoly in India and then, in the same breath, they essentially claim that Starlink
+
+[查看原文](https://x.com/elonmusk/status/2108994867582095465)
 
 ---
 
