@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3237 条推文
+> 📊 推文存档 - 共 3241 条推文
 
 ---
 
@@ -229,9 +229,57 @@ Obviously
 
 Super Persuasion https://t.co/GfNSAuliXY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM8GrJvoFOtgqhzmK-cvRSElyCqJHIAAL8D2sbNSZRVn14u4UxLdV8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2108775514194473144)
+## 2026-10-10 12:38:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @patrickc: Assorted things I've been mulling over regarding agents in the economy:
+
+• Companies are in some sense the original superinte…
+
+[查看原文](https://x.com/elonmusk/status/2108779212262043997)
+
+---
+
+## 2026-10-10 12:38:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: When @Starlink helped save a woman’s life in rural Kentucky. ❤️
+
+A woman suffered a heart attack during a school basketball to…
+
+[查看原文](https://x.com/elonmusk/status/2108779281656815733)
+
+---
+
+## 2026-10-10 12:50:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good writer
+
+[查看原文](https://x.com/elonmusk/status/2108782131845755156)
+
+---
+
+## 2026-10-10 12:51:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yesssss
+
+[查看原文](https://x.com/elonmusk/status/2108782334980096377)
 
 ---
 
