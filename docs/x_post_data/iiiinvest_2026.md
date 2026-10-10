@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 94 条推文
+> 📊 推文存档 - 共 95 条推文
 
 ---
 
@@ -32,9 +32,19 @@ tags: ["2026"]
 美光空单赚150万了，还没平。
 我现在在想要不要把纳指空单拿回来，再想下！👏🏻 https://t.co/u1nLHON5vs
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM72rJkzj1wBI6Pr0v7P2owo_qwcBwAALGD2sbNSZRVrDY_OkY9DJBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2108724492000477419)
+## 2026-10-10 13:25:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+讲个鱼哥亏损的故事
+
+2014年我研究生毕业进了央企，每个月工资1万左右，基于对赚钱的渴望开始投资，当时了解到定投，然后每个月开始买2000基金。
+
+[查看原文](https://x.com/iiiinvest/status/2108791104631881901)
 
 ---
 
