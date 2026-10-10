@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 93 条推文
+> 📊 推文存档 - 共 94 条推文
 
 ---
 
@@ -21,7 +21,20 @@ tags: ["2026"]
 
 我16年参与港美股10年了，期间经历了16年中概股浪潮，18年港股打新热，20年新能源车井喷，23年币股齐飞，到今年AI硬件爆发。
 
-[查看原文](https://x.com/iiiinvest/status/2108707048380842007)
+---
+
+## 2026-10-10 09:01:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+美光空单赚150万了，还没平。
+我现在在想要不要把纳指空单拿回来，再想下！👏🏻 https://t.co/u1nLHON5vs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM72rJkzj1wBI6Pr0v7P2owo_qwcBwAALGD2sbNSZRVrDY_OkY9DJBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2108724492000477419)
 
 ---
 

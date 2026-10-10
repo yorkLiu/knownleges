@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3231 条推文
+> 📊 推文存档 - 共 3232 条推文
 
 ---
 
@@ -125,8 +125,6 @@ How is Grok @Bot working with your Shopify store?
 
 Grok @Bot can make a sim of anything
 
-[查看原文](https://x.com/elonmusk/status/2108715608846004414)
-
 ---
 
 ## 2026-10-10 08:33:48
@@ -136,10 +134,6 @@ Grok @Bot can make a sim of anything
 **内容**:
 
 https://t.co/DJYynAyO0W
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM7mrJi-EMrWQ2sj8WFcpdRG7Lys87AAK8D2sbNSZRVjN6I9gq9CjTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2108717598196244828)
 
 ---
 
@@ -151,8 +145,6 @@ https://t.co/DJYynAyO0W
 
 RT @Cyborg21: 10 years ago this might have sounded crazy but today I have a Neuralink N1 BCI in my head that allows me to talk without movi…
 
-[查看原文](https://x.com/elonmusk/status/2108717744090669456)
-
 ---
 
 ## 2026-10-10 08:35:13
@@ -162,8 +154,6 @@ RT @Cyborg21: 10 years ago this might have sounded crazy but today I have a Neur
 **内容**:
 
 RT @Starlink: ANATEL just scored a huge win for the people of Brazil by voting to approve Starlink Mobile's full 2 GHz access with our glob…
-
-[查看原文](https://x.com/elonmusk/status/2108717955529990523)
 
 ---
 
@@ -179,7 +169,17 @@ This is the how all process will take place now and into the future.
 
 Deploying…
 
-[查看原文](https://x.com/elonmusk/status/2108718057220653374)
+---
+
+## 2026-10-10 08:58:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Super Intelligent Beauty
+
+[查看原文](https://x.com/elonmusk/status/2108723938578530493)
 
 ---
 
