@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3265 条推文
+> 📊 推文存档 - 共 3267 条推文
 
 ---
 
@@ -43,7 +43,31 @@ The ridiculous arguments by Ambani’s army of Internet shills make no sense
 
 On the one hand, they say Starlink couldn’t possibly compete with the amazing low prices offered by Ambani’s de facto monopoly in India and then, in the same breath, they essentially claim that Starlink
 
-[查看原文](https://x.com/elonmusk/status/2108994867582095465)
+---
+
+## 2026-10-11 04:04:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Elon Musk just dismantled the “Starlink will be unaffordable in India” narrative pushed by Ambani’s internet shills.…
+
+[查看原文](https://x.com/elonmusk/status/2109012248354304350)
+
+---
+
+## 2026-10-11 04:06:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/XOVqKjFXT6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM92rKnAkC6efHTO0PjadrIsF2jEHkAAJxE2sbr4RYVhhNroe0E5O3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2109012639049244981)
 
 ---
 
