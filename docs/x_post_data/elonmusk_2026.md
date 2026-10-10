@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3226 条推文
+> 📊 推文存档 - 共 3231 条推文
 
 ---
 
@@ -115,7 +115,71 @@ True
 
 How is Grok @Bot working with your Shopify store?
 
-[查看原文](https://x.com/elonmusk/status/2108647297487720682)
+---
+
+## 2026-10-10 08:25:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can make a sim of anything
+
+[查看原文](https://x.com/elonmusk/status/2108715608846004414)
+
+---
+
+## 2026-10-10 08:33:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/DJYynAyO0W
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM7mrJi-EMrWQ2sj8WFcpdRG7Lys87AAK8D2sbNSZRVjN6I9gq9CjTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108717598196244828)
+
+---
+
+## 2026-10-10 08:34:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Cyborg21: 10 years ago this might have sounded crazy but today I have a Neuralink N1 BCI in my head that allows me to talk without movi…
+
+[查看原文](https://x.com/elonmusk/status/2108717744090669456)
+
+---
+
+## 2026-10-10 08:35:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: ANATEL just scored a huge win for the people of Brazil by voting to approve Starlink Mobile's full 2 GHz access with our glob…
+
+[查看原文](https://x.com/elonmusk/status/2108717955529990523)
+
+---
+
+## 2026-10-10 08:35:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: Watch @Grok @Bot build Grokipedia LIVE!
+
+This is the how all process will take place now and into the future.
+
+Deploying…
+
+[查看原文](https://x.com/elonmusk/status/2108718057220653374)
 
 ---
 
