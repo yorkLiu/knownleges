@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3261 条推文
+> 📊 推文存档 - 共 3263 条推文
+
+---
+
+## 2026-10-11 00:06:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Electricity production is the best metric for the true strength of any large-scale economy imo
+
+[查看原文](https://x.com/elonmusk/status/2108952286030356925)
 
 ---
 
@@ -492,7 +504,21 @@ Some of my favorite use cases so far:
 
 Interesting piece from CEO of Microsoft
 
-[查看原文](https://x.com/elonmusk/status/2108944224032825761)
+---
+
+## 2026-10-10 23:52:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ericzakariasson: here are 4 grok @bot templates for building on X you can use today:
+- launching
+- threat hunting
+- threat intel
+- X ap…
+
+[查看原文](https://x.com/elonmusk/status/2108948867974594577)
 
 ---
 
