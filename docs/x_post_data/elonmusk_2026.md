@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3236 条推文
+> 📊 推文存档 - 共 3237 条推文
 
 ---
 
@@ -209,8 +209,6 @@ RT @mayemusk: Today, @arthurwallen2 and I were driven by the CyberCab at the @Te
 
 RT @Gwynne_Shotwell: Starlink Mobile is on a role!   Thank you ANATEL and @Baigorri1984 for approving Starlink Mobile’s priority spectrum r…
 
-[查看原文](https://x.com/elonmusk/status/2108761471056515429)
-
 ---
 
 ## 2026-10-10 11:54:10
@@ -221,7 +219,19 @@ RT @Gwynne_Shotwell: Starlink Mobile is on a role!   Thank you ANATEL and @Baigo
 
 Obviously
 
-[查看原文](https://x.com/elonmusk/status/2108768021527613825)
+---
+
+## 2026-10-10 12:23:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Super Persuasion https://t.co/GfNSAuliXY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM8GrJvoFOtgqhzmK-cvRSElyCqJHIAAL8D2sbNSZRVn14u4UxLdV8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2108775514194473144)
 
 ---
 
