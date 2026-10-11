@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 498 条推文
+> 📊 推文存档 - 共 499 条推文
 
 ---
 
@@ -81,8 +81,6 @@ tags: ["2026"]
 
 這不就是「顧頭不顧腚」嗎？
 
-[查看原文](https://x.com/dianzhuXS/status/2109077623104233709)
-
 ---
 
 ## 2026-10-11 08:43:25
@@ -93,7 +91,22 @@ tags: ["2026"]
 
 如果我說這話，會有一堆人來罵我。轉馬斯克的原帖，去罵他吧🤭🤭🤭我的觀點一直沒變，普京是獨裁者是惡魔，澤連斯基是深層政府的小弟也是鬼，俄烏戰爭是本來就不該發生的，【一場奧巴馬政治秀】。關川普鳥事？
 
-[查看原文](https://x.com/dianzhuXS/status/2109082406384984116)
+---
+
+## 2026-10-11 10:08:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+連著三天法會終於圓滿成功
+今天得閒，中午12:30（東九區）
+油管主頻道奇門遁甲解盤直播
+噢耶👏👏👏 https://t.co/IqI0OfEdC3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM-GrK8knb7mAxuPKHnuYd95XDTi9xAAKPE2sbr4RYVpMSxwnPhZNQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2109103850259189818)
 
 ---
 
