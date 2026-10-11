@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3292 条推文
+> 📊 推文存档 - 共 3294 条推文
 
 ---
 
@@ -33,7 +33,29 @@ RT @XFreeze: Jio and Airtel literally dominate the Indian mobile market
 
 TRAI's August 2026 data shows that just these two companies contro…
 
-[查看原文](https://x.com/elonmusk/status/2109343010085278043)
+---
+
+## 2026-10-12 02:24:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Madness
+
+[查看原文](https://x.com/elonmusk/status/2109349433296970035)
+
+---
+
+## 2026-10-12 02:25:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kevinnbass: If this was not true, Talarico's campaign would immediately authorize the release of the records to clear him. The dispute…
+
+[查看原文](https://x.com/elonmusk/status/2109349636452606168)
 
 ---
 
