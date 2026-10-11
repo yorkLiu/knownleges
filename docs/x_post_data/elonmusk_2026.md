@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3279 条推文
+> 📊 推文存档 - 共 3281 条推文
 
 ---
 
@@ -185,7 +185,31 @@ RT @anothercohen: I don't think I know a single person who owns a Tesla and driv
 
 RT @DavidSHolz: Here are my favorite short science fiction stories and omg they're literally so short why haven't you read them already?! s…
 
-[查看原文](https://x.com/elonmusk/status/2109245455586492900)
+---
+
+## 2026-10-11 19:41:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gailalfaratx: Elon Musk is a great dad https://t.co/dVKyX6T1zI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM_GrLewcILv5DIcTK-y2PZwAB_L66zgACjhRrG6-EWFZ3k5XD48Hg8AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2109248013994697184)
+
+---
+
+## 2026-10-11 19:52:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot!
+
+[查看原文](https://x.com/elonmusk/status/2109250878247195075)
 
 ---
 
