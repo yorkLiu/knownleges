@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 420 条推文
+> 📊 推文存档 - 共 421 条推文
+
+---
+
+## 2026-10-11 10:29:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+华为尊界刹车断裂的问题如果不是懂车帝爆料出来，谁敢爆料？以后再爆料就是车主的人命爆料了，最不该喷懂车帝的就是尊界车主。
+刹车这种东西，即使它是几次暴力踩断的，
+但是如果你是尊界车主，开个几年踩踏无数次它老化后的疲劳强度可能也早晚接近新车出场懂车帝的几次暴力踩的效果。 https://t.co/fZPgubV6vD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM-WrK-ZLmybD3uAKaShsYYZxAfIMlAAKcE2sbr4RYVowxEkhMq0ZTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2109109061421826347)
 
 ---
 
