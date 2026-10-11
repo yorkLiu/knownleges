@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3270 条推文
+> 📊 推文存档 - 共 3271 条推文
 
 ---
 
@@ -73,8 +73,6 @@ https://t.co/XOVqKjFXT6
 
 To buy stuff, you can just take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it
 
-[查看原文](https://x.com/elonmusk/status/2109027407185277123)
-
 ---
 
 ## 2026-10-11 05:08:46
@@ -84,8 +82,6 @@ To buy stuff, you can just take a picture of your credit card, drop it in the ch
 **内容**:
 
 RT @elonmusk: @PEoperator @bot Grok will find another way to buy stuff. I just ordered LEGO and Grok bought it from the LEGO website.
-
-[查看原文](https://x.com/elonmusk/status/2109028389852188810)
 
 ---
 
@@ -97,7 +93,17 @@ RT @elonmusk: @PEoperator @bot Grok will find another way to buy stuff. I just o
 
 RT @ggreenwald: Had it not been for Boris Johnson and Victoria Nuland -- who personally forced Zelensky to reject the deal Ukraine and Russ…
 
-[查看原文](https://x.com/elonmusk/status/2109028983299768825)
+---
+
+## 2026-10-11 12:02:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2109132465784930785)
 
 ---
 
