@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3288 条推文
+> 📊 推文存档 - 共 3290 条推文
 
 ---
 
@@ -279,7 +279,32 @@ Please welcome Starlink into the Indian market. Starlink will not put you out of
 
 Cybercab is scaling
 
-[查看原文](https://x.com/elonmusk/status/2109262612303314986)
+---
+
+## 2026-10-11 21:06:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+1. That address has already been doxxed multiple times. 
+2. I don’t live there. That’s where my security team receives mail.
+
+[查看原文](https://x.com/elonmusk/status/2109269410879819885)
+
+---
+
+## 2026-10-11 21:15:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+If you’re a world-class chip design or production engineer, consider joining SpaceX or Tesla. 
+
+How cool would it be to iterate on designs and customize production machines at lightning speed?
+
+[查看原文](https://x.com/elonmusk/status/2109271552378220789)
 
 ---
 
