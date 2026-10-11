@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3272 条推文
+> 📊 推文存档 - 共 3275 条推文
 
 ---
 
@@ -113,7 +113,43 @@ Try Grok @Bot
 
 RT @benjitaylor: SpaceX Super Intelligence just sounds awesome.
 
-[查看原文](https://x.com/elonmusk/status/2109141286926287111)
+---
+
+## 2026-10-11 12:57:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…
+
+[查看原文](https://x.com/elonmusk/status/2109146382087127079)
+
+---
+
+## 2026-10-11 13:03:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RapidResponse47: .@POTUS: "He should have an election... President Zelensky could've solved this war and he could've made a deal many t…
+
+[查看原文](https://x.com/elonmusk/status/2109147762977820991)
+
+---
+
+## 2026-10-11 13:03:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk in dad mode. ♥️ https://t.co/0sy286NJ6y
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM-mrLHeD_nLHBlpF8t06_DFD5FSurAAILFGsbr4RYVnu4m_TxQxEXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2109147965537333266)
 
 ---
 
