@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3278 条推文
+> 📊 推文存档 - 共 3279 条推文
 
 ---
 
@@ -155,8 +155,6 @@ RT @cb_doge: Nearly one in three Indian schools lacked internet access in the 20
 
 The Education Ministry’s UDISE+ repor…
 
-[查看原文](https://x.com/elonmusk/status/2109154098079535390)
-
 ---
 
 ## 2026-10-11 13:35:19
@@ -166,10 +164,6 @@ The Education Ministry’s UDISE+ repor…
 **内容**:
 
 I just asked Grok @Bot to research the most fun Lego Star Wars kits for young kids and order them. As easy as that. https://t.co/5IKVoqvuhb
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM-2rLJS8eiITXiDqD_HJKpUg-W0NWAAIUFGsbr4RYVhQhLLBZRekDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2109155867983786382)
 
 ---
 
@@ -181,7 +175,17 @@ I just asked Grok @Bot to research the most fun Lego Star Wars kits for young ki
 
 RT @anothercohen: I don't think I know a single person who owns a Tesla and drives anymore. They use full self driving 90%+ of the time.…
 
-[查看原文](https://x.com/elonmusk/status/2109156083302539363)
+---
+
+## 2026-10-11 19:31:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DavidSHolz: Here are my favorite short science fiction stories and omg they're literally so short why haven't you read them already?! s…
+
+[查看原文](https://x.com/elonmusk/status/2109245455586492900)
 
 ---
 
