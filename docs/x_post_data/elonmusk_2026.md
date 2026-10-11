@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3281 条推文
+> 📊 推文存档 - 共 3287 条推文
 
 ---
 
@@ -195,10 +195,6 @@ RT @DavidSHolz: Here are my favorite short science fiction stories and omg they'
 
 RT @gailalfaratx: Elon Musk is a great dad https://t.co/dVKyX6T1zI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM_GrLewcILv5DIcTK-y2PZwAB_L66zgACjhRrG6-EWFZ3k5XD48Hg8AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2109248013994697184)
-
 ---
 
 ## 2026-10-11 19:52:52
@@ -209,7 +205,83 @@ RT @gailalfaratx: Elon Musk is a great dad https://t.co/dVKyX6T1zI
 
 Try Grok @Bot!
 
-[查看原文](https://x.com/elonmusk/status/2109250878247195075)
+---
+
+## 2026-10-11 20:04:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That’s the address that receives my mail btw, not where I live
+
+[查看原文](https://x.com/elonmusk/status/2109253686652244388)
+
+---
+
+## 2026-10-11 20:08:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can research best prices and buy things for you
+
+[查看原文](https://x.com/elonmusk/status/2109254811254403387)
+
+---
+
+## 2026-10-11 20:11:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try it out!
+
+[查看原文](https://x.com/elonmusk/status/2109255585829159174)
+
+---
+
+## 2026-10-11 20:11:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk just used Grok Bot to shop for his kids
+
+He asked it to research the most fun Lego Star Wars kits for young kids… an…
+
+[查看原文](https://x.com/elonmusk/status/2109255680339394843)
+
+---
+
+## 2026-10-11 20:20:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Nicki Minaj on Grok, "Using Grok Bot made me feel like I was cheating in life!" https://t.co/Fev5soLcPf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM_WrLgllqDUjDTImYZ4FzYAemRmdcAAIbEGsbr4RgVlOGxB8ldHYrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2109257757958238715)
+
+---
+
+## 2026-10-11 20:31:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Dear Prime Minister Ambani,
+
+Please welcome Starlink into the Indian market. Starlink will not put you out of telecom business…
+
+[查看原文](https://x.com/elonmusk/status/2109260604594856260)
 
 ---
 
