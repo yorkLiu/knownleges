@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3296 条推文
+> 📊 推文存档 - 共 3298 条推文
 
 ---
 
@@ -81,7 +81,29 @@ You can use it through your phone effortlessly within minutes:
 
 https://t.co/Efbxq5vqTm
 
-[查看原文](https://x.com/elonmusk/status/2109387553010851887)
+---
+
+## 2026-10-12 07:02:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @karpathy: Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less "tw…
+
+[查看原文](https://x.com/elonmusk/status/2109419440039211499)
+
+---
+
+## 2026-10-12 07:04:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Troubling
+
+[查看原文](https://x.com/elonmusk/status/2109419903623053514)
 
 ---
 
