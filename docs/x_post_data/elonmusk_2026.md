@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3303 条推文
+> 📊 推文存档 - 共 3305 条推文
 
 ---
 
@@ -131,8 +131,6 @@ RT @Baconbrix: Asked Grok Bot to build itself an Apple Vision Pro app. I now hav
 
 Join the Terafab project. The value of the output of this massive structure will rank in the top 20 of country GDPs!
 
-[查看原文](https://x.com/elonmusk/status/2109461555066671311)
-
 ---
 
 ## 2026-10-12 09:52:34
@@ -142,8 +140,6 @@ Join the Terafab project. The value of the output of this massive structure will
 **内容**:
 
 RT @ns123abc: 🚨 Elon Musk agrees with "some of the things Anthropic has said" and warns against "torturing superintelligence" after reading…
-
-[查看原文](https://x.com/elonmusk/status/2109462199332966697)
 
 ---
 
@@ -157,7 +153,29 @@ RT @JamesEsses: 🚨Conversion Practices Bill: Scrutiny Starts Tomorrow🚨
 
 This Bill is an utter nightmare. It criminalises talking. It will ro…
 
-[查看原文](https://x.com/elonmusk/status/2109469041501024552)
+---
+
+## 2026-10-12 10:21:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ianmiles: Starlink has an Indian license, 20 ground stations on Indian soil, and a promise to keep Indian user data in India. What it d…
+
+[查看原文](https://x.com/elonmusk/status/2109469537988960442)
+
+---
+
+## 2026-10-12 10:26:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mayemusk: Thank you @NICKIMINAJ 👏👏💖💖
+
+[查看原文](https://x.com/elonmusk/status/2109470646103093540)
 
 ---
 
