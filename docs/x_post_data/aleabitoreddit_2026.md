@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 491 条推文
+> 📊 推文存档 - 共 492 条推文
+
+---
+
+## 2026-10-13 07:33:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. 
+
+On Memory: 
+
+- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. 
+
+Samsung has LTAs covering 70% of their capacity into 2031 (likely with SK Hynix type price
+
+[查看原文](https://x.com/aleabitoreddit/status/2109789664622322081)
 
 ---
 
