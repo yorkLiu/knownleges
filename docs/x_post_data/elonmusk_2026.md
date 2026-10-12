@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3300 条推文
+> 📊 推文存档 - 共 3303 条推文
 
 ---
 
@@ -111,8 +111,6 @@ Troubling
 
 🤨
 
-[查看原文](https://x.com/elonmusk/status/2109459975474995584)
-
 ---
 
 ## 2026-10-12 09:44:20
@@ -123,7 +121,43 @@ Troubling
 
 RT @Baconbrix: Asked Grok Bot to build itself an Apple Vision Pro app. I now have interactive bots that I can talk to and place around my a…
 
-[查看原文](https://x.com/elonmusk/status/2109460125471715428)
+---
+
+## 2026-10-12 09:50:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Join the Terafab project. The value of the output of this massive structure will rank in the top 20 of country GDPs!
+
+[查看原文](https://x.com/elonmusk/status/2109461555066671311)
+
+---
+
+## 2026-10-12 09:52:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ns123abc: 🚨 Elon Musk agrees with "some of the things Anthropic has said" and warns against "torturing superintelligence" after reading…
+
+[查看原文](https://x.com/elonmusk/status/2109462199332966697)
+
+---
+
+## 2026-10-12 10:19:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JamesEsses: 🚨Conversion Practices Bill: Scrutiny Starts Tomorrow🚨
+
+This Bill is an utter nightmare. It criminalises talking. It will ro…
+
+[查看原文](https://x.com/elonmusk/status/2109469041501024552)
 
 ---
 
