@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3312 条推文
+> 📊 推文存档 - 共 3316 条推文
 
 ---
 
@@ -248,9 +248,61 @@ RT @arctotherium42: Crude steel production in 2025 cartogram. https://t.co/6RqNq
 
 RT @GadSaad: Listen to Elon! https://t.co/867ZJGePsM
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINA2rM9jSoKqoeD2gSsZUyAQw_tY_xAAJgFWsbEKBoVuqxc4M1JjYGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2109659735527952538)
+## 2026-10-12 23:38:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Nearly half a million Indian schools still have no internet. This is exactly the kind of problem Starlink was built to solve…
+
+[查看原文](https://x.com/elonmusk/status/2109670112135405876)
+
+---
+
+## 2026-10-12 23:49:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @IterIntellectus: retatrutide costs about $1/mg
+
+3mg/week is a good enough dose for most people to not be fat. that's $156 PER YEAR!
+
+ov…
+
+[查看原文](https://x.com/elonmusk/status/2109672692760948972)
+
+---
+
+## 2026-10-12 23:51:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NVIDIAAIInfra: Open standards are the foundation for AI factories that can scale from megawatts to gigawatts.
+
+At #OCPSummit26, we cont…
+
+[查看原文](https://x.com/elonmusk/status/2109673221591302626)
+
+---
+
+## 2026-10-12 23:54:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Brace yourselves. Over the next few weeks you are going to see a wave of hatred against Elon Musk unlike anything before.
+
+A f…
+
+[查看原文](https://x.com/elonmusk/status/2109674099882553443)
 
 ---
 
