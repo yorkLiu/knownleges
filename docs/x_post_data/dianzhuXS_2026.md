@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 503 条推文
+> 📊 推文存档 - 共 504 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 你們就偷著樂吧😮‍💨😮‍💨😮‍💨 https://t.co/OTmxpgs5Cr
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIM_2rMLmQgffsU0Clcpooi9duzL-SrAAKlEmsbEKBoVk4bah5UXk70AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2109440493822308745)
 
 ---
 
@@ -38,7 +34,19 @@ tags: ["2026"]
 疫情就真的來了
 😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2109444429383909602)
+---
+
+## 2026-10-12 17:24:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+實話實說不販賣焦慮，不一驚一乍博眼球。
+
+這次「習式社保處罰新規」最主要針對的還是民企老闆，包括一些小作坊型個體經營者。所以「間歇性計劃經濟」是大政方針，屁民們不要妄想有什麼夾縫！
+
+[查看原文](https://x.com/dianzhuXS/status/2109576044541878459)
 
 ---
 
