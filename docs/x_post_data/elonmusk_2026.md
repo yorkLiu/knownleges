@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3306 条推文
+> 📊 推文存档 - 共 3308 条推文
 
 ---
 
@@ -183,7 +183,31 @@ RT @mayemusk: Thank you @NICKIMINAJ 👏👏💖💖
 
 RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…
 
-[查看原文](https://x.com/elonmusk/status/2109476996816224354)
+---
+
+## 2026-10-12 12:45:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink is a life-saving technology.
+
+A huge tree crushed a family’s car in the French Alps. A passerby says there was no mob…
+
+[查看原文](https://x.com/elonmusk/status/2109505761210425522)
+
+---
+
+## 2026-10-12 12:51:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2109507243007979558)
 
 ---
 
