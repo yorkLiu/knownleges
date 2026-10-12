@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3320 条推文
+> 📊 推文存档 - 共 3321 条推文
 
 ---
 
@@ -29,8 +29,6 @@ Your safety has always been priority 1 at Tesla and SpaceX
 
 RT @arctotherium42: Pie chart of naturalizations in 2023. The US naturalized roughly 4x as many people as all of Asia combined. https://t.c…
 
-[查看原文](https://x.com/elonmusk/status/2109688905398358144)
-
 ---
 
 ## 2026-10-13 00:59:04
@@ -40,8 +38,6 @@ RT @arctotherium42: Pie chart of naturalizations in 2023. The US naturalized rou
 **内容**:
 
 Troubling
-
-[查看原文](https://x.com/elonmusk/status/2109690326474440765)
 
 ---
 
@@ -53,7 +49,17 @@ Troubling
 
 RT @elonmusk: @MelvinInvests When China figures out how to manufacture a product, their ability to scale is often greater than the rest of…
 
-[查看原文](https://x.com/elonmusk/status/2109691157416472796)
+---
+
+## 2026-10-13 01:07:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+[查看原文](https://x.com/elonmusk/status/2109692430178255016)
 
 ---
 
