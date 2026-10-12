@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 100 条推文
+> 📊 推文存档 - 共 101 条推文
 
 ---
 
@@ -45,9 +45,19 @@ tags: ["2026"]
 
 这波做空美光+35万美金了，方向正确就拿住！ https://t.co/BvnkgNKv4F
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINAWrMoNGXPWanH54QUXqFOB3v-vqwAALsE2sbEKBoViiOTrJdsIpjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2109567229843173551)
+## 2026-10-12 20:34:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我知道这波做空美光，不少兄弟没跟上。但我不会说你，你也别懊恼，因为，我开仓的那刻，也不能保证100%赚钱。
+
+我能做到的就是：真实。开仓了就发出来，包括单子和逻辑。
+
+[查看原文](https://x.com/iiiinvest/status/2109623625477509581)
 
 ---
 
