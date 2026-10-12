@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 70 条推文
+> 📊 推文存档 - 共 71 条推文
+
+---
+
+## 2026-10-13 00:59:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这条路，说到底，是选股票背后的那个人。
+今日操作：粤桂
+不是选K线，不是选均线，不是选MACD，不是选金叉死叉。
+
+是选大哥。选那个在关键窗口、关键节点，敢于站出来表态的资金。
+
+你选对了人，他带你穿越分歧。你选错了人，他把你挂在山顶。 https://t.co/49WOL7bjiL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINBGrNEy8FG1huOXByV3OWxyd_AAFmMwACzxBrGxCgcFZFCx8Q3pUsfgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2109690404857897153)
 
 ---
 
