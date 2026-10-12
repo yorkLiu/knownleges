@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3305 条推文
+> 📊 推文存档 - 共 3306 条推文
 
 ---
 
@@ -163,8 +163,6 @@ This Bill is an utter nightmare. It criminalises talking. It will ro…
 
 RT @ianmiles: Starlink has an Indian license, 20 ground stations on Indian soil, and a promise to keep Indian user data in India. What it d…
 
-[查看原文](https://x.com/elonmusk/status/2109469537988960442)
-
 ---
 
 ## 2026-10-12 10:26:08
@@ -175,7 +173,17 @@ RT @ianmiles: Starlink has an Indian license, 20 ground stations on Indian soil,
 
 RT @mayemusk: Thank you @NICKIMINAJ 👏👏💖💖
 
-[查看原文](https://x.com/elonmusk/status/2109470646103093540)
+---
+
+## 2026-10-12 10:51:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheFP: Alex Gibney’s new four-hour documentary is so determined to expose the billionaire’s failings that it inadvertently showcases th…
+
+[查看原文](https://x.com/elonmusk/status/2109476996816224354)
 
 ---
 
