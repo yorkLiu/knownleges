@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3322 条推文
+> 📊 推文存档 - 共 3323 条推文
 
 ---
 
@@ -73,7 +73,19 @@ Then asking it:
 
 “I want to build a c…
 
-[查看原文](https://x.com/elonmusk/status/2109738767351230511)
+---
+
+## 2026-10-13 06:40:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ns123abc: JUST IN: SpaceXSI officially published the legal terms for a unified X Premium + Grok + Cursor subscription plan
+
+&gt;social net…
+
+[查看原文](https://x.com/elonmusk/status/2109776287275581504)
 
 ---
 
