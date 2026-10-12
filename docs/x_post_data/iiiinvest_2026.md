@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 101 条推文
+> 📊 推文存档 - 共 102 条推文
 
 ---
 
@@ -57,7 +57,19 @@ tags: ["2026"]
 
 我能做到的就是：真实。开仓了就发出来，包括单子和逻辑。
 
-[查看原文](https://x.com/iiiinvest/status/2109623625477509581)
+---
+
+## 2026-10-12 22:14:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+4180做多了黄金，总仓位800万美金，晚点补逻辑。 https://t.co/2A53XjQPTU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINAmrM7ujzg1D9UoeAfO-GSdWeHwOyAAI8FWsbEKBoVvDnYCyMR8mWAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2109648959371411481)
 
 ---
 
