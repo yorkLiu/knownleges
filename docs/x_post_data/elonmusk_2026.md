@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3308 条推文
+> 📊 推文存档 - 共 3309 条推文
 
 ---
 
@@ -195,8 +195,6 @@ RT @cb_doge: Starlink is a life-saving technology.
 
 A huge tree crushed a family’s car in the French Alps. A passerby says there was no mob…
 
-[查看原文](https://x.com/elonmusk/status/2109505761210425522)
-
 ---
 
 ## 2026-10-12 12:51:34
@@ -207,7 +205,19 @@ A huge tree crushed a family’s car in the French Alps. A passerby says there w
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2109507243007979558)
+---
+
+## 2026-10-12 13:20:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: President Emmerson Mnangagwa donated @Starlink kits to 10 schools in Bulilima, Zimbabwe. 🇿🇼
+
+The nationwide Presiden…
+
+[查看原文](https://x.com/elonmusk/status/2109514619463024703)
 
 ---
 
