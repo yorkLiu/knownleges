@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3298 条推文
+> 📊 推文存档 - 共 3300 条推文
 
 ---
 
@@ -91,8 +91,6 @@ https://t.co/Efbxq5vqTm
 
 RT @karpathy: Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less "tw…
 
-[查看原文](https://x.com/elonmusk/status/2109419440039211499)
-
 ---
 
 ## 2026-10-12 07:04:30
@@ -103,7 +101,29 @@ RT @karpathy: Dusting off this tweet from April because this gap in shared under
 
 Troubling
 
-[查看原文](https://x.com/elonmusk/status/2109419903623053514)
+---
+
+## 2026-10-12 09:43:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🤨
+
+[查看原文](https://x.com/elonmusk/status/2109459975474995584)
+
+---
+
+## 2026-10-12 09:44:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Baconbrix: Asked Grok Bot to build itself an Apple Vision Pro app. I now have interactive bots that I can talk to and place around my a…
+
+[查看原文](https://x.com/elonmusk/status/2109460125471715428)
 
 ---
 
