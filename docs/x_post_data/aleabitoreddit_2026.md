@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 493 条推文
+> 📊 推文存档 - 共 494 条推文
 
 ---
 
@@ -39,9 +39,23 @@ Special thanks to $AVGO CEO adding fuel the fire…
 
 Calling AI investors gamblers and saying enterprise AI isn’t delivering ROI. https://t.co/fHzsD9Na4s
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINDGrNqfnl7dGGmRQzH4KJXn73ogsFAAJFEmsbEKBwVoaNBx9TPwHzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2109852646484201736)
+## 2026-10-13 14:53:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So spent some more time to look at more DBS conference material: 
+
+- "Two semiconductor giants, $AVGO and $INTC, both stated that breakthroughs in AI will keep demand for chip investment elevated for at least another 2 years. As current supply is insufficient to meet market https://t.co/6azsacIEdc
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINEmrN1ZfXBSVfx6hl2_mihuwz0vXsAALZEmsbEKBwVhLaOQP2Z-__AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINE2rN1ZuvhoGlohK2BMkxvJkXV-ENAALbEmsbEKBwVoe078DPToBjAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2109900353349300590)
 
 ---
 
