@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 105 条推文
+> 📊 推文存档 - 共 106 条推文
 
 ---
 
@@ -29,8 +29,6 @@ tags: ["2026"]
 
 看你们评论才发现：黄金逻辑没发成功。。。
 
-[查看原文](https://x.com/iiiinvest/status/2109839958999728201)
-
 ---
 
 ## 2026-10-13 11:09:26
@@ -45,9 +43,19 @@ tags: ["2026"]
 2、通胀是黄金的朋友，而通胀的内兄弟原油，短时间跌不下去，主要支撑是各国原油储备及美国意愿；
 3、从技术面看，黄金近期很硬易涨难跌，另外从大周期看也有次高的需求。 https://t.co/LqYFAkTlYQ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINC2rNorHqpPPcVpcoO4N1NzPiGgMZAAIuEmsbEKBwVq0Xl8rPfSq5AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2109843929701212373)
+## 2026-10-13 16:32:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+想了想，粉丝多了还是需要建个群。
+
+但不想收会员费，怎么屏蔽广告白嫖和骗子？
+
+[查看原文](https://x.com/iiiinvest/status/2109925302457737604)
 
 ---
 
