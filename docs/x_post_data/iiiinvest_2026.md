@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 106 条推文
+> 📊 推文存档 - 共 107 条推文
 
 ---
 
@@ -55,7 +55,19 @@ tags: ["2026"]
 
 但不想收会员费，怎么屏蔽广告白嫖和骗子？
 
-[查看原文](https://x.com/iiiinvest/status/2109925302457737604)
+---
+
+## 2026-10-13 20:24:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+存储尿崩了啊，美光空单盈利70万美金了。。。 https://t.co/MiUDBzdBVz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINF2rOJCpouKvyMMc1QseDUFw9kC8LAAJlE2sbDVVxVmSZo1CQNjE6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2109983507405840745)
 
 ---
 
