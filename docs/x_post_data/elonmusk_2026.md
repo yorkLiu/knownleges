@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3326 条推文
+> 📊 推文存档 - 共 3328 条推文
 
 ---
 
@@ -97,10 +97,6 @@ RT @spacexai: We've unified plans across Grok, Cursor, and X Premium.
 
 Introducing The X Subscription. https://t.co/SvkrVvBa0p
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINB2rNd0ud6rDadrYWdB1y6OgWE6_lAAKEEWsbEKBwVlTwJJbNeEZhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2109792967288652287)
-
 ---
 
 ## 2026-10-13 07:47:54
@@ -110,8 +106,6 @@ Introducing The X Subscription. https://t.co/SvkrVvBa0p
 **内容**:
 
 RT @cb_doge: BREAKING: The Lagos State Government in Nigeria is strengthening child welfare with 1500 @Starlink kits allocated to orphanage…
-
-[查看原文](https://x.com/elonmusk/status/2109793213829742629)
 
 ---
 
@@ -125,7 +119,29 @@ RT @TimSweeneyEpic: We have a huge pivot underway here at Epic, moving developer
 
 The aim is…
 
-[查看原文](https://x.com/elonmusk/status/2109793921203093888)
+---
+
+## 2026-10-13 08:30:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Robotaxi improvements
+
+[查看原文](https://x.com/elonmusk/status/2109803903256502307)
+
+---
+
+## 2026-10-13 08:31:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: Last night, before I slept, I told my @bot to go through the raw footage of every Starship launch, from Flight 1 all the…
+
+[查看原文](https://x.com/elonmusk/status/2109804137043083307)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 511 条推文
+> 📊 推文存档 - 共 512 条推文
 
 ---
 
@@ -31,10 +31,6 @@ tags: ["2026"]
 
 處女下海不如老妓從良，身在公門，槍口抬高一寸～也是積陰德。 https://t.co/eyKVrDuYng
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINBmrNcAOY401V4Ecz2r8-XKGDhi6AAAJ9EWsbEKBwVs2U_WEWxdhxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2109785491948318905)
-
 ---
 
 ## 2026-10-13 07:36:33
@@ -44,10 +40,6 @@ tags: ["2026"]
 **内容**:
 
 你們就偷著樂吧😮‍💨😮‍💨😮‍💨 https://t.co/0iF4h01owt
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINBWrNcAAB9TV3fgXQhLem8qlQBW64wgACfBFrGxCgcFZxxvmcJb5T2QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2109790356300828764)
 
 ---
 
@@ -63,7 +55,23 @@ tags: ["2026"]
 
 早關少賠，晚關多賠，不關人沒！
 
-[查看原文](https://x.com/dianzhuXS/status/2109791152031613381)
+---
+
+## 2026-10-13 08:29:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+體制內的別以為跟自己沒關係
+
+立個旗
+2028年底開始2029年整年
+是【中共裁編年】
+不懂什麼是「裁編」？
+簡稱【卸磨殺驢年】
+
+[查看原文](https://x.com/dianzhuXS/status/2109803651732787699)
 
 ---
 
