@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 495 条推文
+> 📊 推文存档 - 共 496 条推文
+
+---
+
+## 2026-10-14 06:56:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AGLT (Agility Robotics) has cleared SEC review for public listing through $CCXI
+
+If you want an estimate timeline:
+
+~Oct 13 (today): SEC S-4 declared effective
+
+~Nov 2nd (shareholder vote): for merger approval
+
+~November: Merger closing and ticker goes live for trading. https://t.co/yDKUXzGnCs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINHGrOup4LAgSCQ9N4RDGkiaxJq2RMAAIEFGsbDVVxVmrsth61YjD2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2110142633716965836)
 
 ---
 

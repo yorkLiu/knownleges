@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3386 条推文
+> 📊 推文存档 - 共 3387 条推文
 
 ---
 
@@ -247,8 +247,6 @@ RT @Michael_Fenech_: Grok Bot does my food shopping in less than 3 minutes.
 
 Doing it myself would probably take an hour at the shops or 3…
 
-[查看原文](https://x.com/elonmusk/status/2110132234929995948)
-
 ---
 
 ## 2026-10-14 06:15:24
@@ -263,8 +261,6 @@ Here's what's new:
 
 • Bots can now c…
 
-[查看原文](https://x.com/elonmusk/status/2110132320544100657)
-
 ---
 
 ## 2026-10-14 06:36:00
@@ -274,8 +270,6 @@ Here's what's new:
 **内容**:
 
 RT @elonmusk: @RealNickMugalli Micron has been reasonable regarding future memory prices, while others have been extortionate, which is som…
-
-[查看原文](https://x.com/elonmusk/status/2110137506004099521)
 
 ---
 
@@ -287,8 +281,6 @@ RT @elonmusk: @RealNickMugalli Micron has been reasonable regarding future memor
 
 RT @debs_obrien: The more I use Grok @bot, the more I see what it can do and it really is endless. I know this costs money but you really a…
 
-[查看原文](https://x.com/elonmusk/status/2110137566871900530)
-
 ---
 
 ## 2026-10-14 06:38:37
@@ -299,9 +291,17 @@ RT @debs_obrien: The more I use Grok @bot, the more I see what it can do and it 
 
 Lego sets that were researched and bought for me by @Grok @Bot have arrived and Bot automatically stopped checking the shipping status! https://t.co/Sh6nTaMfJ8
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAING2rOs1DJ59AOny36nnNIMt17uyOWAAL_E2sbDVVxVoUcieNG8mxoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2110138164811833534)
+## 2026-10-14 06:40:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Connect Bot to your 𝕏 account (just by asking) and you can interact with them via X Chat DMs
+
+[查看原文](https://x.com/elonmusk/status/2110138567142113653)
 
 ---
 
