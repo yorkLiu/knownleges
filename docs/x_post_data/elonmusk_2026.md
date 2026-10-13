@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3328 条推文
+> 📊 推文存档 - 共 3336 条推文
 
 ---
 
@@ -129,8 +129,6 @@ The aim is…
 
 Robotaxi improvements
 
-[查看原文](https://x.com/elonmusk/status/2109803903256502307)
-
 ---
 
 ## 2026-10-13 08:31:19
@@ -141,7 +139,103 @@ Robotaxi improvements
 
 RT @Teslaconomics: Last night, before I slept, I told my @bot to go through the raw footage of every Starship launch, from Flight 1 all the…
 
-[查看原文](https://x.com/elonmusk/status/2109804137043083307)
+---
+
+## 2026-10-13 08:48:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Watch Falcon 9 launch 27 @Starlink satellites to orbit from California https://t.co/9Pauv9VbZD
+
+[查看原文](https://x.com/elonmusk/status/2109808344223621417)
+
+---
+
+## 2026-10-13 08:53:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot rocks
+
+[查看原文](https://x.com/elonmusk/status/2109809802889314556)
+
+---
+
+## 2026-10-13 08:58:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try @Grok @Bot
+
+It gets better every day
+
+[查看原文](https://x.com/elonmusk/status/2109811014489272676)
+
+---
+
+## 2026-10-13 08:59:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mrfundman: Finally my X bookmarks doing something. My Grok bot looks at what I bookmark, processes it and saves into my Second brain on…
+
+[查看原文](https://x.com/elonmusk/status/2109811103525958068)
+
+---
+
+## 2026-10-13 09:02:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Give Grok @Bot your hardest tasks
+
+[查看原文](https://x.com/elonmusk/status/2109811974804852962)
+
+---
+
+## 2026-10-13 09:03:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @debs_obrien: This weekend I introduced Grok @bot to some family and friends. They were fascinated at what I was doing with it. Some hav…
+
+[查看原文](https://x.com/elonmusk/status/2109812168556462588)
+
+---
+
+## 2026-10-13 09:04:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @naoufal_elh: What is one tip that you swear by for Grok @Bot that you think everyone should know about?
+
+[查看原文](https://x.com/elonmusk/status/2109812489009627568)
+
+---
+
+## 2026-10-13 09:05:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @unclebobmartin: This is just so strange.  I'm talking to grokbot on my ipad, while it manipulates files on my mac, trying to adjust a v…
+
+[查看原文](https://x.com/elonmusk/status/2109812760427073760)
 
 ---
 

@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 102 条推文
+> 📊 推文存档 - 共 103 条推文
+
+---
+
+## 2026-10-13 08:54:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+美光空单，盈利50万美金！ https://t.co/gJaBodgug5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINCWrNhbY_Y7TlwvzfofPcKOw2mqJ9AALCEWsbEKBwVpxDLI8cshcRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2109810027301118133)
 
 ---
 
