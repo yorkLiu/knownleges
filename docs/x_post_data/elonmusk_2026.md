@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3344 条推文
+> 📊 推文存档 - 共 3346 条推文
 
 ---
 
@@ -231,8 +231,6 @@ RT @unclebobmartin: This is just so strange.  I'm talking to grokbot on my ipad,
 
 RT @B_doong2daddy: My Grok Bot is connected to my finance, email inbox, coding, etc. I asked Grok Bot from my Cybertruck while I was on roa…
 
-[查看原文](https://x.com/elonmusk/status/2109815966079041899)
-
 ---
 
 ## 2026-10-13 09:20:23
@@ -242,8 +240,6 @@ RT @B_doong2daddy: My Grok Bot is connected to my finance, email inbox, coding, 
 **内容**:
 
 It’s awesome
-
-[查看原文](https://x.com/elonmusk/status/2109816487775219916)
 
 ---
 
@@ -261,8 +257,6 @@ That’s what I love about it.
 
 → Give it a task…
 
-[查看原文](https://x.com/elonmusk/status/2109816993511886876)
-
 ---
 
 ## 2026-10-13 09:36:23
@@ -272,8 +266,6 @@ That’s what I love about it.
 **内容**:
 
 Grok @Bot is this good
-
-[查看原文](https://x.com/elonmusk/status/2109820513954705748)
 
 ---
 
@@ -285,10 +277,6 @@ Grok @Bot is this good
 
 RT @karanC_12: If you're not using Grok Bot to automate your work 24/7, sorry bro, you're ngmi. https://t.co/Nuwjk2yJJ6
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINCmrNjP6k8ZQYTU43W-VDqRsSzfXSAALeEWsbEKBwVrYcq42FUQwGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2109821251820855397)
-
 ---
 
 ## 2026-10-13 09:39:47
@@ -298,8 +286,6 @@ RT @karanC_12: If you're not using Grok Bot to automate your work 24/7, sorry br
 **内容**:
 
 RT @Cicily_aura: Grok Bot is best thought of as a highly capable employee that works around the clock and handles tasks efficiently. From r…
-
-[查看原文](https://x.com/elonmusk/status/2109821369643114558)
 
 ---
 
@@ -314,8 +300,6 @@ RT @thesimaximalist: I’m addicted to Grok Imagine 😂
 
 Reminds me of when I first started using Claude Code last year. 🚀🚀
 
-[查看原文](https://x.com/elonmusk/status/2109822046813237395)
-
 ---
 
 ## 2026-10-13 09:44:11
@@ -328,7 +312,31 @@ RT @edleonklinger: I think I have experienced “AGI”…
 
 Just did a 30-minute “phone call” with @bot. Together we got back to about 20 emails,…
 
-[查看原文](https://x.com/elonmusk/status/2109822476272455775)
+---
+
+## 2026-10-13 09:45:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ErikaDonalds: @thejakebuzz I am adding new use cases to Grok @bot daily. 
+
+Kitchen - gives me recipes to match what I have in stock and…
+
+[查看原文](https://x.com/elonmusk/status/2109822906670682387)
+
+---
+
+## 2026-10-13 09:53:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Deployment of 27 @Starlink satellites confirmed
+
+[查看原文](https://x.com/elonmusk/status/2109824758888165605)
 
 ---
 
