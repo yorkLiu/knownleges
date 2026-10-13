@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 108 条推文
+> 📊 推文存档 - 共 109 条推文
 
 ---
 
@@ -77,9 +77,27 @@ tags: ["2026"]
 
 最终盈利70万美金，一单赚500万，还要啥自行车！来点掌声！👏🏻 https://t.co/WkvTr1dBvH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINGGrOOatNdilkf8gkxGMed9lqhusSAAKCE2sbDVVxVhsPnH8fkRc4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2110004203724964271)
+## 2026-10-13 22:57:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+建群了（免费）
+
+谢谢兄弟们，你们的留言我都看了，按照大部分人的建议和我的一些想法，整理如下：
+
+群做什么
+1、互相支持，一群人走得更远，大家有个小港湾；
+2、避免被骗，评论区和假号横行，防止更多人被骗；
+3、互动答疑，大家关注的或者个性的问题，可随时交流；
+4、慈善基金，下面讲。
+
+群的门槛
+
+[查看原文](https://x.com/iiiinvest/status/2110022220131226106)
 
 ---
 
