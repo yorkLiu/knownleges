@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3364 条推文
+> 📊 推文存档 - 共 3381 条推文
 
 ---
 
@@ -47,8 +47,6 @@ RT @mkratsios47: The Super Intelligence era is here. 🇺🇸
 
 https://t.co/VxT2R2rZOv
 
-[查看原文](https://x.com/elonmusk/status/2110121452892754267)
-
 ---
 
 ## 2026-10-14 05:35:49
@@ -59,7 +57,219 @@ https://t.co/VxT2R2rZOv
 
 RT @elonmusk: @zerohedge It’s not that supercomputer data centers are not in high demand, as they definitely are. However, getting money to…
 
-[查看原文](https://x.com/elonmusk/status/2110122360825340322)
+---
+
+## 2026-10-14 05:38:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True, this is a very big deal
+
+[查看原文](https://x.com/elonmusk/status/2110123131692048515)
+
+---
+
+## 2026-10-14 05:39:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool Grok @Bot use case
+
+[查看原文](https://x.com/elonmusk/status/2110123302777995538)
+
+---
+
+## 2026-10-14 05:39:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benjitaylor: I no longer see any compelling reason to believe that taste is some permanent boundary LLMs won’t cross. It’s already happ…
+
+[查看原文](https://x.com/elonmusk/status/2110123370159145228)
+
+---
+
+## 2026-10-14 05:45:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Latest upgrades to Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2110124896089260384)
+
+---
+
+## 2026-10-14 05:46:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try @Starlink Internet!
+
+[查看原文](https://x.com/elonmusk/status/2110125050074669471)
+
+---
+
+## 2026-10-14 05:46:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: Try the Supabase plugin in @bot to monitor, debug, and ship changes to your backend
+
+[查看原文](https://x.com/elonmusk/status/2110125116936060998)
+
+---
+
+## 2026-10-14 05:46:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Grok Bot is really the value for money
+
+It researches, writes, designs images, edits videos, codes, handles email and runs sch…
+
+[查看原文](https://x.com/elonmusk/status/2110125156199014881)
+
+---
+
+## 2026-10-14 05:47:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink brings Internet access to remote places
+
+[查看原文](https://x.com/elonmusk/status/2110125336759296170)
+
+---
+
+## 2026-10-14 05:48:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: With an abundance of agentic bots, anyone can operate like a CEO—with zero overhead from interviewing, hiring, or assemblin…
+
+[查看原文](https://x.com/elonmusk/status/2110125534550397227)
+
+---
+
+## 2026-10-14 05:49:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dvorahfr: I asked @grok  @bot  to explain what they are used:
+ for here is the result with Grok @imagine . 
+
+Who better than Grok Bot t…
+
+[查看原文](https://x.com/elonmusk/status/2110125680826405119)
+
+---
+
+## 2026-10-14 05:49:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MELANIATRUMP: THE 2027 PRESIDENTIAL SUPERINTELLIGENCE CHALLENGE https://t.co/skaeRtnazE
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINGmrOq_-bNmMm6kIQt88U1TP1tQc4AAL8E2sbDVVxVjn9RiS1lnPRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110125729656578471)
+
+---
+
+## 2026-10-14 05:50:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot detects scam emails!
+
+[查看原文](https://x.com/elonmusk/status/2110125937551397151)
+
+---
+
+## 2026-10-14 05:55:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship 40’s return to base
+
+[查看原文](https://x.com/elonmusk/status/2110127406258286757)
+
+---
+
+## 2026-10-14 05:57:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All Grok @Bots get their own email address and can help analyze and summarize your email box too
+
+[查看原文](https://x.com/elonmusk/status/2110127808718741920)
+
+---
+
+## 2026-10-14 06:01:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Assign Grok @Bot to your phone button for instant access
+
+[查看原文](https://x.com/elonmusk/status/2110128761471655978)
+
+---
+
+## 2026-10-14 06:02:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: Don't build alone, apply to join our Grok Bot X Communities https://t.co/1dEvXMU7Su! We have curated group chats for:
+
+• GTM
+•…
+
+[查看原文](https://x.com/elonmusk/status/2110129124052230422)
+
+---
+
+## 2026-10-14 06:03:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ICannot_Enough: My wife saw this post (video stolen from @ItsKimJava), now going viral again and asked me about it, so I showed her thi…
+
+[查看原文](https://x.com/elonmusk/status/2110129432836919505)
 
 ---
 
