@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3359 条推文
+> 📊 推文存档 - 共 3360 条推文
 
 ---
 
@@ -438,8 +438,6 @@ RT @SpaceX: Watch Falcon 9 launch Dragon to the @Space_Station https://t.co/wkJ6
 
 RT @melvindvivas: https://t.co/5ttM9rgnMV
 
-[查看原文](https://x.com/elonmusk/status/2109954513050505575)
-
 ---
 
 ## 2026-10-13 18:29:21
@@ -450,8 +448,6 @@ RT @melvindvivas: https://t.co/5ttM9rgnMV
 
 RT @Space_Station: The @SpaceX Dragon is counting down to its launch at 6:33 a.m. EDT today to resupply the Expedition 75 crew with over 6,…
 
-[查看原文](https://x.com/elonmusk/status/2109954637893964077)
-
 ---
 
 ## 2026-10-13 18:31:46
@@ -461,8 +457,6 @@ RT @Space_Station: The @SpaceX Dragon is counting down to its launch at 6:33 a.m
 **内容**:
 
 Grok @Bot is like hiring a super smart employee
-
-[查看原文](https://x.com/elonmusk/status/2109955246923641259)
 
 ---
 
@@ -476,7 +470,19 @@ RT @jerrod_lew: Grok Bot is the strongest personal agent I've used yet.
 
 Just the usage on it increases so fast, and so I'm afraid to give…
 
-[查看原文](https://x.com/elonmusk/status/2109960773116252577)
+---
+
+## 2026-10-13 19:14:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Av1dlive: i'm seriously considering switching full-time over to grok bot.
+
+it's the closest thing i've found to hiring a real jarvis. i…
+
+[查看原文](https://x.com/elonmusk/status/2109966013714575870)
 
 ---
 
