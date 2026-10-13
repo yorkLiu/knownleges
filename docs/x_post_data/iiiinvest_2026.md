@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 103 条推文
+> 📊 推文存档 - 共 105 条推文
 
 ---
 
@@ -19,9 +19,35 @@ tags: ["2026"]
 
 美光空单，盈利50万美金！ https://t.co/gJaBodgug5
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINCWrNhbY_Y7TlwvzfofPcKOw2mqJ9AALCEWsbEKBwVpxDLI8cshcRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2109810027301118133)
+## 2026-10-13 10:53:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看你们评论才发现：黄金逻辑没发成功。。。
+
+[查看原文](https://x.com/iiiinvest/status/2109839958999728201)
+
+---
+
+## 2026-10-13 11:09:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+黄金800万美金，多单逻辑及计划
+
+1、黄金主要压制因素是实际利率，而当前10年美债有筑顶的迹象，黄金的机会成本在降低；
+2、通胀是黄金的朋友，而通胀的内兄弟原油，短时间跌不下去，主要支撑是各国原油储备及美国意愿；
+3、从技术面看，黄金近期很硬易涨难跌，另外从大周期看也有次高的需求。 https://t.co/LqYFAkTlYQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINC2rNorHqpPPcVpcoO4N1NzPiGgMZAAIuEmsbEKBwVq0Xl8rPfSq5AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2109843929701212373)
 
 ---
 
