@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3348 条推文
+> 📊 推文存档 - 共 3350 条推文
 
 ---
 
@@ -354,15 +354,29 @@ RT @cb_doge: BREAKING: South Korea’s Gyeongbuk government brings @Starlink to 
 
 RT @SpaceX: Falcon 9 launches 27 @Starlink satellites from California https://t.co/WdYeCRC8Z2
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINDmrNsUyknqGE7Bc0rZQaXeTGtUjJAAJTEmsbEKBwVis-zZfDAdHwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIND2rNsU8uwBt7fnWS7MgdIoCaWVu5AAJUEmsbEKBwVhSpWN5djGGiAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-13 12:41:11
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINEGrNsVIccVQXUVGFH2sHivJYFFJeAAJVEmsbEKBwVn4qnFyTKIuAAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINEWrNsVVlaGmWB5YOzzuPFAY_jQkBAAJWEmsbEKBwVhrIdmcEZgcdAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/elonmusk/status/2109860741121503681)
+Of course
+
+[查看原文](https://x.com/elonmusk/status/2109867020091072915)
+
+---
+
+## 2026-10-13 12:43:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot memory transfer
+
+[查看原文](https://x.com/elonmusk/status/2109867516646637579)
 
 ---
 
