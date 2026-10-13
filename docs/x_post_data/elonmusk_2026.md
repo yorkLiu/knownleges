@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3336 条推文
+> 📊 推文存档 - 共 3344 条推文
 
 ---
 
@@ -149,8 +149,6 @@ RT @Teslaconomics: Last night, before I slept, I told my @bot to go through the 
 
 RT @SpaceX: Watch Falcon 9 launch 27 @Starlink satellites to orbit from California https://t.co/9Pauv9VbZD
 
-[查看原文](https://x.com/elonmusk/status/2109808344223621417)
-
 ---
 
 ## 2026-10-13 08:53:50
@@ -160,8 +158,6 @@ RT @SpaceX: Watch Falcon 9 launch 27 @Starlink satellites to orbit from Californ
 **内容**:
 
 Grok @Bot rocks
-
-[查看原文](https://x.com/elonmusk/status/2109809802889314556)
 
 ---
 
@@ -175,8 +171,6 @@ Try @Grok @Bot
 
 It gets better every day
 
-[查看原文](https://x.com/elonmusk/status/2109811014489272676)
-
 ---
 
 ## 2026-10-13 08:59:00
@@ -186,8 +180,6 @@ It gets better every day
 **内容**:
 
 RT @mrfundman: Finally my X bookmarks doing something. My Grok bot looks at what I bookmark, processes it and saves into my Second brain on…
-
-[查看原文](https://x.com/elonmusk/status/2109811103525958068)
 
 ---
 
@@ -199,8 +191,6 @@ RT @mrfundman: Finally my X bookmarks doing something. My Grok bot looks at what
 
 Give Grok @Bot your hardest tasks
 
-[查看原文](https://x.com/elonmusk/status/2109811974804852962)
-
 ---
 
 ## 2026-10-13 09:03:14
@@ -210,8 +200,6 @@ Give Grok @Bot your hardest tasks
 **内容**:
 
 RT @debs_obrien: This weekend I introduced Grok @bot to some family and friends. They were fascinated at what I was doing with it. Some hav…
-
-[查看原文](https://x.com/elonmusk/status/2109812168556462588)
 
 ---
 
@@ -223,8 +211,6 @@ RT @debs_obrien: This weekend I introduced Grok @bot to some family and friends.
 
 RT @naoufal_elh: What is one tip that you swear by for Grok @Bot that you think everyone should know about?
 
-[查看原文](https://x.com/elonmusk/status/2109812489009627568)
-
 ---
 
 ## 2026-10-13 09:05:35
@@ -235,7 +221,114 @@ RT @naoufal_elh: What is one tip that you swear by for Grok @Bot that you think 
 
 RT @unclebobmartin: This is just so strange.  I'm talking to grokbot on my ipad, while it manipulates files on my mac, trying to adjust a v…
 
-[查看原文](https://x.com/elonmusk/status/2109812760427073760)
+---
+
+## 2026-10-13 09:18:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @B_doong2daddy: My Grok Bot is connected to my finance, email inbox, coding, etc. I asked Grok Bot from my Cybertruck while I was on roa…
+
+[查看原文](https://x.com/elonmusk/status/2109815966079041899)
+
+---
+
+## 2026-10-13 09:20:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s awesome
+
+[查看原文](https://x.com/elonmusk/status/2109816487775219916)
+
+---
+
+## 2026-10-13 09:22:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @liam_fallen: Grok Bot can order your groceries.
+
+It can also run your entire business.
+
+That’s what I love about it.
+
+→ Give it a task…
+
+[查看原文](https://x.com/elonmusk/status/2109816993511886876)
+
+---
+
+## 2026-10-13 09:36:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is this good
+
+[查看原文](https://x.com/elonmusk/status/2109820513954705748)
+
+---
+
+## 2026-10-13 09:39:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @karanC_12: If you're not using Grok Bot to automate your work 24/7, sorry bro, you're ngmi. https://t.co/Nuwjk2yJJ6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINCmrNjP6k8ZQYTU43W-VDqRsSzfXSAALeEWsbEKBwVrYcq42FUQwGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2109821251820855397)
+
+---
+
+## 2026-10-13 09:39:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Cicily_aura: Grok Bot is best thought of as a highly capable employee that works around the clock and handles tasks efficiently. From r…
+
+[查看原文](https://x.com/elonmusk/status/2109821369643114558)
+
+---
+
+## 2026-10-13 09:42:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @thesimaximalist: I’m addicted to Grok Imagine 😂
+@grok @imagine
+
+Reminds me of when I first started using Claude Code last year. 🚀🚀
+
+[查看原文](https://x.com/elonmusk/status/2109822046813237395)
+
+---
+
+## 2026-10-13 09:44:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @edleonklinger: I think I have experienced “AGI”…
+
+Just did a 30-minute “phone call” with @bot. Together we got back to about 20 emails,…
+
+[查看原文](https://x.com/elonmusk/status/2109822476272455775)
 
 ---
 
