@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 492 条推文
+> 📊 推文存档 - 共 493 条推文
 
 ---
 
@@ -25,7 +25,23 @@ On Memory:
 
 Samsung has LTAs covering 70% of their capacity into 2031 (likely with SK Hynix type price
 
-[查看原文](https://x.com/aleabitoreddit/status/2109789664622322081)
+---
+
+## 2026-10-13 11:44:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow this is sad to see Korean markets with $SKHY / Samsung crash like this.
+
+Special thanks to $AVGO CEO adding fuel the fire… 
+
+Calling AI investors gamblers and saying enterprise AI isn’t delivering ROI. https://t.co/fHzsD9Na4s
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINDGrNqfnl7dGGmRQzH4KJXn73ogsFAAJFEmsbEKBwVoaNBx9TPwHzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2109852646484201736)
 
 ---
 

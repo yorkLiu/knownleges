@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 513 条推文
+> 📊 推文存档 - 共 515 条推文
 
 ---
 
@@ -84,9 +84,47 @@ tags: ["2026"]
 這是目前為止疏導效果最好的
 同時也是愛生悶氣的神藥 https://t.co/82fkOeyU37
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINCGrNhbLDpu8I8KbPc8rad1xLgK4hAALBEWsbEKBwVmziprmTKEmnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2109813133846204702)
+## 2026-10-13 11:19:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+牛馬們別急
+我有一計
+
+用父母的養老金
+交你的社保不就行了嗎？
+
+響應號召徹底內循環
+
+祖孫三代給共匪奉獻青春
+
+牆內歲月靜好
+
+國外水深火熱
+
+驕傲吧！
+
+[查看原文](https://x.com/dianzhuXS/status/2109846585257726037)
+
+---
+
+## 2026-10-13 11:32:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+問個問題～
+
+等你們這波社保補繳完了
+牠開始砍體制外退休金
+你們又能怎？
+
+[查看原文](https://x.com/dianzhuXS/status/2109849724388028691)
 
 ---
 
