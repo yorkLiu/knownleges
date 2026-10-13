@@ -7,7 +7,37 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3360 条推文
+> 📊 推文存档 - 共 3362 条推文
+
+---
+
+## 2026-10-14 02:39:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Congrats!
+
+CEOs &amp; execs posting to the public directly on 𝕏 is the best way to get your message out and drive product sales. 
+
+Vastly more powerful and effective than a press release.
+
+[查看原文](https://x.com/elonmusk/status/2110077948384735481)
+
+---
+
+## 2026-10-14 02:55:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🍻 🤣
+
+Funny thing is that I hardly ever drink alcohol!
+
+[查看原文](https://x.com/elonmusk/status/2110082016838328713)
 
 ---
 
