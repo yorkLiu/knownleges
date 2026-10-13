@@ -7,7 +7,26 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 71 条推文
+> 📊 推文存档 - 共 72 条推文
+
+---
+
+## 2026-10-14 01:14:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今日布局：航天科技
+炒股心态的五个阶段，你在第几层？
+
+阶段一：兴奋贪婪。 初入市场，第一笔就赚，以为天选之子。把运气当实力，幻想辞职暴富。市场正在挖坑。
+
+阶段二：困惑不服。 从随便买都赚到买什么都亏。不服气，频繁交易想翻本，越做越亏。陷入技术万能幻觉，不停学、不停试、不停亏。 https://t.co/kVXWnXRhWQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINGWrOa6-70DTWj13j639ZXUbcbbQBAALZE2sbDVVxVpAE9zxNWMLsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2110056547992916313)
 
 ---
 
