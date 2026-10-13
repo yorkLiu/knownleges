@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3381 条推文
+> 📊 推文存档 - 共 3386 条推文
 
 ---
 
@@ -67,8 +67,6 @@ RT @elonmusk: @zerohedge It’s not that supercomputer data centers are not in h
 
 True, this is a very big deal
 
-[查看原文](https://x.com/elonmusk/status/2110123131692048515)
-
 ---
 
 ## 2026-10-14 05:39:34
@@ -78,8 +76,6 @@ True, this is a very big deal
 **内容**:
 
 Cool Grok @Bot use case
-
-[查看原文](https://x.com/elonmusk/status/2110123302777995538)
 
 ---
 
@@ -91,8 +87,6 @@ Cool Grok @Bot use case
 
 RT @benjitaylor: I no longer see any compelling reason to believe that taste is some permanent boundary LLMs won’t cross. It’s already happ…
 
-[查看原文](https://x.com/elonmusk/status/2110123370159145228)
-
 ---
 
 ## 2026-10-14 05:45:54
@@ -102,8 +96,6 @@ RT @benjitaylor: I no longer see any compelling reason to believe that taste is 
 **内容**:
 
 Latest upgrades to Grok @Bot
-
-[查看原文](https://x.com/elonmusk/status/2110124896089260384)
 
 ---
 
@@ -115,8 +107,6 @@ Latest upgrades to Grok @Bot
 
 Try @Starlink Internet!
 
-[查看原文](https://x.com/elonmusk/status/2110125050074669471)
-
 ---
 
 ## 2026-10-14 05:46:46
@@ -126,8 +116,6 @@ Try @Starlink Internet!
 **内容**:
 
 RT @grok: Try the Supabase plugin in @bot to monitor, debug, and ship changes to your backend
-
-[查看原文](https://x.com/elonmusk/status/2110125116936060998)
 
 ---
 
@@ -141,8 +129,6 @@ RT @iam_smx: Grok Bot is really the value for money
 
 It researches, writes, designs images, edits videos, codes, handles email and runs sch…
 
-[查看原文](https://x.com/elonmusk/status/2110125156199014881)
-
 ---
 
 ## 2026-10-14 05:47:39
@@ -153,8 +139,6 @@ It researches, writes, designs images, edits videos, codes, handles email and ru
 
 Starlink brings Internet access to remote places
 
-[查看原文](https://x.com/elonmusk/status/2110125336759296170)
-
 ---
 
 ## 2026-10-14 05:48:26
@@ -164,8 +148,6 @@ Starlink brings Internet access to remote places
 **内容**:
 
 RT @yunta_tsai: With an abundance of agentic bots, anyone can operate like a CEO—with zero overhead from interviewing, hiring, or assemblin…
-
-[查看原文](https://x.com/elonmusk/status/2110125534550397227)
 
 ---
 
@@ -180,8 +162,6 @@ RT @dvorahfr: I asked @grok  @bot  to explain what they are used:
 
 Who better than Grok Bot t…
 
-[查看原文](https://x.com/elonmusk/status/2110125680826405119)
-
 ---
 
 ## 2026-10-14 05:49:12
@@ -191,10 +171,6 @@ Who better than Grok Bot t…
 **内容**:
 
 RT @MELANIATRUMP: THE 2027 PRESIDENTIAL SUPERINTELLIGENCE CHALLENGE https://t.co/skaeRtnazE
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINGmrOq_-bNmMm6kIQt88U1TP1tQc4AAL8E2sbDVVxVjn9RiS1lnPRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110125729656578471)
 
 ---
 
@@ -206,8 +182,6 @@ RT @MELANIATRUMP: THE 2027 PRESIDENTIAL SUPERINTELLIGENCE CHALLENGE https://t.co
 
 Grok @Bot detects scam emails!
 
-[查看原文](https://x.com/elonmusk/status/2110125937551397151)
-
 ---
 
 ## 2026-10-14 05:55:52
@@ -217,8 +191,6 @@ Grok @Bot detects scam emails!
 **内容**:
 
 Starship 40’s return to base
-
-[查看原文](https://x.com/elonmusk/status/2110127406258286757)
 
 ---
 
@@ -230,8 +202,6 @@ Starship 40’s return to base
 
 All Grok @Bots get their own email address and can help analyze and summarize your email box too
 
-[查看原文](https://x.com/elonmusk/status/2110127808718741920)
-
 ---
 
 ## 2026-10-14 06:01:15
@@ -241,8 +211,6 @@ All Grok @Bots get their own email address and can help analyze and summarize yo
 **内容**:
 
 Assign Grok @Bot to your phone button for instant access
-
-[查看原文](https://x.com/elonmusk/status/2110128761471655978)
 
 ---
 
@@ -257,8 +225,6 @@ RT @poteto: Don't build alone, apply to join our Grok Bot X Communities https://
 • GTM
 •…
 
-[查看原文](https://x.com/elonmusk/status/2110129124052230422)
-
 ---
 
 ## 2026-10-14 06:03:55
@@ -269,7 +235,73 @@ RT @poteto: Don't build alone, apply to join our Grok Bot X Communities https://
 
 RT @ICannot_Enough: My wife saw this post (video stolen from @ItsKimJava), now going viral again and asked me about it, so I showed her thi…
 
-[查看原文](https://x.com/elonmusk/status/2110129432836919505)
+---
+
+## 2026-10-14 06:15:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Michael_Fenech_: Grok Bot does my food shopping in less than 3 minutes. 
+
+Doing it myself would probably take an hour at the shops or 3…
+
+[查看原文](https://x.com/elonmusk/status/2110132234929995948)
+
+---
+
+## 2026-10-14 06:15:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mark_k: Big update for Grok Bot! Version 0.70.2 brings some substantial new capabilities to @Bot!
+
+Here's what's new:
+
+• Bots can now c…
+
+[查看原文](https://x.com/elonmusk/status/2110132320544100657)
+
+---
+
+## 2026-10-14 06:36:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @RealNickMugalli Micron has been reasonable regarding future memory prices, while others have been extortionate, which is som…
+
+[查看原文](https://x.com/elonmusk/status/2110137506004099521)
+
+---
+
+## 2026-10-14 06:36:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @debs_obrien: The more I use Grok @bot, the more I see what it can do and it really is endless. I know this costs money but you really a…
+
+[查看原文](https://x.com/elonmusk/status/2110137566871900530)
+
+---
+
+## 2026-10-14 06:38:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Lego sets that were researched and bought for me by @Grok @Bot have arrived and Bot automatically stopped checking the shipping status! https://t.co/Sh6nTaMfJ8
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAING2rOs1DJ59AOny36nnNIMt17uyOWAAL_E2sbDVVxVoUcieNG8mxoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110138164811833534)
 
 ---
 
