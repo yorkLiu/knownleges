@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 518 条推文
+> 📊 推文存档 - 共 519 条推文
 
 ---
 
@@ -66,15 +66,22 @@ tags: ["2026"]
 遠離
 遠離！ https://t.co/n0gTCnFfGT
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINIGrOyTq0iu9E-r2JMZyyvrnISXfQAALUFWsbDVV5VmwZ0AKE34CrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINIWrOyT4o5IYYpZeTzBzdRgLsQhr0AALVFWsbDVV5Vq5UZZc5pgiYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-14 10:22:00
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINImrOyUHhoEhC0DGpRRiMeBnoPBX1AALWFWsbDVV5Vgj0kkyb85KzAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINI2rOyUVLUQZR6xGGpOnG0IKMmw9zAALXFWsbDVV5VtbiPELR_EQ0AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/dianzhuXS/status/2110155600726503639)
+經濟不好算什麼？
+餓死人照樣不耽誤吹牛逼！
+
+1960年人禍大饑荒，在民眾忍飢挨餓之際，中國向幾內亞援助了1萬噸大米，向剛果援助了數千至1萬噸小麥和大米！
+
+在這方面，我們要相信習近平可以超過毛賊東，且已經超過毛賊東😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://x.com/dianzhuXS/status/2110194379877155137)
 
 ---
 
