@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3400 条推文
+> 📊 推文存档 - 共 3401 条推文
 
 ---
 
@@ -447,9 +447,21 @@ RT @ConnorTalksAI: Grok Bot or ChatGPT Dots?
 
 Be honest… https://t.co/8iy43yso9N
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINJWrPCg4LP5_XAxH-tFQ4dD056t10AAJIFmsbDVV5VsQZtqU3ECGFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2110225444717174932)
+## 2026-10-14 13:16:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JJEnglert: Suggestion for you:
+
+Pick an agent for work, and pick an agent for personal.
+
+You could explore to do this all with Grok Bot…
+
+[查看原文](https://x.com/elonmusk/status/2110238184705798520)
 
 ---
 
