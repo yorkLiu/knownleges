@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3422 条推文
+> 📊 推文存档 - 共 3424 条推文
 
 ---
 
@@ -137,7 +137,29 @@ Cool
 
 Try Grok Voice
 
-[查看原文](https://x.com/elonmusk/status/2110438877274259488)
+---
+
+## 2026-10-15 05:32:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Voice 3.0 is now the world’s leading conversational voice model
+
+[查看原文](https://x.com/elonmusk/status/2110483960312799675)
+
+---
+
+## 2026-10-15 05:32:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @veggie_eric: Grok Voice is one of our fastest growing segments on API. Exciting to see companies switching to Grok from providers like…
+
+[查看原文](https://x.com/elonmusk/status/2110483996568351061)
 
 ---
 
