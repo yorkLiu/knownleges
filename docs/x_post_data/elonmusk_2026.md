@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3401 条推文
+> 📊 推文存档 - 共 3404 条推文
 
 ---
 
@@ -461,7 +461,43 @@ Pick an agent for work, and pick an agent for personal.
 
 You could explore to do this all with Grok Bot…
 
-[查看原文](https://x.com/elonmusk/status/2110238184705798520)
+---
+
+## 2026-10-14 13:37:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Made with @Grok @Imagine
+
+[查看原文](https://x.com/elonmusk/status/2110243595504820641)
+
+---
+
+## 2026-10-14 13:41:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Make music videos easily with Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2110244638900773147)
+
+---
+
+## 2026-10-14 13:43:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: I made a Grok Bot that can use Suno, Midjourney, and Opus to make music videos
+
+"Claudia" (the Grok Bot) made this teaser au…
+
+[查看原文](https://x.com/elonmusk/status/2110245096054747626)
 
 ---
 
