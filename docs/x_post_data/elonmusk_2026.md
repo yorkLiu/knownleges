@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3407 条推文
+> 📊 推文存档 - 共 3408 条推文
 
 ---
 
@@ -531,9 +531,19 @@ Inspired by @KeorUnreal
 
 @grok @imagine ❤️‍🔥 https://t.co/dLUuEU8Shd
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINJmrPJtZFFfiRixhq1-zCrLWihXIoAAK5FmsbDVV5VpojrYnZST1jAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2110261154622902471)
+## 2026-10-14 21:31:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Imagine can now generate amazing custom music directly for your videos... and it's incredibly easy to use 🎵
+
+Here's how t…
+
+[查看原文](https://x.com/elonmusk/status/2110362754263736448)
 
 ---
 
