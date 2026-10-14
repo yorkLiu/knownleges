@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3404 条推文
+> 📊 推文存档 - 共 3406 条推文
 
 ---
 
@@ -471,8 +471,6 @@ You could explore to do this all with Grok Bot…
 
 Made with @Grok @Imagine
 
-[查看原文](https://x.com/elonmusk/status/2110243595504820641)
-
 ---
 
 ## 2026-10-14 13:41:43
@@ -482,8 +480,6 @@ Made with @Grok @Imagine
 **内容**:
 
 Make music videos easily with Grok @Bot
-
-[查看原文](https://x.com/elonmusk/status/2110244638900773147)
 
 ---
 
@@ -497,7 +493,33 @@ RT @anabology: I made a Grok Bot that can use Suno, Midjourney, and Opus to make
 
 "Claudia" (the Grok Bot) made this teaser au…
 
-[查看原文](https://x.com/elonmusk/status/2110245096054747626)
+---
+
+## 2026-10-14 14:14:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dvorahfr: Robots. Servers. Machines that dream.
+All shot on a film stock that remembers 1985.
+Tomorrow, filmed like yesterday.
+
+What if…
+
+[查看原文](https://x.com/elonmusk/status/2110252838920360080)
+
+---
+
+## 2026-10-14 14:15:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can help with your taxes
+
+[查看原文](https://x.com/elonmusk/status/2110253157758673079)
 
 ---
 
