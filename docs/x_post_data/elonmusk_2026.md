@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3387 条推文
+> 📊 推文存档 - 共 3388 条推文
 
 ---
 
@@ -301,7 +301,17 @@ Lego sets that were researched and bought for me by @Grok @Bot have arrived and 
 
 Connect Bot to your 𝕏 account (just by asking) and you can interact with them via X Chat DMs
 
-[查看原文](https://x.com/elonmusk/status/2110138567142113653)
+---
+
+## 2026-10-14 07:42:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla self-driving feels like magic
+
+[查看原文](https://x.com/elonmusk/status/2110154332553597413)
 
 ---
 

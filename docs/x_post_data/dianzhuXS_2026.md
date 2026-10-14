@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 517 条推文
+> 📊 推文存档 - 共 518 条推文
 
 ---
 
@@ -36,11 +36,45 @@ tags: ["2026"]
 只要牠不死
 誰也跑不了！ https://t.co/gVRs5WkyaC
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINHmrOwe7oHna7tvi8ppeou50-Xx-EAALLFWsbDVV5VgzeqAVmCTMgAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINH2rOwfL66xlsriPmDD4Ccr0Dm4Y7AALMFWsbDVV5VsreQ6lsDAABCAEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-14 07:47:54
 
-[查看原文](https://x.com/dianzhuXS/status/2110151476249301086)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+記住
+
+不管是網暴
+還是肉體接觸報復社會
+大多數
+大多數
+大多數
+鹽鹼地的奴隸們
+只敢對「胡二妹們」下手
+
+對共匪只會跪
+只會跪
+只會跪
+
+這就是這個群體的
+先天DNA屬性
+別抱任何幻想
+文革風一起
+必須遠離
+遠離
+遠離！ https://t.co/n0gTCnFfGT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINIGrOyTq0iu9E-r2JMZyyvrnISXfQAALUFWsbDVV5VmwZ0AKE34CrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINIWrOyT4o5IYYpZeTzBzdRgLsQhr0AALVFWsbDVV5Vq5UZZc5pgiYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINImrOyUHhoEhC0DGpRRiMeBnoPBX1AALWFWsbDVV5Vgj0kkyb85KzAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINI2rOyUVLUQZR6xGGpOnG0IKMmw9zAALXFWsbDVV5VtbiPELR_EQ0AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2110155600726503639)
 
 ---
 
