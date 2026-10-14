@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3424 条推文
+> 📊 推文存档 - 共 3429 条推文
 
 ---
 
@@ -147,8 +147,6 @@ Try Grok Voice
 
 Grok Voice 3.0 is now the world’s leading conversational voice model
 
-[查看原文](https://x.com/elonmusk/status/2110483960312799675)
-
 ---
 
 ## 2026-10-15 05:32:50
@@ -159,7 +157,65 @@ Grok Voice 3.0 is now the world’s leading conversational voice model
 
 RT @veggie_eric: Grok Voice is one of our fastest growing segments on API. Exciting to see companies switching to Grok from providers like…
 
-[查看原文](https://x.com/elonmusk/status/2110483996568351061)
+---
+
+## 2026-10-15 07:16:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: NEW: Joe Rogan slams Democrats for opening the border to 10 million illegal immigrants, lying about Joe Biden's cognit…
+
+[查看原文](https://x.com/elonmusk/status/2110510090155708658)
+
+---
+
+## 2026-10-15 07:23:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Major threshold passed. Almost all cars will be electric in the future.
+
+[查看原文](https://x.com/elonmusk/status/2110511855731159239)
+
+---
+
+## 2026-10-15 07:26:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can detect scam emails
+
+[查看原文](https://x.com/elonmusk/status/2110512477582795125)
+
+---
+
+## 2026-10-15 07:26:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: SpaceX says @Starlink call centers use Grok Voice to answer 20,000 customer calls per day. ~70% are resolved with no hum…
+
+[查看原文](https://x.com/elonmusk/status/2110512532389843324)
+
+---
+
+## 2026-10-15 07:26:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink now available in Curaçao! 🛰️🇨🇼
+
+[查看原文](https://x.com/elonmusk/status/2110512674673222058)
 
 ---
 
