@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3409 条推文
+> 📊 推文存档 - 共 3412 条推文
+
+---
+
+## 2026-10-15 00:01:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX uses ARGON ION PROPULSION to move Starlink satellites through space 
+
+And the engineering is pretty wild
+
+Starlink sate…
+
+[查看原文](https://x.com/elonmusk/status/2110400614526325021)
 
 ---
 
@@ -555,7 +571,35 @@ RT @debs_obrien: Most people think Grok Bot is just a chat window.
 
 It's not. Each bot has its own computer, with its own browser, email in…
 
-[查看原文](https://x.com/elonmusk/status/2110370768697901279)
+---
+
+## 2026-10-14 23:47:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🎯
+
+[查看原文](https://x.com/elonmusk/status/2110397029650477363)
+
+---
+
+## 2026-10-14 23:57:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: I have millions of files on just one laptop.
+
+I archive and curate all day long.
+
+This is one of my power tools.
+
+Use it…
+
+[查看原文](https://x.com/elonmusk/status/2110399537416475062)
 
 ---
 
