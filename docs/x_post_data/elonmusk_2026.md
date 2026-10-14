@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3388 条推文
+> 📊 推文存档 - 共 3399 条推文
 
 ---
 
@@ -311,7 +311,153 @@ Connect Bot to your 𝕏 account (just by asking) and you can interact with them
 
 Tesla self-driving feels like magic
 
-[查看原文](https://x.com/elonmusk/status/2110154332553597413)
+---
+
+## 2026-10-14 12:03:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: it won't be long before "have your bot talk to my bot" becomes common!
+
+some fun use cases of multiplayer grok bot over email c…
+
+[查看原文](https://x.com/elonmusk/status/2110219855614116152)
+
+---
+
+## 2026-10-14 12:03:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: ask your bot to email tibo@mail.grokbot.com if you want to send in a bug report!
+
+[查看原文](https://x.com/elonmusk/status/2110219891240525915)
+
+---
+
+## 2026-10-14 12:03:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is awesome
+
+[查看原文](https://x.com/elonmusk/status/2110220028725563618)
+
+---
+
+## 2026-10-14 12:06:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @debs_obrien: Send this to your chief of staff @bot : 
+"Get all the bots together and send each one off to improve one thing. Be proacti…
+
+[查看原文](https://x.com/elonmusk/status/2110220684509184138)
+
+---
+
+## 2026-10-14 12:06:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: Using this prompt, here’s what @grok @bot returned on a few of my bots. 
+
+Incredible. https://t.co/EWwrCmqJB7
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINJGrPAr_NN7XknhwsxuEwyTyARIkUAAI0FmsbDVV5VvQnqYNdTcRrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110220715916247249)
+
+---
+
+## 2026-10-14 12:06:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SPCX100T: I built a @Grok @Bot that watches $SPCX on its own — fully automated, no manual work.
+
+I’ve been running it for over a month…
+
+[查看原文](https://x.com/elonmusk/status/2110220792349028373)
+
+---
+
+## 2026-10-14 12:07:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @StarbaseTX: Welcome home! Ship 40 has come full circle, back to where it began in the City of Starbase.
+
+[查看原文](https://x.com/elonmusk/status/2110220899999986110)
+
+---
+
+## 2026-10-14 12:12:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Timing is everything
+
+[查看原文](https://x.com/elonmusk/status/2110222071229989249)
+
+---
+
+## 2026-10-14 12:13:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NVIDIAAIInfra: Today, we’re open sourcing the full NVIDIA Run:ai platform as part of the NVIDIA DSX AI Factory Platform.
+
+Developers, p…
+
+[查看原文](https://x.com/elonmusk/status/2110222367263977851)
+
+---
+
+## 2026-10-14 12:16:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can help with complex taxes
+
+[查看原文](https://x.com/elonmusk/status/2110223110003982788)
+
+---
+
+## 2026-10-14 12:16:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @moritzkremb: Grok @bot has gotten so good lately
+
+It's a huge difference from just a few weeks ago
+
+In this video:
+&gt;All the latest Grok…
+
+[查看原文](https://x.com/elonmusk/status/2110223292430967050)
 
 ---
 
