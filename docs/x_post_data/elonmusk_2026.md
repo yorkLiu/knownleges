@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3420 条推文
+> 📊 推文存档 - 共 3421 条推文
 
 ---
 
@@ -37,8 +37,6 @@ could not recommend this more.
 
 for long stretches, it pulls…
 
-[查看原文](https://x.com/elonmusk/status/2110401295073058923)
-
 ---
 
 ## 2026-10-15 00:07:30
@@ -50,8 +48,6 @@ for long stretches, it pulls…
 RT @cb_doge: When Starlink became a lifeline for a family fighting to save their dad. ❤️
 
 Nigel Norwood suffered cardiac arrest while campi…
-
-[查看原文](https://x.com/elonmusk/status/2110402125809549472)
 
 ---
 
@@ -65,8 +61,6 @@ RT @Starlink: Starlink connects families in rural areas. Seamlessly stream, game
 
 Learn more…
 
-[查看原文](https://x.com/elonmusk/status/2110402603008049460)
-
 ---
 
 ## 2026-10-15 00:10:06
@@ -78,8 +72,6 @@ Learn more…
 RT @kevinnbass: I made a list of 63 of U.S. Senate candidate James Talafreako's most insane and deranged statements.
 
 Sourced and reference…
-
-[查看原文](https://x.com/elonmusk/status/2110402777755324760)
 
 ---
 
@@ -93,8 +85,6 @@ RT @davidellison: Proud to partner with Rick Caruso to reopen The Bay theater in
 
 https://t.co/EzwmL08uJW
 
-[查看原文](https://x.com/elonmusk/status/2110403395203006770)
-
 ---
 
 ## 2026-10-15 00:12:51
@@ -107,8 +97,6 @@ RT @teslajapan: 【速報🎉】世界で最も売れている車、テスラMod
 
 テスラでは、皆さまの試乗体験を心よりお待ちしておりま…
 
-[查看原文](https://x.com/elonmusk/status/2110403469249323449)
-
 ---
 
 ## 2026-10-15 00:27:59
@@ -118,8 +106,6 @@ RT @teslajapan: 【速報🎉】世界で最も売れている車、テスラMod
 **内容**:
 
 RT @brivael: Wokeism is the most sophisticated form of racism ever built. Not because it hates one group, but because it reduces every huma…
-
-[查看原文](https://x.com/elonmusk/status/2110407280076402980)
 
 ---
 
@@ -131,7 +117,17 @@ RT @brivael: Wokeism is the most sophisticated form of racism ever built. Not be
 
 RT @mrfundman: Wanted to read what emails my Grok bot has but Grok bot doesn’t have email UI … so I asked Grok bot to build it for me .. pr…
 
-[查看原文](https://x.com/elonmusk/status/2110407987856814183)
+---
+
+## 2026-10-15 00:54:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2110413877024526603)
 
 ---
 
