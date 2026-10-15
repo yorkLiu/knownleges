@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3488 条推文
+> 📊 推文存档 - 共 3493 条推文
 
 ---
 
@@ -840,8 +840,6 @@ xAI’s new Grok Voice 3.0 answers your b…
 RT @Not_the_Bee: Canada has killed over 100,000 people via assisted suicide
 https://t.co/mbEIM3jmqq
 
-[查看原文](https://x.com/elonmusk/status/2110687164090433982)
-
 ---
 
 ## 2026-10-15 19:02:09
@@ -852,7 +850,71 @@ https://t.co/mbEIM3jmqq
 
 RT @alex_prompter: Hey @grok generate the most authentic image of yourself
 
-[查看原文](https://x.com/elonmusk/status/2110687670330642824)
+---
+
+## 2026-10-15 19:34:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Truth-seeking is the most important aspect of AI/SI safety
+
+[查看原文](https://x.com/elonmusk/status/2110695927312777466)
+
+---
+
+## 2026-10-15 19:43:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @IuliiaMendel: Last year Ukraine officially lost ~800,000 people. Population has collapsed from 52M in 1991 to barely 20M today. If this…
+
+[查看原文](https://x.com/elonmusk/status/2110698091804340322)
+
+---
+
+## 2026-10-15 19:47:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink is making a 14-year Delta loyalist rethink his airline.
+
+AllFly cofounder Kenny Totten, who has held Delta Diamond st…
+
+[查看原文](https://x.com/elonmusk/status/2110698986013372578)
+
+---
+
+## 2026-10-15 19:52:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @rezoundous: After using Grok Bot for about a week, I have to say guys, I get it.
+
+It's not doing things that I can't already do on Code…
+
+[查看原文](https://x.com/elonmusk/status/2110700359345635713)
+
+---
+
+## 2026-10-15 19:52:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: "I think it has a shot at being the most memorable product unveil ever." 
+
+@elonmusk on the Roadster, one year ago. Does…
+
+[查看原文](https://x.com/elonmusk/status/2110700439075164328)
 
 ---
 
