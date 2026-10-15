@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3435 条推文
+> 📊 推文存档 - 共 3444 条推文
 
 ---
 
@@ -275,7 +275,117 @@ RT @parker__conrad: Meet Grok Voice 3.0! The world's most intelligent speech-to-
 
 Thi…
 
-[查看原文](https://x.com/elonmusk/status/2110523750605324798)
+---
+
+## 2026-10-15 09:22:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @farzyness @amazon Just ask Grok Bot to find the best deal on the Internet for what you want. Doesn’t need to come from Amazo…
+
+[查看原文](https://x.com/elonmusk/status/2110541887836754025)
+
+---
+
+## 2026-10-15 09:23:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @andst7: Per tutto il giorno ho ricevuto insulti e minacce perché Elon Musk avrebbe limitato Starlink in Ucraina. Numerosi ucraini che u…
+
+[查看原文](https://x.com/elonmusk/status/2110542050680606898)
+
+---
+
+## 2026-10-15 09:23:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @milichab: Grok Voice 3.0 launches today, our frontier speech-to-speech model
+
+[查看原文](https://x.com/elonmusk/status/2110542125318496744)
+
+---
+
+## 2026-10-15 09:25:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TeslaLarry: 1/ I've spent weeks building my own model of what SpaceX is worth, and my honest summary is huge risk with huge reward. Elo…
+
+[查看原文](https://x.com/elonmusk/status/2110542493909459082)
+
+---
+
+## 2026-10-15 09:26:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @coreyganim: Connect your ChatGPT and Claude subscriptions to Grok @bot with the prompt below (@elonmusk approved):
+
+Connect my Claude a…
+
+[查看原文](https://x.com/elonmusk/status/2110542728631349528)
+
+---
+
+## 2026-10-15 09:27:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @debs_obrien: My Grok @bot bots have their own email inbox now. Getting one is easy. Just ask your chief of staff: "Claim an email inbox…
+
+[查看原文](https://x.com/elonmusk/status/2110542945481039913)
+
+---
+
+## 2026-10-15 09:27:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Imagine
+
+[查看原文](https://x.com/elonmusk/status/2110543151349870751)
+
+---
+
+## 2026-10-15 09:28:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2110543220996260142)
+
+---
+
+## 2026-10-15 09:29:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX is targeting future Starbase capacity of up to 456 Starship launches per year...
+
+Starship V3 is designed to carry arou…
+
+[查看原文](https://x.com/elonmusk/status/2110543580531982396)
 
 ---
 
