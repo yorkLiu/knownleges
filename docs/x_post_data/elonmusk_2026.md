@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3477 条推文
+> 📊 推文存档 - 共 3484 条推文
 
 ---
 
@@ -701,8 +701,6 @@ Just ask Grok @Bot to buy what you want someplace else and get a better deal.
 
 There are far more purchasing websites than just Amazon!
 
-[查看原文](https://x.com/elonmusk/status/2110602585572860213)
-
 ---
 
 ## 2026-10-15 13:33:59
@@ -712,8 +710,6 @@ There are far more purchasing websites than just Amazon!
 **内容**:
 
 RT @firesidealpha: Elon Musk says the central lesson of 2001: A Space Odyssey is that you should not make AI lie, because HAL killed the cr…
-
-[查看原文](https://x.com/elonmusk/status/2110605081947103262)
 
 ---
 
@@ -727,7 +723,103 @@ RT @stevenmarkryan: Literally just sold the first product (took LESS than 6 minu
 
 Grok bot rocks! https://…
 
-[查看原文](https://x.com/elonmusk/status/2110605255968989506)
+---
+
+## 2026-10-15 13:57:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This works well. If Grok @Bot makes a mistake with a purchase or leaks your card (never happened yet), SpaceX will make you whole.
+
+[查看原文](https://x.com/elonmusk/status/2110610960474079445)
+
+---
+
+## 2026-10-15 13:58:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tslachan: X 타임라인에 Grok @Bot에 대한 감탄과 칭찬이 끊이지 않는다. 나 같은 경우에도 최근 약 열흘간 걸리는 업무를 그록 봇에게 시켰더니 2시간 채 걸리지 않았다. 
+
+처음에는 무엇을 시켜야할까, 어떻게 프롬프트를 작성해야…
+
+[查看原文](https://x.com/elonmusk/status/2110611289643053088)
+
+---
+
+## 2026-10-15 14:00:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @joehansen: Facts by #JoeHansenFacts
+
+Why are Starlink's space lasers such a big deal?
+
+Without lasers, a satellite has to send your dat…
+
+[查看原文](https://x.com/elonmusk/status/2110611700168925450)
+
+---
+
+## 2026-10-15 14:00:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @joehansen: Japan is one of the hardest car markets in the world for foreign brands. People there are loyal to Toyota, Honda and Nissan.…
+
+[查看原文](https://x.com/elonmusk/status/2110611738408431660)
+
+---
+
+## 2026-10-15 14:05:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: Pennsylvania Ballots Returned 
+
+🟦 243,560
+🟥 74,709
+
+As of right now, Republicans are going into Election Day with a defic…
+
+[查看原文](https://x.com/elonmusk/status/2110613032330244108)
+
+---
+
+## 2026-10-15 14:07:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tslachan: My 2022 Model 3 has become my second office, and Grok @bot is my co-pilot.
+
+On my drive to work, I just talk:
+"Any Tesla news…
+
+[查看原文](https://x.com/elonmusk/status/2110613441815732581)
+
+---
+
+## 2026-10-15 14:10:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @madebydia: Great illustration of why @grok @bot is winning me over. Phil's post reminded me how much effort I've put into trying to con…
+
+[查看原文](https://x.com/elonmusk/status/2110614316994941377)
 
 ---
 
