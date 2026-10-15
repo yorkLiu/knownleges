@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3467 条推文
+> 📊 推文存档 - 共 3472 条推文
 
 ---
 
@@ -555,8 +555,6 @@ Why does he say that? In 2014, Tesla opened up all its patents. Anyone coul…
 
 RT @typesfast: Today I took a Waymo to work instead of letting my Tesla drive me. Took twice as long (not even counting the wait). The rout…
 
-[查看原文](https://x.com/elonmusk/status/2110564031316505028)
-
 ---
 
 ## 2026-10-15 10:59:15
@@ -566,8 +564,6 @@ RT @typesfast: Today I took a Waymo to work instead of letting my Tesla drive me
 **内容**:
 
 China will be making a LOT of RAM in 2028
-
-[查看原文](https://x.com/elonmusk/status/2110566143983223006)
 
 ---
 
@@ -581,8 +577,6 @@ RT @KyleReidhead: Raymond James reiterates Strong Buy on $SPCX with a Street-hig
 
 The reason is SpaceX's FAA filing for…
 
-[查看原文](https://x.com/elonmusk/status/2110566590748258731)
-
 ---
 
 ## 2026-10-15 11:04:00
@@ -592,8 +586,6 @@ The reason is SpaceX's FAA filing for…
 **内容**:
 
 Recursive Self-Improvement
-
-[查看原文](https://x.com/elonmusk/status/2110567340069003542)
 
 ---
 
@@ -605,8 +597,6 @@ Recursive Self-Improvement
 
 RT @Polymarket: JUST IN: Tesla Model Y ranks as Japan's #1 imported car model for September 2026.
 
-[查看原文](https://x.com/elonmusk/status/2110567895709155334)
-
 ---
 
 ## 2026-10-15 11:10:26
@@ -616,8 +606,6 @@ RT @Polymarket: JUST IN: Tesla Model Y ranks as Japan's #1 imported car model fo
 **内容**:
 
 Exactly what I predicted has happened
-
-[查看原文](https://x.com/elonmusk/status/2110568956100841655)
 
 ---
 
@@ -631,7 +619,67 @@ RT @nextbigfuture: 5,000 Starship launches a year.
 Nearly 14 EVERY DAY.
 At 200 tonnes per flight, that moves 1 million tonnes into orbit.…
 
-[查看原文](https://x.com/elonmusk/status/2110570496316285283)
+---
+
+## 2026-10-15 11:19:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Let’s just say that this demo will be a BANGER, probably metaphorically, though some chance literally
+
+[查看原文](https://x.com/elonmusk/status/2110571266889646239)
+
+---
+
+## 2026-10-15 11:19:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: Let’s just say that this demo will be a BANGER, probably metaphorically, though some chance literally
+
+[查看原文](https://x.com/elonmusk/status/2110571294534361551)
+
+---
+
+## 2026-10-15 11:23:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk’s original Tesla Roadster, casually cruising through space. https://t.co/0qU5YSjgYv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINLmrQTSUjWu1ZPI5Lrf46tjmnSP8XAALpEWsbpeuAVrFwaJNi0zOuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110572244665872671)
+
+---
+
+## 2026-10-15 11:25:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+5000 years ago
+
+[查看原文](https://x.com/elonmusk/status/2110572721155236032)
+
+---
+
+## 2026-10-15 11:29:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the way ❤️
+
+[查看原文](https://x.com/elonmusk/status/2110573758801137909)
 
 ---
 
