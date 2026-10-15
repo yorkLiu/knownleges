@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3472 条推文
+> 📊 推文存档 - 共 3473 条推文
 
 ---
 
@@ -629,8 +629,6 @@ At 200 tonnes per flight, that moves 1 million tonnes into orbit.…
 
 Let’s just say that this demo will be a BANGER, probably metaphorically, though some chance literally
 
-[查看原文](https://x.com/elonmusk/status/2110571266889646239)
-
 ---
 
 ## 2026-10-15 11:19:43
@@ -640,8 +638,6 @@ Let’s just say that this demo will be a BANGER, probably metaphorically, thoug
 **内容**:
 
 RT @elonmusk: Let’s just say that this demo will be a BANGER, probably metaphorically, though some chance literally
-
-[查看原文](https://x.com/elonmusk/status/2110571294534361551)
 
 ---
 
@@ -653,10 +649,6 @@ RT @elonmusk: Let’s just say that this demo will be a BANGER, probably metapho
 
 RT @cb_doge: Elon Musk’s original Tesla Roadster, casually cruising through space. https://t.co/0qU5YSjgYv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINLmrQTSUjWu1ZPI5Lrf46tjmnSP8XAALpEWsbpeuAVrFwaJNi0zOuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110572244665872671)
-
 ---
 
 ## 2026-10-15 11:25:23
@@ -666,8 +658,6 @@ RT @cb_doge: Elon Musk’s original Tesla Roadster, casually cruising through sp
 **内容**:
 
 5000 years ago
-
-[查看原文](https://x.com/elonmusk/status/2110572721155236032)
 
 ---
 
@@ -679,7 +669,17 @@ RT @cb_doge: Elon Musk’s original Tesla Roadster, casually cruising through sp
 
 This is the way ❤️
 
-[查看原文](https://x.com/elonmusk/status/2110573758801137909)
+---
+
+## 2026-10-15 12:37:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Texas_Twins_Dad: My primary Grok Bot searched for dentists near me for my son, found one that accepts our insurance, and made the appoi…
+
+[查看原文](https://x.com/elonmusk/status/2110590776816316616)
 
 ---
 
