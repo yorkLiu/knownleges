@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3518 条推文
+> 📊 推文存档 - 共 3521 条推文
 
 ---
 
@@ -189,8 +189,6 @@ Today, we're piloting Video Kickstart Bonus, an invite-only program that rewards
 
 No place better to reach the world fast!
 
-[查看原文](https://x.com/elonmusk/status/2110852392304402860)
-
 ---
 
 ## 2026-10-16 05:57:59
@@ -201,7 +199,45 @@ No place better to reach the world fast!
 
 Ask your @Grok @Bot to remove your phone number from spam call &amp; text lists!
 
-[查看原文](https://x.com/elonmusk/status/2110852716247519517)
+---
+
+## 2026-10-16 06:42:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslayoda: Today's the day 🔥 The Roadster unveil is tonight, and the FAA just locked down the sky over SpaceX's McGregor site from this…
+
+[查看原文](https://x.com/elonmusk/status/2110863897720742267)
+
+---
+
+## 2026-10-16 06:50:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot improves significantly every day
+
+[查看原文](https://x.com/elonmusk/status/2110865910881820875)
+
+---
+
+## 2026-10-16 06:52:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Never seen anything grow as fast as @Grok @Bot!
+
+And there is no free tier, which means people are deriving real value in excess of what they pay. 
+
+As the saying goes, you get what you pay for.
+
+[查看原文](https://x.com/elonmusk/status/2110866513955868924)
 
 ---
 
