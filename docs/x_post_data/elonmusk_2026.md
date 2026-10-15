@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3434 条推文
+> 📊 推文存档 - 共 3435 条推文
 
 ---
 
@@ -219,8 +219,6 @@ RT @cb_doge: BREAKING: SpaceXSI just revealed that Starlink uses Grok Voice 3.0 
 
 About…
 
-[查看原文](https://x.com/elonmusk/status/2110518710964568453)
-
 ---
 
 ## 2026-10-15 07:58:19
@@ -231,8 +229,6 @@ About…
 
 Grok is the best conversational voice model in the world
 
-[查看原文](https://x.com/elonmusk/status/2110520607276499109)
-
 ---
 
 ## 2026-10-15 08:02:05
@@ -242,8 +238,6 @@ Grok is the best conversational voice model in the world
 **内容**:
 
 RT @SamSokolin: Grok @bot now supports plus aliases! Send and receive email using dedicated aliases, or set up routines that only trigger f…
-
-[查看原文](https://x.com/elonmusk/status/2110521557886148903)
 
 ---
 
@@ -257,8 +251,6 @@ RT @KyleReidhead: $SPCX isn't just building compute faster than every other neoc
 
 It has something none of them have: OPTIONALITY on ev…
 
-[查看原文](https://x.com/elonmusk/status/2110522244422324730)
-
 ---
 
 ## 2026-10-15 08:06:48
@@ -271,7 +263,19 @@ RT @ai_for_success: Grok Voice 3.0 in Grok Bot is 🔥
 
 SpaceXSI just launched Grok Voice 3.0, its new speech-to-speech model, which is curren…
 
-[查看原文](https://x.com/elonmusk/status/2110522742215000489)
+---
+
+## 2026-10-15 08:10:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @parker__conrad: Meet Grok Voice 3.0! The world's most intelligent speech-to-speech model that also excels in latency and pricing. 
+
+Thi…
+
+[查看原文](https://x.com/elonmusk/status/2110523750605324798)
 
 ---
 
