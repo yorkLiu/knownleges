@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3474 条推文
+> 📊 推文存档 - 共 3477 条推文
 
 ---
 
@@ -689,7 +689,45 @@ RT @Texas_Twins_Dad: My primary Grok Bot searched for dentists near me for my so
 
 RT @firesidealpha: Elon Musk says Starship’s fuel is mostly oxygen and easy to make on Mars, so a propellant depot there turns it into a ge…
 
-[查看原文](https://x.com/elonmusk/status/2110598609427415223)
+---
+
+## 2026-10-15 13:24:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just ask Grok @Bot to buy what you want someplace else and get a better deal. 
+
+There are far more purchasing websites than just Amazon!
+
+[查看原文](https://x.com/elonmusk/status/2110602585572860213)
+
+---
+
+## 2026-10-15 13:33:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Elon Musk says the central lesson of 2001: A Space Odyssey is that you should not make AI lie, because HAL killed the cr…
+
+[查看原文](https://x.com/elonmusk/status/2110605081947103262)
+
+---
+
+## 2026-10-15 13:34:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: Literally just sold the first product (took LESS than 6 minutes after posting the video btw).
+
+Grok bot rocks! https://…
+
+[查看原文](https://x.com/elonmusk/status/2110605255968989506)
 
 ---
 

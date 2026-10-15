@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 117 条推文
+> 📊 推文存档 - 共 118 条推文
 
 ---
 
@@ -31,9 +31,27 @@ tags: ["2026"]
 
 这种行情太诱人了，买1万股做个短线！ https://t.co/vrfm7UIqy5
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINLGrQN0EdCuOfdgvlUNK7cDGWW6fQAAJIEWsbpeuAVg16Y5cqttQdAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2110553399850930269)
+## 2026-10-15 13:26:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+怎么敬畏金融市场？
+
+就是学会止盈止损。
+每轮下跌，
+都是多头进修时间。
+
+空头也别骄傲，
+下次进修的就是你。
+
+做交易
+要当滑头！
+
+[查看原文](https://x.com/iiiinvest/status/2110603247031550428)
 
 ---
 
