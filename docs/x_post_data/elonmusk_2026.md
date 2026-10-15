@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3508 条推文
+> 📊 推文存档 - 共 3516 条推文
 
 ---
 
@@ -59,8 +59,6 @@ RT @BG2Pod: BG2 w/ @JensenHuang. Does AI Revenue Justify Capex, ‘27 AI Bottlen
 
 RT @SawyerMerritt: Tesla's Cybercab Robotaxis were involved in zero crashes or accidents during their first two weeks of public rides, acco…
 
-[查看原文](https://x.com/elonmusk/status/2110788040042156538)
-
 ---
 
 ## 2026-10-16 01:41:23
@@ -70,8 +68,6 @@ RT @SawyerMerritt: Tesla's Cybercab Robotaxis were involved in zero crashes or a
 **内容**:
 
 🔥
-
-[查看原文](https://x.com/elonmusk/status/2110788138092355945)
 
 ---
 
@@ -87,8 +83,6 @@ The Star Mind computer being co-engineered by SpaceX and Nvidia is far better th
 
 Working with the incredibly talented Nvidia engineering team is pure joy!
 
-[查看原文](https://x.com/elonmusk/status/2110789964430786745)
-
 ---
 
 ## 2026-10-16 01:52:03
@@ -99,7 +93,107 @@ Working with the incredibly talented Nvidia engineering team is pure joy!
 
 When Konstantin called me way back then, I said I had no idea what it would look like or when it would be made, but he still had the faith to put down a deposit ❤️
 
-[查看原文](https://x.com/elonmusk/status/2110790821171601691)
+---
+
+## 2026-10-16 04:32:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dvorahfr: Dance movements are among the most challenging exercises for generative AI.
+
+Grok @imagine seems to handle them very well! I…
+
+[查看原文](https://x.com/elonmusk/status/2110831234599321620)
+
+---
+
+## 2026-10-16 04:33:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+How to find out if your @United flight has Starlink super fast WiFi
+
+[查看原文](https://x.com/elonmusk/status/2110831499226358137)
+
+---
+
+## 2026-10-16 04:34:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JessePeltan: The whole world is going electric and we are way behind. https://t.co/zPYO8suPge
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINNGrROd4MRHGEaBOUslaGHoqOb8bPAALzGGsbpeuIVsAmpCp-mbSKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110831598300238165)
+
+---
+
+## 2026-10-16 04:34:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+China’s dependency on oil is dropping fast
+
+[查看原文](https://x.com/elonmusk/status/2110831760388808901)
+
+---
+
+## 2026-10-16 04:35:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @allegrajacchia: @CreeCoder Important: to qualify, videos need to be vertical, less than 3 minutes, and yours.
+
+[查看原文](https://x.com/elonmusk/status/2110831939498254345)
+
+---
+
+## 2026-10-16 04:36:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink is really that good
+
+[查看原文](https://x.com/elonmusk/status/2110832317727973501)
+
+---
+
+## 2026-10-16 04:37:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Makes sense
+
+[查看原文](https://x.com/elonmusk/status/2110832405426933893)
+
+---
+
+## 2026-10-16 04:37:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @allegrajacchia: We’re doubling down on video on 𝕏.
+
+Today, we're piloting Video Kickstart Bonus, an invite-only program that rewards cr…
+
+[查看原文](https://x.com/elonmusk/status/2110832477149577223)
 
 ---
 
