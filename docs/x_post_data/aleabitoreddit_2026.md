@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 499 条推文
+> 📊 推文存档 - 共 500 条推文
 
 ---
 
@@ -23,9 +23,25 @@ Then amplifying $CRWV financing concerns, Chinese memory flooding, to AI investo
 
 With $SPCX and $TSLA, I do think Elon is a visionary but from how it looks from the https://t.co/pjpNDxg1HO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINL2rQcPCiK7H0q_7M0zbE1dq9z7RSAAJDEmsbpeuAVm3cRMNibEo7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2110615506474651804)
+## 2026-10-15 16:14:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$TSM released earnings today. I was more curious about commentary given recent the market panic.
+
+For analyst Q&amp;A rounds: 
+
+Q: Citi explicitly challenged TSMC on AI financing, HBM, CoWoS, lasers and the risk of overbuilding capacity 
+
+A: $TSM assessed CSP capex, DC construction https://t.co/z0ErIboWUf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINMGrQjXXvbPtvPxlOB9BALW-eYcVXAAK7EmsbpeuAVsBEgB0gfd07AQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2110645575469461611)
 
 ---
 
