@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3484 条推文
+> 📊 推文存档 - 共 3485 条推文
 
 ---
 
@@ -733,8 +733,6 @@ Grok bot rocks! https://…
 
 This works well. If Grok @Bot makes a mistake with a purchase or leaks your card (never happened yet), SpaceX will make you whole.
 
-[查看原文](https://x.com/elonmusk/status/2110610960474079445)
-
 ---
 
 ## 2026-10-15 13:58:39
@@ -746,8 +744,6 @@ This works well. If Grok @Bot makes a mistake with a purchase or leaks your card
 RT @Tslachan: X 타임라인에 Grok @Bot에 대한 감탄과 칭찬이 끊이지 않는다. 나 같은 경우에도 최근 약 열흘간 걸리는 업무를 그록 봇에게 시켰더니 2시간 채 걸리지 않았다. 
 
 처음에는 무엇을 시켜야할까, 어떻게 프롬프트를 작성해야…
-
-[查看原文](https://x.com/elonmusk/status/2110611289643053088)
 
 ---
 
@@ -763,8 +759,6 @@ Why are Starlink's space lasers such a big deal?
 
 Without lasers, a satellite has to send your dat…
 
-[查看原文](https://x.com/elonmusk/status/2110611700168925450)
-
 ---
 
 ## 2026-10-15 14:00:26
@@ -774,8 +768,6 @@ Without lasers, a satellite has to send your dat…
 **内容**:
 
 RT @joehansen: Japan is one of the hardest car markets in the world for foreign brands. People there are loyal to Toyota, Honda and Nissan.…
-
-[查看原文](https://x.com/elonmusk/status/2110611738408431660)
 
 ---
 
@@ -792,8 +784,6 @@ RT @ScottPresler: Pennsylvania Ballots Returned
 
 As of right now, Republicans are going into Election Day with a defic…
 
-[查看原文](https://x.com/elonmusk/status/2110613032330244108)
-
 ---
 
 ## 2026-10-15 14:07:12
@@ -807,8 +797,6 @@ RT @Tslachan: My 2022 Model 3 has become my second office, and Grok @bot is my c
 On my drive to work, I just talk:
 "Any Tesla news…
 
-[查看原文](https://x.com/elonmusk/status/2110613441815732581)
-
 ---
 
 ## 2026-10-15 14:10:41
@@ -819,7 +807,17 @@ On my drive to work, I just talk:
 
 RT @madebydia: Great illustration of why @grok @bot is winning me over. Phil's post reminded me how much effort I've put into trying to con…
 
-[查看原文](https://x.com/elonmusk/status/2110614316994941377)
+---
+
+## 2026-10-15 14:30:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Early days of OpenAI
+
+[查看原文](https://x.com/elonmusk/status/2110619230161035670)
 
 ---
 
