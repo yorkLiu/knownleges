@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 522 条推文
+> 📊 推文存档 - 共 524 条推文
 
 ---
 
@@ -50,9 +50,43 @@ tags: ["2026"]
 
 看來，還是得喝🤗🤗🤗 https://t.co/KEfzacqjB4
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINK2rQNzzITD6fyuG9mxC63v8ExVDXAAJHEWsbpeuAVt4z4uvy7xIdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2110549850601443709)
+## 2026-10-15 10:21:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我有一個感覺【台灣要起飛了】
+
+所以，我要去高頻共振，沾沾喜氣嘍🎉🎉🎉
+
+[查看原文](https://x.com/dianzhuXS/status/2110556646414127582)
+
+---
+
+## 2026-10-15 10:42:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+袁騰飛的朋友圈又刷屏了😮‍💨😮‍💨😮‍💨
+翻【合訂本】
+看看大盧上個月說的對嗎？
+人家根本就不是「反賊」
+你們這幫長脖老等非一廂情願
+
+但有一點大盧先聲明
+只要是妄圖凝聚「精緻利己」
+在自由民主國家形成勢力
+罵美國黑美國講好中國故事
+借牆人劣根性輸出價值觀侵略
+那牠就是我的對立面
+持續觀察👀
+
+[查看原文](https://x.com/dianzhuXS/status/2110561969640239344)
 
 ---
 

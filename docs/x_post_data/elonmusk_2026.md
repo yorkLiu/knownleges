@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3454 条推文
+> 📊 推文存档 - 共 3460 条推文
 
 ---
 
@@ -381,8 +381,6 @@ Grok @Bot is great for reviewing any legal docs, like contracts or estate planni
 
 Just drop in the file and Bot figures it out.
 
-[查看原文](https://x.com/elonmusk/status/2110549185867194609)
-
 ---
 
 ## 2026-10-15 09:53:06
@@ -392,8 +390,6 @@ Just drop in the file and Bot figures it out.
 **内容**:
 
 RT @davidmarcus: I'm a car guy, and I can't remember being this excited for a car launch in a very very long time...
-
-[查看原文](https://x.com/elonmusk/status/2110549493980791067)
 
 ---
 
@@ -405,8 +401,6 @@ RT @davidmarcus: I'm a car guy, and I can't remember being this excited for a ca
 
 The new Tesla Roadster is a candidate for greatest product demo of all time
 
-[查看原文](https://x.com/elonmusk/status/2110549767063507044)
-
 ---
 
 ## 2026-10-15 09:55:03
@@ -416,10 +410,6 @@ The new Tesla Roadster is a candidate for greatest product demo of all time
 **内容**:
 
 RT @Tesla: Roadster event streaming live this Thursday at 7:55pm CST https://t.co/AbsmpVucui
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINKmrQNzcrlgaE-Y26kjKFFeyc7NJiAAJGEWsbpeuAVqHg5Q42fLniAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110549986643517600)
 
 ---
 
@@ -433,8 +423,6 @@ RT @iam_smx: Starlink and Starshield are both built by SpaceX, but they answer t
 
 Starlink is SpaceX’s commercial intern…
 
-[查看原文](https://x.com/elonmusk/status/2110550234019549439)
-
 ---
 
 ## 2026-10-15 10:00:32
@@ -444,8 +432,6 @@ Starlink is SpaceX’s commercial intern…
 **内容**:
 
 Grok @Bot rocks
-
-[查看原文](https://x.com/elonmusk/status/2110551366947213409)
 
 ---
 
@@ -459,8 +445,6 @@ RT @XFreeze: Grok Imagine is getting INSANELY good at music videos......and now 
 
 The level of realism, natural fa…
 
-[查看原文](https://x.com/elonmusk/status/2110551752252772649)
-
 ---
 
 ## 2026-10-15 10:08:30
@@ -471,8 +455,6 @@ The level of realism, natural fa…
 
 Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2110553369643245680)
-
 ---
 
 ## 2026-10-15 10:11:13
@@ -482,8 +464,6 @@ Grok @Bot
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2110554055458349177)
 
 ---
 
@@ -497,7 +477,85 @@ RT @cb_doge: When @Starlink helped rescuers save nine fishermen from a flooding 
 
 The United States Coast Guard confirmed th…
 
-[查看原文](https://x.com/elonmusk/status/2110554365912334590)
+---
+
+## 2026-10-15 10:23:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+And so the slaughter continues …
+
+Time for Zelensky to go
+
+[查看原文](https://x.com/elonmusk/status/2110557192650641827)
+
+---
+
+## 2026-10-15 10:23:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: 🔮 Grok Bot email accounts and traffic will be larger than Gmail and 1000x more productive.
+
+Efficient Grok Bot email wil…
+
+[查看原文](https://x.com/elonmusk/status/2110557262871663087)
+
+---
+
+## 2026-10-15 10:25:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2110557632058544384)
+
+---
+
+## 2026-10-15 10:32:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EmmetPeppers: Cybercab experience is legit!  Wow!  
+
+Didn’t quite understand until riding it around today for first time
+
+[查看原文](https://x.com/elonmusk/status/2110559419511795888)
+
+---
+
+## 2026-10-15 10:33:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @FedorovMykhailo Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided b…
+
+[查看原文](https://x.com/elonmusk/status/2110559649783070795)
+
+---
+
+## 2026-10-15 10:34:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Elon Musk often says: "Patents are for the weak."
+
+Why does he say that? In 2014, Tesla opened up all its patents. Anyone coul…
+
+[查看原文](https://x.com/elonmusk/status/2110560027526177264)
 
 ---
 
