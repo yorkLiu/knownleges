@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3460 条推文
+> 📊 推文存档 - 共 3467 条推文
 
 ---
 
@@ -489,8 +489,6 @@ And so the slaughter continues …
 
 Time for Zelensky to go
 
-[查看原文](https://x.com/elonmusk/status/2110557192650641827)
-
 ---
 
 ## 2026-10-15 10:23:58
@@ -503,8 +501,6 @@ RT @BrianRoemmele: 🔮 Grok Bot email accounts and traffic will be larger than 
 
 Efficient Grok Bot email wil…
 
-[查看原文](https://x.com/elonmusk/status/2110557262871663087)
-
 ---
 
 ## 2026-10-15 10:25:26
@@ -514,8 +510,6 @@ Efficient Grok Bot email wil…
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2110557632058544384)
 
 ---
 
@@ -529,8 +523,6 @@ RT @EmmetPeppers: Cybercab experience is legit!  Wow!
 
 Didn’t quite understand until riding it around today for first time
 
-[查看原文](https://x.com/elonmusk/status/2110559419511795888)
-
 ---
 
 ## 2026-10-15 10:33:27
@@ -540,8 +532,6 @@ Didn’t quite understand until riding it around today for first time
 **内容**:
 
 RT @elonmusk: @FedorovMykhailo Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided b…
-
-[查看原文](https://x.com/elonmusk/status/2110559649783070795)
 
 ---
 
@@ -555,7 +545,93 @@ RT @brivael: Elon Musk often says: "Patents are for the weak."
 
 Why does he say that? In 2014, Tesla opened up all its patents. Anyone coul…
 
-[查看原文](https://x.com/elonmusk/status/2110560027526177264)
+---
+
+## 2026-10-15 10:50:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @typesfast: Today I took a Waymo to work instead of letting my Tesla drive me. Took twice as long (not even counting the wait). The rout…
+
+[查看原文](https://x.com/elonmusk/status/2110564031316505028)
+
+---
+
+## 2026-10-15 10:59:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+China will be making a LOT of RAM in 2028
+
+[查看原文](https://x.com/elonmusk/status/2110566143983223006)
+
+---
+
+## 2026-10-15 11:01:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KyleReidhead: Raymond James reiterates Strong Buy on $SPCX with a Street-high $800 price target!
+
+The reason is SpaceX's FAA filing for…
+
+[查看原文](https://x.com/elonmusk/status/2110566590748258731)
+
+---
+
+## 2026-10-15 11:04:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Recursive Self-Improvement
+
+[查看原文](https://x.com/elonmusk/status/2110567340069003542)
+
+---
+
+## 2026-10-15 11:06:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Polymarket: JUST IN: Tesla Model Y ranks as Japan's #1 imported car model for September 2026.
+
+[查看原文](https://x.com/elonmusk/status/2110567895709155334)
+
+---
+
+## 2026-10-15 11:10:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly what I predicted has happened
+
+[查看原文](https://x.com/elonmusk/status/2110568956100841655)
+
+---
+
+## 2026-10-15 11:16:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nextbigfuture: 5,000 Starship launches a year.
+Nearly 14 EVERY DAY.
+At 200 tonnes per flight, that moves 1 million tonnes into orbit.…
+
+[查看原文](https://x.com/elonmusk/status/2110570496316285283)
 
 ---
 
