@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 521 条推文
+> 📊 推文存档 - 共 522 条推文
 
 ---
 
@@ -40,9 +40,19 @@ tags: ["2026"]
 自媒體應該也屬於『傳播學』吧
 我承認我在自媒體領域是外行 https://t.co/LVMjdkSAdd
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINKWrQL-sD9BzV4owY2E-QSkNW6j6PAAIqEWsbpeuAVvNxXiQ_yzz_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2110545854750990734)
+## 2026-10-15 09:54:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看來，還是得喝🤗🤗🤗 https://t.co/KEfzacqjB4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINK2rQNzzITD6fyuG9mxC63v8ExVDXAAJHEWsbpeuAVt4z4uvy7xIdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2110549850601443709)
 
 ---
 

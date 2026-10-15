@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3444 条推文
+> 📊 推文存档 - 共 3454 条推文
 
 ---
 
@@ -285,8 +285,6 @@ Thi…
 
 RT @elonmusk: @farzyness @amazon Just ask Grok Bot to find the best deal on the Internet for what you want. Doesn’t need to come from Amazo…
 
-[查看原文](https://x.com/elonmusk/status/2110541887836754025)
-
 ---
 
 ## 2026-10-15 09:23:31
@@ -296,8 +294,6 @@ RT @elonmusk: @farzyness @amazon Just ask Grok Bot to find the best deal on the 
 **内容**:
 
 RT @andst7: Per tutto il giorno ho ricevuto insulti e minacce perché Elon Musk avrebbe limitato Starlink in Ucraina. Numerosi ucraini che u…
-
-[查看原文](https://x.com/elonmusk/status/2110542050680606898)
 
 ---
 
@@ -309,8 +305,6 @@ RT @andst7: Per tutto il giorno ho ricevuto insulti e minacce perché Elon Musk 
 
 RT @milichab: Grok Voice 3.0 launches today, our frontier speech-to-speech model
 
-[查看原文](https://x.com/elonmusk/status/2110542125318496744)
-
 ---
 
 ## 2026-10-15 09:25:17
@@ -320,8 +314,6 @@ RT @milichab: Grok Voice 3.0 launches today, our frontier speech-to-speech model
 **内容**:
 
 RT @TeslaLarry: 1/ I've spent weeks building my own model of what SpaceX is worth, and my honest summary is huge risk with huge reward. Elo…
-
-[查看原文](https://x.com/elonmusk/status/2110542493909459082)
 
 ---
 
@@ -335,8 +327,6 @@ RT @coreyganim: Connect your ChatGPT and Claude subscriptions to Grok @bot with 
 
 Connect my Claude a…
 
-[查看原文](https://x.com/elonmusk/status/2110542728631349528)
-
 ---
 
 ## 2026-10-15 09:27:04
@@ -346,8 +336,6 @@ Connect my Claude a…
 **内容**:
 
 RT @debs_obrien: My Grok @bot bots have their own email inbox now. Getting one is easy. Just ask your chief of staff: "Claim an email inbox…
-
-[查看原文](https://x.com/elonmusk/status/2110542945481039913)
 
 ---
 
@@ -359,8 +347,6 @@ RT @debs_obrien: My Grok @bot bots have their own email inbox now. Getting one i
 
 Imagine
 
-[查看原文](https://x.com/elonmusk/status/2110543151349870751)
-
 ---
 
 ## 2026-10-15 09:28:10
@@ -370,8 +356,6 @@ Imagine
 **内容**:
 
 Yes
-
-[查看原文](https://x.com/elonmusk/status/2110543220996260142)
 
 ---
 
@@ -385,7 +369,135 @@ RT @XFreeze: SpaceX is targeting future Starbase capacity of up to 456 Starship 
 
 Starship V3 is designed to carry arou…
 
-[查看原文](https://x.com/elonmusk/status/2110543580531982396)
+---
+
+## 2026-10-15 09:51:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is great for reviewing any legal docs, like contracts or estate planning. 
+
+Just drop in the file and Bot figures it out.
+
+[查看原文](https://x.com/elonmusk/status/2110549185867194609)
+
+---
+
+## 2026-10-15 09:53:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @davidmarcus: I'm a car guy, and I can't remember being this excited for a car launch in a very very long time...
+
+[查看原文](https://x.com/elonmusk/status/2110549493980791067)
+
+---
+
+## 2026-10-15 09:54:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The new Tesla Roadster is a candidate for greatest product demo of all time
+
+[查看原文](https://x.com/elonmusk/status/2110549767063507044)
+
+---
+
+## 2026-10-15 09:55:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Roadster event streaming live this Thursday at 7:55pm CST https://t.co/AbsmpVucui
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINKmrQNzcrlgaE-Y26kjKFFeyc7NJiAAJGEWsbpeuAVqHg5Q42fLniAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110549986643517600)
+
+---
+
+## 2026-10-15 09:56:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Starlink and Starshield are both built by SpaceX, but they answer to different bosses.
+
+Starlink is SpaceX’s commercial intern…
+
+[查看原文](https://x.com/elonmusk/status/2110550234019549439)
+
+---
+
+## 2026-10-15 10:00:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot rocks
+
+[查看原文](https://x.com/elonmusk/status/2110551366947213409)
+
+---
+
+## 2026-10-15 10:02:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Imagine is getting INSANELY good at music videos......and now it can generate music too
+
+The level of realism, natural fa…
+
+[查看原文](https://x.com/elonmusk/status/2110551752252772649)
+
+---
+
+## 2026-10-15 10:08:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2110553369643245680)
+
+---
+
+## 2026-10-15 10:11:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2110554055458349177)
+
+---
+
+## 2026-10-15 10:12:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: When @Starlink helped rescuers save nine fishermen from a flooding boat in Alaska.
+
+The United States Coast Guard confirmed th…
+
+[查看原文](https://x.com/elonmusk/status/2110554365912334590)
 
 ---
 
