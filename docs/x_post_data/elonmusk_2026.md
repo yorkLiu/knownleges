@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3429 条推文
+> 📊 推文存档 - 共 3434 条推文
 
 ---
 
@@ -167,8 +167,6 @@ RT @veggie_eric: Grok Voice is one of our fastest growing segments on API. Excit
 
 RT @KanekoaTheGreat: NEW: Joe Rogan slams Democrats for opening the border to 10 million illegal immigrants, lying about Joe Biden's cognit…
 
-[查看原文](https://x.com/elonmusk/status/2110510090155708658)
-
 ---
 
 ## 2026-10-15 07:23:32
@@ -178,8 +176,6 @@ RT @KanekoaTheGreat: NEW: Joe Rogan slams Democrats for opening the border to 10
 **内容**:
 
 Major threshold passed. Almost all cars will be electric in the future.
-
-[查看原文](https://x.com/elonmusk/status/2110511855731159239)
 
 ---
 
@@ -191,8 +187,6 @@ Major threshold passed. Almost all cars will be electric in the future.
 
 Grok @Bot can detect scam emails
 
-[查看原文](https://x.com/elonmusk/status/2110512477582795125)
-
 ---
 
 ## 2026-10-15 07:26:13
@@ -202,8 +196,6 @@ Grok @Bot can detect scam emails
 **内容**:
 
 RT @SawyerMerritt: SpaceX says @Starlink call centers use Grok Voice to answer 20,000 customer calls per day. ~70% are resolved with no hum…
-
-[查看原文](https://x.com/elonmusk/status/2110512532389843324)
 
 ---
 
@@ -215,7 +207,71 @@ RT @SawyerMerritt: SpaceX says @Starlink call centers use Grok Voice to answer 2
 
 Starlink now available in Curaçao! 🛰️🇨🇼
 
-[查看原文](https://x.com/elonmusk/status/2110512674673222058)
+---
+
+## 2026-10-15 07:50:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceXSI just revealed that Starlink uses Grok Voice 3.0 to handle 20,000 daily calls in multiple languages.
+
+About…
+
+[查看原文](https://x.com/elonmusk/status/2110518710964568453)
+
+---
+
+## 2026-10-15 07:58:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is the best conversational voice model in the world
+
+[查看原文](https://x.com/elonmusk/status/2110520607276499109)
+
+---
+
+## 2026-10-15 08:02:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SamSokolin: Grok @bot now supports plus aliases! Send and receive email using dedicated aliases, or set up routines that only trigger f…
+
+[查看原文](https://x.com/elonmusk/status/2110521557886148903)
+
+---
+
+## 2026-10-15 08:04:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KyleReidhead: $SPCX isn't just building compute faster than every other neocloud
+
+It has something none of them have: OPTIONALITY on ev…
+
+[查看原文](https://x.com/elonmusk/status/2110522244422324730)
+
+---
+
+## 2026-10-15 08:06:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ai_for_success: Grok Voice 3.0 in Grok Bot is 🔥
+
+SpaceXSI just launched Grok Voice 3.0, its new speech-to-speech model, which is curren…
+
+[查看原文](https://x.com/elonmusk/status/2110522742215000489)
 
 ---
 
