@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3504 条推文
+> 📊 推文存档 - 共 3508 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @SawyerMerritt: New opinion article about @Starlink from a 7-year Delta Airlines Diamond Medallion status member (their highest loyalty…
 
-[查看原文](https://x.com/elonmusk/status/2110781325850653099)
-
 ---
 
 ## 2026-10-16 01:18:57
@@ -30,8 +28,6 @@ RT @SawyerMerritt: New opinion article about @Starlink from a 7-year Delta Airli
 **内容**:
 
 RT @SawyerMerritt: United Airlines says that last month, more than 5.4 million people - about a third of United's customers - had @Starlink…
-
-[查看原文](https://x.com/elonmusk/status/2110782491703357466)
 
 ---
 
@@ -43,8 +39,6 @@ RT @SawyerMerritt: United Airlines says that last month, more than 5.4 million p
 
 RT @JTLonsdale: Balanced piece by Judge: the civil service is 12% smaller, cuts to grants far less steep than even I had hoped, but done we…
 
-[查看原文](https://x.com/elonmusk/status/2110784478645719205)
-
 ---
 
 ## 2026-10-16 01:30:11
@@ -55,7 +49,57 @@ RT @JTLonsdale: Balanced piece by Judge: the civil service is 12% smaller, cuts 
 
 RT @BG2Pod: BG2 w/ @JensenHuang. Does AI Revenue Justify Capex, ‘27 AI Bottlenecks, Singularity, Open vs Closed &amp; more. 🚀🇺🇸 @altcap @_clark…
 
-[查看原文](https://x.com/elonmusk/status/2110785320975564965)
+---
+
+## 2026-10-16 01:40:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Tesla's Cybercab Robotaxis were involved in zero crashes or accidents during their first two weeks of public rides, acco…
+
+[查看原文](https://x.com/elonmusk/status/2110788040042156538)
+
+---
+
+## 2026-10-16 01:41:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🔥
+
+[查看原文](https://x.com/elonmusk/status/2110788138092355945)
+
+---
+
+## 2026-10-16 01:48:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Old friends are the best friends. Jensen rocks. 
+
+The Star Mind computer being co-engineered by SpaceX and Nvidia is far better than almost anyone expects and will reach volume production next year.
+
+Working with the incredibly talented Nvidia engineering team is pure joy!
+
+[查看原文](https://x.com/elonmusk/status/2110789964430786745)
+
+---
+
+## 2026-10-16 01:52:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+When Konstantin called me way back then, I said I had no idea what it would look like or when it would be made, but he still had the faith to put down a deposit ❤️
+
+[查看原文](https://x.com/elonmusk/status/2110790821171601691)
 
 ---
 
