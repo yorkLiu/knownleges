@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3485 条推文
+> 📊 推文存档 - 共 3486 条推文
 
 ---
 
@@ -817,7 +817,19 @@ RT @madebydia: Great illustration of why @grok @bot is winning me over. Phil's p
 
 Early days of OpenAI
 
-[查看原文](https://x.com/elonmusk/status/2110619230161035670)
+---
+
+## 2026-10-15 18:46:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alex_prompter: 🚨 BREAKING: Grok can now be your $18/hour receptionist. It costs $4.80 an hour.
+
+xAI’s new Grok Voice 3.0 answers your b…
+
+[查看原文](https://x.com/elonmusk/status/2110683623922057546)
 
 ---
 
