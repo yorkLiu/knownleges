@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3493 条推文
+> 📊 推文存档 - 共 3500 条推文
 
 ---
 
@@ -860,8 +860,6 @@ RT @alex_prompter: Hey @grok generate the most authentic image of yourself
 
 Truth-seeking is the most important aspect of AI/SI safety
 
-[查看原文](https://x.com/elonmusk/status/2110695927312777466)
-
 ---
 
 ## 2026-10-15 19:43:34
@@ -871,8 +869,6 @@ Truth-seeking is the most important aspect of AI/SI safety
 **内容**:
 
 RT @IuliiaMendel: Last year Ukraine officially lost ~800,000 people. Population has collapsed from 52M in 1991 to barely 20M today. If this…
-
-[查看原文](https://x.com/elonmusk/status/2110698091804340322)
 
 ---
 
@@ -886,8 +882,6 @@ RT @cb_doge: Starlink is making a 14-year Delta loyalist rethink his airline.
 
 AllFly cofounder Kenny Totten, who has held Delta Diamond st…
 
-[查看原文](https://x.com/elonmusk/status/2110698986013372578)
-
 ---
 
 ## 2026-10-15 19:52:35
@@ -899,8 +893,6 @@ AllFly cofounder Kenny Totten, who has held Delta Diamond st…
 RT @rezoundous: After using Grok Bot for about a week, I have to say guys, I get it.
 
 It's not doing things that I can't already do on Code…
-
-[查看原文](https://x.com/elonmusk/status/2110700359345635713)
 
 ---
 
@@ -914,7 +906,97 @@ RT @teslaownersSV: "I think it has a shot at being the most memorable product un
 
 @elonmusk on the Roadster, one year ago. Does…
 
-[查看原文](https://x.com/elonmusk/status/2110700439075164328)
+---
+
+## 2026-10-15 20:30:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: United just launched a Starlink tracker so you can check if your next flight has Starlink Wi-Fi and follow its rollo…
+
+[查看原文](https://x.com/elonmusk/status/2110709851508687226)
+
+---
+
+## 2026-10-15 20:37:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+New Roadster is 
+beyond movies, 
+beyond imagination, 
+beyond human, 
+yet still made
+by humans
+on Earth
+
+[查看原文](https://x.com/elonmusk/status/2110711574121857208)
+
+---
+
+## 2026-10-15 20:38:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The whole world will watch this
+
+[查看原文](https://x.com/elonmusk/status/2110711793337135550)
+
+---
+
+## 2026-10-15 20:38:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DrKnowItAll16: Adding a guarantee that you’ll be ok if something goes wrong makes me much more likely to try @bot out for a shopping ru…
+
+[查看原文](https://x.com/elonmusk/status/2110711866985230838)
+
+---
+
+## 2026-10-15 20:45:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: Timing is everything
+
+[查看原文](https://x.com/elonmusk/status/2110713740832178649)
+
+---
+
+## 2026-10-15 20:51:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tesla_singapore: Livestream at Tesla Experience Centre, Toa Payoh on October 16 https://t.co/IAMvIxkJeG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINMWrQzjzMfBqmxe6T_dgmwFJHzClYAAKqF2sbpeuIVh_GXUWUU0bvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110715206657798321)
+
+---
+
+## 2026-10-15 20:52:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Maybe we should start a competitor to Amazon 🤔
+
+[查看原文](https://x.com/elonmusk/status/2110715556328579219)
 
 ---
 
