@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3486 条推文
+> 📊 推文存档 - 共 3488 条推文
 
 ---
 
@@ -829,7 +829,30 @@ RT @alex_prompter: 🚨 BREAKING: Grok can now be your $18/hour receptionist. It
 
 xAI’s new Grok Voice 3.0 answers your b…
 
-[查看原文](https://x.com/elonmusk/status/2110683623922057546)
+---
+
+## 2026-10-15 19:00:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Not_the_Bee: Canada has killed over 100,000 people via assisted suicide
+https://t.co/mbEIM3jmqq
+
+[查看原文](https://x.com/elonmusk/status/2110687164090433982)
+
+---
+
+## 2026-10-15 19:02:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alex_prompter: Hey @grok generate the most authentic image of yourself
+
+[查看原文](https://x.com/elonmusk/status/2110687670330642824)
 
 ---
 
