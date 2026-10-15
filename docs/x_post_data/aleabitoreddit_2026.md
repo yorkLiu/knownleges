@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 500 条推文
+> 📊 推文存档 - 共 501 条推文
+
+---
+
+## 2026-10-16 04:00:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. 
+
+Samsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and the others. 
+
+They also expect HBM prices https://t.co/ucc5TKZsKu
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINM2rRMpXEHG8Im1umdGcZTxe3OF1VAALhGGsbpeuIVkSmJLsg376OAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2110823066595131768)
 
 ---
 
