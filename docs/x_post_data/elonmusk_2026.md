@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3473 条推文
+> 📊 推文存档 - 共 3474 条推文
 
 ---
 
@@ -679,7 +679,17 @@ This is the way ❤️
 
 RT @Texas_Twins_Dad: My primary Grok Bot searched for dentists near me for my son, found one that accepts our insurance, and made the appoi…
 
-[查看原文](https://x.com/elonmusk/status/2110590776816316616)
+---
+
+## 2026-10-15 13:08:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Elon Musk says Starship’s fuel is mostly oxygen and easy to make on Mars, so a propellant depot there turns it into a ge…
+
+[查看原文](https://x.com/elonmusk/status/2110598609427415223)
 
 ---
 
