@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3521 条推文
+> 📊 推文存档 - 共 3523 条推文
 
 ---
 
@@ -209,8 +209,6 @@ Ask your @Grok @Bot to remove your phone number from spam call &amp; text lists!
 
 RT @teslayoda: Today's the day 🔥 The Roadster unveil is tonight, and the FAA just locked down the sky over SpaceX's McGregor site from this…
 
-[查看原文](https://x.com/elonmusk/status/2110863897720742267)
-
 ---
 
 ## 2026-10-16 06:50:25
@@ -220,8 +218,6 @@ RT @teslayoda: Today's the day 🔥 The Roadster unveil is tonight, and the FAA 
 **内容**:
 
 Grok @Bot improves significantly every day
-
-[查看原文](https://x.com/elonmusk/status/2110865910881820875)
 
 ---
 
@@ -237,7 +233,33 @@ And there is no free tier, which means people are deriving real value in excess 
 
 As the saying goes, you get what you pay for.
 
-[查看原文](https://x.com/elonmusk/status/2110866513955868924)
+---
+
+## 2026-10-16 07:35:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: NVIDIA CEO Jensen Huang on Elon Musk’s AI buildout:
+
+“He’s moved from the K’s to the M’s.”
+
+NVIDIA has moved Elon’s AI busines…
+
+[查看原文](https://x.com/elonmusk/status/2110877330314858831)
+
+---
+
+## 2026-10-16 07:36:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Maybe more than 10GW
+
+[查看原文](https://x.com/elonmusk/status/2110877572011844019)
 
 ---
 
