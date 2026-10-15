@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 501 条推文
+> 📊 推文存档 - 共 502 条推文
 
 ---
 
@@ -23,9 +23,28 @@ Samsung already has 70% of their capacity allocated through 2031, and this move 
 
 They also expect HBM prices https://t.co/ucc5TKZsKu
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINM2rRMpXEHG8Im1umdGcZTxe3OF1VAALhGGsbpeuIVkSmJLsg376OAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2110823066595131768)
+## 2026-10-16 05:42:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Glad we finally got a word too from $NVDA Jensen Huang today from an event at Stockholm...
+
+About $CRWV amid the broader Neocloud selloff. 
+
+When asked about the markets reactions to Coreweave, Jensen responded: 
+
+- "Coreweave's strength is improving every day, I'm optimistic"
+- https://t.co/Dt1uNlL4Ts
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINNWrRT0yLfF519ieXNPGHhO2Dvz68AAJeGWsbpeuIVi5Sl4D2a6GnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINNmrRT0-xvDOArMRreBWV8IQ24xt5AAJfGWsbpeuIVoKBNxsHlml7AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2110848740559126575)
 
 ---
 

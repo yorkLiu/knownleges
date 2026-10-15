@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3516 条推文
+> 📊 推文存档 - 共 3518 条推文
 
 ---
 
@@ -105,8 +105,6 @@ RT @dvorahfr: Dance movements are among the most challenging exercises for gener
 
 Grok @imagine seems to handle them very well! I…
 
-[查看原文](https://x.com/elonmusk/status/2110831234599321620)
-
 ---
 
 ## 2026-10-16 04:33:41
@@ -116,8 +114,6 @@ Grok @imagine seems to handle them very well! I…
 **内容**:
 
 How to find out if your @United flight has Starlink super fast WiFi
-
-[查看原文](https://x.com/elonmusk/status/2110831499226358137)
 
 ---
 
@@ -129,10 +125,6 @@ How to find out if your @United flight has Starlink super fast WiFi
 
 RT @JessePeltan: The whole world is going electric and we are way behind. https://t.co/zPYO8suPge
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINNGrROd4MRHGEaBOUslaGHoqOb8bPAALzGGsbpeuIVsAmpCp-mbSKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110831598300238165)
-
 ---
 
 ## 2026-10-16 04:34:43
@@ -142,8 +134,6 @@ RT @JessePeltan: The whole world is going electric and we are way behind. https:
 **内容**:
 
 China’s dependency on oil is dropping fast
-
-[查看原文](https://x.com/elonmusk/status/2110831760388808901)
 
 ---
 
@@ -155,8 +145,6 @@ China’s dependency on oil is dropping fast
 
 RT @allegrajacchia: @CreeCoder Important: to qualify, videos need to be vertical, less than 3 minutes, and yours.
 
-[查看原文](https://x.com/elonmusk/status/2110831939498254345)
-
 ---
 
 ## 2026-10-16 04:36:56
@@ -167,8 +155,6 @@ RT @allegrajacchia: @CreeCoder Important: to qualify, videos need to be vertical
 
 Starlink is really that good
 
-[查看原文](https://x.com/elonmusk/status/2110832317727973501)
-
 ---
 
 ## 2026-10-16 04:37:17
@@ -178,8 +164,6 @@ Starlink is really that good
 **内容**:
 
 Makes sense
-
-[查看原文](https://x.com/elonmusk/status/2110832405426933893)
 
 ---
 
@@ -193,7 +177,31 @@ RT @allegrajacchia: We’re doubling down on video on 𝕏.
 
 Today, we're piloting Video Kickstart Bonus, an invite-only program that rewards cr…
 
-[查看原文](https://x.com/elonmusk/status/2110832477149577223)
+---
+
+## 2026-10-16 05:56:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+𝕏 is the global town square. 
+
+No place better to reach the world fast!
+
+[查看原文](https://x.com/elonmusk/status/2110852392304402860)
+
+---
+
+## 2026-10-16 05:57:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Ask your @Grok @Bot to remove your phone number from spam call &amp; text lists!
+
+[查看原文](https://x.com/elonmusk/status/2110852716247519517)
 
 ---
 
