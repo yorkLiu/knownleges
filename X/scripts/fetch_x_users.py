@@ -928,38 +928,47 @@ def main():
     }
     
     for username, description in TARGET_USERS.items():
-        print(f"📥 正在获取 @{username} ({description})...", end=" ")
-        tweets = fetch_user_tweets(username)
-        
-        if tweets:
-            print(f"✅ {len(tweets)} 条推文")
+        try:
+            print(f"📥 正在获取 @{username} ({description})...", end=" ")
+            tweets = fetch_user_tweets(username)
             
-            img_count = sum(len(t['images']) for t in tweets)
-            user_stats = {'fetched': 0, 'new': 0, 'duplicates': 0}
-            user_dir, has_new, downloaded_imgs = save_to_markdown(username, description, tweets, user_stats)
-            
-            if has_new:
-                print(f" 💾 已保存到：{user_dir.name} (新增 {user_stats['new']} 条)")
-                if downloaded_imgs > 0:
-                    print(f" 🖼️ 实际下载 {downloaded_imgs} 张图片")
+            if tweets:
+                print(f"✅ {len(tweets)} 条推文")
+                
+                img_count = sum(len(t['images']) for t in tweets)
+                user_stats = {'fetched': 0, 'new': 0, 'duplicates': 0}
+                user_dir, has_new, downloaded_imgs = save_to_markdown(username, description, tweets, user_stats)
+                
+                if has_new:
+                    print(f" 💾 已保存到：{user_dir.name} (新增 {user_stats['new']} 条)")
+                    if downloaded_imgs > 0:
+                        print(f" 🖼️ 实际下载 {downloaded_imgs} 张图片")
+                else:
+                    print(f" ⏭️ 无新推文，跳过写入")
+                
+                all_stats['total_users'] += 1
+                all_stats['fetched'] += user_stats['fetched']
+                all_stats['new'] += user_stats['new']
+                all_stats['duplicates'] += user_stats['duplicates']
+                all_stats['users'][username] = {
+                    'fetched': user_stats['fetched'],
+                    'new': user_stats['new'],
+                    'duplicates': user_stats['duplicates'],
+                }
             else:
-                print(f" ⏭️ 无新推文，跳过写入")
-            
-            all_stats['total_users'] += 1
-            all_stats['fetched'] += user_stats['fetched']
-            all_stats['new'] += user_stats['new']
-            all_stats['duplicates'] += user_stats['duplicates']
-            all_stats['users'][username] = {
-                'fetched': user_stats['fetched'],
-                'new': user_stats['new'],
-                'duplicates': user_stats['duplicates'],
-            }
-        else:
-            print(f"⚠️ 无法获取\n")
+                print(f"⚠️ 无法获取\n")
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
+            print(f"❌ @{username} 处理异常（跳过，不影响其他用户）：{e}\n")
+            all_stats['users'][username] = {'fetched': 0, 'new': 0, 'duplicates': 0}
     
-    print("\n📋 正在生成统计报告...", end=" ")
-    save_stats_report(all_stats)
-    print(f"✅ {STATS_FILE.name}\n")
+    try:
+        print("\n📋 正在生成统计报告...", end=" ")
+        save_stats_report(all_stats)
+        print(f"✅ {STATS_FILE.name}\n")
+    except Exception as e:
+        print(f"❌ 统计报告生成失败（不影响已保存的推文）：{e}\n")
 
     print("=" * 70)
     print(f"✅ 完成！")
@@ -971,7 +980,12 @@ def main():
     print(f" 📊 统计报告：{STATS_FILE.name}")
     print(f" 🕐 时区：{TIMEZONE_STR}")
     print("=" * 70)
-    build_yearly_summary()
+    try:
+        build_yearly_summary()
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        print(f"❌ 年度汇总构建失败（每日文件已安全保存，下轮重试）：{e}")
 
 
 if __name__ == "__main__":
