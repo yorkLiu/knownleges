@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3584 条推文
+> 📊 推文存档 - 共 3589 条推文
 
 ---
 
@@ -205,10 +205,6 @@ SpaceXS…
 
 RT @elonmusk: @jgebbia https://t.co/Eyi0yDOoKS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINWmrSoa25jo5FCAbnR2ME3OnpssUwAAJJFmsbcteRVnke5L9f8AiqAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111214603665637693)
-
 ---
 
 ## 2026-10-17 05:56:21
@@ -220,8 +216,6 @@ RT @elonmusk: @jgebbia https://t.co/Eyi0yDOoKS
 RT @bot: We've made some improvements to Grok Bot’s quality, polish, and speed.
 
 Cards in chat have a new design with a cleaner layout. htt…
-
-[查看原文](https://x.com/elonmusk/status/2111214691590750491)
 
 ---
 
@@ -235,7 +229,73 @@ RT @allegrajacchia: Had the best time yesterday hosting our first X Creator Conn
 
 I say this a lot, but truly there’s neve…
 
-[查看原文](https://x.com/elonmusk/status/2111218645095649783)
+---
+
+## 2026-10-17 06:15:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TrungTPhan: Tesla VP of Hardware Engineering Lars Moravy explains to Hagerty how the Roadster borrows SpaceX cold gas thrusters to make…
+
+[查看原文](https://x.com/elonmusk/status/2111219444630647058)
+
+---
+
+## 2026-10-17 06:20:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FBIDirectorKash: Thank a cop today 🇺🇸 https://t.co/DfPv9GBhea
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINXWrSqPjk7Qwx2_JYbGtZpJzp0BatAAJ5FmsbcteRVjXbqCibpAYUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111220817287938468)
+
+---
+
+## 2026-10-17 06:23:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Anto_Sabatella: "Baby, You Flew": Claudia x Roadster 
+Spent half a day with Claudia &amp; Claude.
+Special thanks to @anabology for the MCP…
+
+[查看原文](https://x.com/elonmusk/status/2111221472375234860)
+
+---
+
+## 2026-10-17 06:23:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/uBK14MgJZ0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINXGrSqPX4G-86DQfBvUGNHSwOMNlwAAJ4FmsbcteRVuMPQGc480-XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111221594513387676)
+
+---
+
+## 2026-10-17 06:27:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bigturtleneck: Asmongold is in complete disbelief reacting to Elon and Tesla's New Roadster. https://t.co/H3atMYU0pY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINW2rSqPIy7YkDs7dZn9PtdS--aqlTAAJ2FmsbcteRVtM1d0vBE0vDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111222445109858500)
 
 ---
 
