@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3523 条推文
+> 📊 推文存档 - 共 3524 条推文
 
 ---
 
@@ -247,8 +247,6 @@ RT @cb_doge: NVIDIA CEO Jensen Huang on Elon Musk’s AI buildout:
 
 NVIDIA has moved Elon’s AI busines…
 
-[查看原文](https://x.com/elonmusk/status/2110877330314858831)
-
 ---
 
 ## 2026-10-16 07:36:46
@@ -259,7 +257,17 @@ NVIDIA has moved Elon’s AI busines…
 
 Maybe more than 10GW
 
-[查看原文](https://x.com/elonmusk/status/2110877572011844019)
+---
+
+## 2026-10-16 08:44:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla x SpaceX
+
+[查看原文](https://x.com/elonmusk/status/2110894635904110632)
 
 ---
 
