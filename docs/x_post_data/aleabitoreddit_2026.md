@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 503 条推文
+> 📊 推文存档 - 共 504 条推文
+
+---
+
+## 2026-10-17 05:25:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub. 
+
+$DELL CEO on memory, suggested: "It's a 4 year problem because there's just not enough supply"
+
+Factories take about 4 years to build, meaning new production would emerge 2029 or 2030.
+
+and that https://t.co/ZRcWHhMEDn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINWGrSmmus-f-B5kmKqil9bCWOZHBkAAIeFmsbcteRVvp4-mM_1ikbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINWWrSmm1iiLDHeg1Y2HKHVp-Le8WNAAIfFmsbcteRVhDSxidbyEfGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2111206827790885288)
 
 ---
 
