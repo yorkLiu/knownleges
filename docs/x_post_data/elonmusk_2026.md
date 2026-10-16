@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3563 条推文
+> 📊 推文存档 - 共 3564 条推文
 
 ---
 
@@ -662,14 +662,6 @@ Because not everything is about whe…
 
 RT @Tesla: Holy smokes https://t.co/rTnRobllwc
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINUWrR0fjwV3O_CgAB9cVMP3c9IQcQcgACwhJrG6XrkFYUsqJYIYG_GQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINUmrR0fqnw0Nf9LoofnULUxmrM3mPAALDEmsbpeuQVjwroIvrWz7PAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINU2rR0f3ZSntqdi8xxMKOyJqtMkckAALEEmsbpeuQVqzETGGwHCkCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110988635264950570)
-
 ---
 
 ## 2026-10-16 15:06:19
@@ -680,15 +672,19 @@ RT @Tesla: Holy smokes https://t.co/rTnRobllwc
 
 RT @SpaceX: Falcon 9 launches USSF-481 to orbit from pad 4E in California https://t.co/FjBOh6qRii
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINTWrR0e0xs5vCuTPFFAwjMcQhCWheAAK-EmsbpeuQVl0aciMDDnLoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINTmrR0fCjfAx39DuXfpgrP2qzSmzkAAK_EmsbpeuQVrNN_dtmnjEFAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-16 23:03:59
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINT2rR0fO6rBe_bhK-6BJF9O1KsiiuAALAEmsbpeuQVtFj1WeLDMC5AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINUGrR0fXHYEWlLxvEz9m9VSazKkzVAALBEmsbpeuQVvrZmCZB6PNLAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/elonmusk/status/2110990708664410539)
+RT @monokern: SpaceXAI's Grok Bot team put their own bot templates in the marketplace, and this is a f*c*ing goldmine
+
+you can import a set…
+
+[查看原文](https://x.com/elonmusk/status/2111110917177954747)
 
 ---
 

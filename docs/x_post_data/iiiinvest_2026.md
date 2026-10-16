@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 124 条推文
+> 📊 推文存档 - 共 125 条推文
 
 ---
 
@@ -43,7 +43,21 @@ tags: ["2026"]
 
 今天要继续反弹了。
 
-[查看原文](https://x.com/iiiinvest/status/2110973627076362576)
+---
+
+## 2026-10-16 22:24:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+1100万美金仓位！
+
+800万黄金多单+300万半导体多单，我怎么输？你看到我在做多黄金+半导体，实际我是在做空情绪！ https://t.co/0dZ9irdZUC
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINVGrSRDNv3XC4jsrnsrYUyAV8QdSNAALyE2sbcteRVtylDUOdPc_BAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2111100890803581142)
 
 ---
 
