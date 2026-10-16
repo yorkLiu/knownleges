@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 529 条推文
+> 📊 推文存档 - 共 530 条推文
 
 ---
 
@@ -45,7 +45,23 @@ tags: ["2026"]
 
 今晚老時間Substack叨逼叨
 
-[查看原文](https://x.com/dianzhuXS/status/2110914570776961269)
+---
+
+## 2026-10-16 11:13:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+其實對於牆國丁未紅羊年的預測很簡單
+
+氣候上，該有水的地方乾旱，該乾爽的地方發水，旱的旱死澇的澇死
+
+政治上，大概率就是「新四人幫」奪權年啦 https://t.co/9es0STqK4Y
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINPmrRl9lpD4QAAYE_VGx1TCQ-2gPmHAACZxprG6XriFbb8U2nR8QgbwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2110932183670280254)
 
 ---
 

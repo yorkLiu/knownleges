@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3537 条推文
+> 📊 推文存档 - 共 3539 条推文
 
 ---
 
@@ -370,8 +370,6 @@ RT @woodhaus2: Roadster! https://t.co/BvtnFaLNbN
 
 RT @Erdayastronaut: Easily the coolest thing I’ve ever seen a car do!!! Now this is impressive! I gotta learn more about the actual practic…
 
-[查看原文](https://x.com/elonmusk/status/2110923657333915889)
-
 ---
 
 ## 2026-10-16 10:40:01
@@ -381,10 +379,6 @@ RT @Erdayastronaut: Easily the coolest thing I’ve ever seen a car do!!! Now th
 **内容**:
 
 https://t.co/KBWjjWknXe
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINPWrRkItcbD7bd3iJwHtNHYukt8v-AAInGmsbpeuIVgxhE6u2ajwAAQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110923689797808453)
 
 ---
 
@@ -396,10 +390,6 @@ https://t.co/KBWjjWknXe
 
 RT @Tesla: Real life, baby https://t.co/3QEqn18wig
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINPGrRkIiDJI2zQU4AAXSN2y1hwbh6vQACJhprG6XriFbwg8tz0VIAAbEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110923749138842065)
-
 ---
 
 ## 2026-10-16 10:41:33
@@ -410,7 +400,32 @@ RT @Tesla: Real life, baby https://t.co/3QEqn18wig
 
 RT @cb_doge: ELON MUSK: “It's going to be pretty wild that you can have a rocket car. The car has attitude control thrusters and main thrus…
 
-[查看原文](https://x.com/elonmusk/status/2110924078169063933)
+---
+
+## 2026-10-16 11:10:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ID_AA_Carmack: That demo involved a non trivial chance of embarrassing failure! 🫡
+
+I’m only going for the baseline model. At this point…
+
+[查看原文](https://x.com/elonmusk/status/2110931414212346190)
+
+---
+
+## 2026-10-16 11:13:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FutureJurvetson: Ok that was beyond insane.  Beyond plaid.
+0-60 in 0.8 seconds (thanks to thrusters and suction for tire grip) and top…
+
+[查看原文](https://x.com/elonmusk/status/2110932103424508344)
 
 ---
 
