@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3578 条推文
+> 📊 推文存档 - 共 3580 条推文
 
 ---
 
@@ -127,8 +127,6 @@ RT @XFreeze: 16 years ago, Elon Musk stood beside the original Tesla Roadster on
 
 Look how far Tesla has come https://t.co/…
 
-[查看原文](https://x.com/elonmusk/status/2111158013675581513)
-
 ---
 
 ## 2026-10-17 02:20:31
@@ -138,8 +136,6 @@ Look how far Tesla has come https://t.co/…
 **内容**:
 
 RT @Starlink: We have worked closely with regulators, industry and operators in India for 5+ years, and built a network of dedicated system…
-
-[查看原文](https://x.com/elonmusk/status/2111160373156188206)
 
 ---
 
@@ -153,8 +149,6 @@ RT @Teslaconomics: I’ve never seen a product unveil come close to what Tesla p
 
 Elon was right.…
 
-[查看原文](https://x.com/elonmusk/status/2111160525329740072)
-
 ---
 
 ## 2026-10-17 02:26:15
@@ -165,7 +159,33 @@ Elon was right.…
 
 RT @elonmusk: @0x_kaize We are putting a lot of effort into a specialized Hagglebot for business use, as we think it could improve enterpri…
 
-[查看原文](https://x.com/elonmusk/status/2111161815925203417)
+---
+
+## 2026-10-17 02:59:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @javif4_: i was talking 4 days with Claude for this song
+Berlin rave meets opera.
+Human-made Slopcore.
+Unpromptable.
+55,000 lines of cod…
+
+[查看原文](https://x.com/elonmusk/status/2111170145406402896)
+
+---
+
+## 2026-10-17 03:00:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Incentives drive outcomes
+
+[查看原文](https://x.com/elonmusk/status/2111170548038324695)
 
 ---
 
