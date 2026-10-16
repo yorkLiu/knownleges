@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3551 条推文
+> 📊 推文存档 - 共 3554 条推文
 
 ---
 
@@ -467,8 +467,6 @@ The last best driver's car https://t.co/WURiDjgcPD
 
 RT @SawyerMerritt: Here is the @Tesla Roadster’s battery and drive unit, which is one-third more powerful than the Model S Plaid’s, with ha…
 
-[查看原文](https://x.com/elonmusk/status/2110941984881885262)
-
 ---
 
 ## 2026-10-16 12:06:29
@@ -478,10 +476,6 @@ RT @SawyerMerritt: Here is the @Tesla Roadster’s battery and drive unit, which
 **内容**:
 
 RT @wmorrill3: Where we're going, we don't need roads https://t.co/HEy74GMHGd
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINRGrRpnpPT1_CdLzXcckxhaFqLewyAAKqGmsbpeuIVl4a807fRuzpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110945451746931077)
 
 ---
 
@@ -493,8 +487,6 @@ RT @wmorrill3: Where we're going, we don't need roads https://t.co/HEy74GMHGd
 
 RT @tobi: Tesla really did it. This isn't AI.
 
-[查看原文](https://x.com/elonmusk/status/2110945480720965859)
-
 ---
 
 ## 2026-10-16 12:06:55
@@ -504,8 +496,6 @@ RT @tobi: Tesla really did it. This isn't AI.
 **内容**:
 
 RT @cboyack: My @grok @bot monitors my calendar, and when it sees my return flight has landed, it turns on my @tesla so the temperature is…
-
-[查看原文](https://x.com/elonmusk/status/2110945559003423108)
 
 ---
 
@@ -517,8 +507,6 @@ RT @cboyack: My @grok @bot monitors my calendar, and when it sees my return flig
 
 RT @wintonARK: @DMaguireARK Even in real life it doesn’t look real
 
-[查看原文](https://x.com/elonmusk/status/2110946056238518404)
-
 ---
 
 ## 2026-10-16 12:10:20
@@ -528,8 +516,6 @@ RT @wintonARK: @DMaguireARK Even in real life it doesn’t look real
 **内容**:
 
 RT @Rothmus: Tesla now runs half of America’s public DC fast chargers with over 40,000 ports, while the $7.5B federal NEVI program had open…
-
-[查看原文](https://x.com/elonmusk/status/2110946421243318583)
 
 ---
 
@@ -541,10 +527,6 @@ RT @Rothmus: Tesla now runs half of America’s public DC fast chargers with ove
 
 RT @Tesla: Do a kickflip! https://t.co/DJ1Bq1yu8m
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINQ2rRpnbLhWpyZtIDddlAoT59k14yAAKpGmsbpeuIViOdGO-06qcCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110946744230187048)
-
 ---
 
 ## 2026-10-16 12:13:18
@@ -554,8 +536,6 @@ RT @Tesla: Do a kickflip! https://t.co/DJ1Bq1yu8m
 **内容**:
 
 My OG Roadster is still orbiting Mars and Earth
-
-[查看原文](https://x.com/elonmusk/status/2110947164512038931)
 
 ---
 
@@ -567,9 +547,45 @@ My OG Roadster is still orbiting Mars and Earth
 
 RT @cb_doge: 18 years apart. https://t.co/jZwO7mED82
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINQmrRpnTj20NC9UbMDNp5wO1LUnPNAAKoGmsbpeuIVucWXyUbvl8FAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2110947253175328921)
+## 2026-10-16 12:27:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @edmunds: The Tesla Roadster is real and it can fly and it looks incredible in person https://t.co/VVrk8JupFY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINRmrRrcPrk-8UqvOVaJu1hKfoJwWxAALEGmsbpeuIVgicf01ZqpipAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110950700373201113)
+
+---
+
+## 2026-10-16 12:29:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PsyopAnime: bro https://t.co/GVxLZR3r3j
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINRWrRrcEKfiyTmSTddJ3qwr_-pv8jAALDGmsbpeuIVkhK9ve44J3_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110951176871227825)
+
+---
+
+## 2026-10-16 12:29:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @icreatelife: I'm obsessed with Grok Bot for content creation and community building. I don't automate my X engagement. Everything I wri…
+
+[查看原文](https://x.com/elonmusk/status/2110951249969389743)
 
 ---
 
