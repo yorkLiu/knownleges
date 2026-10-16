@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3571 条推文
+> 📊 推文存档 - 共 3574 条推文
 
 ---
 
@@ -43,8 +43,6 @@ RT @petergyang: It’s no secret that Grok @Bot is my favorite 24/7 AI agent rig
 
 I’m partnering with @spacexai to give out codes for…
 
-[查看原文](https://x.com/elonmusk/status/2111135460861038952)
-
 ---
 
 ## 2026-10-17 00:42:41
@@ -54,8 +52,6 @@ I’m partnering with @spacexai to give out codes for…
 **内容**:
 
 Southwest Airlines going all-in with @Starlink!
-
-[查看原文](https://x.com/elonmusk/status/2111135753732301178)
 
 ---
 
@@ -69,8 +65,6 @@ RT @icreatelife: My favorite Grok Bot use case so far:
 
 I wake up to hundreds of comments. I try to answer everyone, but some always slip t…
 
-[查看原文](https://x.com/elonmusk/status/2111135858216902816)
-
 ---
 
 ## 2026-10-17 00:47:36
@@ -80,10 +74,6 @@ I wake up to hundreds of comments. I try to answer everyone, but some always sli
 **内容**:
 
 RT @SmokeAwayyy: Look at those thrusters go. https://t.co/b8eHiELke7
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINVmrSWBiCKrgQoSLyaTLseErvbOOyAAJwFGsbcteRVqvv6ymL4JdVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111136992884924702)
 
 ---
 
@@ -95,9 +85,43 @@ RT @SmokeAwayyy: Look at those thrusters go. https://t.co/b8eHiELke7
 
 RT @SpaceX: Liftoff! https://t.co/yjEQXS2RKu
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINVWrSWBWqtufWgy8crM1vnj2MDKDnAAJvFGsbcteRVrU05rwMmM08AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2111137368186986837)
+## 2026-10-17 01:22:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pjvann: A lot of you have been asking for @bot to be able to access your @chat messages and message requests to help manage busy inboxe…
+
+[查看原文](https://x.com/elonmusk/status/2111145862080442541)
+
+---
+
+## 2026-10-17 01:23:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WhiteHouse: America IS dominating the frontiers of science &amp; technology. 😤 https://t.co/1CiKsPKA76
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINV2rSX1v2-X_EU6Zgb68_2pLCoAzTAAKhFGsbcteRVpEDr6YsOAtqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111145925615947908)
+
+---
+
+## 2026-10-17 01:24:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Please report ugly or misleading ads to 𝕏 @Ads
+
+[查看原文](https://x.com/elonmusk/status/2111146290730168744)
 
 ---
 
