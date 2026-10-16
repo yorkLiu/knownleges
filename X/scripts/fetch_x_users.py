@@ -8,7 +8,10 @@ X/Twitter 推文爬虫（增强版 v2）
 - 支持时区配置
 """
 
-import feedparser
+try:
+    import feedparser
+except ImportError:
+    feedparser = None  # Nitter RSS 回退不可用（Nitter 已停用），不影响 Syndication 主流程
 import json
 import os
 import re
@@ -431,6 +434,9 @@ def parse_time_with_timezone(time_str):
 
 def fetch_user_tweets_nitter(username):
     """从 Nitter RSS 获取用户推文（Syndication 失败时回退）"""
+    if feedparser is None:
+        print("⚠️ feedparser 未安装，Nitter RSS 回退不可用")
+        return []
     rss_url = f"{RSS_BASE_URL}/{username}/rss"
     
     try:
