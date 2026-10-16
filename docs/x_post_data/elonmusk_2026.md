@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3574 条推文
+> 📊 推文存档 - 共 3578 条推文
 
 ---
 
@@ -95,8 +95,6 @@ RT @SpaceX: Liftoff! https://t.co/yjEQXS2RKu
 
 RT @pjvann: A lot of you have been asking for @bot to be able to access your @chat messages and message requests to help manage busy inboxe…
 
-[查看原文](https://x.com/elonmusk/status/2111145862080442541)
-
 ---
 
 ## 2026-10-17 01:23:06
@@ -106,10 +104,6 @@ RT @pjvann: A lot of you have been asking for @bot to be able to access your @ch
 **内容**:
 
 RT @WhiteHouse: America IS dominating the frontiers of science &amp; technology. 😤 https://t.co/1CiKsPKA76
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINV2rSX1v2-X_EU6Zgb68_2pLCoAzTAAKhFGsbcteRVpEDr6YsOAtqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111145925615947908)
 
 ---
 
@@ -121,7 +115,57 @@ RT @WhiteHouse: America IS dominating the frontiers of science &amp; technology.
 
 Please report ugly or misleading ads to 𝕏 @Ads
 
-[查看原文](https://x.com/elonmusk/status/2111146290730168744)
+---
+
+## 2026-10-17 02:11:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: 16 years ago, Elon Musk stood beside the original Tesla Roadster on Tesla’s IPO day
+
+Look how far Tesla has come https://t.co/…
+
+[查看原文](https://x.com/elonmusk/status/2111158013675581513)
+
+---
+
+## 2026-10-17 02:20:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: We have worked closely with regulators, industry and operators in India for 5+ years, and built a network of dedicated system…
+
+[查看原文](https://x.com/elonmusk/status/2111160373156188206)
+
+---
+
+## 2026-10-17 02:21:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: I’ve never seen a product unveil come close to what Tesla pulled off with the new Roadster last night.
+
+Elon was right.…
+
+[查看原文](https://x.com/elonmusk/status/2111160525329740072)
+
+---
+
+## 2026-10-17 02:26:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @0x_kaize We are putting a lot of effort into a specialized Hagglebot for business use, as we think it could improve enterpri…
+
+[查看原文](https://x.com/elonmusk/status/2111161815925203417)
 
 ---
 
