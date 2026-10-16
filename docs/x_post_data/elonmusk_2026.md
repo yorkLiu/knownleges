@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3554 条推文
+> 📊 推文存档 - 共 3561 条推文
 
 ---
 
@@ -557,10 +557,6 @@ RT @cb_doge: 18 years apart. https://t.co/jZwO7mED82
 
 RT @edmunds: The Tesla Roadster is real and it can fly and it looks incredible in person https://t.co/VVrk8JupFY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINRmrRrcPrk-8UqvOVaJu1hKfoJwWxAALEGmsbpeuIVgicf01ZqpipAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110950700373201113)
-
 ---
 
 ## 2026-10-16 12:29:14
@@ -570,10 +566,6 @@ RT @edmunds: The Tesla Roadster is real and it can fly and it looks incredible i
 **内容**:
 
 RT @PsyopAnime: bro https://t.co/GVxLZR3r3j
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINRWrRrcEKfiyTmSTddJ3qwr_-pv8jAALDGmsbpeuIVkhK9ve44J3_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110951176871227825)
 
 ---
 
@@ -585,7 +577,106 @@ RT @PsyopAnime: bro https://t.co/GVxLZR3r3j
 
 RT @icreatelife: I'm obsessed with Grok Bot for content creation and community building. I don't automate my X engagement. Everything I wri…
 
-[查看原文](https://x.com/elonmusk/status/2110951249969389743)
+---
+
+## 2026-10-16 13:29:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Roadster transforms in Track Mode
+
+These aero features aren't just for looks: they provide the best passive downforce package of…
+
+[查看原文](https://x.com/elonmusk/status/2110966397320954296)
+
+---
+
+## 2026-10-16 13:30:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Out of this world https://t.co/NB281vv9dd
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINSWrRvCdFNicSYQ1XMAVWjqpmpZy1AAIaG2sbpeuIVh0w6JROJTWOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINSmrRvCpHQLZSkuQaj3eWfjbo6ROnAAIbG2sbpeuIVimwXpX7FEglAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINS2rRvC0SFTjeNK95MuINFF6dNPc7AAIcG2sbpeuIVskTrYHbxCANAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINTGrRvDDkgmP1-EGegoVX-A-AkHudAAIdG2sbpeuIVvVdH-iG6vT7AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110966655954145393)
+
+---
+
+## 2026-10-16 13:30:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: 0-60 mph in 0.81 seconds https://t.co/7Pp4oqJVzq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINSGrRvCR8bp0AAVZut-iqy3XnhBn8kAACGRtrG6XriFYqKXZv1ppNEgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110966717199351862)
+
+---
+
+## 2026-10-16 13:40:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NarutoNolimits: Elon Musk says humanity doesn't even register on the scale aliens would use to judge us..
+
+in 1964 a Soviet astronomer…
+
+[查看原文](https://x.com/elonmusk/status/2110969204945907916)
+
+---
+
+## 2026-10-16 13:42:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XAdam_s: Elon Musk:“I feel confident in saying it will be the most exciting product unveil ever… I think it will be inspiring to a lot…
+
+[查看原文](https://x.com/elonmusk/status/2110969504809230589)
+
+---
+
+## 2026-10-16 13:45:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @beeple: ROADSTER https://t.co/lwYuqI9mEo
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINR2rRvCHtXaYbVQNBlfmpYEfAXDd8AAIYG2sbpeuIVhnuIF4K54uiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110970473941209401)
+
+---
+
+## 2026-10-16 13:51:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mcahogarth: "Why did they waste so much time making a flying car no one can use in the real world?"
+Because not everything is about whe…
+
+[查看原文](https://x.com/elonmusk/status/2110971772975894862)
 
 ---
 
