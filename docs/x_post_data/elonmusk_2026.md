@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3533 条推文
+> 📊 推文存档 - 共 3537 条推文
 
 ---
 
@@ -287,10 +287,6 @@ Success is not certain, but excitement is
 
 Turns out the future does have flying cars https://t.co/6fexPp6SXI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINO2rRiUfmGIIQ05_Eud6YCf0EuCRDAAMaaxul64hWzmENFyKSIzEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110913107094606330)
-
 ---
 
 ## 2026-10-16 09:58:42
@@ -300,10 +296,6 @@ Turns out the future does have flying cars https://t.co/6fexPp6SXI
 **内容**:
 
 RT @stevenmarkryan: What the flying FUCK did I just watch? https://t.co/Fdm8TMGS5C
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINOmrRiUSke2L2woMVH1u79X9Z1kAsAAL_GWsbpeuIVilvgqAryR7nAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110913294433505624)
 
 ---
 
@@ -318,8 +310,6 @@ RT @Tesla: Roadster is a true pilot's car: active aerodynamics, a multi-mode suc
 Exterior
 – Concealed head…
 
-[查看原文](https://x.com/elonmusk/status/2110913377539371213)
-
 ---
 
 ## 2026-10-16 09:59:29
@@ -329,10 +319,6 @@ Exterior
 **内容**:
 
 RT @SawyerMerritt: That was the most insane product demo I’ve ever seen. Well done Tesla! https://t.co/BuKMIMNDZl
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINOWrRiTzYMAdWYtk2qSPWu3gOwWKlAAL-GWsbpeuIViV2PmR9SnSTAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110913490181304456)
 
 ---
 
@@ -344,8 +330,6 @@ RT @SawyerMerritt: That was the most insane product demo I’ve ever seen. Well 
 
 RT @davidmarcus: The thing I’m most grateful to Elon for is bringing back an age of wonder and excitement to humanity. That was jaw-droppin…
 
-[查看原文](https://x.com/elonmusk/status/2110913538134843634)
-
 ---
 
 ## 2026-10-16 09:59:58
@@ -355,8 +339,6 @@ RT @davidmarcus: The thing I’m most grateful to Elon for is bringing back an a
 **内容**:
 
 RT @veggie_eric: so we got flying cars before GTA 6 😂
-
-[查看原文](https://x.com/elonmusk/status/2110913612030329197)
 
 ---
 
@@ -368,10 +350,6 @@ RT @veggie_eric: so we got flying cars before GTA 6 😂
 
 RT @cb_doge: HOLY SHIT https://t.co/4Q6rs8nfvM
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINOGrRiTp6_Gd-0GXB2GlsfGSRt81nAAL9GWsbpeuIVvNZOoONY-OUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110917871924806021)
-
 ---
 
 ## 2026-10-16 10:17:03
@@ -382,9 +360,57 @@ RT @cb_doge: HOLY SHIT https://t.co/4Q6rs8nfvM
 
 RT @woodhaus2: Roadster! https://t.co/BvtnFaLNbN
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINN2rRiTiG90HY0Dg7KlCeMIxXv2Z7AAL8GWsbpeuIVgoBOq_2awFKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2110917910571229584)
+## 2026-10-16 10:39:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Erdayastronaut: Easily the coolest thing I’ve ever seen a car do!!! Now this is impressive! I gotta learn more about the actual practic…
+
+[查看原文](https://x.com/elonmusk/status/2110923657333915889)
+
+---
+
+## 2026-10-16 10:40:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/KBWjjWknXe
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINPWrRkItcbD7bd3iJwHtNHYukt8v-AAInGmsbpeuIVgxhE6u2ajwAAQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110923689797808453)
+
+---
+
+## 2026-10-16 10:40:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Real life, baby https://t.co/3QEqn18wig
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINPGrRkIiDJI2zQU4AAXSN2y1hwbh6vQACJhprG6XriFbwg8tz0VIAAbEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110923749138842065)
+
+---
+
+## 2026-10-16 10:41:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: ELON MUSK: “It's going to be pretty wild that you can have a rocket car. The car has attitude control thrusters and main thrus…
+
+[查看原文](https://x.com/elonmusk/status/2110924078169063933)
 
 ---
 
