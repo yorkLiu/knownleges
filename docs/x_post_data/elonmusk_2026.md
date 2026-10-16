@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3580 条推文
+> 📊 推文存档 - 共 3581 条推文
 
 ---
 
@@ -173,8 +173,6 @@ Human-made Slopcore.
 Unpromptable.
 55,000 lines of cod…
 
-[查看原文](https://x.com/elonmusk/status/2111170145406402896)
-
 ---
 
 ## 2026-10-17 03:00:56
@@ -185,7 +183,19 @@ Unpromptable.
 
 Incentives drive outcomes
 
-[查看原文](https://x.com/elonmusk/status/2111170548038324695)
+---
+
+## 2026-10-17 03:05:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceXSI is putting serious effort into Grok Bot for businesses, and the potential economic impact is really enormous
+
+SpaceXS…
+
+[查看原文](https://x.com/elonmusk/status/2111171700209619195)
 
 ---
 
