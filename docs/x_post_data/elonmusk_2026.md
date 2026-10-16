@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3589 条推文
+> 📊 推文存档 - 共 3594 条推文
 
 ---
 
@@ -239,8 +239,6 @@ I say this a lot, but truly there’s neve…
 
 RT @TrungTPhan: Tesla VP of Hardware Engineering Lars Moravy explains to Hagerty how the Roadster borrows SpaceX cold gas thrusters to make…
 
-[查看原文](https://x.com/elonmusk/status/2111219444630647058)
-
 ---
 
 ## 2026-10-17 06:20:42
@@ -250,10 +248,6 @@ RT @TrungTPhan: Tesla VP of Hardware Engineering Lars Moravy explains to Hagerty
 **内容**:
 
 RT @FBIDirectorKash: Thank a cop today 🇺🇸 https://t.co/DfPv9GBhea
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINXWrSqPjk7Qwx2_JYbGtZpJzp0BatAAJ5FmsbcteRVjXbqCibpAYUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111220817287938468)
 
 ---
 
@@ -267,8 +261,6 @@ RT @Anto_Sabatella: "Baby, You Flew": Claudia x Roadster
 Spent half a day with Claudia &amp; Claude.
 Special thanks to @anabology for the MCP…
 
-[查看原文](https://x.com/elonmusk/status/2111221472375234860)
-
 ---
 
 ## 2026-10-17 06:23:47
@@ -278,10 +270,6 @@ Special thanks to @anabology for the MCP…
 **内容**:
 
 RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/uBK14MgJZ0
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINXGrSqPX4G-86DQfBvUGNHSwOMNlwAAJ4FmsbcteRVuMPQGc480-XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111221594513387676)
 
 ---
 
@@ -293,9 +281,65 @@ RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You dro
 
 RT @bigturtleneck: Asmongold is in complete disbelief reacting to Elon and Tesla's New Roadster. https://t.co/H3atMYU0pY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINW2rSqPIy7YkDs7dZn9PtdS--aqlTAAJ2FmsbcteRVtM1d0vBE0vDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2111222445109858500)
+## 2026-10-17 07:26:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Neuralink will help millions of people
+
+[查看原文](https://x.com/elonmusk/status/2111237421568299266)
+
+---
+
+## 2026-10-17 07:30:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is what I do, but at 1.5X
+
+[查看原文](https://x.com/elonmusk/status/2111238267878449283)
+
+---
+
+## 2026-10-17 07:31:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: I am already using Hagglebot by Grok Bot for 2 very large clients. We have found 100s of late “guaranteed” shipments fro…
+
+[查看原文](https://x.com/elonmusk/status/2111238697370927596)
+
+---
+
+## 2026-10-17 07:33:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Also, ask Grok @Bot to connect to your 𝕏 DMs. Best way to use it.
+
+[查看原文](https://x.com/elonmusk/status/2111239205951086616)
+
+---
+
+## 2026-10-17 07:35:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot got much faster
+
+[查看原文](https://x.com/elonmusk/status/2111239586873745604)
 
 ---
 
