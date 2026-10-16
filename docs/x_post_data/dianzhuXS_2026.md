@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 530 条推文
+> 📊 推文存档 - 共 531 条推文
 
 ---
 
@@ -59,9 +59,19 @@ tags: ["2026"]
 
 政治上，大概率就是「新四人幫」奪權年啦 https://t.co/9es0STqK4Y
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINPmrRl9lpD4QAAYE_VGx1TCQ-2gPmHAACZxprG6XriFbb8U2nR8QgbwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2110932183670280254)
+## 2026-10-16 12:15:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這些年我不管到哪個國家，在馬拉西亞，韓國⋯⋯甚至疫情期間短期滯留的泰國，都是第一時間買保險。
+
+不僅是韓國國民健康保險，還全家補了醫療商業險和AIA的養老分紅險。如袁老師般狼狽抱怨美國藥費貴，只能說「順民」被牆國的五險一金玩怕了，刻在骨子裡的中簡味太大了😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://x.com/dianzhuXS/status/2110947747549614221)
 
 ---
 

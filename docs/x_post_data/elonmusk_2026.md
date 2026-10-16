@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3542 条推文
+> 📊 推文存档 - 共 3551 条推文
 
 ---
 
@@ -435,10 +435,6 @@ RT @TheWorldNews: WOKE UP TO THIS
 
 gave it a prompt and went to bed. https://t.co/yDchBITqTF
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINQGrRnyjZ-kh5IuiNKRYntzg8GrYbAAKPGmsbpeuIVqQFlJ9g6sJaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110934342323343365)
-
 ---
 
 ## 2026-10-16 11:23:10
@@ -448,8 +444,6 @@ gave it a prompt and went to bed. https://t.co/yDchBITqTF
 **内容**:
 
 One of my favorite shows as a kid!
-
-[查看原文](https://x.com/elonmusk/status/2110934548049731681)
 
 ---
 
@@ -463,9 +457,119 @@ RT @Tesla: Roadster
 
 The last best driver's car https://t.co/WURiDjgcPD
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINP2rRnyQxqNLKXrnGIPRjHNpFWgbbAAKOGmsbpeuIVjaKM8lbzKMIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2110939693445698038)
+## 2026-10-16 11:52:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Here is the @Tesla Roadster’s battery and drive unit, which is one-third more powerful than the Model S Plaid’s, with ha…
+
+[查看原文](https://x.com/elonmusk/status/2110941984881885262)
+
+---
+
+## 2026-10-16 12:06:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wmorrill3: Where we're going, we don't need roads https://t.co/HEy74GMHGd
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINRGrRpnpPT1_CdLzXcckxhaFqLewyAAKqGmsbpeuIVl4a807fRuzpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110945451746931077)
+
+---
+
+## 2026-10-16 12:06:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tobi: Tesla really did it. This isn't AI.
+
+[查看原文](https://x.com/elonmusk/status/2110945480720965859)
+
+---
+
+## 2026-10-16 12:06:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cboyack: My @grok @bot monitors my calendar, and when it sees my return flight has landed, it turns on my @tesla so the temperature is…
+
+[查看原文](https://x.com/elonmusk/status/2110945559003423108)
+
+---
+
+## 2026-10-16 12:08:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wintonARK: @DMaguireARK Even in real life it doesn’t look real
+
+[查看原文](https://x.com/elonmusk/status/2110946056238518404)
+
+---
+
+## 2026-10-16 12:10:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: Tesla now runs half of America’s public DC fast chargers with over 40,000 ports, while the $7.5B federal NEVI program had open…
+
+[查看原文](https://x.com/elonmusk/status/2110946421243318583)
+
+---
+
+## 2026-10-16 12:11:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Do a kickflip! https://t.co/DJ1Bq1yu8m
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINQ2rRpnbLhWpyZtIDddlAoT59k14yAAKpGmsbpeuIViOdGO-06qcCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110946744230187048)
+
+---
+
+## 2026-10-16 12:13:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My OG Roadster is still orbiting Mars and Earth
+
+[查看原文](https://x.com/elonmusk/status/2110947164512038931)
+
+---
+
+## 2026-10-16 12:13:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: 18 years apart. https://t.co/jZwO7mED82
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINQmrRpnTj20NC9UbMDNp5wO1LUnPNAAKoGmsbpeuIVucWXyUbvl8FAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110947253175328921)
 
 ---
 
