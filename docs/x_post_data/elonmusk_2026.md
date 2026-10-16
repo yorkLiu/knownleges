@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3561 条推文
+> 📊 推文存档 - 共 3563 条推文
 
 ---
 
@@ -589,8 +589,6 @@ RT @Tesla: Roadster transforms in Track Mode
 
 These aero features aren't just for looks: they provide the best passive downforce package of…
 
-[查看原文](https://x.com/elonmusk/status/2110966397320954296)
-
 ---
 
 ## 2026-10-16 13:30:45
@@ -601,16 +599,6 @@ These aero features aren't just for looks: they provide the best passive downfor
 
 RT @Tesla: Out of this world https://t.co/NB281vv9dd
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINSWrRvCdFNicSYQ1XMAVWjqpmpZy1AAIaG2sbpeuIVh0w6JROJTWOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINSmrRvCpHQLZSkuQaj3eWfjbo6ROnAAIbG2sbpeuIVimwXpX7FEglAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINS2rRvC0SFTjeNK95MuINFF6dNPc7AAIcG2sbpeuIVskTrYHbxCANAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINTGrRvDDkgmP1-EGegoVX-A-AkHudAAIdG2sbpeuIVvVdH-iG6vT7AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110966655954145393)
-
 ---
 
 ## 2026-10-16 13:30:59
@@ -620,10 +608,6 @@ RT @Tesla: Out of this world https://t.co/NB281vv9dd
 **内容**:
 
 RT @Tesla: 0-60 mph in 0.81 seconds https://t.co/7Pp4oqJVzq
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINSGrRvCR8bp0AAVZut-iqy3XnhBn8kAACGRtrG6XriFYqKXZv1ppNEgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110966717199351862)
 
 ---
 
@@ -637,8 +621,6 @@ RT @NarutoNolimits: Elon Musk says humanity doesn't even register on the scale a
 
 in 1964 a Soviet astronomer…
 
-[查看原文](https://x.com/elonmusk/status/2110969204945907916)
-
 ---
 
 ## 2026-10-16 13:42:04
@@ -649,8 +631,6 @@ in 1964 a Soviet astronomer…
 
 RT @XAdam_s: Elon Musk:“I feel confident in saying it will be the most exciting product unveil ever… I think it will be inspiring to a lot…
 
-[查看原文](https://x.com/elonmusk/status/2110969504809230589)
-
 ---
 
 ## 2026-10-16 13:45:55
@@ -660,10 +640,6 @@ RT @XAdam_s: Elon Musk:“I feel confident in saying it will be the most excitin
 **内容**:
 
 RT @beeple: ROADSTER https://t.co/lwYuqI9mEo
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINR2rRvCHtXaYbVQNBlfmpYEfAXDd8AAIYG2sbpeuIVhnuIF4K54uiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2110970473941209401)
 
 ---
 
@@ -676,7 +652,43 @@ RT @beeple: ROADSTER https://t.co/lwYuqI9mEo
 RT @mcahogarth: "Why did they waste so much time making a flying car no one can use in the real world?"
 Because not everything is about whe…
 
-[查看原文](https://x.com/elonmusk/status/2110971772975894862)
+---
+
+## 2026-10-16 14:58:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Holy smokes https://t.co/rTnRobllwc
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINUWrR0fjwV3O_CgAB9cVMP3c9IQcQcgACwhJrG6XrkFYUsqJYIYG_GQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINUmrR0fqnw0Nf9LoofnULUxmrM3mPAALDEmsbpeuQVjwroIvrWz7PAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINU2rR0f3ZSntqdi8xxMKOyJqtMkckAALEEmsbpeuQVqzETGGwHCkCAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110988635264950570)
+
+---
+
+## 2026-10-16 15:06:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Falcon 9 launches USSF-481 to orbit from pad 4E in California https://t.co/FjBOh6qRii
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINTWrR0e0xs5vCuTPFFAwjMcQhCWheAAK-EmsbpeuQVl0aciMDDnLoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINTmrR0fCjfAx39DuXfpgrP2qzSmzkAAK_EmsbpeuQVrNN_dtmnjEFAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINT2rR0fO6rBe_bhK-6BJF9O1KsiiuAALAEmsbpeuQVtFj1WeLDMC5AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINUGrR0fXHYEWlLxvEz9m9VSazKkzVAALBEmsbpeuQVvrZmCZB6PNLAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110990708664410539)
 
 ---
 
