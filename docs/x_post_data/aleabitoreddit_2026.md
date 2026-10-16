@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 502 条推文
+> 📊 推文存档 - 共 503 条推文
 
 ---
 
@@ -40,11 +40,21 @@ When asked about the markets reactions to Coreweave, Jensen responded:
 - "Coreweave's strength is improving every day, I'm optimistic"
 - https://t.co/Dt1uNlL4Ts
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINNWrRT0yLfF519ieXNPGHhO2Dvz68AAJeGWsbpeuIVi5Sl4D2a6GnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINNmrRT0-xvDOArMRreBWV8IQ24xt5AAJfGWsbpeuIVoKBNxsHlml7AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-16 11:23:08
 
-[查看原文](https://x.com/aleabitoreddit/status/2110848740559126575)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+好吧，这视频也太酷了吧... 
+
+$TSLA 现在居然都有飞行汽车了，感觉我们真的活在未来了 https://t.co/WjY9tP9JIF
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINQWrRnyznO1Y4_SADGuBEHOBkz70xAAKQGmsbpeuIVnchO5TYae1GAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2110934540252512696)
 
 ---
 

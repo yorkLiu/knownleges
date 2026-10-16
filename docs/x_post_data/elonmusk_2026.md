@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3539 条推文
+> 📊 推文存档 - 共 3542 条推文
 
 ---
 
@@ -412,8 +412,6 @@ RT @ID_AA_Carmack: That demo involved a non trivial chance of embarrassing failu
 
 I’m only going for the baseline model. At this point…
 
-[查看原文](https://x.com/elonmusk/status/2110931414212346190)
-
 ---
 
 ## 2026-10-16 11:13:27
@@ -425,7 +423,49 @@ I’m only going for the baseline model. At this point…
 RT @FutureJurvetson: Ok that was beyond insane.  Beyond plaid.
 0-60 in 0.8 seconds (thanks to thrusters and suction for tire grip) and top…
 
-[查看原文](https://x.com/elonmusk/status/2110932103424508344)
+---
+
+## 2026-10-16 11:22:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheWorldNews: WOKE UP TO THIS
+
+gave it a prompt and went to bed. https://t.co/yDchBITqTF
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINQGrRnyjZ-kh5IuiNKRYntzg8GrYbAAKPGmsbpeuIVqQFlJ9g6sJaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110934342323343365)
+
+---
+
+## 2026-10-16 11:23:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+One of my favorite shows as a kid!
+
+[查看原文](https://x.com/elonmusk/status/2110934548049731681)
+
+---
+
+## 2026-10-16 11:43:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Roadster
+
+The last best driver's car https://t.co/WURiDjgcPD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINP2rRnyQxqNLKXrnGIPRjHNpFWgbbAAKOGmsbpeuIVjaKM8lbzKMIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2110939693445698038)
 
 ---
 
