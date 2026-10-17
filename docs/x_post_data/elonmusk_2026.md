@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3608 条推文
+> 📊 推文存档 - 共 3611 条推文
 
 ---
 
@@ -453,8 +453,6 @@ RT @BBC_TopGear: Wow: the new Tesla Roadster can actually fly ➡️ https://t.c
 
 OG Roadster
 
-[查看原文](https://x.com/elonmusk/status/2111360445642596678)
-
 ---
 
 ## 2026-10-17 15:41:54
@@ -467,8 +465,6 @@ RT @iam_smx: Elon Musk showing off his first-generation cherry-red Tesla Roadste
 
 Six years later, he sent…
 
-[查看原文](https://x.com/elonmusk/status/2111362048273649970)
-
 ---
 
 ## 2026-10-17 15:43:28
@@ -478,8 +474,6 @@ Six years later, he sent…
 **内容**:
 
 RT @XEthanai: Elon Musk having a conversation with Elon Musk might be the most entertaining thing you’ll see on the internet today. 😂 https…
-
-[查看原文](https://x.com/elonmusk/status/2111362442068623561)
 
 ---
 
@@ -491,7 +485,49 @@ RT @XEthanai: Elon Musk having a conversation with Elon Musk might be the most e
 
 RT @0xdimix: He crashed a million-dollar car he never insured, then told the friend sitting next to him he thought it would never happen to…
 
-[查看原文](https://x.com/elonmusk/status/2111364209514615025)
+---
+
+## 2026-10-17 19:46:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RapidResponse47: .@POTUS on Zelensky: "I know the details, okay? And at some point, I'll release the details — but I don't care about a…
+
+[查看原文](https://x.com/elonmusk/status/2111423481170772337)
+
+---
+
+## 2026-10-17 19:46:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: You are probably safer in San Salvador than Paris at this point 
+
+Criminals cause crime. 
+
+El Salvador understands thi…
+
+[查看原文](https://x.com/elonmusk/status/2111423581368545570)
+
+---
+
+## 2026-10-17 19:47:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Mukesh Ambani’s Reliance says it welcomes competition from Elon Musk’s Starlink in India.
+
+Here are the facts:
+
+• St…
+
+[查看原文](https://x.com/elonmusk/status/2111423965726146937)
 
 ---
 
