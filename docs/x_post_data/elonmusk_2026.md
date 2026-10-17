@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3597 条推文
+> 📊 推文存档 - 共 3600 条推文
 
 ---
 
@@ -363,7 +363,49 @@ Yes! No more ads so ugly they make your eyes bleed.
 
 Tears of Blood 🩸
 
-[查看原文](https://x.com/elonmusk/status/2111313240420737438)
+---
+
+## 2026-10-17 12:59:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EpochTimes: What happens when headlines replace hard facts? 
+
+"𝗧𝗿𝘂𝘁𝗵 𝗨𝗻𝗱𝗲𝗿 𝗙𝗶𝗿𝗲" explores how Charlie Kirk was framed—and what it revea…
+
+[查看原文](https://x.com/elonmusk/status/2111321125384790078)
+
+---
+
+## 2026-10-17 13:09:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @woodhaus2: Designed, engineered, and made in America https://t.co/JZY1JRtS2I
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINYGrTB2cilw6KP9-JJbdx9gtmJY8ZAAK3EmsbcteZVtbDMIissP7SAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111323638238515408)
+
+---
+
+## 2026-10-17 13:12:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: Tesla's Flying Roadster Breaks The Entire Internet (best reactions, memes &amp; more)
+
+TIMESTAMPS
+
+0:00 Intro &amp; Merch Drop…
+
+[查看原文](https://x.com/elonmusk/status/2111324330101522645)
 
 ---
 
