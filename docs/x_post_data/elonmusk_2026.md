@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3604 条推文
+> 📊 推文存档 - 共 3608 条推文
 
 ---
 
@@ -423,8 +423,6 @@ You are driving a computer and it is telling another comp…
 
 Btw
 
-[查看原文](https://x.com/elonmusk/status/2111354746548433173)
-
 ---
 
 ## 2026-10-17 15:27:06
@@ -434,8 +432,6 @@ Btw
 **内容**:
 
 RT @lupinrider: some people asked for my method.  here's an overview how.  lyrics &amp; story board, me then checked in claude, suno song, grok…
-
-[查看原文](https://x.com/elonmusk/status/2111358323404792017)
 
 ---
 
@@ -447,9 +443,55 @@ RT @lupinrider: some people asked for my method.  here's an overview how.  lyric
 
 RT @BBC_TopGear: Wow: the new Tesla Roadster can actually fly ➡️ https://t.co/Sz3hKv4PMi https://t.co/68uYrQd3mx
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINYmrTJHYxLelV-AT_LwHQFEdOClSvAAKFE2sbcteZVq7PzXDv6Dx1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2111358776548671593)
+## 2026-10-17 15:35:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+OG Roadster
+
+[查看原文](https://x.com/elonmusk/status/2111360445642596678)
+
+---
+
+## 2026-10-17 15:41:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Elon Musk showing off his first-generation cherry-red Tesla Roadster, his daily driver back in 2012.
+
+Six years later, he sent…
+
+[查看原文](https://x.com/elonmusk/status/2111362048273649970)
+
+---
+
+## 2026-10-17 15:43:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XEthanai: Elon Musk having a conversation with Elon Musk might be the most entertaining thing you’ll see on the internet today. 😂 https…
+
+[查看原文](https://x.com/elonmusk/status/2111362442068623561)
+
+---
+
+## 2026-10-17 15:50:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @0xdimix: He crashed a million-dollar car he never insured, then told the friend sitting next to him he thought it would never happen to…
+
+[查看原文](https://x.com/elonmusk/status/2111364209514615025)
 
 ---
 
