@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3621 条推文
+> 📊 推文存档 - 共 3622 条推文
 
 ---
 
@@ -105,8 +105,6 @@ The degree to which people in the West fall prey to suicidal empathy continues t
 
 Read @GadSaad’s book about it!
 
-[查看原文](https://x.com/elonmusk/status/2111551063870570853)
-
 ---
 
 ## 2026-10-18 04:21:19
@@ -117,7 +115,17 @@ Read @GadSaad’s book about it!
 
 RT @MoreBirths: It is an astonishing fact that half of all births in several Canadian provinces are to mothers not born in Canada. Immigrat…
 
-[查看原文](https://x.com/elonmusk/status/2111553162641592515)
+---
+
+## 2026-10-18 05:34:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2111571645131534641)
 
 ---
 
