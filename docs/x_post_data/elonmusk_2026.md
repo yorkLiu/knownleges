@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3618 条推文
+> 📊 推文存档 - 共 3619 条推文
 
 ---
 
@@ -31,8 +31,6 @@ Flying cars are real https://t.co/RTkrhU1vfh
 
 Yeah
 
-[查看原文](https://x.com/elonmusk/status/2111503817779167590)
-
 ---
 
 ## 2026-10-18 01:05:51
@@ -42,8 +40,6 @@ Yeah
 **内容**:
 
 Starlink helps rural communities all around the world
-
-[查看原文](https://x.com/elonmusk/status/2111503973064573300)
 
 ---
 
@@ -57,8 +53,6 @@ RT @elonmusk: @XFreeze Steve Davis and his team deserve almost all the credit fo
 
 My role is providing engineeri…
 
-[查看原文](https://x.com/elonmusk/status/2111504835061178515)
-
 ---
 
 ## 2026-10-18 01:12:36
@@ -68,8 +62,6 @@ My role is providing engineeri…
 **内容**:
 
 Cool 😀
-
-[查看原文](https://x.com/elonmusk/status/2111505670696522017)
 
 ---
 
@@ -81,8 +73,6 @@ Cool 😀
 
 Future fun Roadster demos will include flying over the Snake River or maybe Grand Canyon and landing on its wheels and exceeding half the speed of sound
 
-[查看原文](https://x.com/elonmusk/status/2111507158215057620)
-
 ---
 
 ## 2026-10-18 01:20:38
@@ -93,7 +83,17 @@ Future fun Roadster demos will include flying over the Snake River or maybe Gran
 
 Since fate maximizes for ironic entertainment, it was inevitable that the “Roadster” would be a flying car
 
-[查看原文](https://x.com/elonmusk/status/2111507692045148515)
+---
+
+## 2026-10-18 02:57:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Teams encapsulated 32 payloads ahead of Falcon 9’s launch of the Bandwagon-5 rideshare mission from Florida → https://t.co/2mTw…
+
+[查看原文](https://x.com/elonmusk/status/2111531984195354913)
 
 ---
 
