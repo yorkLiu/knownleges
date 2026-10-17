@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3596 条推文
+> 📊 推文存档 - 共 3597 条推文
 
 ---
 
@@ -351,7 +351,19 @@ RT @WhiteHouse: We really got flying cars before GTA 6 https://t.co/gt89Dx18UM
 
 Anomalies in the matrix are inevitable
 
-[查看原文](https://x.com/elonmusk/status/2111312443305558190)
+---
+
+## 2026-10-17 12:27:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes! No more ads so ugly they make your eyes bleed. 
+
+Tears of Blood 🩸
+
+[查看原文](https://x.com/elonmusk/status/2111313240420737438)
 
 ---
 
