@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3612 条推文
+> 📊 推文存档 - 共 3618 条推文
 
 ---
 
@@ -21,9 +21,79 @@ RT @anabology: TESLA ROADSTER: DOWNFORCE
 
 Flying cars are real https://t.co/RTkrhU1vfh
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINY2rTpz8gbc8IfXnbjRYmBh7qD5TZAALoF2sbcteZVgI7ozDji_gOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2111493245729374275)
+## 2026-10-18 01:05:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah
+
+[查看原文](https://x.com/elonmusk/status/2111503817779167590)
+
+---
+
+## 2026-10-18 01:05:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink helps rural communities all around the world
+
+[查看原文](https://x.com/elonmusk/status/2111503973064573300)
+
+---
+
+## 2026-10-18 01:09:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @XFreeze Steve Davis and his team deserve almost all the credit for @BoringCompany progress. 
+
+My role is providing engineeri…
+
+[查看原文](https://x.com/elonmusk/status/2111504835061178515)
+
+---
+
+## 2026-10-18 01:12:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool 😀
+
+[查看原文](https://x.com/elonmusk/status/2111505670696522017)
+
+---
+
+## 2026-10-18 01:18:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Future fun Roadster demos will include flying over the Snake River or maybe Grand Canyon and landing on its wheels and exceeding half the speed of sound
+
+[查看原文](https://x.com/elonmusk/status/2111507158215057620)
+
+---
+
+## 2026-10-18 01:20:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Since fate maximizes for ironic entertainment, it was inevitable that the “Roadster” would be a flying car
+
+[查看原文](https://x.com/elonmusk/status/2111507692045148515)
 
 ---
 
