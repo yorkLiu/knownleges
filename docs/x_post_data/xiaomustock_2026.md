@@ -7,7 +7,38 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 427 条推文
+> 📊 推文存档 - 共 429 条推文
+
+---
+
+## 2026-10-17 14:23:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新云厂的债务模式在加息的过程中确实有问题。
+他们跟银行按照最新的贷款利率签贷款合同买卡建设，
+模型公司和谷歌云这种巨头跟他们签年租合同，
+crwv这种它们赚中间的利差和承担卡的折旧。 https://t.co/LBywamxFa6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINYWrTFfCKZd9eT-6goxLMc3KtQUWNAAIeE2sbcteZVtpMWGRTEu6KAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2111342293005537506)
+
+---
+
+## 2026-10-17 14:27:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这应该是这段行情暴跌的主因，
+不管黄仁勋怎么说他决定不了美联储利率。
+如果新云厂业务模式无法继续那么AI算力建设就可能出问题。整个产业链一起遭殃。
+
+[查看原文](https://x.com/xiaomustock/status/2111343281422614948)
 
 ---
 

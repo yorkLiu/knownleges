@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3600 条推文
+> 📊 推文存档 - 共 3601 条推文
 
 ---
 
@@ -375,8 +375,6 @@ RT @EpochTimes: What happens when headlines replace hard facts?
 
 "𝗧𝗿𝘂𝘁𝗵 𝗨𝗻𝗱𝗲𝗿 𝗙𝗶𝗿𝗲" explores how Charlie Kirk was framed—and what it revea…
 
-[查看原文](https://x.com/elonmusk/status/2111321125384790078)
-
 ---
 
 ## 2026-10-17 13:09:16
@@ -386,10 +384,6 @@ RT @EpochTimes: What happens when headlines replace hard facts?
 **内容**:
 
 RT @woodhaus2: Designed, engineered, and made in America https://t.co/JZY1JRtS2I
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINYGrTB2cilw6KP9-JJbdx9gtmJY8ZAAK3EmsbcteZVtbDMIissP7SAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111323638238515408)
 
 ---
 
@@ -405,7 +399,21 @@ TIMESTAMPS
 
 0:00 Intro &amp; Merch Drop…
 
-[查看原文](https://x.com/elonmusk/status/2111324330101522645)
+---
+
+## 2026-10-17 14:19:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Scobleizer: Just remember.
+
+You aren’t actually driving the Roadster at all.
+
+You are driving a computer and it is telling another comp…
+
+[查看原文](https://x.com/elonmusk/status/2111341265442726210)
 
 ---
 
