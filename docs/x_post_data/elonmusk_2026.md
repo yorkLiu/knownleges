@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3636 条推文
+> 📊 推文存档 - 共 3637 条推文
 
 ---
 
@@ -230,8 +230,6 @@ RT @TimSweeneyEpic: When I was writing Unreal Engine 1, my time was divided as f
 
 - Around 30% went to seriously deep coding on hard…
 
-[查看原文](https://x.com/elonmusk/status/2111641377104650550)
-
 ---
 
 ## 2026-10-18 10:12:46
@@ -244,8 +242,6 @@ RT @XFreeze: Grok Bot feels like magic….you just tell it what you want, and it
 
 Like, it actually just does it....it's ins…
 
-[查看原文](https://x.com/elonmusk/status/2111641606696968195)
-
 ---
 
 ## 2026-10-18 10:13:04
@@ -255,8 +251,6 @@ Like, it actually just does it....it's ins…
 **内容**:
 
 RT @firesidealpha: Neuralink president DJ Seo says Elon’s aggressive schedules are rigorous first-principles engineering, and an all-green-…
-
-[查看原文](https://x.com/elonmusk/status/2111641681963663699)
 
 ---
 
@@ -268,8 +262,6 @@ RT @firesidealpha: Neuralink president DJ Seo says Elon’s aggressive schedules
 
 Our team makes around around 20 improvements per day to Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2111642151138546118)
-
 ---
 
 ## 2026-10-18 10:15:13
@@ -279,8 +271,6 @@ Our team makes around around 20 improvements per day to Grok @Bot
 **内容**:
 
 Sure
-
-[查看原文](https://x.com/elonmusk/status/2111642226774417627)
 
 ---
 
@@ -292,7 +282,19 @@ Sure
 
 Upgrades
 
-[查看原文](https://x.com/elonmusk/status/2111642949071364231)
+---
+
+## 2026-10-18 13:02:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: I started a new business with @Grok @Bot a few weeks ago and it has been absolutely amazing.
+
+I started out with just a…
+
+[查看原文](https://x.com/elonmusk/status/2111684281731002692)
 
 ---
 
