@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3626 条推文
+> 📊 推文存档 - 共 3627 条推文
 
 ---
 
@@ -147,8 +147,6 @@ This really works!
 
 Grok @Bot can pay for itself.
 
-[查看原文](https://x.com/elonmusk/status/2111612315204272233)
-
 ---
 
 ## 2026-10-18 08:16:45
@@ -163,8 +161,6 @@ It was never delivered (thanks @DHLGlobal).
 
 Bot submitted…
 
-[查看原文](https://x.com/elonmusk/status/2111612412520517878)
-
 ---
 
 ## 2026-10-18 08:18:27
@@ -175,7 +171,22 @@ Bot submitted…
 
 RT @PeterDiamandis: How do I stay optimistic while reading 100+ stories a week (Including the negative ones)? For me, optimism is a conclus…
 
-[查看原文](https://x.com/elonmusk/status/2111612840297607301)
+---
+
+## 2026-10-18 09:31:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JonErlichman: Investments 10 years ago that are now worth $1 million:
+
+Tesla: $37,000
+ Shopify: $25,300
+ Micron: $19,500
+ AMD: $12,800…
+
+[查看原文](https://x.com/elonmusk/status/2111631245381927086)
 
 ---
 
