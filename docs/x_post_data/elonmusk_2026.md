@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3644 条推文
+> 📊 推文存档 - 共 3648 条推文
 
 ---
 
@@ -349,8 +349,6 @@ Anthropic signed a $15B compute deal with SpaceX. Baro…
 
 RT @XFreeze: Elon Musk on suicidal empathy: When compassion for criminals outweighs compassion for their victims, something has gone terrib…
 
-[查看原文](https://x.com/elonmusk/status/2111829566960308310)
-
 ---
 
 ## 2026-10-18 22:43:03
@@ -360,8 +358,6 @@ RT @XFreeze: Elon Musk on suicidal empathy: When compassion for criminals outwei
 **内容**:
 
 RT @brivael: You've probably seen the video. A young Frenchwoman in Paris, in tears, begging looters to stop. "Why are you doing this? That…
-
-[查看原文](https://x.com/elonmusk/status/2111830424528064785)
 
 ---
 
@@ -375,7 +371,55 @@ RT @elonmusk: @Teslaconomics Optimus and Cybercab will be the vast majority of T
 
 The only things that will scale to incredib…
 
-[查看原文](https://x.com/elonmusk/status/2111834632769401322)
+---
+
+## 2026-10-18 23:09:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink 💫 ❤️
+
+[查看原文](https://x.com/elonmusk/status/2111837147842191690)
+
+---
+
+## 2026-10-18 23:12:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Families say Tesla FSD is changing lives for their family members in their 80s and 90s. ♥️
+
+A 90-year-old man now owns a Model…
+
+[查看原文](https://x.com/elonmusk/status/2111837851176341726)
+
+---
+
+## 2026-10-18 23:16:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The new Tesla Roadster accelerates faster than a fighter jet taking off from an aircraft carrier
+
+[查看原文](https://x.com/elonmusk/status/2111838943016833235)
+
+---
+
+## 2026-10-18 23:31:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+𝕏 is seeing all-time high usage
+
+[查看原文](https://x.com/elonmusk/status/2111842588126818619)
 
 ---
 
