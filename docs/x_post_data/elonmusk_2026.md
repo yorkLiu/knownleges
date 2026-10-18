@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3623 条推文
+> 📊 推文存档 - 共 3626 条推文
 
 ---
 
@@ -135,7 +135,47 @@ True
 
 RT @jgebbia: Invasion update from France:
 
-[查看原文](https://x.com/elonmusk/status/2111599502171803797)
+---
+
+## 2026-10-18 08:16:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This really works! 
+
+Grok @Bot can pay for itself.
+
+[查看原文](https://x.com/elonmusk/status/2111612315204272233)
+
+---
+
+## 2026-10-18 08:16:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: I placed an ordered a dress for a black tie event via @bot. 
+
+It was never delivered (thanks @DHLGlobal). 
+
+Bot submitted…
+
+[查看原文](https://x.com/elonmusk/status/2111612412520517878)
+
+---
+
+## 2026-10-18 08:18:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PeterDiamandis: How do I stay optimistic while reading 100+ stories a week (Including the negative ones)? For me, optimism is a conclus…
+
+[查看原文](https://x.com/elonmusk/status/2111612840297607301)
 
 ---
 
