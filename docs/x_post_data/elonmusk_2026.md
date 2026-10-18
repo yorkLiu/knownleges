@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3637 条推文
+> 📊 推文存档 - 共 3638 条推文
 
 ---
 
@@ -294,7 +294,22 @@ RT @BrianRoemmele: I started a new business with @Grok @Bot a few weeks ago and 
 
 I started out with just a…
 
-[查看原文](https://x.com/elonmusk/status/2111684281731002692)
+---
+
+## 2026-10-18 14:02:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: World Still LOSING It Over Tesla's Flying Roadster
+
+SOURCE:
+◆ https://t.co/kFSpgYP3Jq https://t.co/P1q2JNRUC0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINZGrUZCicNSABDoJ-S5k5UPfmDRKhAAJCFGsbasmpVnyFRzvojb_qAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111699431758430563)
 
 ---
 
