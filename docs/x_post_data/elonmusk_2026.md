@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3641 条推文
+> 📊 推文存档 - 共 3644 条推文
 
 ---
 
@@ -327,10 +327,6 @@ RT @tetsuoai: WANTED. https://t.co/CAiE7a02ZC
 
 RT @farzyness: Tesla, SpaceX &amp; xAI Are About to Make History https://t.co/GtBSZAU9rc
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINZmrUcq5Krt_uqUPrhCKS_IpXzs8KAAJUFGsbasmpVixkHgABkxZ-1gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111712244551635157)
-
 ---
 
 ## 2026-10-18 15:12:39
@@ -343,7 +339,43 @@ RT @stark0xbt: Baker's "last window" thesis just got three new receipts in 14 da
 
 Anthropic signed a $15B compute deal with SpaceX. Baro…
 
-[查看原文](https://x.com/elonmusk/status/2111717076469518828)
+---
+
+## 2026-10-18 22:39:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk on suicidal empathy: When compassion for criminals outweighs compassion for their victims, something has gone terrib…
+
+[查看原文](https://x.com/elonmusk/status/2111829566960308310)
+
+---
+
+## 2026-10-18 22:43:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: You've probably seen the video. A young Frenchwoman in Paris, in tears, begging looters to stop. "Why are you doing this? That…
+
+[查看原文](https://x.com/elonmusk/status/2111830424528064785)
+
+---
+
+## 2026-10-18 22:59:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Teslaconomics Optimus and Cybercab will be the vast majority of Tesla’s value. 
+
+The only things that will scale to incredib…
+
+[查看原文](https://x.com/elonmusk/status/2111834632769401322)
 
 ---
 
