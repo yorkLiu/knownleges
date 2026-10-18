@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3653 条推文
+> 📊 推文存档 - 共 3656 条推文
 
 ---
 
@@ -51,8 +51,6 @@ It was a seamless process to connect and it now audits my credit card, tracks re
 
 Grok @Bot can call restaurants by phone and book you a table
 
-[查看原文](https://x.com/elonmusk/status/2111867437238853726)
-
 ---
 
 ## 2026-10-19 01:13:15
@@ -64,7 +62,45 @@ Grok @Bot can call restaurants by phone and book you a table
 RT @zephyr_z9: China is building around 69 power semiconductor fabs (under construction, planned, or ramping) across 58 suppliers
 15 are pl…
 
-[查看原文](https://x.com/elonmusk/status/2111868221032645090)
+---
+
+## 2026-10-19 01:42:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @liz_churchill10: They took out the iconic Hermès Store in Marseilles 😳 https://t.co/EpwjXmyacY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINZ2rVC0MKd5lFDjA2SnoL51XCEzD9AAJDFmsbasmpVqWrHo8X80yEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111875511194640486)
+
+---
+
+## 2026-10-19 01:43:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @0x_kaize: Elon says connecting Grok Bot to your X DMs is the best way to use it
+
+and it shipped in the same update that made it 3x FAST…
+
+[查看原文](https://x.com/elonmusk/status/2111875735929647414)
+
+---
+
+## 2026-10-19 01:50:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2111877649513529345)
 
 ---
 
