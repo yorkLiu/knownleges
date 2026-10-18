@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3627 条推文
+> 📊 推文存档 - 共 3630 条推文
 
 ---
 
@@ -186,7 +186,43 @@ Tesla: $37,000
  Micron: $19,500
  AMD: $12,800…
 
-[查看原文](https://x.com/elonmusk/status/2111631245381927086)
+---
+
+## 2026-10-18 09:55:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try out Grok @Bot!
+
+[查看原文](https://x.com/elonmusk/status/2111637291433382119)
+
+---
+
+## 2026-10-18 09:56:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+❤️
+
+[查看原文](https://x.com/elonmusk/status/2111637490050191644)
+
+---
+
+## 2026-10-18 10:03:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This works well. Screenshot of credit card is the easiest way, unless you want to fill out the secure vault data. 
+
+Seems a bit silly to hand your credit card to people you don’t know at a restaurant, but not to Grok Bot.
+
+[查看原文](https://x.com/elonmusk/status/2111639287368462417)
 
 ---
 
