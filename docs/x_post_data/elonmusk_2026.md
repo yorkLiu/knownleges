@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3657 条推文
+> 📊 推文存档 - 共 3658 条推文
 
 ---
 
@@ -104,7 +104,19 @@ Try Grok @Bot
 
 Grok @Bot is like hiring an incredibly competent employee
 
-[查看原文](https://x.com/elonmusk/status/2111914748648296655)
+---
+
+## 2026-10-19 05:21:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+What it’s like trying to rent AI/SI compute https://t.co/SBdEXK31zc
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINaGrVPh_TOc9ikKUO3BUuHtyymFOOAAKWFmsbasmpVjFdDzJZ2PqNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2111930742615802163)
 
 ---
 
