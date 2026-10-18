@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3651 条推文
+> 📊 推文存档 - 共 3653 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 Talarico hates Texas
 
-[查看原文](https://x.com/elonmusk/status/2111864930815402428)
-
 ---
 
 ## 2026-10-19 01:02:36
@@ -30,8 +28,6 @@ Talarico hates Texas
 **内容**:
 
 True, even SpaceX’s competitor’s FUTURE plans are behind Starship 🤣🤣
-
-[查看原文](https://x.com/elonmusk/status/2111865541472190881)
 
 ---
 
@@ -45,7 +41,30 @@ RT @KatieMiller: I have my banking connected to @bot.
 
 It was a seamless process to connect and it now audits my credit card, tracks refun…
 
-[查看原文](https://x.com/elonmusk/status/2111866500269174861)
+---
+
+## 2026-10-19 01:10:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can call restaurants by phone and book you a table
+
+[查看原文](https://x.com/elonmusk/status/2111867437238853726)
+
+---
+
+## 2026-10-19 01:13:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @zephyr_z9: China is building around 69 power semiconductor fabs (under construction, planned, or ramping) across 58 suppliers
+15 are pl…
+
+[查看原文](https://x.com/elonmusk/status/2111868221032645090)
 
 ---
 
