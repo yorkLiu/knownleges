@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3656 条推文
+> 📊 推文存档 - 共 3657 条推文
 
 ---
 
@@ -72,10 +72,6 @@ RT @zephyr_z9: China is building around 69 power semiconductor fabs (under const
 
 RT @liz_churchill10: They took out the iconic Hermès Store in Marseilles 😳 https://t.co/EpwjXmyacY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINZ2rVC0MKd5lFDjA2SnoL51XCEzD9AAJDFmsbasmpVqWrHo8X80yEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2111875511194640486)
-
 ---
 
 ## 2026-10-19 01:43:06
@@ -88,8 +84,6 @@ RT @0x_kaize: Elon says connecting Grok Bot to your X DMs is the best way to use
 
 and it shipped in the same update that made it 3x FAST…
 
-[查看原文](https://x.com/elonmusk/status/2111875735929647414)
-
 ---
 
 ## 2026-10-19 01:50:43
@@ -100,7 +94,17 @@ and it shipped in the same update that made it 3x FAST…
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2111877649513529345)
+---
+
+## 2026-10-19 04:18:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is like hiring an incredibly competent employee
+
+[查看原文](https://x.com/elonmusk/status/2111914748648296655)
 
 ---
 
