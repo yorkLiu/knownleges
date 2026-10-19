@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 133 条推文
+> 📊 推文存档 - 共 134 条推文
 
 ---
 
@@ -74,7 +74,19 @@ tags: ["2026"]
 
 我之前首创：弹几把理论。望众兄弟理解并反复实践，假以时日，必成大器！
 
-[查看原文](https://x.com/iiiinvest/status/2112169377324007487)
+---
+
+## 2026-10-19 22:54:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+仓位就是态度，看多做多半导体SOXL，350万美金，硬吗？ https://t.co/0MBlFeX1Ew
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINbmrWNTJvvO9SvsNsi_jKo7ZzV72cAALtE2sbC5KwVrzwvL89vBXKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2112195762918691065)
 
 ---
 
