@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3662 条推文
+> 📊 推文存档 - 共 3664 条推文
 
 ---
 
@@ -146,8 +146,6 @@ RT @ScottPresler: I’m hearing from a lot of Republicans in Texas that they are
 
 Control of the senate will decide the future of America
 
-[查看原文](https://x.com/elonmusk/status/2112015643126165669)
-
 ---
 
 ## 2026-10-19 11:05:35
@@ -158,7 +156,36 @@ Control of the senate will decide the future of America
 
 This describes the conversation SpaceX has had when we have tried to rent inference compute from AWS, GCP or anyone at, so that we can shift load off our training clusters!!
 
-[查看原文](https://x.com/elonmusk/status/2112017286764659176)
+---
+
+## 2026-10-19 11:43:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Texas_Twins_Dad: Here are the key features of Grok Bot! This is what makes Grok Bot different.
+
+- Grok Bot's dedicated email
+- Voice: t…
+
+[查看原文](https://x.com/elonmusk/status/2112026728948531246)
+
+---
+
+## 2026-10-19 11:45:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @melvindvivas: Grok Bot has its own computer
+
+So you can close your laptops and just use the app in your phone
+
+Unless, you need some fi…
+
+[查看原文](https://x.com/elonmusk/status/2112027329585090710)
 
 ---
 
