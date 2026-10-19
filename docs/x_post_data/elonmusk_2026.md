@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3666 条推文
+> 📊 推文存档 - 共 3668 条推文
 
 ---
 
@@ -203,7 +203,29 @@ RT @tickmind: HOW ELON MUSK AND HIS BROTHER'S FIRST VACATION ALMOST TURNED INTO 
 
 RT @mazemoore: Starlink slowed down for a couple days in Ukraine so a bunch of Europeans and a bunch of Democrats have declared that Elon M…
 
-[查看原文](https://x.com/elonmusk/status/2112065735279456486)
+---
+
+## 2026-10-19 14:35:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So many people are going to get one-shotted by super persuasive super intelligences and I might be one of them
+
+[查看原文](https://x.com/elonmusk/status/2112070071401238607)
+
+---
+
+## 2026-10-19 15:02:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://x.com/elonmusk/status/2112076928098181448)
 
 ---
 
