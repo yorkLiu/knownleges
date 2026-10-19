@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 129 条推文
+> 📊 推文存档 - 共 130 条推文
 
 ---
 
@@ -19,7 +19,25 @@ tags: ["2026"]
 
 早，新的一周，纵情向前。半导体SOXL这轮反弹先看109能不能站上去。
 
-[查看原文](https://x.com/iiiinvest/status/2111977104200135028)
+---
+
+## 2026-10-19 10:19:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+800万的黄金多单平掉了
+
+当初介入的逻辑是：美元美债跌、石油高位震荡，然后黄金因为抗通胀和资金回流上涨。
+
+这几天的实际结果是：美元美债确实跌了，石油还涨了。但黄金一直在横盘震荡。
+
+说明资金并没有选择黄金，黄金没成为避险、抗通胀的选择。逻辑不成立，那就先出来了。 https://t.co/fecBMQ9arA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINamrVf4qI1ZpARJbNpDvl148KLHZAAAL-EGsbasmxVsL3DLPrT4jwAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2112005606269984803)
 
 ---
 
