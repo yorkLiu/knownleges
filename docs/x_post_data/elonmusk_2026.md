@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3659 条推文
+> 📊 推文存档 - 共 3660 条推文
 
 ---
 
@@ -126,7 +126,17 @@ RT @cb_doge: When @Starlink helped rescue four sailors and three dogs. ♥️
 
 Four people and three dogs were stranded after a storm badly dam…
 
-[查看原文](https://x.com/elonmusk/status/2111940983143158088)
+---
+
+## 2026-10-19 10:38:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: I’m hearing from a lot of Republicans in Texas that they are voting early in person tomorrow.
+
+[查看原文](https://x.com/elonmusk/status/2112010443493367980)
 
 ---
 
