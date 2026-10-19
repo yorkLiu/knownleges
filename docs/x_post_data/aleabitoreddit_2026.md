@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 504 条推文
+> 📊 推文存档 - 共 505 条推文
+
+---
+
+## 2026-10-19 15:15:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$LITE CEO interview on demand, counterparty + financing risk:  
+
+- "CFO of $GOOGL came on and reported capex going up Y/Y, we expect hyperscalers for report an increase in capex in earnings. 
+
+Based on what we see, we see their spend going up."
+
+- "The purchase agreements we https://t.co/3Kxv3KTg2F
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINbGrVyC-YQfpdIxZObingiSVI2rzmAAKsEWsbasmxVo_r7YgwWSlzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2112080246895976755)
 
 ---
 

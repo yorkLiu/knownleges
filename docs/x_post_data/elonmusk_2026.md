@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3668 条推文
+> 📊 推文存档 - 共 3672 条推文
 
 ---
 
@@ -213,8 +213,6 @@ RT @mazemoore: Starlink slowed down for a couple days in Ukraine so a bunch of E
 
 So many people are going to get one-shotted by super persuasive super intelligences and I might be one of them
 
-[查看原文](https://x.com/elonmusk/status/2112070071401238607)
-
 ---
 
 ## 2026-10-19 15:02:34
@@ -225,7 +223,55 @@ So many people are going to get one-shotted by super persuasive super intelligen
 
 Exactly
 
-[查看原文](https://x.com/elonmusk/status/2112076928098181448)
+---
+
+## 2026-10-19 15:15:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Mace Windu fell out of a window by Lil Vader 😂 (AI Ruins Everything) https://t.co/lCjZsEWi8U
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINa2rVyCpPOAsT2sq3I467-D90mGvGAAKrEWsbasmxVi1ZWw6grKK_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2112080069732479400)
+
+---
+
+## 2026-10-19 15:15:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Important
+
+[查看原文](https://x.com/elonmusk/status/2112080134778069414)
+
+---
+
+## 2026-10-19 15:17:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RitaPanahi: . @TheEconomist looked terrible when this interview was released. They look even worse now as France burns.  https://t.co/P…
+
+[查看原文](https://x.com/elonmusk/status/2112080746953453810)
+
+---
+
+## 2026-10-19 15:29:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hire Grok @Bot today. You won’t regret it.
+
+[查看原文](https://x.com/elonmusk/status/2112083685872644421)
 
 ---
 
