@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3660 条推文
+> 📊 推文存档 - 共 3662 条推文
 
 ---
 
@@ -136,7 +136,29 @@ Four people and three dogs were stranded after a storm badly dam…
 
 RT @ScottPresler: I’m hearing from a lot of Republicans in Texas that they are voting early in person tomorrow.
 
-[查看原文](https://x.com/elonmusk/status/2112010443493367980)
+---
+
+## 2026-10-19 10:59:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Control of the senate will decide the future of America
+
+[查看原文](https://x.com/elonmusk/status/2112015643126165669)
+
+---
+
+## 2026-10-19 11:05:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This describes the conversation SpaceX has had when we have tried to rent inference compute from AWS, GCP or anyone at, so that we can shift load off our training clusters!!
+
+[查看原文](https://x.com/elonmusk/status/2112017286764659176)
 
 ---
 
