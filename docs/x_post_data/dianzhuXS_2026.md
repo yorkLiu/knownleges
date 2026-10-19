@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 542 条推文
+> 📊 推文存档 - 共 543 条推文
 
 ---
 
@@ -107,7 +107,19 @@ tags: ["2026"]
 
 列治文的別給自己加戲，我說的是所有中國大陸出來的第一代移民，也包括我自己
 
-[查看原文](https://x.com/dianzhuXS/status/2112098194343739541)
+---
+
+## 2026-10-19 17:59:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+民主這個概念，中國人需要的是幾代人的學習和體驗，任何事任何領域，外行永遠不能做好。一群外行妄圖指點江山，跟習近平有什麼區別？不認識到自己的現狀，這個群體沒救😮‍💨😮‍💨😮‍💨 https://t.co/CMSCxYb9M4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINbWrV7Ih36gmM0lxWXLOoPH6Xn-0LAAIaEmsbasmxVtyXZ3ucIkc-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2112121461804822555)
 
 ---
 
