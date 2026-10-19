@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 543 条推文
+> 📊 推文存档 - 共 544 条推文
 
 ---
 
@@ -117,9 +117,33 @@ tags: ["2026"]
 
 民主這個概念，中國人需要的是幾代人的學習和體驗，任何事任何領域，外行永遠不能做好。一群外行妄圖指點江山，跟習近平有什麼區別？不認識到自己的現狀，這個群體沒救😮‍💨😮‍💨😮‍💨 https://t.co/CMSCxYb9M4
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINbWrV7Ih36gmM0lxWXLOoPH6Xn-0LAAIaEmsbasmxVtyXZ3ucIkc-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2112121461804822555)
+## 2026-10-19 22:37:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我再說一句「忠言逆耳」
+
+精緻利己抱團取暖
+是會引來排華的
+
+面對自己國家這麼獨裁
+這麼不民主都沒有任何辦法
+你們去給人家講怎麼民主？
+
+逃難到一個肯收留你的國家
+是首先需要感恩的
+然後是要遵紀守法
+不給人家添麻煩
+
+穆斯林已經給中國人打了樣了
+非要作到那個人見人厭的地步？
+誰最開心？
+
+[查看原文](https://x.com/dianzhuXS/status/2112191534833811820)
 
 ---
 
