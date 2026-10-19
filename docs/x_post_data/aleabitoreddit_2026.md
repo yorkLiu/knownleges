@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 506 条推文
+> 📊 推文存档 - 共 507 条推文
 
 ---
 
@@ -39,7 +39,23 @@ Expected $JBL revenue coming in H1 2027 (with lasers for Jabil's 1.6T LRO scalin
 
 There's channel checks along the way like CIOE where
 
-[查看原文](https://x.com/aleabitoreddit/status/2112102623721505098)
+---
+
+## 2026-10-19 18:34:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Feels like the public interpretation is all wrong… 
+
+I’m pretty sure $MSFT backing out on NScale deal is bullish for Neoclouds like $NBIS or even $IREN with energized capacity with Microsoft?
+
+Pretend Microsoft just ate a bunch of Chipotle burittos:
+
+- They order toilet paper
+
+[查看原文](https://x.com/aleabitoreddit/status/2112130322683072617)
 
 ---
 
