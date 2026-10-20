@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3683 条推文
+> 📊 推文存档 - 共 3684 条推文
 
 ---
 
@@ -95,8 +95,6 @@ RT @boringcompany: Using TBC tunnels to transport freight.
 
 The latest Prufrock Liner Truck (using Tesla Model 3 batteries and drive units)…
 
-[查看原文](https://x.com/elonmusk/status/2112346571362717751)
-
 ---
 
 ## 2026-10-20 09:02:06
@@ -106,8 +104,6 @@ The latest Prufrock Liner Truck (using Tesla Model 3 batteries and drive units)�
 **内容**:
 
 Have to give the EU regulators credit where it’s due for making all Apple products use USB-C
-
-[查看原文](https://x.com/elonmusk/status/2112348601255125059)
 
 ---
 
@@ -119,9 +115,25 @@ Have to give the EU regulators credit where it’s due for making all Apple prod
 
 RT @Tesla: Starstruck https://t.co/dT3R6vXdhJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINcGrWvxRfqkoF2rhrVfMYk6jLhQT6AAKOEWsbC5K4Vo-Q0AtUl9JWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2112348677134061883)
+## 2026-10-20 10:41:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Two important changes to timeline recommendations:
+
+- New AI/SI ranking model that predicts probable time spent much better
+
+- Retrieval model trained to surface posts people read all the way through
+
+User active seconds is growing exponentially and hitting all-time highs almost https://t.co/ynJEQDNjrv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINcWrW3B_rcIWpZehXhsrSRDqFld0fAAKzEWsbC5K4Vte3mrHzTFmbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2112373713937084809)
 
 ---
 
