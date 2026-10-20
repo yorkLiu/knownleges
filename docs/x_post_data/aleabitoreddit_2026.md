@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 507 条推文
+> 📊 推文存档 - 共 508 条推文
+
+---
+
+## 2026-10-20 14:24:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exciting, $SIVE gets their first production orders for CW DFB lasers with LiDAR.
+
+“We are pleased to see this strategic program advance from design-win to production”. 
+
+With opportunity for expansion given the speculated customer $AEVA is moving into CPO/NPO optical sources for https://t.co/UfclVZilDd
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINcmrXDvyxjscESYDeAAECS020VTYingACKxJrGwuSuFazzTOxMOoEHQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINc2rXDwABFHaJenep20thpdeFfCabdgACLBJrGwuSuFaH0HWFI_IyBwEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2112429644033245666)
 
 ---
 
