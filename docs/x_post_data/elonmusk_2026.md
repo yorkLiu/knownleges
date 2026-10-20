@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3695 条推文
+> 📊 推文存档 - 共 3696 条推文
 
 ---
 
@@ -246,8 +246,6 @@ RT @america: James Talarico wants to:
 
 RT @cremieuxrecueil: Researchers gave 2,000 unemployed people €560/month for two years and tracked them to see how they differed from other…
 
-[查看原文](https://x.com/elonmusk/status/2112413088943423581)
-
 ---
 
 ## 2026-10-20 13:19:13
@@ -260,7 +258,19 @@ RT @Nate_Esparza: If you want your ads to reach the most important and high-IQ i
 
 You should advertise on 𝕏
 
-[查看原文](https://x.com/elonmusk/status/2112413306527113634)
+---
+
+## 2026-10-20 22:57:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/2sNXK5qRQZ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINdmrXg0B7Y-lDZizwrSdSoTjxX_FGAAJXE2sbC5K4Vo_pRaZTUVK4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2112558801077608574)
 
 ---
 
