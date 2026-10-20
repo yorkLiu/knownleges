@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 508 条推文
+> 📊 推文存档 - 共 509 条推文
+
+---
+
+## 2026-10-21 06:35:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah not sure how anyone thinks it's over on AI semis like $NVDA GPUs, memory, to photonics, after $SPCX earnings. 
+
+- Previous Q4 capex outlook ~$18.4B... Now $35–40 billion Q4 capex guidance, basically doubling previous outlook
+
+"Q3 and Q4 capex should be similar to Q2's https://t.co/JIW0ArE128
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINeWrX8ECmQHtIDc4VTwG9qU_9u7sLAAI7GmsbC5LAViWen_rcFoy1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2112674175446089985)
 
 ---
 
