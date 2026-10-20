@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3684 条推文
+> 📊 推文存档 - 共 3686 条推文
 
 ---
 
@@ -131,9 +131,31 @@ Two important changes to timeline recommendations:
 
 User active seconds is growing exponentially and hitting all-time highs almost https://t.co/ynJEQDNjrv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINcWrW3B_rcIWpZehXhsrSRDqFld0fAAKzEWsbC5K4Vte3mrHzTFmbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2112373713937084809)
+## 2026-10-20 12:04:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @realDonaldTrump: 🚨 TEXAS!
+
+Early Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballo…
+
+[查看原文](https://x.com/elonmusk/status/2112394595430445111)
+
+---
+
+## 2026-10-20 12:11:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Rewriting the 𝕏 Android app was also a big deal. It was really bad for such a long time.
+
+[查看原文](https://x.com/elonmusk/status/2112396145137946819)
 
 ---
 
