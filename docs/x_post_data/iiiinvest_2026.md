@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 137 条推文
+> 📊 推文存档 - 共 138 条推文
 
 ---
 
@@ -43,7 +43,19 @@ tags: ["2026"]
 
 今晚关注SpaceX的机会。
 
-[查看原文](https://x.com/iiiinvest/status/2112525173304037416)
+---
+
+## 2026-10-20 22:08:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+买入2万股SpaceX，300万美金。 https://t.co/Z4VhWzRbB1
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINdWrXe_7dK1hXjCN8mHSGsqsAARABCAACQBNrGwuSuFZ4B8TD-euYngEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2112546469127524688)
 
 ---
 
