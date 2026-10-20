@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 74 条推文
+> 📊 推文存档 - 共 75 条推文
+
+---
+
+## 2026-10-21 00:57:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+市场的平衡还没打破，但气氛在悄悄变好。
+今日布局：海思科
+指数止跌进入第四天。今天低开、下杀、冲高，午后再度回落，尾盘又收了回来。全天走下来，只有一个感觉：杀不下去了。更关键的是，连续四天的反弹，力度在缓慢加强。量能略有增加，但仍在1.4万亿规模。大盘继续保留企稳预期。 https://t.co/3wzTxu1Eyl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINd2rXoE_M9fdJ30TxYzQ-EiX1Q7XlAALGGWsbC5LAVuA5AAHL1Trm9wEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2112589125748695294)
 
 ---
 
