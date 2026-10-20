@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3713 条推文
+> 📊 推文存档 - 共 3715 条推文
 
 ---
 
@@ -179,8 +179,6 @@ RT @SawyerMerritt: Elon Musk in new interview with Walter Isaacson on the wealth
 
 Johann Sebastian Bach is the Shakespeare of music. Best there ever was.
 
-[查看原文](https://x.com/elonmusk/status/2112600761762717997)
-
 ---
 
 ## 2026-10-21 01:56:36
@@ -193,7 +191,34 @@ Johann Sebastian Bach is the Shakespeare of music. Best there ever was.
 
 If there was twice as much time, this would be relatively easy, but there is not.
 
-[查看原文](https://x.com/elonmusk/status/2112603906723487744)
+---
+
+## 2026-10-21 05:40:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aelluswamy: In the age of super intelligence, the current standards of living will look medieval. 
+
+The problems that society worries a…
+
+[查看原文](https://x.com/elonmusk/status/2112660258652832182)
+
+---
+
+## 2026-10-21 05:41:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Here’s full Elon Musk’s remarks at SpaceX Q3 2026 results:
+
+0:00 - Inflection moment for SpaceX
+0:50 - Starship Flight 14 to o…
+
+[查看原文](https://x.com/elonmusk/status/2112660557073379683)
 
 ---
 
