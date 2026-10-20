@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 546 条推文
+> 📊 推文存档 - 共 547 条推文
 
 ---
 
@@ -29,9 +29,17 @@ tags: ["2026"]
 
 看圖說話，人民幣升值意味著什麼？與美元匯率重回1:2，那就是真回歸計劃經濟了。牆人別意淫，真是那樣，你想見美元只能是在黑市😮‍💨 https://t.co/pulbhzD4zX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINdGrXHYajVyQTny6y-MIRb2fI5QQTAAJREmsbC5K4VmqnW4IHGZ6ZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2112450307682971751)
+## 2026-10-20 20:37:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+赤馬紅羊 | 人生如戲！你的命運劇本，究竟是喜劇、悲劇，還是另有玄機？（上） https://t.co/fPKXRKdVTv 來自 @YouTube
+
+[查看原文](https://x.com/dianzhuXS/status/2112523721772851311)
 
 ---
 
