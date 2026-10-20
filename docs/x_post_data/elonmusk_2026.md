@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3686 条推文
+> 📊 推文存档 - 共 3690 条推文
 
 ---
 
@@ -143,8 +143,6 @@ RT @realDonaldTrump: 🚨 TEXAS!
 
 Early Voting, in-person, opened in the Great State of Texas TODAY, October 19th. If you have a mail-in ballo…
 
-[查看原文](https://x.com/elonmusk/status/2112394595430445111)
-
 ---
 
 ## 2026-10-20 12:11:02
@@ -155,7 +153,55 @@ Early Voting, in-person, opened in the Great State of Texas TODAY, October 19th.
 
 Rewriting the 𝕏 Android app was also a big deal. It was really bad for such a long time.
 
-[查看原文](https://x.com/elonmusk/status/2112396145137946819)
+---
+
+## 2026-10-20 12:14:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+They really don’t
+
+[查看原文](https://x.com/elonmusk/status/2112397041355866607)
+
+---
+
+## 2026-10-20 12:40:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GadSaad: It is astounding that someone like @jamestalarico could actually be in a competitive race in Texas.  She is a ladyboy who has…
+
+[查看原文](https://x.com/elonmusk/status/2112403670302097473)
+
+---
+
+## 2026-10-20 12:41:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @realBrandonGill: The choice for Texas couldn't be more clear.
+
+Red-blooded Texan @KenPaxtonTX vs. the weird dude who needs to come to t…
+
+[查看原文](https://x.com/elonmusk/status/2112403691516879241)
+
+---
+
+## 2026-10-20 12:41:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True, try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2112403910908596503)
 
 ---
 
