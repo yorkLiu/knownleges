@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3690 条推文
+> 📊 推文存档 - 共 3693 条推文
 
 ---
 
@@ -163,8 +163,6 @@ Rewriting the 𝕏 Android app was also a big deal. It was really bad for such a
 
 They really don’t
 
-[查看原文](https://x.com/elonmusk/status/2112397041355866607)
-
 ---
 
 ## 2026-10-20 12:40:56
@@ -174,8 +172,6 @@ They really don’t
 **内容**:
 
 RT @GadSaad: It is astounding that someone like @jamestalarico could actually be in a competitive race in Texas.  She is a ladyboy who has…
-
-[查看原文](https://x.com/elonmusk/status/2112403670302097473)
 
 ---
 
@@ -189,8 +185,6 @@ RT @realBrandonGill: The choice for Texas couldn't be more clear.
 
 Red-blooded Texan @KenPaxtonTX vs. the weird dude who needs to come to t…
 
-[查看原文](https://x.com/elonmusk/status/2112403691516879241)
-
 ---
 
 ## 2026-10-20 12:41:53
@@ -201,7 +195,52 @@ Red-blooded Texan @KenPaxtonTX vs. the weird dude who needs to come to t…
 
 True, try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2112403910908596503)
+---
+
+## 2026-10-20 13:13:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ProgressChamber: SF voters on robotaxis:
+
+Sept 2023: 44% support, 51% oppose
+July 2025: 67% support, 29% oppose
+
+What changed? People r…
+
+[查看原文](https://x.com/elonmusk/status/2112411758866411681)
+
+---
+
+## 2026-10-20 13:14:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mayemusk: Early in-person voting begins in NYC October 24. We may not bring ID.
+
+[查看原文](https://x.com/elonmusk/status/2112412073833484680)
+
+---
+
+## 2026-10-20 13:14:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: James Talarico wants to:
+
+-Dismantle Capitalism 
+-Raise Taxes
+-Defund the police
+-Abolish prisons
+-Get rid of oil and gas jobs…
+
+[查看原文](https://x.com/elonmusk/status/2112412193660850636)
 
 ---
 
