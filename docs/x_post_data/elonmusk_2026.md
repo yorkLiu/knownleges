@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3693 条推文
+> 📊 推文存档 - 共 3695 条推文
 
 ---
 
@@ -210,8 +210,6 @@ July 2025: 67% support, 29% oppose
 
 What changed? People r…
 
-[查看原文](https://x.com/elonmusk/status/2112411758866411681)
-
 ---
 
 ## 2026-10-20 13:14:19
@@ -221,8 +219,6 @@ What changed? People r…
 **内容**:
 
 RT @mayemusk: Early in-person voting begins in NYC October 24. We may not bring ID.
-
-[查看原文](https://x.com/elonmusk/status/2112412073833484680)
 
 ---
 
@@ -240,7 +236,31 @@ RT @america: James Talarico wants to:
 -Abolish prisons
 -Get rid of oil and gas jobs…
 
-[查看原文](https://x.com/elonmusk/status/2112412193660850636)
+---
+
+## 2026-10-20 13:18:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cremieuxrecueil: Researchers gave 2,000 unemployed people €560/month for two years and tracked them to see how they differed from other…
+
+[查看原文](https://x.com/elonmusk/status/2112413088943423581)
+
+---
+
+## 2026-10-20 13:19:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Nate_Esparza: If you want your ads to reach the most important and high-IQ individuals
+
+You should advertise on 𝕏
+
+[查看原文](https://x.com/elonmusk/status/2112413306527113634)
 
 ---
 
