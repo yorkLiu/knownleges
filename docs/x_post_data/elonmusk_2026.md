@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3711 条推文
+> 📊 推文存档 - 共 3713 条推文
 
 ---
 
@@ -99,8 +99,6 @@ True
 
 RT @GadSaad: Nice!
 
-[查看原文](https://x.com/elonmusk/status/2112592140190482665)
-
 ---
 
 ## 2026-10-21 01:11:49
@@ -115,8 +113,6 @@ RT @KatieMiller: Grok Bot has dramatically improved my efficiency:
 2) buys movie tickets
 3) alerts and reads through k…
 
-[查看原文](https://x.com/elonmusk/status/2112592637341708560)
-
 ---
 
 ## 2026-10-21 01:12:52
@@ -127,8 +123,6 @@ RT @KatieMiller: Grok Bot has dramatically improved my efficiency:
 
 RT @aaronburnett: Invest in things that do things that are measured in wattage and tonnage…
 
-[查看原文](https://x.com/elonmusk/status/2112592902702403659)
-
 ---
 
 ## 2026-10-21 01:14:00
@@ -138,8 +132,6 @@ RT @aaronburnett: Invest in things that do things that are measured in wattage a
 **内容**:
 
 Objectively, the “Great Replacement” has already occurred
-
-[查看原文](https://x.com/elonmusk/status/2112593187139416244)
 
 ---
 
@@ -155,8 +147,6 @@ Why?
 
 It is the easiest most accessible agent platform thus buil…
 
-[查看原文](https://x.com/elonmusk/status/2112593364701045242)
-
 ---
 
 ## 2026-10-21 01:16:42
@@ -166,8 +156,6 @@ It is the easiest most accessible agent platform thus buil…
 **内容**:
 
 The fate of Texas and America is at stake. Vote for @KenPaxtonTX today.
-
-[查看原文](https://x.com/elonmusk/status/2112593866461216942)
 
 ---
 
@@ -181,7 +169,31 @@ RT @SawyerMerritt: Elon Musk in new interview with Walter Isaacson on the wealth
 
 "A fundamental misunderstanding of economic…
 
-[查看原文](https://x.com/elonmusk/status/2112595425018442159)
+---
+
+## 2026-10-21 01:44:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Johann Sebastian Bach is the Shakespeare of music. Best there ever was.
+
+[查看原文](https://x.com/elonmusk/status/2112600761762717997)
+
+---
+
+## 2026-10-21 01:56:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+“Lack of electricity” is an oversimplification. Everything is hard about bringing massive compute online at extremely high speed. 
+
+If there was twice as much time, this would be relatively easy, but there is not.
+
+[查看原文](https://x.com/elonmusk/status/2112603906723487744)
 
 ---
 
