@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 509 条推文
+> 📊 推文存档 - 共 510 条推文
 
 ---
 
@@ -23,9 +23,21 @@ Yeah not sure how anyone thinks it's over on AI semis like $NVDA GPUs, memory, t
 
 "Q3 and Q4 capex should be similar to Q2's https://t.co/JIW0ArE128
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINeWrX8ECmQHtIDc4VTwG9qU_9u7sLAAI7GmsbC5LAViWen_rcFoy1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2112674175446089985)
+## 2026-10-21 07:16:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Divergence between fundamental demand and valuations are now at extreme levels. 
+
+You're seeing accelerating procurement from $SMCI to $SPCX vs. collapsing equity prices on $AAOI to colo players. 
+
+After ERs, I think Oct 2026 will be seen as a DeepSeek / April tariff opportunity
+
+[查看原文](https://x.com/aleabitoreddit/status/2112684521174999529)
 
 ---
 
