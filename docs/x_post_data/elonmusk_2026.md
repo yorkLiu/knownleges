@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3715 条推文
+> 📊 推文存档 - 共 3717 条推文
 
 ---
 
@@ -203,8 +203,6 @@ RT @aelluswamy: In the age of super intelligence, the current standards of livin
 
 The problems that society worries a…
 
-[查看原文](https://x.com/elonmusk/status/2112660258652832182)
-
 ---
 
 ## 2026-10-21 05:41:42
@@ -218,7 +216,35 @@ RT @cb_doge: Here’s full Elon Musk’s remarks at SpaceX Q3 2026 results:
 0:00 - Inflection moment for SpaceX
 0:50 - Starship Flight 14 to o…
 
-[查看原文](https://x.com/elonmusk/status/2112660557073379683)
+---
+
+## 2026-10-21 05:57:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk on a possible SpaceX–Tesla merger: 
+
+"Do I think it would be a good idea? Yes"
+
+Both SpaceX and Tesla have formed sp…
+
+[查看原文](https://x.com/elonmusk/status/2112664502030541009)
+
+---
+
+## 2026-10-21 06:05:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible https://t.co/jF3Wue95nL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINeGrX6Pnp7smuSv9WbRv1ikPz0lQ-AAI0GmsbC5LAVmq3YErsY3SPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2112666467712073815)
 
 ---
 
