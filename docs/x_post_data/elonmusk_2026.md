@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3736 条推文
+> 📊 推文存档 - 共 3749 条推文
 
 ---
 
@@ -434,8 +434,6 @@ RT @peer_rich: i fucking love grokbot
 
 RT @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence…
 
-[查看原文](https://x.com/elonmusk/status/2112913053536977052)
-
 ---
 
 ## 2026-10-21 22:39:00
@@ -446,7 +444,166 @@ RT @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we
 
 RT @benjitaylor: I’ve been using Grok Bot to prototype physical product ideas faster. I give it sketches and 3D models, and it helps me cre…
 
-[查看原文](https://x.com/elonmusk/status/2112916569282261152)
+---
+
+## 2026-10-21 23:28:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @unusual_whales: BREAKING: Trump has revealed his new anti-fraud program set up to reward people who expose fraud with a 1% commission o…
+
+[查看原文](https://x.com/elonmusk/status/2112929016365691334)
+
+---
+
+## 2026-10-21 23:31:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pjvann: exciting news! we heard you, and launched @X spaces &amp; lists in @bot!
+
+want to find a space to listen on? ask @bot!
+want to mana…
+
+[查看原文](https://x.com/elonmusk/status/2112929798712598667)
+
+---
+
+## 2026-10-21 23:32:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bandholz: Sadly, you need to avoid the beautiful library in downtown Austin.
+
+In fact, many libraries in the city are this way, with un…
+
+[查看原文](https://x.com/elonmusk/status/2112930054892396842)
+
+---
+
+## 2026-10-21 23:33:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: Nick Shirley: “When I exposed fraud, instead of the mainstream media investigating the fraud, they investigated me.” https://t…
+
+[查看原文](https://x.com/elonmusk/status/2112930297033691471)
+
+---
+
+## 2026-10-21 23:34:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Elon Musk was once a moderate Democrat who supported Barack Obama. He even stood in line for six hours just to shake Obama's h…
+
+[查看原文](https://x.com/elonmusk/status/2112930592883130852)
+
+---
+
+## 2026-10-21 23:38:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Some fools still think the legacy news is real. Amazing.
+
+[查看原文](https://x.com/elonmusk/status/2112931457786081428)
+
+---
+
+## 2026-10-21 23:40:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2112932127901987225)
+
+---
+
+## 2026-10-21 23:44:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PeterDiamandis: https://t.co/z0zEZ3UcLT
+
+[查看原文](https://x.com/elonmusk/status/2112932927642149263)
+
+---
+
+## 2026-10-21 23:45:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PeterDiamandis: We need to increase what people can afford, help them participate in the wealth being created, and preserve their confi…
+
+[查看原文](https://x.com/elonmusk/status/2112933353565601949)
+
+---
+
+## 2026-10-21 23:47:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+As Thatcher said, the problem with socialism is that eventually they run out of other people’s money to take and they come for you
+
+[查看原文](https://x.com/elonmusk/status/2112933813647258079)
+
+---
+
+## 2026-10-21 23:48:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RampCapitalLLC: @Wambscapital @bot For sure @bot and it’s not even close
+
+[查看原文](https://x.com/elonmusk/status/2112933940235530337)
+
+---
+
+## 2026-10-21 23:50:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try this
+
+[查看原文](https://x.com/elonmusk/status/2112934500170600679)
+
+---
+
+## 2026-10-21 23:51:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+There is something deeply wrong with Talarico
+
+[查看原文](https://x.com/elonmusk/status/2112934688557818190)
 
 ---
 
