@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3724 条推文
+> 📊 推文存档 - 共 3728 条推文
 
 ---
 
@@ -262,8 +262,6 @@ RT @bot: We use Grok Bot to spot incidents in our support queue and quickly resp
 
 In one incident, it cleare…
 
-[查看原文](https://x.com/elonmusk/status/2112779364303544352)
-
 ---
 
 ## 2026-10-21 13:40:50
@@ -273,8 +271,6 @@ In one incident, it cleare…
 **内容**:
 
 Congrats SpaceX team!
-
-[查看原文](https://x.com/elonmusk/status/2112781132387529005)
 
 ---
 
@@ -286,8 +282,6 @@ Congrats SpaceX team!
 
 Honest feedback from Grok and Fable
 
-[查看原文](https://x.com/elonmusk/status/2112781998624555086)
-
 ---
 
 ## 2026-10-21 13:57:56
@@ -297,8 +291,6 @@ Honest feedback from Grok and Fable
 **内容**:
 
 RT @CurtisHouck: WATCH: President Trump’s full comments to CBS’s Nikole Killion about the war between Russia and Ukraine, arguing the land…
-
-[查看原文](https://x.com/elonmusk/status/2112785436691361983)
 
 ---
 
@@ -312,8 +304,6 @@ RT @XFreeze: SpaceX’s full Q3 2026 earnings Q&amp;A: Elon Musk, Gwynne Shotwel
 
 0:00…
 
-[查看原文](https://x.com/elonmusk/status/2112786056563298623)
-
 ---
 
 ## 2026-10-21 14:01:10
@@ -326,7 +316,57 @@ RT @JesseBWatters: 🚀 WOW! SpaceX just LAUNCHED another Falcon 9 into the star
 
 Elon Musk’s Starfall—a 4,000-pound, HOCKEY-PUCK-SHAPED LA…
 
-[查看原文](https://x.com/elonmusk/status/2112786248909648321)
+---
+
+## 2026-10-21 14:05:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bg2clips: 🛰️ @elonmusk wants 10 gigawatts of compute by the end of 2027. @JensenHuang says Nvidia now counts @SpaceX alongside its clou…
+
+[查看原文](https://x.com/elonmusk/status/2112787377546481950)
+
+---
+
+## 2026-10-21 14:14:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GrindeOptions: What’s crazy to me is that $SPCX will LIKELY achieve $500B - $1 trillion in ARR by EOY 2027.
+
+The infrastructure availab…
+
+[查看原文](https://x.com/elonmusk/status/2112789535872708827)
+
+---
+
+## 2026-10-21 14:19:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RealMicahLamar: $SPCX JUST REPORTED $14.6 BILLION IN REVENUE. 🚀
+
+Revenue surged 161% year over year. Net income hit $4.4B. And AI now m…
+
+[查看原文](https://x.com/elonmusk/status/2112790777235493064)
+
+---
+
+## 2026-10-21 14:33:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PeterDiamandis: Mark my words, SpaceX will become the first $10T company, and the first $100T company. 🚀🚀🚀
+
+[查看原文](https://x.com/elonmusk/status/2112794432936255535)
 
 ---
 
