@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3771 条推文
+> 📊 推文存档 - 共 3775 条推文
 
 ---
 
@@ -245,7 +245,55 @@ RT @SawyerMerritt: Elon Musk on Optimus:
 
 "We've started early production. The growth of Optimus is an S curve, but the initial curve is a…
 
-[查看原文](https://x.com/elonmusk/status/2113024424886648882)
+---
+
+## 2026-10-22 06:53:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Counting bumblebees one-by-one 😂
+
+[查看原文](https://x.com/elonmusk/status/2113040898644967726)
+
+---
+
+## 2026-10-22 06:56:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Watch this clip carefully. The script is always the same: Elon is "dumb," Elon is "lucky," and Bill Gates is the good billiona…
+
+[查看原文](https://x.com/elonmusk/status/2113041670313054225)
+
+---
+
+## 2026-10-22 06:56:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @shaunmmaguire: If you are an ambitious young person
+
+I still believe joining @SpaceX is one of the best career decisions you can make…
+
+[查看原文](https://x.com/elonmusk/status/2113041706132148596)
+
+---
+
+## 2026-10-22 07:04:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @realBrandonGill: I can tell you exactly what will happen if Democrats regain power: They will use your money to fly deported illegal al…
+
+[查看原文](https://x.com/elonmusk/status/2113043653115453883)
 
 ---
 
