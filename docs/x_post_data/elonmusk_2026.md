@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3734 条推文
+> 📊 推文存档 - 共 3736 条推文
 
 ---
 
@@ -402,8 +402,6 @@ RT @firesidealpha: Elon Musk says SpaceX is using its rocket-engine casting shop
 
 RT @NelsonRedPill: A Europa será destruída por mulheres que projetam naqueles animais a maternidade que cabia aos filhos que elas abortaram.
 
-[查看原文](https://x.com/elonmusk/status/2112858261380825322)
-
 ---
 
 ## 2026-10-21 18:47:56
@@ -416,8 +414,6 @@ RT @BrianRoemmele: New X Money Grok Bot!
 
 Few understand how powerful it is to have Grok Bot understand your finances and your financial go…
 
-[查看原文](https://x.com/elonmusk/status/2112858415961694269)
-
 ---
 
 ## 2026-10-21 18:49:28
@@ -428,7 +424,29 @@ Few understand how powerful it is to have Grok Bot understand your finances and 
 
 RT @peer_rich: i fucking love grokbot
 
-[查看原文](https://x.com/elonmusk/status/2112858804195066183)
+---
+
+## 2026-10-21 22:25:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @OfficialLoganK: In just the first 72 hours since Gemini 4 Argon launched, we processed ~25 trillion tokens, the demand for intelligence…
+
+[查看原文](https://x.com/elonmusk/status/2112913053536977052)
+
+---
+
+## 2026-10-21 22:39:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benjitaylor: I’ve been using Grok Bot to prototype physical product ideas faster. I give it sketches and 3D models, and it helps me cre…
+
+[查看原文](https://x.com/elonmusk/status/2112916569282261152)
 
 ---
 
