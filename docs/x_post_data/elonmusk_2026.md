@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3718 条推文
+> 📊 推文存档 - 共 3724 条推文
 
 ---
 
@@ -250,7 +250,83 @@ As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible h
 
 RT @willchamberlain: Unsurprising. Up to this point I’ve run my podcast completely solo with Grok Bot and Riverside, and the more I use Gro…
 
-[查看原文](https://x.com/elonmusk/status/2112770340942139675)
+---
+
+## 2026-10-21 13:33:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: We use Grok Bot to spot incidents in our support queue and quickly respond to every associated ticket.
+
+In one incident, it cleare…
+
+[查看原文](https://x.com/elonmusk/status/2112779364303544352)
+
+---
+
+## 2026-10-21 13:40:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Congrats SpaceX team!
+
+[查看原文](https://x.com/elonmusk/status/2112781132387529005)
+
+---
+
+## 2026-10-21 13:44:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Honest feedback from Grok and Fable
+
+[查看原文](https://x.com/elonmusk/status/2112781998624555086)
+
+---
+
+## 2026-10-21 13:57:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CurtisHouck: WATCH: President Trump’s full comments to CBS’s Nikole Killion about the war between Russia and Ukraine, arguing the land…
+
+[查看原文](https://x.com/elonmusk/status/2112785436691361983)
+
+---
+
+## 2026-10-21 14:00:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX’s full Q3 2026 earnings Q&amp;A: Elon Musk, Gwynne Shotwell and Bret Johnsen take on Wall Street’s biggest questions
+
+0:00…
+
+[查看原文](https://x.com/elonmusk/status/2112786056563298623)
+
+---
+
+## 2026-10-21 14:01:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JesseBWatters: 🚀 WOW! SpaceX just LAUNCHED another Falcon 9 into the stars 🚀
+
+Elon Musk’s Starfall—a 4,000-pound, HOCKEY-PUCK-SHAPED LA…
+
+[查看原文](https://x.com/elonmusk/status/2112786248909648321)
 
 ---
 
