@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3763 条推文
+> 📊 推文存档 - 共 3766 条推文
 
 ---
 
@@ -117,8 +117,6 @@ Talarico, the creep, in his OWN words
 
 Forward this to your friends in Texas
 
-[查看原文](https://x.com/elonmusk/status/2112958619448639525)
-
 ---
 
 ## 2026-10-22 01:48:46
@@ -131,8 +129,6 @@ Talarico would vote to take away your kids and transition them, not just in Texa
 
 Pure evil.
 
-[查看原文](https://x.com/elonmusk/status/2112964322192408813)
-
 ---
 
 ## 2026-10-22 01:50:02
@@ -142,8 +138,6 @@ Pure evil.
 **内容**:
 
 Cool
-
-[查看原文](https://x.com/elonmusk/status/2112964643593269747)
 
 ---
 
@@ -156,10 +150,6 @@ Cool
 RT @BasedMikeLee: “Sydney Sweeney” makes the case for Voter ID.
 https://t.co/wd9EYCMI4C
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINe2rY_OB0NkSPkQgyqbrl6gUQxjU3AALfEGsbWIrIVuYOdue5N3LFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2112965839263760393)
-
 ---
 
 ## 2026-10-22 01:55:40
@@ -171,7 +161,43 @@ https://t.co/wd9EYCMI4C
 RT @PeterDiamandis: If there's one thing I can tell you about @SpaceX, it's that there's never been a company like this... 
 My thoughts on…
 
-[查看原文](https://x.com/elonmusk/status/2112966061284851739)
+---
+
+## 2026-10-22 01:57:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Send your friends links to 𝕏 so that they know what’s really going on
+
+[查看原文](https://x.com/elonmusk/status/2112966587149881376)
+
+---
+
+## 2026-10-22 01:58:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can help protect and fix your credit rating. Just ask it to do so!
+
+[查看原文](https://x.com/elonmusk/status/2112966832969708020)
+
+---
+
+## 2026-10-22 01:59:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk: Neuralink's Blindsight vision implant is coming soon
+
+"Even if somebody's completely blind, we can write directly t…
+
+[查看原文](https://x.com/elonmusk/status/2112967011982586310)
 
 ---
 
