@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 141 条推文
+> 📊 推文存档 - 共 142 条推文
 
 ---
 
@@ -39,9 +39,17 @@ tags: ["2026"]
 
 一晚+30万美金，这次让后入鱼哥的兄弟失望了。 https://t.co/SX17YmIbuV
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINemrYiNEYDA_Vmxw5xpXIypCPOKEkAAKLE2sbWIrAVuA84GepCfBAAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2112841215297368094)
+## 2026-10-21 20:04:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+关于SpaceX买入的核心逻辑看这篇。股价是预期的游戏，解禁结束，星辰大海！
+
+[查看原文](https://x.com/iiiinvest/status/2112877618060222667)
 
 ---
 
