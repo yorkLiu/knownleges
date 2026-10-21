@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3755 条推文
+> 📊 推文存档 - 共 3757 条推文
 
 ---
 
@@ -21,8 +21,6 @@ RT @KettlebellDan: with Grok Bot the future of computing is headless
 
 I never wake up thinking "this will be a great day to open up the ama…
 
-[查看原文](https://x.com/elonmusk/status/2112941047902843137)
-
 ---
 
 ## 2026-10-22 00:19:16
@@ -32,8 +30,6 @@ I never wake up thinking "this will be a great day to open up the ama…
 **内容**:
 
 Send 𝕏 links to your friends so that they know what’s really going on
-
-[查看原文](https://x.com/elonmusk/status/2112941801510178862)
 
 ---
 
@@ -47,8 +43,6 @@ RT @realDonaldTrump: 🚨 VIRGINIA!
 
 Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. If you have a mail-in bal…
 
-[查看原文](https://x.com/elonmusk/status/2112942136056528901)
-
 ---
 
 ## 2026-10-22 00:20:55
@@ -58,8 +52,6 @@ Early Voting, in-person, is UNDERWAY NOW in the Great Commonwealth of Virginia. 
 **内容**:
 
 RT @realBrandonGill: Vote straight ticket Republican if you want our committees to continue doing things like investigating fraudsters and…
-
-[查看原文](https://x.com/elonmusk/status/2112942216478069052)
 
 ---
 
@@ -73,8 +65,6 @@ Live by the sword, die by the sword.
 
 Those who pick fights with me should understand that I will find out who is really pulling the strings and come for them, not just their puppets …
 
-[查看原文](https://x.com/elonmusk/status/2112942522486202504)
-
 ---
 
 ## 2026-10-22 00:22:57
@@ -85,7 +75,31 @@ Those who pick fights with me should understand that I will find out who is real
 
 Talarico is a creep
 
-[查看原文](https://x.com/elonmusk/status/2112942727482761342)
+---
+
+## 2026-10-22 00:54:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: Today is a great day to vote early in person in Texas for @KenPaxtonTX. 
+
+I’m hearing we are seeing near-presidential-lev…
+
+[查看原文](https://x.com/elonmusk/status/2112950560445845908)
+
+---
+
+## 2026-10-22 00:54:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink moves the needle
+
+[查看原文](https://x.com/elonmusk/status/2112950704327520260)
 
 ---
 
