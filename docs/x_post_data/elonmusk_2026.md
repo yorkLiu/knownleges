@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3729 条推文
+> 📊 推文存档 - 共 3731 条推文
 
 ---
 
@@ -370,7 +370,31 @@ RT @PeterDiamandis: Mark my words, SpaceX will become the first $10T company, an
 
 RT @beffjezos: How is this acceptable or legal? Retaliation for political speech should be prohibited by law.
 
-[查看原文](https://x.com/elonmusk/status/2112849360631566817)
+---
+
+## 2026-10-21 18:18:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: “We're seeing the fastest growth of a product that I've ever seen in my life for Grok Bot"—@elonmusk 
+
+I can verify, I h…
+
+[查看原文](https://x.com/elonmusk/status/2112850901161631899)
+
+---
+
+## 2026-10-21 18:33:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Elon Musk says SpaceX is using its rocket-engine casting shop to make turbine blades and vanes, the parts that run 12 to…
+
+[查看原文](https://x.com/elonmusk/status/2112854820847780099)
 
 ---
 
