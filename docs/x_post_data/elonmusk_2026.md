@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3728 条推文
+> 📊 推文存档 - 共 3729 条推文
 
 ---
 
@@ -326,8 +326,6 @@ Elon Musk’s Starfall—a 4,000-pound, HOCKEY-PUCK-SHAPED LA…
 
 RT @bg2clips: 🛰️ @elonmusk wants 10 gigawatts of compute by the end of 2027. @JensenHuang says Nvidia now counts @SpaceX alongside its clou…
 
-[查看原文](https://x.com/elonmusk/status/2112787377546481950)
-
 ---
 
 ## 2026-10-21 14:14:13
@@ -339,8 +337,6 @@ RT @bg2clips: 🛰️ @elonmusk wants 10 gigawatts of compute by the end of 2027
 RT @GrindeOptions: What’s crazy to me is that $SPCX will LIKELY achieve $500B - $1 trillion in ARR by EOY 2027.
 
 The infrastructure availab…
-
-[查看原文](https://x.com/elonmusk/status/2112789535872708827)
 
 ---
 
@@ -354,8 +350,6 @@ RT @RealMicahLamar: $SPCX JUST REPORTED $14.6 BILLION IN REVENUE. 🚀
 
 Revenue surged 161% year over year. Net income hit $4.4B. And AI now m…
 
-[查看原文](https://x.com/elonmusk/status/2112790777235493064)
-
 ---
 
 ## 2026-10-21 14:33:41
@@ -366,7 +360,17 @@ Revenue surged 161% year over year. Net income hit $4.4B. And AI now m…
 
 RT @PeterDiamandis: Mark my words, SpaceX will become the first $10T company, and the first $100T company. 🚀🚀🚀
 
-[查看原文](https://x.com/elonmusk/status/2112794432936255535)
+---
+
+## 2026-10-21 18:11:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @beffjezos: How is this acceptable or legal? Retaliation for political speech should be prohibited by law.
+
+[查看原文](https://x.com/elonmusk/status/2112849360631566817)
 
 ---
 
