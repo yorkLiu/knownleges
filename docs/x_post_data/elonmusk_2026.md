@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3766 条推文
+> 📊 推文存档 - 共 3770 条推文
 
 ---
 
@@ -171,8 +171,6 @@ My thoughts on…
 
 Send your friends links to 𝕏 so that they know what’s really going on
 
-[查看原文](https://x.com/elonmusk/status/2112966587149881376)
-
 ---
 
 ## 2026-10-22 01:58:44
@@ -182,8 +180,6 @@ Send your friends links to 𝕏 so that they know what’s really going on
 **内容**:
 
 Grok @Bot can help protect and fix your credit rating. Just ask it to do so!
-
-[查看原文](https://x.com/elonmusk/status/2112966832969708020)
 
 ---
 
@@ -197,7 +193,53 @@ RT @XFreeze: Elon Musk: Neuralink's Blindsight vision implant is coming soon
 
 "Even if somebody's completely blind, we can write directly t…
 
-[查看原文](https://x.com/elonmusk/status/2112967011982586310)
+---
+
+## 2026-10-22 04:49:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Great progress by the Tesla team!
+
+[查看原文](https://x.com/elonmusk/status/2113009907012382829)
+
+---
+
+## 2026-10-22 04:51:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot, you will love it!
+
+[查看原文](https://x.com/elonmusk/status/2113010364178964616)
+
+---
+
+## 2026-10-22 04:54:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+People are buying FSD with a car attached, not the other way around
+
+[查看原文](https://x.com/elonmusk/status/2113011056847278486)
+
+---
+
+## 2026-10-22 04:56:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is like hiring a super smart and fun employee!
+
+[查看原文](https://x.com/elonmusk/status/2113011511429902609)
 
 ---
 
