@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3757 条推文
+> 📊 推文存档 - 共 3758 条推文
 
 ---
 
@@ -87,8 +87,6 @@ RT @ScottPresler: Today is a great day to vote early in person in Texas for @Ken
 
 I’m hearing we are seeing near-presidential-lev…
 
-[查看原文](https://x.com/elonmusk/status/2112950560445845908)
-
 ---
 
 ## 2026-10-22 00:54:39
@@ -99,7 +97,17 @@ I’m hearing we are seeing near-presidential-lev…
 
 Starlink moves the needle
 
-[查看原文](https://x.com/elonmusk/status/2112950704327520260)
+---
+
+## 2026-10-22 01:24:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico, the creep, in his OWN words
+
+[查看原文](https://x.com/elonmusk/status/2112958301344264310)
 
 ---
 
