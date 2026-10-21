@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3770 条推文
+> 📊 推文存档 - 共 3771 条推文
 
 ---
 
@@ -203,8 +203,6 @@ RT @XFreeze: Elon Musk: Neuralink's Blindsight vision implant is coming soon
 
 Great progress by the Tesla team!
 
-[查看原文](https://x.com/elonmusk/status/2113009907012382829)
-
 ---
 
 ## 2026-10-22 04:51:43
@@ -214,8 +212,6 @@ Great progress by the Tesla team!
 **内容**:
 
 Try Grok @Bot, you will love it!
-
-[查看原文](https://x.com/elonmusk/status/2113010364178964616)
 
 ---
 
@@ -227,8 +223,6 @@ Try Grok @Bot, you will love it!
 
 People are buying FSD with a car attached, not the other way around
 
-[查看原文](https://x.com/elonmusk/status/2113011056847278486)
-
 ---
 
 ## 2026-10-22 04:56:16
@@ -239,7 +233,19 @@ People are buying FSD with a car attached, not the other way around
 
 Grok @Bot is like hiring a super smart and fun employee!
 
-[查看原文](https://x.com/elonmusk/status/2113011511429902609)
+---
+
+## 2026-10-22 05:47:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Elon Musk on Optimus:
+
+"We've started early production. The growth of Optimus is an S curve, but the initial curve is a…
+
+[查看原文](https://x.com/elonmusk/status/2113024424886648882)
 
 ---
 
