@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3731 条推文
+> 📊 推文存档 - 共 3734 条推文
 
 ---
 
@@ -382,8 +382,6 @@ RT @BrianRoemmele: “We're seeing the fastest growth of a product that I've eve
 
 I can verify, I h…
 
-[查看原文](https://x.com/elonmusk/status/2112850901161631899)
-
 ---
 
 ## 2026-10-21 18:33:38
@@ -394,7 +392,43 @@ I can verify, I h…
 
 RT @firesidealpha: Elon Musk says SpaceX is using its rocket-engine casting shop to make turbine blades and vanes, the parts that run 12 to…
 
-[查看原文](https://x.com/elonmusk/status/2112854820847780099)
+---
+
+## 2026-10-21 18:47:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NelsonRedPill: A Europa será destruída por mulheres que projetam naqueles animais a maternidade que cabia aos filhos que elas abortaram.
+
+[查看原文](https://x.com/elonmusk/status/2112858261380825322)
+
+---
+
+## 2026-10-21 18:47:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: New X Money Grok Bot!
+
+Few understand how powerful it is to have Grok Bot understand your finances and your financial go…
+
+[查看原文](https://x.com/elonmusk/status/2112858415961694269)
+
+---
+
+## 2026-10-21 18:49:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @peer_rich: i fucking love grokbot
+
+[查看原文](https://x.com/elonmusk/status/2112858804195066183)
 
 ---
 
