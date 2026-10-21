@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3717 条推文
+> 📊 推文存档 - 共 3718 条推文
 
 ---
 
@@ -230,8 +230,6 @@ RT @XFreeze: Elon Musk on a possible SpaceX–Tesla merger:
 
 Both SpaceX and Tesla have formed sp…
 
-[查看原文](https://x.com/elonmusk/status/2112664502030541009)
-
 ---
 
 ## 2026-10-21 06:05:12
@@ -242,9 +240,17 @@ Both SpaceX and Tesla have formed sp…
 
 As crazy as this sounds, $1T in SpaceX revenue in 2028 is no longer impossible https://t.co/jF3Wue95nL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINeGrX6Pnp7smuSv9WbRv1ikPz0lQ-AAI0GmsbC5LAVmq3YErsY3SPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2112666467712073815)
+## 2026-10-21 12:57:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @willchamberlain: Unsurprising. Up to this point I’ve run my podcast completely solo with Grok Bot and Riverside, and the more I use Gro…
+
+[查看原文](https://x.com/elonmusk/status/2112770340942139675)
 
 ---
 
