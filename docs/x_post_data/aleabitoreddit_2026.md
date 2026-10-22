@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 511 条推文
+> 📊 推文存档 - 共 512 条推文
 
 ---
 
@@ -22,9 +22,23 @@ $NVDA today announces capacity agreements with substrate, packaging, testing and
 - Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x
 - $AMKR to increase advanced packaging capacity by more than 300% by the end https://t.co/2cLFqRpXyl
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINfWrZeDQNt9dc9zreX4SN0oD1Rl52AAJXEWsbWIrIVmNhk4jRbGmvAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2113094859439690104)
+## 2026-10-22 20:05:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. 
+
+There's little investment thesis or conviction in the first place.
+
+People always have multi-year ideas like $RKLB becoming the next $SPCX or AST becoming the next Starlink https://t.co/oSawCfLCz9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINgmraAnvqL_qrDGg-qgAB5Gcvq3J4MQAC9A9rGyKk0Fa9TlP8Q1kmCQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2113240389813780923)
 
 ---
 
