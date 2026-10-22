@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3778 条推文
+> 📊 推文存档 - 共 3779 条推文
 
 ---
 
@@ -297,8 +297,6 @@ RT @realBrandonGill: I can tell you exactly what will happen if Democrats regain
 
 RT @elonmusk: @jamestalarico In your own words …
 
-[查看原文](https://x.com/elonmusk/status/2113078400898179181)
-
 ---
 
 ## 2026-10-22 09:33:33
@@ -308,8 +306,6 @@ RT @elonmusk: @jamestalarico In your own words …
 **内容**:
 
 Talarico hates Texas
-
-[查看原文](https://x.com/elonmusk/status/2113081289570127971)
 
 ---
 
@@ -321,7 +317,19 @@ Talarico hates Texas
 
 RT @XFreeze: Elon Musk hilariously explains why Optimus has to learn like a toddler, by playing, making mistakes and getting better over ti…
 
-[查看原文](https://x.com/elonmusk/status/2113081408675553682)
+---
+
+## 2026-10-22 09:46:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Robotaxi makes the roads safer for everyone https://t.co/d1mXidofAH
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINfGrZcO2dgawo-Xaq51WsEdWmGRTHAAJPEWsbWIrIVknjjjVx-gF9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2113084638902309261)
 
 ---
 
