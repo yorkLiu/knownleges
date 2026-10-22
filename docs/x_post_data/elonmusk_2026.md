@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3816 条推文
+> 📊 推文存档 - 共 3819 条推文
 
 ---
 
@@ -97,8 +97,6 @@ Important to vote
 
 RT @KenPaxtonTX: Go vote!
 
-[查看原文](https://x.com/elonmusk/status/2113319084553376019)
-
 ---
 
 ## 2026-10-23 01:19:13
@@ -109,7 +107,41 @@ RT @KenPaxtonTX: Go vote!
 
 Talarico hates Texas and America
 
-[查看原文](https://x.com/elonmusk/status/2113319277092642942)
+---
+
+## 2026-10-23 01:44:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: US Ambassador to South Africa Leo Bozell slams the government for blocking Starlink’s offer of free internet for 5,0…
+
+[查看原文](https://x.com/elonmusk/status/2113325728213377233)
+
+---
+
+## 2026-10-23 01:46:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EricLDaugh: 🚨 JUST IN: VP JD Vance MIC DROPS European bureaucrats and fake news attacking Elon Musk, then BEGGING for him to unleash St…
+
+[查看原文](https://x.com/elonmusk/status/2113326097492320764)
+
+---
+
+## 2026-10-23 02:00:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2113329537509449744)
 
 ---
 
