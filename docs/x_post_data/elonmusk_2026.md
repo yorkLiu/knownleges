@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3779 条推文
+> 📊 推文存档 - 共 3782 条推文
 
 ---
 
@@ -327,9 +327,49 @@ RT @XFreeze: Elon Musk hilariously explains why Optimus has to learn like a todd
 
 RT @robotaxi: Robotaxi makes the roads safer for everyone https://t.co/d1mXidofAH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINfGrZcO2dgawo-Xaq51WsEdWmGRTHAAJPEWsbWIrIVknjjjVx-gF9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2113084638902309261)
+## 2026-10-22 12:20:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Dr_Singularity: I asked Claude how 10 Billion Humanoid Robots Could Change the World. https://t.co/Peh6d6RF8i
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINfmrZlUEgsFbPU2wECoiayqrKOK58AAKSEWsbWIrIVkH50ozwwRUYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2113123427393450477)
+
+---
+
+## 2026-10-22 12:34:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @javif4_: I still can't code, but I accidentally built 
+an AI filmmaking studio 
+while making 3 songs (Unbelievable)
+
+22 days ago posted…
+
+[查看原文](https://x.com/elonmusk/status/2113126809596309534)
+
+---
+
+## 2026-10-22 12:39:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @runwayml: Runway MCP is now in Grok Bot.
+
+Bring state-of-the-art generation into your chat and create anything you can imagine, without…
+
+[查看原文](https://x.com/elonmusk/status/2113127998157189281)
 
 ---
 
