@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3809 条推文
+> 📊 推文存档 - 共 3813 条推文
 
 ---
 
@@ -21,8 +21,6 @@ RT @TeslaRecruiting: Terafab will be the most epic chip-building exercise ever, 
 
 Join us http…
 
-[查看原文](https://x.com/elonmusk/status/2113299389338796448)
-
 ---
 
 ## 2026-10-23 00:02:12
@@ -33,9 +31,59 @@ Join us http…
 
 RT @techdevnotes: Grok Bot is now on X Chat https://t.co/VLJ4dKmnCh
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINhGraNVVO9GQMSgeU3baKtsrd5vj3AALBEGsbIqTQVjBlCLbPBt2BAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2113299894471626958)
+## 2026-10-23 00:17:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Di_Krass_: Mercedes sold its Tesla stake for $780 million. that same 4 percent is worth about $56 billion today.
+
+in the clip below Mus…
+
+[查看原文](https://x.com/elonmusk/status/2113303802816217352)
+
+---
+
+## 2026-10-23 00:21:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WallStreetApes: INSANE 🚨 100% of New York adult daycares that were audited WERE FRAUD
+
+“We audited 15 of these — There's no record of a…
+
+[查看原文](https://x.com/elonmusk/status/2113304755221004514)
+
+---
+
+## 2026-10-23 00:22:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2113304960326652163)
+
+---
+
+## 2026-10-23 00:24:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok is attracting a higher share of new users than every other major SI website
+
+In September 2026 alone, 40.91% of https://t…
+
+[查看原文](https://x.com/elonmusk/status/2113305600784474595)
 
 ---
 
