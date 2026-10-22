@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3799 条推文
+> 📊 推文存档 - 共 3802 条推文
 
 ---
 
@@ -537,8 +537,6 @@ I was the target demographic.
 
 Baldur's Gate, NWN, KO…
 
-[查看原文](https://x.com/elonmusk/status/2113201155505279124)
-
 ---
 
 ## 2026-10-22 17:36:56
@@ -548,8 +546,6 @@ Baldur's Gate, NWN, KO…
 **内容**:
 
 RT @fwprism: FULL CLIP: Asmongold says the number one reason game studios fail is that when activists are involved in development, they don…
-
-[查看原文](https://x.com/elonmusk/status/2113202937438626155)
 
 ---
 
@@ -561,7 +557,45 @@ RT @fwprism: FULL CLIP: Asmongold says the number one reason game studios fail i
 
 RT @xenocosmography: From what I can tell from my exposure to it, the Japanese voice on this platform is the most blessed and wholesome sig…
 
-[查看原文](https://x.com/elonmusk/status/2113203947997450634)
+---
+
+## 2026-10-22 18:07:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2113210745710162001)
+
+---
+
+## 2026-10-22 18:15:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: How it started vs how it’s going
+
+Seven years ago, Starhopper barely left the ground. Today, Starship has reached space https:…
+
+[查看原文](https://x.com/elonmusk/status/2113212639752990928)
+
+---
+
+## 2026-10-22 18:17:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GuntherEagleman: 🚨 TEXAS: President Trump just dropped his FULL endorsement slate, and every one of these Patriots needs your vote.
+
+Ke…
+
+[查看原文](https://x.com/elonmusk/status/2113213055454835104)
 
 ---
 
