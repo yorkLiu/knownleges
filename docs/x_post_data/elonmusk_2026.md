@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3819 条推文
+> 📊 推文存档 - 共 3820 条推文
 
 ---
 
@@ -117,8 +117,6 @@ Talarico hates Texas and America
 
 RT @cb_doge: BREAKING: US Ambassador to South Africa Leo Bozell slams the government for blocking Starlink’s offer of free internet for 5,0…
 
-[查看原文](https://x.com/elonmusk/status/2113325728213377233)
-
 ---
 
 ## 2026-10-23 01:46:19
@@ -128,8 +126,6 @@ RT @cb_doge: BREAKING: US Ambassador to South Africa Leo Bozell slams the govern
 **内容**:
 
 RT @EricLDaugh: 🚨 JUST IN: VP JD Vance MIC DROPS European bureaucrats and fake news attacking Elon Musk, then BEGGING for him to unleash St…
-
-[查看原文](https://x.com/elonmusk/status/2113326097492320764)
 
 ---
 
@@ -141,7 +137,17 @@ RT @EricLDaugh: 🚨 JUST IN: VP JD Vance MIC DROPS European bureaucrats and fak
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2113329537509449744)
+---
+
+## 2026-10-23 02:14:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2113333198134354083)
 
 ---
 
