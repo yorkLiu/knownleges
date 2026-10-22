@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3796 条推文
+> 📊 推文存档 - 共 3799 条推文
 
 ---
 
@@ -513,8 +513,6 @@ RT @cb_doge: How to share 𝕏.com links with friends and family?
 
 Unfortun…
 
-[查看原文](https://x.com/elonmusk/status/2113195830349844915)
-
 ---
 
 ## 2026-10-22 17:09:16
@@ -525,7 +523,45 @@ Unfortun…
 
 RT @cb_doge: BREAKING: Chile’s government, through the Ñuble Health Service, will connect 38 rural clinics across 14 municipalities with St…
 
-[查看原文](https://x.com/elonmusk/status/2113195974311243787)
+---
+
+## 2026-10-22 17:29:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @donaldmorganjr: I want to expand on this, because for BioWare's original games:
+
+I was the target demographic. 
+
+Baldur's Gate, NWN, KO…
+
+[查看原文](https://x.com/elonmusk/status/2113201155505279124)
+
+---
+
+## 2026-10-22 17:36:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @fwprism: FULL CLIP: Asmongold says the number one reason game studios fail is that when activists are involved in development, they don…
+
+[查看原文](https://x.com/elonmusk/status/2113202937438626155)
+
+---
+
+## 2026-10-22 17:40:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @xenocosmography: From what I can tell from my exposure to it, the Japanese voice on this platform is the most blessed and wholesome sig…
+
+[查看原文](https://x.com/elonmusk/status/2113203947997450634)
 
 ---
 
