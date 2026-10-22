@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3802 条推文
+> 📊 推文存档 - 共 3807 条推文
 
 ---
 
@@ -567,8 +567,6 @@ RT @xenocosmography: From what I can tell from my exposure to it, the Japanese v
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2113210745710162001)
-
 ---
 
 ## 2026-10-22 18:15:29
@@ -580,8 +578,6 @@ True
 RT @XFreeze: How it started vs how it’s going
 
 Seven years ago, Starhopper barely left the ground. Today, Starship has reached space https:…
-
-[查看原文](https://x.com/elonmusk/status/2113212639752990928)
 
 ---
 
@@ -595,7 +591,71 @@ RT @GuntherEagleman: 🚨 TEXAS: President Trump just dropped his FULL endorseme
 
 Ke…
 
-[查看原文](https://x.com/elonmusk/status/2113213055454835104)
+---
+
+## 2026-10-22 23:15:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cremieuxrecueil: How many Americans actually just straight-up starve to death?
+
+In the latest data, from 2024, there were 22 cases.
+
+An…
+
+[查看原文](https://x.com/elonmusk/status/2113288182548615646)
+
+---
+
+## 2026-10-22 23:17:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: Today is a great day to vote early in person for @KenPaxtonTX. 
+
+If Texas falls, there is no future for our country.
+
+[查看原文](https://x.com/elonmusk/status/2113288717762732425)
+
+---
+
+## 2026-10-22 23:18:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+[查看原文](https://x.com/elonmusk/status/2113288958738366650)
+
+---
+
+## 2026-10-22 23:19:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ICannot_Enough: Estimated metric tons of useful payload delivered to orbit in Year-to-Date 2026 by Rocket Lab, Firefly, Blue Origin, St…
+
+[查看原文](https://x.com/elonmusk/status/2113289150551970025)
+
+---
+
+## 2026-10-22 23:27:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @zerohedge: Bloomberg Drops $80 Million On Democrats' Midterm Push: $24 Million To Everytown, $16 Million To House Majority PAC https://…
+
+[查看原文](https://x.com/elonmusk/status/2113291067252764816)
 
 ---
 
