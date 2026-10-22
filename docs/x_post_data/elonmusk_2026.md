@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3794 条推文
+> 📊 推文存档 - 共 3796 条推文
 
 ---
 
@@ -467,8 +467,6 @@ These things can’t…
 
 RT @Rothmus: After Muslims burned Danish embassies and killed roughly 250 people over cartoons of Muhammad, Western media hid the images wh…
 
-[查看原文](https://x.com/elonmusk/status/2113186581364269309)
-
 ---
 
 ## 2026-10-22 16:39:23
@@ -479,8 +477,6 @@ RT @Rothmus: After Muslims burned Danish embassies and killed roughly 250 people
 
 Something deeply wrong with Talarico
 
-[查看原文](https://x.com/elonmusk/status/2113188454788174293)
-
 ---
 
 ## 2026-10-22 16:40:11
@@ -490,8 +486,6 @@ Something deeply wrong with Talarico
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2113188655225618459)
 
 ---
 
@@ -505,7 +499,33 @@ RT @GuntherEagleman: Elon Musk just called James Talarico a creep and told Texan
 
 His words: Talarico would vote to ta…
 
-[查看原文](https://x.com/elonmusk/status/2113189855035609409)
+---
+
+## 2026-10-22 17:08:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: How to share 𝕏.com links with friends and family?
+
+→ Use the ''Share icon'' located at the bottom right of the post.
+
+Unfortun…
+
+[查看原文](https://x.com/elonmusk/status/2113195830349844915)
+
+---
+
+## 2026-10-22 17:09:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Chile’s government, through the Ñuble Health Service, will connect 38 rural clinics across 14 municipalities with St…
+
+[查看原文](https://x.com/elonmusk/status/2113195974311243787)
 
 ---
 
