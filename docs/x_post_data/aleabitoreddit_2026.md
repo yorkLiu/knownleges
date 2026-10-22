@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 512 条推文
+> 📊 推文存档 - 共 513 条推文
 
 ---
 
@@ -36,9 +36,21 @@ There's little investment thesis or conviction in the first place.
 
 People always have multi-year ideas like $RKLB becoming the next $SPCX or AST becoming the next Starlink https://t.co/oSawCfLCz9
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINgmraAnvqL_qrDGg-qgAB5Gcvq3J4MQAC9A9rGyKk0Fa9TlP8Q1kmCQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2113240389813780923)
+## 2026-10-22 22:00:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah… minor volatility in October.
+
+Figured I’d share some personal drawdowns too for transparency. https://t.co/GDOTmceEgw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINg2raGEa9tRrOIn5tbx7UIj7SFLLAAAIuEGsbIqTQVgZkQgKce9WyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2113269349519954203)
 
 ---
 
