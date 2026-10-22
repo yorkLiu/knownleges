@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3782 条推文
+> 📊 推文存档 - 共 3786 条推文
 
 ---
 
@@ -337,10 +337,6 @@ RT @robotaxi: Robotaxi makes the roads safer for everyone https://t.co/d1mXidofA
 
 RT @Dr_Singularity: I asked Claude how 10 Billion Humanoid Robots Could Change the World. https://t.co/Peh6d6RF8i
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINfmrZlUEgsFbPU2wECoiayqrKOK58AAKSEWsbWIrIVkH50ozwwRUYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2113123427393450477)
-
 ---
 
 ## 2026-10-22 12:34:26
@@ -355,8 +351,6 @@ while making 3 songs (Unbelievable)
 
 22 days ago posted…
 
-[查看原文](https://x.com/elonmusk/status/2113126809596309534)
-
 ---
 
 ## 2026-10-22 12:39:09
@@ -369,7 +363,59 @@ RT @runwayml: Runway MCP is now in Grok Bot.
 
 Bring state-of-the-art generation into your chat and create anything you can imagine, without…
 
-[查看原文](https://x.com/elonmusk/status/2113127998157189281)
+---
+
+## 2026-10-22 12:46:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasedMikeLee: James Talarico:
+
+The least-Texan man in Texas https://t.co/Gaw3lR0p42
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINf2rZnL88qdtc4LtTKGNfmReJpFDWAAKdEWsbWIrIVnmxOZgB68o5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2113129951453208795)
+
+---
+
+## 2026-10-22 12:49:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SERobinsonJr: Today I early voted in Texas. Straight Republican. Dems are not worth the risk to all the great builders and projects her…
+
+[查看原文](https://x.com/elonmusk/status/2113130565700313123)
+
+---
+
+## 2026-10-22 12:50:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @chiproytx: James Talarico supported the Biden Border Crisis, attacked law enforcement during the BLM riots, and wants to end run oil an…
+
+[查看原文](https://x.com/elonmusk/status/2113130726837068160)
+
+---
+
+## 2026-10-22 12:53:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Elon Musk on Optimus V3:
+
+"We may be ready to release a video in about a month or two. I want to release a video where O…
+
+[查看原文](https://x.com/elonmusk/status/2113131529454973416)
 
 ---
 
