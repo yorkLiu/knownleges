@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3820 条推文
+> 📊 推文存档 - 共 3821 条推文
 
 ---
 
@@ -147,7 +147,19 @@ Try Grok @Bot
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2113333198134354083)
+---
+
+## 2026-10-23 03:23:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stark0xbt: Ron Baron has been investing for 56 years. He just said he has never seen a company like SpaceX. Not one.
+
+He made his clien…
+
+[查看原文](https://x.com/elonmusk/status/2113350664227271123)
 
 ---
 
