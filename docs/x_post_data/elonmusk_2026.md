@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3786 条推文
+> 📊 推文存档 - 共 3790 条推文
 
 ---
 
@@ -375,10 +375,6 @@ RT @BasedMikeLee: James Talarico:
 
 The least-Texan man in Texas https://t.co/Gaw3lR0p42
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINf2rZnL88qdtc4LtTKGNfmReJpFDWAAKdEWsbWIrIVnmxOZgB68o5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2113129951453208795)
-
 ---
 
 ## 2026-10-22 12:49:21
@@ -389,8 +385,6 @@ The least-Texan man in Texas https://t.co/Gaw3lR0p42
 
 RT @SERobinsonJr: Today I early voted in Texas. Straight Republican. Dems are not worth the risk to all the great builders and projects her…
 
-[查看原文](https://x.com/elonmusk/status/2113130565700313123)
-
 ---
 
 ## 2026-10-22 12:50:00
@@ -400,8 +394,6 @@ RT @SERobinsonJr: Today I early voted in Texas. Straight Republican. Dems are no
 **内容**:
 
 RT @chiproytx: James Talarico supported the Biden Border Crisis, attacked law enforcement during the BLM riots, and wants to end run oil an…
-
-[查看原文](https://x.com/elonmusk/status/2113130726837068160)
 
 ---
 
@@ -415,7 +407,65 @@ RT @SawyerMerritt: Elon Musk on Optimus V3:
 
 "We may be ready to release a video in about a month or two. I want to release a video where O…
 
-[查看原文](https://x.com/elonmusk/status/2113131529454973416)
+---
+
+## 2026-10-22 15:55:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Tesla Model Y just became the best-selling car in Germany
+
+An American EV beat the Volkswagen Golf in its own home market. The…
+
+[查看原文](https://x.com/elonmusk/status/2113177368281993645)
+
+---
+
+## 2026-10-22 15:57:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Tesla just took the top two spots in Europe's entire car market
+
+September 2026:
+#1 Tesla Model Y: 40,971
+#2 Tesla Model 3: 25…
+
+[查看原文](https://x.com/elonmusk/status/2113177838539153808)
+
+---
+
+## 2026-10-22 15:59:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ApoStructura: Thanks to SpaceX the US has now finally sent more total mass to orbit than Russia. https://t.co/LP1ulHNnLz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINgGrZyFuwgL_42w7BynBaTV0PVidrAAJfEmsbWIrIVhxpPrDVUV1vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2113178337757614236)
+
+---
+
+## 2026-10-22 16:05:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasedMikeLee: “Noncitizens don’t vote,” they said.
+
+So how is it that 28% of noncitizens in California have voted?
+
+These things can’t…
+
+[查看原文](https://x.com/elonmusk/status/2113179953822892221)
 
 ---
 

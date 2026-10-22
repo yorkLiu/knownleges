@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 563 条推文
+> 📊 推文存档 - 共 564 条推文
 
 ---
 
@@ -51,7 +51,22 @@ tags: ["2026"]
 
 牠們的終點是「講好中國故事，共產黨也沒那麼壞」。去一一驗證吧，這幫玩意就是這個宿命😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2113160529481224322)
+---
+
+## 2026-10-22 15:37:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這就是我一直高看香港人的原因
+【至少明白什麼是法治】
+當然隨著大陸客的稀釋
+還能堅持多久，未知 https://t.co/kvJgHnLf67
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINgWrZyGCeAAGbskpdMn-Yo-dB6jqNNQACYBJrG1iKyFZ_8uiMsud-AAEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2113172963927421292)
 
 ---
 
