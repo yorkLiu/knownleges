@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3790 条推文
+> 📊 推文存档 - 共 3794 条推文
 
 ---
 
@@ -419,8 +419,6 @@ RT @XFreeze: Tesla Model Y just became the best-selling car in Germany
 
 An American EV beat the Volkswagen Golf in its own home market. The…
 
-[查看原文](https://x.com/elonmusk/status/2113177368281993645)
-
 ---
 
 ## 2026-10-22 15:57:12
@@ -435,8 +433,6 @@ September 2026:
 #1 Tesla Model Y: 40,971
 #2 Tesla Model 3: 25…
 
-[查看原文](https://x.com/elonmusk/status/2113177838539153808)
-
 ---
 
 ## 2026-10-22 15:59:11
@@ -446,10 +442,6 @@ September 2026:
 **内容**:
 
 RT @ApoStructura: Thanks to SpaceX the US has now finally sent more total mass to orbit than Russia. https://t.co/LP1ulHNnLz
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINgGrZyFuwgL_42w7BynBaTV0PVidrAAJfEmsbWIrIVhxpPrDVUV1vAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2113178337757614236)
 
 ---
 
@@ -465,7 +457,55 @@ So how is it that 28% of noncitizens in California have voted?
 
 These things can’t…
 
-[查看原文](https://x.com/elonmusk/status/2113179953822892221)
+---
+
+## 2026-10-22 16:31:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: After Muslims burned Danish embassies and killed roughly 250 people over cartoons of Muhammad, Western media hid the images wh…
+
+[查看原文](https://x.com/elonmusk/status/2113186581364269309)
+
+---
+
+## 2026-10-22 16:39:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Something deeply wrong with Talarico
+
+[查看原文](https://x.com/elonmusk/status/2113188454788174293)
+
+---
+
+## 2026-10-22 16:40:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2113188655225618459)
+
+---
+
+## 2026-10-22 16:44:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GuntherEagleman: Elon Musk just called James Talarico a creep and told Texans to vote Ken Paxton.
+
+His words: Talarico would vote to ta…
+
+[查看原文](https://x.com/elonmusk/status/2113189855035609409)
 
 ---
 
