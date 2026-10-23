@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 514 条推文
+> 📊 推文存档 - 共 515 条推文
 
 ---
 
@@ -23,9 +23,23 @@ The CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK
 
 "One of the things that's really great about https://t.co/8B5qiEIqza
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINhmrasLGuZFnKrypkyg6Ucvv5UPXOAAIpEWsbIqTQVmaZUy5V2FUjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2113433338522546399)
+## 2026-10-23 09:10:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Actually $ESMT and my legacy memory names held up better than the rest of the AI trade. 
+
+Probably did better... since ESMT is around 1.6x runrate P/E, annualized off July earnings.
+
+This was more of a durability/PSMC hike sensitivity type thesis, but... we got durability support https://t.co/2IFTyRqzp2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINh2rauAXwL5q8Lk8cR6XrtYfUdBEBAAJBEWsbIqTQVmtZI-jlgyvwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2113437977749999628)
 
 ---
 

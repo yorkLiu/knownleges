@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 567 条推文
+> 📊 推文存档 - 共 569 条推文
 
 ---
 
@@ -29,8 +29,6 @@ tags: ["2026"]
 
 我自從吃過韓國的黑豬肉之後，才知道，無論從高科技與狠活來講，還是純正的肉質口感來說，中國的豬肉根本不能入口。或許運到法國對付穆斯林，是唯一的用處？
 
-[查看原文](https://x.com/dianzhuXS/status/2113421100973785214)
-
 ---
 
 ## 2026-10-23 08:21:19
@@ -47,7 +45,33 @@ tags: ["2026"]
 
 加拿大的【關鍵問題】根本不是什麼不疼不癢的「禁毒」，而是劣質選民「劣幣驅逐良幣」。
 
-[查看原文](https://x.com/dianzhuXS/status/2113425501109060003)
+---
+
+## 2026-10-23 08:58:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+雞屁股又出氣啦👀👀👀
+
+曾經做過一期「四庫丟，韭國休」的節目，西南「人門」是祖龍發源地，也是未庫。 https://t.co/r3uMumjT66
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINiGrauAlyqlwaF4kw_jklJSu5lgkwAAJCEWsbIqTQVpt0x62oKTQ6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2113434822639329468)
+
+---
+
+## 2026-10-23 09:18:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這是每一位豬肝色護照人，應有的防範意識，海外生存的真理【中國人扎堆準沒好】，傻逼和壞逼以及精神病的濃度太高了，且還在不斷飆升👇
+
+[查看原文](https://x.com/dianzhuXS/status/2113439926666838309)
 
 ---
 

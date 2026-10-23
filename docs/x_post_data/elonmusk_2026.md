@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3822 条推文
+> 📊 推文存档 - 共 3823 条推文
 
 ---
 
@@ -171,7 +171,17 @@ RT @bot: Grok Bot can now use your 1Password account.
 
 Approve the logins you want to share, and your Bot signs in for you. This new integr…
 
-[查看原文](https://x.com/elonmusk/status/2113405782809100387)
+---
+
+## 2026-10-23 09:26:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is literally their plan to end democracy in America
+
+[查看原文](https://x.com/elonmusk/status/2113441855266554263)
 
 ---
 
