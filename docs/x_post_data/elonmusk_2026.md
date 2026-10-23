@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3823 条推文
+> 📊 推文存档 - 共 3826 条推文
 
 ---
 
@@ -181,7 +181,43 @@ Approve the logins you want to share, and your Bot signs in for you. This new in
 
 This is literally their plan to end democracy in America
 
-[查看原文](https://x.com/elonmusk/status/2113441855266554263)
+---
+
+## 2026-10-23 09:33:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Bot just got a very big upgrade on iOS and Android
+
+Grok Bot can now directly interact with apps on your phone and handle…
+
+[查看原文](https://x.com/elonmusk/status/2113443783161373135)
+
+---
+
+## 2026-10-23 09:34:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Bot now integrates with your phone apps
+
+[查看原文](https://x.com/elonmusk/status/2113444022408937913)
+
+---
+
+## 2026-10-23 09:35:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s that easy
+
+[查看原文](https://x.com/elonmusk/status/2113444197978255814)
 
 ---
 
