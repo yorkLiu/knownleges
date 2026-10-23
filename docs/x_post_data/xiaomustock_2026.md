@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 430 条推文
+> 📊 推文存档 - 共 431 条推文
 
 ---
 
@@ -21,9 +21,19 @@ tags: ["2026"]
 现在计划就是等一个事件节点就是大厂融资发债滞销，
 节点触发后过个一个月左右估计就能干了， https://t.co/TKNApJ3IDn
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINhWraSyH-V1IguTcq2RvTZoadcCnsAAL4EGsbIqTQVl_98SJRW5cBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2113321904979501389)
+## 2026-10-23 09:45:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+刚抄了snxx，nvda，spcx，soxl https://t.co/6AvIrgnV5w
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINiWravzbC0nNTZ_JYhcrARTYUVnomAAJIEWsbIqTQViRcXktLX3ZpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2113446651935474156)
 
 ---
 
