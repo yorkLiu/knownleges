@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 147 条推文
+> 📊 推文存档 - 共 149 条推文
 
 ---
 
@@ -34,7 +34,35 @@ tags: ["2026"]
 3、连续的下跌后，半导体再次杀跌，情绪极度恐慌。
 综合看，AI盈利叙事、高油价，以及相伴的恐慌情绪是压制市场的核心因素。
 
-[查看原文](https://x.com/iiiinvest/status/2113450705667436930)
+---
+
+## 2026-10-23 11:36:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+跌的时候怎么平衡心态？
+
+去看看更惨的就好了，比如A股，实在不行就港股。美股这是刚开始回调，A股调整半年了，港股调整5年了😂
+
+[查看原文](https://x.com/iiiinvest/status/2113474687007330449)
+
+---
+
+## 2026-10-23 13:24:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+来，兄弟们乐呵下：半导体我亏50万美金了。
+
+PS.前天还是盈利，我干了这杯毒药~ https://t.co/CZZKcJWviZ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINjGrbAAGNO8oErWto3UjNKXQtF5-UHgACIhFrGyKk2FZEzyMLEXk-twEAAwIAA3gAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2113501683078844648)
 
 ---
 

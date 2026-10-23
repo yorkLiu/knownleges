@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3826 条推文
+> 📊 推文存档 - 共 3839 条推文
 
 ---
 
@@ -193,8 +193,6 @@ RT @XFreeze: Grok Bot just got a very big upgrade on iOS and Android
 
 Grok Bot can now directly interact with apps on your phone and handle…
 
-[查看原文](https://x.com/elonmusk/status/2113443783161373135)
-
 ---
 
 ## 2026-10-23 09:34:55
@@ -204,8 +202,6 @@ Grok Bot can now directly interact with apps on your phone and handle…
 **内容**:
 
 Grok Bot now integrates with your phone apps
-
-[查看原文](https://x.com/elonmusk/status/2113444022408937913)
 
 ---
 
@@ -217,7 +213,186 @@ Grok Bot now integrates with your phone apps
 
 It’s that easy
 
-[查看原文](https://x.com/elonmusk/status/2113444197978255814)
+---
+
+## 2026-10-23 11:59:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benln: Grok Bot team shipped in the last few days:
+
+• Reports, memos, dashboards in the chat
+• iPhone action button to talk to Bot
+• 3x…
+
+[查看原文](https://x.com/elonmusk/status/2113480525679866281)
+
+---
+
+## 2026-10-23 13:11:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: 33 of the 34 deadliest cities in America have Democrat mayors. 
+
+Dallas is the only one that doesn’t. 
+New Orleans, Baltimore,…
+
+[查看原文](https://x.com/elonmusk/status/2113498547165475298)
+
+---
+
+## 2026-10-23 13:17:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: I don’t think people realize what Elon Musk is actually doing.
+
+He’s not playing the game better than everyone else. He’s rewr…
+
+[查看原文](https://x.com/elonmusk/status/2113500122537660892)
+
+---
+
+## 2026-10-23 13:34:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Capitalism has a win condition. Socialism does not.
+
+Here's why, explained so simply a 10-year-old could get it. 
+
+It starts w…
+
+[查看原文](https://x.com/elonmusk/status/2113504252920230029)
+
+---
+
+## 2026-10-23 13:42:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is an incredible life &amp; business manager. Can help you with almost anything!
+
+Like having a genius employee.
+
+[查看原文](https://x.com/elonmusk/status/2113506269260595431)
+
+---
+
+## 2026-10-23 13:43:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @venturetwins: I asked Grok Bot to make a video about itself. 
+
+It did everything - set the storyline, found clips, cut and stitched the…
+
+[查看原文](https://x.com/elonmusk/status/2113506512475718001)
+
+---
+
+## 2026-10-23 13:43:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasedMikeLee: You can tell a lot about James Talarico by who he compares to al Qaeda and the Taliban—roughly half of American voters…
+
+[查看原文](https://x.com/elonmusk/status/2113506640288694445)
+
+---
+
+## 2026-10-23 13:44:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Intel CTO explains why Intel is helping Elon Musk build Terafab, and what a new fab needs besides tools
+
+DWARKESH: “I th…
+
+[查看原文](https://x.com/elonmusk/status/2113506760006984102)
+
+---
+
+## 2026-10-23 13:44:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: Grok Bot 0.75.2 is awesome.
+
+SpaceXSI is moving fast with new features daily.
+
+[查看原文](https://x.com/elonmusk/status/2113506948012298688)
+
+---
+
+## 2026-10-23 13:45:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Grok Bot can now use Calendar, Reminders, Contacts, and more apps on your phone.
+
+Rolling out now on iOS and Android. https://t.co…
+
+[查看原文](https://x.com/elonmusk/status/2113507085728240091)
+
+---
+
+## 2026-10-23 13:49:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: American Airlines CEO Robert Isom says @Starlink is the best product in the marketplace.
+
+“Our customers, they want…
+
+[查看原文](https://x.com/elonmusk/status/2113508050116149550)
+
+---
+
+## 2026-10-23 13:50:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico supports voting fraud
+
+[查看原文](https://x.com/elonmusk/status/2113508214243573866)
+
+---
+
+## 2026-10-23 13:50:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2113508310267674684)
 
 ---
 
