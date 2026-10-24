@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3909 条推文
+> 📊 推文存档 - 共 3910 条推文
 
 ---
 
@@ -133,7 +133,23 @@ RT @anabology: The best thing I ever did was making an X account when Elon bough
 
 RT @kevinnbass: Talarico is damaged goods. Something wrong with him.
 
-[查看原文](https://x.com/elonmusk/status/2114127000096981138)
+---
+
+## 2026-10-25 07:13:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kevinnbass: James Talarico is a radical extremist.
+
+I crunched the numbers on his voting record.
+
+I show it.
+
+Whenever there was a disa…
+
+[查看原文](https://x.com/elonmusk/status/2114133316790014162)
 
 ---
 
