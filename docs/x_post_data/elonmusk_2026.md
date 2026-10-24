@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3900 条推文
+> 📊 推文存档 - 共 3901 条推文
 
 ---
 
@@ -33,7 +33,17 @@ Talarico's Texas House record:
 
 ❌ $1.8 b…
 
-[查看原文](https://x.com/elonmusk/status/2114029496219447678)
+---
+
+## 2026-10-25 00:48:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DeepLeaksHQ: Elon Musk: You can tell which side is the good side and which side is the bad side by which side wishes to restrict freedo…
+
+[查看原文](https://x.com/elonmusk/status/2114036284398456974)
 
 ---
 
