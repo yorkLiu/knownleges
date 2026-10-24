@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 586 条推文
+> 📊 推文存档 - 共 587 条推文
 
 ---
 
@@ -18,10 +18,6 @@ tags: ["2026"]
 **内容**:
 
 共和黨拿下參議院，加油💪 https://t.co/6uhDdK1dOj
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINnmrdBR9dC3PlqnfEiPdw6tebSQtPAALHEWsb72DoVo7dPNe_2xLoAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2114069131293241478)
 
 ---
 
@@ -45,7 +41,17 @@ tags: ["2026"]
 
 作真正的自己，噢耶💪💪💪
 
-[查看原文](https://x.com/dianzhuXS/status/2114074288529846712)
+---
+
+## 2026-10-25 03:51:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+說實話，谷愛凌這身還不如彭麗媛那身睡衣了🤭
+
+[查看原文](https://x.com/dianzhuXS/status/2114082428818239693)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3905 条推文
+> 📊 推文存档 - 共 3906 条推文
 
 ---
 
@@ -69,8 +69,6 @@ Starshield, a different system, is controlled by the US government. What they de
 
 Ukraine military violated
 
-[查看原文](https://x.com/elonmusk/status/2114063986744275011)
-
 ---
 
 ## 2026-10-25 02:40:57
@@ -83,8 +81,6 @@ Politics is incredibly tribal.
 
 Most of those in one tribe can see nothing their tribe does wrong or anything good done by another political tribe.
 
-[查看原文](https://x.com/elonmusk/status/2114064620411666919)
-
 ---
 
 ## 2026-10-25 02:43:16
@@ -95,7 +91,17 @@ Most of those in one tribe can see nothing their tribe does wrong or anything go
 
 Starlink in Bolivia! ❤️🇧🇴
 
-[查看原文](https://x.com/elonmusk/status/2114065201939034225)
+---
+
+## 2026-10-25 03:21:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://x.com/elonmusk/status/2114074712041197969)
 
 ---
 
