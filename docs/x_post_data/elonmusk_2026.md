@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3901 条推文
+> 📊 推文存档 - 共 3902 条推文
 
 ---
 
@@ -43,7 +43,19 @@ Talarico's Texas House record:
 
 RT @DeepLeaksHQ: Elon Musk: You can tell which side is the good side and which side is the bad side by which side wishes to restrict freedo…
 
-[查看原文](https://x.com/elonmusk/status/2114036284398456974)
+---
+
+## 2026-10-25 01:56:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @farzyness: Why Phones Think Starlink Satellites Are Cell Towers https://t.co/yXE7LFIPFW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINnWrc9pnDkCINxkM-LqG5VXS3DkSuAAK8EWsb72DoVn-G2_yVVrFOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2114053491463217539)
 
 ---
 
