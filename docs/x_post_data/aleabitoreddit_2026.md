@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 517 条推文
+> 📊 推文存档 - 共 518 条推文
+
+---
+
+## 2026-10-25 00:23:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I guess what I've seen from Chinese laser capacity expansion: 
+
+1. Dongshan/Source Photonics (索尔思): 9M/month capacity -&gt; 22M/month Q4 -&gt;  300m/year in 2027 (mostly EML, but blended)
+
+Claims of 1B/year "target" for laser chips with no deadline, but I'd take this as a grain of
+
+[查看原文](https://x.com/aleabitoreddit/status/2114030117416755494)
 
 ---
 
