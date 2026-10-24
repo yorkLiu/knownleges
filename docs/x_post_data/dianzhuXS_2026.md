@@ -7,7 +7,45 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 584 条推文
+> 📊 推文存档 - 共 586 条推文
+
+---
+
+## 2026-10-25 02:58:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+共和黨拿下參議院，加油💪 https://t.co/6uhDdK1dOj
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINnmrdBR9dC3PlqnfEiPdw6tebSQtPAALHEWsb72DoVo7dPNe_2xLoAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2114069131293241478)
+
+---
+
+## 2026-10-25 03:19:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+全世界支持美國共和黨的人們聯合起來
+
+全世界支持川普總統的朋友聯合起來
+
+「價值觀」同頻共振才有價值！
+
+「價值觀」同頻共振才有價值！
+
+「價值觀」同頻共振才有價值！
+
+丟掉任何「出生地標籤」
+
+作真正的自己，噢耶💪💪💪
+
+[查看原文](https://x.com/dianzhuXS/status/2114074288529846712)
 
 ---
 
