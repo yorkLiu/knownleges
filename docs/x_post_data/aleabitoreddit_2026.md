@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 518 条推文
+> 📊 推文存档 - 共 519 条推文
 
 ---
 
@@ -23,7 +23,23 @@ I guess what I've seen from Chinese laser capacity expansion:
 
 Claims of 1B/year "target" for laser chips with no deadline, but I'd take this as a grain of
 
-[查看原文](https://x.com/aleabitoreddit/status/2114030117416755494)
+---
+
+## 2026-10-25 01:46:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So back on your Neoclouds like $NBIS + memory read through... From $AMZN CEO + A16z interview. 
+
+Q: On memory shortages (eg. $MU / SK Hynix / Samsung):
+
+A: "There's only so much memory, and I don't think that that shortage ends in 2027." https://t.co/b68lRRzovY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINnGrc71Mpc2aIegslp0wfQrmEAcLHAAK0EWsb72DoVkvyvo_bIPRvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2114051018510287340)
 
 ---
 
