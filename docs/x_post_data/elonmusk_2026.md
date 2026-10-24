@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3906 条推文
+> 📊 推文存档 - 共 3908 条推文
 
 ---
 
@@ -101,7 +101,31 @@ Starlink in Bolivia! ❤️🇧🇴
 
 Exactly
 
-[查看原文](https://x.com/elonmusk/status/2114074712041197969)
+---
+
+## 2026-10-25 06:20:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JTLonsdale: He’s wrong for the USA, and especially for Texas.
+
+If we get a D POTUS in ‘29, it will fall to the US Senate to block: stac…
+
+[查看原文](https://x.com/elonmusk/status/2114119899102556665)
+
+---
+
+## 2026-10-25 06:21:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: The best thing I ever did was making an X account when Elon bought the platform tbh
+
+[查看原文](https://x.com/elonmusk/status/2114120113519501671)
 
 ---
 
