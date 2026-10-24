@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3897 条推文
+> 📊 推文存档 - 共 3898 条推文
 
 ---
 
@@ -544,8 +544,6 @@ RT @XFreeze: Rogers is doubling down on its partnership with Starlink to bring e
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2113996858842563006)
-
 ---
 
 ## 2026-10-24 22:13:35
@@ -556,8 +554,6 @@ Try Grok @Bot
 
 RT @EvaFox: In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch.…
 
-[查看原文](https://x.com/elonmusk/status/2113997336456339963)
-
 ---
 
 ## 2026-10-24 22:16:59
@@ -567,8 +563,6 @@ RT @EvaFox: In early 2002, Elon was preparing to launch SpaceX and searching for
 **内容**:
 
 It is tragic that so many people still think the news is real
-
-[查看原文](https://x.com/elonmusk/status/2113998192547332212)
 
 ---
 
@@ -582,8 +576,6 @@ RT @jayplemons: David Friedberg says this isn’t Suicidal Empathy, these are Ar
 
 He is referring to the French woman, who…
 
-[查看原文](https://x.com/elonmusk/status/2114001439114887447)
-
 ---
 
 ## 2026-10-24 22:30:20
@@ -595,8 +587,6 @@ He is referring to the French woman, who…
 RT @dnapway: David Friedberg reveals France's public spending is 57% of GDP: greater than that of communist countries
 
 "This chart is a mea…
-
-[查看原文](https://x.com/elonmusk/status/2114001550594957625)
 
 ---
 
@@ -610,8 +600,6 @@ RT @KenPaxtonTX: Just one week of early voting left, Texas!
 
 Early voting ends Friday, October 30. The radical Left is counting on Republic…
 
-[查看原文](https://x.com/elonmusk/status/2114003199090642981)
-
 ---
 
 ## 2026-10-24 22:38:26
@@ -622,7 +610,17 @@ Early voting ends Friday, October 30. The radical Left is counting on Republic�
 
 Another 27 Starlink satellites
 
-[查看原文](https://x.com/elonmusk/status/2114003587156086798)
+---
+
+## 2026-10-24 22:54:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheAliceSmith: It’s very important to grasp this.
+
+[查看原文](https://x.com/elonmusk/status/2114007570637836656)
 
 ---
 
