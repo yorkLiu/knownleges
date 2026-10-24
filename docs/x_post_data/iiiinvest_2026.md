@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 149 条推文
+> 📊 推文存档 - 共 151 条推文
+
+---
+
+## 2026-10-24 13:05:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+赚钱只是手段，生活才是目的。周末，吃好喝好休息好，莫多想。
+
+[查看原文](https://x.com/iiiinvest/status/2113859316545438127)
 
 ---
 
@@ -46,8 +58,6 @@ tags: ["2026"]
 
 去看看更惨的就好了，比如A股，实在不行就港股。美股这是刚开始回调，A股调整半年了，港股调整5年了😂
 
-[查看原文](https://x.com/iiiinvest/status/2113474687007330449)
-
 ---
 
 ## 2026-10-23 13:24:02
@@ -60,9 +70,17 @@ tags: ["2026"]
 
 PS.前天还是盈利，我干了这杯毒药~ https://t.co/CZZKcJWviZ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINjGrbAAGNO8oErWto3UjNKXQtF5-UHgACIhFrGyKk2FZEzyMLEXk-twEAAwIAA3gAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2113501683078844648)
+## 2026-10-23 22:49:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+按照计划执行。
+
+[查看原文](https://x.com/iiiinvest/status/2113643976800752083)
 
 ---
 

@@ -7,7 +7,95 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 574 条推文
+> 📊 推文存档 - 共 584 条推文
+
+---
+
+## 2026-10-24 07:55:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+各州油價，你認為美國中期選舉該選誰？ https://t.co/22eg0Plvhc
+
+---
+
+## 2026-10-24 12:00:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+法會進行中，喝口水，轉一帖
+美國的朋友們，請傳播！
+【選民主黨就是選共產黨】
+
+---
+
+## 2026-10-24 12:11:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+德州牛逼💪 https://t.co/fmI2UCZ5aG
+
+---
+
+## 2026-10-24 15:11:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+法會圓滿，先在韓國境內竄訪幾個地方，發帖回歸「冷不防」，請周知🤗🤗🤗
+
+---
+
+## 2026-10-24 15:35:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+去換零件？
+
+---
+
+## 2026-10-24 15:48:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有道理
+
+---
+
+## 2026-10-24 16:08:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我恍惚記得，「拿貨」為了拉大旗做虎皮，不是還特意登門抱過老梁大腿了嗎？怎麼「自來熟」沒玩好「內訌」了呢？貴圈太亂，不行，必須遠離，必須遠離，必須遠離啊🤭🤭🤭
+
+---
+
+## 2026-10-24 16:35:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+單論這一期老梁的稿子，觀點是不錯的，華人絕不能玩穆斯林那一套，會招來排華的。
+
+更不能以「中國人」這個標籤拉幫結派形成什麼組織，很容易就會被統戰滲透。
+
+投選票是個人的獨立行為，要體現個人的價值觀，不能起哄，價值觀為基礎的抱團才有價值，出生地並無任何價值。
+
+[查看原文](https://x.com/dianzhuXS/status/2113912339166835060)
 
 ---
 
@@ -95,8 +183,6 @@ tags: ["2026"]
 現在咱人微言輕
 命也運也～
 
-[查看原文](https://x.com/dianzhuXS/status/2113474909473222955)
-
 ---
 
 ## 2026-10-23 13:30:15
@@ -115,8 +201,6 @@ tags: ["2026"]
 但就是跟台灣的炸豬排沒法比
 萬物皆是一理
 
-[查看原文](https://x.com/dianzhuXS/status/2113503244941234235)
-
 ---
 
 ## 2026-10-23 13:44:30
@@ -126,8 +210,6 @@ tags: ["2026"]
 **内容**:
 
 早關少賠，晚關多賠，不關人沒
-
-[查看原文](https://x.com/dianzhuXS/status/2113506830102262019)
 
 ---
 
@@ -150,7 +232,37 @@ tags: ["2026"]
 是不是習近平上台這些年
 變成這樣的？
 
-[查看原文](https://x.com/dianzhuXS/status/2113518093628780984)
+---
+
+## 2026-10-23 14:47:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+川普牛逼💪
+
+---
+
+## 2026-10-23 17:29:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大家來參與評價一下
+
+現在是2026後半年
+習近平對胯下的奴隸
+算是「一韭幾吃」了？
+
+然後我再預測一下
+2028年會達到幾吃
+🤗🤗🤗 https://t.co/jyTEFnUWH4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINjmrbLQsBczWU1W_lhKVNqQnqlUAkAAKxEWsbIqTYVgtZrWZrhQ9oAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2113563489528926498)
 
 ---
 

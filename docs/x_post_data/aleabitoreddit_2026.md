@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 515 条推文
+> 📊 推文存档 - 共 517 条推文
+
+---
+
+## 2026-10-24 19:05:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes, I like $SIVE. It's a fun company to cover, since there's a lot of supply chain alpha here. 
+
+But the company completely Tall Poppy Syndromed itself last earnings. 
+
+And it's clearly shown in the drawdown. 
+
+Bit of a longer consolidated thought and some scattered bits of https://t.co/5WgJV271Wi
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINmmrckVeS2HUNUvqKHgtIeGV475AwAAI_EWsb72DoVsWggGacpHCrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINm2rckVqKE0DJa0Gl1dWZmKpprPb5AAJAEWsb72DoVqrm1YFcLD1bAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2113950041207607453)
 
 ---
 
@@ -37,9 +59,27 @@ Probably did better... since ESMT is around 1.6x runrate P/E, annualized off Jul
 
 This was more of a durability/PSMC hike sensitivity type thesis, but... we got durability support https://t.co/2IFTyRqzp2
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINh2rauAXwL5q8Lk8cR6XrtYfUdBEBAAJBEWsbIqTQVmtZI-jlgyvwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2113437977749999628)
+## 2026-10-23 18:17:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Pretty crazy Reuters piece on the global selloff.
+
+- October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day.
+
+- Tech-focused hedge funds: down ~10% in October https://t.co/Jbkoc5Oa0k
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINj2rbNFCY-Z9_OnSe7WSgSvHwA5_nAAK8EWsbIqTYVqBjaFTFgeUzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINkGrbNFI9YpCpgBxsz8LyCn0xF952AAK9EWsbIqTYVmzNajrLmyEGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINkWrbNFUd3mY18Yxd5xYVKwrtT04-AAK-EWsbIqTYVt1NrMEN-LcqAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2113575601390936238)
 
 ---
 

@@ -7,7 +7,486 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3839 条推文
+> 📊 推文存档 - 共 3885 条推文
+
+---
+
+## 2026-10-24 00:42:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hitler was a far left socialist. Literally in the name of his party!
+
+---
+
+## 2026-10-24 00:43:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nicksortor: 🔥 LMAO! James Talarico just got called out TO HIS FACE for whining about Elon Musk donating to Ken Paxton, while HE'S being…
+
+---
+
+## 2026-10-24 00:43:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KenPaxtonTX: The stakes have never been higher. I’m fighting for Texas every single day, and now I need you in the fight. Early voting…
+
+---
+
+## 2026-10-24 00:48:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico hates Texas
+
+---
+
+## 2026-10-24 00:49:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Forward this to your friends
+
+---
+
+## 2026-10-24 00:50:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico will vote to take away your kids and transition them
+
+---
+
+## 2026-10-24 00:51:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Forward this to your friends
+
+---
+
+## 2026-10-24 01:04:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+What’s actually going on in Ukraine is that there is a massive incentive difference between the elites and the people. 
+
+The former have grown very rich off the hundreds of billions flowing to Ukraine, while the latter’s children are conscripted to die in trenches.
+
+---
+
+## 2026-10-24 01:05:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico wants to trans your kids and destroy the border
+
+---
+
+## 2026-10-24 01:07:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DogecoinNorway: Now the company is fixing the problem. 
+Thank you, Grok Bot!
+
+I had a problem with a company doing some building work f…
+
+---
+
+## 2026-10-24 01:09:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WR4NYGov: Tesla Whiners: Earnings call wasn't optimistic
+
+The Q3 Call:
+
+- Vaibhav: We will take over transportation of any kind on Eart…
+
+---
+
+## 2026-10-24 01:10:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @WR4NYGov By the way, Tesla ramping up Megapack production rapidly to meet increasing demand
+
+---
+
+## 2026-10-24 01:10:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk just shared how Tesla came within hours of dying on Christmas Eve in 2008, and it's incredible to think how much of…
+
+---
+
+## 2026-10-24 01:13:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+And some of that US taxpayer money comes back through multiple laundry machines to fund political campaigns in America, which is why you see some politicians caring more about Ukraine than America!
+
+---
+
+## 2026-10-24 01:13:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: If Talarico and Democrats get back into power, they will restart the border invasion.
+
+Our nation deserves a secure border.
+
+V…
+
+---
+
+## 2026-10-24 01:21:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @milesdeutscher: Elon has done it. Grok Bot is officially the best AI agent on the planet.
+
+Half of these Bots would have taken a full e…
+
+---
+
+## 2026-10-24 01:23:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Truthful_ast: Grok Bot is insanely cool, wow.
+
+---
+
+## 2026-10-24 01:25:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah
+
+---
+
+## 2026-10-24 01:26:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: This war has been going on for nearly five years, and somehow the one thing that never seems to run out is money
+
+Zelensky kee…
+
+---
+
+## 2026-10-24 01:26:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @hnshah: I’ve got a problem. I’m addicted to Grok Bot.
+
+I keep finding excuses to make another @grok @bot. Apparently I’ve made 81 bots…
+
+---
+
+## 2026-10-24 01:29:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @APompliano: Every day I am more impressed by @grok bot
+
+---
+
+## 2026-10-24 02:02:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The Economist has been anti-human for the past few decades. It is no longer worthy of respect.
+
+---
+
+## 2026-10-24 02:02:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: There are children starving and Bernie Sanders is giving $1 million to some Muslim in Michigan?
+
+Does Bernie hate starving childre…
+
+---
+
+## 2026-10-24 06:09:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gigafactories: Ramp-up is in full swing at Giga Berlin. This week we hit the next production milestone: 7,000 Model Y built in one week…
+
+---
+
+## 2026-10-24 06:10:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: James Talarico is a 2021 woke remnant who must lose. 
+
+When he opposed a transgender athletes bill that year he told the Texas…
+
+---
+
+## 2026-10-24 06:11:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Tesla has just expanded its Robotaxi service area in Austin, Texas.
+
+The new service area now includes the area around A…
+
+---
+
+## 2026-10-24 08:54:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot saves sensitive info in a vault
+
+---
+
+## 2026-10-24 08:54:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+---
+
+## 2026-10-24 10:30:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico is a far left extremist
+
+---
+
+## 2026-10-24 10:31:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JohnnaCrider1: People who act like Elon owes Ukraine forget this very important detail:
+
+---
+
+## 2026-10-24 13:08:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Rothmus Those who are opposed to corporations and favor government do not realize that government is simply the largest, mos…
+
+---
+
+## 2026-10-24 13:13:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kevinnbass: He is starting to believe https://t.co/7tcCuOfonk
+
+---
+
+## 2026-10-24 13:44:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Beautiful
+
+---
+
+## 2026-10-24 13:44:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In his own words
+
+---
+
+## 2026-10-24 13:45:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Odyssey with Grok Imagine
+
+---
+
+## 2026-10-24 13:47:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: The legacy media is a pure propaganda machine for the left. They all say the same thing at the same time.
+
+𝕏 is the real voice…
+
+---
+
+## 2026-10-24 13:48:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+---
+
+## 2026-10-24 13:48:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+---
+
+## 2026-10-24 13:51:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ClownWorld: $260 a month sounds crazy until you realize how much time and work this thing saves you @bot https://t.co/yNX1CfvhDL
+
+---
+
+## 2026-10-24 13:52:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Inspired by fighter jet cockpits, Roadster’s interface was designed around the pilot https://t.co/xHsyuNVrWo
+
+---
+
+## 2026-10-24 14:15:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: The Ultra plan is actually just $200 a month if you purchase it on the web
+
+$260 is the cost if you buy it on the App Store or…
+
+[查看原文](https://x.com/elonmusk/status/2113877111656075373)
+
+---
+
+## 2026-10-24 14:16:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So do I
+
+[查看原文](https://x.com/elonmusk/status/2113877257613947348)
+
+---
+
+## 2026-10-24 14:21:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mntruell: Instant login and checkout with @Bot
+
+[查看原文](https://x.com/elonmusk/status/2113878435336708459)
+
+---
+
+## 2026-10-24 14:23:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: The guy running to represent Texas wants to dismantle capitalism and bury oil and gas. 
+
+When he was a state legislator in 202…
+
+[查看原文](https://x.com/elonmusk/status/2113878910253609262)
 
 ---
 
@@ -227,8 +706,6 @@ RT @benln: Grok Bot team shipped in the last few days:
 • iPhone action button to talk to Bot
 • 3x…
 
-[查看原文](https://x.com/elonmusk/status/2113480525679866281)
-
 ---
 
 ## 2026-10-23 13:11:35
@@ -242,8 +719,6 @@ RT @Rothmus: 33 of the 34 deadliest cities in America have Democrat mayors.
 Dallas is the only one that doesn’t. 
 New Orleans, Baltimore,…
 
-[查看原文](https://x.com/elonmusk/status/2113498547165475298)
-
 ---
 
 ## 2026-10-23 13:17:50
@@ -255,8 +730,6 @@ New Orleans, Baltimore,…
 RT @brivael: I don’t think people realize what Elon Musk is actually doing.
 
 He’s not playing the game better than everyone else. He’s rewr…
-
-[查看原文](https://x.com/elonmusk/status/2113500122537660892)
 
 ---
 
@@ -272,8 +745,6 @@ Here's why, explained so simply a 10-year-old could get it.
 
 It starts w…
 
-[查看原文](https://x.com/elonmusk/status/2113504252920230029)
-
 ---
 
 ## 2026-10-23 13:42:16
@@ -285,8 +756,6 @@ It starts w…
 Grok @Bot is an incredible life &amp; business manager. Can help you with almost anything!
 
 Like having a genius employee.
-
-[查看原文](https://x.com/elonmusk/status/2113506269260595431)
 
 ---
 
@@ -300,8 +769,6 @@ RT @venturetwins: I asked Grok Bot to make a video about itself.
 
 It did everything - set the storyline, found clips, cut and stitched the…
 
-[查看原文](https://x.com/elonmusk/status/2113506512475718001)
-
 ---
 
 ## 2026-10-23 13:43:44
@@ -311,8 +778,6 @@ It did everything - set the storyline, found clips, cut and stitched the…
 **内容**:
 
 RT @BasedMikeLee: You can tell a lot about James Talarico by who he compares to al Qaeda and the Taliban—roughly half of American voters…
-
-[查看原文](https://x.com/elonmusk/status/2113506640288694445)
 
 ---
 
@@ -326,8 +791,6 @@ RT @firesidealpha: Intel CTO explains why Intel is helping Elon Musk build Teraf
 
 DWARKESH: “I th…
 
-[查看原文](https://x.com/elonmusk/status/2113506760006984102)
-
 ---
 
 ## 2026-10-23 13:44:58
@@ -339,8 +802,6 @@ DWARKESH: “I th…
 RT @BrianRoemmele: Grok Bot 0.75.2 is awesome.
 
 SpaceXSI is moving fast with new features daily.
-
-[查看原文](https://x.com/elonmusk/status/2113506948012298688)
 
 ---
 
@@ -354,8 +815,6 @@ RT @bot: Grok Bot can now use Calendar, Reminders, Contacts, and more apps on yo
 
 Rolling out now on iOS and Android. https://t.co…
 
-[查看原文](https://x.com/elonmusk/status/2113507085728240091)
-
 ---
 
 ## 2026-10-23 13:49:20
@@ -368,8 +827,6 @@ RT @cb_doge: BREAKING: American Airlines CEO Robert Isom says @Starlink is the b
 
 “Our customers, they want…
 
-[查看原文](https://x.com/elonmusk/status/2113508050116149550)
-
 ---
 
 ## 2026-10-23 13:50:00
@@ -379,8 +836,6 @@ RT @cb_doge: BREAKING: American Airlines CEO Robert Isom says @Starlink is the b
 **内容**:
 
 Talarico supports voting fraud
-
-[查看原文](https://x.com/elonmusk/status/2113508214243573866)
 
 ---
 
@@ -392,7 +847,30 @@ Talarico supports voting fraud
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2113508310267674684)
+---
+
+## 2026-10-23 21:53:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @IterIntellectus: grok bot is now integrated with XChat
+
+i can basically do everything directly from X
+the everything app is coming toge…
+
+---
+
+## 2026-10-23 23:38:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2113656412694073647)
 
 ---
 

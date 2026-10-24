@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 434 条推文
+> 📊 推文存档 - 共 437 条推文
+
+---
+
+## 2026-10-24 00:10:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+见好就收短撸了一把全卖了。不敢拿。 https://t.co/tecYBpxOCD
+
+---
+
+## 2026-10-24 02:06:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这行情认怂不可耻，
+毕竟亏的元子都是自己的，
+只有自己心疼。 https://t.co/vBKjlqMVMz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINlGrbqI3O8PbwouL4zbYOdVWY-lBJAAIGE2sbIqTYVr81_oaFn-OUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2113693473425838276)
 
 ---
 
@@ -43,8 +69,6 @@ tags: ["2026"]
 美股今晚不可能不反弹，
 短撸一把然后继续空仓。
 
-[查看原文](https://x.com/xiaomustock/status/2113474211075543254)
-
 ---
 
 ## 2026-10-23 11:55:05
@@ -57,10 +81,6 @@ tags: ["2026"]
 卧槽全他妈真的居然是，
 这国家的人都是麻瓜吗卧槽，好抽象 https://t.co/SFvOEKPqnj
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINi2rbAAGGCt7dN8VRSiOfRNsltPgQtwACIRFrGyKk2FaNbIC-0jcQQgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2113479297449206029)
-
 ---
 
 ## 2026-10-23 14:28:45
@@ -72,9 +92,17 @@ tags: ["2026"]
 全部爆反，市场里的钱闲不住，总要出手的，垃圾市场的a股和棒子都拉红了。
 最强股市美股不得今晚疯涨。 https://t.co/JKZTQnmCtw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINimrbAAGDdkrU36j0rxGNXi1FuwZ-bwACIBFrGyKk2FYn6AABHLcIkdIBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2113517969145991334)
+## 2026-10-23 21:16:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+跌的六亲不认了，抄底的亏麻了
+
+[查看原文](https://x.com/xiaomustock/status/2113620545027871003)
 
 ---
 

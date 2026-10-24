@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 75 条推文
+> 📊 推文存档 - 共 76 条推文
+
+---
+
+## 2026-10-23 15:17:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+只要三季报科技股不爆雷，宏观变量不再明显恶化，那基本就差不多了。
+底部区域，持仓不变
+关键是，博反弹到底怎么博？
+
+第一阶段：情绪修复期。 https://t.co/bJ1zMS6SpT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINjWrbD_l782k7O4FKO74WAo8m7xgXAAJdEWsbIqTYVj8_lHJcFmANAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2113530179079282869)
 
 ---
 
