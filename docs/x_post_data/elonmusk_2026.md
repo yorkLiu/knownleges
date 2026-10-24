@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3902 条推文
+> 📊 推文存档 - 共 3905 条推文
 
 ---
 
@@ -53,9 +53,49 @@ RT @DeepLeaksHQ: Elon Musk: You can tell which side is the good side and which s
 
 RT @farzyness: Why Phones Think Starlink Satellites Are Cell Towers https://t.co/yXE7LFIPFW
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINnWrc9pnDkCINxkM-LqG5VXS3DkSuAAK8EWsb72DoVn-G2_yVVrFOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2114053491463217539)
+## 2026-10-25 02:38:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Correct. 
+
+Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be. 
+
+Starshield, a different system, is controlled by the US government. What they decide to do is up to them. 
+
+Ukraine military violated
+
+[查看原文](https://x.com/elonmusk/status/2114063986744275011)
+
+---
+
+## 2026-10-25 02:40:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Politics is incredibly tribal. 
+
+Most of those in one tribe can see nothing their tribe does wrong or anything good done by another political tribe.
+
+[查看原文](https://x.com/elonmusk/status/2114064620411666919)
+
+---
+
+## 2026-10-25 02:43:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink in Bolivia! ❤️🇧🇴
+
+[查看原文](https://x.com/elonmusk/status/2114065201939034225)
 
 ---
 
