@@ -11,6 +11,7 @@
     "iiiinvest":"电鱼哥"
   },
   "output_dir": "/data/hermes/workspace/knownleges/data/x_data",
+  "cookie_file": "/data/hermes/.hermes/scripts/kakahu_x_cookie.txt",
   "max_tweets_per_user": 20,
   "timezone": "GMT+08:00",
   "timezone_offset": 8,
