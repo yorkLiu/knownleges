@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3885 条推文
+> 📊 推文存档 - 共 3890 条推文
 
 ---
 
@@ -448,8 +448,6 @@ RT @XFreeze: The Ultra plan is actually just $200 a month if you purchase it on 
 
 $260 is the cost if you buy it on the App Store or…
 
-[查看原文](https://x.com/elonmusk/status/2113877111656075373)
-
 ---
 
 ## 2026-10-24 14:16:26
@@ -460,8 +458,6 @@ $260 is the cost if you buy it on the App Store or…
 
 So do I
 
-[查看原文](https://x.com/elonmusk/status/2113877257613947348)
-
 ---
 
 ## 2026-10-24 14:21:07
@@ -471,8 +467,6 @@ So do I
 **内容**:
 
 RT @mntruell: Instant login and checkout with @Bot
-
-[查看原文](https://x.com/elonmusk/status/2113878435336708459)
 
 ---
 
@@ -486,7 +480,69 @@ RT @Rothmus: The guy running to represent Texas wants to dismantle capitalism an
 
 When he was a state legislator in 202…
 
-[查看原文](https://x.com/elonmusk/status/2113878910253609262)
+---
+
+## 2026-10-24 21:53:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheAliceSmith: How was Hitler a leftist?
+
+Collectivism. Statism. Command economy. High government debt and spending. High confiscatory…
+
+[查看原文](https://x.com/elonmusk/status/2113992241211375851)
+
+---
+
+## 2026-10-24 21:55:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Oaxaca’s state government in Mexico has delivered 67 Starlink dishes to expand internet access for students. 🇲🇽
+
+The…
+
+[查看原文](https://x.com/elonmusk/status/2113992726211436603)
+
+---
+
+## 2026-10-24 21:56:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Roadster at Petersen
+
+[查看原文](https://x.com/elonmusk/status/2113993051719016814)
+
+---
+
+## 2026-10-24 21:58:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2113993492418683207)
+
+---
+
+## 2026-10-24 22:00:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities acros…
+
+[查看原文](https://x.com/elonmusk/status/2113994014353469775)
 
 ---
 
