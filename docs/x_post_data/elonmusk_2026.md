@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3890 条推文
+> 📊 推文存档 - 共 3897 条推文
 
 ---
 
@@ -492,8 +492,6 @@ RT @TheAliceSmith: How was Hitler a leftist?
 
 Collectivism. Statism. Command economy. High government debt and spending. High confiscatory…
 
-[查看原文](https://x.com/elonmusk/status/2113992241211375851)
-
 ---
 
 ## 2026-10-24 21:55:16
@@ -506,8 +504,6 @@ RT @cb_doge: BREAKING: Oaxaca’s state government in Mexico has delivered 67 St
 
 The…
 
-[查看原文](https://x.com/elonmusk/status/2113992726211436603)
-
 ---
 
 ## 2026-10-24 21:56:34
@@ -517,8 +513,6 @@ The…
 **内容**:
 
 Roadster at Petersen
-
-[查看原文](https://x.com/elonmusk/status/2113993051719016814)
 
 ---
 
@@ -530,8 +524,6 @@ Roadster at Petersen
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2113993492418683207)
-
 ---
 
 ## 2026-10-24 22:00:23
@@ -542,7 +534,95 @@ True
 
 RT @XFreeze: Rogers is doubling down on its partnership with Starlink to bring expanded satellite-to-mobile coverage and capabilities acros…
 
-[查看原文](https://x.com/elonmusk/status/2113994014353469775)
+---
+
+## 2026-10-24 22:11:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2113996858842563006)
+
+---
+
+## 2026-10-24 22:13:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: In early 2002, Elon was preparing to launch SpaceX and searching for the people who could help him build a rocket from scratch.…
+
+[查看原文](https://x.com/elonmusk/status/2113997336456339963)
+
+---
+
+## 2026-10-24 22:16:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It is tragic that so many people still think the news is real
+
+[查看原文](https://x.com/elonmusk/status/2113998192547332212)
+
+---
+
+## 2026-10-24 22:29:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jayplemons: David Friedberg says this isn’t Suicidal Empathy, these are Armchair Do-Gooders.
+
+He is referring to the French woman, who…
+
+[查看原文](https://x.com/elonmusk/status/2114001439114887447)
+
+---
+
+## 2026-10-24 22:30:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dnapway: David Friedberg reveals France's public spending is 57% of GDP: greater than that of communist countries
+
+"This chart is a mea…
+
+[查看原文](https://x.com/elonmusk/status/2114001550594957625)
+
+---
+
+## 2026-10-24 22:36:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KenPaxtonTX: Just one week of early voting left, Texas!
+
+Early voting ends Friday, October 30. The radical Left is counting on Republic…
+
+[查看原文](https://x.com/elonmusk/status/2114003199090642981)
+
+---
+
+## 2026-10-24 22:38:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Another 27 Starlink satellites
+
+[查看原文](https://x.com/elonmusk/status/2114003587156086798)
 
 ---
 
