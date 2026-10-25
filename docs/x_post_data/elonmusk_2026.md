@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3926 条推文
+> 📊 推文存档 - 共 3929 条推文
 
 ---
 
@@ -318,7 +318,46 @@ RT @elonmusk: Politics is incredibly tribal.
 
 Most of those in one tribe can see nothing their tribe does wrong or anything good done by a…
 
-[查看原文](https://x.com/elonmusk/status/2114211239760957481)
+---
+
+## 2026-10-25 13:58:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2114235125496250766)
+
+---
+
+## 2026-10-25 14:04:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @AndySwan @roachsg Here are 10 from 2021-2023:
+
+1. Light Reading Jul 2021: Starlink risks being another satellite flop.
+2. Techdi…
+
+[查看原文](https://x.com/elonmusk/status/2114236546538934669)
+
+---
+
+## 2026-10-25 14:07:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Timboo: The more I look at the economics of AI infrastructure, the more bullish I become on SpaceX.
+
+David Sacks shared some fascinatin…
+
+[查看原文](https://x.com/elonmusk/status/2114237286053474801)
 
 ---
 
