@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 520 条推文
+> 📊 推文存档 - 共 521 条推文
+
+---
+
+## 2026-10-26 06:00:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I've always defended X as the only platform to be on for financial discourse.
+
+But it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests conflict with his own at $SPCX or $TSLA.
+
+Would people be comfortable if $NVDA
+
+[查看原文](https://x.com/aleabitoreddit/status/2114477224208535600)
 
 ---
 
