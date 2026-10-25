@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3961 条推文
+> 📊 推文存档 - 共 3962 条推文
 
 ---
 
@@ -63,8 +63,6 @@ RT @cb_doge: Elon Musk warned about this before. He was right then, and he’s r
 
 The flower of Ukrain…
 
-[查看原文](https://x.com/elonmusk/status/2114453775381324069)
-
 ---
 
 ## 2026-10-26 04:32:47
@@ -74,8 +72,6 @@ The flower of Ukrain…
 **内容**:
 
 No ID is required to vote in New York State or California
-
-[查看原文](https://x.com/elonmusk/status/2114455152136745221)
 
 ---
 
@@ -89,8 +85,6 @@ RT @cb_doge: Starlink’s Acceptable Use Policy explicitly prohibits remotely co
 
 Zelensky himself acknowledged using Starli…
 
-[查看原文](https://x.com/elonmusk/status/2114456138406297605)
-
 ---
 
 ## 2026-10-26 04:37:21
@@ -103,7 +97,17 @@ RT @BrianRoemmele: This update to Grok Bot with integrated calling is spectacula
 
 I have dozens of clients and myself that use this daily…
 
-[查看原文](https://x.com/elonmusk/status/2114456302563012687)
+---
+
+## 2026-10-26 04:57:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico is a FAR LEFT extremist
+
+[查看原文](https://x.com/elonmusk/status/2114461409811816467)
 
 ---
 
