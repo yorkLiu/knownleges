@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3957 条推文
+> 📊 推文存档 - 共 3961 条推文
 
 ---
 
@@ -51,7 +51,59 @@ May the bloodthirsty warmongers, who push for a war that never ends, burn in hel
 
 And still it continues …
 
-[查看原文](https://x.com/elonmusk/status/2114442930891206870)
+---
+
+## 2026-10-26 04:27:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk warned about this before. He was right then, and he’s right today. Ukraine needs a new leader.
+
+The flower of Ukrain…
+
+[查看原文](https://x.com/elonmusk/status/2114453775381324069)
+
+---
+
+## 2026-10-26 04:32:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+No ID is required to vote in New York State or California
+
+[查看原文](https://x.com/elonmusk/status/2114455152136745221)
+
+---
+
+## 2026-10-26 04:36:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink’s Acceptable Use Policy explicitly prohibits remotely controlling drones.
+
+Zelensky himself acknowledged using Starli…
+
+[查看原文](https://x.com/elonmusk/status/2114456138406297605)
+
+---
+
+## 2026-10-26 04:37:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: This update to Grok Bot with integrated calling is spectacular!
+
+I have dozens of clients and myself that use this daily…
+
+[查看原文](https://x.com/elonmusk/status/2114456302563012687)
 
 ---
 
