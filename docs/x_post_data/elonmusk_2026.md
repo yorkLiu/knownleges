@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3917 条推文
+> 📊 推文存档 - 共 3920 条推文
 
 ---
 
@@ -189,8 +189,6 @@ RT @PirateWires: We finally get flying cars, and somehow that's fascist too. Ima
 
 Talarico is a far left extremist
 
-[查看原文](https://x.com/elonmusk/status/2114162296738263532)
-
 ---
 
 ## 2026-10-25 09:16:24
@@ -200,8 +198,6 @@ Talarico is a far left extremist
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2114164137035219426)
 
 ---
 
@@ -213,8 +209,6 @@ True
 
 This is a fuller list of the limitations of supercomputer buildout. If anything is missing, however seemingly trivial, the compute doesn’t work.
 
-[查看原文](https://x.com/elonmusk/status/2114167331056140414)
-
 ---
 
 ## 2026-10-25 09:30:29
@@ -225,9 +219,44 @@ This is a fuller list of the limitations of supercomputer buildout. If anything 
 
 They are channeling Beria https://t.co/oqaYxQVvbS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINoGrdXCJmVYtpSskHPaS7mQ9VCmlTAALbEWsb72DoVpCdQrekWWLaAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2114167682283036687)
+## 2026-10-25 09:33:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Yuchenj_UW I think we’re going to see a lot of stranded compute in partially complete data centers
+
+[查看原文](https://x.com/elonmusk/status/2114168469604245782)
+
+---
+
+## 2026-10-25 09:37:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wild times
+https://t.co/952dIb7LA8
+
+[查看原文](https://x.com/elonmusk/status/2114169506784260471)
+
+---
+
+## 2026-10-25 09:42:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Austen: I remember sitting around a campfire shortly after the Ukraine war had just started with some Ukrainian friends.
+
+They shared t…
+
+[查看原文](https://x.com/elonmusk/status/2114170724130734195)
 
 ---
 
