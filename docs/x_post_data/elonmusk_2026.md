@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3922 条推文
+> 📊 推文存档 - 共 3925 条推文
 
 ---
 
@@ -262,8 +262,6 @@ They shared t…
 
 We’re adding long press on like to send someone $1 via 𝕏 Money
 
-[查看原文](https://x.com/elonmusk/status/2114184998651822094)
-
 ---
 
 ## 2026-10-25 10:52:59
@@ -274,7 +272,45 @@ We’re adding long press on like to send someone $1 via 𝕏 Money
 
 RT @Jason: Completely acceptable to do a peaceful protest outside the Colosseum, but breaking into/vandalizing the Colosseum (or our Capito…
 
-[查看原文](https://x.com/elonmusk/status/2114188444033319138)
+---
+
+## 2026-10-25 11:58:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The way to think about this is:
+
+How many super smart and dedicated people do you want to hire? And they keep getting better.
+
+[查看原文](https://x.com/elonmusk/status/2114205004340854795)
+
+---
+
+## 2026-10-25 12:01:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NVIDIAAIInfra: Good data showing that NVIDIA AI infrastructure is a durable, investable asset that retains value.
+
+New applications and…
+
+[查看原文](https://x.com/elonmusk/status/2114205779070763050)
+
+---
+
+## 2026-10-25 12:02:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Back to the Moon
+
+[查看原文](https://x.com/elonmusk/status/2114205997350690837)
 
 ---
 
