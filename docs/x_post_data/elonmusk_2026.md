@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3937 条推文
+> 📊 推文存档 - 共 3942 条推文
 
 ---
 
@@ -365,8 +365,6 @@ RT @elonmusk: @FilmLadd This is indeed one of the main reasons that Starlink mus
 
 It can be used for infrast…
 
-[查看原文](https://x.com/elonmusk/status/2114238750712815892)
-
 ---
 
 ## 2026-10-25 14:14:38
@@ -377,8 +375,6 @@ It can be used for infrast…
 
 RT @johnhawkinsrwn: Ukraine would have been overrun 10 times over if not for Musk giving them Starlink early on and denying Russia Starlink…
 
-[查看原文](https://x.com/elonmusk/status/2114239189147701319)
-
 ---
 
 ## 2026-10-25 14:24:14
@@ -388,8 +384,6 @@ RT @johnhawkinsrwn: Ukraine would have been overrun 10 times over if not for Mus
 **内容**:
 
 RT @BlackDumpling: If you're wondering why it's so important to Elon that Starlink not be used for military purposes... I suspect it's two…
-
-[查看原文](https://x.com/elonmusk/status/2114241605288997009)
 
 ---
 
@@ -403,8 +397,6 @@ RT @ResisttheMS: Walter Isaacson: "[Elon Musk's] first two companies… both mak
 
 "And instead of buying an isl…
 
-[查看原文](https://x.com/elonmusk/status/2114241982075744280)
-
 ---
 
 ## 2026-10-25 14:28:58
@@ -415,8 +407,6 @@ RT @ResisttheMS: Walter Isaacson: "[Elon Musk's] first two companies… both mak
 
 RT @SPCX100T: SpaceX’s $SPCX Starlink just surpassed AT&amp;T $T Fiber in subscribers after tripling its customer base in just seven quarters.…
 
-[查看原文](https://x.com/elonmusk/status/2114242798006517866)
-
 ---
 
 ## 2026-10-25 14:29:27
@@ -426,8 +416,6 @@ RT @SPCX100T: SpaceX’s $SPCX Starlink just surpassed AT&amp;T $T Fiber in subs
 **内容**:
 
 Cool
-
-[查看原文](https://x.com/elonmusk/status/2114242922006897145)
 
 ---
 
@@ -443,8 +431,6 @@ RT @stevenmarkryan: Got a few texts &amp; DMs this weekend that went:
 
 p.s. I am right.…
 
-[查看原文](https://x.com/elonmusk/status/2114242971176448252)
-
 ---
 
 ## 2026-10-25 14:30:59
@@ -455,7 +441,73 @@ p.s. I am right.…
 
 Try @Starlink for awesome Internet everywhere!
 
-[查看原文](https://x.com/elonmusk/status/2114243303994486876)
+---
+
+## 2026-10-25 22:02:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+For the fools out there, Zelensky himself posted about using Starlink for offensive drone strikes, which has always been against Starlink’s terms of service: https://t.co/GlNJ7y27co
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINo2reEcgeRzkjVipvojavhd9vtKtYAAKJEWsbmC_xVuLH6byOBCiJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2114356830776476033)
+
+---
+
+## 2026-10-25 22:02:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon proposed a path to peace in October 2022, and almost everyone attacked him for it
+
+He warned that the war meant "a lot of…
+
+[查看原文](https://x.com/elonmusk/status/2114356993226068450)
+
+---
+
+## 2026-10-25 22:11:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tslryn: Elon Musk understands something that the political establishment desperately wants people to forget.
+
+Government isn’t some mag…
+
+[查看原文](https://x.com/elonmusk/status/2114359200981668105)
+
+---
+
+## 2026-10-25 22:12:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WOLF_Financial: Nvidia CEO Jensen Huang said:
+
+"GrokBot is super cool. The demand for GrokBot, the consumption for GrokBot is really sk…
+
+[查看原文](https://x.com/elonmusk/status/2114359564388733100)
+
+---
+
+## 2026-10-25 22:17:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Les gens m'ont dit que j'avais droit à un droit de réponse dans Le Monde, voire que je devrais porter plainte. J'ai autre chos…
+
+[查看原文](https://x.com/elonmusk/status/2114360600411218355)
 
 ---
 
