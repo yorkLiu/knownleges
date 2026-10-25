@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 588 条推文
+> 📊 推文存档 - 共 589 条推文
 
 ---
 
@@ -69,9 +69,25 @@ tags: ["2026"]
 
 另外，我知道最近又惹毛了「拿性教」，你看我怕嗎？ https://t.co/f1YWm6swmT
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINn2rdTZ2SAz7Ulx5oPvkKCNJSCQarAALVEWsb72DoVm3pkkj94RNaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2114147364906917895)
+## 2026-10-25 11:20:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+拜託大家，辛苦了
+
+到美國中期選舉結束之前
+大家只要傳播下面這句話就可以了
+
+【選民主黨就是選共產黨】
+
+紅象必勝，藍馿必敗
+勝利屬於我們正常人類💪💪💪
+
+[查看原文](https://x.com/dianzhuXS/status/2114195490518798684)
 
 ---
 
