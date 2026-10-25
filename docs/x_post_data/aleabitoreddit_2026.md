@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 519 条推文
+> 📊 推文存档 - 共 520 条推文
 
 ---
 
@@ -37,9 +37,23 @@ Q: On memory shortages (eg. $MU / SK Hynix / Samsung):
 
 A: "There's only so much memory, and I don't think that that shortage ends in 2027." https://t.co/b68lRRzovY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINnGrc71Mpc2aIegslp0wfQrmEAcLHAAK0EWsb72DoVkvyvo_bIPRvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2114051018510287340)
+## 2026-10-25 12:31:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$NVDA Jensen Huang on photonics: adding scale-up to optical domain, “is going to be, well, 15x” to aggregate volume.
+
+Relating to $LITE, $COHR, and laser companies.. 
+
+“I'm fairly certain the amount of optics that we need in the future will be several orders of magnitude” Huang https://t.co/RgYnQpWnbl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINoWrdh7zxCb9iZ-xzRsIdhoW1keRWAAKRE2sb72DwViVEct_09n65AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2114213351060554010)
 
 ---
 

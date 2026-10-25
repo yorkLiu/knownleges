@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3925 条推文
+> 📊 推文存档 - 共 3926 条推文
 
 ---
 
@@ -284,8 +284,6 @@ The way to think about this is:
 
 How many super smart and dedicated people do you want to hire? And they keep getting better.
 
-[查看原文](https://x.com/elonmusk/status/2114205004340854795)
-
 ---
 
 ## 2026-10-25 12:01:52
@@ -298,8 +296,6 @@ RT @NVIDIAAIInfra: Good data showing that NVIDIA AI infrastructure is a durable,
 
 New applications and…
 
-[查看原文](https://x.com/elonmusk/status/2114205779070763050)
-
 ---
 
 ## 2026-10-25 12:02:44
@@ -310,7 +306,19 @@ New applications and…
 
 Back to the Moon
 
-[查看原文](https://x.com/elonmusk/status/2114205997350690837)
+---
+
+## 2026-10-25 12:23:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: Politics is incredibly tribal. 
+
+Most of those in one tribe can see nothing their tribe does wrong or anything good done by a…
+
+[查看原文](https://x.com/elonmusk/status/2114211239760957481)
 
 ---
 
