@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3956 条推文
+> 📊 推文存档 - 共 3957 条推文
 
 ---
 
@@ -21,8 +21,6 @@ RT @KanekoaTheGreat: James Talarico now wants Texans to believe he's changed his
 
 His Texas House reco…
 
-[查看原文](https://x.com/elonmusk/status/2114427849306169509)
-
 ---
 
 ## 2026-10-26 02:55:26
@@ -32,8 +30,6 @@ His Texas House reco…
 **内容**:
 
 RT @KanekoaTheGreat: On hidden camera in September, James Talarico said: "The way I fought for trans kids in the legislature is how I will…
-
-[查看原文](https://x.com/elonmusk/status/2114430652326260854)
 
 ---
 
@@ -45,7 +41,17 @@ RT @KanekoaTheGreat: On hidden camera in September, James Talarico said: "The wa
 
 May the bloodthirsty warmongers, who push for a war that never ends, burn in hell!
 
-[查看原文](https://x.com/elonmusk/status/2114431411994386599)
+---
+
+## 2026-10-26 03:44:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+And still it continues …
+
+[查看原文](https://x.com/elonmusk/status/2114442930891206870)
 
 ---
 
