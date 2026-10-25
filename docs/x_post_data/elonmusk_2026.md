@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3920 条推文
+> 📊 推文存档 - 共 3922 条推文
 
 ---
 
@@ -229,8 +229,6 @@ They are channeling Beria https://t.co/oqaYxQVvbS
 
 RT @elonmusk: @Yuchenj_UW I think we’re going to see a lot of stranded compute in partially complete data centers
 
-[查看原文](https://x.com/elonmusk/status/2114168469604245782)
-
 ---
 
 ## 2026-10-25 09:37:44
@@ -241,8 +239,6 @@ RT @elonmusk: @Yuchenj_UW I think we’re going to see a lot of stranded compute
 
 Wild times
 https://t.co/952dIb7LA8
-
-[查看原文](https://x.com/elonmusk/status/2114169506784260471)
 
 ---
 
@@ -256,7 +252,29 @@ RT @Austen: I remember sitting around a campfire shortly after the Ukraine war h
 
 They shared t…
 
-[查看原文](https://x.com/elonmusk/status/2114170724130734195)
+---
+
+## 2026-10-25 10:39:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’re adding long press on like to send someone $1 via 𝕏 Money
+
+[查看原文](https://x.com/elonmusk/status/2114184998651822094)
+
+---
+
+## 2026-10-25 10:52:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Jason: Completely acceptable to do a peaceful protest outside the Colosseum, but breaking into/vandalizing the Colosseum (or our Capito…
+
+[查看原文](https://x.com/elonmusk/status/2114188444033319138)
 
 ---
 
