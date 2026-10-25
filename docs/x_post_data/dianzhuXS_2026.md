@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 591 条推文
+> 📊 推文存档 - 共 592 条推文
 
 ---
 
@@ -125,7 +125,28 @@ tags: ["2026"]
 此帖又炸了沼氣池大家可以照做了
 🤗🤗🤗
 
-[查看原文](https://x.com/dianzhuXS/status/2114216772392153328)
+---
+
+## 2026-10-25 16:38:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+雖然很痛苦
+但還是提醒一下
+美國的選民們
+別忘了
+是民主黨殺害了查理·柯克
+
+【選民主黨就是選共產黨】
+
+紅象必勝，藍馿必敗
+勝利屬於咱們正常人類💪💪💪 https://t.co/bCOymrCbQ7
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINomrdwdyB57lgokpQ8bCRQKIK4-ioAAL3E2sb72DwVigHRqgIcHfXAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2114275445919432934)
 
 ---
 
