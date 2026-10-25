@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3929 条推文
+> 📊 推文存档 - 共 3937 条推文
 
 ---
 
@@ -328,8 +328,6 @@ Most of those in one tribe can see nothing their tribe does wrong or anything go
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2114235125496250766)
-
 ---
 
 ## 2026-10-25 14:04:07
@@ -343,8 +341,6 @@ RT @grok: @AndySwan @roachsg Here are 10 from 2021-2023:
 1. Light Reading Jul 2021: Starlink risks being another satellite flop.
 2. Techdi…
 
-[查看原文](https://x.com/elonmusk/status/2114236546538934669)
-
 ---
 
 ## 2026-10-25 14:07:04
@@ -357,7 +353,109 @@ RT @Timboo: The more I look at the economics of AI infrastructure, the more bull
 
 David Sacks shared some fascinatin…
 
-[查看原文](https://x.com/elonmusk/status/2114237286053474801)
+---
+
+## 2026-10-25 14:12:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @FilmLadd This is indeed one of the main reasons that Starlink must remain a civilian operation. 
+
+It can be used for infrast…
+
+[查看原文](https://x.com/elonmusk/status/2114238750712815892)
+
+---
+
+## 2026-10-25 14:14:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @johnhawkinsrwn: Ukraine would have been overrun 10 times over if not for Musk giving them Starlink early on and denying Russia Starlink…
+
+[查看原文](https://x.com/elonmusk/status/2114239189147701319)
+
+---
+
+## 2026-10-25 14:24:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BlackDumpling: If you're wondering why it's so important to Elon that Starlink not be used for military purposes... I suspect it's two…
+
+[查看原文](https://x.com/elonmusk/status/2114241605288997009)
+
+---
+
+## 2026-10-25 14:25:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ResisttheMS: Walter Isaacson: "[Elon Musk's] first two companies… both make him like 100 million or so."
+
+"And instead of buying an isl…
+
+[查看原文](https://x.com/elonmusk/status/2114241982075744280)
+
+---
+
+## 2026-10-25 14:28:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SPCX100T: SpaceX’s $SPCX Starlink just surpassed AT&amp;T $T Fiber in subscribers after tripling its customer base in just seven quarters.…
+
+[查看原文](https://x.com/elonmusk/status/2114242798006517866)
+
+---
+
+## 2026-10-25 14:29:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2114242922006897145)
+
+---
+
+## 2026-10-25 14:29:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: Got a few texts &amp; DMs this weekend that went:
+
+"Just downloaded Grok Bot. HOLY SHIT. You were right."
+
+p.s. I am right.…
+
+[查看原文](https://x.com/elonmusk/status/2114242971176448252)
+
+---
+
+## 2026-10-25 14:30:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try @Starlink for awesome Internet everywhere!
+
+[查看原文](https://x.com/elonmusk/status/2114243303994486876)
 
 ---
 
