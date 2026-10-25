@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3942 条推文
+> 📊 推文存档 - 共 3948 条推文
 
 ---
 
@@ -451,10 +451,6 @@ Try @Starlink for awesome Internet everywhere!
 
 For the fools out there, Zelensky himself posted about using Starlink for offensive drone strikes, which has always been against Starlink’s terms of service: https://t.co/GlNJ7y27co
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINo2reEcgeRzkjVipvojavhd9vtKtYAAKJEWsbmC_xVuLH6byOBCiJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2114356830776476033)
-
 ---
 
 ## 2026-10-25 22:02:44
@@ -466,8 +462,6 @@ For the fools out there, Zelensky himself posted about using Starlink for offens
 RT @XFreeze: Elon proposed a path to peace in October 2022, and almost everyone attacked him for it
 
 He warned that the war meant "a lot of…
-
-[查看原文](https://x.com/elonmusk/status/2114356993226068450)
 
 ---
 
@@ -481,8 +475,6 @@ RT @tslryn: Elon Musk understands something that the political establishment des
 
 Government isn’t some mag…
 
-[查看原文](https://x.com/elonmusk/status/2114359200981668105)
-
 ---
 
 ## 2026-10-25 22:12:57
@@ -495,8 +487,6 @@ RT @WOLF_Financial: Nvidia CEO Jensen Huang said:
 
 "GrokBot is super cool. The demand for GrokBot, the consumption for GrokBot is really sk…
 
-[查看原文](https://x.com/elonmusk/status/2114359564388733100)
-
 ---
 
 ## 2026-10-25 22:17:04
@@ -507,7 +497,81 @@ RT @WOLF_Financial: Nvidia CEO Jensen Huang said:
 
 RT @brivael: Les gens m'ont dit que j'avais droit à un droit de réponse dans Le Monde, voire que je devrais porter plainte. J'ai autre chos…
 
-[查看原文](https://x.com/elonmusk/status/2114360600411218355)
+---
+
+## 2026-10-25 22:31:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2114364277595488330)
+
+---
+
+## 2026-10-25 22:35:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!
+
+[查看原文](https://x.com/elonmusk/status/2114365361068138990)
+
+---
+
+## 2026-10-25 22:37:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ICannot_Enough: Over the past ten years, Tesla has sold over 10 million cars capable of driving from wherever they are to wherever the…
+
+[查看原文](https://x.com/elonmusk/status/2114365764463407474)
+
+---
+
+## 2026-10-25 22:41:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: An 80-year-old praises Tesla FSD for making his 3,000-mile road trip easier and less tiring.
+
+Bill Sniffin took the trip with…
+
+[查看原文](https://x.com/elonmusk/status/2114366720681050502)
+
+---
+
+## 2026-10-25 22:42:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: Jordan's central bank just built a Starlink backup for the entire banking system 🇯🇴🛰️
+
+The Central Bank of Jordan says it has f…
+
+[查看原文](https://x.com/elonmusk/status/2114366936478101920)
+
+---
+
+## 2026-10-25 22:56:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A cunning move by Aer Lingus 😉
+
+[查看原文](https://x.com/elonmusk/status/2114370625582330326)
 
 ---
 
