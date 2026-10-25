@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3948 条推文
+> 📊 推文存档 - 共 3953 条推文
 
 ---
 
@@ -507,8 +507,6 @@ RT @brivael: Les gens m'ont dit que j'avais droit à un droit de réponse dans L
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2114364277595488330)
-
 ---
 
 ## 2026-10-25 22:35:59
@@ -519,8 +517,6 @@ Try Grok @Bot
 
 Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!
 
-[查看原文](https://x.com/elonmusk/status/2114365361068138990)
-
 ---
 
 ## 2026-10-25 22:37:35
@@ -530,8 +526,6 @@ Grok @Bot can now call someone or a business for you, make a request on your beh
 **内容**:
 
 RT @ICannot_Enough: Over the past ten years, Tesla has sold over 10 million cars capable of driving from wherever they are to wherever the…
-
-[查看原文](https://x.com/elonmusk/status/2114365764463407474)
 
 ---
 
@@ -545,8 +539,6 @@ RT @cb_doge: An 80-year-old praises Tesla FSD for making his 3,000-mile road tri
 
 Bill Sniffin took the trip with…
 
-[查看原文](https://x.com/elonmusk/status/2114366720681050502)
-
 ---
 
 ## 2026-10-25 22:42:15
@@ -559,8 +551,6 @@ RT @EvaFox: Jordan's central bank just built a Starlink backup for the entire ba
 
 The Central Bank of Jordan says it has f…
 
-[查看原文](https://x.com/elonmusk/status/2114366936478101920)
-
 ---
 
 ## 2026-10-25 22:56:54
@@ -571,7 +561,71 @@ The Central Bank of Jordan says it has f…
 
 A cunning move by Aer Lingus 😉
 
-[查看原文](https://x.com/elonmusk/status/2114370625582330326)
+---
+
+## 2026-10-25 23:17:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The best way to use Grok @Bot is assume you are hiring a super competent employee
+
+[查看原文](https://x.com/elonmusk/status/2114375896073216334)
+
+---
+
+## 2026-10-25 23:25:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico is a far left extremist
+
+[查看原文](https://x.com/elonmusk/status/2114377735841730673)
+
+---
+
+## 2026-10-25 23:25:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Elon Musk explains how to build AI satellites on the moon from lunar silicon and aluminum, and says 500 to 1,000 terawat…
+
+[查看原文](https://x.com/elonmusk/status/2114377926519202166)
+
+---
+
+## 2026-10-25 23:26:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @art_muse: Forever Yours
+
+Created with Grok @bot https://t.co/P7XkGVYFXL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINpGreIE-dMrO6U8YF8nlCWdQtf28gAALBEWsbmC_xVp8aUslC3Z5XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2114377963651354905)
+
+---
+
+## 2026-10-25 23:26:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: New Starlink in flight Wi-Fi review:
+
+"I was flying over the Sierra Nevada mountain range recently when I had a tech exp…
+
+[查看原文](https://x.com/elonmusk/status/2114378065337827355)
 
 ---
 
