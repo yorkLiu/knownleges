@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3910 条推文
+> 📊 推文存档 - 共 3913 条推文
 
 ---
 
@@ -149,7 +149,41 @@ I show it.
 
 Whenever there was a disa…
 
-[查看原文](https://x.com/elonmusk/status/2114133316790014162)
+---
+
+## 2026-10-25 08:36:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasedMikeLee: Tribalism becomes far more dangerous whenever one “tribe” decides that it can’t coexist peacefully with the other.
+
+[查看原文](https://x.com/elonmusk/status/2114154048488456252)
+
+---
+
+## 2026-10-25 08:45:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: “I have nothing but UTTER CONTEMPT for the virtue-signaling evil warmongers who push for endless slaughter and offer no realistic…
+
+[查看原文](https://x.com/elonmusk/status/2114156443259621655)
+
+---
+
+## 2026-10-25 08:47:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PirateWires: We finally get flying cars, and somehow that's fascist too. Imagine being so poisoned by the internet that you can’t enjoy…
+
+[查看原文](https://x.com/elonmusk/status/2114156846818971807)
 
 ---
 
