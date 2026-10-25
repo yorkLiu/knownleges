@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @karpathy
 
-> 📊 推文存档 - 共 46 条推文
+> 📊 推文存档 - 共 47 条推文
+
+---
+
+## 2026-10-25 23:51:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tristan0x: If you've ever wondered why smart TVs are so cheap, this is why.
+
+@log4j rooted his Samsung and found an always-on hot mic,…
+
+[查看原文](https://x.com/karpathy/status/2114384346815820050)
 
 ---
 
