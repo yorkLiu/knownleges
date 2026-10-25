@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3913 条推文
+> 📊 推文存档 - 共 3917 条推文
 
 ---
 
@@ -159,8 +159,6 @@ Whenever there was a disa…
 
 RT @BasedMikeLee: Tribalism becomes far more dangerous whenever one “tribe” decides that it can’t coexist peacefully with the other.
 
-[查看原文](https://x.com/elonmusk/status/2114154048488456252)
-
 ---
 
 ## 2026-10-25 08:45:49
@@ -170,8 +168,6 @@ RT @BasedMikeLee: Tribalism becomes far more dangerous whenever one “tribe” 
 **内容**:
 
 RT @alx: “I have nothing but UTTER CONTEMPT for the virtue-signaling evil warmongers who push for endless slaughter and offer no realistic…
-
-[查看原文](https://x.com/elonmusk/status/2114156443259621655)
 
 ---
 
@@ -183,7 +179,55 @@ RT @alx: “I have nothing but UTTER CONTEMPT for the virtue-signaling evil warm
 
 RT @PirateWires: We finally get flying cars, and somehow that's fascist too. Imagine being so poisoned by the internet that you can’t enjoy…
 
-[查看原文](https://x.com/elonmusk/status/2114156846818971807)
+---
+
+## 2026-10-25 09:09:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico is a far left extremist
+
+[查看原文](https://x.com/elonmusk/status/2114162296738263532)
+
+---
+
+## 2026-10-25 09:16:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2114164137035219426)
+
+---
+
+## 2026-10-25 09:29:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is a fuller list of the limitations of supercomputer buildout. If anything is missing, however seemingly trivial, the compute doesn’t work.
+
+[查看原文](https://x.com/elonmusk/status/2114167331056140414)
+
+---
+
+## 2026-10-25 09:30:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+They are channeling Beria https://t.co/oqaYxQVvbS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINoGrdXCJmVYtpSskHPaS7mQ9VCmlTAALbEWsb72DoVpCdQrekWWLaAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2114167682283036687)
 
 ---
 
