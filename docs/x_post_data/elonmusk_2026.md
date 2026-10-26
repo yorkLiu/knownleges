@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3999 条推文
+> 📊 推文存档 - 共 4000 条推文
 
 ---
 
@@ -149,8 +149,6 @@ That was dumb.
 
 Supervised FSD approved in Latvia! 🇱🇻
 
-[查看原文](https://x.com/elonmusk/status/2114772404463337693)
-
 ---
 
 ## 2026-10-27 01:35:11
@@ -161,8 +159,6 @@ Supervised FSD approved in Latvia! 🇱🇻
 
 Grok @Bot is like hiring an incredibly competent chief of staff
 
-[查看原文](https://x.com/elonmusk/status/2114772843997351993)
-
 ---
 
 ## 2026-10-27 01:36:21
@@ -172,8 +168,6 @@ Grok @Bot is like hiring an incredibly competent chief of staff
 **内容**:
 
 Try using @Starlink for your home or business
-
-[查看原文](https://x.com/elonmusk/status/2114773137640554754)
 
 ---
 
@@ -187,8 +181,6 @@ RT @BrianRoemmele: Four years ago Elon Musk purchased Twitter and made it into t
 
 I have been online since 1979 and there…
 
-[查看原文](https://x.com/elonmusk/status/2114773560027705620)
-
 ---
 
 ## 2026-10-27 01:38:46
@@ -199,7 +191,17 @@ I have been online since 1979 and there…
 
 Bravo to the smaller countries in Europe for moving fastest!
 
-[查看原文](https://x.com/elonmusk/status/2114773746510946544)
+---
+
+## 2026-10-27 01:59:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico is a far left extremist
+
+[查看原文](https://x.com/elonmusk/status/2114778922122395650)
 
 ---
 
