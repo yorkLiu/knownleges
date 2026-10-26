@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3966 条推文
+> 📊 推文存档 - 共 3972 条推文
 
 ---
 
@@ -139,8 +139,6 @@ RT @the_jefferymead: I’m so tired of people who don’t build talking about se
 
 Democrats want t…
 
-[查看原文](https://x.com/elonmusk/status/2114511632600539521)
-
 ---
 
 ## 2026-10-26 08:26:18
@@ -151,7 +149,83 @@ Democrats want t…
 
 Starship Flight 15 static fire
 
-[查看原文](https://x.com/elonmusk/status/2114513919566033266)
+---
+
+## 2026-10-26 11:23:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: You can literally just talk to Grok Bot and get things done. Keep talking, and it does the stuff for you
+
+The latest updates h…
+
+[查看原文](https://x.com/elonmusk/status/2114558451577749597)
+
+---
+
+## 2026-10-26 11:26:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+[查看原文](https://x.com/elonmusk/status/2114559155642282081)
+
+---
+
+## 2026-10-26 11:27:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JackPosobiec: A judge loyal to Lula ordered voting extended - an result like this in Brazil is unprecedented https://t.co/Y4eGgh38t2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINp2rezpPyNTQ_2auYOrAkRxCZppF4AAJKEWsbmC_5VlJdjLxFgP7NAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2114559494495805609)
+
+---
+
+## 2026-10-26 11:29:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2114560002157654414)
+
+---
+
+## 2026-10-26 11:32:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasedMikeLee: Democrats will make sure they remain in power in perpetuity 
+
+That’s not how our constitutional system is supposed to wor…
+
+[查看原文](https://x.com/elonmusk/status/2114560837645984088)
+
+---
+
+## 2026-10-26 11:33:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @InsightLeaksQ: Elon Musk becomes deeply moved, and deadly serious, when Bret Baier asks him why he called Sen. Mark Kelly a "Traitor" f…
+
+[查看原文](https://x.com/elonmusk/status/2114561029262758180)
 
 ---
 
