@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 437 条推文
+> 📊 推文存档 - 共 438 条推文
+
+---
+
+## 2026-10-26 20:15:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+巴西大选爆冷，巴西指数暴跌25% https://t.co/Iu6Db6dQno
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINqWrfSh1ThNSiumBN9ZCiI7SXQkfTAALxFGsbmC8BV_jvpj3wDfALAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2114692409267540038)
 
 ---
 
