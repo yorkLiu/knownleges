@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3983 条推文
+> 📊 推文存档 - 共 3988 条推文
 
 ---
 
@@ -21,7 +21,69 @@ What are most important things to improve about Grok @Bot?
 
 Btw, make sure you’ve tried Bot recently, as over 100 features &amp; fixes are released every week!
 
-[查看原文](https://x.com/elonmusk/status/2114751739026985329)
+---
+
+## 2026-10-27 00:18:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Michael Dell calls Elon Musk the "most demanding customer there is," and says Musk rewarded Dell with more business afte…
+
+[查看原文](https://x.com/elonmusk/status/2114753529034498321)
+
+---
+
+## 2026-10-27 00:19:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: Not many people know that Elon Musk’s roots go back to the American Midwest. His grandfather, Joshua Haldeman, was born in Minn…
+
+[查看原文](https://x.com/elonmusk/status/2114753842134835435)
+
+---
+
+## 2026-10-27 00:20:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Geiger_Capital: They used LOG SCALE instead of linear to hide how extreme the differences really are…
+
+[查看原文](https://x.com/elonmusk/status/2114753927400808672)
+
+---
+
+## 2026-10-27 00:23:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JohnLeFevre: The Economist put the chart on a log scale.
+
+I wonder why they did that?
+
+Here it is on a normal one. https://t.co/0sia9sX…
+
+[查看原文](https://x.com/elonmusk/status/2114754896427905529)
+
+---
+
+## 2026-10-27 00:31:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Soon Moon
+
+[查看原文](https://x.com/elonmusk/status/2114756811689447712)
 
 ---
 
