@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3977 条推文
+> 📊 推文存档 - 共 3979 条推文
 
 ---
 
@@ -255,8 +255,6 @@ So beautiful
 
 It’s been a memorable 4 years
 
-[查看原文](https://x.com/elonmusk/status/2114702264510390753)
-
 ---
 
 ## 2026-10-26 20:55:06
@@ -269,7 +267,29 @@ RT @shaunmmaguire: We will enter an age of abundance
 
 If we can stop the communists for the next 5 years
 
-[查看原文](https://x.com/elonmusk/status/2114702359456792740)
+---
+
+## 2026-10-26 21:16:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink coming to EasyJet
+
+[查看原文](https://x.com/elonmusk/status/2114707637506117956)
+
+---
+
+## 2026-10-26 21:25:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So many cultures are dying out
+
+[查看原文](https://x.com/elonmusk/status/2114710124363182328)
 
 ---
 
