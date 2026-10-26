@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 522 条推文
+> 📊 推文存档 - 共 523 条推文
+
+---
+
+## 2026-10-27 00:14:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+TY $ANT for the positive $3.4B FCF for H1 2026.
+
+Still feels like all your AI infra names from $MU to $AAOI sold off way too hard.
+
+Considering the billions in financing raised by frontier labs to hyperscalers..
+
+End up ultimately flowing back to GPUs, networking, to memory. https://t.co/U6GAmlOJ53
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINqmrffPdGhIO7_Xwp0YLpgIZ0edUNAAKTFWsbmC8BV0JO-jHmdfguAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINq2rffPqRHpxsEBTxRkvoX5l-W24rAAKUFWsbmC8BV-eQgfy_RzZMAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINrGrffPzglbd_EKXa5danaCvfe6yqAAKVFWsbmC8BVwM71IiiczRtAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINrWrffP5blj_p89iKPi8UOzB437o9AAKWFWsbmC8BVwrGeNTG70HMAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2114752489476309203)
 
 ---
 

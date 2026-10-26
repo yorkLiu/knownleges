@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3982 条推文
+> 📊 推文存档 - 共 3983 条推文
+
+---
+
+## 2026-10-27 00:11:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+What are most important things to improve about Grok @Bot?
+
+Btw, make sure you’ve tried Bot recently, as over 100 features &amp; fixes are released every week!
+
+[查看原文](https://x.com/elonmusk/status/2114751739026985329)
 
 ---
 
