@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3994 条推文
+> 📊 推文存档 - 共 3999 条推文
 
 ---
 
@@ -85,8 +85,6 @@ Soon Moon
 
 Talarico will vote to take away your children and transition them
 
-[查看原文](https://x.com/elonmusk/status/2114761043809378685)
-
 ---
 
 ## 2026-10-27 00:54:13
@@ -96,8 +94,6 @@ Talarico will vote to take away your children and transition them
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2114762534372917746)
 
 ---
 
@@ -111,8 +107,6 @@ RT @TRobinsonNewEra: An estimated 80% of polling stations were closed when they 
 
 213 cities that voted Flávio in the 1…
 
-[查看原文](https://x.com/elonmusk/status/2114764043239960765)
-
 ---
 
 ## 2026-10-27 01:00:52
@@ -123,8 +117,6 @@ RT @TRobinsonNewEra: An estimated 80% of polling stations were closed when they 
 
 It means entire countries and cultures will go extinct forever
 
-[查看原文](https://x.com/elonmusk/status/2114764208399421635)
-
 ---
 
 ## 2026-10-27 01:02:06
@@ -134,8 +126,6 @@ It means entire countries and cultures will go extinct forever
 **内容**:
 
 Interesting question
-
-[查看原文](https://x.com/elonmusk/status/2114764520552051185)
 
 ---
 
@@ -149,7 +139,67 @@ Remember when using the wrong pronoun got people canceled?
 
 That was dumb.
 
-[查看原文](https://x.com/elonmusk/status/2114765150431682772)
+---
+
+## 2026-10-27 01:33:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Supervised FSD approved in Latvia! 🇱🇻
+
+[查看原文](https://x.com/elonmusk/status/2114772404463337693)
+
+---
+
+## 2026-10-27 01:35:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is like hiring an incredibly competent chief of staff
+
+[查看原文](https://x.com/elonmusk/status/2114772843997351993)
+
+---
+
+## 2026-10-27 01:36:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try using @Starlink for your home or business
+
+[查看原文](https://x.com/elonmusk/status/2114773137640554754)
+
+---
+
+## 2026-10-27 01:38:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: Four years ago Elon Musk purchased Twitter and made it into the X we have now.
+
+I have been online since 1979 and there…
+
+[查看原文](https://x.com/elonmusk/status/2114773560027705620)
+
+---
+
+## 2026-10-27 01:38:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Bravo to the smaller countries in Europe for moving fastest!
+
+[查看原文](https://x.com/elonmusk/status/2114773746510946544)
 
 ---
 
