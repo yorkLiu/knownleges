@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 596 条推文
+> 📊 推文存档 - 共 598 条推文
 
 ---
 
@@ -69,8 +69,6 @@ BTW什麼是真玄學？
 
 以上請新人「引以為戒」🤭🤭🤭
 
-[查看原文](https://x.com/dianzhuXS/status/2114534924741169421)
-
 ---
 
 ## 2026-10-26 10:17:24
@@ -81,7 +79,46 @@ BTW什麼是真玄學？
 
 「拜登曲線」在巴西重演了一遍
 
-[查看原文](https://x.com/dianzhuXS/status/2114541877739540482)
+---
+
+## 2026-10-26 12:54:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大家發現沒有？
+這次美國中期選舉
+來帖子下搗亂的「偷渡非法移民」
+雖然還有，但是比以前少多了
+可見川普這屆政府
+對驢黨的「洗人口」戰術
+確實是有了一定療效的
+當然
+除惡務盡還要更嚴厲才行
+中期選舉又暴露出了很多問題
+希望選舉後「調查取證」
+痛打落水狗💪💪💪
+
+[查看原文](https://x.com/dianzhuXS/status/2114581508753383612)
+
+---
+
+## 2026-10-26 13:01:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+AI的正確用法
+我徒弟做的圖
+拿來借用一下
+美國加油💪💪💪
+台灣加油💪💪💪 https://t.co/xlU0EudKdp
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINqGre5GOz2NYgA1N-M8QGghzuh6AWAAJ8EmsbmC_5VhbZ2mpBUd1EAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2114583270822478153)
 
 ---
 
