@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3988 条推文
+> 📊 推文存档 - 共 3994 条推文
 
 ---
 
@@ -31,8 +31,6 @@ Btw, make sure you’ve tried Bot recently, as over 100 features &amp; fixes are
 
 RT @firesidealpha: Michael Dell calls Elon Musk the "most demanding customer there is," and says Musk rewarded Dell with more business afte…
 
-[查看原文](https://x.com/elonmusk/status/2114753529034498321)
-
 ---
 
 ## 2026-10-27 00:19:40
@@ -43,8 +41,6 @@ RT @firesidealpha: Michael Dell calls Elon Musk the "most demanding customer the
 
 RT @EvaFox: Not many people know that Elon Musk’s roots go back to the American Midwest. His grandfather, Joshua Haldeman, was born in Minn…
 
-[查看原文](https://x.com/elonmusk/status/2114753842134835435)
-
 ---
 
 ## 2026-10-27 00:20:01
@@ -54,8 +50,6 @@ RT @EvaFox: Not many people know that Elon Musk’s roots go back to the America
 **内容**:
 
 RT @Geiger_Capital: They used LOG SCALE instead of linear to hide how extreme the differences really are…
-
-[查看原文](https://x.com/elonmusk/status/2114753927400808672)
 
 ---
 
@@ -71,8 +65,6 @@ I wonder why they did that?
 
 Here it is on a normal one. https://t.co/0sia9sX…
 
-[查看原文](https://x.com/elonmusk/status/2114754896427905529)
-
 ---
 
 ## 2026-10-27 00:31:28
@@ -83,7 +75,81 @@ Here it is on a normal one. https://t.co/0sia9sX…
 
 Soon Moon
 
-[查看原文](https://x.com/elonmusk/status/2114756811689447712)
+---
+
+## 2026-10-27 00:48:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico will vote to take away your children and transition them
+
+[查看原文](https://x.com/elonmusk/status/2114761043809378685)
+
+---
+
+## 2026-10-27 00:54:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2114762534372917746)
+
+---
+
+## 2026-10-27 01:00:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TRobinsonNewEra: An estimated 80% of polling stations were closed when they extended the hours. 
+
+213 cities that voted Flávio in the 1…
+
+[查看原文](https://x.com/elonmusk/status/2114764043239960765)
+
+---
+
+## 2026-10-27 01:00:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It means entire countries and cultures will go extinct forever
+
+[查看原文](https://x.com/elonmusk/status/2114764208399421635)
+
+---
+
+## 2026-10-27 01:02:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting question
+
+[查看原文](https://x.com/elonmusk/status/2114764520552051185)
+
+---
+
+## 2026-10-27 01:04:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Remember when using the wrong pronoun got people canceled?
+
+That was dumb.
+
+[查看原文](https://x.com/elonmusk/status/2114765150431682772)
 
 ---
 
