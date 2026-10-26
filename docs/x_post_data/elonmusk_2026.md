@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3964 条推文
+> 📊 推文存档 - 共 3966 条推文
 
 ---
 
@@ -127,7 +127,31 @@ Good questions
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2114507338249875500)
+---
+
+## 2026-10-26 08:17:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @the_jefferymead: I’m so tired of people who don’t build talking about seizing companies and wealth from those who do.
+
+Democrats want t…
+
+[查看原文](https://x.com/elonmusk/status/2114511632600539521)
+
+---
+
+## 2026-10-26 08:26:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship Flight 15 static fire
+
+[查看原文](https://x.com/elonmusk/status/2114513919566033266)
 
 ---
 

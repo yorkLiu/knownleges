@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 521 条推文
+> 📊 推文存档 - 共 522 条推文
 
 ---
 
@@ -23,7 +23,25 @@ But it's getting harder to when the owner constantly amplifies narratives of col
 
 Would people be comfortable if $NVDA
 
-[查看原文](https://x.com/aleabitoreddit/status/2114477224208535600)
+---
+
+## 2026-10-26 08:46:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just another $40B going into the "AI Infra" Bubble... 
+
+Elon stated this $SPCX financing would primarily fund $NVDA GPU procurement H1 2027. Which indirectly increases demand for memory, networking, etc needed. 
+
+In some other notes, VPEC today in UDN:  "InP substrates is https://t.co/AvWvynGnZh
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINpWreowFxb3zYH4jIVly7QoFJa6x9AALbEGsbmC_5VrdP4Nhl302qAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINpmreowQcqii_GUx5Ik1bONDCuHAoAALcEGsbmC_5Vt9_LDrtcPNoAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2114519097526686033)
 
 ---
 
