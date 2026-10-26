@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4002 条推文
+> 📊 推文存档 - 共 4007 条推文
 
 ---
 
@@ -223,7 +223,75 @@ RT @petersellis: I’m joining the team at @X to lead Product.
 
 I am a huge believer in @SpaceX's mission to extend human consciousness to th…
 
-[查看原文](https://x.com/elonmusk/status/2114821902623764790)
+---
+
+## 2026-10-27 06:34:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Everyday is zero-day these days
+
+[查看原文](https://x.com/elonmusk/status/2114848066767630417)
+
+---
+
+## 2026-10-27 06:39:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: I was already on SuperGrok Heavy, Grok’s top plan, and I still kept getting:
+
+“You’re out of Bot usage.”
+
+So today I upg…
+
+[查看原文](https://x.com/elonmusk/status/2114849376627757222)
+
+---
+
+## 2026-10-27 06:42:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2114850248132821462)
+
+---
+
+## 2026-10-27 06:45:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @live_munro: The full video is now live on @YouTube!
+
+A big thank you to @larsmoravy, @EricETesla, and the rest of the Tesla team for ta…
+
+[查看原文](https://x.com/elonmusk/status/2114850910686114161)
+
+---
+
+## 2026-10-27 06:45:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DimaZeniuk: “The diplomats want war and the warriors want peace.”
+
+— Elon Musk https://t.co/TVuqkNtj2S
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINrmrf21adMd06ZOREPBe0ZmzX9IMFAALfFWsbmC8BV6X8lhLd_2K_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2114851061030940961)
 
 ---
 
