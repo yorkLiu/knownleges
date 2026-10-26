@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 3972 条推文
+> 📊 推文存档 - 共 3975 条推文
 
 ---
 
@@ -161,8 +161,6 @@ RT @XFreeze: You can literally just talk to Grok Bot and get things done. Keep t
 
 The latest updates h…
 
-[查看原文](https://x.com/elonmusk/status/2114558451577749597)
-
 ---
 
 ## 2026-10-26 11:26:03
@@ -172,8 +170,6 @@ The latest updates h…
 **内容**:
 
 Wow
-
-[查看原文](https://x.com/elonmusk/status/2114559155642282081)
 
 ---
 
@@ -185,10 +181,6 @@ Wow
 
 RT @JackPosobiec: A judge loyal to Lula ordered voting extended - an result like this in Brazil is unprecedented https://t.co/Y4eGgh38t2
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINp2rezpPyNTQ_2auYOrAkRxCZppF4AAJKEWsbmC_5VlJdjLxFgP7NAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2114559494495805609)
-
 ---
 
 ## 2026-10-26 11:29:25
@@ -198,8 +190,6 @@ RT @JackPosobiec: A judge loyal to Lula ordered voting extended - an result like
 **内容**:
 
 Yes
-
-[查看原文](https://x.com/elonmusk/status/2114560002157654414)
 
 ---
 
@@ -213,8 +203,6 @@ RT @BasedMikeLee: Democrats will make sure they remain in power in perpetuity
 
 That’s not how our constitutional system is supposed to wor…
 
-[查看原文](https://x.com/elonmusk/status/2114560837645984088)
-
 ---
 
 ## 2026-10-26 11:33:30
@@ -225,7 +213,43 @@ That’s not how our constitutional system is supposed to wor…
 
 RT @InsightLeaksQ: Elon Musk becomes deeply moved, and deadly serious, when Bret Baier asks him why he called Sen. Mark Kelly a "Traitor" f…
 
-[查看原文](https://x.com/elonmusk/status/2114561029262758180)
+---
+
+## 2026-10-26 14:44:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gailalfaratx: Elon is beloved by people throughout the entire world. He has over 240 Million followers, and I do not think he would hav…
+
+[查看原文](https://x.com/elonmusk/status/2114609024813711470)
+
+---
+
+## 2026-10-26 14:48:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Elon Musk is American by blood! 🇺🇸
+
+His grandfather, Joshua Haldeman, Maye Musk’s father, was born in Pequot Lakes, Minnesota,…
+
+[查看原文](https://x.com/elonmusk/status/2114610013213806625)
+
+---
+
+## 2026-10-26 14:58:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So beautiful
+
+[查看原文](https://x.com/elonmusk/status/2114612551787147343)
 
 ---
 
