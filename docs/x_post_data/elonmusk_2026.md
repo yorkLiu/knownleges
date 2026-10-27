@@ -7,7 +7,31 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4034 条推文
+> 📊 推文存档 - 共 4036 条推文
+
+---
+
+## 2026-10-28 00:04:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @spencerpratt: A BILLION dollars+ over budget, years behind schedule, contractor suing Karen Bass for delays, and now the LAX people mov…
+
+[查看原文](https://x.com/elonmusk/status/2115112503600693420)
+
+---
+
+## 2026-10-28 00:31:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+New features in Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2115119252785303813)
 
 ---
 
