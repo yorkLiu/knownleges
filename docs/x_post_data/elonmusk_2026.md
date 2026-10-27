@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4040 条推文
+> 📊 推文存档 - 共 4043 条推文
 
 ---
 
@@ -43,8 +43,6 @@ His Texas House record says otherwise.
 
 While millions…
 
-[查看原文](https://x.com/elonmusk/status/2115125299738558481)
-
 ---
 
 ## 2026-10-28 00:56:13
@@ -55,8 +53,6 @@ While millions…
 
 RT @EvaFox: In the summer of 1994, a 23-year-old Elon Musk spent his days in Los Gatos at Pinnacle Research Institute, dreaming up how ultr…
 
-[查看原文](https://x.com/elonmusk/status/2115125425269813408)
-
 ---
 
 ## 2026-10-28 01:02:19
@@ -66,8 +62,6 @@ RT @EvaFox: In the summer of 1994, a 23-year-old Elon Musk spent his days in Los
 **内容**:
 
 🤨
-
-[查看原文](https://x.com/elonmusk/status/2115126959940554814)
 
 ---
 
@@ -81,7 +75,43 @@ RT @cb_doge: When @Starlink helped save a man’s life during emergency surgery 
 
 A young man suffered severe burns to his…
 
-[查看原文](https://x.com/elonmusk/status/2115126996217008612)
+---
+
+## 2026-10-28 01:06:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KenPaxtonTX: BREAKING: The nation’s first-ever Detransition Clinic is now open as a result of my historic settlement with Texas Childre…
+
+[查看原文](https://x.com/elonmusk/status/2115128129669009809)
+
+---
+
+## 2026-10-28 01:10:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good
+
+[查看原文](https://x.com/elonmusk/status/2115129139468673514)
+
+---
+
+## 2026-10-28 01:25:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: What goes up must come down https://t.co/oRXRU84ET1
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINtWrg4OSR6vE9Uc9FVr7aTkzk6R-FAAI0GGsbXrgAAVetqRChIXPZIAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2115132704610193787)
 
 ---
 
