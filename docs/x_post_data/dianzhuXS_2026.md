@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 601 条推文
+> 📊 推文存档 - 共 602 条推文
 
 ---
 
@@ -48,7 +48,27 @@ tags: ["2026"]
 今時今日也就在習近平胯下的奴隸國才能搞成這一套
 朝鮮都搞不起來😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2114896516905353604)
+---
+
+## 2026-10-27 19:20:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+繼續竄訪
+大城市就是人多
+不過，一路上
+沒有一個穆斯林
+大韓民國這方面控制的
+還可以，可以，相當可以
+據說全境穆斯林
+僅佔總人口的0.5%
+😊😊😊 https://t.co/W5CjKpTnwb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINsGrgibmRmPbNmbD-JmtaBpFJyEKlAALoF2sbXrgAAVcAAfO8w4Mi8b8BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2115041030672359428)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 159 条推文
+> 📊 推文存档 - 共 160 条推文
 
 ---
 
@@ -43,7 +43,21 @@ tags: ["2026"]
 
 根本原因就是：跌够了。
 
-[查看原文](https://x.com/iiiinvest/status/2115004336141173178)
+---
+
+## 2026-10-27 19:23:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+别问了，SOXL没跑呢，实在不放心去订阅实盘。
+
+鱼哥是那种不顾兄弟，自己跑路的人吗？ https://t.co/jKWhuKjUcF
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINsWrgibxXQMwOnTo9Fqd0qM8XyKGBAALpF2sbXrgAAVfz8kCzxh5ctgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2115041701148668022)
 
 ---
 
