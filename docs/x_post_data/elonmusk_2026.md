@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4021 条推文
+> 📊 推文存档 - 共 4023 条推文
 
 ---
 
@@ -421,8 +421,6 @@ Call li…
 
 Cute 🥰
 
-[查看原文](https://x.com/elonmusk/status/2114944426271441127)
-
 ---
 
 ## 2026-10-27 12:59:21
@@ -433,7 +431,29 @@ Cute 🥰
 
 RT @ID_AA_Carmack: I see how some people can watch flashy robot demos on the timeline and think with a shiver that the robot apocalypse is…
 
-[查看原文](https://x.com/elonmusk/status/2114945022756089862)
+---
+
+## 2026-10-27 14:26:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DataRepublican: Well.
+
+[查看原文](https://x.com/elonmusk/status/2114966930964848811)
+
+---
+
+## 2026-10-27 14:26:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+He’s right
+
+[查看原文](https://x.com/elonmusk/status/2114967042952687676)
 
 ---
 
