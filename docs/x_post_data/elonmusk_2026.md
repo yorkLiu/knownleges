@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4043 条推文
+> 📊 推文存档 - 共 4051 条推文
 
 ---
 
@@ -85,8 +85,6 @@ A young man suffered severe burns to his…
 
 RT @KenPaxtonTX: BREAKING: The nation’s first-ever Detransition Clinic is now open as a result of my historic settlement with Texas Childre…
 
-[查看原文](https://x.com/elonmusk/status/2115128129669009809)
-
 ---
 
 ## 2026-10-28 01:10:58
@@ -96,8 +94,6 @@ RT @KenPaxtonTX: BREAKING: The nation’s first-ever Detransition Clinic is now 
 **内容**:
 
 Good
-
-[查看原文](https://x.com/elonmusk/status/2115129139468673514)
 
 ---
 
@@ -109,9 +105,109 @@ Good
 
 RT @Tesla: What goes up must come down https://t.co/oRXRU84ET1
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINtWrg4OSR6vE9Uc9FVr7aTkzk6R-FAAI0GGsbXrgAAVetqRChIXPZIAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2115132704610193787)
+## 2026-10-28 02:15:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wholemars: Solar power represents 10% of electricity generated globally in 2026. It is now bigger than nuclear for the first time.
+
+[查看原文](https://x.com/elonmusk/status/2115145262738067816)
+
+---
+
+## 2026-10-28 02:17:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Most liked post of any living human on 𝕏 https://t.co/D6YQSIwlTQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINtmrg726qOLSufTn57qPv2nMGD7BBAAIPEWsbXrgIV5hzesbNNuE5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2115145811579609272)
+
+---
+
+## 2026-10-28 02:18:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BillboardChris: Amazing news!
+
+Texas Children's opens the nation's first detransition clinic. Now the hospital has to pay to help undo…
+
+[查看原文](https://x.com/elonmusk/status/2115146051766391101)
+
+---
+
+## 2026-10-28 02:20:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😑
+
+[查看原文](https://x.com/elonmusk/status/2115146545448571175)
+
+---
+
+## 2026-10-28 02:24:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Madness
+
+[查看原文](https://x.com/elonmusk/status/2115147639847305503)
+
+---
+
+## 2026-10-28 02:25:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @X: ty for 4 years of bangers
+
+[查看原文](https://x.com/elonmusk/status/2115147790234075236)
+
+---
+
+## 2026-10-28 02:27:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tslryn: The sheer fucking hypocrisy surrounding Elon Musk is breathtaking.
+
+For decades, billionaire-funded foundations have financed a…
+
+[查看原文](https://x.com/elonmusk/status/2115148489873322036)
+
+---
+
+## 2026-10-28 02:29:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: United Airlines CEO in new interview on @Starlink:
+
+"We were only going to do 65% of our fleet, but once we put it on ou…
+
+[查看原文](https://x.com/elonmusk/status/2115148795407376834)
 
 ---
 
