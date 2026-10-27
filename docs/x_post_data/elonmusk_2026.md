@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4036 条推文
+> 📊 推文存档 - 共 4040 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @spencerpratt: A BILLION dollars+ over budget, years behind schedule, contractor suing Karen Bass for delays, and now the LAX people mov…
 
-[查看原文](https://x.com/elonmusk/status/2115112503600693420)
-
 ---
 
 ## 2026-10-28 00:31:41
@@ -31,7 +29,59 @@ RT @spencerpratt: A BILLION dollars+ over budget, years behind schedule, contrac
 
 New features in Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2115119252785303813)
+---
+
+## 2026-10-28 00:55:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: James Talarico now calls himself a "border security Democrat."
+
+His Texas House record says otherwise.
+
+While millions…
+
+[查看原文](https://x.com/elonmusk/status/2115125299738558481)
+
+---
+
+## 2026-10-28 00:56:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: In the summer of 1994, a 23-year-old Elon Musk spent his days in Los Gatos at Pinnacle Research Institute, dreaming up how ultr…
+
+[查看原文](https://x.com/elonmusk/status/2115125425269813408)
+
+---
+
+## 2026-10-28 01:02:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🤨
+
+[查看原文](https://x.com/elonmusk/status/2115126959940554814)
+
+---
+
+## 2026-10-28 01:02:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: When @Starlink helped save a man’s life during emergency surgery in rural Zimbabwe.
+
+A young man suffered severe burns to his…
+
+[查看原文](https://x.com/elonmusk/status/2115126996217008612)
 
 ---
 
