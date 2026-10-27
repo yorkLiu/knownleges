@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 76 条推文
+> 📊 推文存档 - 共 77 条推文
+
+---
+
+## 2026-10-27 11:33:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天大盘再度缩量。靠权重把指数拉起来？概率不大。蓝筹没有形成合力，护盘力量还是散的。
+
+但银行板块有个变化值得留意：内部领涨品种换了人。护盘的动作没停，只是换了主角。这说明什么？上面并不希望大盘大跌。指数下方，是有底的。 https://t.co/RjaIPhIBDA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINr2rgHLwW48qtmzQyfzjsyBzsZEAIAAKNFmsbXrgAAVfzoIUUqEGwwwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2114923511663747246)
 
 ---
 
