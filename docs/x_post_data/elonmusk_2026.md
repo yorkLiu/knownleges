@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4016 条推文
+> 📊 推文存档 - 共 4019 条推文
 
 ---
 
@@ -335,8 +335,6 @@ In communist tyrannies, they investigate men to…
 
 RT @p_ferragu: 10x safer to not-drive FSD than to drive a non-Tesla. What are you waiting for, Europe? Save lives!
 
-[查看原文](https://x.com/elonmusk/status/2114928890355585199)
-
 ---
 
 ## 2026-10-27 11:56:10
@@ -349,8 +347,6 @@ RT @LunarResearcher: Holy f*ck, Elon Musk's team at spacexai just dropped a full
 
 DeleteMe charg…
 
-[查看原文](https://x.com/elonmusk/status/2114929121327481030)
-
 ---
 
 ## 2026-10-27 11:59:43
@@ -360,8 +356,6 @@ DeleteMe charg…
 **内容**:
 
 RT @EndWokeness: This makes no sense when you realize all of the top round 1 candidates were right wing
-
-[查看原文](https://x.com/elonmusk/status/2114930013225325035)
 
 ---
 
@@ -373,8 +367,6 @@ RT @EndWokeness: This makes no sense when you realize all of the top round 1 can
 
 Sounds like Alex P🍆 knows a thing or two about being investigated 🤔
 
-[查看原文](https://x.com/elonmusk/status/2114930622238200202)
-
 ---
 
 ## 2026-10-27 12:03:54
@@ -385,7 +377,45 @@ Sounds like Alex P🍆 knows a thing or two about being investigated 🤔
 
 🤭
 
-[查看原文](https://x.com/elonmusk/status/2114931068365414757)
+---
+
+## 2026-10-27 12:24:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A Storm of Cybercabs
+
+[查看原文](https://x.com/elonmusk/status/2114936152205697247)
+
+---
+
+## 2026-10-27 12:34:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: Texas parents need to understand how serious this election is.
+
+If you refuse to “affirm” your child’s trans identity, Democra…
+
+[查看原文](https://x.com/elonmusk/status/2114938846253404662)
+
+---
+
+## 2026-10-27 12:35:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: Just published a Grok @Bot to remove my number from spam call lists and one to remove my personal info from public sites 
+
+Call li…
+
+[查看原文](https://x.com/elonmusk/status/2114938896597520583)
 
 ---
 
