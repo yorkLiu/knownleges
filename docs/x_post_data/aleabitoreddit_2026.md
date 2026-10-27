@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 524 条推文
+> 📊 推文存档 - 共 525 条推文
 
 ---
 
@@ -42,9 +42,23 @@ High-beta stocks historically outperformed even more…
 
 Very interesting, with Nov 3rd coming up, do you think 2026 will be an anomaly? https://t.co/nXCffuomqs
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINsmrgkPrcyvNVyklfgc10HySDgTIcAALzF2sbXrgAAVeUrNPY7W6dNwEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2115045873734529050)
+## 2026-10-27 20:20:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Oh look… more memory durability evidence for $MU and co.
+
+Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, and are now negotiating memory LTAs with $SKHY and Samsung.
+
+Some customers are reportedly pushing for 10 year contracts as well, into 2035. https://t.co/cmSGWVu9oI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINs2rgmD4x4nxdnKzBRYzPQRayojqgAAL6F2sbXrgAAVf3c_53TS2_0QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2115056034763137169)
 
 ---
 
