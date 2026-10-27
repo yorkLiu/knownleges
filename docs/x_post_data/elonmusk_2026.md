@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4024 条推文
+> 📊 推文存档 - 共 4029 条推文
 
 ---
 
@@ -461,7 +461,76 @@ He’s right
 
 Everyone should have at least a few penchants
 
-[查看原文](https://x.com/elonmusk/status/2114973768473039185)
+---
+
+## 2026-10-27 22:38:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: There are at least 20,000 non-citizens on the California voter rolls. 
+
+Congressman Duarte lost by 187 votes. 
+
+Congressw…
+
+[查看原文](https://x.com/elonmusk/status/2115090653084610652)
+
+---
+
+## 2026-10-27 22:38:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: United Airlines is adding @Starlink to ~3 aircraft a day, its CEO just announced.
+
+Already on 48% of United's flight…
+
+[查看原文](https://x.com/elonmusk/status/2115090692695593138)
+
+---
+
+## 2026-10-27 22:38:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: SUPERCUT: Five minutes of insanity from Democrat James Talarico in his own words.
+
+He has shown us exactly why he does not bel…
+
+[查看原文](https://x.com/elonmusk/status/2115090779890946117)
+
+---
+
+## 2026-10-27 22:44:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MsMelChen: &gt; be a high-flying MIT scientist
+&gt; discover mTOR 
+&gt; expected to win a Nobel Prize some day
+&gt; have consensual relationship wi…
+
+[查看原文](https://x.com/elonmusk/status/2115092337827491904)
+
+---
+
+## 2026-10-27 22:46:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink Brasil 🇧🇷
+
+[查看原文](https://x.com/elonmusk/status/2115092766275543266)
 
 ---
 

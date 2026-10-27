@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 525 条推文
+> 📊 推文存档 - 共 526 条推文
 
 ---
 
@@ -56,9 +56,29 @@ Following the news of $GOOGL, other CSPs such as Alibaba, Tencent, Bytedance, an
 
 Some customers are reportedly pushing for 10 year contracts as well, into 2035. https://t.co/cmSGWVu9oI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINs2rgmD4x4nxdnKzBRYzPQRayojqgAAL6F2sbXrgAAVf3c_53TS2_0QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2115056034763137169)
+## 2026-10-27 22:51:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I made a new “It’s All Over” portfolio today of even higher beta names than $AAOI.
+
+The requirements:
+
+1. Fell off a cliff
+2. Lower than when they announced their catalysts 
+3. Increasing fundamentals
+4. Looks like the chart 
+5. Short interest spiking 
+
+Stuff like $ALMU at $7, https://t.co/6QiUGF2KuU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINtGrgvJTXz3jKY66rw43OVNbCAfQRAAIaGGsbXrgAAVcKQoce4RLRVQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2115094150626644115)
 
 ---
 
