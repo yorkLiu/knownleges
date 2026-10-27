@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4008 条推文
+> 📊 推文存档 - 共 4009 条推文
 
 ---
 
@@ -291,7 +291,19 @@ RT @DimaZeniuk: “The diplomats want war and the warriors want peace.”
 
 🎯😂
 
-[查看原文](https://x.com/elonmusk/status/2114854940711833669)
+---
+
+## 2026-10-27 07:36:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wholemars: There must be a meaningful political opposition in the United States. One party rule always ends in disaster. 
+
+Some states…
+
+[查看原文](https://x.com/elonmusk/status/2114863763333738726)
 
 ---
 
