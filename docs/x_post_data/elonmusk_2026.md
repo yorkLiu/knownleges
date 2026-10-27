@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4011 条推文
+> 📊 推文存档 - 共 4016 条推文
 
 ---
 
@@ -313,8 +313,6 @@ Some states…
 
 RT @elonmusk: @SenAlexPadilla Investigate your wiener
 
-[查看原文](https://x.com/elonmusk/status/2114908055246966911)
-
 ---
 
 ## 2026-10-27 10:32:54
@@ -327,7 +325,67 @@ RT @Devon_Eriksen_: In free nations, we investigate crimes to see who is guilty 
 
 In communist tyrannies, they investigate men to…
 
-[查看原文](https://x.com/elonmusk/status/2114908164722405702)
+---
+
+## 2026-10-27 11:55:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @p_ferragu: 10x safer to not-drive FSD than to drive a non-Tesla. What are you waiting for, Europe? Save lives!
+
+[查看原文](https://x.com/elonmusk/status/2114928890355585199)
+
+---
+
+## 2026-10-27 11:56:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @LunarResearcher: Holy f*ck, Elon Musk's team at spacexai just dropped a full spam killer inside Grok Bot, and it's free
+
+DeleteMe charg…
+
+[查看原文](https://x.com/elonmusk/status/2114929121327481030)
+
+---
+
+## 2026-10-27 11:59:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EndWokeness: This makes no sense when you realize all of the top round 1 candidates were right wing
+
+[查看原文](https://x.com/elonmusk/status/2114930013225325035)
+
+---
+
+## 2026-10-27 12:02:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Sounds like Alex P🍆 knows a thing or two about being investigated 🤔
+
+[查看原文](https://x.com/elonmusk/status/2114930622238200202)
+
+---
+
+## 2026-10-27 12:03:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🤭
+
+[查看原文](https://x.com/elonmusk/status/2114931068365414757)
 
 ---
 
