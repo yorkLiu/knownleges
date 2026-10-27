@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4019 条推文
+> 📊 推文存档 - 共 4021 条推文
 
 ---
 
@@ -387,8 +387,6 @@ Sounds like Alex P🍆 knows a thing or two about being investigated 🤔
 
 A Storm of Cybercabs
 
-[查看原文](https://x.com/elonmusk/status/2114936152205697247)
-
 ---
 
 ## 2026-10-27 12:34:49
@@ -400,8 +398,6 @@ A Storm of Cybercabs
 RT @america: Texas parents need to understand how serious this election is.
 
 If you refuse to “affirm” your child’s trans identity, Democra…
-
-[查看原文](https://x.com/elonmusk/status/2114938846253404662)
 
 ---
 
@@ -415,7 +411,29 @@ RT @alx: Just published a Grok @Bot to remove my number from spam call lists and
 
 Call li…
 
-[查看原文](https://x.com/elonmusk/status/2114938896597520583)
+---
+
+## 2026-10-27 12:56:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cute 🥰
+
+[查看原文](https://x.com/elonmusk/status/2114944426271441127)
+
+---
+
+## 2026-10-27 12:59:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ID_AA_Carmack: I see how some people can watch flashy robot demos on the timeline and think with a shiver that the robot apocalypse is…
+
+[查看原文](https://x.com/elonmusk/status/2114945022756089862)
 
 ---
 
