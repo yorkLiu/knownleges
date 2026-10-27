@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4009 条推文
+> 📊 推文存档 - 共 4011 条推文
 
 ---
 
@@ -303,7 +303,31 @@ RT @wholemars: There must be a meaningful political opposition in the United Sta
 
 Some states…
 
-[查看原文](https://x.com/elonmusk/status/2114863763333738726)
+---
+
+## 2026-10-27 10:32:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @SenAlexPadilla Investigate your wiener
+
+[查看原文](https://x.com/elonmusk/status/2114908055246966911)
+
+---
+
+## 2026-10-27 10:32:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Devon_Eriksen_: In free nations, we investigate crimes to see who is guilty of them. 
+
+In communist tyrannies, they investigate men to…
+
+[查看原文](https://x.com/elonmusk/status/2114908164722405702)
 
 ---
 
