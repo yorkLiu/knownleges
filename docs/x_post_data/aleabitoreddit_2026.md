@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 523 条推文
+> 📊 推文存档 - 共 524 条推文
 
 ---
 
@@ -25,15 +25,26 @@ Considering the billions in financing raised by frontier labs to hyperscalers..
 
 End up ultimately flowing back to GPUs, networking, to memory. https://t.co/U6GAmlOJ53
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINqmrffPdGhIO7_Xwp0YLpgIZ0edUNAAKTFWsbmC8BV0JO-jHmdfguAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINq2rffPqRHpxsEBTxRkvoX5l-W24rAAKUFWsbmC8BV-eQgfy_RzZMAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-27 19:40:06
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINrGrffPzglbd_EKXa5danaCvfe6yqAAKVFWsbmC8BVwM71IiiczRtAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINrWrffP5blj_p89iKPi8UOzB437o9AAKWFWsbmC8BVwrGeNTG70HMAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/aleabitoreddit/status/2114752489476309203)
+The S&amp;P 500 returns Nov -&gt; Jun following midterm elections apparently:
+
+- 21/21 times were positive
+- Avg. index gain was 16.6%.
+
+High-beta stocks historically outperformed even more…
+
+Very interesting, with Nov 3rd coming up, do you think 2026 will be an anomaly? https://t.co/nXCffuomqs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINsmrgkPrcyvNVyklfgc10HySDgTIcAALzF2sbXrgAAVeUrNPY7W6dNwEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2115045873734529050)
 
 ---
 
