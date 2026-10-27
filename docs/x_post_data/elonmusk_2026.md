@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4033 条推文
+> 📊 推文存档 - 共 4034 条推文
 
 ---
 
@@ -532,8 +532,6 @@ Starlink Brasil 🇧🇷
 
 RT @Rothmus: Zuckerberg admitted the fact checkers he paid for 8 years destroyed more trust than they created, replacing them with Communit…
 
-[查看原文](https://x.com/elonmusk/status/2115097067098095989)
-
 ---
 
 ## 2026-10-27 23:03:40
@@ -544,8 +542,6 @@ RT @Rothmus: Zuckerberg admitted the fact checkers he paid for 8 years destroyed
 
 RT @DefiantLs: Elon Musk: "At its heart, wokeness is divisive, exclusionary, and hateful. It basically gives mean people a shield to be mea…
 
-[查看原文](https://x.com/elonmusk/status/2115097100610572649)
-
 ---
 
 ## 2026-10-27 23:04:18
@@ -555,8 +551,6 @@ RT @DefiantLs: Elon Musk: "At its heart, wokeness is divisive, exclusionary, and
 **内容**:
 
 RT @SpaceX: Watch Falcon 9 launch 27 @Starlink satellites to orbit from California https://t.co/Uxe26aH965
-
-[查看原文](https://x.com/elonmusk/status/2115097260841431137)
 
 ---
 
@@ -570,7 +564,17 @@ RT @SawyerMerritt: United Airlines CEO in new interview on Delta Airlines choosi
 
 "It's a mistake. I think (Starl…
 
-[查看原文](https://x.com/elonmusk/status/2115101700872982537)
+---
+
+## 2026-10-27 23:57:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2115110737995796849)
 
 ---
 
