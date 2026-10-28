@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4065 条推文
+> 📊 推文存档 - 共 4066 条推文
 
 ---
 
@@ -347,7 +347,17 @@ TMZ's Michael Babcock wan…
 
 Starlink
 
-[查看原文](https://x.com/elonmusk/status/2115337497760936079)
+---
+
+## 2026-10-28 15:14:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Matthewtcone: We took our first Robotaxi ride in the new Houston service area! We live right on the edge of the new boundary, so of cou…
+
+[查看原文](https://x.com/elonmusk/status/2115341336559972461)
 
 ---
 
