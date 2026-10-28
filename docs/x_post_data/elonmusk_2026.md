@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4066 条推文
+> 📊 推文存档 - 共 4076 条推文
 
 ---
 
@@ -357,7 +357,139 @@ Starlink
 
 RT @Matthewtcone: We took our first Robotaxi ride in the new Houston service area! We live right on the edge of the new boundary, so of cou…
 
-[查看原文](https://x.com/elonmusk/status/2115341336559972461)
+---
+
+## 2026-10-28 15:33:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I saw the worst of you
+And I still chose you https://t.co/ggUX6R4sId
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINvWrhrEF1fcFMwdGMIlaHD8TfYZXMAAKREmsbXrgIV4W_L9p9ermGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2115346075666325755)
+
+---
+
+## 2026-10-28 15:35:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hire Grok @Bot, you won’t regret it
+
+[查看原文](https://x.com/elonmusk/status/2115346748730380385)
+
+---
+
+## 2026-10-28 15:36:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: F1 World Champion tries Cybercab
+
+[查看原文](https://x.com/elonmusk/status/2115346914397069689)
+
+---
+
+## 2026-10-28 15:37:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @goddek: Even the East German communists weren’t that shameless when rigging elections. https://t.co/HnYzxzJ1BG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINvGrhrD5N2dmvv3MO4VVj8e5oexkCAAKQEmsbXrgIV7cmKJW-0f6KAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2115347175261847750)
+
+---
+
+## 2026-10-28 15:42:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot rocks
+
+[查看原文](https://x.com/elonmusk/status/2115348410396287061)
+
+---
+
+## 2026-10-28 15:46:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ericzakariasson: grok @bot 0.77.0 is now stable and rolling out!
+
+- permissions settings for your auto-review rules
+- pick which paymen…
+
+[查看原文](https://x.com/elonmusk/status/2115349513011646920)
+
+---
+
+## 2026-10-28 15:48:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KnightWorld: @elonmusk "To love and be loved is to feel the sun from both sides."
+Grok Imagine 
+https://t.co/LxxJENH0wz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINu2rhrDvmYhsMG8Nrz3e8ROc67bLoAAKOEmsbXrgIV6mpo8MIy_ibAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2115349948544020638)
+
+---
+
+## 2026-10-28 15:50:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SPCX100T: Throughout my 20 something years in investing, SpaceX $SPCX is the largest arbitrage I’ve ever encountered. It’s not a misund…
+
+[查看原文](https://x.com/elonmusk/status/2115350414367568190)
+
+---
+
+## 2026-10-28 15:55:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AsFoundX: 🚨 MrBeast just nailed it
+
+“In my lifetime, is SpaceX going to own a colony on Mars? I think so. Name one thing that’s more ba…
+
+[查看原文](https://x.com/elonmusk/status/2115351819090300948)
+
+---
+
+## 2026-10-28 16:02:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2115353441954636214)
 
 ---
 
