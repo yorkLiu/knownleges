@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 610 条推文
+> 📊 推文存档 - 共 611 条推文
 
 ---
 
@@ -115,7 +115,31 @@ https://t.co/aiSqdMbPKt
 
 大部分都是「腦缺弦兒」
 
-[查看原文](https://x.com/dianzhuXS/status/2115403048596189555)
+---
+
+## 2026-10-28 19:40:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+聽人勸「打碼」
+這個月「財星黨殺」的
+都去人多的地方遛遛吧
+「比肩扛殺」安逸～
+吃點喝點
+不內耗「旁觀亂世」
+吼吼吼 https://t.co/yiKBs7pg6S
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINw2rh5l7hawYXuEce9jgKqjqSpI5bAAKIE2sbXrgIV9VaDbC4e6ynAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINxGrh5mKvJUDHSsTnUoO1EnJKytfTAAKJE2sbXrgIV_RAFzUqO0UMAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINwmrh196ZaYlPr6ugjUPQqnm9NCxaAAIgE2sbXrgIV47OLDL_LDVaAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINxmrh5mny5UWP0pdy6HDXFwi_z8O1AAKKE2sbXrgIVx7D0VX8rPVpAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2115408413031371082)
 
 ---
 
