@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 162 条推文
+> 📊 推文存档 - 共 163 条推文
 
 ---
 
@@ -35,7 +35,23 @@ tags: ["2026"]
 
 一条线画到几年后，你这是把小学几何当量子力学了！🥸
 
-[查看原文](https://x.com/iiiinvest/status/2115280380169441745)
+---
+
+## 2026-10-28 17:21:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+兄弟们，半导体我吃上肉了。这段时间对你知无不言，相信你应该感受到鱼哥的真情实意。
+
+关注实盘的兄弟应该看到了，我100附近减了些仓位。整体依旧还是看反弹，但今晚美联储+大科技财报，波动不会小，仓位控制下，准备布局其他机会。
+
+爱你的鱼❤️。 https://t.co/iTmNUocvsR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINvmrhwgvYxMj6WeYsOI-Ud3lqSzKlAALLEmsbXrgIV7QktlH1q-q6AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2115373454795190590)
 
 ---
 
