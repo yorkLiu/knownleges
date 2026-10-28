@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 438 条推文
+> 📊 推文存档 - 共 439 条推文
+
+---
+
+## 2026-10-28 11:22:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+最近太菜了，抄底又没拿住被那天盘前暴跌吓跑了。全涨起来了。好在是没亏钱。 https://t.co/kXqtHzze95
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINumrhatmTvaETjHr630tCvGvHuJk3AAKUEWsbXrgIVxhQViWGOmF0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2115283023314997600)
 
 ---
 
