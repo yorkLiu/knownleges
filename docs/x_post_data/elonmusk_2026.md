@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4083 条推文
+> 📊 推文存档 - 共 4086 条推文
 
 ---
 
@@ -539,7 +539,45 @@ RT @MrAndyNgo: One of the victims of the Zizian trans death cult was their elder
 
 They bashed him on the head and then attacke…
 
-[查看原文](https://x.com/elonmusk/status/2115457638855315591)
+---
+
+## 2026-10-28 23:30:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nima_owji: Grok Bot can do a lot more than chat!! 🤖
+
+Starting tomorrow: 30 days, 30 real Grok Bot use cases. A different field every da…
+
+[查看原文](https://x.com/elonmusk/status/2115466209269567887)
+
+---
+
+## 2026-10-28 23:33:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: Legacy media will never run this list, so I will.
+
+2018, Flint, Michigan: Elon funded filtration systems for schools wit…
+
+[查看原文](https://x.com/elonmusk/status/2115467041809576173)
+
+---
+
+## 2026-10-28 23:46:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BuckSexton: Driving my @Tesla model Y home from pickup, first ever ride, this car is absolutely amazing. @elonmusk your team has produc…
+
+[查看原文](https://x.com/elonmusk/status/2115470191513702683)
 
 ---
 
