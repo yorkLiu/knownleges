@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4064 条推文
+> 📊 推文存档 - 共 4065 条推文
 
 ---
 
@@ -237,8 +237,6 @@ Today, Tesla’s worth more than 5x…
 
 Grok Imagine
 
-[查看原文](https://x.com/elonmusk/status/2115323441738047731)
-
 ---
 
 ## 2026-10-28 14:07:08
@@ -248,8 +246,6 @@ Grok Imagine
 **内容**:
 
 10k Starship launches/year is just from Starbase Louisiana
-
-[查看原文](https://x.com/elonmusk/status/2115324467295756543)
 
 ---
 
@@ -263,8 +259,6 @@ RT @KenPaxtonTX: As featured by President @realDonaldTrump today, this is who Ja
 
 He can’t outrun his record any longer. ht…
 
-[查看原文](https://x.com/elonmusk/status/2115324560174452879)
-
 ---
 
 ## 2026-10-28 14:08:02
@@ -275,8 +269,6 @@ He can’t outrun his record any longer. ht…
 
 Grok @Bot is like hiring an awesome employee
 
-[查看原文](https://x.com/elonmusk/status/2115324694505337203)
-
 ---
 
 ## 2026-10-28 14:09:19
@@ -286,8 +278,6 @@ Grok @Bot is like hiring an awesome employee
 **内容**:
 
 RT @jamesdouma: Unsurprisingly, you can’t get an honest assessment of Tesla’s safety, cost, operating cost, or reliability from MSM.  Tesla…
-
-[查看原文](https://x.com/elonmusk/status/2115325014912422309)
 
 ---
 
@@ -303,8 +293,6 @@ AND YOU CAN TOO—ITS FREE!
 
 Your phone number is a front door. Mos…
 
-[查看原文](https://x.com/elonmusk/status/2115325367082979348)
-
 ---
 
 ## 2026-10-28 14:10:54
@@ -317,8 +305,6 @@ RT @beffjezos: Grok Bot just keeps getting better
 
 The Vault feature is a game changer
 
-[查看原文](https://x.com/elonmusk/status/2115325413945987576)
-
 ---
 
 ## 2026-10-28 14:28:42
@@ -329,8 +315,6 @@ The Vault feature is a game changer
 
 RT @mntruell: Early days, but we're beginning to hire Bots onto our team.
 
-[查看原文](https://x.com/elonmusk/status/2115329893986980257)
-
 ---
 
 ## 2026-10-28 14:29:23
@@ -340,8 +324,6 @@ RT @mntruell: Early days, but we're beginning to hire Bots onto our team.
 **内容**:
 
 RT @poteto: i've gotten a lot of questions about how i manage my X account with grok bot, so i'm sharing my bot tibot today! he watches you…
-
-[查看原文](https://x.com/elonmusk/status/2115330067241062574)
 
 ---
 
@@ -355,7 +337,17 @@ RT @TMZ: "INVESTIGATE ELON MUSK." Sen. Alex Padilla dropped the demand and Elon 
 
 TMZ's Michael Babcock wan…
 
-[查看原文](https://x.com/elonmusk/status/2115330197591568430)
+---
+
+## 2026-10-28 14:58:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://x.com/elonmusk/status/2115337497760936079)
 
 ---
 
