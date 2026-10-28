@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 163 条推文
+> 📊 推文存档 - 共 164 条推文
 
 ---
 
@@ -49,9 +49,21 @@ tags: ["2026"]
 
 爱你的鱼❤️。 https://t.co/iTmNUocvsR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINvmrhwgvYxMj6WeYsOI-Ud3lqSzKlAALLEmsbXrgIV7QktlH1q-q6AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2115373454795190590)
+## 2026-10-28 22:12:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX 好弱
+
+好像市场因为Anthropic估值问题，间接给SpaceX 重定价？最近反弹不跟，跌起来倒是挺猛。
+
+不管了，如果跌破140，我无脑止损出局。看不懂~
+
+[查看原文](https://x.com/iiiinvest/status/2115446551128752297)
 
 ---
 

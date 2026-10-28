@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4078 条推文
+> 📊 推文存档 - 共 4079 条推文
 
 ---
 
@@ -475,8 +475,6 @@ Try Grok @Bot
 
 RT @irislovesdeals: co-wrote a piece on how we're using @bot to supercharge deals at @spacexai. We delegate "jobs" to specialized shared bo…
 
-[查看原文](https://x.com/elonmusk/status/2115354158127825365)
-
 ---
 
 ## 2026-10-28 16:08:25
@@ -489,7 +487,17 @@ RT @thisiskp_: It sounds like every 3rd tweet here is a fan boy of Grok @Bot but
 
 It’s like iPhone…
 
-[查看原文](https://x.com/elonmusk/status/2115354989652758879)
+---
+
+## 2026-10-28 22:10:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CoffeeNGrit: Day 3 of turning Elon's posts into music.  Naturally, the reply to Padilla to 'Investigate your wiener' had to be the hook…
+
+[查看原文](https://x.com/elonmusk/status/2115446212921020532)
 
 ---
 
