@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4089 条推文
+> 📊 推文存档 - 共 4091 条推文
 
 ---
 
@@ -21,8 +21,6 @@ RT @mjboswell: Actual language of Prop I:
 
 Shall the City Charter be amended to require an Independent Affordability and Efficiency Initiat…
 
-[查看原文](https://x.com/elonmusk/status/2115490896632574146)
-
 ---
 
 ## 2026-10-29 01:08:52
@@ -35,7 +33,31 @@ RT @Geiger_Capital: Holy. Shit.
 
 The NYT is reporting that despite their denials, Mary Peltola's staff and Democratic operatives flew all o…
 
-[查看原文](https://x.com/elonmusk/status/2115490996595343642)
+---
+
+## 2026-10-29 01:49:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🇺🇸 Robotaxi Houston 🇺🇸
+
+[查看原文](https://x.com/elonmusk/status/2115501119296463056)
+
+---
+
+## 2026-10-29 01:51:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ConCaracal: FARM ATTACK: Another South African farmer attacked and brutally tortured on his farm this week.
+
+Cattle farmer, Donovan Mar…
+
+[查看原文](https://x.com/elonmusk/status/2115501646545572015)
 
 ---
 
