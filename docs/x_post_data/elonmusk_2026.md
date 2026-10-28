@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4082 条推文
+> 📊 推文存档 - 共 4083 条推文
 
 ---
 
@@ -507,8 +507,6 @@ RT @CoffeeNGrit: Day 3 of turning Elon's posts into music.  Naturally, the reply
 
 At Tesla, we even care about the chipmunks
 
-[查看原文](https://x.com/elonmusk/status/2115447957843821013)
-
 ---
 
 ## 2026-10-28 22:26:41
@@ -518,10 +516,6 @@ At Tesla, we even care about the chipmunks
 **内容**:
 
 RT @cb_doge: https://t.co/SAVARn04gH
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINx2riCrBjrHfkndYFvZsTz0iCp4PLAALHEmsbMpERV2A4McAXrR-VAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2115450183060431234)
 
 ---
 
@@ -533,7 +527,19 @@ RT @cb_doge: https://t.co/SAVARn04gH
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2115451044423668045)
+---
+
+## 2026-10-28 22:56:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MrAndyNgo: One of the victims of the Zizian trans death cult was their elderly landlord. 
+
+They bashed him on the head and then attacke…
+
+[查看原文](https://x.com/elonmusk/status/2115457638855315591)
 
 ---
 
