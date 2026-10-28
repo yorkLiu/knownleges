@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4076 条推文
+> 📊 推文存档 - 共 4078 条推文
 
 ---
 
@@ -368,10 +368,6 @@ RT @Matthewtcone: We took our first Robotaxi ride in the new Houston service are
 I saw the worst of you
 And I still chose you https://t.co/ggUX6R4sId
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINvWrhrEF1fcFMwdGMIlaHD8TfYZXMAAKREmsbXrgIV4W_L9p9ermGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2115346075666325755)
-
 ---
 
 ## 2026-10-28 15:35:40
@@ -381,8 +377,6 @@ And I still chose you https://t.co/ggUX6R4sId
 **内容**:
 
 Hire Grok @Bot, you won’t regret it
-
-[查看原文](https://x.com/elonmusk/status/2115346748730380385)
 
 ---
 
@@ -394,8 +388,6 @@ Hire Grok @Bot, you won’t regret it
 
 RT @robotaxi: F1 World Champion tries Cybercab
 
-[查看原文](https://x.com/elonmusk/status/2115346914397069689)
-
 ---
 
 ## 2026-10-28 15:37:22
@@ -406,10 +398,6 @@ RT @robotaxi: F1 World Champion tries Cybercab
 
 RT @goddek: Even the East German communists weren’t that shameless when rigging elections. https://t.co/HnYzxzJ1BG
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINvGrhrD5N2dmvv3MO4VVj8e5oexkCAAKQEmsbXrgIV7cmKJW-0f6KAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2115347175261847750)
-
 ---
 
 ## 2026-10-28 15:42:16
@@ -419,8 +407,6 @@ RT @goddek: Even the East German communists weren’t that shameless when riggin
 **内容**:
 
 Grok @Bot rocks
-
-[查看原文](https://x.com/elonmusk/status/2115348410396287061)
 
 ---
 
@@ -435,8 +421,6 @@ RT @ericzakariasson: grok @bot 0.77.0 is now stable and rolling out!
 - permissions settings for your auto-review rules
 - pick which paymen…
 
-[查看原文](https://x.com/elonmusk/status/2115349513011646920)
-
 ---
 
 ## 2026-10-28 15:48:23
@@ -449,10 +433,6 @@ RT @KnightWorld: @elonmusk "To love and be loved is to feel the sun from both si
 Grok Imagine 
 https://t.co/LxxJENH0wz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINu2rhrDvmYhsMG8Nrz3e8ROc67bLoAAKOEmsbXrgIV6mpo8MIy_ibAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2115349948544020638)
-
 ---
 
 ## 2026-10-28 15:50:14
@@ -462,8 +442,6 @@ https://t.co/LxxJENH0wz
 **内容**:
 
 RT @SPCX100T: Throughout my 20 something years in investing, SpaceX $SPCX is the largest arbitrage I’ve ever encountered. It’s not a misund…
-
-[查看原文](https://x.com/elonmusk/status/2115350414367568190)
 
 ---
 
@@ -477,8 +455,6 @@ RT @AsFoundX: 🚨 MrBeast just nailed it
 
 “In my lifetime, is SpaceX going to own a colony on Mars? I think so. Name one thing that’s more ba…
 
-[查看原文](https://x.com/elonmusk/status/2115351819090300948)
-
 ---
 
 ## 2026-10-28 16:02:16
@@ -489,7 +465,31 @@ RT @AsFoundX: 🚨 MrBeast just nailed it
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2115353441954636214)
+---
+
+## 2026-10-28 16:05:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @irislovesdeals: co-wrote a piece on how we're using @bot to supercharge deals at @spacexai. We delegate "jobs" to specialized shared bo…
+
+[查看原文](https://x.com/elonmusk/status/2115354158127825365)
+
+---
+
+## 2026-10-28 16:08:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @thisiskp_: It sounds like every 3rd tweet here is a fan boy of Grok @Bot but let me tell you - this is not just hype 
+
+It’s like iPhone…
+
+[查看原文](https://x.com/elonmusk/status/2115354989652758879)
 
 ---
 
