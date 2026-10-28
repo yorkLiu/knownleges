@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4051 条推文
+> 📊 推文存档 - 共 4053 条推文
 
 ---
 
@@ -115,8 +115,6 @@ RT @Tesla: What goes up must come down https://t.co/oRXRU84ET1
 
 RT @wholemars: Solar power represents 10% of electricity generated globally in 2026. It is now bigger than nuclear for the first time.
 
-[查看原文](https://x.com/elonmusk/status/2115145262738067816)
-
 ---
 
 ## 2026-10-28 02:17:13
@@ -126,10 +124,6 @@ RT @wholemars: Solar power represents 10% of electricity generated globally in 2
 **内容**:
 
 RT @cb_doge: Most liked post of any living human on 𝕏 https://t.co/D6YQSIwlTQ
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINtmrg726qOLSufTn57qPv2nMGD7BBAAIPEWsbXrgIV5hzesbNNuE5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2115145811579609272)
 
 ---
 
@@ -143,8 +137,6 @@ RT @BillboardChris: Amazing news!
 
 Texas Children's opens the nation's first detransition clinic. Now the hospital has to pay to help undo…
 
-[查看原文](https://x.com/elonmusk/status/2115146051766391101)
-
 ---
 
 ## 2026-10-28 02:20:08
@@ -154,8 +146,6 @@ Texas Children's opens the nation's first detransition clinic. Now the hospital 
 **内容**:
 
 😑
-
-[查看原文](https://x.com/elonmusk/status/2115146545448571175)
 
 ---
 
@@ -167,8 +157,6 @@ Texas Children's opens the nation's first detransition clinic. Now the hospital 
 
 Madness
 
-[查看原文](https://x.com/elonmusk/status/2115147639847305503)
-
 ---
 
 ## 2026-10-28 02:25:05
@@ -178,8 +166,6 @@ Madness
 **内容**:
 
 RT @X: ty for 4 years of bangers
-
-[查看原文](https://x.com/elonmusk/status/2115147790234075236)
 
 ---
 
@@ -193,8 +179,6 @@ RT @tslryn: The sheer fucking hypocrisy surrounding Elon Musk is breathtaking.
 
 For decades, billionaire-funded foundations have financed a…
 
-[查看原文](https://x.com/elonmusk/status/2115148489873322036)
-
 ---
 
 ## 2026-10-28 02:29:05
@@ -207,7 +191,31 @@ RT @SawyerMerritt: United Airlines CEO in new interview on @Starlink:
 
 "We were only going to do 65% of our fleet, but once we put it on ou…
 
-[查看原文](https://x.com/elonmusk/status/2115148795407376834)
+---
+
+## 2026-10-28 09:53:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Eric_Schmitt: What the Democrats are willing to do with power is terrifying. 
+
+We saw it during Covid, when parents were investigated u…
+
+[查看原文](https://x.com/elonmusk/status/2115260611076792721)
+
+---
+
+## 2026-10-28 09:55:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tetsuoai: A new bot called "Director," by Xi Yan, showed up in the Grok Bot Marketplace. It's a video director that takes a brief and p…
+
+[查看原文](https://x.com/elonmusk/status/2115261103970340987)
 
 ---
 

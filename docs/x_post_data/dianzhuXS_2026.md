@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 604 条推文
+> 📊 推文存档 - 共 606 条推文
 
 ---
 
@@ -34,7 +34,35 @@ tags: ["2026"]
 
 此處只說重點，你們知道他有多髒嗎？別誤會，這裡不是指價值觀和劣根性什麼的，就單純的字面意思，個人衛生。
 
-[查看原文](https://x.com/dianzhuXS/status/2115257106794500536)
+---
+
+## 2026-10-28 09:59:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我承認一個不愛看球的我，都不知道「姆巴佩」是誰，更也不了解他，所以沒法揪著頭髮把他往高處拔，化妝成「反共鬥士」
+
+但我了解中國，了解共匪，了解中國人
+
+這件事證明了，那片鹽鹼地已經從「玻璃心」黑化成了「玻璃國」。必須遠離，必須遠離，必須遠離！尤其外資，外國人⋯⋯不了解就別以身試險。 https://t.co/gZ1Bf75FIR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINuWrhXFm9nbRIafTrweLSTlQIv73ZAAJREWsbXrgIV42b1P2DEPZ6AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2115262053724360862)
+
+---
+
+## 2026-10-28 10:06:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新買了手機，要不叨逼叨一下試試效果？
+
+[查看原文](https://x.com/dianzhuXS/status/2115263902548443363)
 
 ---
 
