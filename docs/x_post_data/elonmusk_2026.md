@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4053 条推文
+> 📊 推文存档 - 共 4054 条推文
 
 ---
 
@@ -203,8 +203,6 @@ RT @Eric_Schmitt: What the Democrats are willing to do with power is terrifying.
 
 We saw it during Covid, when parents were investigated u…
 
-[查看原文](https://x.com/elonmusk/status/2115260611076792721)
-
 ---
 
 ## 2026-10-28 09:55:21
@@ -215,7 +213,21 @@ We saw it during Covid, when parents were investigated u…
 
 RT @tetsuoai: A new bot called "Director," by Xi Yan, showed up in the Grok Bot Marketplace. It's a video director that takes a brief and p…
 
-[查看原文](https://x.com/elonmusk/status/2115261103970340987)
+---
+
+## 2026-10-28 13:57:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JonErlichman: On this day in 2010: Tesla opened its first factory. 
+
+It was an old GM-Toyota plant.
+
+Today, Tesla’s worth more than 5x…
+
+[查看原文](https://x.com/elonmusk/status/2115321988537614484)
 
 ---
 
