@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4054 条推文
+> 📊 推文存档 - 共 4064 条推文
 
 ---
 
@@ -227,7 +227,135 @@ It was an old GM-Toyota plant.
 
 Today, Tesla’s worth more than 5x…
 
-[查看原文](https://x.com/elonmusk/status/2115321988537614484)
+---
+
+## 2026-10-28 14:03:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Imagine
+
+[查看原文](https://x.com/elonmusk/status/2115323441738047731)
+
+---
+
+## 2026-10-28 14:07:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+10k Starship launches/year is just from Starbase Louisiana
+
+[查看原文](https://x.com/elonmusk/status/2115324467295756543)
+
+---
+
+## 2026-10-28 14:07:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KenPaxtonTX: As featured by President @realDonaldTrump today, this is who James Talarico is.
+
+He can’t outrun his record any longer. ht…
+
+[查看原文](https://x.com/elonmusk/status/2115324560174452879)
+
+---
+
+## 2026-10-28 14:08:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot is like hiring an awesome employee
+
+[查看原文](https://x.com/elonmusk/status/2115324694505337203)
+
+---
+
+## 2026-10-28 14:09:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jamesdouma: Unsurprisingly, you can’t get an honest assessment of Tesla’s safety, cost, operating cost, or reliability from MSM.  Tesla…
+
+[查看原文](https://x.com/elonmusk/status/2115325014912422309)
+
+---
+
+## 2026-10-28 14:10:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: I JUST GAVE GROK BOT A VOICE MAIL AND TEXT MESSAGING!
+
+AND YOU CAN TOO—ITS FREE!
+
+Your phone number is a front door. Mos…
+
+[查看原文](https://x.com/elonmusk/status/2115325367082979348)
+
+---
+
+## 2026-10-28 14:10:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @beffjezos: Grok Bot just keeps getting better 
+
+The Vault feature is a game changer
+
+[查看原文](https://x.com/elonmusk/status/2115325413945987576)
+
+---
+
+## 2026-10-28 14:28:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mntruell: Early days, but we're beginning to hire Bots onto our team.
+
+[查看原文](https://x.com/elonmusk/status/2115329893986980257)
+
+---
+
+## 2026-10-28 14:29:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: i've gotten a lot of questions about how i manage my X account with grok bot, so i'm sharing my bot tibot today! he watches you…
+
+[查看原文](https://x.com/elonmusk/status/2115330067241062574)
+
+---
+
+## 2026-10-28 14:29:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TMZ: "INVESTIGATE ELON MUSK." Sen. Alex Padilla dropped the demand and Elon fired back with a "wiener" joke.
+
+TMZ's Michael Babcock wan…
+
+[查看原文](https://x.com/elonmusk/status/2115330197591568430)
 
 ---
 
