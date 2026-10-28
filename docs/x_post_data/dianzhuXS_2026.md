@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 606 条推文
+> 📊 推文存档 - 共 607 条推文
 
 ---
 
@@ -48,10 +48,6 @@ tags: ["2026"]
 
 這件事證明了，那片鹽鹼地已經從「玻璃心」黑化成了「玻璃國」。必須遠離，必須遠離，必須遠離！尤其外資，外國人⋯⋯不了解就別以身試險。 https://t.co/gZ1Bf75FIR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINuWrhXFm9nbRIafTrweLSTlQIv73ZAAJREWsbXrgIV42b1P2DEPZ6AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2115262053724360862)
-
 ---
 
 ## 2026-10-28 10:06:28
@@ -62,7 +58,17 @@ tags: ["2026"]
 
 新買了手機，要不叨逼叨一下試試效果？
 
-[查看原文](https://x.com/dianzhuXS/status/2115263902548443363)
+---
+
+## 2026-10-28 10:37:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/aiSqdMbPKt
+
+[查看原文](https://x.com/dianzhuXS/status/2115271717451161604)
 
 ---
 
