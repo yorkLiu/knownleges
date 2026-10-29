@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4095 条推文
+> 📊 推文存档 - 共 4102 条推文
 
 ---
 
@@ -85,8 +85,6 @@ Hmm
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2115624652454154559)
-
 ---
 
 ## 2026-10-29 10:02:02
@@ -99,7 +97,103 @@ RT @cb_doge: BREAKING: Starlink rollout for 312 schools completed in El Alto, Bo
 
 The government-backed project reac…
 
-[查看原文](https://x.com/elonmusk/status/2115625173646729517)
+---
+
+## 2026-10-29 10:09:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @neuralink: Early Neuralink speech restoration data:
+
+We are enabling speech to text and voice at conversational rates in participants w…
+
+[查看原文](https://x.com/elonmusk/status/2115626951607996734)
+
+---
+
+## 2026-10-29 10:10:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: Yesterday was the REDDEST day of early voting in Texas.
+
+We need big turnout tomorrow &amp; Friday to finish strong for Elect…
+
+[查看原文](https://x.com/elonmusk/status/2115627272862585316)
+
+---
+
+## 2026-10-29 10:12:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kr0der: some of my "wtf" moments with AI so far:
+
+1. Cursor Tab
+2. Claude Code
+3. Codex
+4. Opus 5.5
+5. Grok Bot
+
+i know there's a lot o…
+
+[查看原文](https://x.com/elonmusk/status/2115627899675988204)
+
+---
+
+## 2026-10-29 10:30:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That’s what I do too. Just have @Bot buy it somewhere else at a lower price.
+
+[查看原文](https://x.com/elonmusk/status/2115632219712811226)
+
+---
+
+## 2026-10-29 10:31:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Gabon’s government plans to authorize Starlink to help connect over 200 villages still without internet.
+
+Minister D…
+
+[查看原文](https://x.com/elonmusk/status/2115632689722392818)
+
+---
+
+## 2026-10-29 10:37:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+As the prophecy foretold, Starship 42 will be the first tower catch
+
+[查看原文](https://x.com/elonmusk/status/2115634093949911506)
+
+---
+
+## 2026-10-29 10:38:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Buy from @Shopify!
+
+[查看原文](https://x.com/elonmusk/status/2115634265702678859)
 
 ---
 

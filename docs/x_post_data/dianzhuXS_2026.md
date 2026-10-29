@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 615 条推文
+> 📊 推文存档 - 共 616 条推文
 
 ---
 
@@ -50,7 +50,37 @@ tags: ["2026"]
 李在明説這話的底氣在於
 韓國的出生率這兩年觸底反彈了
 
-[查看原文](https://x.com/dianzhuXS/status/2115593031621677524)
+---
+
+## 2026-10-29 10:20:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+2033年之後
+大概就會有「好日子」
+但是2030年之前
+這個地球
+是肯定要消失一批人的
+有的是肉體毀滅
+有的是靈魂潰散
+還有的是肉體靈魂全部消失
+就像從未來過一樣
+不留一丁點痕跡
+
+現在其實已經開始了
+只是還有很多人不相信
+2028是個轉折點
+屆時無人再質疑
+如何熬過去
+是全人類的課題
+
+你們問我 https://t.co/JUB7s51I0A
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINymrisavbxnvZhnWHOJiF-NclO0FHAALRE2sbMpERV1PPcwKRHD_XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2115629919795638282)
 
 ---
 
