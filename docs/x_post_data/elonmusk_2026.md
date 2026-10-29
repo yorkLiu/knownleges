@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4115 条推文
+> 📊 推文存档 - 共 4118 条推文
 
 ---
 
@@ -311,8 +311,6 @@ True
 
 Try Grok Bot
 
-[查看原文](https://x.com/elonmusk/status/2115642175199350785)
-
 ---
 
 ## 2026-10-29 11:12:42
@@ -325,7 +323,46 @@ RT @dvorahfr: One of the great joys of AI is the ability to mix and match styles
 
 Do you have any ideas for style combina…
 
-[查看原文](https://x.com/elonmusk/status/2115642958108139809)
+---
+
+## 2026-10-29 12:20:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Elon on why Starlink matters most when disaster hits
+Fires, floods and storms knock out fiber and cell towers. Starlink…
+
+[查看原文](https://x.com/elonmusk/status/2115659967868916156)
+
+---
+
+## 2026-10-29 12:21:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @sourceryy: The problems Neuralink are solving are almost “biblical in proportion.”
+
+“The lame can walk. The mute can speak.”
+
+— Thrive…
+
+[查看原文](https://x.com/elonmusk/status/2115660146542092332)
+
+---
+
+## 2026-10-29 12:37:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2115664319278973255)
 
 ---
 
