@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4136 条推文
+> 📊 推文存档 - 共 4137 条推文
+
+---
+
+## 2026-10-30 01:38:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Irony Man https://t.co/yzaoWZOPGp
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN0Wrji5uCDSt1w1W4AmrRvUJJo-8zAAK0FmsbMpEZV6-QLC2Mx4ToAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2115860783800135853)
 
 ---
 
