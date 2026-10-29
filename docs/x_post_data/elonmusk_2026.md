@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4113 条推文
+> 📊 推文存档 - 共 4115 条推文
 
 ---
 
@@ -193,8 +193,6 @@ RT @satyanadella: Just wrapped our earnings call. It was a fast start to our fis
 
 Microsoft Cloud revenue surpassed $63B, with gro…
 
-[查看原文](https://x.com/elonmusk/status/2115636841034797123)
-
 ---
 
 ## 2026-10-29 10:51:32
@@ -206,8 +204,6 @@ Microsoft Cloud revenue surpassed $63B, with gro…
 RT @beffjezos: Easy to be an Elon Stan in 2026
 
 Real ones were fans since the early 2000s
-
-[查看原文](https://x.com/elonmusk/status/2115637632890028454)
 
 ---
 
@@ -221,8 +217,6 @@ RT @boringcompany: Meet the Operations Team in the Global Ops Center in Bastrop,
 
 Today, the team is remotely controlling machines in V…
 
-[查看原文](https://x.com/elonmusk/status/2115638533830607323)
-
 ---
 
 ## 2026-10-29 10:55:48
@@ -232,8 +226,6 @@ Today, the team is remotely controlling machines in V…
 **内容**:
 
 RT @EvaFox: Movistar and Orange turned to SpaceX's Starlink satellites to keep phones connected at the site of Wednesday's deadly high-spee…
-
-[查看原文](https://x.com/elonmusk/status/2115638705516171307)
 
 ---
 
@@ -247,8 +239,6 @@ If you look closely enough, breakthroughs in everything are accelerating exponen
 
 An exponential always starts off looking small.
 
-[查看原文](https://x.com/elonmusk/status/2115640651517939785)
-
 ---
 
 ## 2026-10-29 11:03:53
@@ -258,8 +248,6 @@ An exponential always starts off looking small.
 **内容**:
 
 RT @ResisttheMS: Elon Musk: "We should really look at anyone who permanently castr*tes a kid as right up there with Josef Mengele. They're…
-
-[查看原文](https://x.com/elonmusk/status/2115640738348208197)
 
 ---
 
@@ -271,8 +259,6 @@ RT @ResisttheMS: Elon Musk: "We should really look at anyone who permanently cas
 
 RT @AnthropicAI: Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developin…
 
-[查看原文](https://x.com/elonmusk/status/2115640844216832143)
-
 ---
 
 ## 2026-10-29 11:06:14
@@ -283,8 +269,6 @@ RT @AnthropicAI: Over the past few months, Anthropic scientists have engaged in 
 
 Standard practice
 
-[查看原文](https://x.com/elonmusk/status/2115641332035465243)
-
 ---
 
 ## 2026-10-29 11:06:44
@@ -294,8 +278,6 @@ Standard practice
 **内容**:
 
 RT @united: @danorlovsky7 @PatMcAfeeShow We have inflight Wi-Fi that actually works
-
-[查看原文](https://x.com/elonmusk/status/2115641455889035709)
 
 ---
 
@@ -309,8 +291,6 @@ RT @united: 44% of our @starlink installations are complete.
 
 (That’s 44 out of every 100 if you're reading this, Dan Orlovsky.)
 
-[查看原文](https://x.com/elonmusk/status/2115641480417313014)
-
 ---
 
 ## 2026-10-29 11:08:58
@@ -321,7 +301,31 @@ RT @united: 44% of our @starlink installations are complete.
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2115642019791896679)
+---
+
+## 2026-10-29 11:09:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok Bot
+
+[查看原文](https://x.com/elonmusk/status/2115642175199350785)
+
+---
+
+## 2026-10-29 11:12:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dvorahfr: One of the great joys of AI is the ability to mix and match styles however I please.
+
+Do you have any ideas for style combina…
+
+[查看原文](https://x.com/elonmusk/status/2115642958108139809)
 
 ---
 
