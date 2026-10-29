@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4118 条推文
+> 📊 推文存档 - 共 4120 条推文
 
 ---
 
@@ -334,8 +334,6 @@ Do you have any ideas for style combina…
 RT @teslaownersSV: Elon on why Starlink matters most when disaster hits
 Fires, floods and storms knock out fiber and cell towers. Starlink…
 
-[查看原文](https://x.com/elonmusk/status/2115659967868916156)
-
 ---
 
 ## 2026-10-29 12:21:00
@@ -350,8 +348,6 @@ RT @sourceryy: The problems Neuralink are solving are almost “biblical in prop
 
 — Thrive…
 
-[查看原文](https://x.com/elonmusk/status/2115660146542092332)
-
 ---
 
 ## 2026-10-29 12:37:35
@@ -362,7 +358,33 @@ RT @sourceryy: The problems Neuralink are solving are almost “biblical in prop
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2115664319278973255)
+---
+
+## 2026-10-29 13:27:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: 83% of Americans wanted photo ID to vote, including 71% of Democrats. 
+
+Their voters supported it but their politicians blocke…
+
+[查看原文](https://x.com/elonmusk/status/2115676754388103482)
+
+---
+
+## 2026-10-29 13:43:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: You can get a used Model 3 for less than a fully loaded 16" OLED MacBook Pro:
+
+• 2020 Model 3 Standard Range with 95k mi…
+
+[查看原文](https://x.com/elonmusk/status/2115680990366765344)
 
 ---
 
