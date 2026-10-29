@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 527 条推文
+> 📊 推文存档 - 共 528 条推文
+
+---
+
+## 2026-10-29 10:00:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.
+
+Attempting to vertically integrate the most supply constrained chokepoints… with lasers.
+
+Is very big brain if they pull it off and suddenly makes other laser players more strategically valuable. https://t.co/61vfIIsBRw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINyWriql_JJOLGFExB9EV25P0Ve7RzAAJAE2sbMpERV71KaxM0hI1ZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2115624832947917083)
 
 ---
 
