@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4134 条推文
+> 📊 推文存档 - 共 4136 条推文
 
 ---
 
@@ -531,9 +531,31 @@ RT @Vitaliyeyes: Anthropic has filed for a record $2 trillion IPO. In a talk upl
 
 RT @AdamLowisz: @elonmusk @m_goes_distance True 😂 https://t.co/rX4pUgrbtL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN0GrjYAOE7VXMA2jztscO3m-iJWAWAAJfFmsbMpEZV1K_gAgzAZKmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2115821203239907550)
+## 2026-10-29 23:08:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting
+
+[查看原文](https://x.com/elonmusk/status/2115823011399938182)
+
+---
+
+## 2026-10-29 23:19:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Our civilization would be winning wondrously if we are exploring the galaxy with Von Neumann probes by 2100!
+
+Larry Page might be right. He has correctly predicted many things.
+
+[查看原文](https://x.com/elonmusk/status/2115825787647496203)
 
 ---
 
