@@ -7,7 +7,22 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 439 条推文
+> 📊 推文存档 - 共 440 条推文
+
+---
+
+## 2026-10-29 19:57:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+微软发债250亿，全都在发，今年大厂的现金流见底了，明年承诺的更大规模AI财务开支不得都靠发债来解决，不应该流入市场的钱被他们强行借了放到市场里，
+通胀不可能下去肯定还要加息。 https://t.co/rDVL3tcKkS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINzGrjO6545nXpCXwBnHdN08TaoA91AALoFWsbMpEZV8CUf-Y3fS3nAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2115775121902449059)
 
 ---
 

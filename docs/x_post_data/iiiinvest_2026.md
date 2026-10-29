@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 167 条推文
+> 📊 推文存档 - 共 168 条推文
 
 ---
 
@@ -43,7 +43,27 @@ tags: ["2026"]
 
 大科技的资本开支就是半导体的收入，开支降低说明钱赚不到想想那么多，大科技不赚钱说明半导体想象空间变了。
 
-[查看原文](https://x.com/iiiinvest/status/2115632578229367058)
+---
+
+## 2026-10-29 20:16:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这轮半导体反弹赚了30万美金。
+
+SOXL赚13.7万，美光赚14万，TQQQ赚2.5万。
+
+这轮其实做的一般，因为SOXL最大亏损时都70多万美金了，归根结底是该止损时没跟上，不然应该赚更多。
+
+希望兄弟们也都赚点🫡 https://t.co/OUhvKpILxw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINzWrjO7V7EE9hsGeHrutw8h6ZPUhgAALpFWsbMpEZV3DjRD1R_ZguAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINzmrjO7f-MK4o5va710VWq5GX_zReAALqFWsbMpEZV7s5PssF4fTCAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2115779834525921652)
 
 ---
 
