@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 616 条推文
+> 📊 推文存档 - 共 617 条推文
 
 ---
 
@@ -78,9 +78,18 @@ tags: ["2026"]
 
 你們問我 https://t.co/JUB7s51I0A
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINymrisavbxnvZhnWHOJiF-NclO0FHAALRE2sbMpERV1PPcwKRHD_XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2115629919795638282)
+## 2026-10-29 19:54:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+問一下～
+五中全會拿下200斤了嗎？
+
+[查看原文](https://x.com/dianzhuXS/status/2115774305934168360)
 
 ---
 
