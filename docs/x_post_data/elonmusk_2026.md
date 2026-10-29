@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4137 条推文
+> 📊 推文存档 - 共 4141 条推文
 
 ---
 
@@ -19,9 +19,59 @@ tags: ["2026"]
 
 RT @cb_doge: Irony Man https://t.co/yzaoWZOPGp
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN0Wrji5uCDSt1w1W4AmrRvUJJo-8zAAK0FmsbMpEZV6-QLC2Mx4ToAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2115860783800135853)
+## 2026-10-30 03:59:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JeremyTate41: I am speechless. Thomas Aquinas College just dropped a study on the rigor of the new SAT.
+
+It compares the 1980/87 test w…
+
+[查看原文](https://x.com/elonmusk/status/2115896308930322709)
+
+---
+
+## 2026-10-30 04:02:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: SpaceX is accusing T-Mobile and other legacy carriers of deliberately trying to harm the company and undermine @Starlink…
+
+[查看原文](https://x.com/elonmusk/status/2115896971521413486)
+
+---
+
+## 2026-10-30 04:02:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @QuincyEdmundLee: Grok Bot is legitimately amazing
+
+As one employee told me "Grok Bot gets shit done" 
+
+We already have around 100-150 @…
+
+[查看原文](https://x.com/elonmusk/status/2115897132255478258)
+
+---
+
+## 2026-10-30 04:03:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Last week, we hosted Accessibility Day with members of the disabled community – their feedback goes directly into all Robotax…
+
+[查看原文](https://x.com/elonmusk/status/2115897232235065650)
 
 ---
 
