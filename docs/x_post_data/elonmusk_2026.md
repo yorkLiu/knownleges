@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4146 条推文
+> 📊 推文存档 - 共 4148 条推文
 
 ---
 
@@ -87,8 +87,6 @@ RT @AngelaPaxtonTX: We only have TWO DAYS LEFT of EARLY VOTING. Have you cast yo
 
 I voted on Sunday at my neighborhood fire…
 
-[查看原文](https://x.com/elonmusk/status/2115933525056925895)
-
 ---
 
 ## 2026-10-30 06:32:29
@@ -98,10 +96,6 @@ I voted on Sunday at my neighborhood fire…
 **内容**:
 
 RT @cb_doge: Elon Musk at Tesla’s headquarters in San Carlos, California, in 2009. https://t.co/pgKUsXXtCv
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN0mrjzOMsLhYoD8QAAX1Ki2gp_8cPOgACFBdrGzKRGVeUf4WAoYLJaAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2115934826825937358)
 
 ---
 
@@ -113,8 +107,6 @@ RT @cb_doge: Elon Musk at Tesla’s headquarters in San Carlos, California, in 2
 
 Everyday is Zeroday
 
-[查看原文](https://x.com/elonmusk/status/2115935053347786773)
-
 ---
 
 ## 2026-10-30 06:34:49
@@ -125,7 +117,34 @@ Everyday is Zeroday
 
 The fraudsters always had outsized moral outrage and the most heart-breaking stories that were … totally false
 
-[查看原文](https://x.com/elonmusk/status/2115935413882048832)
+---
+
+## 2026-10-30 07:00:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Geiger_Capital: "The most diverse cabinet in history…"
+
+88% Black. Virginia is 20% black.
+0% White men. Virginia is 30% White men.
+
+Fri…
+
+[查看原文](https://x.com/elonmusk/status/2115941864939405753)
+
+---
+
+## 2026-10-30 07:04:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://x.com/elonmusk/status/2115943007627141584)
 
 ---
 
