@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4122 条推文
+> 📊 推文存档 - 共 4123 条推文
 
 ---
 
@@ -393,8 +393,6 @@ RT @SawyerMerritt: You can get a used Model 3 for less than a fully loaded 16" O
 RT @elonmusk: @m_goes_distance I think I’m Steve
 https://t.co/jxA4stvHbF
 
-[查看原文](https://x.com/elonmusk/status/2115687257311232391)
-
 ---
 
 ## 2026-10-29 14:12:46
@@ -405,7 +403,17 @@ https://t.co/jxA4stvHbF
 
 RT @EddiePast1: The fact that I’m on an international flight, running Grok, replying to feedback on X, and building cool as shit with the t…
 
-[查看原文](https://x.com/elonmusk/status/2115688273221923053)
+---
+
+## 2026-10-29 14:20:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dwarkeshpodcast: Instead of Space Age carbon fiber or aluminum-lithium, SpaceX is building its Starship rocket out of stainless steel.…
+
+[查看原文](https://x.com/elonmusk/status/2115690222608593378)
 
 ---
 
