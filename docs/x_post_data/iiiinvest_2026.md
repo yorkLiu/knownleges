@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 168 条推文
+> 📊 推文存档 - 共 169 条推文
 
 ---
 
@@ -59,11 +59,23 @@ SOXL赚13.7万，美光赚14万，TQQQ赚2.5万。
 
 希望兄弟们也都赚点🫡 https://t.co/OUhvKpILxw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINzWrjO7V7EE9hsGeHrutw8h6ZPUhgAALpFWsbMpEZV3DjRD1R_ZguAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINzmrjO7f-MK4o5va710VWq5GX_zReAALqFWsbMpEZV7s5PssF4fTCAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-10-29 22:17:51
 
-[查看原文](https://x.com/iiiinvest/status/2115779834525921652)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我感觉接下来的机会在：比特币
+
+最近纳指下跌，比特币有好几次跌破8万，但跌破后都没有加速，而是很快又收回到8万以上。
+
+今天纳指奔着-2%去了，比特币竟然还能在8万左右晃悠。说明很强，真的很强。 https://t.co/WvrKHeshSb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAINz2rjWMTDodUUsLILm20CO8KsnkuUAAJEFmsbMpEZV9aMNwfcj_ojAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2115810346586055027)
 
 ---
 

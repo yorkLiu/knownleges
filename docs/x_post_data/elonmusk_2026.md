@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4124 条推文
+> 📊 推文存档 - 共 4133 条推文
 
 ---
 
@@ -425,7 +425,119 @@ RT @matteosalvinimi: Very positive and constructive conversation with @elonmusk 
 
 Italy is looking with great interest at the opportu…
 
-[查看原文](https://x.com/elonmusk/status/2115791378663743599)
+---
+
+## 2026-10-29 22:14:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @buttonslives: NEW UNDERCOVER INVESTIGATION: I spent several months investigating a nationwide network of advocacy organizations and med…
+
+[查看原文](https://x.com/elonmusk/status/2115809559835197789)
+
+---
+
+## 2026-10-29 22:14:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Similarweb: As of October 26, Grok Bot has grown in DAUs for 16 consecutive days, its longest growth streak to date. https://t.co/WoHJ5…
+
+[查看原文](https://x.com/elonmusk/status/2115809614738436268)
+
+---
+
+## 2026-10-29 22:15:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Elon Musk presenting about SpaceX rockets in 2008.
+
+No slides. No notes. No PowerPoint. No teleprompter.
+
+Just his vision, his…
+
+[查看原文](https://x.com/elonmusk/status/2115809735949832303)
+
+---
+
+## 2026-10-29 22:15:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BillAckman: How can @MIT and President Kornbluth sit back and allow Kristin Knouse to remain on the MIT faculty when she has been found…
+
+[查看原文](https://x.com/elonmusk/status/2115809804832940412)
+
+---
+
+## 2026-10-29 22:15:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Medan City Government in Indonesia has announced plans to use @Starlink for flood emergencies. 🇮🇩
+
+The move follows…
+
+[查看原文](https://x.com/elonmusk/status/2115809852081545381)
+
+---
+
+## 2026-10-29 22:16:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ResisttheMS: Elon Musk: "The fundamental weakness of Western civilization is empathy… We've got civilizational su*cidal empathy going o…
+
+[查看原文](https://x.com/elonmusk/status/2115809922457931860)
+
+---
+
+## 2026-10-29 22:18:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @sfmcguire79: This is so incredibly lame. And every Princeton freshman was required to sit through this during orientation. https://t.co…
+
+[查看原文](https://x.com/elonmusk/status/2115810449077985591)
+
+---
+
+## 2026-10-29 22:18:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: After SpaceX's very first Falcon 1 rocket failed in March 2006, the team was exhausted and heartbroken. Elon Musk instead of on…
+
+[查看原文](https://x.com/elonmusk/status/2115810490157072405)
+
+---
+
+## 2026-10-29 22:26:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Vitaliyeyes: Anthropic has filed for a record $2 trillion IPO. In a talk uploaded November 30, 2025, a stockbroker asked Elon Musk whic…
+
+[查看原文](https://x.com/elonmusk/status/2115812515032486178)
 
 ---
 
