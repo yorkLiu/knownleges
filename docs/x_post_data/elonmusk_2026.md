@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4158 条推文
+> 📊 推文存档 - 共 4162 条推文
 
 ---
 
@@ -184,8 +184,6 @@ Tomorrow is the last day of early voting in Texas.
 
 Vote for @KenPaxtonTX!
 
-[查看原文](https://x.com/elonmusk/status/2116002744586920092)
-
 ---
 
 ## 2026-10-30 11:02:31
@@ -197,8 +195,6 @@ Vote for @KenPaxtonTX!
 RT @StarbaseTX: Introducing the City of Starbase Police Department's Cybertrucks! 
 
 As we build Starbase's first municipal police departmen…
-
-[查看原文](https://x.com/elonmusk/status/2116002781647499653)
 
 ---
 
@@ -212,8 +208,6 @@ RT @Dogetothemoon: Elon and Larry Page, mid-2000s, just two friends at lunch.
 
 Page later called him a “speciesist.” Musk started OpenAI pa…
 
-[查看原文](https://x.com/elonmusk/status/2116003300898111598)
-
 ---
 
 ## 2026-10-30 11:06:23
@@ -223,8 +217,6 @@ Page later called him a “speciesist.” Musk started OpenAI pa…
 **内容**:
 
 RT @ID_AA_Carmack: AI may well be able to write massive software projects “from scratch”, but that almost certainly isn’t the fastest / hig…
-
-[查看原文](https://x.com/elonmusk/status/2116003755078381762)
 
 ---
 
@@ -240,8 +232,6 @@ RT @jawwwn_: .@elonmusk on Ben Franklin:
 
 "He was an entrepreneur. He started from nothing, and was actually…
 
-[查看原文](https://x.com/elonmusk/status/2116004241701818430)
-
 ---
 
 ## 2026-10-30 11:12:59
@@ -251,8 +241,6 @@ RT @jawwwn_: .@elonmusk on Ben Franklin:
 **内容**:
 
 RT @elonmusk: @cryptoblaney Super intelligence agents will at some point do this to gain currency for themselves, not a human
-
-[查看原文](https://x.com/elonmusk/status/2116005417591636319)
 
 ---
 
@@ -264,7 +252,59 @@ RT @elonmusk: @cryptoblaney Super intelligence agents will at some point do this
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2116006456763818028)
+---
+
+## 2026-10-30 12:01:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+BABY, YOU FLEW https://t.co/SKaWaDOuTN
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN1WrkHNNA3zHuAiPR5US5_j150tX5AALpFGsbkg0gVyeZjMrcVeG_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116017528036327934)
+
+---
+
+## 2026-10-30 12:02:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @prattprattpratt: Before Hollywood, I was living in a van in Hawaii and waiting tables at Bubba Gump Shrimp Company. One day, the incred…
+
+[查看原文](https://x.com/elonmusk/status/2116017879825138061)
+
+---
+
+## 2026-10-30 12:06:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Neuralink’s first product is called Telepathy. 
+
+It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.
+
+[查看原文](https://x.com/elonmusk/status/2116018780111597911)
+
+---
+
+## 2026-10-30 12:10:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Our second product is called Blindsight and it will, as the name suggests, enable even those who are completely blind or have never seen to see.
+
+It is ready from an engineering standpoint. Just waiting on regulatory approval.
+
+[查看原文](https://x.com/elonmusk/status/2116019939056513218)
 
 ---
 

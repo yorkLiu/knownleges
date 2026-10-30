@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 624 条推文
+> 📊 推文存档 - 共 625 条推文
 
 ---
 
@@ -74,7 +74,21 @@ tags: ["2026"]
 
 說得好👍
 
-[查看原文](https://x.com/dianzhuXS/status/2116014293418414203)
+---
+
+## 2026-10-30 12:17:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+秋冬季節，都別忘了，大面膜糊起來呦
+即使不為容顏，為補水也是必要的
+BTW面膜過後，心情會變的愉悅😀 https://t.co/naoNu17hZK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN1mrkHNkMpcDGrvRWCgaMM9Biyr2pAALqFGsbkg0gV6ADc8hc0o79AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2116021715260334583)
 
 ---
 
