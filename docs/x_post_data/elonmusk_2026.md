@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4174 条推文
+> 📊 推文存档 - 共 4185 条推文
 
 ---
 
@@ -360,8 +360,6 @@ Last week, I was invited to Los Angeles for the LD Micro conference to give a ke
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2116034741224784288)
-
 ---
 
 ## 2026-10-30 13:12:01
@@ -371,8 +369,6 @@ True
 **内容**:
 
 The Terafab project is going well
-
-[查看原文](https://x.com/elonmusk/status/2116035373361230325)
 
 ---
 
@@ -386,8 +382,6 @@ RT @teslaenergy: Your heat pump is one of the biggest electrical loads in your h
 
 Heat Pump Optimization allows your Powerwall to boost…
 
-[查看原文](https://x.com/elonmusk/status/2116035463311933598)
-
 ---
 
 ## 2026-10-30 13:18:49
@@ -400,10 +394,6 @@ RT @iamyesyouareno: What being a White minority looks like.
 
 Prepare accordingly. https://t.co/OyRCzu8Zph
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN12rkK1hSNeNkR3IY9dOzjngGjtTbAAIBFWsbkg0gV6ut0mxmc2vcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116037081873146295)
-
 ---
 
 ## 2026-10-30 13:19:11
@@ -414,8 +404,6 @@ Prepare accordingly. https://t.co/OyRCzu8Zph
 
 RT @aaronburnett: Humans were meant to explore.
 
-[查看原文](https://x.com/elonmusk/status/2116037175259042095)
-
 ---
 
 ## 2026-10-30 13:21:24
@@ -425,8 +413,6 @@ RT @aaronburnett: Humans were meant to explore.
 **内容**:
 
 🇺🇸🇺🇸 I voted early today in Texas!! 🇺🇸🇺🇸
-
-[查看原文](https://x.com/elonmusk/status/2116037732845957434)
 
 ---
 
@@ -442,7 +428,151 @@ My biggest concern is that if there is a clean sweep by Democrats of the House, 
 
 2. Open the borders and legalize everyone living in America illegally to cement
 
-[查看原文](https://x.com/elonmusk/status/2116039632743702637)
+---
+
+## 2026-10-30 13:31:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ziggyfro: “Would you repeat, Dr Seldon, your thoughts concerning the future of Trantor?
+A: I have said. and I say again, that Trantor w…
+
+[查看原文](https://x.com/elonmusk/status/2116040226904621365)
+
+---
+
+## 2026-10-30 13:31:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: Vice President JD Vance: “Texas is not becoming California, it’s going to stay Texas.” https://t.co/K1HL5BZqcL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN2WrkMp9JT1PRZr-8sMY8gTfg7bbLAAILFWsbkg0gVyg4v2ghF0u0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116040322241208385)
+
+---
+
+## 2026-10-30 13:32:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @elonmusk @joshblaster_ @petejonesintx Thath the Tyson special. Glad it hit. Now kith. 🥊
+
+[查看原文](https://x.com/elonmusk/status/2116040574037901715)
+
+---
+
+## 2026-10-30 13:36:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: Friday is the last day to Vote Early in Texas.
+
+Get out and VOTE Republican.
+
+Info Here: https://t.co/KwVDtLoiDS https://t.co/…
+
+[查看原文](https://x.com/elonmusk/status/2116041443152461931)
+
+---
+
+## 2026-10-30 13:39:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Vote Republican!
+
+[查看原文](https://x.com/elonmusk/status/2116042226598056033)
+
+---
+
+## 2026-10-30 13:41:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GabsClark5: I VOTED FOR @KenPaxtonTX!!! https://t.co/HhgYgcI4Co
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN2GrkMpy6Mot-02vcW9mn2kyUumthAAIKFWsbkg0gVwJGxqLtCrmFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116042705604391177)
+
+---
+
+## 2026-10-30 13:42:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+At least
+
+[查看原文](https://x.com/elonmusk/status/2116043113747902737)
+
+---
+
+## 2026-10-30 13:47:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrookeLRollins: BACK HOME IN TEXAS! 🇺🇸
+
+I was raised in a small Texas town where faith, family, hard work, and freedom weren’t just wor…
+
+[查看原文](https://x.com/elonmusk/status/2116044193302806831)
+
+---
+
+## 2026-10-30 13:51:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FreeAndWhiskey: This proud American of Puerto Rican ancestry just voted RED all the way down the ballot!
+
+❤️🇺🇸
+VOTE. VOTE RED. https://…
+
+[查看原文](https://x.com/elonmusk/status/2116045238317805599)
+
+---
+
+## 2026-10-30 13:57:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is what really matters
+
+[查看原文](https://x.com/elonmusk/status/2116046885559414996)
+
+---
+
+## 2026-10-30 14:00:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It would be game over for America
+
+[查看原文](https://x.com/elonmusk/status/2116047608036888796)
 
 ---
 
