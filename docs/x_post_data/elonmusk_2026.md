@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4217 条推文
+> 📊 推文存档 - 共 4219 条推文
 
 ---
 
@@ -766,8 +766,6 @@ RT @elonmusk: My biggest concern is that if there is a clean sweep by Democrats 
 
 The Democrats intend to cement one-party rule forever and make “democracy” meaningless, as they have done in California
 
-[查看原文](https://x.com/elonmusk/status/2116165938525741496)
-
 ---
 
 ## 2026-10-30 21:53:35
@@ -780,8 +778,6 @@ RT @RealJasonNelson: I didn’t receive my ballot in Afghanistan and vowed to ne
 
 So I’m driving 1600 miles in 2 days…
 
-[查看原文](https://x.com/elonmusk/status/2116166629214052475)
-
 ---
 
 ## 2026-10-30 21:55:33
@@ -791,8 +787,6 @@ So I’m driving 1600 miles in 2 days…
 **内容**:
 
 RT @mayemusk: Vote ❤️🇺🇸
-
-[查看原文](https://x.com/elonmusk/status/2116167124561653886)
 
 ---
 
@@ -806,8 +800,6 @@ RT @NancyMace: YES. This is exactly what they will do. They’ve said as much fo
 
 Statehood for DC &amp; Puerto Rico. Blanket amnesty. Co…
 
-[查看原文](https://x.com/elonmusk/status/2116167344057946550)
-
 ---
 
 ## 2026-10-30 21:56:35
@@ -817,8 +809,6 @@ Statehood for DC &amp; Puerto Rico. Blanket amnesty. Co…
 **内容**:
 
 RT @bennyjohnson: The most important post in the history of X right here 👇🏻👇🏻👇🏻
-
-[查看原文](https://x.com/elonmusk/status/2116167382175473833)
 
 ---
 
@@ -830,8 +820,6 @@ RT @bennyjohnson: The most important post in the history of X right here 👇�
 
 RT @cb_doge: BREAKING: South Sudan’s Western Equatoria government has announced plans to install @Starlink along the DRC border to strength…
 
-[查看原文](https://x.com/elonmusk/status/2116167714972856352)
-
 ---
 
 ## 2026-10-30 21:58:48
@@ -842,8 +830,6 @@ RT @cb_doge: BREAKING: South Sudan’s Western Equatoria government has announce
 
 RT @w_terrence: Leave me alone! Looks like I triggered a whole lot of people because I voted RED and voted for every Republican on my ballo…
 
-[查看原文](https://x.com/elonmusk/status/2116167942153117803)
-
 ---
 
 ## 2026-10-30 22:05:41
@@ -853,8 +839,6 @@ RT @w_terrence: Leave me alone! Looks like I triggered a whole lot of people bec
 **内容**:
 
 RT @p_ferragu: My friends - go and vote. The risk on our beautiful democracy is not where the media want you to think it is!
-
-[查看原文](https://x.com/elonmusk/status/2116169672794251331)
 
 ---
 
@@ -868,8 +852,6 @@ RT @cb_doge: SpaceX is “the single most undervalued opportunity on the planet,
 
 He says he wants to invest in opti…
 
-[查看原文](https://x.com/elonmusk/status/2116169728716628345)
-
 ---
 
 ## 2026-10-30 22:06:37
@@ -879,8 +861,6 @@ He says he wants to invest in opti…
 **内容**:
 
 RT @elonmusk: It would be game over for America
-
-[查看原文](https://x.com/elonmusk/status/2116169909306556442)
 
 ---
 
@@ -893,8 +873,6 @@ RT @elonmusk: It would be game over for America
 RT @XFreeze: If Democrats sweep the House, Senate and Presidency in 2028, there will not be any meaningful elections ever again
 
 Democrats…
-
-[查看原文](https://x.com/elonmusk/status/2116171282626617712)
 
 ---
 
@@ -909,8 +887,6 @@ RT @w_terrence: How can you love America and vote for a democrat?
 How can you call yourself a republican and vote for democrat
 
 Please do…
-
-[查看原文](https://x.com/elonmusk/status/2116171497295536483)
 
 ---
 
@@ -929,7 +905,30 @@ Governor
 🔴 Greg Abbott 52%
 🔵 Gina Hino…
 
-[查看原文](https://x.com/elonmusk/status/2116171911994753158)
+---
+
+## 2026-10-30 22:23:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RyanAFournier: FINAL TEXAS POLL: Ken Paxton leads James Talarico 49.4% to 48.4%!
+This race is razor-thin, and the radical Democrats are…
+
+[查看原文](https://x.com/elonmusk/status/2116174046526321096)
+
+---
+
+## 2026-10-30 22:45:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In his own words
+
+[查看原文](https://x.com/elonmusk/status/2116179698267128211)
 
 ---
 
