@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4238 条推文
+> 📊 推文存档 - 共 4245 条推文
 
 ---
 
@@ -18,8 +18,6 @@ tags: ["2026"]
 **内容**:
 
 I miss Larry Page
-
-[查看原文](https://x.com/elonmusk/status/2116201375613018416)
 
 ---
 
@@ -35,8 +33,6 @@ RT @KanekoaTheGreat: Every word is James Talarico’s.
 
 “If you deny your ch…
 
-[查看原文](https://x.com/elonmusk/status/2116202380098154965)
-
 ---
 
 ## 2026-10-31 00:15:55
@@ -47,8 +43,6 @@ RT @KanekoaTheGreat: Every word is James Talarico’s.
 
 RT @ksorbs: If Democrats ever get the House, Senate and White House again, they'll make DC and Puerto Rico states and legalize everyone her…
 
-[查看原文](https://x.com/elonmusk/status/2116202447144398884)
-
 ---
 
 ## 2026-10-31 00:16:36
@@ -58,8 +52,6 @@ RT @ksorbs: If Democrats ever get the House, Senate and White House again, they'
 **内容**:
 
 RT @teslaownersSV: "I am a citizen of the United States and have only that passport. No matter what happens, I will fight for and die in Am…
-
-[查看原文](https://x.com/elonmusk/status/2116202620658586059)
 
 ---
 
@@ -74,8 +66,6 @@ RT @EndWokeness: Democrats are openly saying that if they get power, they will:
 ✅Mass amnesty (30M+ new voters)
 ✅End the filibuster, pack…
 
-[查看原文](https://x.com/elonmusk/status/2116202649037234644)
-
 ---
 
 ## 2026-10-31 00:17:19
@@ -85,8 +75,6 @@ RT @EndWokeness: Democrats are openly saying that if they get power, they will:
 **内容**:
 
 RT @rlloken: Totally blind, first ride in Robotaxi, the app was totally accessible, the ride accessible, the drop-off accessible, it felt u…
-
-[查看原文](https://x.com/elonmusk/status/2116202800279376143)
 
 ---
 
@@ -98,9 +86,95 @@ RT @rlloken: Totally blind, first ride in Robotaxi, the app was totally accessib
 
 RT @thirtythree: I still think this needs to be hung in the Louvre https://t.co/U0Nlk5QN0P
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN4Grkw-28oi2pdnAzX3eOgB5GYEueAALoFGsbkg0oVzRRdG-482ctAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2116202845250752600)
+## 2026-10-31 00:57:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @shaunmmaguire: @elonmusk The left thinks you’ve gotten involved in Politics out of a craving for power
+
+When in reality it seems like w…
+
+[查看原文](https://x.com/elonmusk/status/2116212878961258768)
+
+---
+
+## 2026-10-31 01:03:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mazemoore: Obama: End the filibuster and make Washington DC and Puerto Rico states.
+
+You are crazy if you don’t believe Democrats will…
+
+[查看原文](https://x.com/elonmusk/status/2116214372842500241)
+
+---
+
+## 2026-10-31 01:05:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasedMikeLee: “Diversity” (as that term is used here) just means “no white guys”
+
+[查看原文](https://x.com/elonmusk/status/2116214959596253265)
+
+---
+
+## 2026-10-31 01:05:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Cjpearson: Hi, black guy here! 
+
+This is actually the literal opposite of diversity 😂😂😂😂
+
+[查看原文](https://x.com/elonmusk/status/2116214981456760836)
+
+---
+
+## 2026-10-31 01:07:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TMZ: Ilhan Omar's Ex-Husband, Rumored to Be Her Brother, Says He's Gay https://t.co/0dH3mD0WvZ
+
+[查看原文](https://x.com/elonmusk/status/2116215529866486180)
+
+---
+
+## 2026-10-31 01:08:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2116215659214561518)
+
+---
+
+## 2026-10-31 01:19:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The Democrat Party is racist against Asians and Whites
+
+[查看原文](https://x.com/elonmusk/status/2116218370362122746)
 
 ---
 
