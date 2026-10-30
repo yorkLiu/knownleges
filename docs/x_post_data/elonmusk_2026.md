@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4263 条推文
+> 📊 推文存档 - 共 4268 条推文
 
 ---
 
@@ -250,8 +250,6 @@ RT @kcoleman: My favorite things about this:
 
 - You can see which of your posts have a visibility-limiting label, and decide if you think i…
 
-[查看原文](https://x.com/elonmusk/status/2116289807555162519)
-
 ---
 
 ## 2026-10-31 06:03:47
@@ -261,8 +259,6 @@ RT @kcoleman: My favorite things about this:
 **内容**:
 
 You can now find out if any reach limitations have been applied to your account
-
-[查看原文](https://x.com/elonmusk/status/2116289989914787912)
 
 ---
 
@@ -274,8 +270,6 @@ You can now find out if any reach limitations have been applied to your account
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2116291315432587740)
-
 ---
 
 ## 2026-10-31 06:11:01
@@ -285,8 +279,6 @@ True
 **内容**:
 
 Cool ❤️
-
-[查看原文](https://x.com/elonmusk/status/2116291813732495578)
 
 ---
 
@@ -300,8 +292,6 @@ RT @ns123abc: BREAKING: Google just proved AI data centers in space actually wor
 
 Project Suncatcher's first satellite, built with @planet…
 
-[查看原文](https://x.com/elonmusk/status/2116295774485041336)
-
 ---
 
 ## 2026-10-31 06:27:21
@@ -311,8 +301,6 @@ Project Suncatcher's first satellite, built with @planet…
 **内容**:
 
 RT @forwarddeploy: PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship
-
-[查看原文](https://x.com/elonmusk/status/2116295922644619729)
 
 ---
 
@@ -324,8 +312,6 @@ RT @forwarddeploy: PS - we’re hiring exceptional people if you want to come jo
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2116296050168508726)
-
 ---
 
 ## 2026-10-31 06:29:24
@@ -335,8 +321,6 @@ Yes
 **内容**:
 
 Eli Lilly has some banger drugs coming out!
-
-[查看原文](https://x.com/elonmusk/status/2116296438942765394)
 
 ---
 
@@ -350,8 +334,6 @@ RT @NewsFromGoogle: Our TPUs just phoned home... from space.
 
 ICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hard…
 
-[查看原文](https://x.com/elonmusk/status/2116296706958798865)
-
 ---
 
 ## 2026-10-31 06:31:00
@@ -361,8 +343,6 @@ ICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hard…
 **内容**:
 
 RT @heckyessica: If you’re a Texan who doesn’t vote for Paxton because your “conscience won’t allow it,” think about the fact that Talarico…
-
-[查看原文](https://x.com/elonmusk/status/2116296839410450606)
 
 ---
 
@@ -374,7 +354,69 @@ RT @heckyessica: If you’re a Texan who doesn’t vote for Paxton because your 
 
 RT @jhong: If you have a Tesla and haven't tried FSD in the last year, you need to try it again. Free month trial with this link. (i don't…
 
-[查看原文](https://x.com/elonmusk/status/2116296893122658424)
+---
+
+## 2026-10-31 07:03:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @fox7austin: A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters i…
+
+[查看原文](https://x.com/elonmusk/status/2116305092752093602)
+
+---
+
+## 2026-10-31 07:06:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Think of Grok @Bot as a work colleague
+
+[查看原文](https://x.com/elonmusk/status/2116305829381263528)
+
+---
+
+## 2026-10-31 07:08:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RyDawg42: @Texas_Twins_Dad I think you can use Allo. Then your Grok Bot can make calls?
+
+https://t.co/BW22NWDnFR
+
+[查看原文](https://x.com/elonmusk/status/2116306297041678675)
+
+---
+
+## 2026-10-31 07:09:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2116306579779731464)
+
+---
+
+## 2026-10-31 07:10:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @distributedkv: ngl i still think about this https://t.co/RsQP8REnJK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN42rlKYPIk5qNZ_gbLehjHm5hoXDDAAJLFWsbkg0oV0eMVHbBMqXLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116306821808017785)
 
 ---
 
