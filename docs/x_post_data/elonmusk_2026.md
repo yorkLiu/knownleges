@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4226 条推文
+> 📊 推文存档 - 共 4231 条推文
 
 ---
 
@@ -936,8 +936,6 @@ In his own words
 
 Vote today!
 
-[查看原文](https://x.com/elonmusk/status/2116183558729416712)
-
 ---
 
 ## 2026-10-30 23:01:51
@@ -947,8 +945,6 @@ Vote today!
 **内容**:
 
 Democrats will execute their plan to end democracy in America if they gain control
-
-[查看原文](https://x.com/elonmusk/status/2116183808211141028)
 
 ---
 
@@ -960,8 +956,6 @@ Democrats will execute their plan to end democracy in America if they gain contr
 
 RT @SawyerMerritt: Want even more evidence that @Tesla FSD is going mainstream? Here’s 2016 F1 World Champion Nico Rosberg after recently t…
 
-[查看原文](https://x.com/elonmusk/status/2116183862476751035)
-
 ---
 
 ## 2026-10-30 23:12:10
@@ -971,8 +965,6 @@ RT @SawyerMerritt: Want even more evidence that @Tesla FSD is going mainstream? 
 **内容**:
 
 This is literally their plan and they say it out loud!
-
-[查看原文](https://x.com/elonmusk/status/2116186406544413103)
 
 ---
 
@@ -986,8 +978,6 @@ RT @america: Texas, get out and Vote EARLY while you can.
 
 Info here: https://t.co/KwVDtLnKOk
 
-[查看原文](https://x.com/elonmusk/status/2116186522903044113)
-
 ---
 
 ## 2026-10-30 23:13:20
@@ -997,8 +987,6 @@ Info here: https://t.co/KwVDtLnKOk
 **内容**:
 
 Yes
-
-[查看原文](https://x.com/elonmusk/status/2116186700628066529)
 
 ---
 
@@ -1010,7 +998,71 @@ Yes
 
 RT @ResisttheMS: NVIDIA CEO Jensen Huang: "I think the Tesla stack is the most advanced AV stack in the world. I'm fairly certain they were…
 
-[查看原文](https://x.com/elonmusk/status/2116186761235706157)
+---
+
+## 2026-10-30 23:19:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Elon Musk in December 2008, at a holiday party in a Venice, California living room, explaining why rockets need to be re…
+
+[查看原文](https://x.com/elonmusk/status/2116188362432270362)
+
+---
+
+## 2026-10-30 23:25:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ShadeSalvo: Elon Musk makes a strong point here
+
+What happened to Brazil is knocking on the doors here in America
+
+So NOT let them take…
+
+[查看原文](https://x.com/elonmusk/status/2116189814735208576)
+
+---
+
+## 2026-10-30 23:28:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla Model Y long wheel base variant
+
+[查看原文](https://x.com/elonmusk/status/2116190494300504403)
+
+---
+
+## 2026-10-30 23:29:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Alexs_jame: Elon and Kimbal ate at the El Camino Jack in the Box almost every night in late 1995.
+
+Prices were low because people had d…
+
+[查看原文](https://x.com/elonmusk/status/2116190802346979396)
+
+---
+
+## 2026-10-30 23:31:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: 🚨 TEXAS: Today is the LAST DAY to vote early and control of the Senate comes down to YOUR STATE. Tax hikes. Open borders. Lawl…
+
+[查看原文](https://x.com/elonmusk/status/2116191352585068854)
 
 ---
 
