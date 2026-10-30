@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4167 条推文
+> 📊 推文存档 - 共 4174 条推文
 
 ---
 
@@ -306,8 +306,6 @@ It is ready from an engineering standpoint. Just waiting on regulatory approval.
 
 Hire Grok @Bot to be an employee
 
-[查看原文](https://x.com/elonmusk/status/2116025645385867631)
-
 ---
 
 ## 2026-10-30 12:36:28
@@ -318,8 +316,6 @@ Hire Grok @Bot to be an employee
 
 Hopefully, in a few years, we will be able to shunt signals from the motor and sensory areas of the brain to the limbs and enable people to use their hands and walk again
 
-[查看原文](https://x.com/elonmusk/status/2116026427128832140)
-
 ---
 
 ## 2026-10-30 12:39:14
@@ -329,8 +325,6 @@ Hopefully, in a few years, we will be able to shunt signals from the motor and s
 **内容**:
 
 It’s great @Bot
-
-[查看原文](https://x.com/elonmusk/status/2116027121545904387)
 
 ---
 
@@ -344,8 +338,6 @@ RT @Cyborg21: That's me. 72 hours of Neuralink engineers in my living room.
 
 Best part? Cheryl and I joked on the phone again. ALS sucks, m…
 
-[查看原文](https://x.com/elonmusk/status/2116027206392508455)
-
 ---
 
 ## 2026-10-30 12:50:55
@@ -358,7 +350,99 @@ RT @Gfilche: Keynote ⚡ Why I'm long $TSLA &amp; $SPCX
 
 Last week, I was invited to Los Angeles for the LD Micro conference to give a keynote a…
 
-[查看原文](https://x.com/elonmusk/status/2116030064164753852)
+---
+
+## 2026-10-30 13:09:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2116034741224784288)
+
+---
+
+## 2026-10-30 13:12:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The Terafab project is going well
+
+[查看原文](https://x.com/elonmusk/status/2116035373361230325)
+
+---
+
+## 2026-10-30 13:12:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaenergy: Your heat pump is one of the biggest electrical loads in your home
+
+Heat Pump Optimization allows your Powerwall to boost…
+
+[查看原文](https://x.com/elonmusk/status/2116035463311933598)
+
+---
+
+## 2026-10-30 13:18:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iamyesyouareno: What being a White minority looks like. 
+
+Prepare accordingly. https://t.co/OyRCzu8Zph
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN12rkK1hSNeNkR3IY9dOzjngGjtTbAAIBFWsbkg0gV6ut0mxmc2vcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116037081873146295)
+
+---
+
+## 2026-10-30 13:19:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aaronburnett: Humans were meant to explore.
+
+[查看原文](https://x.com/elonmusk/status/2116037175259042095)
+
+---
+
+## 2026-10-30 13:21:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🇺🇸🇺🇸 I voted early today in Texas!! 🇺🇸🇺🇸
+
+[查看原文](https://x.com/elonmusk/status/2116037732845957434)
+
+---
+
+## 2026-10-30 13:28:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My biggest concern is that if there is a clean sweep by Democrats of the House, Senate and Presidency in 2028, they will:
+
+1. Make DC and Puerto Rico states to gain a strong majority in the Senate. 
+
+2. Open the borders and legalize everyone living in America illegally to cement
+
+[查看原文](https://x.com/elonmusk/status/2116039632743702637)
 
 ---
 
