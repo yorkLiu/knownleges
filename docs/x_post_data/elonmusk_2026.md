@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4246 条推文
+> 📊 推文存档 - 共 4249 条推文
 
 ---
 
@@ -174,7 +174,43 @@ RT @ScottPresler: This is a reminder that it’s the LAST DAY of early, in-perso
 
 @KenPaxtonTX
 
-[查看原文](https://x.com/elonmusk/status/2116219398566584450)
+---
+
+## 2026-10-31 02:47:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This would be the end of democracy in America
+
+[查看原文](https://x.com/elonmusk/status/2116240704393351411)
+
+---
+
+## 2026-10-31 02:49:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Polito_loco: Well, now I am a free man and the dust is starting to settle I can now be FULLY transparent without repercussion. 
+
+@Globa…
+
+[查看原文](https://x.com/elonmusk/status/2116241165720695006)
+
+---
+
+## 2026-10-31 02:54:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good video about @Neuralink
+
+[查看原文](https://x.com/elonmusk/status/2116242462582989090)
 
 ---
 
