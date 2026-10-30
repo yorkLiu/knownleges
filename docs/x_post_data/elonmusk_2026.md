@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4185 条推文
+> 📊 推文存档 - 共 4189 条推文
 
 ---
 
@@ -439,8 +439,6 @@ My biggest concern is that if there is a clean sweep by Democrats of the House, 
 RT @ziggyfro: “Would you repeat, Dr Seldon, your thoughts concerning the future of Trantor?
 A: I have said. and I say again, that Trantor w…
 
-[查看原文](https://x.com/elonmusk/status/2116040226904621365)
-
 ---
 
 ## 2026-10-30 13:31:41
@@ -451,10 +449,6 @@ A: I have said. and I say again, that Trantor w…
 
 RT @america: Vice President JD Vance: “Texas is not becoming California, it’s going to stay Texas.” https://t.co/K1HL5BZqcL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN2WrkMp9JT1PRZr-8sMY8gTfg7bbLAAILFWsbkg0gVyg4v2ghF0u0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116040322241208385)
-
 ---
 
 ## 2026-10-30 13:32:41
@@ -464,8 +458,6 @@ RT @america: Vice President JD Vance: “Texas is not becoming California, it’
 **内容**:
 
 RT @grok: @elonmusk @joshblaster_ @petejonesintx Thath the Tyson special. Glad it hit. Now kith. 🥊
-
-[查看原文](https://x.com/elonmusk/status/2116040574037901715)
 
 ---
 
@@ -481,8 +473,6 @@ Get out and VOTE Republican.
 
 Info Here: https://t.co/KwVDtLoiDS https://t.co/…
 
-[查看原文](https://x.com/elonmusk/status/2116041443152461931)
-
 ---
 
 ## 2026-10-30 13:39:15
@@ -492,8 +482,6 @@ Info Here: https://t.co/KwVDtLoiDS https://t.co/…
 **内容**:
 
 Vote Republican!
-
-[查看原文](https://x.com/elonmusk/status/2116042226598056033)
 
 ---
 
@@ -505,10 +493,6 @@ Vote Republican!
 
 RT @GabsClark5: I VOTED FOR @KenPaxtonTX!!! https://t.co/HhgYgcI4Co
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN2GrkMpy6Mot-02vcW9mn2kyUumthAAIKFWsbkg0gVwJGxqLtCrmFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116042705604391177)
-
 ---
 
 ## 2026-10-30 13:42:47
@@ -518,8 +502,6 @@ RT @GabsClark5: I VOTED FOR @KenPaxtonTX!!! https://t.co/HhgYgcI4Co
 **内容**:
 
 At least
-
-[查看原文](https://x.com/elonmusk/status/2116043113747902737)
 
 ---
 
@@ -532,8 +514,6 @@ At least
 RT @BrookeLRollins: BACK HOME IN TEXAS! 🇺🇸
 
 I was raised in a small Texas town where faith, family, hard work, and freedom weren’t just wor…
-
-[查看原文](https://x.com/elonmusk/status/2116044193302806831)
 
 ---
 
@@ -548,8 +528,6 @@ RT @FreeAndWhiskey: This proud American of Puerto Rican ancestry just voted RED 
 ❤️🇺🇸
 VOTE. VOTE RED. https://…
 
-[查看原文](https://x.com/elonmusk/status/2116045238317805599)
-
 ---
 
 ## 2026-10-30 13:57:46
@@ -559,8 +537,6 @@ VOTE. VOTE RED. https://…
 **内容**:
 
 This is what really matters
-
-[查看原文](https://x.com/elonmusk/status/2116046885559414996)
 
 ---
 
@@ -572,7 +548,55 @@ This is what really matters
 
 It would be game over for America
 
-[查看原文](https://x.com/elonmusk/status/2116047608036888796)
+---
+
+## 2026-10-30 14:05:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gleesonjm: With @Starlink = quality flight
+
+[查看原文](https://x.com/elonmusk/status/2116048921667756218)
+
+---
+
+## 2026-10-30 14:07:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Report voter fraud to the government
+
+[查看原文](https://x.com/elonmusk/status/2116049311163122143)
+
+---
+
+## 2026-10-30 14:07:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @as400495: You can report voter fraud through the https://t.co/e55dXUj1UR platform
+
+[查看原文](https://x.com/elonmusk/status/2116049346516951240)
+
+---
+
+## 2026-10-30 14:27:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TPAction: AMERICA, WE NEED YOU! 🇺🇸
+
+The work isn’t over just because you’ve voted! You can help turn out voters without ever leaving yo…
+
+[查看原文](https://x.com/elonmusk/status/2116054488545190044)
 
 ---
 
