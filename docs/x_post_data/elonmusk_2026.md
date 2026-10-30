@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4245 条推文
+> 📊 推文存档 - 共 4246 条推文
 
 ---
 
@@ -98,8 +98,6 @@ RT @shaunmmaguire: @elonmusk The left thinks you’ve gotten involved in Politic
 
 When in reality it seems like w…
 
-[查看原文](https://x.com/elonmusk/status/2116212878961258768)
-
 ---
 
 ## 2026-10-31 01:03:18
@@ -112,8 +110,6 @@ RT @mazemoore: Obama: End the filibuster and make Washington DC and Puerto Rico 
 
 You are crazy if you don’t believe Democrats will…
 
-[查看原文](https://x.com/elonmusk/status/2116214372842500241)
-
 ---
 
 ## 2026-10-31 01:05:38
@@ -123,8 +119,6 @@ You are crazy if you don’t believe Democrats will…
 **内容**:
 
 RT @BasedMikeLee: “Diversity” (as that term is used here) just means “no white guys”
-
-[查看原文](https://x.com/elonmusk/status/2116214959596253265)
 
 ---
 
@@ -138,8 +132,6 @@ RT @Cjpearson: Hi, black guy here!
 
 This is actually the literal opposite of diversity 😂😂😂😂
 
-[查看原文](https://x.com/elonmusk/status/2116214981456760836)
-
 ---
 
 ## 2026-10-31 01:07:54
@@ -149,8 +141,6 @@ This is actually the literal opposite of diversity 😂😂😂😂
 **内容**:
 
 RT @TMZ: Ilhan Omar's Ex-Husband, Rumored to Be Her Brother, Says He's Gay https://t.co/0dH3mD0WvZ
-
-[查看原文](https://x.com/elonmusk/status/2116215529866486180)
 
 ---
 
@@ -162,8 +152,6 @@ RT @TMZ: Ilhan Omar's Ex-Husband, Rumored to Be Her Brother, Says He's Gay https
 
 Cool
 
-[查看原文](https://x.com/elonmusk/status/2116215659214561518)
-
 ---
 
 ## 2026-10-31 01:19:11
@@ -174,7 +162,19 @@ Cool
 
 The Democrat Party is racist against Asians and Whites
 
-[查看原文](https://x.com/elonmusk/status/2116218370362122746)
+---
+
+## 2026-10-31 01:23:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: This is a reminder that it’s the LAST DAY of early, in-person voting in Texas. 
+
+@KenPaxtonTX
+
+[查看原文](https://x.com/elonmusk/status/2116219398566584450)
 
 ---
 

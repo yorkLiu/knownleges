@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 529 条推文
+> 📊 推文存档 - 共 530 条推文
+
+---
+
+## 2026-10-31 01:29:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Trump: “This is Biden’s market” https://t.co/zvCtnHJPf7
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN4Wrk2bmlx_R4-GXvXJp8Q8v5AAFhcAACNBVrG5INKFc-WpGLSlqL0gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2116221086107111712)
 
 ---
 
