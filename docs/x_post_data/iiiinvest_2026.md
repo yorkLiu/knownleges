@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 175 条推文
+> 📊 推文存档 - 共 176 条推文
+
+---
+
+## 2026-10-31 03:52:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+尾盘买入300万纳指 100万MSTR https://t.co/5WsObxRg5b
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN4mrk9sn1_ZovXapvyKkZeED9b1OzAAJBFWsbkg0oV2SIJW6CtkL4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2116256933619573139)
 
 ---
 
