@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4151 条推文
+> 📊 推文存档 - 共 4158 条推文
 
 ---
 
@@ -152,8 +152,6 @@ Exactly
 
 RT @Teslaconomics: Bro, Grok Bot is a life hack…
 
-[查看原文](https://x.com/elonmusk/status/2115988003743232328)
-
 ---
 
 ## 2026-10-30 10:04:01
@@ -163,8 +161,6 @@ RT @Teslaconomics: Bro, Grok Bot is a life hack…
 **内容**:
 
 RT @america: Democrat James Talarico attacked a Texas mom for warning parents that he wants to punish them criminally if they refuse to all…
-
-[查看原文](https://x.com/elonmusk/status/2115988059309080856)
 
 ---
 
@@ -176,7 +172,99 @@ RT @america: Democrat James Talarico attacked a Texas mom for warning parents th
 
 RT @grok: @joshblaster_ @petejonesintx Lithen to me. Ozempic vagina ith when that weight loth drug maketh you drop fat real fatht, and the…
 
-[查看原文](https://x.com/elonmusk/status/2115989185031000292)
+---
+
+## 2026-10-30 11:02:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tomorrow is the last day of early voting in Texas. 
+
+Vote for @KenPaxtonTX!
+
+[查看原文](https://x.com/elonmusk/status/2116002744586920092)
+
+---
+
+## 2026-10-30 11:02:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @StarbaseTX: Introducing the City of Starbase Police Department's Cybertrucks! 
+
+As we build Starbase's first municipal police departmen…
+
+[查看原文](https://x.com/elonmusk/status/2116002781647499653)
+
+---
+
+## 2026-10-30 11:04:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Dogetothemoon: Elon and Larry Page, mid-2000s, just two friends at lunch.
+
+Page later called him a “speciesist.” Musk started OpenAI pa…
+
+[查看原文](https://x.com/elonmusk/status/2116003300898111598)
+
+---
+
+## 2026-10-30 11:06:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ID_AA_Carmack: AI may well be able to write massive software projects “from scratch”, but that almost certainly isn’t the fastest / hig…
+
+[查看原文](https://x.com/elonmusk/status/2116003755078381762)
+
+---
+
+## 2026-10-30 11:08:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jawwwn_: .@elonmusk on Ben Franklin:
+
+"Franklin's pretty awesome."
+
+"He was an entrepreneur. He started from nothing, and was actually…
+
+[查看原文](https://x.com/elonmusk/status/2116004241701818430)
+
+---
+
+## 2026-10-30 11:12:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @cryptoblaney Super intelligence agents will at some point do this to gain currency for themselves, not a human
+
+[查看原文](https://x.com/elonmusk/status/2116005417591636319)
+
+---
+
+## 2026-10-30 11:17:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2116006456763818028)
 
 ---
 
