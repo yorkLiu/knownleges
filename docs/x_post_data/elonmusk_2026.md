@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4219 条推文
+> 📊 推文存档 - 共 4226 条推文
 
 ---
 
@@ -916,8 +916,6 @@ Governor
 RT @RyanAFournier: FINAL TEXAS POLL: Ken Paxton leads James Talarico 49.4% to 48.4%!
 This race is razor-thin, and the radical Democrats are…
 
-[查看原文](https://x.com/elonmusk/status/2116174046526321096)
-
 ---
 
 ## 2026-10-30 22:45:31
@@ -928,7 +926,91 @@ This race is razor-thin, and the radical Democrats are…
 
 In his own words
 
-[查看原文](https://x.com/elonmusk/status/2116179698267128211)
+---
+
+## 2026-10-30 23:00:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Vote today!
+
+[查看原文](https://x.com/elonmusk/status/2116183558729416712)
+
+---
+
+## 2026-10-30 23:01:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Democrats will execute their plan to end democracy in America if they gain control
+
+[查看原文](https://x.com/elonmusk/status/2116183808211141028)
+
+---
+
+## 2026-10-30 23:02:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Want even more evidence that @Tesla FSD is going mainstream? Here’s 2016 F1 World Champion Nico Rosberg after recently t…
+
+[查看原文](https://x.com/elonmusk/status/2116183862476751035)
+
+---
+
+## 2026-10-30 23:12:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is literally their plan and they say it out loud!
+
+[查看原文](https://x.com/elonmusk/status/2116186406544413103)
+
+---
+
+## 2026-10-30 23:12:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: Texas, get out and Vote EARLY while you can.
+
+Info here: https://t.co/KwVDtLnKOk
+
+[查看原文](https://x.com/elonmusk/status/2116186522903044113)
+
+---
+
+## 2026-10-30 23:13:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2116186700628066529)
+
+---
+
+## 2026-10-30 23:13:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ResisttheMS: NVIDIA CEO Jensen Huang: "I think the Tesla stack is the most advanced AV stack in the world. I'm fairly certain they were…
+
+[查看原文](https://x.com/elonmusk/status/2116186761235706157)
 
 ---
 
