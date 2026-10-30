@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 443 条推文
+> 📊 推文存档 - 共 445 条推文
 
 ---
 
@@ -45,9 +45,33 @@ tags: ["2026"]
 
 intc跌23%还能继续跌真尼玛牛逼 https://t.co/7YJ1HjoMOv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN22rkVvBQKk4C84J4LCNg0smSu2ssAALGE2sbkg0oV9fQXNJSOpuSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2116083841345671256)
+## 2026-10-30 17:53:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+嘎了一个tqqq，另外俩个亏太多了舍不得嘎，太能跌了 https://t.co/SOqTrZ00ne
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN3WrkbL1kadBukXB96l2I4rwoJt4DAAL0E2sbkg0oV0gjVtHUlr9HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2116106217953358043)
+
+---
+
+## 2026-10-30 18:04:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看起来是intc和sndk被盗了 https://t.co/7qo30GXkHS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN3GrkbLoTxBuhLKV-x2QjFnlpM2llAALzE2sbkg0oV9HowbA0Y3T0AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2116108900714123287)
 
 ---
 
