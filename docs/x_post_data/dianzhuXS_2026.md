@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 625 条推文
+> 📊 推文存档 - 共 627 条推文
 
 ---
 
@@ -86,9 +86,29 @@ tags: ["2026"]
 即使不為容顏，為補水也是必要的
 BTW面膜過後，心情會變的愉悅😀 https://t.co/naoNu17hZK
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN1mrkHNkMpcDGrvRWCgaMM9Biyr2pAALqFGsbkg0gV6ADc8hc0o79AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2116021715260334583)
+## 2026-10-30 18:23:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+還差退休的那幫歲月靜好，快了，快了，快了⋯⋯
+
+[查看原文](https://x.com/dianzhuXS/status/2116113632224555366)
+
+---
+
+## 2026-10-30 18:31:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+完了，跳進黃河洗不清了，哈哈哈🤣
+
+[查看原文](https://x.com/dianzhuXS/status/2116115701450875016)
 
 ---
 
