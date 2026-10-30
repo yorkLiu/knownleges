@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 442 条推文
+> 📊 推文存档 - 共 443 条推文
 
 ---
 
@@ -35,7 +35,19 @@ tags: ["2026"]
 这些交易所被盗的资金他们怎么赚回来？
 发meme和发vc都不可行没人玩，
 
-[查看原文](https://x.com/xiaomustock/status/2116074738674282507)
+---
+
+## 2026-10-30 16:24:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+intc跌23%还能继续跌真尼玛牛逼 https://t.co/7YJ1HjoMOv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN22rkVvBQKk4C84J4LCNg0smSu2ssAALGE2sbkg0oV9fQXNJSOpuSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2116083841345671256)
 
 ---
 
