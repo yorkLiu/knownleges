@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4249 条推文
+> 📊 推文存档 - 共 4250 条推文
 
 ---
 
@@ -184,8 +184,6 @@ RT @ScottPresler: This is a reminder that it’s the LAST DAY of early, in-perso
 
 This would be the end of democracy in America
 
-[查看原文](https://x.com/elonmusk/status/2116240704393351411)
-
 ---
 
 ## 2026-10-31 02:49:46
@@ -198,8 +196,6 @@ RT @Polito_loco: Well, now I am a free man and the dust is starting to settle I 
 
 @Globa…
 
-[查看原文](https://x.com/elonmusk/status/2116241165720695006)
-
 ---
 
 ## 2026-10-31 02:54:55
@@ -210,7 +206,17 @@ RT @Polito_loco: Well, now I am a free man and the dust is starting to settle I 
 
 Good video about @Neuralink
 
-[查看原文](https://x.com/elonmusk/status/2116242462582989090)
+---
+
+## 2026-10-31 02:56:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico would abolish democracy in America and institute permanent one-party rule!
+
+[查看原文](https://x.com/elonmusk/status/2116242885376974965)
 
 ---
 
