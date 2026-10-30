@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4204 条推文
+> 📊 推文存档 - 共 4217 条推文
 
 ---
 
@@ -600,8 +600,6 @@ The work isn’t over just because you’ve voted! You can help turn out voters 
 
 California became a one-party state
 
-[查看原文](https://x.com/elonmusk/status/2116160860599226657)
-
 ---
 
 ## 2026-10-30 21:31:33
@@ -611,8 +609,6 @@ California became a one-party state
 **内容**:
 
 RT @the_jefferymead: 🎯🎯 this is why sitting out this midterm to “stick it to Trump” is dangerous and idiotic.
-
-[查看原文](https://x.com/elonmusk/status/2116161085262954838)
 
 ---
 
@@ -626,8 +622,6 @@ RT @ScottPresler: @elonmusk Yes, this is accurate.
 
 Democrats have already said that if they control a majority in the Senate, they will n…
 
-[查看原文](https://x.com/elonmusk/status/2116161322530599400)
-
 ---
 
 ## 2026-10-30 21:32:45
@@ -637,8 +631,6 @@ Democrats have already said that if they control a majority in the Senate, they 
 **内容**:
 
 RT @mazemoore: @elonmusk Believe them when they say it.
-
-[查看原文](https://x.com/elonmusk/status/2116161386799562770)
 
 ---
 
@@ -652,8 +644,6 @@ RT @WesternLensman: @elonmusk All of this.
 
 Plus: A government fully weaponized to investigate, prosecute and destroy its political opposit…
 
-[查看原文](https://x.com/elonmusk/status/2116161437353775148)
-
 ---
 
 ## 2026-10-30 21:33:13
@@ -663,8 +653,6 @@ Plus: A government fully weaponized to investigate, prosecute and destroy its po
 **内容**:
 
 RT @alx: @elonmusk This is exactly what they intend to do, they’re saying it out loud at this point.
-
-[查看原文](https://x.com/elonmusk/status/2116161502210130005)
 
 ---
 
@@ -676,8 +664,6 @@ RT @alx: @elonmusk This is exactly what they intend to do, they’re saying it o
 
 RT @Sassafrass_84: @elonmusk Everybody needs to read this to understand the democrats plan. We are two elections away from democrats total…
 
-[查看原文](https://x.com/elonmusk/status/2116161558833246694)
-
 ---
 
 ## 2026-10-30 21:33:44
@@ -688,8 +674,6 @@ RT @Sassafrass_84: @elonmusk Everybody needs to read this to understand the demo
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2116161635438248169)
-
 ---
 
 ## 2026-10-30 21:37:32
@@ -699,8 +683,6 @@ Yes
 **内容**:
 
 RT @america: 🚨 TEXAS: Today is the LAST DAY to vote early and control of the Senate comes down to YOUR STATE. Tax hikes. Open borders. Lawl…
-
-[查看原文](https://x.com/elonmusk/status/2116162591621779629)
 
 ---
 
@@ -716,8 +698,6 @@ You may not love Republicans but they aren’t here to destroy the country as we
 
 Vote accordingly…
 
-[查看原文](https://x.com/elonmusk/status/2116162627546357892)
-
 ---
 
 ## 2026-10-30 21:38:22
@@ -729,8 +709,6 @@ Vote accordingly…
 RT @cb_doge: BREAKING: Starlink helped rescue a Swedish sailor stranded off South Africa’s coast. 🇿🇦
 
 The solo sailor’s 12-metre yacht deve…
-
-[查看原文](https://x.com/elonmusk/status/2116162798011208032)
 
 ---
 
@@ -744,8 +722,6 @@ Four years ago …
 
 And that is exactly what happened
 
-[查看原文](https://x.com/elonmusk/status/2116164353481462158)
-
 ---
 
 ## 2026-10-30 21:44:49
@@ -758,8 +734,6 @@ RT @dbongino: Please
 Read 
 This
 
-[查看原文](https://x.com/elonmusk/status/2116164422599414013)
-
 ---
 
 ## 2026-10-30 21:45:34
@@ -769,8 +743,6 @@ This
 **内容**:
 
 RT @w_terrence: ELON IS RIGHT
-
-[查看原文](https://x.com/elonmusk/status/2116164609627537786)
 
 ---
 
@@ -784,7 +756,180 @@ RT @elonmusk: My biggest concern is that if there is a clean sweep by Democrats 
 
 1.…
 
-[查看原文](https://x.com/elonmusk/status/2116164708080177335)
+---
+
+## 2026-10-30 21:50:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The Democrats intend to cement one-party rule forever and make “democracy” meaningless, as they have done in California
+
+[查看原文](https://x.com/elonmusk/status/2116165938525741496)
+
+---
+
+## 2026-10-30 21:53:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RealJasonNelson: I didn’t receive my ballot in Afghanistan and vowed to never let it happen again!
+
+So I’m driving 1600 miles in 2 days…
+
+[查看原文](https://x.com/elonmusk/status/2116166629214052475)
+
+---
+
+## 2026-10-30 21:55:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mayemusk: Vote ❤️🇺🇸
+
+[查看原文](https://x.com/elonmusk/status/2116167124561653886)
+
+---
+
+## 2026-10-30 21:56:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NancyMace: YES. This is exactly what they will do. They’ve said as much for years.
+
+Statehood for DC &amp; Puerto Rico. Blanket amnesty. Co…
+
+[查看原文](https://x.com/elonmusk/status/2116167344057946550)
+
+---
+
+## 2026-10-30 21:56:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bennyjohnson: The most important post in the history of X right here 👇🏻👇🏻👇🏻
+
+[查看原文](https://x.com/elonmusk/status/2116167382175473833)
+
+---
+
+## 2026-10-30 21:57:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: South Sudan’s Western Equatoria government has announced plans to install @Starlink along the DRC border to strength…
+
+[查看原文](https://x.com/elonmusk/status/2116167714972856352)
+
+---
+
+## 2026-10-30 21:58:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @w_terrence: Leave me alone! Looks like I triggered a whole lot of people because I voted RED and voted for every Republican on my ballo…
+
+[查看原文](https://x.com/elonmusk/status/2116167942153117803)
+
+---
+
+## 2026-10-30 22:05:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @p_ferragu: My friends - go and vote. The risk on our beautiful democracy is not where the media want you to think it is!
+
+[查看原文](https://x.com/elonmusk/status/2116169672794251331)
+
+---
+
+## 2026-10-30 22:05:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: SpaceX is “the single most undervalued opportunity on the planet,” says Keith Fitz-Gerald.
+
+He says he wants to invest in opti…
+
+[查看原文](https://x.com/elonmusk/status/2116169728716628345)
+
+---
+
+## 2026-10-30 22:06:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: It would be game over for America
+
+[查看原文](https://x.com/elonmusk/status/2116169909306556442)
+
+---
+
+## 2026-10-30 22:12:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: If Democrats sweep the House, Senate and Presidency in 2028, there will not be any meaningful elections ever again
+
+Democrats…
+
+[查看原文](https://x.com/elonmusk/status/2116171282626617712)
+
+---
+
+## 2026-10-30 22:12:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @w_terrence: How can you love America and vote for a democrat? 
+
+How can you call yourself a republican and vote for democrat
+
+Please do…
+
+[查看原文](https://x.com/elonmusk/status/2116171497295536483)
+
+---
+
+## 2026-10-30 22:14:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @PpollingNumbers: New - Senate and Governor poll - Texas
+
+🔴 Ken Paxton 49%
+🔵 James Talarico 48%
+
+Governor 
+🔴 Greg Abbott 52%
+🔵 Gina Hino…
+
+[查看原文](https://x.com/elonmusk/status/2116171911994753158)
 
 ---
 

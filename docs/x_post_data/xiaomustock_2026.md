@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 448 条推文
+> 📊 推文存档 - 共 450 条推文
 
 ---
 
@@ -75,10 +75,6 @@ intc跌23%还能继续跌真尼玛牛逼 https://t.co/7YJ1HjoMOv
 
 扛不住了intw和snxx嘎了亏了一把巨大的，人没了。 https://t.co/esT3mkNsCA
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN3mrkn5faKDfyJHRG1dlE_pSny1cdAAKTFGsbkg0oV5uvC8MohuF4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2116162137295114372)
-
 ---
 
 ## 2026-10-30 21:38:24
@@ -88,8 +84,6 @@ intc跌23%还能继续跌真尼玛牛逼 https://t.co/7YJ1HjoMOv
 **内容**:
 
 刚才这个账户差1刀爆仓，献祭当燃料了，亏了60万刀。
-
-[查看原文](https://x.com/xiaomustock/status/2116162808077586644)
 
 ---
 
@@ -101,7 +95,33 @@ intc跌23%还能继续跌真尼玛牛逼 https://t.co/7YJ1HjoMOv
 
 如果没杠杆还能扛一下，造孽。
 
-[查看原文](https://x.com/xiaomustock/status/2116162947810791843)
+---
+
+## 2026-10-30 22:06:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+算上股票的，今天抄底亏了170万刀😭
+操蛋呐这狗日的行情，哪哪都不反弹一下。
+
+[查看原文](https://x.com/xiaomustock/status/2116170002860797972)
+
+---
+
+## 2026-10-30 22:08:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+太痛了。真是炒个几把。
+她妈的跌破防了。 https://t.co/DoQ7G6azau
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN32rkptqi1XWRAbfVzH6iV5ZVUqlcAAKhFGsbkg0oVyJu9J8-aFRRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2116170351852028073)
 
 ---
 
