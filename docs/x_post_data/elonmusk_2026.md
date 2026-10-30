@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4252 条推文
+> 📊 推文存档 - 共 4263 条推文
 
 ---
 
@@ -226,8 +226,6 @@ Talarico would abolish democracy in America and institute permanent one-party ru
 
 Even F1 champions love Tesla self-driving
 
-[查看原文](https://x.com/elonmusk/status/2116287873918140737)
-
 ---
 
 ## 2026-10-31 05:59:53
@@ -240,7 +238,143 @@ RT @UpdatingOnRome: Western civilization is going backwards. Canada is just one 
 
 The American midterms…
 
-[查看原文](https://x.com/elonmusk/status/2116289012486824244)
+---
+
+## 2026-10-31 06:03:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kcoleman: My favorite things about this:
+
+- You can see which of your posts have a visibility-limiting label, and decide if you think i…
+
+[查看原文](https://x.com/elonmusk/status/2116289807555162519)
+
+---
+
+## 2026-10-31 06:03:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+You can now find out if any reach limitations have been applied to your account
+
+[查看原文](https://x.com/elonmusk/status/2116289989914787912)
+
+---
+
+## 2026-10-31 06:09:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2116291315432587740)
+
+---
+
+## 2026-10-31 06:11:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool ❤️
+
+[查看原文](https://x.com/elonmusk/status/2116291813732495578)
+
+---
+
+## 2026-10-31 06:26:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ns123abc: BREAKING: Google just proved AI data centers in space actually work
+
+Project Suncatcher's first satellite, built with @planet…
+
+[查看原文](https://x.com/elonmusk/status/2116295774485041336)
+
+---
+
+## 2026-10-31 06:27:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @forwarddeploy: PS - we’re hiring exceptional people if you want to come join the SpaceXSI rocket ship
+
+[查看原文](https://x.com/elonmusk/status/2116295922644619729)
+
+---
+
+## 2026-10-31 06:27:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2116296050168508726)
+
+---
+
+## 2026-10-31 06:29:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Eli Lilly has some banger drugs coming out!
+
+[查看原文](https://x.com/elonmusk/status/2116296438942765394)
+
+---
+
+## 2026-10-31 06:30:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NewsFromGoogle: Our TPUs just phoned home... from space.
+
+ICYMI, on October 1, we sent four TPUs into orbit to test whether our AI hard…
+
+[查看原文](https://x.com/elonmusk/status/2116296706958798865)
+
+---
+
+## 2026-10-31 06:31:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @heckyessica: If you’re a Texan who doesn’t vote for Paxton because your “conscience won’t allow it,” think about the fact that Talarico…
+
+[查看原文](https://x.com/elonmusk/status/2116296839410450606)
+
+---
+
+## 2026-10-31 06:31:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jhong: If you have a Tesla and haven't tried FSD in the last year, you need to try it again. Free month trial with this link. (i don't…
+
+[查看原文](https://x.com/elonmusk/status/2116296893122658424)
 
 ---
 
