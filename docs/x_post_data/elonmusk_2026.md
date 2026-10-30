@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4162 条推文
+> 📊 推文存档 - 共 4167 条推文
 
 ---
 
@@ -262,10 +262,6 @@ Yes
 
 BABY, YOU FLEW https://t.co/SKaWaDOuTN
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN1WrkHNNA3zHuAiPR5US5_j150tX5AALpFGsbkg0gVyeZjMrcVeG_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116017528036327934)
-
 ---
 
 ## 2026-10-30 12:02:30
@@ -275,8 +271,6 @@ BABY, YOU FLEW https://t.co/SKaWaDOuTN
 **内容**:
 
 RT @prattprattpratt: Before Hollywood, I was living in a van in Hawaii and waiting tables at Bubba Gump Shrimp Company. One day, the incred…
-
-[查看原文](https://x.com/elonmusk/status/2116017879825138061)
 
 ---
 
@@ -290,8 +284,6 @@ Neuralink’s first product is called Telepathy.
 
 It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exceed the fastest human speech or typing in a few years. Read that sentence again.
 
-[查看原文](https://x.com/elonmusk/status/2116018780111597911)
-
 ---
 
 ## 2026-10-30 12:10:41
@@ -304,7 +296,69 @@ Our second product is called Blindsight and it will, as the name suggests, enabl
 
 It is ready from an engineering standpoint. Just waiting on regulatory approval.
 
-[查看原文](https://x.com/elonmusk/status/2116019939056513218)
+---
+
+## 2026-10-30 12:33:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hire Grok @Bot to be an employee
+
+[查看原文](https://x.com/elonmusk/status/2116025645385867631)
+
+---
+
+## 2026-10-30 12:36:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hopefully, in a few years, we will be able to shunt signals from the motor and sensory areas of the brain to the limbs and enable people to use their hands and walk again
+
+[查看原文](https://x.com/elonmusk/status/2116026427128832140)
+
+---
+
+## 2026-10-30 12:39:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s great @Bot
+
+[查看原文](https://x.com/elonmusk/status/2116027121545904387)
+
+---
+
+## 2026-10-30 12:39:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Cyborg21: That's me. 72 hours of Neuralink engineers in my living room.
+
+Best part? Cheryl and I joked on the phone again. ALS sucks, m…
+
+[查看原文](https://x.com/elonmusk/status/2116027206392508455)
+
+---
+
+## 2026-10-30 12:50:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Gfilche: Keynote ⚡ Why I'm long $TSLA &amp; $SPCX 
+
+Last week, I was invited to Los Angeles for the LD Micro conference to give a keynote a…
+
+[查看原文](https://x.com/elonmusk/status/2116030064164753852)
 
 ---
 
