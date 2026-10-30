@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 445 条推文
+> 📊 推文存档 - 共 448 条推文
 
 ---
 
@@ -55,10 +55,6 @@ intc跌23%还能继续跌真尼玛牛逼 https://t.co/7YJ1HjoMOv
 
 嘎了一个tqqq，另外俩个亏太多了舍不得嘎，太能跌了 https://t.co/SOqTrZ00ne
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN3WrkbL1kadBukXB96l2I4rwoJt4DAAL0E2sbkg0oV0gjVtHUlr9HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2116106217953358043)
-
 ---
 
 ## 2026-10-30 18:04:11
@@ -69,9 +65,43 @@ intc跌23%还能继续跌真尼玛牛逼 https://t.co/7YJ1HjoMOv
 
 看起来是intc和sndk被盗了 https://t.co/7qo30GXkHS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN3GrkbLoTxBuhLKV-x2QjFnlpM2llAALzE2sbkg0oV9HowbA0Y3T0AQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2116108900714123287)
+## 2026-10-30 21:35:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+扛不住了intw和snxx嘎了亏了一把巨大的，人没了。 https://t.co/esT3mkNsCA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN3mrkn5faKDfyJHRG1dlE_pSny1cdAAKTFGsbkg0oV5uvC8MohuF4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2116162137295114372)
+
+---
+
+## 2026-10-30 21:38:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+刚才这个账户差1刀爆仓，献祭当燃料了，亏了60万刀。
+
+[查看原文](https://x.com/xiaomustock/status/2116162808077586644)
+
+---
+
+## 2026-10-30 21:38:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+如果没杠杆还能扛一下，造孽。
+
+[查看原文](https://x.com/xiaomustock/status/2116162947810791843)
 
 ---
 
