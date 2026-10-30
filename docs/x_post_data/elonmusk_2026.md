@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4250 条推文
+> 📊 推文存档 - 共 4252 条推文
 
 ---
 
@@ -216,7 +216,31 @@ Good video about @Neuralink
 
 Talarico would abolish democracy in America and institute permanent one-party rule!
 
-[查看原文](https://x.com/elonmusk/status/2116242885376974965)
+---
+
+## 2026-10-31 05:55:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Even F1 champions love Tesla self-driving
+
+[查看原文](https://x.com/elonmusk/status/2116287873918140737)
+
+---
+
+## 2026-10-31 05:59:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @UpdatingOnRome: Western civilization is going backwards. Canada is just one example. The bigger question is why.
+
+The American midterms…
+
+[查看原文](https://x.com/elonmusk/status/2116289012486824244)
 
 ---
 
