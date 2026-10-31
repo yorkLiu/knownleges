@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4316 条推文
+> 📊 推文存档 - 共 4321 条推文
 
 ---
 
@@ -185,8 +185,6 @@ This is actually true
 
 RT @RealDixonUranus: "I'm sorry Anakin. The Tusken Raiders that killed your mother aren't fit to stand trial. Their midichlorian counts are…
 
-[查看原文](https://x.com/elonmusk/status/2116602494831013909)
-
 ---
 
 ## 2026-11-01 02:55:57
@@ -196,8 +194,6 @@ RT @RealDixonUranus: "I'm sorry Anakin. The Tusken Raiders that killed your moth
 **内容**:
 
 RT @robbystarbuck: It’s even worse than Anish notes here because boys make up 61% of the top SAT scores. So despite that fact and the fact…
-
-[查看原文](https://x.com/elonmusk/status/2116605109396558130)
 
 ---
 
@@ -211,8 +207,6 @@ RT @morme1: @robbystarbuck @MIT Have you been around that crowd?
 THEN
 They mock your (straight, white) boys. Boys with the near perfect m…
 
-[查看原文](https://x.com/elonmusk/status/2116605271162470755)
-
 ---
 
 ## 2026-11-01 03:00:34
@@ -223,8 +217,6 @@ They mock your (straight, white) boys. Boys with the near perfect m…
 
 RT @heywildrich: "What happened to your mother was tragic, Anakin. But most of them are simply here for a better life!" https://t.co/Ik2s7E…
 
-[查看原文](https://x.com/elonmusk/status/2116606270556062118)
-
 ---
 
 ## 2026-11-01 03:01:06
@@ -234,10 +226,6 @@ RT @heywildrich: "What happened to your mother was tragic, Anakin. But most of t
 **内容**:
 
 RT @loganclarkhall: “Anakin we are a GALAXY of IMMIGRANTS!” https://t.co/HTOUp6sZum
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN7WrmPZykiTtTTP8nHqa0wRoXAWp2AAIcFGsbVBgwV027KnWGSmnRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116606404458950940)
 
 ---
 
@@ -251,8 +239,6 @@ RT @XFreeze: The scale of Starlink is almost impossible to comprehend
 
 Out of 16,848 active satellites in orbit as of October 31, 2026, 11,…
 
-[查看原文](https://x.com/elonmusk/status/2116606747179958537)
-
 ---
 
 ## 2026-11-01 03:08:42
@@ -265,7 +251,69 @@ Of course.
 
 Gay men have far too much taste for such a laboriously ugly pride flag! Fashion crime beyond belief.
 
-[查看原文](https://x.com/elonmusk/status/2116608316776571063)
+---
+
+## 2026-11-01 03:13:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FoxNews: "He's a con man. He's a deceiver."
+
+Texas Attorney General Ken Paxton takes aim at Democratic challenger James Talarico during…
+
+[查看原文](https://x.com/elonmusk/status/2116609479563223440)
+
+---
+
+## 2026-11-01 03:13:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @realBrandonGill: Ken Paxton has been the most effective record of any Attorney General in America.
+
+James Talarico, meanwhile, has spen…
+
+[查看原文](https://x.com/elonmusk/status/2116609531774140633)
+
+---
+
+## 2026-11-01 03:33:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Neuralink deep dive
+
+[查看原文](https://x.com/elonmusk/status/2116614579136635120)
+
+---
+
+## 2026-11-01 03:34:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: Text your friends in Texas and make sure they vote on Election Day
+
+[查看原文](https://x.com/elonmusk/status/2116614930883334569)
+
+---
+
+## 2026-11-01 03:37:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Grok Bot is the most useful app on my phone right now.
+
+[查看原文](https://x.com/elonmusk/status/2116615575791116356)
 
 ---
 
