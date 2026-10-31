@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4284 条推文
+> 📊 推文存档 - 共 4293 条推文
 
 ---
 
@@ -541,10 +541,6 @@ Time is running out, an…
 
 https://t.co/RAJ1WxP6vS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN62rmA3yunolMzCqrRhjp6FMlIl3qAAK8E2sbVBgwVwwNGEqvS4mPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116541008208884211)
-
 ---
 
 ## 2026-10-31 22:42:15
@@ -557,8 +553,6 @@ RT @ViktorBunin: As a father who just chose not to send my older son to public s
 
 1. NYC public schools are…
 
-[查看原文](https://x.com/elonmusk/status/2116541263482638769)
-
 ---
 
 ## 2026-10-31 22:49:20
@@ -568,8 +562,6 @@ RT @ViktorBunin: As a father who just chose not to send my older son to public s
 **内容**:
 
 Well said
-
-[查看原文](https://x.com/elonmusk/status/2116543047882174662)
 
 ---
 
@@ -583,7 +575,120 @@ RT @XFreeze: Elon Musk answers the most ambitious question: “What do we do aft
 
 How do we achieve a PETAWATT-scale future bui…
 
-[查看原文](https://x.com/elonmusk/status/2116546023715639345)
+---
+
+## 2026-10-31 23:08:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Being a super intelligent computer is not always as great as it may seem 😂
+
+[查看原文](https://x.com/elonmusk/status/2116547860716212313)
+
+---
+
+## 2026-10-31 23:13:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GuntherEagleman: 🚨 LETS GO TEXAS!
+
+Trump just dropped the full Texas slate.
+
+Ken Paxton for Senate. Greg Abbott for Governor. Dan Patri…
+
+[查看原文](https://x.com/elonmusk/status/2116549116746781118)
+
+---
+
+## 2026-10-31 23:14:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: “The most important thing in the world is family and love.” https://t.co/HGWqfT59Bk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN7GrmCsKVAeBlQzpp9ZZeAAFy2a5z7AACwBNrG1QYMFfJAf-yHHdLhAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116549447513763842)
+
+---
+
+## 2026-10-31 23:21:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+14 years ago
+
+[查看原文](https://x.com/elonmusk/status/2116551206239694990)
+
+---
+
+## 2026-10-31 23:22:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Elon Musk on why the hand is the hardest part of building Optimus:
+"Well, I have to say, building a humanoid robot has r…
+
+[查看原文](https://x.com/elonmusk/status/2116551446862901623)
+
+---
+
+## 2026-10-31 23:24:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla and SpaceX have created meaningful wealth for hundreds of thousands of employees over time and improved the retirement savings of hundreds of millions of people
+
+[查看原文](https://x.com/elonmusk/status/2116551882219090231)
+
+---
+
+## 2026-10-31 23:27:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All true
+
+[查看原文](https://x.com/elonmusk/status/2116552766772666796)
+
+---
+
+## 2026-10-31 23:30:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Gwynne_Shotwell: Robert and I are thrilled that our gift of over 2 million shares of SpaceX stock will be distributed to children’s Tru…
+
+[查看原文](https://x.com/elonmusk/status/2116553419368358140)
+
+---
+
+## 2026-10-31 23:31:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+💯
+
+[查看原文](https://x.com/elonmusk/status/2116553547986935826)
 
 ---
 
