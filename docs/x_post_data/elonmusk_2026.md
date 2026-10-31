@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4294 条推文
+> 📊 推文存档 - 共 4304 条推文
 
 ---
 
@@ -19,7 +19,127 @@ tags: ["2026"]
 
 Well said
 
-[查看原文](https://x.com/elonmusk/status/2116577726752788617)
+---
+
+## 2026-11-01 01:13:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2116579270856507805)
+
+---
+
+## 2026-11-01 01:27:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @spencerpratt Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve &gt;&gt;petawatt/y…
+
+[查看原文](https://x.com/elonmusk/status/2116582924669927434)
+
+---
+
+## 2026-11-01 01:28:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Absolutely
+
+[查看原文](https://x.com/elonmusk/status/2116582992323752147)
+
+---
+
+## 2026-11-01 01:34:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MattWalshBlog: We have always known that "diverse" just means "no white men" but it's nice to have Spanberger come out and illustrate t…
+
+[查看原文](https://x.com/elonmusk/status/2116584605524623527)
+
+---
+
+## 2026-11-01 01:34:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Riley_Gaines_: Crazy that the party that says “No Kings” is trying to do exactly what a king would do and scrap every check that could…
+
+[查看原文](https://x.com/elonmusk/status/2116584710096756865)
+
+---
+
+## 2026-11-01 01:35:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2116584911624708442)
+
+---
+
+## 2026-11-01 01:36:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ResisttheMS: Elon Musk points out that "if we lower standards [because of DEI] for what it takes to become a board-certified surgeon… o…
+
+[查看原文](https://x.com/elonmusk/status/2116585031015502075)
+
+---
+
+## 2026-11-01 01:36:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://x.com/elonmusk/status/2116585219558109596)
+
+---
+
+## 2026-11-01 01:38:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ResisttheMS: Chamath Palihapitiya: "Who can you trust to have some super intelligence?"
+
+"The only person that we can trust is Elon [Mu…
+
+[查看原文](https://x.com/elonmusk/status/2116585496230895629)
+
+---
+
+## 2026-11-01 01:38:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: March 2017. South Australia was still getting over a statewide blackout, and someone asked on Twitter whether Tesla coul…
+
+[查看原文](https://x.com/elonmusk/status/2116585618218369115)
 
 ---
 
