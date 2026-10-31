@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4321 条推文
+> 📊 推文存档 - 共 4323 条推文
 
 ---
 
@@ -263,8 +263,6 @@ RT @FoxNews: "He's a con man. He's a deceiver."
 
 Texas Attorney General Ken Paxton takes aim at Democratic challenger James Talarico during…
 
-[查看原文](https://x.com/elonmusk/status/2116609479563223440)
-
 ---
 
 ## 2026-11-01 03:13:31
@@ -277,8 +275,6 @@ RT @realBrandonGill: Ken Paxton has been the most effective record of any Attorn
 
 James Talarico, meanwhile, has spen…
 
-[查看原文](https://x.com/elonmusk/status/2116609531774140633)
-
 ---
 
 ## 2026-11-01 03:33:35
@@ -288,8 +284,6 @@ James Talarico, meanwhile, has spen…
 **内容**:
 
 Neuralink deep dive
-
-[查看原文](https://x.com/elonmusk/status/2116614579136635120)
 
 ---
 
@@ -301,8 +295,6 @@ Neuralink deep dive
 
 RT @alx: Text your friends in Texas and make sure they vote on Election Day
 
-[查看原文](https://x.com/elonmusk/status/2116614930883334569)
-
 ---
 
 ## 2026-11-01 03:37:32
@@ -313,7 +305,29 @@ RT @alx: Text your friends in Texas and make sure they vote on Election Day
 
 RT @cb_doge: Grok Bot is the most useful app on my phone right now.
 
-[查看原文](https://x.com/elonmusk/status/2116615575791116356)
+---
+
+## 2026-11-01 03:46:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This will happen again
+
+[查看原文](https://x.com/elonmusk/status/2116617926472016007)
+
+---
+
+## 2026-11-01 03:47:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AustinJustice: AUSTIN MAN slams into a stopped minivan at 103 mph on Mother's Day, right in front of a cop, and kills a fire captain ho…
+
+[查看原文](https://x.com/elonmusk/status/2116618205867512288)
 
 ---
 
