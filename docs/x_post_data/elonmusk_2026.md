@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4280 条推文
+> 📊 推文存档 - 共 4284 条推文
 
 ---
 
@@ -500,8 +500,6 @@ This is wnat Dems have said they will do! https://t.co/M9kBHe79oU
 
 Congrats to the @SpaceX team on over 700 Falcon 9 flights!
 
-[查看原文](https://x.com/elonmusk/status/2116523818449805452)
-
 ---
 
 ## 2026-10-31 21:59:41
@@ -512,8 +510,6 @@ Congrats to the @SpaceX team on over 700 Falcon 9 flights!
 
 Talarico wants to open the borders and legalize everyone to gain a permanent majority to end democracy in America
 
-[查看原文](https://x.com/elonmusk/status/2116530550831780131)
-
 ---
 
 ## 2026-10-31 22:00:47
@@ -523,8 +519,6 @@ Talarico wants to open the borders and legalize everyone to gain a permanent maj
 **内容**:
 
 RT @tomgglass: Ken Paxton is not corrupt! He (and we) are the victim of the most vicious Alinsky Big Lie/lawfare assault, FALSELY ACCUSING…
-
-[查看原文](https://x.com/elonmusk/status/2116530828440203706)
 
 ---
 
@@ -537,7 +531,59 @@ RT @tomgglass: Ken Paxton is not corrupt! He (and we) are the victim of the most
 RT @Ne_pas_couvrir: You are not living in a time of peace. You are already at war, whether you recognize it or not.
 Time is running out, an…
 
-[查看原文](https://x.com/elonmusk/status/2116530948514926934)
+---
+
+## 2026-10-31 22:41:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/RAJ1WxP6vS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN62rmA3yunolMzCqrRhjp6FMlIl3qAAK8E2sbVBgwVwwNGEqvS4mPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116541008208884211)
+
+---
+
+## 2026-10-31 22:42:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ViktorBunin: As a father who just chose not to send my older son to public school, here's what's happening:
+
+1. NYC public schools are…
+
+[查看原文](https://x.com/elonmusk/status/2116541263482638769)
+
+---
+
+## 2026-10-31 22:49:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Well said
+
+[查看原文](https://x.com/elonmusk/status/2116543047882174662)
+
+---
+
+## 2026-10-31 23:01:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk answers the most ambitious question: “What do we do after a Terafab?”
+
+How do we achieve a PETAWATT-scale future bui…
+
+[查看原文](https://x.com/elonmusk/status/2116546023715639345)
 
 ---
 
