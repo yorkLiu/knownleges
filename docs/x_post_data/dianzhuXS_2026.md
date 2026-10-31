@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 629 条推文
+> 📊 推文存档 - 共 630 条推文
 
 ---
 
@@ -20,9 +20,17 @@ tags: ["2026"]
 今日中午12:30（東九區）
 油管主頻道直播叨逼叨 https://t.co/z0BE9Zgoxb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN5WrlXGacSLgbXwVoHwS7SR22YD4gAAIGFGsbkg0wV9cQ2UgtYGXZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2116361767551189289)
+## 2026-10-31 20:16:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+黃仁勛一世精明，晚年能否躲過這“溫柔一刀”？ https://t.co/Gk9sing24P 來自 @YouTube
+
+[查看原文](https://x.com/dianzhuXS/status/2116504558461731243)
 
 ---
 
