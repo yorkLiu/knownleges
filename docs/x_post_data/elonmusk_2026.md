@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4269 条推文
+> 📊 推文存档 - 共 4271 条推文
 
 ---
 
@@ -416,9 +416,31 @@ RT @distributedkv: ngl i still think about this https://t.co/RsQP8REnJK
 
 RT @gailalfaratx: Voted in Texas for Paxton! https://t.co/nGdTFndSlB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN5GrlXF8rHKuo-MD82my9f3D_fKDzAAIFFGsbkg0wV5DIXUnijIhtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2116360100134965332)
+## 2026-10-31 14:19:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Something seriously wrong with Talarico
+
+[查看原文](https://x.com/elonmusk/status/2116414789194789254)
+
+---
+
+## 2026-10-31 14:31:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Bone voyage https://t.co/tQZx0b5uoO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN5mrljz2hBBLOdzapYtJvkbZoIbnmAAJTFGsbkg0wV8BWqnLBbTNeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116417736012071264)
 
 ---
 
