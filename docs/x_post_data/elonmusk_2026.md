@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4268 条推文
+> 📊 推文存档 - 共 4269 条推文
 
 ---
 
@@ -364,8 +364,6 @@ RT @jhong: If you have a Tesla and haven't tried FSD in the last year, you need 
 
 RT @fox7austin: A new poll has found that Republican Ken Paxton has moved past Democrat James Talarico as the race for U.S. Senate enters i…
 
-[查看原文](https://x.com/elonmusk/status/2116305092752093602)
-
 ---
 
 ## 2026-10-31 07:06:43
@@ -375,8 +373,6 @@ RT @fox7austin: A new poll has found that Republican Ken Paxton has moved past D
 **内容**:
 
 Think of Grok @Bot as a work colleague
-
-[查看原文](https://x.com/elonmusk/status/2116305829381263528)
 
 ---
 
@@ -390,8 +386,6 @@ RT @RyDawg42: @Texas_Twins_Dad I think you can use Allo. Then your Grok Bot can 
 
 https://t.co/BW22NWDnFR
 
-[查看原文](https://x.com/elonmusk/status/2116306297041678675)
-
 ---
 
 ## 2026-10-31 07:09:42
@@ -401,8 +395,6 @@ https://t.co/BW22NWDnFR
 **内容**:
 
 Cool
-
-[查看原文](https://x.com/elonmusk/status/2116306579779731464)
 
 ---
 
@@ -414,9 +406,19 @@ Cool
 
 RT @distributedkv: ngl i still think about this https://t.co/RsQP8REnJK
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN42rlKYPIk5qNZ_gbLehjHm5hoXDDAAJLFWsbkg0oV0eMVHbBMqXLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2116306821808017785)
+## 2026-10-31 10:42:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gailalfaratx: Voted in Texas for Paxton! https://t.co/nGdTFndSlB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN5GrlXF8rHKuo-MD82my9f3D_fKDzAAIFFGsbkg0wV5DIXUnijIhtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116360100134965332)
 
 ---
 
