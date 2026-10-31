@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 450 条推文
+> 📊 推文存档 - 共 451 条推文
+
+---
+
+## 2026-10-31 15:10:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+遇到资产被盗，gate的做法就是不赔 https://t.co/lVctxeiydl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN52rlloAMNFYhoAQ3Z8wm0X7lSZlCAAJeFGsbkg0wV_axdYtQ-_5XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2116427615091478953)
 
 ---
 
