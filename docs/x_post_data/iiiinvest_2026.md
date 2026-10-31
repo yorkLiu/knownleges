@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 176 条推文
+> 📊 推文存档 - 共 177 条推文
 
 ---
 
@@ -19,9 +19,23 @@ tags: ["2026"]
 
 尾盘买入300万纳指 100万MSTR https://t.co/5WsObxRg5b
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN4mrk9sn1_ZovXapvyKkZeED9b1OzAAJBFWsbkg0oV2SIJW6CtkL4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2116256933619573139)
+## 2026-10-31 09:56:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨晚，400万美金接恐慌盘+机械卖盘❗
+
+恐慌盘，纳指-4%，英特尔-30%，半导体SOXL-30% ...，尸体一个个抬出来。
+
+机械盘，昨晚我说谨慎抄底，主要是月末叠加大跌，期权做市商为了平衡，无论卖CALL还是PUT，都会加大抛压，你们去看下盘中，这一路无反弹阴跌，拔吊无情！
+
+至于尾盘为什么买入纳指和MSTR
+
+[查看原文](https://x.com/iiiinvest/status/2116348643678789932)
 
 ---
 
