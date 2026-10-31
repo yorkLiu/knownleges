@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4309 条推文
+> 📊 推文存档 - 共 4316 条推文
 
 ---
 
@@ -175,7 +175,97 @@ Yes
 
 This is actually true
 
-[查看原文](https://x.com/elonmusk/status/2116598893886791944)
+---
+
+## 2026-11-01 02:45:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RealDixonUranus: "I'm sorry Anakin. The Tusken Raiders that killed your mother aren't fit to stand trial. Their midichlorian counts are…
+
+[查看原文](https://x.com/elonmusk/status/2116602494831013909)
+
+---
+
+## 2026-11-01 02:55:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robbystarbuck: It’s even worse than Anish notes here because boys make up 61% of the top SAT scores. So despite that fact and the fact…
+
+[查看原文](https://x.com/elonmusk/status/2116605109396558130)
+
+---
+
+## 2026-11-01 02:56:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @morme1: @robbystarbuck @MIT Have you been around that crowd?  
+THEN
+They mock your (straight, white) boys. Boys with the near perfect m…
+
+[查看原文](https://x.com/elonmusk/status/2116605271162470755)
+
+---
+
+## 2026-11-01 03:00:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @heywildrich: "What happened to your mother was tragic, Anakin. But most of them are simply here for a better life!" https://t.co/Ik2s7E…
+
+[查看原文](https://x.com/elonmusk/status/2116606270556062118)
+
+---
+
+## 2026-11-01 03:01:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @loganclarkhall: “Anakin we are a GALAXY of IMMIGRANTS!” https://t.co/HTOUp6sZum
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN7WrmPZykiTtTTP8nHqa0wRoXAWp2AAIcFGsbVBgwV027KnWGSmnRAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116606404458950940)
+
+---
+
+## 2026-11-01 03:02:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: The scale of Starlink is almost impossible to comprehend
+
+Out of 16,848 active satellites in orbit as of October 31, 2026, 11,…
+
+[查看原文](https://x.com/elonmusk/status/2116606747179958537)
+
+---
+
+## 2026-11-01 03:08:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Of course. 
+
+Gay men have far too much taste for such a laboriously ugly pride flag! Fashion crime beyond belief.
+
+[查看原文](https://x.com/elonmusk/status/2116608316776571063)
 
 ---
 
