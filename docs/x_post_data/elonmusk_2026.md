@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4329 条推文
+> 📊 推文存档 - 共 4330 条推文
 
 ---
 
@@ -367,8 +367,6 @@ RT @profstonge: Men are twice as likely to ace SAT math, yet women are twice as 
 
 Put differently, 1 in 3 men who w…
 
-[查看原文](https://x.com/elonmusk/status/2116641140007145530)
-
 ---
 
 ## 2026-11-01 05:24:57
@@ -378,8 +376,6 @@ Put differently, 1 in 3 men who w…
 **内容**:
 
 RT @firesidealpha: Bill Ackman says Neuralink and other brain-computer interfaces will let the blind see again within "not too many years"…
-
-[查看原文](https://x.com/elonmusk/status/2116642608877351034)
 
 ---
 
@@ -391,7 +387,17 @@ RT @firesidealpha: Bill Ackman says Neuralink and other brain-computer interface
 
 RT @multiplanet1: In 2018, Elon Musk tweeted that he would fund the replacement of lead contaminated water pipes in Flint, Michigan for any…
 
-[查看原文](https://x.com/elonmusk/status/2116644644494684246)
+---
+
+## 2026-11-01 06:04:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FischerKing64: We have a society that actively kneecaps young men in the name of ‘justice’ and then sit around scratching our heads abo…
+
+[查看原文](https://x.com/elonmusk/status/2116652598920921368)
 
 ---
 
