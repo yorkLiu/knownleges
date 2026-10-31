@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4330 条推文
+> 📊 推文存档 - 共 4333 条推文
 
 ---
 
@@ -397,7 +397,43 @@ RT @multiplanet1: In 2018, Elon Musk tweeted that he would fund the replacement 
 
 RT @FischerKing64: We have a society that actively kneecaps young men in the name of ‘justice’ and then sit around scratching our heads abo…
 
-[查看原文](https://x.com/elonmusk/status/2116652598920921368)
+---
+
+## 2026-11-01 06:50:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @shaunmmaguire: https://t.co/UsnkRkd4MV
+
+[查看原文](https://x.com/elonmusk/status/2116664012762914974)
+
+---
+
+## 2026-11-01 06:52:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @fchollet: Dopamine does not spike highest for guaranteed rewards. It spikes highest at reward prediction error. If you want to have fun…
+
+[查看原文](https://x.com/elonmusk/status/2116664598858510514)
+
+---
+
+## 2026-11-01 07:08:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BasedMikeLee: This is why Democrats orchestrated a border invasion.
+
+This is why Democrats want more people dependent on the government…
+
+[查看原文](https://x.com/elonmusk/status/2116668779648389498)
 
 ---
 
