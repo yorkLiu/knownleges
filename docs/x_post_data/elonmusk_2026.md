@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4275 条推文
+> 📊 推文存档 - 共 4276 条推文
 
 ---
 
@@ -446,12 +446,6 @@ RT @robotaxi: Bone voyage https://t.co/tQZx0b5uoO
 
 RT @SpaceX: Falcon 9 launches 27 @Starlink satellites from California https://t.co/1brhyI7HGD
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN6GrlloVgDRHnX5jdUwoucu1I8q8eAAJfFGsbkg0wVzTVYqphp7YaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN6Wrllohc9jRRdOBhohHUnAt2cOXFAAJgFGsbkg0wV9Sksdtd-RFsAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116423243695370436)
-
 ---
 
 ## 2026-10-31 14:54:44
@@ -461,8 +455,6 @@ RT @SpaceX: Falcon 9 launches 27 @Starlink satellites from California https://t.
 **内容**:
 
 RT @JDVance: The Lone Star State has a choice this coming Tuesday that will have a national impact. Texas, make sure you make a plan to vot…
-
-[查看原文](https://x.com/elonmusk/status/2116423611800269027)
 
 ---
 
@@ -476,8 +468,6 @@ RT @america: 5 minutes of James Talarico in his own words.
 
 Send this to your friends in Texas and let them know today is their last day to…
 
-[查看原文](https://x.com/elonmusk/status/2116424602876338314)
-
 ---
 
 ## 2026-10-31 15:02:37
@@ -490,7 +480,19 @@ RT @ZeekArkham: As a black man who was a liberal way back when, I’ve discovere
 
 Conservatives will hate your opinion. It reall…
 
-[查看原文](https://x.com/elonmusk/status/2116425592128291213)
+---
+
+## 2026-10-31 21:30:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is wnat Dems have said they will do! https://t.co/M9kBHe79oU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN6mrl7bQjpPl0PvafvQoXuaKKG0aOAAIvF2sbkg0wV_thY6woS26pAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116523096551440822)
 
 ---
 
