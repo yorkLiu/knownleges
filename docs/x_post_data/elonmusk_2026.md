@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4323 条推文
+> 📊 推文存档 - 共 4326 条推文
 
 ---
 
@@ -315,8 +315,6 @@ RT @cb_doge: Grok Bot is the most useful app on my phone right now.
 
 This will happen again
 
-[查看原文](https://x.com/elonmusk/status/2116617926472016007)
-
 ---
 
 ## 2026-11-01 03:47:59
@@ -327,7 +325,43 @@ This will happen again
 
 RT @AustinJustice: AUSTIN MAN slams into a stopped minivan at 103 mph on Mother's Day, right in front of a cop, and kills a fire captain ho…
 
-[查看原文](https://x.com/elonmusk/status/2116618205867512288)
+---
+
+## 2026-11-01 04:50:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KenPaxtonTX: BREAKING: Today, my office arrested convicted felons for voting illegally in Texas. https://t.co/iCNSKDQbyB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN7mrmWq7rrCnpCOTS1iX0R7MzO5OVAAJNFGsbVBgwV0kMjxj-UJHfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116633840525463630)
+
+---
+
+## 2026-11-01 04:58:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ThomBrady5: Count Dooku is one of the weirdest parts of the Star Wars movies. Everything he says is factual and is later proven correct…
+
+[查看原文](https://x.com/elonmusk/status/2116636012155748585)
+
+---
+
+## 2026-11-01 05:04:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+[查看原文](https://x.com/elonmusk/status/2116637338994606271)
 
 ---
 
