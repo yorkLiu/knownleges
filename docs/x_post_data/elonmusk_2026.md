@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4367 条推文
+> 📊 推文存档 - 共 4370 条推文
 
 ---
 
@@ -121,10 +121,6 @@ RT @brivael: Having spent a long time watching Elon Musk, and having talked with
 
 The people deserve to have their RAM too! https://t.co/q6dwauALw4
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN9GrnoaONllOfY92ydAABn-ZapV3NNAACxhdrG1QYOFfKl0uWj8rP7gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116985908268572975)
-
 ---
 
 ## 2026-11-02 04:12:32
@@ -134,10 +130,6 @@ The people deserve to have their RAM too! https://t.co/q6dwauALw4
 **内容**:
 
 RT @Jason: AnakinCore keeps hitting  https://t.co/LJvKHglQzM
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN82rnoaKZhBsczSjpOzSSu5j8fkRjAALFF2sbVBg4V2nUKBwtxaubAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116986769774374981)
 
 ---
 
@@ -149,8 +141,6 @@ RT @Jason: AnakinCore keeps hitting  https://t.co/LJvKHglQzM
 
 RT @chamath: He who shapes power, data centers, chips and models into an economically feasible endpoint, disproportionately shapes AI/SI ri…
 
-[查看原文](https://x.com/elonmusk/status/2116988302268199089)
-
 ---
 
 ## 2026-11-02 04:23:48
@@ -161,8 +151,6 @@ RT @chamath: He who shapes power, data centers, chips and models into an economi
 
 Grok @Bot will research gifts that your friends and family would love and buy them
 
-[查看原文](https://x.com/elonmusk/status/2116989604104392969)
-
 ---
 
 ## 2026-11-02 04:24:16
@@ -172,8 +160,6 @@ Grok @Bot will research gifts that your friends and family would love and buy th
 **内容**:
 
 RT @GadSaad: But all of my progressive academic colleagues assured us that X would fail because Elon is mean, no?
-
-[查看原文](https://x.com/elonmusk/status/2116989721557577914)
 
 ---
 
@@ -187,8 +173,6 @@ RT @XFreeze: The scale of SpaceX’s lead in global launch is absolutely insane
 
 In 2025 alone, SpaceX delivered approximately 2,330 TONNES o…
 
-[查看原文](https://x.com/elonmusk/status/2116989969021411424)
-
 ---
 
 ## 2026-11-02 04:26:52
@@ -198,8 +182,6 @@ In 2025 alone, SpaceX delivered approximately 2,330 TONNES o…
 **内容**:
 
 It is
-
-[查看原文](https://x.com/elonmusk/status/2116990378536755218)
 
 ---
 
@@ -211,8 +193,6 @@ It is
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2116990584048984346)
-
 ---
 
 ## 2026-11-02 04:29:04
@@ -223,9 +203,45 @@ Yes
 
 This is what they stole from us https://t.co/q1GnpjF394
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN8mrnoZ9ObGMy5IhkuAmn3yflZwf-AALEF2sbVBg4VxRkDTvqEyELAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2116990933103509723)
+## 2026-11-02 04:32:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours
+
+[查看原文](https://x.com/elonmusk/status/2116991729660575998)
+
+---
+
+## 2026-11-02 04:38:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KittyMidge: @elonmusk https://t.co/O2gvyYhZvO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN9WrnqOgO5Dx1NYEs6JNdQBpAz9rlAALLF2sbVBg4VxUcc6Ih1WCVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116993181405606125)
+
+---
+
+## 2026-11-02 04:44:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D understanding
+
+we are already approaching AGI, and I can’t i…
+
+[查看原文](https://x.com/elonmusk/status/2116994893130379571)
 
 ---
 
