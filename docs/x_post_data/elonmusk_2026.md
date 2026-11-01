@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4358 条推文
+> 📊 推文存档 - 共 4367 条推文
 
 ---
 
@@ -71,8 +71,6 @@ RT @CernBasher: https://t.co/kEH52KisYz
 
 “Best way to sandbox an AI,” said Musk. “Put it on a Delta flight: No escape is possible.”
 
-[查看原文](https://x.com/elonmusk/status/2116968674590441904)
-
 ---
 
 ## 2026-11-02 03:02:00
@@ -82,8 +80,6 @@ RT @CernBasher: https://t.co/kEH52KisYz
 **内容**:
 
 38,000 foot air gap!
-
-[查看原文](https://x.com/elonmusk/status/2116969019303432203)
 
 ---
 
@@ -95,8 +91,6 @@ RT @CernBasher: https://t.co/kEH52KisYz
 
 Talarico will vote to trans your kids
 
-[查看原文](https://x.com/elonmusk/status/2116969654849868192)
-
 ---
 
 ## 2026-11-02 03:08:10
@@ -106,8 +100,6 @@ Talarico will vote to trans your kids
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2116970572592861616)
 
 ---
 
@@ -119,7 +111,121 @@ True
 
 RT @brivael: Having spent a long time watching Elon Musk, and having talked with him, I believe I understand what he understood before almo…
 
-[查看原文](https://x.com/elonmusk/status/2116970675814482091)
+---
+
+## 2026-11-02 04:09:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The people deserve to have their RAM too! https://t.co/q6dwauALw4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN9GrnoaONllOfY92ydAABn-ZapV3NNAACxhdrG1QYOFfKl0uWj8rP7gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116985908268572975)
+
+---
+
+## 2026-11-02 04:12:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Jason: AnakinCore keeps hitting  https://t.co/LJvKHglQzM
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN82rnoaKZhBsczSjpOzSSu5j8fkRjAALFF2sbVBg4V2nUKBwtxaubAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116986769774374981)
+
+---
+
+## 2026-11-02 04:18:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @chamath: He who shapes power, data centers, chips and models into an economically feasible endpoint, disproportionately shapes AI/SI ri…
+
+[查看原文](https://x.com/elonmusk/status/2116988302268199089)
+
+---
+
+## 2026-11-02 04:23:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot will research gifts that your friends and family would love and buy them
+
+[查看原文](https://x.com/elonmusk/status/2116989604104392969)
+
+---
+
+## 2026-11-02 04:24:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GadSaad: But all of my progressive academic colleagues assured us that X would fail because Elon is mean, no?
+
+[查看原文](https://x.com/elonmusk/status/2116989721557577914)
+
+---
+
+## 2026-11-02 04:25:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: The scale of SpaceX’s lead in global launch is absolutely insane
+
+In 2025 alone, SpaceX delivered approximately 2,330 TONNES o…
+
+[查看原文](https://x.com/elonmusk/status/2116989969021411424)
+
+---
+
+## 2026-11-02 04:26:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It is
+
+[查看原文](https://x.com/elonmusk/status/2116990378536755218)
+
+---
+
+## 2026-11-02 04:27:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2116990584048984346)
+
+---
+
+## 2026-11-02 04:29:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is what they stole from us https://t.co/q1GnpjF394
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN8mrnoZ9ObGMy5IhkuAmn3yflZwf-AALEF2sbVBg4VxRkDTvqEyELAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116990933103509723)
 
 ---
 
