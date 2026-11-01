@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4370 条推文
+> 📊 推文存档 - 共 4375 条推文
 
 ---
 
@@ -213,8 +213,6 @@ This is what they stole from us https://t.co/q1GnpjF394
 
 The other supercompute projects are unable to reach their goals, but SpaceX is already achieving ours
 
-[查看原文](https://x.com/elonmusk/status/2116991729660575998)
-
 ---
 
 ## 2026-11-02 04:38:00
@@ -224,10 +222,6 @@ The other supercompute projects are unable to reach their goals, but SpaceX is a
 **内容**:
 
 RT @KittyMidge: @elonmusk https://t.co/O2gvyYhZvO
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN9WrnqOgO5Dx1NYEs6JNdQBpAz9rlAALLF2sbVBg4VxUcc6Ih1WCVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2116993181405606125)
 
 ---
 
@@ -241,7 +235,79 @@ RT @MaaSonder: Gemini 4 Carbon is the first model to tie humans in physical 3D u
 
 we are already approaching AGI, and I can’t i…
 
-[查看原文](https://x.com/elonmusk/status/2116994893130379571)
+---
+
+## 2026-11-02 05:41:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Scobleizer: I keep checking out the others. They really suck. I am so glad I stayed here when a lot of my friends left, thinking X was…
+
+[查看原文](https://x.com/elonmusk/status/2117009039062102185)
+
+---
+
+## 2026-11-02 05:46:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @libsoftiktok: Holy shlit
+
+Haley Stevens got nearly 50% if the vote in the Democratic Primary
+
+Even she is now endorsing Mike Rogers
+
+Ab…
+
+[查看原文](https://x.com/elonmusk/status/2117010490300019037)
+
+---
+
+## 2026-11-02 05:47:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:
+
+"THAT'S A WORTHY GOAL."
+
+Charl…
+
+[查看原文](https://x.com/elonmusk/status/2117010740502782014)
+
+---
+
+## 2026-11-02 05:48:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CollinRugg: NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a grow…
+
+[查看原文](https://x.com/elonmusk/status/2117010895167762492)
+
+---
+
+## 2026-11-02 05:52:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLEAR.
+
+@Grok @Bot wins on all measures. 
+
+At this point it can on…
+
+[查看原文](https://x.com/elonmusk/status/2117012027025576062)
 
 ---
 
