@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4333 条推文
+> 📊 推文存档 - 共 4334 条推文
 
 ---
 
@@ -407,8 +407,6 @@ RT @FischerKing64: We have a society that actively kneecaps young men in the nam
 
 RT @shaunmmaguire: https://t.co/UsnkRkd4MV
 
-[查看原文](https://x.com/elonmusk/status/2116664012762914974)
-
 ---
 
 ## 2026-11-01 06:52:20
@@ -418,8 +416,6 @@ RT @shaunmmaguire: https://t.co/UsnkRkd4MV
 **内容**:
 
 RT @fchollet: Dopamine does not spike highest for guaranteed rewards. It spikes highest at reward prediction error. If you want to have fun…
-
-[查看原文](https://x.com/elonmusk/status/2116664598858510514)
 
 ---
 
@@ -433,7 +429,17 @@ RT @BasedMikeLee: This is why Democrats orchestrated a border invasion.
 
 This is why Democrats want more people dependent on the government…
 
-[查看原文](https://x.com/elonmusk/status/2116668779648389498)
+---
+
+## 2026-11-01 10:52:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: Super Intelligence WILL EAT MANY ENTIRE businesses, industries and professions in the next few *months* and *quarters*.…
+
+[查看原文](https://x.com/elonmusk/status/2116724977156362517)
 
 ---
 
