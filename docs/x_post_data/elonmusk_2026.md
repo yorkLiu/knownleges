@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4338 条推文
+> 📊 推文存档 - 共 4340 条推文
 
 ---
 
@@ -475,8 +475,6 @@ RT @cb_doge: "I will die in America. I'm not going anywhere. I might go to Mars 
 
 一 Elon Musk https://…
 
-[查看原文](https://x.com/elonmusk/status/2116864784670883976)
-
 ---
 
 ## 2026-11-01 20:14:02
@@ -487,9 +485,31 @@ RT @cb_doge: "I will die in America. I'm not going anywhere. I might go to Mars 
 
 RT @robotaxi: Autonomy for all, including pumpkins https://t.co/1BnsRJF4hh
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN8GrnLWE5sGrEmxhvsSjdyELqXgQjAAIBF2sbVBg4V8QwUojPpegCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2116866351587299336)
+## 2026-11-01 20:38:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @zephyr_z9 Silly analysis. 
+
+Robot RAM needs will exceed everything else on Earth, as you need the robots to be on physical s…
+
+[查看原文](https://x.com/elonmusk/status/2116872423215935970)
+
+---
+
+## 2026-11-01 20:40:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Founder_Mode_: Marc Andreessen revealed how Harvard Business School was built on a broken 1941 theory, and how it's now collapsing...…
+
+[查看原文](https://x.com/elonmusk/status/2116873035336614313)
 
 ---
 
