@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4336 条推文
+> 📊 推文存档 - 共 4338 条推文
 
 ---
 
@@ -463,7 +463,33 @@ I am a Lifelong moderate liberal.
 
 With Democrats nominating radicals…
 
-[查看原文](https://x.com/elonmusk/status/2116854907785679068)
+---
+
+## 2026-11-01 20:07:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: "I will die in America. I'm not going anywhere. I might go to Mars but that will be part of America." 🇺🇸
+
+一 Elon Musk https://…
+
+[查看原文](https://x.com/elonmusk/status/2116864784670883976)
+
+---
+
+## 2026-11-01 20:14:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Autonomy for all, including pumpkins https://t.co/1BnsRJF4hh
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN8GrnLWE5sGrEmxhvsSjdyELqXgQjAAIBF2sbVBg4V8QwUojPpegCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2116866351587299336)
 
 ---
 
