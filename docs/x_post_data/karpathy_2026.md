@@ -7,7 +7,24 @@ tags: ["2026"]
 
 # @karpathy
 
-> 📊 推文存档 - 共 47 条推文
+> 📊 推文存档 - 共 48 条推文
+
+---
+
+## 2026-11-02 02:14:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:
+https://t.co/xULTGY6VhH
+
+- Excellent https://t.co/QRq80bJo4o
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN8WrnhJNDywWAJuuoVQ4uYFp67E6YAAKoF2sbVBg4Vytly-LWpoKXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/karpathy/status/2116957135661945283)
 
 ---
 
