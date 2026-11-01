@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4340 条推文
+> 📊 推文存档 - 共 4346 条推文
 
 ---
 
@@ -497,8 +497,6 @@ RT @elonmusk: @zephyr_z9 Silly analysis.
 
 Robot RAM needs will exceed everything else on Earth, as you need the robots to be on physical s…
 
-[查看原文](https://x.com/elonmusk/status/2116872423215935970)
-
 ---
 
 ## 2026-11-01 20:40:35
@@ -509,7 +507,81 @@ Robot RAM needs will exceed everything else on Earth, as you need the robots to 
 
 RT @Founder_Mode_: Marc Andreessen revealed how Harvard Business School was built on a broken 1941 theory, and how it's now collapsing...…
 
-[查看原文](https://x.com/elonmusk/status/2116873035336614313)
+---
+
+## 2026-11-01 20:50:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I have this great idea for a drug called Regretamine. One dose and all your regrets are gone!
+
+Including, obviously, having taken Regretamine in the first place.
+
+[查看原文](https://x.com/elonmusk/status/2116875604889112772)
+
+---
+
+## 2026-11-01 21:03:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Grimezsz Nonetheless, look at how generic and banal day-to-day corpo fashion and cars have become for over 2 decades!!
+
+Time…
+
+[查看原文](https://x.com/elonmusk/status/2116878754748231864)
+
+---
+
+## 2026-11-01 21:04:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Anyone with a brain is on 𝕏
+
+[查看原文](https://x.com/elonmusk/status/2116879037175898424)
+
+---
+
+## 2026-11-01 21:07:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Naval Ravikant once shared a story about Bill Gates shorting Tesla, a bet that could ultimately cost him more than $10 billion…
+
+[查看原文](https://x.com/elonmusk/status/2116879825029771318)
+
+---
+
+## 2026-11-01 21:10:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Maximizing for long-term unregretted user seconds
+
+[查看原文](https://x.com/elonmusk/status/2116880652389728748)
+
+---
+
+## 2026-11-01 21:12:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2116881187394445633)
 
 ---
 
