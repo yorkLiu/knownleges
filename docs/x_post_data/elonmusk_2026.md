@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4353 条推文
+> 📊 推文存档 - 共 4358 条推文
 
 ---
 
@@ -21,8 +21,6 @@ RT @abbyronson: HAPPENING NOW: Congresswoman Haley Stevens joins Mike Rogers at 
 
 We have a state to save,…
 
-[查看原文](https://x.com/elonmusk/status/2116961340950753492)
-
 ---
 
 ## 2026-11-02 02:33:34
@@ -32,8 +30,6 @@ We have a state to save,…
 **内容**:
 
 RT @elonmusk: @Grummz Most important of all
-
-[查看原文](https://x.com/elonmusk/status/2116961866681590246)
 
 ---
 
@@ -45,8 +41,6 @@ RT @elonmusk: @Grummz Most important of all
 
 Starlink saves lives
 
-[查看原文](https://x.com/elonmusk/status/2116963596462600249)
-
 ---
 
 ## 2026-11-02 02:40:42
@@ -56,8 +50,6 @@ Starlink saves lives
 **内容**:
 
 RT @america: Democrat Haley Stevens after endorsing Republican Mike Rogers over Abdul El-Sayed: “My vote for Senate will be for Mike Rogers…
-
-[查看原文](https://x.com/elonmusk/status/2116963658559627604)
 
 ---
 
@@ -69,7 +61,65 @@ RT @america: Democrat Haley Stevens after endorsing Republican Mike Rogers over 
 
 RT @CernBasher: https://t.co/kEH52KisYz
 
-[查看原文](https://x.com/elonmusk/status/2116966775523053954)
+---
+
+## 2026-11-02 03:00:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+“Best way to sandbox an AI,” said Musk. “Put it on a Delta flight: No escape is possible.”
+
+[查看原文](https://x.com/elonmusk/status/2116968674590441904)
+
+---
+
+## 2026-11-02 03:02:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+38,000 foot air gap!
+
+[查看原文](https://x.com/elonmusk/status/2116969019303432203)
+
+---
+
+## 2026-11-02 03:04:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Talarico will vote to trans your kids
+
+[查看原文](https://x.com/elonmusk/status/2116969654849868192)
+
+---
+
+## 2026-11-02 03:08:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2116970572592861616)
+
+---
+
+## 2026-11-02 03:08:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Having spent a long time watching Elon Musk, and having talked with him, I believe I understand what he understood before almo…
+
+[查看原文](https://x.com/elonmusk/status/2116970675814482091)
 
 ---
 
