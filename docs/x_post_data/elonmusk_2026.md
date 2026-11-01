@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4375 条推文
+> 📊 推文存档 - 共 4377 条推文
 
 ---
 
@@ -245,8 +245,6 @@ we are already approaching AGI, and I can’t i…
 
 RT @Scobleizer: I keep checking out the others. They really suck. I am so glad I stayed here when a lot of my friends left, thinking X was…
 
-[查看原文](https://x.com/elonmusk/status/2117009039062102185)
-
 ---
 
 ## 2026-11-02 05:46:47
@@ -263,8 +261,6 @@ Even she is now endorsing Mike Rogers
 
 Ab…
 
-[查看原文](https://x.com/elonmusk/status/2117010490300019037)
-
 ---
 
 ## 2026-11-02 05:47:47
@@ -279,8 +275,6 @@ RT @teslaownersSV: Google co-founder Larry Page on why he'd give his fortune to 
 
 Charl…
 
-[查看原文](https://x.com/elonmusk/status/2117010740502782014)
-
 ---
 
 ## 2026-11-02 05:48:24
@@ -290,8 +284,6 @@ Charl…
 **内容**:
 
 RT @CollinRugg: NEW: Dem officials are raising alarm bells that Latino men are refusing to turn on President Trump in Texas and have a grow…
-
-[查看原文](https://x.com/elonmusk/status/2117010895167762492)
 
 ---
 
@@ -307,7 +299,32 @@ RT @BrianRoemmele: I TESTED EVERY MAJOR “BOT” PLATFORM AND THE WINNER IS CLE
 
 At this point it can on…
 
-[查看原文](https://x.com/elonmusk/status/2117012027025576062)
+---
+
+## 2026-11-02 07:20:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot! You will love it.
+
+We land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.
+
+[查看原文](https://x.com/elonmusk/status/2117033967782113327)
+
+---
+
+## 2026-11-02 07:36:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Texas_Twins_Dad: Grok Bot is still so underrated.
+Most people haven't seen what it can really do yet.
+
+[查看原文](https://x.com/elonmusk/status/2117038135989207125)
 
 ---
 
