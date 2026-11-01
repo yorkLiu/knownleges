@@ -7,7 +7,69 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4348 条推文
+> 📊 推文存档 - 共 4353 条推文
+
+---
+
+## 2026-11-02 02:31:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @abbyronson: HAPPENING NOW: Congresswoman Haley Stevens joins Mike Rogers at church in Detroit this morning. 
+
+We have a state to save,…
+
+[查看原文](https://x.com/elonmusk/status/2116961340950753492)
+
+---
+
+## 2026-11-02 02:33:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Grummz Most important of all
+
+[查看原文](https://x.com/elonmusk/status/2116961866681590246)
+
+---
+
+## 2026-11-02 02:40:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2116963596462600249)
+
+---
+
+## 2026-11-02 02:40:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @america: Democrat Haley Stevens after endorsing Republican Mike Rogers over Abdul El-Sayed: “My vote for Senate will be for Mike Rogers…
+
+[查看原文](https://x.com/elonmusk/status/2116963658559627604)
+
+---
+
+## 2026-11-02 02:53:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CernBasher: https://t.co/kEH52KisYz
+
+[查看原文](https://x.com/elonmusk/status/2116966775523053954)
 
 ---
 
