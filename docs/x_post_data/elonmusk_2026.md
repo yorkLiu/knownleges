@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4347 条推文
+> 📊 推文存档 - 共 4348 条推文
 
 ---
 
@@ -583,7 +583,17 @@ RT @KatieMiller: X is the only place where the Legacy Media can’t censor infor
 
 They have to denigrate X in order to maintain their…
 
-[查看原文](https://x.com/elonmusk/status/2116887497384906779)
+---
+
+## 2026-11-01 21:48:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @herbertong: SpaceX just guided to a $35B quarter! The CFO sees $33B to $37B in Q1 2027 revenue, up from $14.6B this quarter. That's mor…
+
+[查看原文](https://x.com/elonmusk/status/2116890148474351711)
 
 ---
 
