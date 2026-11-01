@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4335 条推文
+> 📊 推文存档 - 共 4336 条推文
 
 ---
 
@@ -449,7 +449,21 @@ RT @stevenmarkryan: Super Intelligence WILL EAT MANY ENTIRE businesses, industri
 
 RT @mayemusk: My father would not let anyone service his plane except himself. This photo was taken in Australia. My parents were the only…
 
-[查看原文](https://x.com/elonmusk/status/2116848640102998096)
+---
+
+## 2026-11-01 19:28:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @UpdatingOnRome: Sorry to break character but I have to say it. 
+
+I am a Lifelong moderate liberal. 
+
+With Democrats nominating radicals…
+
+[查看原文](https://x.com/elonmusk/status/2116854907785679068)
 
 ---
 
