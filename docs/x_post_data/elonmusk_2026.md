@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4346 条推文
+> 📊 推文存档 - 共 4347 条推文
 
 ---
 
@@ -519,8 +519,6 @@ I have this great idea for a drug called Regretamine. One dose and all your regr
 
 Including, obviously, having taken Regretamine in the first place.
 
-[查看原文](https://x.com/elonmusk/status/2116875604889112772)
-
 ---
 
 ## 2026-11-01 21:03:19
@@ -533,8 +531,6 @@ RT @elonmusk: @Grimezsz Nonetheless, look at how generic and banal day-to-day co
 
 Time…
 
-[查看原文](https://x.com/elonmusk/status/2116878754748231864)
-
 ---
 
 ## 2026-11-01 21:04:26
@@ -544,8 +540,6 @@ Time…
 **内容**:
 
 Anyone with a brain is on 𝕏
-
-[查看原文](https://x.com/elonmusk/status/2116879037175898424)
 
 ---
 
@@ -557,8 +551,6 @@ Anyone with a brain is on 𝕏
 
 RT @iam_smx: Naval Ravikant once shared a story about Bill Gates shorting Tesla, a bet that could ultimately cost him more than $10 billion…
 
-[查看原文](https://x.com/elonmusk/status/2116879825029771318)
-
 ---
 
 ## 2026-11-01 21:10:51
@@ -568,8 +560,6 @@ RT @iam_smx: Naval Ravikant once shared a story about Bill Gates shorting Tesla,
 **内容**:
 
 Maximizing for long-term unregretted user seconds
-
-[查看原文](https://x.com/elonmusk/status/2116880652389728748)
 
 ---
 
@@ -581,7 +571,19 @@ Maximizing for long-term unregretted user seconds
 
 Starlink saves lives
 
-[查看原文](https://x.com/elonmusk/status/2116881187394445633)
+---
+
+## 2026-11-01 21:38:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: X is the only place where the Legacy Media can’t censor information. 
+
+They have to denigrate X in order to maintain their…
+
+[查看原文](https://x.com/elonmusk/status/2116887497384906779)
 
 ---
 
