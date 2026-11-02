@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 456 条推文
+> 📊 推文存档 - 共 457 条推文
 
 ---
 
@@ -54,9 +54,23 @@ tags: ["2026"]
 村里给狗喂食还放个盆不忍心倒地上。
 这吃法狗都不如。 https://t.co/Yon7gUESvk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN-mroMu9yVQpPHMsPtgnJX0rVPTkbAAJKFGsbcr9AV9w3JQuHB1gJAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2117145417821683842)
+## 2026-11-02 14:57:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+第一张是中国新生人口变化，
+第二张是鸿蒙和小米汽车交付量。
+报表界的人才。 https://t.co/E7LehRBggU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN-2roOjMAAUdqgIcashjMrsjzcbJ2nAACWRRrG3K_QFfs9rRkcHoVtQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN_GroOjaOLwL8RF-KYGjBbQnYfYqAAAJaFGsbcr9AVzJd_Uz-x_O0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2117149019386580999)
 
 ---
 
