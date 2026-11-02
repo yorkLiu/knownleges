@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 532 条推文
+> 📊 推文存档 - 共 533 条推文
 
 ---
 
@@ -37,9 +37,25 @@ Exceeding the:
 
 $MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN_mrogt4YbMjgp0ROY-gPc2ZGwsQVAAKvFGsbcr9IV6WzPUkp1YzFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117229519178498541)
+## 2026-11-02 21:59:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Following the Lumentum / Marvell deal: 
+
+My opinion is that independent Western laser players, like $AAOI, $COHR, and $SIVE became a lot more strategically valuable. 
+
+$MTSI and $SMTC should get some attention too as emerging laser players in 2027. 
+
+If I had to guess: 
+
+1.
+
+[查看原文](https://x.com/aleabitoreddit/status/2117255303301612014)
 
 ---
 

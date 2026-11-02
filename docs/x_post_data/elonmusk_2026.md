@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4383 条推文
+> 📊 推文存档 - 共 4385 条推文
 
 ---
 
@@ -390,8 +390,6 @@ Talarico is getting 53% of his itemized money from outside the state.
 
 Cali…
 
-[查看原文](https://x.com/elonmusk/status/2117070283077292148)
-
 ---
 
 ## 2026-11-02 09:45:32
@@ -407,7 +405,33 @@ Every single person I've told to try Grok Bot:
 - "Holy fk it's really THAT GOOD"
 - Starts telling other p…
 
-[查看原文](https://x.com/elonmusk/status/2117070572433875075)
+---
+
+## 2026-11-02 21:49:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2117252866503290905)
+
+---
+
+## 2026-11-02 21:51:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: Fuck you if you hate on Elon Musk. 
+
+Just imagine this was your son…
+
+ALS took away Jake’s ability to use his wheelchair…
+
+[查看原文](https://x.com/elonmusk/status/2117253374039232553)
 
 ---
 
