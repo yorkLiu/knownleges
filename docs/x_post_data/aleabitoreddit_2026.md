@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 533 条推文
+> 📊 推文存档 - 共 534 条推文
+
+---
+
+## 2026-11-03 00:43:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).
+
+The margins on that are likely 60%+… which shows how profitable laser players would be at scale.
+
+(Greensboro alone would be $5B revenue/year)
+
+In terms of the $MRVL https://t.co/bCMoPUvLJX
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOAWroxECqQLGJSVNF9yjRwUd03kmPAAIDFWsbcr9IVwh6Blo7mDi_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117296667108278605)
 
 ---
 
