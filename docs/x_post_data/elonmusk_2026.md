@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4377 条推文
+> 📊 推文存档 - 共 4381 条推文
 
 ---
 
@@ -311,8 +311,6 @@ Try Grok @Bot! You will love it.
 
 We land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.
 
-[查看原文](https://x.com/elonmusk/status/2117033967782113327)
-
 ---
 
 ## 2026-11-02 07:36:38
@@ -324,7 +322,67 @@ We land a few dozen fixes, features and sometimes powers to Bot 7 days a week an
 RT @Texas_Twins_Dad: Grok Bot is still so underrated.
 Most people haven't seen what it can really do yet.
 
-[查看原文](https://x.com/elonmusk/status/2117038135989207125)
+---
+
+## 2026-11-02 07:44:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Saboo_Shubham_: This is INSANE. A huge step for humanity.
+
+Google Gemma 4 is a actually running at a Data Center in Space. 
+
+Read that…
+
+[查看原文](https://x.com/elonmusk/status/2117040223477743684)
+
+---
+
+## 2026-11-02 07:49:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JulianGoldieSEO: wtf is Grok Jarvis.
+
+Grok Jarvis is a Grok Bot plus a Page.
+
+The bot holds the personality. The Page is the live scree…
+
+[查看原文](https://x.com/elonmusk/status/2117041294165905886)
+
+---
+
+## 2026-11-02 07:51:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EXM7777: grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism...
+
+look closely and they're…
+
+[查看原文](https://x.com/elonmusk/status/2117041782987071682)
+
+---
+
+## 2026-11-02 07:52:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @0xCodila: Introducing GrokBot's first live dashboard for your teams of agent
+
+1 prompt + 2 min + &lt;1% usage = you have the same:
+
+• no m…
+
+[查看原文](https://x.com/elonmusk/status/2117042166321287411)
 
 ---
 

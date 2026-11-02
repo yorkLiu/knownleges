@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 642 条推文
+> 📊 推文存档 - 共 644 条推文
 
 ---
 
@@ -55,8 +55,6 @@ I hope so💪💪💪
 
 是的，日本的一個女首相做了！當然，這也是簡中精緻利己最恨的，最影響所謂「華人利益」的。
 
-[查看原文](https://x.com/dianzhuXS/status/2117033995871604808)
-
 ---
 
 ## 2026-11-02 07:35:42
@@ -69,7 +67,35 @@ I hope so💪💪💪
 
 那麼問題來了，中國這麼好，你改國籍幹什麼？能邏輯自恰一下嗎？
 
-[查看原文](https://x.com/dianzhuXS/status/2117037900533751961)
+---
+
+## 2026-11-02 07:39:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有些出生地是中國的簡中壞逼，加入了外國國籍，就開始從骨子裡期盼所在國與中國友好，中國這也好，那也好⋯⋯
+
+那麼問題來了，中國這麼好，你改國籍幹什麼？能邏輯自恰一下嗎？
+
+還有一提「牆人劣根性」就是全世界都一樣，哪裡都有好人哪裡都有壞人。那麼問題又來了，哪裡都一樣，你怎麼不回中國生活？
+
+[查看原文](https://x.com/dianzhuXS/status/2117038798479712701)
+
+---
+
+## 2026-11-02 07:54:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+確實如此 https://t.co/rhEdqYzhs9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN9mrn1HxDPufxNTTo_bfmB9FfacGAAALqFGsbVBhAVxSx_GPdHEe8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2117042633487048732)
 
 ---
 
