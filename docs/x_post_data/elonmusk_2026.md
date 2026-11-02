@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4381 条推文
+> 📊 推文存档 - 共 4383 条推文
 
 ---
 
@@ -336,8 +336,6 @@ Google Gemma 4 is a actually running at a Data Center in Space.
 
 Read that…
 
-[查看原文](https://x.com/elonmusk/status/2117040223477743684)
-
 ---
 
 ## 2026-11-02 07:49:11
@@ -352,8 +350,6 @@ Grok Jarvis is a Grok Bot plus a Page.
 
 The bot holds the personality. The Page is the live scree…
 
-[查看原文](https://x.com/elonmusk/status/2117041294165905886)
-
 ---
 
 ## 2026-11-02 07:51:08
@@ -365,8 +361,6 @@ The bot holds the personality. The Page is the live scree…
 RT @EXM7777: grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism...
 
 look closely and they're…
-
-[查看原文](https://x.com/elonmusk/status/2117041782987071682)
 
 ---
 
@@ -382,7 +376,38 @@ RT @0xCodila: Introducing GrokBot's first live dashboard for your teams of agent
 
 • no m…
 
-[查看原文](https://x.com/elonmusk/status/2117042166321287411)
+---
+
+## 2026-11-02 09:44:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: California is trying to buy a Texas Senate seat.
+
+Talarico is getting 53% of his itemized money from outside the state. 
+
+Cali…
+
+[查看原文](https://x.com/elonmusk/status/2117070283077292148)
+
+---
+
+## 2026-11-02 09:45:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: It's true. 
+
+Every single person I've told to try Grok Bot:
+
+- "Holy fk it's really THAT GOOD"
+- Starts telling other p…
+
+[查看原文](https://x.com/elonmusk/status/2117070572433875075)
 
 ---
 
