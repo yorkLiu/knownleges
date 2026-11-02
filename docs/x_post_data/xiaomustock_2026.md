@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 455 条推文
+> 📊 推文存档 - 共 456 条推文
 
 ---
 
@@ -42,11 +42,21 @@ tags: ["2026"]
 如果现在买2706的ic，相当于比现价低7%，
 到明年的6月再继续换27011继续比6月的成本低7%，持续几年基本上中证500的成本就为0了。 https://t.co/40ovma4LGQ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN-GroHSRvtMjRcnckmGsTchEmxt-fAAIWFGsbcr9AV_fG0qwoorVIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN-WroHSefYgNbuDRG7RTEoiPrKHWGAAIXFGsbcr9AV1t3beAf9daYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-02 14:42:56
 
-[查看原文](https://x.com/xiaomustock/status/2117116756527652954)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+印度人吃饭是真恶心直接地上吃，
+村里给狗喂食还放个盆不忍心倒地上。
+这吃法狗都不如。 https://t.co/Yon7gUESvk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN-mroMu9yVQpPHMsPtgnJX0rVPTkbAAJKFGsbcr9AV9w3JQuHB1gJAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2117145417821683842)
 
 ---
 
