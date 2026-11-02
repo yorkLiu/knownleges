@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 644 条推文
+> 📊 推文存档 - 共 645 条推文
 
 ---
 
@@ -81,8 +81,6 @@ I hope so💪💪💪
 
 還有一提「牆人劣根性」就是全世界都一樣，哪裡都有好人哪裡都有壞人。那麼問題又來了，哪裡都一樣，你怎麼不回中國生活？
 
-[查看原文](https://x.com/dianzhuXS/status/2117038798479712701)
-
 ---
 
 ## 2026-11-02 07:54:31
@@ -93,9 +91,22 @@ I hope so💪💪💪
 
 確實如此 https://t.co/rhEdqYzhs9
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN9mrn1HxDPufxNTTo_bfmB9FfacGAAALqFGsbVBhAVxSx_GPdHEe8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2117042633487048732)
+## 2026-11-02 08:35:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+說一聲啊
+韭菜國，戾害國，鹽鹼地，精神病國⋯⋯都是老黃曆了
+我個人認為
+在習近平死之前
+最實至名歸的稱呼就是「習奴國」
+同意的請舉手✋
+
+[查看原文](https://x.com/dianzhuXS/status/2117052893350293980)
 
 ---
 
