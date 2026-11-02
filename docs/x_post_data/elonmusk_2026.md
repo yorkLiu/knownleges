@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4388 条推文
+> 📊 推文存档 - 共 4389 条推文
+
+---
+
+## 2026-11-03 04:59:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the way
+
+[查看原文](https://x.com/elonmusk/status/2117360990119506022)
 
 ---
 
