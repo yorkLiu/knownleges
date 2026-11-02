@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 185 条推文
+> 📊 推文存档 - 共 186 条推文
 
 ---
 
@@ -55,11 +55,17 @@ tags: ["2026"]
 
 鱼哥不仅对盘面有所见长，对国际局势也稍窥一角。简单称之为：牛逼。 https://t.co/DB0vhUGtMP
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN_2romKlEjV3_Pt5Ov_WsI9UcO_e-AALIFGsbcr9IV_ghTkmzXMWoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOAAFq6JiswY0t-0UOdqJv6kkx34QCjAACyRRrG3K_SFeHQnUFdrBWjQEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-02 23:01:41
 
-[查看原文](https://x.com/iiiinvest/status/2117252331205238814)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+纳指+0.5%，半导体龙头美光竟然是跌的。核心逻辑就是我白天发的这篇。再提醒一遍：大盘可能反转，但半导体板块牛市已经结束，放弃幻想，认清现实！
+
+[查看原文](https://x.com/iiiinvest/status/2117270932037501148)
 
 ---
 
