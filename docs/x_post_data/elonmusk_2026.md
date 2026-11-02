@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4386 条推文
+> 📊 推文存档 - 共 4388 条推文
 
 ---
 
@@ -444,7 +444,33 @@ RT @XFreeze: Elon Musk's naming choices for Colossus 2 are on a completely diffe
 • Minihard
 • Gun Ra…
 
-[查看原文](https://x.com/elonmusk/status/2117257075810316342)
+---
+
+## 2026-11-02 23:09:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @shaunmmaguire @uncovered_alpha Future super intelligence compute will obviously be overwhelmingly in space. 
+
+By “overwhelmi…
+
+[查看原文](https://x.com/elonmusk/status/2117272824830210391)
+
+---
+
+## 2026-11-02 23:10:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Bot is literally a game changer for me
+
+I can't say this enough, but Grok Bot has given me soo much peace of mind. It bas…
+
+[查看原文](https://x.com/elonmusk/status/2117273153676149033)
 
 ---
 
