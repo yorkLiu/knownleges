@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 454 条推文
+> 📊 推文存档 - 共 455 条推文
 
 ---
 
@@ -18,8 +18,6 @@ tags: ["2026"]
 **内容**:
 
 每次大a一反弹就想再抄底
-
-[查看原文](https://x.com/xiaomustock/status/2117101050973057257)
 
 ---
 
@@ -32,9 +30,23 @@ tags: ["2026"]
 韩国出口数据相当于存储的销售数据，
 相当于10月份的存储继续创纪录 https://t.co/Uq01Ubebvi
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN92roDptDPWXjFgABGrpL-ZS3fr276QAC4RNrG3K_QFdw3GW98r5kmAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2117101634224574491)
+## 2026-11-02 12:49:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+现在估计是滚ic的好时机，
+如果现在买2706的ic，相当于比现价低7%，
+到明年的6月再继续换27011继续比6月的成本低7%，持续几年基本上中证500的成本就为0了。 https://t.co/40ovma4LGQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN-GroHSRvtMjRcnckmGsTchEmxt-fAAIWFGsbcr9AV_fG0qwoorVIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIN-WroHSefYgNbuDRG7RTEoiPrKHWGAAIXFGsbcr9AV1t3beAf9daYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2117116756527652954)
 
 ---
 
