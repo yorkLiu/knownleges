@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 187 条推文
+> 📊 推文存档 - 共 188 条推文
 
 ---
 
@@ -19,7 +19,26 @@ tags: ["2026"]
 
 一觉醒来又跳水了，不断提示半导体风险，希望救了部分兄弟！❤️
 
-[查看原文](https://x.com/iiiinvest/status/2117420697928757594)
+---
+
+## 2026-11-03 11:27:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+卖出纳指QQQ，保留币股MSTR
+
+昨晚发生了什么
+1、伊朗释放谈判缓和信号，特朗普说中选后不打，油价大跌。
+2、纳指开盘上涨最多1.3%，收盘直接干到-1%，不受宏观利好影响，独立下跌。
+
+为什么
+1、比较明面上的，中选结果出炉在即，目前Polymarket上共和党输两院大概率，资金在避险。 https://t.co/3vsr6loAL9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOAmrpVZQ_TgpkYr8qfINdYAhtkX2GAAK1FWsbcr9IV29dmuYaNjVdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2117458532849377366)
 
 ---
 
