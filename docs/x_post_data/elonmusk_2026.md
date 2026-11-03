@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4444 条推文
+> 📊 推文存档 - 共 4445 条推文
 
 ---
 
@@ -69,8 +69,6 @@ RT @RobSchneider: GO OUT AND VOTE‼️🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸�
 
 RT @the_jefferymead: Good work sir! Follow his example if you haven’t voted yet and go vote!
 
-[查看原文](https://x.com/elonmusk/status/2117663408883482938)
-
 ---
 
 ## 2026-11-04 01:01:18
@@ -82,10 +80,6 @@ RT @the_jefferymead: Good work sir! Follow his example if you haven’t voted ye
 RT @Wightout66: Just voted red in PA
 
 Go vote! https://t.co/KMvS3AZCZe
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOFGrqGcP-CSysj-FT5EmEcTzmu-MTAAIfE2sblIhZV3c6paJdfVHEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2117663422246490160)
 
 ---
 
@@ -99,8 +93,6 @@ RT @GuntherEagleman: 🚨 Texas, this is the day.
 
 Ken Paxton has spent years fighting Washington for you. Today he needs you to fight for him…
 
-[查看原文](https://x.com/elonmusk/status/2117663467511730395)
-
 ---
 
 ## 2026-11-04 01:03:04
@@ -110,8 +102,6 @@ Ken Paxton has spent years fighting Washington for you. Today he needs you to fi
 **内容**:
 
 Quest to understand the Universe
-
-[查看原文](https://x.com/elonmusk/status/2117663863856377923)
 
 ---
 
@@ -123,8 +113,6 @@ Quest to understand the Universe
 
 Grok @Bot can do complex trips
 
-[查看原文](https://x.com/elonmusk/status/2117664671813767516)
-
 ---
 
 ## 2026-11-04 01:11:25
@@ -134,8 +122,6 @@ Grok @Bot can do complex trips
 **内容**:
 
 Grok @Bot can research which doctors are the best in your area, call them by phone and make an appointment!
-
-[查看原文](https://x.com/elonmusk/status/2117665964862939320)
 
 ---
 
@@ -149,8 +135,6 @@ RT @BlackLabelAdvsr: RED WAVE incoming!
 
 In Dallas, Tarrant, and Collin Counties, wait times at red precincts are significantly higher th…
 
-[查看原文](https://x.com/elonmusk/status/2117666334549201202)
-
 ---
 
 ## 2026-11-04 01:13:15
@@ -163,8 +147,6 @@ RT @GuntherEagleman: BOOM: Lines are wrapping around polling places in Texas thi
 
 Texans do not stand in long l…
 
-[查看原文](https://x.com/elonmusk/status/2117666429411766402)
-
 ---
 
 ## 2026-11-04 01:13:29
@@ -175,10 +157,6 @@ Texans do not stand in long l…
 
 RT @Tesla: POV you’re a flying car https://t.co/q8oRm4tljC
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOE2rqGcAII_sapJvsyv6pZpsW97enAAIeE2sblIhZV7CNJQZxP1ykAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2117666485875478803)
-
 ---
 
 ## 2026-11-04 01:15:07
@@ -188,8 +166,6 @@ RT @Tesla: POV you’re a flying car https://t.co/q8oRm4tljC
 **内容**:
 
 🤨
-
-[查看原文](https://x.com/elonmusk/status/2117666899844866098)
 
 ---
 
@@ -203,10 +179,6 @@ RT @ZeekArkham: Voted today to keep Florida red.
 
 I left the failed politics from New York in New York. https://t.co/aZLArEvBIx
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOEmrqGbzAvaTOOuhukdag4QwblnJ0AAIdE2sblIhZV9uTD_jOSUzEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2117667060646085073)
-
 ---
 
 ## 2026-11-04 01:17:01
@@ -216,8 +188,6 @@ I left the failed politics from New York in New York. https://t.co/aZLArEvBIx
 **内容**:
 
 RT @america: Democrat Nominee for U.S. Senate Abdul El-Sayed calls for amnesty for illegal aliens: “We need a pathway to citizenship for fo…
-
-[查看原文](https://x.com/elonmusk/status/2117667376229683454)
 
 ---
 
@@ -233,8 +203,6 @@ Today X is the #1 news app in 167 countries.
 
 And on Election Day, you can see it li…
 
-[查看原文](https://x.com/elonmusk/status/2117667421838274972)
-
 ---
 
 ## 2026-11-04 01:17:30
@@ -247,8 +215,6 @@ RT @XFreeze: United Airlines just reached a major milestone: Starlink Wi-Fi is n
 
 United's official…
 
-[查看原文](https://x.com/elonmusk/status/2117667496392307004)
-
 ---
 
 ## 2026-11-04 01:17:38
@@ -258,8 +224,6 @@ United's official…
 **内容**:
 
 RT @AlexToughTakes: I’m gay. I voted straight Republican today. The party that secured the border and lets me live openly beats the one tha…
-
-[查看原文](https://x.com/elonmusk/status/2117667530923745731)
 
 ---
 
@@ -273,7 +237,19 @@ RT @AshleyRindsberg: Over the past months, a single Wikipedia editor has been qu
 
 The editing has been…
 
-[查看原文](https://x.com/elonmusk/status/2117669499394814034)
+---
+
+## 2026-11-04 03:51:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SwipeWright: Remember this image when you vote today. 🇺🇸 https://t.co/AgG4nHH49q
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOFmrqPlnAlfVNLKnmYfoH6goOus57AAI-E2sblIhZV64UNKfGnkeaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2117706258673217584)
 
 ---
 
