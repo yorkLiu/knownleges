@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4400 条推文
+> 📊 推文存档 - 共 4406 条推文
 
 ---
 
@@ -145,7 +145,85 @@ RT @Rothmus: 9 of America’s top 10 foreign aid recipients voted against us mor
 
 Jordan takes $1.74 billion and vot…
 
-[查看原文](https://x.com/elonmusk/status/2117473938024357953)
+---
+
+## 2026-11-03 12:35:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Elon Musk on going "from the impossible to the merely late," his own description of how Starship got built:
+
+"When we fi…
+
+[查看原文](https://x.com/elonmusk/status/2117475670745853964)
+
+---
+
+## 2026-11-03 12:40:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: The single most important thing I can share with you going into Election Day is the following website: 
+
+https://t.co/244…
+
+[查看原文](https://x.com/elonmusk/status/2117476969579163956)
+
+---
+
+## 2026-11-03 12:48:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @thatsKAIZEN: It’s the same thing every time:
+
+1. A black person has the courage to point the objective truth about slavery.
+ 
+2. Person…
+
+[查看原文](https://x.com/elonmusk/status/2117478883175837856)
+
+---
+
+## 2026-11-03 12:51:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2117479668768981376)
+
+---
+
+## 2026-11-03 12:54:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pbeisel: A lot of very smart people are tying themselves in knots trying to explain why dissipating heat from a compute satellite is im…
+
+[查看原文](https://x.com/elonmusk/status/2117480528618397848)
+
+---
+
+## 2026-11-03 13:02:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MillionInt: Space datacenters actually make sense
+
+[查看原文](https://x.com/elonmusk/status/2117482570757656836)
 
 ---
 
