@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 540 条推文
+> 📊 推文存档 - 共 541 条推文
+
+---
+
+## 2026-11-04 01:06:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AAOI signs $194.4M/year contract with Yuunan Germanium. 
+
+This is for 2027 alone, with a 5 year contract. Given an implied total of ~$970M in InP substrates over 5 years (before price hikes)
+
+Hmm just some thoughts: 
+
+- AOI laser capacity expansion seems bigger than what’s https://t.co/cslTXlj50c
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOFWrqGcjwiBYYCziDgXEixrqn1_SwAAIgE2sblIhZV85HgzkSCKlnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117664715811995717)
 
 ---
 
