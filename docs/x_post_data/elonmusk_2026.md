@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4407 条推文
+> 📊 推文存档 - 共 4417 条推文
 
 ---
 
@@ -227,7 +227,140 @@ Not in a primary (voted against) or a general election (left blank)
 
 Yet tomorrow I wi…
 
-[查看原文](https://x.com/elonmusk/status/2117596888652550165)
+---
+
+## 2026-11-03 20:57:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @InvestLikeBest: Gavin Baker (@GavinSBaker) on orbital compute:
+
+"The most important thing in the next 3-4 years is data centers in spac…
+
+[查看原文](https://x.com/elonmusk/status/2117601981925888282)
+
+---
+
+## 2026-11-03 20:57:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Jay Leno says @elonmusk is the Thomas Edison or the Henry Ford, and Tesla's factories are the proof. https://t.co/rdZprU…
+
+[查看原文](https://x.com/elonmusk/status/2117602132832424371)
+
+---
+
+## 2026-11-03 20:58:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kevinnbass: Hasan Piker: "We want more immigrants to come into your countries and then they’re gonna fuck your sisters and then your da…
+
+[查看原文](https://x.com/elonmusk/status/2117602268375900522)
+
+---
+
+## 2026-11-03 21:00:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DwayneStovall: A vote for @jamestalarico is a vote to destroy Texas.
+
+[查看原文](https://x.com/elonmusk/status/2117602798300963196)
+
+---
+
+## 2026-11-03 21:00:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DogecoinNorway: Largest car brands in Norway 2026 https://t.co/sCfVkrKsNF
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOCWrp3558MrC38wABYNP9coqf0VKJqgACuBVrG3K_UFduk8-qeMpjGgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2117602869578715158)
+
+---
+
+## 2026-11-03 21:01:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DimaZeniuk: This is why a SpaceX engineer chose to work with Elon Musk https://t.co/aTZHJfaJWl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOCGrp35tEd0DJJi-Gs5WAwC7TC8wQAAK3FWsbcr9QV1XYZNLTjsf5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2117602985861636421)
+
+---
+
+## 2026-11-03 21:01:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: On this day in 2011: Tesla told shareholders it expected $195 million to $200 million in revenue for the entire year.
+
+M…
+
+[查看原文](https://x.com/elonmusk/status/2117603030564585699)
+
+---
+
+## 2026-11-03 21:02:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @HankDesmondPhD: I am a lifelong Democrat. 
+
+But for the first time ever, I will be voting Republican tomorrow. 
+
+Why? Because the Trump…
+
+[查看原文](https://x.com/elonmusk/status/2117603290816864270)
+
+---
+
+## 2026-11-03 21:05:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KenPaxtonTX: Tomorrow, stand up for Texas—our families, freedoms, and future. Don’t sit on the sidelines: VOTE! Call family, text frien…
+
+[查看原文](https://x.com/elonmusk/status/2117604107355558099)
+
+---
+
+## 2026-11-03 21:11:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Starlink's mobile app has grown massively worldwide over the past three years
+
+Between September 2023 and September 2026:
+• Mo…
+
+[查看原文](https://x.com/elonmusk/status/2117605474392854848)
 
 ---
 
