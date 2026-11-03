@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 538 条推文
+> 📊 推文存档 - 共 539 条推文
 
 ---
 
@@ -87,9 +87,23 @@ They identify $SIVE / Scintil Photonics as new CW / ELS capacity, with names lik
 
 - "With Lumentum sold out https://t.co/8E9bpajKp0
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOBmrprMI1AqPo0-dr3Pj4vBRXTwTCAALvFGsbcr9QV_e5YUqlfdJFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117550199895896490)
+## 2026-11-03 23:06:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Agility Robotics merger is now approved!
+
+$AGLT is expected to begin trading November 5th, following the November 4 closing... As the first US pure-play humanoid company!
+
+The company is backed by $NVDA, $AMZN, Foxconn, Softbank, and others... to automate human work in warehouses https://t.co/zg7cDdNV07
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIODGrp_K3XCViadzRo3Shs4fodSdYbAAKzFGsblIhRV9Thrg1bhkKQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117634458778247210)
 
 ---
 
