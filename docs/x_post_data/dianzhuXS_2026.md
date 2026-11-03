@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 662 条推文
+> 📊 推文存档 - 共 663 条推文
 
 ---
 
@@ -150,7 +150,19 @@ tags: ["2026"]
 沒有任何希望
 😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2117551360581464287)
+---
+
+## 2026-11-03 17:56:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大A股民對號入座 https://t.co/aQzw7ax5LS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOB2rptAZfXhJjohZhnL7AgQhHHBEcAAIFFWsbcr9QV3XhoSXOVbzpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2117556580002791574)
 
 ---
 
