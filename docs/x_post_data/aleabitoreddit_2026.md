@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 536 条推文
+> 📊 推文存档 - 共 537 条推文
 
 ---
 
@@ -57,9 +57,23 @@ Annualized Q3 would be $1.61B operating profit.
 
 They’re also sitting on $757M net cash https://t.co/8TJCIUKpIe
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOBGrpeeYTGXkrg28atpIrgwKvp7MwAAIxFGsbcr9QV6UYbRRqA8PwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117493886100918684)
+## 2026-11-03 16:47:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just to show a point... AI names have crashed so much to the point $POET as a business is now considered close to worthless.
+
+It's now $829.7M MC vs. ~$788M net cash. And below its $847.5M book value.
+
+Considering institutions were funding it $400m at $21, with $26.25 exercisable https://t.co/YeHa5n7xXt
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOBWrppX5sElqGp4FwJlE2VytzBFkUAALbFGsbcr9QV7hgKzGvRdhiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117539121434591711)
 
 ---
 
