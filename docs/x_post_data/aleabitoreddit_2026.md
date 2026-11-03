@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 535 条推文
+> 📊 推文存档 - 共 536 条推文
 
 ---
 
@@ -39,7 +39,27 @@ $SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn�
 
 Samsung wouldn’t be selling 5-10Y LTAs to Chinese big tech, if Alibaba/Tencent/Bytedance saw
 
-[查看原文](https://x.com/aleabitoreddit/status/2117437833820672397)
+---
+
+## 2026-11-03 13:47:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nah markets are trolling now… $ESMT ($2.3B MC) memory earnings + investor conference:
+
+- Revenue: $679.4M
+- Gross profit: $526.2M (77.44% margin)
+- Operating profit: $403.4M (59.37% margin)
+
+Annualized Q3 would be $1.61B operating profit. 
+
+They’re also sitting on $757M net cash https://t.co/8TJCIUKpIe
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOBGrpeeYTGXkrg28atpIrgwKvp7MwAAIxFGsbcr9QV6UYbRRqA8PwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117493886100918684)
 
 ---
 

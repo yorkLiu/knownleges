@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 458 条推文
+> 📊 推文存档 - 共 459 条推文
 
 ---
 
@@ -20,9 +20,21 @@ tags: ["2026"]
 距离anthropic上市就一俩周的时间了，
 市场这么烂，再募资千亿美金吸血都别想活了。纯硬着头皮上市。 https://t.co/QPrWlylk4Q
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOA2rpXNR3HxvOPd6vNyHhY8eibboDAALGFWsbcr9IV_VLmKxSxqwIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2117462204727615492)
+## 2026-11-03 13:35:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这段时间都知道anthropic上市会类似spcx上市融资吸血暴跌，
+但是很少有人能忍住这么跌不抄底，
+太难了，能忍住不抄的人是真牛逼。
+我是总觉得会有点小反弹，
+但一遍又一遍被打脸。
+
+[查看原文](https://x.com/xiaomustock/status/2117490951384137952)
 
 ---
 
