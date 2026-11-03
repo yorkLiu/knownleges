@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 539 条推文
+> 📊 推文存档 - 共 540 条推文
 
 ---
 
@@ -101,9 +101,23 @@ $AGLT is expected to begin trading November 5th, following the November 4 closin
 
 The company is backed by $NVDA, $AMZN, Foxconn, Softbank, and others... to automate human work in warehouses https://t.co/zg7cDdNV07
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIODGrp_K3XCViadzRo3Shs4fodSdYbAAKzFGsblIhRV9Thrg1bhkKQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117634458778247210)
+## 2026-11-03 23:27:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Glad to see high beta AI semis like $AEHR or $FN rallying after earnings. 
+
+I wonder if anyone previously on leverage is still alive to see a potential recovery? https://t.co/u1niEPMhDc
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIODWrqA_PTT6DFhzuXDz_YQvClFaJWAAL6EmsblIhZV4DK5BCMXK-WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIODmrqA_V3n7q7PIVs59q2wnsuNkkTAAL7EmsblIhZV2_GP7xANPRcAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117639781572366705)
 
 ---
 
