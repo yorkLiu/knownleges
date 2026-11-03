@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4417 条推文
+> 📊 推文存档 - 共 4423 条推文
 
 ---
 
@@ -239,8 +239,6 @@ RT @InvestLikeBest: Gavin Baker (@GavinSBaker) on orbital compute:
 
 "The most important thing in the next 3-4 years is data centers in spac…
 
-[查看原文](https://x.com/elonmusk/status/2117601981925888282)
-
 ---
 
 ## 2026-11-03 20:57:46
@@ -250,8 +248,6 @@ RT @InvestLikeBest: Gavin Baker (@GavinSBaker) on orbital compute:
 **内容**:
 
 RT @teslaownersSV: Jay Leno says @elonmusk is the Thomas Edison or the Henry Ford, and Tesla's factories are the proof. https://t.co/rdZprU…
-
-[查看原文](https://x.com/elonmusk/status/2117602132832424371)
 
 ---
 
@@ -263,8 +259,6 @@ RT @teslaownersSV: Jay Leno says @elonmusk is the Thomas Edison or the Henry For
 
 RT @kevinnbass: Hasan Piker: "We want more immigrants to come into your countries and then they’re gonna fuck your sisters and then your da…
 
-[查看原文](https://x.com/elonmusk/status/2117602268375900522)
-
 ---
 
 ## 2026-11-03 21:00:24
@@ -274,8 +268,6 @@ RT @kevinnbass: Hasan Piker: "We want more immigrants to come into your countrie
 **内容**:
 
 RT @DwayneStovall: A vote for @jamestalarico is a vote to destroy Texas.
-
-[查看原文](https://x.com/elonmusk/status/2117602798300963196)
 
 ---
 
@@ -287,10 +279,6 @@ RT @DwayneStovall: A vote for @jamestalarico is a vote to destroy Texas.
 
 RT @DogecoinNorway: Largest car brands in Norway 2026 https://t.co/sCfVkrKsNF
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOCWrp3558MrC38wABYNP9coqf0VKJqgACuBVrG3K_UFduk8-qeMpjGgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2117602869578715158)
-
 ---
 
 ## 2026-11-03 21:01:09
@@ -300,10 +288,6 @@ RT @DogecoinNorway: Largest car brands in Norway 2026 https://t.co/sCfVkrKsNF
 **内容**:
 
 RT @DimaZeniuk: This is why a SpaceX engineer chose to work with Elon Musk https://t.co/aTZHJfaJWl
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOCGrp35tEd0DJJi-Gs5WAwC7TC8wQAAK3FWsbcr9QV1XYZNLTjsf5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2117602985861636421)
 
 ---
 
@@ -316,8 +300,6 @@ RT @DimaZeniuk: This is why a SpaceX engineer chose to work with Elon Musk https
 RT @teslaownersSV: On this day in 2011: Tesla told shareholders it expected $195 million to $200 million in revenue for the entire year.
 
 M…
-
-[查看原文](https://x.com/elonmusk/status/2117603030564585699)
 
 ---
 
@@ -333,8 +315,6 @@ But for the first time ever, I will be voting Republican tomorrow.
 
 Why? Because the Trump…
 
-[查看原文](https://x.com/elonmusk/status/2117603290816864270)
-
 ---
 
 ## 2026-11-03 21:05:37
@@ -344,8 +324,6 @@ Why? Because the Trump…
 **内容**:
 
 RT @KenPaxtonTX: Tomorrow, stand up for Texas—our families, freedoms, and future. Don’t sit on the sidelines: VOTE! Call family, text frien…
-
-[查看原文](https://x.com/elonmusk/status/2117604107355558099)
 
 ---
 
@@ -360,7 +338,85 @@ RT @XFreeze: Starlink's mobile app has grown massively worldwide over the past t
 Between September 2023 and September 2026:
 • Mo…
 
-[查看原文](https://x.com/elonmusk/status/2117605474392854848)
+---
+
+## 2026-11-03 22:33:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Build just got a massive performance and reliability upgrade, with improvements across multi-agent workflows, terminal re…
+
+[查看原文](https://x.com/elonmusk/status/2117626274365788210)
+
+---
+
+## 2026-11-03 22:33:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: I was at the beach with a couple of friends, and we were all hungry and wanted to find a really good restaurant for dinner
+
+Bu…
+
+[查看原文](https://x.com/elonmusk/status/2117626333974983007)
+
+---
+
+## 2026-11-03 22:34:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2117626410529689678)
+
+---
+
+## 2026-11-03 22:35:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Chesschick01: The replies to this post are amazing. This guy doesn’t even understand how much Elon Musk has saved the taxpayer with Spa…
+
+[查看原文](https://x.com/elonmusk/status/2117626660610585069)
+
+---
+
+## 2026-11-03 22:35:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottPresler: Texas,
+
+I ask for your votes for Ken Paxton for the US Senate. 
+
+@KenPaxtonTX https://t.co/tpt1Uwjc6y
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOCmrp9WgxBhl31yXcbTIQvsU3Jrj_AAIKFmsbcr9QV0qPPisahT58AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2117626690062942516)
+
+---
+
+## 2026-11-03 22:35:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Vote red today!
+
+[查看原文](https://x.com/elonmusk/status/2117626744668905487)
 
 ---
 

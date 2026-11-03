@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 663 条推文
+> 📊 推文存档 - 共 665 条推文
 
 ---
 
@@ -160,9 +160,45 @@ tags: ["2026"]
 
 大A股民對號入座 https://t.co/aQzw7ax5LS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOB2rptAZfXhJjohZhnL7AgQhHHBEcAAIFFWsbcr9QV3XhoSXOVbzpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2117556580002791574)
+## 2026-11-03 22:36:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🎉🎉🎉 VOTE RED 🎉🎉🎉
+集氣，集氣，集氣
+
+2026美國中期選舉
+共和黨拿下參眾兩院
+
+【全紅，全紅，全紅】
+
+全世界正常人聯合起來
+守護我們的正確時間線
+
+川普牛逼
+投紅票牛逼
+正常人牛逼
+💪💪💪 https://t.co/IL4W1NGu8i
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOC2rp9W6fGXwS9O6WL058Xtjpc8FZAAILFmsbcr9QVz68-rH6z3-1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2117626967310938270)
+
+---
+
+## 2026-11-03 22:44:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Vote red today!
+
+[查看原文](https://x.com/dianzhuXS/status/2117628957814300765)
 
 ---
 
