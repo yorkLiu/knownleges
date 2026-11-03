@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4393 条推文
+> 📊 推文存档 - 共 4396 条推文
 
 ---
 
@@ -41,8 +41,6 @@ RT @DrewPavlou: FAR-LEFT VIOLENCE IN AUSTRALIA.
 
 One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple fa…
 
-[查看原文](https://x.com/elonmusk/status/2117440577281347649)
-
 ---
 
 ## 2026-11-03 10:16:25
@@ -54,8 +52,6 @@ One Nation volunteer hospitalised in Australia with bleeding of the brain and mu
 RT @VigilantFox: Steven Bartlett asks James Talarico how Texas chases “equality” without chasing off figures like @ElonMusk.
 
 Talarico’s an…
-
-[查看原文](https://x.com/elonmusk/status/2117440734119039353)
 
 ---
 
@@ -71,7 +67,45 @@ Talarico is a left-wing extremist.
 
 Just listen to him in his own wor…
 
-[查看原文](https://x.com/elonmusk/status/2117441028756058232)
+---
+
+## 2026-11-03 10:45:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @realDonaldTrump: TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement a…
+
+[查看原文](https://x.com/elonmusk/status/2117447949051437342)
+
+---
+
+## 2026-11-03 10:45:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rothmus: Talarico has outspent Paxton nearly 9-to-1 since July.
+
+$89.4 million vs $10 million.
+
+He’s also spent $11.6M MORE THAN HE RAI…
+
+[查看原文](https://x.com/elonmusk/status/2117448110821585296)
+
+---
+
+## 2026-11-03 10:56:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow
+
+[查看原文](https://x.com/elonmusk/status/2117450915875852697)
 
 ---
 
