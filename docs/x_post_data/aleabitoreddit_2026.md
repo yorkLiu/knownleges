@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 534 条推文
+> 📊 推文存档 - 共 535 条推文
 
 ---
 
@@ -25,9 +25,21 @@ The margins on that are likely 60%+… which shows how profitable laser players 
 
 In terms of the $MRVL https://t.co/bCMoPUvLJX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOAWroxECqQLGJSVNF9yjRwUd03kmPAAIDFWsbcr9IVwh6Blo7mDi_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117296667108278605)
+## 2026-11-03 10:04:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+People on X (now YC companies included) learned that it’s easier to doompost for impressions.
+
+$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.
+
+Samsung wouldn’t be selling 5-10Y LTAs to Chinese big tech, if Alibaba/Tencent/Bytedance saw
+
+[查看原文](https://x.com/aleabitoreddit/status/2117437833820672397)
 
 ---
 

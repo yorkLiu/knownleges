@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4390 条推文
+> 📊 推文存档 - 共 4393 条推文
 
 ---
 
@@ -29,7 +29,49 @@ This is the way
 
 Grok @Bot improvements
 
-[查看原文](https://x.com/elonmusk/status/2117422818648555595)
+---
+
+## 2026-11-03 10:15:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DrewPavlou: FAR-LEFT VIOLENCE IN AUSTRALIA. 
+
+One Nation volunteer hospitalised in Australia with bleeding of the brain and multiple fa…
+
+[查看原文](https://x.com/elonmusk/status/2117440577281347649)
+
+---
+
+## 2026-11-03 10:16:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @VigilantFox: Steven Bartlett asks James Talarico how Texas chases “equality” without chasing off figures like @ElonMusk.
+
+Talarico’s an…
+
+[查看原文](https://x.com/elonmusk/status/2117440734119039353)
+
+---
+
+## 2026-11-03 10:17:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @karolineleavitt: There is nothing moderate about James Talarico.
+
+Talarico is a left-wing extremist.
+
+Just listen to him in his own wor…
+
+[查看原文](https://x.com/elonmusk/status/2117441028756058232)
 
 ---
 
