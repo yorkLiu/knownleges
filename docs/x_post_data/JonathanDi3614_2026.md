@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 79 条推文
+> 📊 推文存档 - 共 80 条推文
+
+---
+
+## 2026-11-04 00:22:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A股有个反直觉的现象：到了合理估值，反而加速上涨；跌到合理估值，反而加速下跌。
+等待中长线
+根子不在估值本身，在两类投资者的断层。
+
+一类人追求安全边际，对估值容忍度低。另一类人追求高成长，愿意给高溢价。同一只成长股，前者觉得贵了，后者觉得还能涨。 https://t.co/g7ZfABKduz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOEGrqCzLWh0LlSTua8dY0ipp3hEBCAAIGE2sblIhZV27wilGm7tagAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2117653567855038774)
 
 ---
 
