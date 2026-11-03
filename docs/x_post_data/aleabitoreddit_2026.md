@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 537 条推文
+> 📊 推文存档 - 共 538 条推文
 
 ---
 
@@ -71,9 +71,25 @@ It's now $829.7M MC vs. ~$788M net cash. And below its $847.5M book value.
 
 Considering institutions were funding it $400m at $21, with $26.25 exercisable https://t.co/YeHa5n7xXt
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOBWrppX5sElqGp4FwJlE2VytzBFkUAALbFGsbcr9QV7hgKzGvRdhiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117539121434591711)
+## 2026-11-03 17:31:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Counterpoint on $MRVL / $LITE acqusition:
+
+- "Every buyer that competes with Marvell will want a second, independent laser source".
+
+They identify $SIVE / Scintil Photonics as new CW / ELS capacity, with names like $CRDO as potential partners of Sivers.
+
+- "With Lumentum sold out https://t.co/8E9bpajKp0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOBmrprMI1AqPo0-dr3Pj4vBRXTwTCAALvFGsbcr9QV_e5YUqlfdJFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117550199895896490)
 
 ---
 
