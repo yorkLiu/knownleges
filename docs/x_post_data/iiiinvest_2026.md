@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 188 条推文
+> 📊 推文存档 - 共 189 条推文
 
 ---
 
@@ -36,9 +36,22 @@ tags: ["2026"]
 为什么
 1、比较明面上的，中选结果出炉在即，目前Polymarket上共和党输两院大概率，资金在避险。 https://t.co/3vsr6loAL9
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOAmrpVZQ_TgpkYr8qfINdYAhtkX2GAAK1FWsbcr9IV29dmuYaNjVdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2117458532849377366)
+## 2026-11-03 19:31:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+兄弟们，慢下来！
+
+现在这几把行情，一天2方向，你选不对就挨刀，着急把脖子伸过去干什么。我建议：
+
+1、如果你对自己短线有自信。可以做做日内，这种大波动行情短线确实能赚钱。
+2、如果你看不清，拿着现金。那就等等，不想着买到最低点，也就不会买在半山腰，耐心等右侧机会。
+
+[查看原文](https://x.com/iiiinvest/status/2117580398351835171)
 
 ---
 
