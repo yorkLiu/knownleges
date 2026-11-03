@@ -7,7 +7,22 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 457 条推文
+> 📊 推文存档 - 共 458 条推文
+
+---
+
+## 2026-11-03 11:41:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+距离anthropic上市就一俩周的时间了，
+市场这么烂，再募资千亿美金吸血都别想活了。纯硬着头皮上市。 https://t.co/QPrWlylk4Q
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOA2rpXNR3HxvOPd6vNyHhY8eibboDAALGFWsbcr9IV_VLmKxSxqwIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2117462204727615492)
 
 ---
 

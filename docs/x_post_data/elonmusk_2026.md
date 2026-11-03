@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4396 条推文
+> 📊 推文存档 - 共 4399 条推文
 
 ---
 
@@ -77,8 +77,6 @@ Just listen to him in his own wor…
 
 RT @realDonaldTrump: TO THE GREAT PEOPLE OF TEXAS, GET OUT AND VOTE for these Great Patriots! They have my Complete and Total Endorsement a…
 
-[查看原文](https://x.com/elonmusk/status/2117447949051437342)
-
 ---
 
 ## 2026-11-03 10:45:44
@@ -93,8 +91,6 @@ $89.4 million vs $10 million.
 
 He’s also spent $11.6M MORE THAN HE RAI…
 
-[查看原文](https://x.com/elonmusk/status/2117448110821585296)
-
 ---
 
 ## 2026-11-03 10:56:53
@@ -105,7 +101,43 @@ He’s also spent $11.6M MORE THAN HE RAI…
 
 Wow
 
-[查看原文](https://x.com/elonmusk/status/2117450915875852697)
+---
+
+## 2026-11-03 11:45:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dkmitc: I had my Grok Bot shop around new Auto Insurance. It couldn’t find info about Progressives Glass coverage and as all Tesla owne…
+
+[查看原文](https://x.com/elonmusk/status/2117463040060969417)
+
+---
+
+## 2026-11-03 11:48:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2117463822332314036)
+
+---
+
+## 2026-11-03 11:52:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @shaunmmaguire @broudsov Yeah, much easier to cool in space. 
+
+~1300 W/m^2 is easily achievable for an aluminum radiator poin…
+
+[查看原文](https://x.com/elonmusk/status/2117464990579892594)
 
 ---
 
