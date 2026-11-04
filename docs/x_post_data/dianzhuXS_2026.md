@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 676 条推文
+> 📊 推文存档 - 共 677 条推文
 
 ---
 
@@ -234,8 +234,6 @@ tags: ["2026"]
 既然牠們選擇了毀滅世界
 正常人只能「備戰備荒」
 
-[查看原文](https://x.com/dianzhuXS/status/2117882459333509607)
-
 ---
 
 ## 2026-11-04 15:50:02
@@ -255,9 +253,38 @@ tags: ["2026"]
 如果真能喚醒全世界
 這或許也是不幸之中的萬幸了 https://t.co/cE0YdpWNgB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOHWrq5XeekMUoKNfQTQOX1edHmKrKAAKsFWsblIhZV0jPo3g7DbNoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2117887078105313488)
+## 2026-11-04 16:09:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+好了
+今晚都去喝一杯吧
+放鬆一下～
+
+我們依然要感謝
+每一位投票給共和黨的美國選民
+您們是全人類的英雄
+
+我們依然要感謝
+川普總統不辭辛苦的努力
+
+我本人還要感謝
+支持我的朋友們
+
+沒什麼
+即使天塌下來
+咱們也要有
+為了家人
+扛起一角的勇氣
+
+既然潘朵拉盒子打開了
+那就從現在開始準備吧
+
+[查看原文](https://x.com/dianzhuXS/status/2117892041619231215)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4458 条推文
+> 📊 推文存档 - 共 4460 条推文
 
 ---
 
@@ -370,8 +370,6 @@ RT @EndWokeness: Texas results by group (NBC exit poll):
 🔴 White women: +13 Republican
 🔵 Latino men: +19 Democ…
 
-[查看原文](https://x.com/elonmusk/status/2117885940761059428)
-
 ---
 
 ## 2026-11-04 15:49:25
@@ -386,8 +384,6 @@ RT @EndWokeness: Georgia results by group (NBC exit poll):
 🔴 White women: +29 Republican
 🔵 Black men: +78 Demo…
 
-[查看原文](https://x.com/elonmusk/status/2117886924560245033)
-
 ---
 
 ## 2026-11-04 15:55:15
@@ -398,7 +394,29 @@ RT @EndWokeness: Georgia results by group (NBC exit poll):
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2117888389739634881)
+---
+
+## 2026-11-04 16:16:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot shopping is great
+
+[查看原文](https://x.com/elonmusk/status/2117893633009651980)
+
+---
+
+## 2026-11-04 16:28:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting
+
+[查看原文](https://x.com/elonmusk/status/2117896640929603800)
 
 ---
 
