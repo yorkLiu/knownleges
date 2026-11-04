@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4479 条推文
+> 📊 推文存档 - 共 4480 条推文
 
 ---
 
@@ -90,8 +90,6 @@ very excited to share how we ship crazy amounts of code (30x'd) without…
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2118048421663973792)
-
 ---
 
 ## 2026-11-05 02:39:23
@@ -103,8 +101,6 @@ True
 RT @cb_doge: BREAKING: Vietnam’s Lâm Đồng plans to bring Starlink to areas where poor mobile coverage makes rescue efforts harder.
 
 Around…
-
-[查看原文](https://x.com/elonmusk/status/2118050491188072950)
 
 ---
 
@@ -119,7 +115,19 @@ So I checked.
 
 My bot just called an EV charger installer for a quote.…
 
-[查看原文](https://x.com/elonmusk/status/2118050563145510979)
+---
+
+## 2026-11-05 04:51:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Baconbrix: Bot has this bias for action that makes it feel like the most fearless coworker you’ve ever worked with. 
+
+So much work is n…
+
+[查看原文](https://x.com/elonmusk/status/2118083742048944543)
 
 ---
 
