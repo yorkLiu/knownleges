@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 541 条推文
+> 📊 推文存档 - 共 542 条推文
 
 ---
 
@@ -25,9 +25,19 @@ Hmm just some thoughts:
 
 - AOI laser capacity expansion seems bigger than what’s https://t.co/cslTXlj50c
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOFWrqGcjwiBYYCziDgXEixrqn1_SwAAIgE2sblIhZV85HgzkSCKlnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117664715811995717)
+## 2026-11-04 12:25:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The rhetoric on X and from Elon leans overwhelmingly apocalyptic on Democrats winning.
+
+It's a mini bubble here, but I think people forget AI is bipartisan national security priority, and that $NVDA's historic rally + AI buildout acceleration happened under the Biden admin.
+
+[查看原文](https://x.com/aleabitoreddit/status/2117835682702110999)
 
 ---
 
