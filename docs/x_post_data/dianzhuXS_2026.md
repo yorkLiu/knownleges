@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 682 条推文
+> 📊 推文存档 - 共 683 条推文
 
 ---
 
@@ -39,9 +39,36 @@ tags: ["2026"]
 
 這次的收穫是 https://t.co/cidIRsWJco
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOKGrrojRrAa-TeudomypwqeM_-MEWAAImF2sblIhhV8U44HePMLQ7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2118091120261644777)
+## 2026-11-05 06:38:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+整個地球上的精緻利己們
+
+在你們的腦
+只充滿了油價的時候
+
+請睜眼看看！
+古老的東方
+有一隻惡魔站起來了
+
+你們會看到嗎？
+牠挺胸了
+牠又抬頭了
+腰板越來越直了！
+
+真的沒人關心嗎？
+尤其出生地在鹽鹼地的
+你們是真的不知道
+還是揣著明白裝糊塗？
+
+都TM真瞎還是假瞎？
+
+[查看原文](https://x.com/dianzhuXS/status/2118110697775341988)
 
 ---
 
