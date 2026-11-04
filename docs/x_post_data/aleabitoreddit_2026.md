@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 547 条推文
+> 📊 推文存档 - 共 548 条推文
 
 ---
 
@@ -37,7 +37,21 @@ That even a 20-30% overall demand reduction from a hypothetical DC slowdown woul
 
 We're seeing this before the next architectural shifts, where $NVDA Jensen Huang
 
-[查看原文](https://x.com/aleabitoreddit/status/2118035778253283768)
+---
+
+## 2026-11-05 02:16:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. 
+
+Even $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. 
+
+It's literally a problem of how much you throw at compute for
+
+[查看原文](https://x.com/aleabitoreddit/status/2118044688829845703)
 
 ---
 

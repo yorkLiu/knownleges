@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4475 条推文
+> 📊 推文存档 - 共 4476 条推文
 
 ---
 
@@ -31,8 +31,6 @@ Everyone demos coding, but the pain most people actually have every week is…
 
 RT @davesgoldman: Quick update:  Starlink Mobile is continuing to provide service with Orange and Telefónica following the tragic train der…
 
-[查看原文](https://x.com/elonmusk/status/2118031642786930832)
-
 ---
 
 ## 2026-11-05 01:24:39
@@ -50,8 +48,6 @@ RT @mattyp: Pages in Grok Bot
 2:46 @X posts
 3:44 Re…
 
-[查看原文](https://x.com/elonmusk/status/2118031685023604816)
-
 ---
 
 ## 2026-11-05 01:44:03
@@ -61,8 +57,6 @@ RT @mattyp: Pages in Grok Bot
 **内容**:
 
 RT @cb_doge: BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value…
-
-[查看原文](https://x.com/elonmusk/status/2118036566249758732)
 
 ---
 
@@ -74,7 +68,19 @@ RT @cb_doge: BREAKING: The Government of Canada’s Starlink contract has grown 
 
 Try Grok @Bot. It’s like hiring an amazing assistant!
 
-[查看原文](https://x.com/elonmusk/status/2118036744662880439)
+---
+
+## 2026-11-05 02:15:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: some fun slides from my upcoming talk @aiDotEngineer 
+
+very excited to share how we ship crazy amounts of code (30x'd) without…
+
+[查看原文](https://x.com/elonmusk/status/2118044542628929913)
 
 ---
 
