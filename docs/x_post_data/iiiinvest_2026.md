@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 195 条推文
+> 📊 推文存档 - 共 196 条推文
 
 ---
 
@@ -51,9 +51,17 @@ tags: ["2026"]
 
 走了，挥一挥衣袖带走10万刀。开盘再看~ https://t.co/tc1IXqPrCa
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOGmrq1u24TbGXXHNN8W7hu7-VAUZmAAJXFWsblIhZVwv6tqLk_zcFAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2117871409582235866)
+## 2026-11-04 15:29:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这波，最受伤的是老马。
+
+[查看原文](https://x.com/iiiinvest/status/2117881987814064530)
 
 ---
 

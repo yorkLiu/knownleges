@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 542 条推文
+> 📊 推文存档 - 共 543 条推文
 
 ---
 
@@ -37,7 +37,21 @@ The rhetoric on X and from Elon leans overwhelmingly apocalyptic on Democrats wi
 
 It's a mini bubble here, but I think people forget AI is bipartisan national security priority, and that $NVDA's historic rally + AI buildout acceleration happened under the Biden admin.
 
-[查看原文](https://x.com/aleabitoreddit/status/2117835682702110999)
+---
+
+## 2026-11-04 15:40:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+ちいかわって日本で人気すぎて、お店に入ることすらできないんだけど
+
+ちいかわの株のコールオプションって、どこかで買えないの？w https://t.co/oOx03YAtC0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOHGrq5XJUjOqQvzBnc-4_TZFG7RTzAAKqFWsblIhZV9s-ecBpHPP3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117884722076643829)
 
 ---
 

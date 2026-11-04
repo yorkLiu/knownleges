@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 674 条推文
+> 📊 推文存档 - 共 676 条推文
 
 ---
 
@@ -220,7 +220,44 @@ tags: ["2026"]
 應該還來得及
 😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2117879746935853442)
+---
+
+## 2026-11-04 15:31:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+因為壞逼們忽悠的
+「傻逼的共識也是共識」
+也是同頻共振的效果
+既然牠們選擇了毀滅世界
+正常人只能「備戰備荒」
+
+[查看原文](https://x.com/dianzhuXS/status/2117882459333509607)
+
+---
+
+## 2026-11-04 15:50:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+美國這次中期選舉沉痛的教訓
+希望更多的國家能夠認清
+「洗人口子宮戰術」是亡國之路
+
+雖然我自己的護照顏色還沒有換
+但我絕對希望各國收緊移民政策
+把所有「精緻利己」擋在國門之外
+
+如果真能喚醒全世界
+這或許也是不幸之中的萬幸了 https://t.co/cE0YdpWNgB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOHWrq5XeekMUoKNfQTQOX1edHmKrKAAKsFWsblIhZV0jPo3g7DbNoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2117887078105313488)
 
 ---
 

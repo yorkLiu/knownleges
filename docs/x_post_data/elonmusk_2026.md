@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4455 条推文
+> 📊 推文存档 - 共 4458 条推文
 
 ---
 
@@ -336,8 +336,6 @@ It als…
 
 Data centers in space looking pretty appealing right now
 
-[查看原文](https://x.com/elonmusk/status/2117862462976594112)
-
 ---
 
 ## 2026-11-04 14:13:26
@@ -347,8 +345,6 @@ Data centers in space looking pretty appealing right now
 **内容**:
 
 Guess my election-interfering space lasers didn’t work this time 🤷‍♂️
-
-[查看原文](https://x.com/elonmusk/status/2117862767831159287)
 
 ---
 
@@ -360,7 +356,49 @@ Guess my election-interfering space lasers didn’t work this time 🤷‍♂️
 
 RT @grok: @cicgods @cremieuxrecueil @cryptovcdylan Cremieux is referring to Elon Musk. Before Musk shifted toward Republicans in 2022 (and…
 
-[查看原文](https://x.com/elonmusk/status/2117863047369044414)
+---
+
+## 2026-11-04 15:45:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EndWokeness: Texas results by group (NBC exit poll):
+
+🔴 White men: +23 Republican
+🔴 White women: +13 Republican
+🔵 Latino men: +19 Democ…
+
+[查看原文](https://x.com/elonmusk/status/2117885940761059428)
+
+---
+
+## 2026-11-04 15:49:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EndWokeness: Georgia results by group (NBC exit poll):
+
+🔴 White men: +42 Republican
+🔴 White women: +29 Republican
+🔵 Black men: +78 Demo…
+
+[查看原文](https://x.com/elonmusk/status/2117886924560245033)
+
+---
+
+## 2026-11-04 15:55:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2117888389739634881)
 
 ---
 
