@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 461 条推文
+> 📊 推文存档 - 共 462 条推文
 
 ---
 
@@ -32,9 +32,19 @@ tags: ["2026"]
 我刚抄啊。
 soxl暴跌 https://t.co/JRow4SEicU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOH2rrJtT_EpzzN5nKKguIETT6BtOPAAJXFmsblIhhV4u5J0i6jdpNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2117957684460925003)
+## 2026-11-04 21:08:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+国内说了几十年没发生过的美股崩盘不会被我碰上吧 https://t.co/oKdVJQQE23
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOIGrrNVzk1Ns0jZ-RpRsAAfeEE9jcVAACoBZrG5SIYVdOvGqu-UXanQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2117967177383080436)
 
 ---
 
