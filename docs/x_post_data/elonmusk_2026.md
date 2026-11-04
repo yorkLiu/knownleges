@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4470 条推文
+> 📊 推文存档 - 共 4471 条推文
+
+---
+
+## 2026-11-05 00:22:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @larsencc: Shopping is the most underrated agent use case.
+
+Everyone demos coding, but the pain most people actually have every week is…
+
+[查看原文](https://x.com/elonmusk/status/2118016105444962705)
 
 ---
 

@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 545 条推文
+> 📊 推文存档 - 共 546 条推文
+
+---
+
+## 2026-11-05 00:20:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Little rant, but to show you how rampant deleveraging has become:
+
+- $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. 
+
+- $AAOI is now ~ the same price BEFORE they secured major hyperscaler orders, raised $1.6B for capacity expansion and
+
+[查看原文](https://x.com/aleabitoreddit/status/2118015527440515458)
 
 ---
 
