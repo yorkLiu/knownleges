@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 666 条推文
+> 📊 推文存档 - 共 667 条推文
 
 ---
 
@@ -21,7 +21,37 @@ tags: ["2026"]
 
 他們才是這個世界的英雄，謝謝😊
 
-[查看原文](https://x.com/dianzhuXS/status/2117676022904873046)
+---
+
+## 2026-11-04 08:28:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+選川普也好
+支持共和黨也好
+
+其實都是選自己
+選做一個怎樣的自己
+選在這個世界怎麼活著
+
+美國的優秀在於「信仰」的力量
+這是很多國家的弱項
+簡中圈的「信仰」更是震碎三觀
+
+有些物種理解不了川普
+很正常
+川普根本無需牠們去理解
+很多人看懂了川普
+更正常
+因為我們只是看懂了自己
+
+記住！ https://t.co/UbwgH3J9pJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOGGrqf7s_RGv5kJiaDuRt86z1EB4AA3oTaxuUiFlX8SRKxSCyjXkBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2117775934115938673)
 
 ---
 
