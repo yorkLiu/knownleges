@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 193 条推文
+> 📊 推文存档 - 共 194 条推文
 
 ---
 
@@ -31,7 +31,19 @@ tags: ["2026"]
 
 目前博弈点就是中期选举结果了，目前民主党拿下两院的概率跑到了99%，在选举结果出来前，我认为还会有反复。过犹不及，物极必反。现在我不再看空，关注反弹的机会了。
 
-[查看原文](https://x.com/iiiinvest/status/2117818230471590067)
+---
+
+## 2026-11-04 13:49:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+说过了，半导体反弹！ https://t.co/uKCSoSn1M5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOGWrqyGVm2xqmabO9kg3NThlr50YMAAIMFWsblIhZV6v3yvZ1H555AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2117856735805468892)
 
 ---
 
