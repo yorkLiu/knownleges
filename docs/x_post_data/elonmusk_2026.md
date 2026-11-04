@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4471 条推文
+> 📊 推文存档 - 共 4475 条推文
 
 ---
 
@@ -21,7 +21,60 @@ RT @larsencc: Shopping is the most underrated agent use case.
 
 Everyone demos coding, but the pain most people actually have every week is…
 
-[查看原文](https://x.com/elonmusk/status/2118016105444962705)
+---
+
+## 2026-11-05 01:24:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @davesgoldman: Quick update:  Starlink Mobile is continuing to provide service with Orange and Telefónica following the tragic train der…
+
+[查看原文](https://x.com/elonmusk/status/2118031642786930832)
+
+---
+
+## 2026-11-05 01:24:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattyp: Pages in Grok Bot
+
+0:15 What are Pages?
+0:40 An example page
+1:34 Sharing a Page
+1:55 Tips: use your data
+2:46 @X posts
+3:44 Re…
+
+[查看原文](https://x.com/elonmusk/status/2118031685023604816)
+
+---
+
+## 2026-11-05 01:44:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: The Government of Canada’s Starlink contract has grown to nearly C$29 million, more than 12 times its original value…
+
+[查看原文](https://x.com/elonmusk/status/2118036566249758732)
+
+---
+
+## 2026-11-05 01:44:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot. It’s like hiring an amazing assistant!
+
+[查看原文](https://x.com/elonmusk/status/2118036744662880439)
 
 ---
 

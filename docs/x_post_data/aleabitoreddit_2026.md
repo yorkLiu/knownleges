@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 546 条推文
+> 📊 推文存档 - 共 547 条推文
 
 ---
 
@@ -23,7 +23,21 @@ Little rant, but to show you how rampant deleveraging has become:
 
 - $AAOI is now ~ the same price BEFORE they secured major hyperscaler orders, raised $1.6B for capacity expansion and
 
-[查看原文](https://x.com/aleabitoreddit/status/2118015527440515458)
+---
+
+## 2026-11-05 01:40:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe
+
+That even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. 
+
+We're seeing this before the next architectural shifts, where $NVDA Jensen Huang
+
+[查看原文](https://x.com/aleabitoreddit/status/2118035778253283768)
 
 ---
 
