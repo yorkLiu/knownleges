@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 199 条推文
+> 📊 推文存档 - 共 200 条推文
 
 ---
 
@@ -99,7 +99,19 @@ tags: ["2026"]
 
 是的，你刚经历一轮美股稍大点的回调，并没有一两天就拉回去，就在我们刚刚相信美股永远涨的时候。
 
-[查看原文](https://x.com/iiiinvest/status/2117976670485598659)
+---
+
+## 2026-11-04 23:06:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+比特币重回8万！ https://t.co/F5PakEY68D
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOI2rrSzF8D_RAF4dkLXWlxiRwqgRIAALLFmsblIhhV_pMk1YcEaQ-AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2117997033101594815)
 
 ---
 

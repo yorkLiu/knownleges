@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 543 条推文
+> 📊 推文存档 - 共 544 条推文
 
 ---
 
@@ -49,9 +49,19 @@ It's a mini bubble here, but I think people forget AI is bipartisan national sec
 
 ちいかわの株のコールオプションって、どこかで買えないの？w https://t.co/oOx03YAtC0
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOHGrq5XJUjOqQvzBnc-4_TZFG7RTzAAKqFWsblIhZV9s-ecBpHPP3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2117884722076643829)
+## 2026-11-04 23:04:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I knew about clean energy and healthcare… but apparently Democrats winning were positive for humanoids too? https://t.co/9jyatAc0vs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOImrrSy11o4lrPhbBAj8AAeOAiRQH-AACyhZrG5SIYVcMR66pI9cVwgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2117996413879828556)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4462 条推文
+> 📊 推文存档 - 共 4470 条推文
 
 ---
 
@@ -424,8 +424,6 @@ Interesting
 
 Qualcomm’s technology is excellent
 
-[查看原文](https://x.com/elonmusk/status/2117989292144525474)
-
 ---
 
 ## 2026-11-04 22:37:57
@@ -436,9 +434,105 @@ Qualcomm’s technology is excellent
 
 https://t.co/lh3oMYmp8f
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOIWrrQ-Y6gY1ydci95ZqOY-QGW52EAAK9FmsblIhhV4rv11284sYfAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2117989734492537245)
+## 2026-11-04 22:43:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: I literally just had my Grok @bot make a phone call.
+
+I texted my CEO and told her to order a pizza for pickup at 5 PM,…
+
+[查看原文](https://x.com/elonmusk/status/2117991129870434422)
+
+---
+
+## 2026-11-04 22:45:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @emersonsays: Team and I absolutely ripped on this. Designed and built it in 1 week, shipped it in 2. And the crazy part is it's actuall…
+
+[查看原文](https://x.com/elonmusk/status/2117991704993394749)
+
+---
+
+## 2026-11-04 22:50:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @michaelnicollsx: Excited to build Starlink Mobile with @Qualcomm !
+
+[查看原文](https://x.com/elonmusk/status/2117992786725363742)
+
+---
+
+## 2026-11-04 22:58:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SMB_Attorney: This is 100% real 😂
+
+SpaceXSI is running an ad on a different platform about how to use Grok Bot to buy a local home serv…
+
+[查看原文](https://x.com/elonmusk/status/2117994941255397721)
+
+---
+
+## 2026-11-04 23:00:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot will research purchase ideas, bring back a selection, order them, track the purchases and return anything you don’t want
+
+[查看原文](https://x.com/elonmusk/status/2117995339320070525)
+
+---
+
+## 2026-11-04 23:02:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Free new dish for all early Starlink customers
+
+[查看原文](https://x.com/elonmusk/status/2117995905525907769)
+
+---
+
+## 2026-11-04 23:04:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+At last there will be one network with good signal everywhere!
+
+[查看原文](https://x.com/elonmusk/status/2117996293188718856)
+
+---
+
+## 2026-11-04 23:04:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Norway’s government secures @Starlink access for its military, police and security agencies under a satellite commun…
+
+[查看原文](https://x.com/elonmusk/status/2117996356824678905)
 
 ---
 
