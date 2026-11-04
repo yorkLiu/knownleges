@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4452 条推文
+> 📊 推文存档 - 共 4455 条推文
 
 ---
 
@@ -257,10 +257,6 @@ RT @SwipeWright: Remember this image when you vote today. 🇺🇸 https://t.co/
 
 RT @diydatascience: @Kalshi Great news! Kalshit just failed miserably at Guam: https://t.co/qZjuUUHUVX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOF2rqTNy4OPuKGS_MbUixzmekGqDIAAJEE2sblIhZV7KqBqGKxaFKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2117719759068492115)
-
 ---
 
 ## 2026-11-04 04:46:40
@@ -270,8 +266,6 @@ RT @diydatascience: @Kalshi Great news! Kalshit just failed miserably at Guam: h
 **内容**:
 
 RT @realDonaldTrump: It is my Great Honor to endorse the Highly Respected Attorney General of Texas, Ken Paxton, an America First Patriot,…
-
-[查看原文](https://x.com/elonmusk/status/2117720137831010581)
 
 ---
 
@@ -286,8 +280,6 @@ RT @OpenSourceZone: Greg Abbott’s odds rise with reports of high election day 
 Texas Governor Race Per Kalshi
 🔴 Greg Abbo…
 
-[查看原文](https://x.com/elonmusk/status/2117721054034698339)
-
 ---
 
 ## 2026-11-04 04:55:56
@@ -300,8 +292,6 @@ RT @SemiAnalysis_: Elon Is Doing It Again: SpaceX Will Be The World’s Biggest 
 Making 13GW in 1.5 Years A Reality 
 https://t.co/n6g…
 
-[查看原文](https://x.com/elonmusk/status/2117722468257529958)
-
 ---
 
 ## 2026-11-04 04:56:52
@@ -312,8 +302,6 @@ https://t.co/n6g…
 
 Try asking Grok @Bot to make calls!
 
-[查看原文](https://x.com/elonmusk/status/2117722703738310713)
-
 ---
 
 ## 2026-11-04 04:58:49
@@ -323,8 +311,6 @@ Try asking Grok @Bot to make calls!
 **内容**:
 
 RT @jgebbia: The dangerous incompetency or sinister intentionality of the blue in this graph led me to vote red in 2024, and today. They wi…
-
-[查看原文](https://x.com/elonmusk/status/2117723193586954341)
 
 ---
 
@@ -340,7 +326,41 @@ That's what my Grok @Bot told a Comcast rep who asked about the weather 😂
 
 It als…
 
-[查看原文](https://x.com/elonmusk/status/2117723668336001242)
+---
+
+## 2026-11-04 14:12:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Data centers in space looking pretty appealing right now
+
+[查看原文](https://x.com/elonmusk/status/2117862462976594112)
+
+---
+
+## 2026-11-04 14:13:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Guess my election-interfering space lasers didn’t work this time 🤷‍♂️
+
+[查看原文](https://x.com/elonmusk/status/2117862767831159287)
+
+---
+
+## 2026-11-04 14:14:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @cicgods @cremieuxrecueil @cryptovcdylan Cremieux is referring to Elon Musk. Before Musk shifted toward Republicans in 2022 (and…
+
+[查看原文](https://x.com/elonmusk/status/2117863047369044414)
 
 ---
 
