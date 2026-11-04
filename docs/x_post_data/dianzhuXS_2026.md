@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 667 条推文
+> 📊 推文存档 - 共 668 条推文
 
 ---
 
@@ -49,9 +49,17 @@ tags: ["2026"]
 
 記住！ https://t.co/UbwgH3J9pJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOGGrqf7s_RGv5kJiaDuRt86z1EB4AA3oTaxuUiFlX8SRKxSCyjXkBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2117775934115938673)
+## 2026-11-04 10:01:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我覺得吧，事分輕重緩急，先拿下參議院再說，壓住民主黨別讓小鬼們翻身，共和黨建制派的事以後慢慢來。
+
+[查看原文](https://x.com/dianzhuXS/status/2117799411074081249)
 
 ---
 
