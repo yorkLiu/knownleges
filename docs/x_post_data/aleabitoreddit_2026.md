@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 548 条推文
+> 📊 推文存档 - 共 549 条推文
 
 ---
 
@@ -51,7 +51,23 @@ Even $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the
 
 It's literally a problem of how much you throw at compute for
 
-[查看原文](https://x.com/aleabitoreddit/status/2118044688829845703)
+---
+
+## 2026-11-05 02:36:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. 
+
+Pretty large vote of confidence after the 49.9% drop this month.
+
+Reminds me of the time the former $TSM chairman bought $7.8M of $MU back in the $300's. https://t.co/KLXXwqtL9f
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOJ2rrfgd2M9g7FuyAr5B_MyZNTNQsAAIUF2sblIhhV_5GASe1urF4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2118049698733064433)
 
 ---
 

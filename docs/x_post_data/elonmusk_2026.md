@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4476 条推文
+> 📊 推文存档 - 共 4479 条推文
 
 ---
 
@@ -80,7 +80,46 @@ RT @poteto: some fun slides from my upcoming talk @aiDotEngineer
 
 very excited to share how we ship crazy amounts of code (30x'd) without…
 
-[查看原文](https://x.com/elonmusk/status/2118044542628929913)
+---
+
+## 2026-11-05 02:31:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2118048421663973792)
+
+---
+
+## 2026-11-05 02:39:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Vietnam’s Lâm Đồng plans to bring Starlink to areas where poor mobile coverage makes rescue efforts harder.
+
+Around…
+
+[查看原文](https://x.com/elonmusk/status/2118050491188072950)
+
+---
+
+## 2026-11-05 02:39:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Texas_Twins_Dad: How much usage does a Grok Bot phone call take?
+So I checked.
+
+My bot just called an EV charger installer for a quote.…
+
+[查看原文](https://x.com/elonmusk/status/2118050563145510979)
 
 ---
 
