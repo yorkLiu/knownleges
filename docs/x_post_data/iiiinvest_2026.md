@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 206 条推文
+> 📊 推文存档 - 共 207 条推文
 
 ---
 
@@ -90,7 +90,19 @@ tags: ["2026"]
 
 很不舒服，闷闷的，那种暴风雨前寂静的感觉。如果再来一波血洗，才会把最后的恐慌盘杀出来！
 
-[查看原文](https://x.com/iiiinvest/status/2118315598316994904)
+---
+
+## 2026-11-05 20:30:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+全部止盈了，包括币比特币和币股MSTR，暂时观望，等开盘看看再说！ https://t.co/jBkBP4H9Yh
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOL2rsfC06QxY0FoZ-qMsFKXdCE-zBAALDFGsbxJ9oV_2KIo66KZj8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2118320085379289432)
 
 ---
 
