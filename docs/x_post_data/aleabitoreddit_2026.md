@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 549 条推文
+> 📊 推文存档 - 共 550 条推文
 
 ---
 
@@ -65,9 +65,29 @@ Pretty large vote of confidence after the 49.9% drop this month.
 
 Reminds me of the time the former $TSM chairman bought $7.8M of $MU back in the $300's. https://t.co/KLXXwqtL9f
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOJ2rrfgd2M9g7FuyAr5B_MyZNTNQsAAIUF2sblIhhV_5GASe1urF4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2118049698733064433)
+## 2026-11-05 12:36:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$COHR earnings transcript TLDR:
+
+Q: On $LITE + $MRVL merger.
+
+A. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)
+
+Q: Loop Capital asked about 2028 laser industry oversupply.
+
+A: No oversupply https://t.co/41GPFw5nYT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOKWrsB-1i5YCph72muYg4nirXlEn0AALWFGsbxJ9gV03F3CVK9Y_AAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOKmrsB_GkUoA6tshlKyWiOXw0tQUjAALXFGsbxJ9gV6qhNGJVLY_XAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2118200689453314341)
 
 ---
 
