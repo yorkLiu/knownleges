@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4496 条推文
+> 📊 推文存档 - 共 4497 条推文
 
 ---
 
@@ -61,8 +61,6 @@ Starlink saves lives
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2118388941267317134)
-
 ---
 
 ## 2026-11-06 01:04:47
@@ -72,10 +70,6 @@ True
 **内容**:
 
 RT @Teslaconomics: The only investment advice you need to live by to get through any storm that comes your way $TSLA https://t.co/MOJOo6VdqW
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOM2rsvY62gtiZMW3pbCPvk2pGzP7SAAJqFWsbxJ9oVwTewYQg2nFFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2118389073283060085)
 
 ---
 
@@ -87,8 +81,6 @@ RT @Teslaconomics: The only investment advice you need to live by to get through
 
 Banks arguably has the best vision for the future
 
-[查看原文](https://x.com/elonmusk/status/2118390792490541103)
-
 ---
 
 ## 2026-11-06 01:16:28
@@ -99,7 +91,17 @@ Banks arguably has the best vision for the future
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2118392015226544617)
+---
+
+## 2026-11-06 01:49:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting
+
+[查看原文](https://x.com/elonmusk/status/2118400203158163638)
 
 ---
 
