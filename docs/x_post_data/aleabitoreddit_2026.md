@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 555 条推文
+> 📊 推文存档 - 共 556 条推文
 
 ---
 
@@ -43,11 +43,23 @@ Google also announced they’re using $BE fuel cells for this project.
 
 Guess this news means it’s all over for the AI buildout. https://t.co/WFzqUOiTcH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIONmrs2qCDzo82Ep74FyRXdIyU3rwXAAKmFWsbxJ9oV4dbui-Yye8RAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAION2rs2qRgDme54Orf51aWI1vT-uT2AAKnFWsbxJ9oV_XZ4Q6iH4cCAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-06 04:52:10
 
-[查看原文](https://x.com/aleabitoreddit/status/2118422637320007721)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$GLXY CEO after pushing back on Texas political uncertainty:
+
+"I see a massive disconnect between where Galaxy trades and what I believe this company is worth. 
+
+That’s why I’m buying more stock, starting today."
+
+Good vote of confidence to see colo executives calling out
+
+[查看原文](https://x.com/aleabitoreddit/status/2118446295274901803)
 
 ---
 

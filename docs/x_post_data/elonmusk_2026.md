@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4503 条推文
+> 📊 推文存档 - 共 4505 条推文
 
 ---
 
@@ -121,8 +121,6 @@ RT @KanekoaTheGreat: The irony of all the attacks on @elonmusk over DOGE is that
 
 RT @yunta_tsai: In Iain M. Banks's books, the Culture solves envy—a crux of humanity—by letting every citizen experience what they have not…
 
-[查看原文](https://x.com/elonmusk/status/2118430454215041071)
-
 ---
 
 ## 2026-11-06 03:49:45
@@ -135,8 +133,6 @@ RT @xdNiBoR: Riley Trettel (Energy &amp; Data Center Development at SpaceX) in y
 
 He claims the project…
 
-[查看原文](https://x.com/elonmusk/status/2118430590609612989)
-
 ---
 
 ## 2026-11-06 03:51:35
@@ -146,8 +142,6 @@ He claims the project…
 **内容**:
 
 Interesting
-
-[查看原文](https://x.com/elonmusk/status/2118431051253239889)
 
 ---
 
@@ -159,8 +153,6 @@ Interesting
 
 RT @BostonGlobe: Scientists from across the globe are calling on MIT to review its decision to terminate the tenure of David Sabatini after…
 
-[查看原文](https://x.com/elonmusk/status/2118431871415865705)
-
 ---
 
 ## 2026-11-06 03:56:02
@@ -171,7 +163,29 @@ RT @BostonGlobe: Scientists from across the globe are calling on MIT to review i
 
 RT @christopherrufo: Had coffee with a right-leaning friend who works as a general contractor. He said his daily life was mostly the same b…
 
-[查看原文](https://x.com/elonmusk/status/2118432171102982650)
+---
+
+## 2026-11-06 05:04:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Grok Build packed a serious upgrade into this release, making multi-agent workflows more reliable, easier to control, and much…
+
+[查看原文](https://x.com/elonmusk/status/2118449282231799974)
+
+---
+
+## 2026-11-06 05:05:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DrKnowItAll16: So for my YouTube channel, having @bot take charge of ad integrations is beginning to pay off. For months I was getting…
+
+[查看原文](https://x.com/elonmusk/status/2118449567981310309)
 
 ---
 
