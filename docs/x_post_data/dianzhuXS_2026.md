@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 685 条推文
+> 📊 推文存档 - 共 687 条推文
 
 ---
 
@@ -105,7 +105,37 @@ tags: ["2026"]
 
 https://t.co/wVLza0WdLr
 
-[查看原文](https://x.com/dianzhuXS/status/2118169107669664181)
+---
+
+## 2026-11-05 23:32:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+馬斯克從南非走出來，太了解南非，所以他不希望美國變成大號的南非。
+
+很多中國人從中國走出來，也很了解中國，但牠們希望把美國改造成另一個中國。
+
+牠們口口聲聲討厭習近平，但牠們每一秒都在幫助習近平🤪🤪🤪 https://t.co/rtVLJtcV3f
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOMWrsp8l97uMqQRgluTQowbvBrCC4AAJQFWsbxJ9oV_5cxyqcsUBdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2118365766877863984)
+
+---
+
+## 2026-11-05 23:37:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+盧比奧和萬絲兒這兩天的表現
+告訴我們一個道理
+【相由心生，人必須貌相】
+
+[查看原文](https://x.com/dianzhuXS/status/2118367185064346002)
 
 ---
 
