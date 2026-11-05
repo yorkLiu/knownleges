@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4497 条推文
+> 📊 推文存档 - 共 4498 条推文
 
 ---
 
@@ -101,7 +101,17 @@ True
 
 Interesting
 
-[查看原文](https://x.com/elonmusk/status/2118400203158163638)
+---
+
+## 2026-11-06 03:25:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: The irony of all the attacks on @elonmusk over DOGE is that cutting government spending and regulation is the solution…
+
+[查看原文](https://x.com/elonmusk/status/2118424403998552293)
 
 ---
 
