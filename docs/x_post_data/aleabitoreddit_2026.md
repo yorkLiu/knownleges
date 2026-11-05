@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 550 条推文
+> 📊 推文存档 - 共 551 条推文
 
 ---
 
@@ -83,11 +83,23 @@ Q: Loop Capital asked about 2028 laser industry oversupply.
 
 A: No oversupply https://t.co/41GPFw5nYT
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOKWrsB-1i5YCph72muYg4nirXlEn0AALWFGsbxJ9gV03F3CVK9Y_AAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOKmrsB_GkUoA6tshlKyWiOXw0tQUjAALXFGsbxJ9gV6qhNGJVLY_XAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-05 15:41:58
 
-[查看原文](https://x.com/aleabitoreddit/status/2118200689453314341)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I think this is the time for AI companies to appoint representatives on X.
+
+To directly combat misleading AI narratives affecting ecosystem valuations and their financing ability.
+
+The financial incentives to amplify overblown fears are enormous.
+
+Both from well-capitalized
+
+[查看原文](https://x.com/aleabitoreddit/status/2118247436733055110)
 
 ---
 
