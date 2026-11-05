@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 463 条推文
+> 📊 推文存档 - 共 464 条推文
 
 ---
 
@@ -20,9 +20,23 @@ tags: ["2026"]
 *特朗普询问顾问赫格塞斯是否应该下台：CBS，援引消息来源
 川普准备跑路了，美国有史以来最大的贪官，明目张胆的贪 https://t.co/sCvvPb0xkd
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOJmrrb33t66wGZBm7phOIgC_083W0AAIKF2sblIhhV6VuoItqb1ZCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2118031172517466315)
+## 2026-11-05 15:52:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+有件事情左右脑互搏，
+左脑觉得地面数据中心建设可能受民主党阻碍所以极大利好spcx太空建数据中心。
+右脑觉得马斯克支持共和党但是败选了，
+民主党可能清算马斯克和特朗普，处处挚肘马斯克的太空计划利空spcx。
+所以到底利好利空 $SPCX https://t.co/s3JHpLmwVk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOK2rsOsaKgwUGlPtrma2RrvXvKFOxAAIkFGsbxJ9oV5OZIMNO1hvBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2118250179946287522)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 203 条推文
+> 📊 推文存档 - 共 204 条推文
 
 ---
 
@@ -50,7 +50,23 @@ tags: ["2026"]
 
 10 - 6000万了！呱唧呱唧👏🏻👏🏻👏🏻
 
-[查看原文](https://x.com/iiiinvest/status/2118184777098633358)
+---
+
+## 2026-11-05 16:01:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+世界互联网大会，好像是上个时代的东西了。
+
+那年我刚毕业，看着一众大佬在互联网大会吹牛逼，我晚上加班帮要上台的大佬改PPT。
+
+一晃10多年，大佬也物是人非，几多沦落，更多沉默。 https://t.co/NPrLeTFNPl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOLGrsOs0CsKqgIGV2Wfv-6fCODYVGAAIlFGsbxJ9oV1LnypT3IuhMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2118252472707780825)
 
 ---
 
