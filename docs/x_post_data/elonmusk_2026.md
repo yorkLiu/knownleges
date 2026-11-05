@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4487 条推文
+> 📊 推文存档 - 共 4488 条推文
 
 ---
 
@@ -147,8 +147,6 @@ Try Grok @Bot!
 
 It’s a Brave New World
 
-[查看原文](https://x.com/elonmusk/status/2118248670915404057)
-
 ---
 
 ## 2026-11-05 15:54:02
@@ -158,8 +156,6 @@ It’s a Brave New World
 **内容**:
 
 Everyone is using Grok @Bot
-
-[查看原文](https://x.com/elonmusk/status/2118250472373129319)
 
 ---
 
@@ -172,8 +168,6 @@ Everyone is using Grok @Bot
 RT @Texas_Twins_Dad: A friend signed up for Grok Bot a month ago and was about to cancel. He couldn't see the real value.
 
 He had 4 bots, b…
-
-[查看原文](https://x.com/elonmusk/status/2118250642926141450)
 
 ---
 
@@ -189,8 +183,6 @@ I used to treat them like assistants. Now I treat them like real employees.
 
 Why…
 
-[查看原文](https://x.com/elonmusk/status/2118251594232008714)
-
 ---
 
 ## 2026-11-05 15:59:20
@@ -200,8 +192,6 @@ Why…
 **内容**:
 
 Grok @Bot can call your dentist on the phone!
-
-[查看原文](https://x.com/elonmusk/status/2118251808179323102)
 
 ---
 
@@ -215,7 +205,17 @@ RT @durga_malladi: A big step for 5G networks.
 
 @SpaceX selected @Qualcomm #Dragonwing to accelerate @Starlink Mobile's nationwide 5G netw…
 
-[查看原文](https://x.com/elonmusk/status/2118253972163301458)
+---
+
+## 2026-11-05 22:23:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wholemars: In hindsight, it was a mistake for SpaceX to send them thousands of free Starlink dishes and millions of dollars a month in…
+
+[查看原文](https://x.com/elonmusk/status/2118348502879330382)
 
 ---
 
