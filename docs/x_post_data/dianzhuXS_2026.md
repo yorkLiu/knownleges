@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 689 条推文
+> 📊 推文存档 - 共 690 条推文
 
 ---
 
@@ -57,7 +57,24 @@ tags: ["2026"]
 沒有這個福氣
 😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2118383919968272600)
+---
+
+## 2026-11-06 02:23:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+民主黨拿下參眾兩院
+
+傻逼們，歡呼吧
+
+不聽大盧言，吃虧在眼前
+👇👇👇 https://t.co/ooOugehK04
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIONWrszBjDDyvnVmLLlY5pyaT-ffdNAAKbFWsbxJ9oV7xjhEdU2Cc9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2118408786897707185)
 
 ---
 
