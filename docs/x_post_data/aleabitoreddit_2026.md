@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 553 条推文
+> 📊 推文存档 - 共 554 条推文
 
 ---
 
@@ -19,7 +19,19 @@ tags: ["2026"]
 
 RT @andrewdfeldman: Last week, a short seller, @CulperResearch, published a report arguing that @cerebras wafers wear out after about two y…
 
-[查看原文](https://x.com/aleabitoreddit/status/2118386579853267313)
+---
+
+## 2026-11-06 01:07:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Don’t look at the indexes https://t.co/nmzrhW9u6L
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIONGrsvZJ2k-fqWbgbq_cK2aw6gjHHAAJrFWsbxJ9oV50OenvtDTVdAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2118389649941160083)
 
 ---
 
