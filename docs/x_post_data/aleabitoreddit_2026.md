@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 551 条推文
+> 📊 推文存档 - 共 552 条推文
 
 ---
 
@@ -99,7 +99,25 @@ The financial incentives to amplify overblown fears are enormous.
 
 Both from well-capitalized
 
-[查看原文](https://x.com/aleabitoreddit/status/2118247436733055110)
+---
+
+## 2026-11-05 17:19:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Citadel in October: Tech companies created an AI bubble reminiscent of the dot-com crash.
+
+Citadel in November: “The setup has improved” 
+
+Earnings continue to beat while AI infrastructure valuations compressed sharply. https://t.co/qlC9s03Cc0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOLWrsUJP8Jmq5vV1iDRvLP2EKx50aAAJNFGsbxJ9oVw5D9CIX2jv-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOLmrsUJcPffVskYX5rc0BYb492TtlAAJOFGsbxJ9oV1N0W_EIjYwiAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2118272043288547413)
 
 ---
 

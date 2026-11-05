@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 204 条推文
+> 📊 推文存档 - 共 205 条推文
 
 ---
 
@@ -64,9 +64,23 @@ tags: ["2026"]
 
 一晃10多年，大佬也物是人非，几多沦落，更多沉默。 https://t.co/NPrLeTFNPl
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOLGrsOs0CsKqgIGV2Wfv-6fCODYVGAAIlFGsbxJ9oV1LnypT3IuhMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2118252472707780825)
+## 2026-11-05 17:21:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+抓市场主线
+
+昨天大盘走了三道，先是共和党输两院，夜盘砸出-2%，接着走中选预期落地剧本爆拉，开盘干到+2%，然后走民主党限制AI剧本，又开始砸，+1%收盘。
+
+今天夜盘和盘前，资金还是延续昨晚，在丢弃半导体存储，往大科技避险资产跑。
+
+怎么办呢
+
+[查看原文](https://x.com/iiiinvest/status/2118272450236723461)
 
 ---
 
