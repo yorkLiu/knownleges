@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4527 条推文
+> 📊 推文存档 - 共 4530 条推文
 
 ---
 
@@ -420,7 +420,47 @@ RT @wmorrill3: Cybertruck was an incredible technology development platform and 
 
 Terafab is moving fast
 
-[查看原文](https://x.com/elonmusk/status/2118620772268990966)
+---
+
+## 2026-11-06 16:55:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+What is love?
+
+(Baby don’t hurt me)
+
+[查看原文](https://x.com/elonmusk/status/2118628232002158682)
+
+---
+
+## 2026-11-06 16:58:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Seldon, Psychohistory
+
+[查看原文](https://x.com/elonmusk/status/2118629153390158000)
+
+---
+
+## 2026-11-06 16:59:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @battleangelviv: The most special product that ever got to exist.
+
+Changed my life in so many ways. 
+
+I love you @cybertruck, forever.…
+
+[查看原文](https://x.com/elonmusk/status/2118629210462036466)
 
 ---
 
