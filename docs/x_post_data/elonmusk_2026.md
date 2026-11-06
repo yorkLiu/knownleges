@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4543 条推文
+> 📊 推文存档 - 共 4546 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @JamesEsses: “I was cancelled for criticising legislation that did not exist. Now, that very legislation is on course to become law. Thi…
 
-[查看原文](https://x.com/elonmusk/status/2118735170576756982)
-
 ---
 
 ## 2026-11-07 00:04:14
@@ -30,8 +28,6 @@ RT @JamesEsses: “I was cancelled for criticising legislation that did not exis
 **内容**:
 
 Starlink saves lives
-
-[查看原文](https://x.com/elonmusk/status/2118736224110444999)
 
 ---
 
@@ -44,8 +40,6 @@ Starlink saves lives
 RT @ArthurMacwaters: We are living in SpaceX century 
 
 If they successfully catch booster **and** ship in a week, we are officially in a di…
-
-[查看原文](https://x.com/elonmusk/status/2118736313377804360)
 
 ---
 
@@ -61,7 +55,45 @@ Tesla has no government contracts and President Trump ended federal incentives f
 
 SpaceX contracts with the government are BOTH the best product AND the lowest price! Moreover government revenue will be less than 10% of SpaceX revenue this
 
-[查看原文](https://x.com/elonmusk/status/2118737725964837353)
+---
+
+## 2026-11-07 00:16:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla self-driving gives mobility to seniors
+
+[查看原文](https://x.com/elonmusk/status/2118739371939803498)
+
+---
+
+## 2026-11-07 00:17:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Tesla remains South Korea's #1 best-selling imported car brand for the NINTH consecutive month 🇰🇷
+
+October 2026 registrations:…
+
+[查看原文](https://x.com/elonmusk/status/2118739484271579249)
+
+---
+
+## 2026-11-07 00:18:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: The Godfathers of Superintelligence
+
+It all began right here, and now they're taking Superintelligence into orbit, to an entir…
+
+[查看原文](https://x.com/elonmusk/status/2118739865156432270)
 
 ---
 
