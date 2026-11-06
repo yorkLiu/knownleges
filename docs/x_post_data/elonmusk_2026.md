@@ -7,7 +7,61 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4534 条推文
+> 📊 推文存档 - 共 4543 条推文
+
+---
+
+## 2026-11-07 00:00:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JamesEsses: “I was cancelled for criticising legislation that did not exist. Now, that very legislation is on course to become law. Thi…
+
+[查看原文](https://x.com/elonmusk/status/2118735170576756982)
+
+---
+
+## 2026-11-07 00:04:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2118736224110444999)
+
+---
+
+## 2026-11-07 00:04:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: We are living in SpaceX century 
+
+If they successfully catch booster **and** ship in a week, we are officially in a di…
+
+[查看原文](https://x.com/elonmusk/status/2118736313377804360)
+
+---
+
+## 2026-11-07 00:10:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly 😂
+
+Tesla has no government contracts and President Trump ended federal incentives for electric vehicles. 
+
+SpaceX contracts with the government are BOTH the best product AND the lowest price! Moreover government revenue will be less than 10% of SpaceX revenue this
+
+[查看原文](https://x.com/elonmusk/status/2118737725964837353)
 
 ---
 
@@ -500,7 +554,71 @@ RT @cb_doge: BREAKING: Indian government sources say Starlink is welcome in Indi
 
 “Customer is the king,” one official told ANI today.…
 
-[查看原文](https://x.com/elonmusk/status/2118686601379545217)
+---
+
+## 2026-11-06 23:47:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX will attempt to catch both the Super Heavy booster and Starship on the upcoming flight. 
+
+If both are successful, it will mark the first time that all parts of an orbital rocket return to Earth intact. 
+
+This is the critical breakthrough needed to make life multiplanetary.
+
+[查看原文](https://x.com/elonmusk/status/2118732082843435305)
+
+---
+
+## 2026-11-06 23:48:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Ron Baron understands
+
+[查看原文](https://x.com/elonmusk/status/2118732296446673209)
+
+---
+
+## 2026-11-06 23:49:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: More than a dozen flight tests and years of development, with countless hours worked by SpaceX engineers and technicians, all c…
+
+[查看原文](https://x.com/elonmusk/status/2118732400176083271)
+
+---
+
+## 2026-11-06 23:50:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/U9HFeE5xNq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOR2rt_TIUVLluZpkQlYhO-cGECKOrAAIhEmsb_IpwVwV_SoFEfZedAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2118732649426731409)
+
+---
+
+## 2026-11-06 23:50:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla Model Y is the best-selling car of any kind on Earth
+
+[查看原文](https://x.com/elonmusk/status/2118732812161519852)
 
 ---
 
