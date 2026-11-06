@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4512 条推文
+> 📊 推文存档 - 共 4524 条推文
 
 ---
 
@@ -214,8 +214,6 @@ Our waste wat…
 
 🇰🇷 Tesla Korea 🇰🇷
 
-[查看原文](https://x.com/elonmusk/status/2118588019230056525)
-
 ---
 
 ## 2026-11-06 14:19:24
@@ -230,8 +228,6 @@ RT @teslaownersSV: Elon Musk on why Starship has to be fully reusable:
 
 "That's real…
 
-[查看原文](https://x.com/elonmusk/status/2118589046289244437)
-
 ---
 
 ## 2026-11-06 14:19:53
@@ -241,8 +237,6 @@ RT @teslaownersSV: Elon Musk on why Starship has to be fully reusable:
 **内容**:
 
 RT @yishan: This is exactly in line with how I've always thought.  In fact, I hate the em-dash (even before AI over-use), and I've always u…
-
-[查看原文](https://x.com/elonmusk/status/2118589166967730463)
 
 ---
 
@@ -254,8 +248,6 @@ RT @yishan: This is exactly in line with how I've always thought.  In fact, I ha
 
 Yup
 
-[查看原文](https://x.com/elonmusk/status/2118589343061491737)
-
 ---
 
 ## 2026-11-06 14:24:17
@@ -266,7 +258,165 @@ Yup
 
 RT @elonmusk: @tweetfollllower @MrMikeInvesting I just can’t help thinking of topiaries whenever someone mentions “hedge” fund 😂
 
-[查看原文](https://x.com/elonmusk/status/2118590274452758688)
+---
+
+## 2026-11-06 14:27:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk started his first company, Zip2, in a $500 a month office that doubled as his home.
+
+The cheapest apartment he could…
+
+[查看原文](https://x.com/elonmusk/status/2118591028135686427)
+
+---
+
+## 2026-11-06 14:27:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @xenocosmography: Truly amazing what having a real stake in the future does to people. https://t.co/PuS1dtfIno
+
+[查看原文](https://x.com/elonmusk/status/2118591178165927943)
+
+---
+
+## 2026-11-06 14:28:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Not bad
+
+[查看原文](https://x.com/elonmusk/status/2118591262890848688)
+
+---
+
+## 2026-11-06 14:30:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production
+
+[查看原文](https://x.com/elonmusk/status/2118591788701421573)
+
+---
+
+## 2026-11-06 14:33:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/ijh9RZoHQo
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOPWrteltCVhiYVEZy0N8XSW4UVT_8AALCFWsbxJ9wV8JN8XWSQjvCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2118592599363817491)
+
+---
+
+## 2026-11-06 14:45:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Banger
+https://t.co/WVCnlhcDfe
+
+[查看原文](https://x.com/elonmusk/status/2118595675374109154)
+
+---
+
+## 2026-11-06 14:48:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+14 years ago https://t.co/f5FJzVkLgP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOPGrtelhCxXH9PRikI9qRKbPau-XJAALBFWsbxJ9wV9a_gxfpeorWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2118596405862478175)
+
+---
+
+## 2026-11-06 14:49:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink brings high-speed internet to more schools in Lesotho’s mountains.
+
+Computers delivered to Marakabei High School in 2…
+
+[查看原文](https://x.com/elonmusk/status/2118596618220138901)
+
+---
+
+## 2026-11-06 14:50:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😬
+
+[查看原文](https://x.com/elonmusk/status/2118596790958322075)
+
+---
+
+## 2026-11-06 14:50:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @tetsuoai It troubles me greatly that we do not yet see any sign of aliens
+
+[查看原文](https://x.com/elonmusk/status/2118596945312960849)
+
+---
+
+## 2026-11-06 14:53:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @xdNiBoR: The next SpaceX datacenter will be in Cochise Arizona.
+
+~6 GW spread over 9 buildings. 
+
+&gt; No industrial water use.
+&gt; No gas t…
+
+[查看原文](https://x.com/elonmusk/status/2118597691458678905)
+
+---
+
+## 2026-11-06 14:57:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BillyM2k: good morning from japan all! 
+
+just woke up, let’s see how the market is doing!
+
+[查看原文](https://x.com/elonmusk/status/2118598533439967318)
 
 ---
 
