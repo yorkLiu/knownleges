@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4559 条推文
+> 📊 推文存档 - 共 4561 条推文
 
 ---
 
@@ -183,8 +183,6 @@ RT @KanekoaTheGreat: Elon Musk tells Ron Baron why SpaceX catches Starship with 
 
 “It’s kind of like Mr. Miy…
 
-[查看原文](https://x.com/elonmusk/status/2118810606954500120)
-
 ---
 
 ## 2026-11-07 05:01:12
@@ -194,8 +192,6 @@ RT @KanekoaTheGreat: Elon Musk tells Ron Baron why SpaceX catches Starship with 
 **内容**:
 
 Roughly doubling revenue at scale for a large company used to be something special, but super intelligence makes that look slow!
-
-[查看原文](https://x.com/elonmusk/status/2118810958730862759)
 
 ---
 
@@ -209,8 +205,6 @@ RT @SawyerMerritt: Elon Musk today:
 
 "The @Tesla Model Y is the best selling EV in China. This is difficult. Think about that for a second.…
 
-[查看原文](https://x.com/elonmusk/status/2118811141841559686)
-
 ---
 
 ## 2026-11-07 05:03:16
@@ -220,8 +214,6 @@ RT @SawyerMerritt: Elon Musk today:
 **内容**:
 
 RT @XFreeze: Elon Musk just confirmed that SpaceX is preparing to attempt the FIRST-EVER tower catch of a Starship upper stage with Ship 42…
-
-[查看原文](https://x.com/elonmusk/status/2118811477427855594)
 
 ---
 
@@ -233,7 +225,31 @@ RT @XFreeze: Elon Musk just confirmed that SpaceX is preparing to attempt the FI
 
 RT @XFreeze: Elon Musk just revealed that digital superintelligence will increase the entire global economy by 20–30%, adding approximately…
 
-[查看原文](https://x.com/elonmusk/status/2118811702515138800)
+---
+
+## 2026-11-07 05:27:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s true
+
+[查看原文](https://x.com/elonmusk/status/2118817587203322349)
+
+---
+
+## 2026-11-07 05:29:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Elon Musk in a new interview today on Terafab:
+
+"There's three possible meanings to Terafab. One is terror. I think some…
+
+[查看原文](https://x.com/elonmusk/status/2118817952300683429)
 
 ---
 
