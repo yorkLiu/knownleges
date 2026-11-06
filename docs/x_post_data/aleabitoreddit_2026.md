@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 559 条推文
+> 📊 推文存档 - 共 560 条推文
 
 ---
 
@@ -111,7 +111,21 @@ Until their portfolio experiences volatility months in. I still think:
 
 - $SIVE has moonshot potential to be the next $LITE
 
-[查看原文](https://x.com/aleabitoreddit/status/2118605467459199016)
+---
+
+## 2026-11-06 20:33:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In response to the recent market volatility across $TSM to $SKHY to Innolight:
+
+- Taiwan to restrict borrowed share short selling from 30% -&gt; 3% relative to order volumes (90% reduction),  effective Nov 9th. 
+
+Taiwan is separately raising its minimum collateral requirement from
+
+[查看原文](https://x.com/aleabitoreddit/status/2118683089383874576)
 
 ---
 
