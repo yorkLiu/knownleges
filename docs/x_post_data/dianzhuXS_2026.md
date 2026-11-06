@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 690 条推文
+> 📊 推文存档 - 共 691 条推文
 
 ---
 
@@ -72,9 +72,21 @@ tags: ["2026"]
 不聽大盧言，吃虧在眼前
 👇👇👇 https://t.co/ooOugehK04
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIONWrszBjDDyvnVmLLlY5pyaT-ffdNAAKbFWsbxJ9oV7xjhEdU2Cc9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2118408786897707185)
+## 2026-11-06 18:03:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+再沖一下精緻利己們的肺管子
+
+大盧們子彈很充足
+伺機抄底
+又要「開張吃三年」嘍
+
+[查看原文](https://x.com/dianzhuXS/status/2118645462614135259)
 
 ---
 
