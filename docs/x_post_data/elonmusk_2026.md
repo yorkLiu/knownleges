@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4554 条推文
+> 📊 推文存档 - 共 4559 条推文
 
 ---
 
@@ -109,8 +109,6 @@ SpaceX revenue this quarter alone will be substantially higher than NASA’s ent
 
 Pulling massive power cables is a great workout and far more productive than lifting weights 🏋️‍♀️
 
-[查看原文](https://x.com/elonmusk/status/2118786343958675697)
-
 ---
 
 ## 2026-11-07 03:23:45
@@ -120,8 +118,6 @@ Pulling massive power cables is a great workout and far more productive than lif
 **内容**:
 
 RT @SawyerMerritt: Elon today on @SpaceX's upcoming Starship Flight 15, which will attempt to catch both the Super Heavy Booster and Starsh…
-
-[查看原文](https://x.com/elonmusk/status/2118786432471015511)
 
 ---
 
@@ -133,8 +129,6 @@ RT @SawyerMerritt: Elon today on @SpaceX's upcoming Starship Flight 15, which wi
 
 RT @Tesla: Launching in Argentina later this month
 
-[查看原文](https://x.com/elonmusk/status/2118787018520178688)
-
 ---
 
 ## 2026-11-07 03:27:27
@@ -144,8 +138,6 @@ RT @Tesla: Launching in Argentina later this month
 **内容**:
 
 🇦🇷 🇦🇷 Tesla Argentina!! 🇦🇷 🇦🇷
-
-[查看原文](https://x.com/elonmusk/status/2118787365426893002)
 
 ---
 
@@ -159,8 +151,6 @@ RT @Tesla: Launching in Argentina later this month
 
 Speed of light in space is ~40% faster than cable and the path is direct, instead of following the outline of land masses.
 
-[查看原文](https://x.com/elonmusk/status/2118788513365954734)
-
 ---
 
 ## 2026-11-07 03:34:13
@@ -170,8 +160,6 @@ Speed of light in space is ~40% faster than cable and the path is direct, instea
 **内容**:
 
 Armies that win have the general at the front lines. Nobody wants to bleed for the prince in the palace.
-
-[查看原文](https://x.com/elonmusk/status/2118789067571954105)
 
 ---
 
@@ -183,7 +171,69 @@ Armies that win have the general at the front lines. Nobody wants to bleed for t
 
 RT @XFreeze: Elon Musk just revealed an absolutely insane revenue trajectory for SpaceX: on track to exceed $100 billion annualized in Dece…
 
-[查看原文](https://x.com/elonmusk/status/2118789262393090314)
+---
+
+## 2026-11-07 04:59:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: Elon Musk tells Ron Baron why SpaceX catches Starship with the launch tower’s “chopsticks”
+
+“It’s kind of like Mr. Miy…
+
+[查看原文](https://x.com/elonmusk/status/2118810606954500120)
+
+---
+
+## 2026-11-07 05:01:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Roughly doubling revenue at scale for a large company used to be something special, but super intelligence makes that look slow!
+
+[查看原文](https://x.com/elonmusk/status/2118810958730862759)
+
+---
+
+## 2026-11-07 05:01:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Elon Musk today:
+
+"The @Tesla Model Y is the best selling EV in China. This is difficult. Think about that for a second.…
+
+[查看原文](https://x.com/elonmusk/status/2118811141841559686)
+
+---
+
+## 2026-11-07 05:03:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk just confirmed that SpaceX is preparing to attempt the FIRST-EVER tower catch of a Starship upper stage with Ship 42…
+
+[查看原文](https://x.com/elonmusk/status/2118811477427855594)
+
+---
+
+## 2026-11-07 05:04:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk just revealed that digital superintelligence will increase the entire global economy by 20–30%, adding approximately…
+
+[查看原文](https://x.com/elonmusk/status/2118811702515138800)
 
 ---
 
