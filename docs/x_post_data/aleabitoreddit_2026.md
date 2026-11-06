@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 560 条推文
+> 📊 推文存档 - 共 561 条推文
 
 ---
 
@@ -125,7 +125,25 @@ In response to the recent market volatility across $TSM to $SKHY to Innolight:
 
 Taiwan is separately raising its minimum collateral requirement from
 
-[查看原文](https://x.com/aleabitoreddit/status/2118683089383874576)
+---
+
+## 2026-11-06 23:25:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. 
+
+Could be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? 
+
+"Starting in late 2028, the use of the Blacklift rocket will complete AST SpaceMobile's https://t.co/2mt90WUO7I
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIORWrt9fBteyqTBoYcuA13YcHLAqdXAAKxF2sbxJ9wV6oWMAzbxjLlAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIORmrt9fMKc3Dqk2guQXaNFkf00socAAKyF2sbxJ9wVw1IHAx0YadbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2118726497129423273)
 
 ---
 
