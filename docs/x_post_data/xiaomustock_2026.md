@@ -7,7 +7,39 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 466 条推文
+> 📊 推文存档 - 共 468 条推文
+
+---
+
+## 2026-11-06 12:58:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+6月23号那天中午，
+自己给自己写好了命运轨迹，
+一语成谶 https://t.co/rZLzuovoZF
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOOWrtZIu7954toZ9vM_bxh79vJEMiAAIQFWsbxJ9wV--9GB8jSlzwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2118568717131067687)
+
+---
+
+## 2026-11-06 13:00:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我6.23那天之后计划是开始什么qqq，
+什么猥琐养老，
+最终还是没有管住手，
+一次又一次的博反弹亏麻了。
+真是账户的最高峰。
+
+[查看原文](https://x.com/xiaomustock/status/2118569175228748158)
 
 ---
 
