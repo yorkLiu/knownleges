@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4524 条推文
+> 📊 推文存档 - 共 4525 条推文
 
 ---
 
@@ -270,8 +270,6 @@ RT @cb_doge: Elon Musk started his first company, Zip2, in a $500 a month office
 
 The cheapest apartment he could…
 
-[查看原文](https://x.com/elonmusk/status/2118591028135686427)
-
 ---
 
 ## 2026-11-06 14:27:53
@@ -281,8 +279,6 @@ The cheapest apartment he could…
 **内容**:
 
 RT @xenocosmography: Truly amazing what having a real stake in the future does to people. https://t.co/PuS1dtfIno
-
-[查看原文](https://x.com/elonmusk/status/2118591178165927943)
 
 ---
 
@@ -294,8 +290,6 @@ RT @xenocosmography: Truly amazing what having a real stake in the future does t
 
 Not bad
 
-[查看原文](https://x.com/elonmusk/status/2118591262890848688)
-
 ---
 
 ## 2026-11-06 14:30:18
@@ -306,8 +300,6 @@ Not bad
 
 Tesla will be winding down production of the Cybertruck at Gigafactory Texas around the middle of next year to make room for increased Cybercab production
 
-[查看原文](https://x.com/elonmusk/status/2118591788701421573)
-
 ---
 
 ## 2026-11-06 14:33:31
@@ -317,10 +309,6 @@ Tesla will be winding down production of the Cybertruck at Gigafactory Texas aro
 **内容**:
 
 https://t.co/ijh9RZoHQo
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOPWrteltCVhiYVEZy0N8XSW4UVT_8AALCFWsbxJ9wV8JN8XWSQjvCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2118592599363817491)
 
 ---
 
@@ -333,8 +321,6 @@ https://t.co/ijh9RZoHQo
 Banger
 https://t.co/WVCnlhcDfe
 
-[查看原文](https://x.com/elonmusk/status/2118595675374109154)
-
 ---
 
 ## 2026-11-06 14:48:39
@@ -344,10 +330,6 @@ https://t.co/WVCnlhcDfe
 **内容**:
 
 14 years ago https://t.co/f5FJzVkLgP
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOPGrtelhCxXH9PRikI9qRKbPau-XJAALBFWsbxJ9wV9a_gxfpeorWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2118596405862478175)
 
 ---
 
@@ -361,8 +343,6 @@ RT @cb_doge: Starlink brings high-speed internet to more schools in Lesotho’s 
 
 Computers delivered to Marakabei High School in 2…
 
-[查看原文](https://x.com/elonmusk/status/2118596618220138901)
-
 ---
 
 ## 2026-11-06 14:50:11
@@ -373,8 +353,6 @@ Computers delivered to Marakabei High School in 2…
 
 😬
 
-[查看原文](https://x.com/elonmusk/status/2118596790958322075)
-
 ---
 
 ## 2026-11-06 14:50:48
@@ -384,8 +362,6 @@ Computers delivered to Marakabei High School in 2…
 **内容**:
 
 RT @elonmusk: @tetsuoai It troubles me greatly that we do not yet see any sign of aliens
-
-[查看原文](https://x.com/elonmusk/status/2118596945312960849)
 
 ---
 
@@ -402,8 +378,6 @@ RT @xdNiBoR: The next SpaceX datacenter will be in Cochise Arizona.
 &gt; No industrial water use.
 &gt; No gas t…
 
-[查看原文](https://x.com/elonmusk/status/2118597691458678905)
-
 ---
 
 ## 2026-11-06 14:57:06
@@ -416,7 +390,19 @@ RT @BillyM2k: good morning from japan all!
 
 just woke up, let’s see how the market is doing!
 
-[查看原文](https://x.com/elonmusk/status/2118598533439967318)
+---
+
+## 2026-11-06 14:57:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk on the set of Star Wars: The Mandalorian in 2019. https://t.co/Ivh2ZwvbaI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOPmrtgZoQhweBiCxQH5zBl7EnUQS3AALUFWsbxJ9wV3gBfY7MwMVCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2118598613781856340)
 
 ---
 

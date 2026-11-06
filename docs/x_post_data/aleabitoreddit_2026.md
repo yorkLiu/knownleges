@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 558 条推文
+> 📊 推文存档 - 共 559 条推文
 
 ---
 
@@ -93,7 +93,25 @@ Anthropic should still probably follow what YMTC’s example in China and delay 
 
 Would
 
-[查看原文](https://x.com/aleabitoreddit/status/2118584259619520787)
+---
+
+## 2026-11-06 15:24:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Everyone’s a long term investor for 2027, 2028, or 2029 onward
+
+Until their portfolio experiences volatility months in. I still think:
+
+- $RKLB could end up the next $SPCX
+
+- $NBIS has the potential to be the next hyperscaler
+
+- $SIVE has moonshot potential to be the next $LITE
+
+[查看原文](https://x.com/aleabitoreddit/status/2118605467459199016)
 
 ---
 
