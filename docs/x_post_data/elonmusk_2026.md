@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4530 条推文
+> 📊 推文存档 - 共 4532 条推文
 
 ---
 
@@ -432,8 +432,6 @@ What is love?
 
 (Baby don’t hurt me)
 
-[查看原文](https://x.com/elonmusk/status/2118628232002158682)
-
 ---
 
 ## 2026-11-06 16:58:47
@@ -443,8 +441,6 @@ What is love?
 **内容**:
 
 Seldon, Psychohistory
-
-[查看原文](https://x.com/elonmusk/status/2118629153390158000)
 
 ---
 
@@ -460,7 +456,31 @@ Changed my life in so many ways.
 
 I love you @cybertruck, forever.…
 
-[查看原文](https://x.com/elonmusk/status/2118629210462036466)
+---
+
+## 2026-11-06 17:09:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: Terafab is the largest building in human history 
+
+Starship is the largest and most powerful flying object in human hi…
+
+[查看原文](https://x.com/elonmusk/status/2118631919252537400)
+
+---
+
+## 2026-11-06 17:32:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink enables education in remote areas
+
+[查看原文](https://x.com/elonmusk/status/2118637614068912548)
 
 ---
 
