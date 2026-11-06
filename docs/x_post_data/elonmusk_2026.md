@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4525 条推文
+> 📊 推文存档 - 共 4526 条推文
 
 ---
 
@@ -400,9 +400,17 @@ just woke up, let’s see how the market is doing!
 
 RT @cb_doge: Elon Musk on the set of Star Wars: The Mandalorian in 2019. https://t.co/Ivh2ZwvbaI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOPmrtgZoQhweBiCxQH5zBl7EnUQS3AALUFWsbxJ9wV3gBfY7MwMVCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2118598613781856340)
+## 2026-11-06 15:56:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wmorrill3: Cybertruck was an incredible technology development platform and lives on through Cybercab. Thanks to everyone who contribut…
+
+[查看原文](https://x.com/elonmusk/status/2118613426897613066)
 
 ---
 
