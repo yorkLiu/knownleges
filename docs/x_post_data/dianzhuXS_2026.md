@@ -7,7 +7,30 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 693 条推文
+> 📊 推文存档 - 共 694 条推文
+
+---
+
+## 2026-11-07 06:43:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+歡呼吧，傻逼們
+
+沒等民主黨上台
+就會先輪到排查你
+
+在美的非法移民偷渡客
+陰溝裡的老鼠們
+
+接著奏樂接著舞
+👇👇👇 https://t.co/mS6IEivASD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOSGruW3xf8dwmFZBdtaNYKeDpzNAiAAJqEmsb_IpwV2MiW3ChZY9TAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2118836758087639387)
 
 ---
 
