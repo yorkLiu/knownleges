@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 221 条推文
+> 📊 推文存档 - 共 222 条推文
 
 ---
 
@@ -89,9 +89,19 @@ tags: ["2026"]
 
 PS. 傻仙和傻勃，永远不知道自己钱到哪去了。 https://t.co/qFPaRWKpHi
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOP2rttIwXPy65QmjRJuC-PCLv3ZMpAAJbFmsbxJ9wV1NfFwkoTRskAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2118657536610140496)
+## 2026-11-06 21:24:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+再买回 3 万股半导体SOXL，比想象中强！ https://t.co/0tf6iLfJ27
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIORGrt2OJKIjrLyj4vR7YDIx5ttLTHAAKpFmsbxJ9wV_1sYUiQ860_AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2118695995148320833)
 
 ---
 
