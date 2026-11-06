@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4546 条推文
+> 📊 推文存档 - 共 4547 条推文
 
 ---
 
@@ -65,8 +65,6 @@ SpaceX contracts with the government are BOTH the best product AND the lowest pr
 
 Tesla self-driving gives mobility to seniors
 
-[查看原文](https://x.com/elonmusk/status/2118739371939803498)
-
 ---
 
 ## 2026-11-07 00:17:11
@@ -78,8 +76,6 @@ Tesla self-driving gives mobility to seniors
 RT @XFreeze: Tesla remains South Korea's #1 best-selling imported car brand for the NINTH consecutive month 🇰🇷
 
 October 2026 registrations:…
-
-[查看原文](https://x.com/elonmusk/status/2118739484271579249)
 
 ---
 
@@ -93,7 +89,17 @@ RT @XFreeze: The Godfathers of Superintelligence
 
 It all began right here, and now they're taking Superintelligence into orbit, to an entir…
 
-[查看原文](https://x.com/elonmusk/status/2118739865156432270)
+---
+
+## 2026-11-07 01:46:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX revenue this quarter alone will be substantially higher than NASA’s entire annual budget!
+
+[查看原文](https://x.com/elonmusk/status/2118761981037723848)
 
 ---
 
