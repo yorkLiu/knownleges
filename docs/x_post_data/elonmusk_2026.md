@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4533 条推文
+> 📊 推文存档 - 共 4534 条推文
 
 ---
 
@@ -488,7 +488,19 @@ Starlink enables education in remote areas
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2118638089677803638)
+---
+
+## 2026-11-06 20:47:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Indian government sources say Starlink is welcome in India. 🇮🇳
+
+“Customer is the king,” one official told ANI today.…
+
+[查看原文](https://x.com/elonmusk/status/2118686601379545217)
 
 ---
 

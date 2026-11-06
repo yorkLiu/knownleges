@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 692 条推文
+> 📊 推文存档 - 共 693 条推文
 
 ---
 
@@ -106,7 +106,29 @@ tags: ["2026"]
 還要「吧唧嘴」
 💪💪💪
 
-[查看原文](https://x.com/dianzhuXS/status/2118646861141885030)
+---
+
+## 2026-11-06 20:53:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+晚飯後手癢
+打磨了幾付竹卦
+想著這次去台灣
+萬一在路上被認出來
+怎麼也得送個禮物吧 https://t.co/gfYVfHQ9jn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOQGrt0ZwFH3l2ciZyWMvJ8I62qhv6AAKMFmsbxJ9wV8zieMNdSVtNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOQWrt0Z-1wEcLIxSca--H6DvEVSzWAAKNFmsbxJ9wVzylbQuvwdQpAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOQmrt0aJN1rEnee9LA20DXKOddY_nAAKOFmsbxJ9wV86fH9ARsytjAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOQ2rt0aYc5G4cGpk35Ss0eMotI3HQAAKPFmsbxJ9wV5xCFd3lBl8kAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2118688157260829145)
 
 ---
 
