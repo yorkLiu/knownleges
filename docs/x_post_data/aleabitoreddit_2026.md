@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 557 条推文
+> 📊 推文存档 - 共 558 条推文
 
 ---
 
@@ -77,11 +77,23 @@ This LTA explicitly includes lasers, very material for AOI that they're moving t
 
 - "The demand https://t.co/GqjxGXSQFe
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOOmrtZJBfz2XGDcbzD0Pmi8WomO1AAAIRFWsbxJ9wV6Q1K9sRCGLWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOO2rtZJQ9Zu7PftMD8oUQQSMYkyFsAAISFWsbxJ9wV5e1Z9JRV4F6AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-06 14:00:23
 
-[查看原文](https://x.com/aleabitoreddit/status/2118569237128286343)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Kinda wild to see how fast Anthropic is growing that they’ve now exceeded $80B run rate as of October.
+
+The number materially exceeded expectations in the $70B range +- few billion).
+
+Anthropic should still probably follow what YMTC’s example in China and delay their IPO. 
+
+Would
+
+[查看原文](https://x.com/aleabitoreddit/status/2118584259619520787)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4507 条推文
+> 📊 推文存档 - 共 4512 条推文
 
 ---
 
@@ -193,8 +193,6 @@ RT @DrKnowItAll16: So for my YouTube channel, having @bot take charge of ad inte
 
 RT @elonmusk: @yunta_tsai (The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a h…
 
-[查看原文](https://x.com/elonmusk/status/2118561136580939885)
-
 ---
 
 ## 2026-11-06 12:47:03
@@ -206,7 +204,69 @@ RT @elonmusk: @yunta_tsai (The rules of English need to change to put spaces bet
 RT @AndrThie: This is a bigger deal than people might think! 100% process waste water recycling means ZERO liquid discharge. 
 Our waste wat…
 
-[查看原文](https://x.com/elonmusk/status/2118565802429632576)
+---
+
+## 2026-11-06 14:15:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🇰🇷 Tesla Korea 🇰🇷
+
+[查看原文](https://x.com/elonmusk/status/2118588019230056525)
+
+---
+
+## 2026-11-06 14:19:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Elon Musk on why Starship has to be fully reusable:
+
+"Nobody's ever made a fully reusable orbital rocket."
+
+"That's real…
+
+[查看原文](https://x.com/elonmusk/status/2118589046289244437)
+
+---
+
+## 2026-11-06 14:19:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yishan: This is exactly in line with how I've always thought.  In fact, I hate the em-dash (even before AI over-use), and I've always u…
+
+[查看原文](https://x.com/elonmusk/status/2118589166967730463)
+
+---
+
+## 2026-11-06 14:20:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+[查看原文](https://x.com/elonmusk/status/2118589343061491737)
+
+---
+
+## 2026-11-06 14:24:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @tweetfollllower @MrMikeInvesting I just can’t help thinking of topiaries whenever someone mentions “hedge” fund 😂
+
+[查看原文](https://x.com/elonmusk/status/2118590274452758688)
 
 ---
 
