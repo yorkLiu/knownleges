@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4505 条推文
+> 📊 推文存档 - 共 4507 条推文
 
 ---
 
@@ -173,8 +173,6 @@ RT @christopherrufo: Had coffee with a right-leaning friend who works as a gener
 
 RT @XFreeze: Grok Build packed a serious upgrade into this release, making multi-agent workflows more reliable, easier to control, and much…
 
-[查看原文](https://x.com/elonmusk/status/2118449282231799974)
-
 ---
 
 ## 2026-11-06 05:05:10
@@ -185,7 +183,30 @@ RT @XFreeze: Grok Build packed a serious upgrade into this release, making multi
 
 RT @DrKnowItAll16: So for my YouTube channel, having @bot take charge of ad integrations is beginning to pay off. For months I was getting…
 
-[查看原文](https://x.com/elonmusk/status/2118449567981310309)
+---
+
+## 2026-11-06 12:28:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @yunta_tsai (The rules of English need to change to put spaces between the em dashes, as they presently too much resemble a h…
+
+[查看原文](https://x.com/elonmusk/status/2118561136580939885)
+
+---
+
+## 2026-11-06 12:47:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AndrThie: This is a bigger deal than people might think! 100% process waste water recycling means ZERO liquid discharge. 
+Our waste wat…
+
+[查看原文](https://x.com/elonmusk/status/2118565802429632576)
 
 ---
 
