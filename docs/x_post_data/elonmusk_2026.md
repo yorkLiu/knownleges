@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4601 条推文
+> 📊 推文存档 - 共 4602 条推文
 
 ---
 
@@ -49,8 +49,6 @@ RT @altcap: 10k kids born today, 10k new 530A accts auto created by @USTreasury 
 
 RT @SawyerMerritt: SpaceX has officially announced that it is currently targeting November 13th at 5:45 PM ET for Starship's 15th flight.…
 
-[查看原文](https://x.com/elonmusk/status/2119114275189039262)
-
 ---
 
 ## 2026-11-08 01:08:38
@@ -60,10 +58,6 @@ RT @SawyerMerritt: SpaceX has officially announced that it is currently targetin
 **内容**:
 
 Starship flight maneuvers https://t.co/QVEpWqfm5X
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOVmrvYQnwXnS2NYZEVnc6FLd_DVkIAAIwFmsb_Ip4V48i8XAGPjk1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2119114815931039992)
 
 ---
 
@@ -78,8 +72,6 @@ RT @AYi_AInotes: 天呐，海底光缆统治世界的时代要结束了，又要
 
 绝大多数人至今依然以为，星链…
 
-[查看原文](https://x.com/elonmusk/status/2119116295719338096)
-
 ---
 
 ## 2026-11-08 01:17:16
@@ -89,8 +81,6 @@ RT @AYi_AInotes: 天呐，海底光缆统治世界的时代要结束了，又要
 **内容**:
 
 RT @SawyerMerritt: SpaceX has just released a new blog about Starship's upcoming 15th flight planned for Nov 13 with more info about what t…
-
-[查看原文](https://x.com/elonmusk/status/2119116991596208520)
 
 ---
 
@@ -102,7 +92,17 @@ RT @SawyerMerritt: SpaceX has just released a new blog about Starship's upcoming
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2119117494992478449)
+---
+
+## 2026-11-08 01:53:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SenRickScott: The most important thing for the Senate to do is to stay in session EVERY DAY until the Democrats take over. Every judge…
+
+[查看原文](https://x.com/elonmusk/status/2119126049288028408)
 
 ---
 
