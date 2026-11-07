@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4588 条推文
+> 📊 推文存档 - 共 4593 条推文
 
 ---
 
@@ -513,8 +513,6 @@ RT @DTruthsQ: “They put a pump in the anus of a 12 year old girl to expand it 
 
 RT @spencerpratt: If you’re right wing and you can’t admit liberals (not communists) are way better at art and design and boutique coffee s…
 
-[查看原文](https://x.com/elonmusk/status/2118975571812327503)
-
 ---
 
 ## 2026-11-07 15:57:00
@@ -524,8 +522,6 @@ RT @spencerpratt: If you’re right wing and you can’t admit liberals (not com
 **内容**:
 
 RT @stark0xbt: Gavin Baker owned 15% of Nvidia and 10% of Tesla before either was worth $2 billion. He’s 50. And he just admitted Claude Co…
-
-[查看原文](https://x.com/elonmusk/status/2118975995269296438)
 
 ---
 
@@ -537,7 +533,73 @@ RT @stark0xbt: Gavin Baker owned 15% of Nvidia and 10% of Tesla before either wa
 
 RT @Kalshi: JUST IN: Google to invest $15 billion in Malaysia data centers
 
-[查看原文](https://x.com/elonmusk/status/2118978424840876093)
+---
+
+## 2026-11-07 16:19:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @WholeMarsBlog Not quite betting the company, but going balls to the wall for autonomy is a blindingly obvious move. 
+
+Everyt…
+
+[查看原文](https://x.com/elonmusk/status/2118981577388568654)
+
+---
+
+## 2026-11-07 16:25:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alifarhat79: Tech CEO’s on January 3, 2027 https://t.co/VQkJaAOqLV
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOS2ru5YmuhaO7DOtndEEAAaOeiwVGhAACZRRrG_yKcFfISek4Hk9jzQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2118983206422589781)
+
+---
+
+## 2026-11-07 16:29:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @thejefflutz: There is no fact-based argument for a reduction of data center build out due to an already expected split government midte…
+
+[查看原文](https://x.com/elonmusk/status/2118984201160860070)
+
+---
+
+## 2026-11-07 16:40:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Edison1HQ: Elon Musk is a free speech champion. https://t.co/6nNW1zBeP5
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOSmru5YWd_ovSZW-pLXnZTPDmGdNHAAJkFGsb_IpwV044yNqU97vcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2118986909066371107)
+
+---
+
+## 2026-11-07 16:43:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Yesterday, I was working on something with Grok Bot when a guy nearby noticed me using it
+
+He immediately pulled out his phone…
+
+[查看原文](https://x.com/elonmusk/status/2118987688732926120)
 
 ---
 
