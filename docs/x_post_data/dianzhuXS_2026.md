@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 694 条推文
+> 📊 推文存档 - 共 696 条推文
 
 ---
 
@@ -28,9 +28,46 @@ tags: ["2026"]
 接著奏樂接著舞
 👇👇👇 https://t.co/mS6IEivASD
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOSGruW3xf8dwmFZBdtaNYKeDpzNAiAAJqEmsb_IpwV2MiW3ChZY9TAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2118836758087639387)
+## 2026-11-07 07:41:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+因為「非法」，這麼簡單的答案，還矯情！
+
+這則留言，代表了大部分簡中圈的價值觀，都TM非法了，還如此理直氣壯😮‍💨
+
+只要牠們自己舒服了就行，只要觸及自己利益的就是敵人，完全無視普通納稅人的憤怒，你TM為美國做了什麼貢獻？人家欠你的？蛆味這麼大？
+
+[查看原文](https://x.com/dianzhuXS/status/2118851419327582216)
+
+---
+
+## 2026-11-07 07:52:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+請允許
+「罵兩句美國人」
+美國人就是太傻白甜
+川普還是太仁慈
+都TM給慣出毛病來了
+
+韓國也有黑工
+不是說不給活路
+你夾著尾巴爭點生活費
+沒人上綱上線
+
+這麼理直氣壯
+比合法納稅人還牛逼
+不是自己作死嗎？
+
+[查看原文](https://x.com/dianzhuXS/status/2118854163044155631)
 
 ---
 

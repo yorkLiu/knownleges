@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4563 条推文
+> 📊 推文存档 - 共 4570 条推文
 
 ---
 
@@ -269,7 +269,97 @@ RT @cb_doge: BREAKING: Starlink now helps connect 500+ locomotives and railcars 
 
 Autot…
 
-[查看原文](https://x.com/elonmusk/status/2118842366748749904)
+---
+
+## 2026-11-07 07:37:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @edwards345: We may succeed at this attempt, we may also fail, but the likelihood of success in the near term is high. Then we will opti…
+
+[查看原文](https://x.com/elonmusk/status/2118850366754402621)
+
+---
+
+## 2026-11-07 07:39:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good breakdown of the interview with Ron Baron
+
+[查看原文](https://x.com/elonmusk/status/2118850719944212645)
+
+---
+
+## 2026-11-07 07:39:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Here’s the full interview of @elonmusk with Ron Baron
+
+0:13 - Exciting times ahead
+0:21 - First principles and TerraFab
+2:18 -…
+
+[查看原文](https://x.com/elonmusk/status/2118850781696921977)
+
+---
+
+## 2026-11-07 07:47:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BurnhamDC: This project would be an incredible benefit to the people of my home state.
+
+[查看原文](https://x.com/elonmusk/status/2118852742534082914)
+
+---
+
+## 2026-11-07 07:53:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+If you want to iterate fast with radically new chip designs, join the Terafab project!
+
+[查看原文](https://x.com/elonmusk/status/2118854441063600539)
+
+---
+
+## 2026-11-07 07:54:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/YppqDwn2kA
+
+[查看原文](https://x.com/elonmusk/status/2118854622907674904)
+
+---
+
+## 2026-11-07 07:56:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk on the next Starship flight:
+
+“You’ll really want to watch this one. This one’s cool
+
+It’s the largest flying object…
+
+[查看原文](https://x.com/elonmusk/status/2118855011388268872)
 
 ---
 
