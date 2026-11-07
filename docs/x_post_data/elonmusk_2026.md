@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4585 条推文
+> 📊 推文存档 - 共 4588 条推文
 
 ---
 
@@ -503,7 +503,41 @@ Germany just told us we'd have to fire one of our 3 founders to qualify for fun�
 
 RT @DTruthsQ: “They put a pump in the anus of a 12 year old girl to expand it so multiple men could rape her and your country covered that…
 
-[查看原文](https://x.com/elonmusk/status/2118959379982479658)
+---
+
+## 2026-11-07 15:55:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @spencerpratt: If you’re right wing and you can’t admit liberals (not communists) are way better at art and design and boutique coffee s…
+
+[查看原文](https://x.com/elonmusk/status/2118975571812327503)
+
+---
+
+## 2026-11-07 15:57:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stark0xbt: Gavin Baker owned 15% of Nvidia and 10% of Tesla before either was worth $2 billion. He’s 50. And he just admitted Claude Co…
+
+[查看原文](https://x.com/elonmusk/status/2118975995269296438)
+
+---
+
+## 2026-11-07 16:06:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Kalshi: JUST IN: Google to invest $15 billion in Malaysia data centers
+
+[查看原文](https://x.com/elonmusk/status/2118978424840876093)
 
 ---
 
