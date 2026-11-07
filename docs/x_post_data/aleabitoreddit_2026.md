@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 565 条推文
+> 📊 推文存档 - 共 566 条推文
+
+---
+
+## 2026-11-08 00:01:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. 
+
+After a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. 
+
+The implications would have put TSMC in competition with $MU, SK Hynix, and Samsung and set https://t.co/5PHnAY2CaB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOVGrvUoQBmG184qFzLtaTzjcnTas-AALSFWsb_Ip4V8v_C3T7GPWQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOU2rvS0F-a4lBacd0CM58j8o-T_9GAALJFWsb_Ip4V5mPkZL-6tVXAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119097842363211968)
 
 ---
 
