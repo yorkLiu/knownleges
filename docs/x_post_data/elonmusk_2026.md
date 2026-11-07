@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4611 条推文
+> 📊 推文存档 - 共 4612 条推文
 
 ---
 
@@ -188,8 +188,6 @@ RT @politicalmath: A statistic that sounds fake but isn't: Not one single white 
 
 Who put your beliefs into your head? It probably wasn’t you.
 
-[查看原文](https://x.com/elonmusk/status/2119144684299915299)
-
 ---
 
 ## 2026-11-08 03:14:38
@@ -202,7 +200,17 @@ Most people don’t know that the best-selling car in the world is the Tesla Mod
 
 And the second and third best-selling cars are much cheaper.
 
-[查看原文](https://x.com/elonmusk/status/2119146526899396725)
+---
+
+## 2026-11-08 03:39:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @WR4NYGov There are efficiency improvements coming that will allow for a 40kWh Cybercab pack. We will make this in liquid sil…
+
+[查看原文](https://x.com/elonmusk/status/2119152897057599947)
 
 ---
 

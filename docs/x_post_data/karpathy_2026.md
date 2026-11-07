@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @karpathy
 
-> 📊 推文存档 - 共 49 条推文
+> 📊 推文存档 - 共 50 条推文
 
 ---
 
@@ -23,7 +23,19 @@ Which looked excellent so clearly I had to turn it into TristanTube:
 https://t.co/l0KyW1WdNH
 47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)
 
-[查看原文](https://x.com/karpathy/status/2119114537442189652)
+---
+
+## 2026-11-08 03:39:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @loresjpg: Nice DeepSWE score! Does it survive a lowercase filename?
+
+Introducing MaxxBench: 89 DeepSWE tasks with small changes to the…
+
+[查看原文](https://x.com/karpathy/status/2119152815444742594)
 
 ---
 
