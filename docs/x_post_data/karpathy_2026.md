@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @karpathy
 
-> 📊 推文存档 - 共 48 条推文
+> 📊 推文存档 - 共 49 条推文
+
+---
+
+## 2026-11-08 01:07:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Earlier this week Tristan published his top YouTube channels:
+https://t.co/NZ3UCNo6cT
+Which looked excellent so clearly I had to turn it into TristanTube:
+https://t.co/l0KyW1WdNH
+47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)
+
+[查看原文](https://x.com/karpathy/status/2119114537442189652)
 
 ---
 

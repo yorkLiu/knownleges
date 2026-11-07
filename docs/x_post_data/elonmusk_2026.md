@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4596 条推文
+> 📊 推文存档 - 共 4601 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 Catching a giant rocket falling from space
 
-[查看原文](https://x.com/elonmusk/status/2119111269718364631)
-
 ---
 
 ## 2026-11-08 00:55:14
@@ -30,8 +28,6 @@ Catching a giant rocket falling from space
 **内容**:
 
 RT @XFreeze: SpaceX just released a detailed blog post explaining how Starship will return to Starbase for its first tower-catch attempt on…
-
-[查看原文](https://x.com/elonmusk/status/2119111445518430392)
 
 ---
 
@@ -43,7 +39,70 @@ RT @XFreeze: SpaceX just released a detailed blog post explaining how Starship w
 
 RT @altcap: 10k kids born today, 10k new 530A accts auto created by @USTreasury w $1000 in the S&amp;P 500 compounding for 18 yrs.  10k kids bo…
 
-[查看原文](https://x.com/elonmusk/status/2119111949484982731)
+---
+
+## 2026-11-08 01:06:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: SpaceX has officially announced that it is currently targeting November 13th at 5:45 PM ET for Starship's 15th flight.…
+
+[查看原文](https://x.com/elonmusk/status/2119114275189039262)
+
+---
+
+## 2026-11-08 01:08:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship flight maneuvers https://t.co/QVEpWqfm5X
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOVmrvYQnwXnS2NYZEVnc6FLd_DVkIAAIwFmsb_Ip4V48i8XAGPjk1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119114815931039992)
+
+---
+
+## 2026-11-08 01:14:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AYi_AInotes: 天呐，海底光缆统治世界的时代要结束了，又要见证历史了🤯。。
+马斯克首次公布 Starlink V4 的极端参数：性能直接跳涨一百倍，光速天然快了一点四倍且不用绕大陆架，上千万条激光链路正在把地球通信主干搬上深空。
+
+绝大多数人至今依然以为，星链…
+
+[查看原文](https://x.com/elonmusk/status/2119116295719338096)
+
+---
+
+## 2026-11-08 01:17:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: SpaceX has just released a new blog about Starship's upcoming 15th flight planned for Nov 13 with more info about what t…
+
+[查看原文](https://x.com/elonmusk/status/2119116991596208520)
+
+---
+
+## 2026-11-08 01:19:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2119117494992478449)
 
 ---
 
