@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4584 条推文
+> 📊 推文存档 - 共 4585 条推文
 
 ---
 
@@ -471,8 +471,6 @@ RT @yunta_tsai: When computers and robots advance enough, legacy governance will
 
 If they can build almost everythin…
 
-[查看原文](https://x.com/elonmusk/status/2118955209757962425)
-
 ---
 
 ## 2026-11-07 14:40:57
@@ -482,8 +480,6 @@ If they can build almost everythin…
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2118956856978653374)
 
 ---
 
@@ -497,7 +493,17 @@ RT @sjdedic: Here's some fuel for all the Europoor haters:
 
 Germany just told us we'd have to fire one of our 3 founders to qualify for fun…
 
-[查看原文](https://x.com/elonmusk/status/2118957318473974210)
+---
+
+## 2026-11-07 14:50:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DTruthsQ: “They put a pump in the anus of a 12 year old girl to expand it so multiple men could rape her and your country covered that…
+
+[查看原文](https://x.com/elonmusk/status/2118959379982479658)
 
 ---
 
