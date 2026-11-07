@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4607 条推文
+> 📊 推文存档 - 共 4609 条推文
 
 ---
 
@@ -112,8 +112,6 @@ RT @SenRickScott: The most important thing for the Senate to do is to stay in se
 
 RT @XFreeze: SpaceX has outlined five contingency landing options for Starship Flight 15 as it prepares for the ship’s first tower-catch at…
 
-[查看原文](https://x.com/elonmusk/status/2119130109479162295)
-
 ---
 
 ## 2026-11-08 02:12:44
@@ -126,8 +124,6 @@ The Tesla Cybertruck order backlog is currently far more than we can make before
 
 We will add an extra shift to try to get all orders done in time.
 
-[查看原文](https://x.com/elonmusk/status/2119130949434888330)
-
 ---
 
 ## 2026-11-08 02:13:11
@@ -137,8 +133,6 @@ We will add an extra shift to try to get all orders done in time.
 **内容**:
 
 Starlink saves lives
-
-[查看原文](https://x.com/elonmusk/status/2119131060806074732)
 
 ---
 
@@ -154,8 +148,6 @@ $7,500 new EV federal tax credit expired
 Who lost EV market share?
 Models…
 
-[查看原文](https://x.com/elonmusk/status/2119134963790725377)
-
 ---
 
 ## 2026-11-08 02:32:16
@@ -166,7 +158,31 @@ Models…
 
 Interesting
 
-[查看原文](https://x.com/elonmusk/status/2119135865662300669)
+---
+
+## 2026-11-08 02:38:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I want to be José https://t.co/UUx63TuH3L
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOV2rvdtRh43Y6xqrzd8xGuLQRJoDUAAI4Fmsb_Ip4V9oRWZbo_jvqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119137465323708895)
+
+---
+
+## 2026-11-08 02:58:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @politicalmath: A statistic that sounds fake but isn't: Not one single white American man born after 1984 has published a work of litera…
+
+[查看原文](https://x.com/elonmusk/status/2119142479501099386)
 
 ---
 
