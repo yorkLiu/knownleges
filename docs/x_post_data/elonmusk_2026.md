@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4602 条推文
+> 📊 推文存档 - 共 4607 条推文
 
 ---
 
@@ -102,7 +102,71 @@ True
 
 RT @SenRickScott: The most important thing for the Senate to do is to stay in session EVERY DAY until the Democrats take over. Every judge…
 
-[查看原文](https://x.com/elonmusk/status/2119126049288028408)
+---
+
+## 2026-11-08 02:09:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX has outlined five contingency landing options for Starship Flight 15 as it prepares for the ship’s first tower-catch at…
+
+[查看原文](https://x.com/elonmusk/status/2119130109479162295)
+
+---
+
+## 2026-11-08 02:12:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The Tesla Cybertruck order backlog is currently far more than we can make before dismantling the line for Cybercab expansion around June/July next year. 
+
+We will add an extra shift to try to get all orders done in time.
+
+[查看原文](https://x.com/elonmusk/status/2119130949434888330)
+
+---
+
+## 2026-11-08 02:13:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2119131060806074732)
+
+---
+
+## 2026-11-08 02:28:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ICannot_Enough: 🚨 What happened to the California EV market?
+$7,500 new EV federal tax credit expired
+
+Who lost EV market share?
+Models…
+
+[查看原文](https://x.com/elonmusk/status/2119134963790725377)
+
+---
+
+## 2026-11-08 02:32:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting
+
+[查看原文](https://x.com/elonmusk/status/2119135865662300669)
 
 ---
 
