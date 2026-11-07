@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4579 条推文
+> 📊 推文存档 - 共 4580 条推文
 
 ---
 
@@ -407,8 +407,6 @@ Starship is the most powerful moving object of any kind made by humans https://t
 
 It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster
 
-[查看原文](https://x.com/elonmusk/status/2118880932014997910)
-
 ---
 
 ## 2026-11-07 09:40:39
@@ -418,8 +416,6 @@ It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Rapt
 **内容**:
 
 Super intelligence leads to abundance
-
-[查看原文](https://x.com/elonmusk/status/2118881284743483488)
 
 ---
 
@@ -433,8 +429,6 @@ RT @XFreeze: I'm telling you Grok's speech-to-text literally the best there is
 
 I was literally talking to Grok with music blasting right n…
 
-[查看原文](https://x.com/elonmusk/status/2118884257053684077)
-
 ---
 
 ## 2026-11-07 09:53:26
@@ -445,7 +439,17 @@ I was literally talking to Grok with music blasting right n…
 
 In the coming years, @Neuralink will enable people to walk and use their hands again
 
-[查看原文](https://x.com/elonmusk/status/2118884500201787770)
+---
+
+## 2026-11-07 11:47:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ShanaDiez: It’s time to put all the pieces together, the early tests to see how crazy it was to build a vehicle this size, the suborbit…
+
+[查看原文](https://x.com/elonmusk/status/2118913260112273674)
 
 ---
 
