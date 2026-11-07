@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 563 条推文
+> 📊 推文存档 - 共 564 条推文
 
 ---
 
@@ -37,9 +37,25 @@ $MU: "strategic customer agreements cannot be unilaterally canceled.  Customers 
 
 不过，巴菲特的投资组合规模大得多，他那19%的收益率，我还真比不了。 https://t.co/Eaqpji8NHX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOTmrvGGULxHfQH3hzFUIQQBs6B3bJAAL2FGsb_Ip4V6_167ucy2aDAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2119038604819468364)
+## 2026-11-07 22:40:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. 
+
+Since there's a reason why Elon's $SPCX is heavily focused on this market full of "guppies" that would die: 
+
+He sees how attractive the economics are after https://t.co/v2CK4ehLCi
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOT2rvPLZhi-CNk1G9i5xw0IOItKV3AAK4FWsb_Ip4V6_Rz7t8yf1LAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOUGrvPLipdPkoFFpawfYFpOkksPyRAAK5FWsb_Ip4Vz8CF5L9bujHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119077473107472729)
 
 ---
 
