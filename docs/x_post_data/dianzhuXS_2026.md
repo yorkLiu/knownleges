@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 698 条推文
+> 📊 推文存档 - 共 700 条推文
 
 ---
 
@@ -108,7 +108,46 @@ tags: ["2026"]
 但都沒有美國這麼反常識
 人家怎麼也要有了合法身份
 
-[查看原文](https://x.com/dianzhuXS/status/2118994299685896290)
+---
+
+## 2026-11-07 23:12:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+流星者，天皇之使，五行之散精也。飛行列宿，告示休咎。若星大，使大；星小，使小。星大則事大而害深，星小則事小而禍淺。
+
+有尾跡光為流星，無尾跡者為飛星，至地者為墜星。出則使出，入則使入。干犯滅則為誅罰之象。墜星之所，其下流血，破軍殺將，為咎最深。 https://t.co/AJ6kMG3YwY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOUWrvQ_0S1llqGtV6jfqzbTuKNdK3AALAFWsb_Ip4V_ogWicCVNNyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2119085645352288753)
+
+---
+
+## 2026-11-07 23:28:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+基本上算是「天象示警」
+習近平已經按捺不住
+要出兵了
+一切都拜全世界的「精緻利己」
+「傻逼共振」所賜
+民主黨拿下參眾兩院
+讓「地球癌習胞」失去了制衡
+雖此戰已顯敗象
+但混亂一方生靈塗炭
+是免不了了
+月底台灣之行
+只為觀氣
+希望不是台海戰事的異兆吧
+😮‍💨😮‍💨😮‍💨
+
+[查看原文](https://x.com/dianzhuXS/status/2119089611276468355)
 
 ---
 
