@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4581 条推文
+> 📊 推文存档 - 共 4584 条推文
 
 ---
 
@@ -459,7 +459,45 @@ RT @ShanaDiez: It’s time to put all the pieces together, the early tests to se
 
 5 years ago
 
-[查看原文](https://x.com/elonmusk/status/2118935230182805688)
+---
+
+## 2026-11-07 14:34:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: When computers and robots advance enough, legacy governance will look awkwardly quaint.
+
+If they can build almost everythin…
+
+[查看原文](https://x.com/elonmusk/status/2118955209757962425)
+
+---
+
+## 2026-11-07 14:40:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2118956856978653374)
+
+---
+
+## 2026-11-07 14:42:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @sjdedic: Here's some fuel for all the Europoor haters:
+
+Germany just told us we'd have to fire one of our 3 founders to qualify for fun…
+
+[查看原文](https://x.com/elonmusk/status/2118957318473974210)
 
 ---
 
