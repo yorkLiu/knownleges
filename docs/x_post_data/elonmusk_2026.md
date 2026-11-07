@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4580 条推文
+> 📊 推文存档 - 共 4581 条推文
 
 ---
 
@@ -449,7 +449,17 @@ In the coming years, @Neuralink will enable people to walk and use their hands a
 
 RT @ShanaDiez: It’s time to put all the pieces together, the early tests to see how crazy it was to build a vehicle this size, the suborbit…
 
-[查看原文](https://x.com/elonmusk/status/2118913260112273674)
+---
+
+## 2026-11-07 13:15:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+5 years ago
+
+[查看原文](https://x.com/elonmusk/status/2118935230182805688)
 
 ---
 
