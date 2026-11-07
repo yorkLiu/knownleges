@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4575 条推文
+> 📊 推文存档 - 共 4579 条推文
 
 ---
 
@@ -377,8 +377,6 @@ RT @SpaceX: Watch Falcon 9 launch the USSF-432 mission from pad 4E in California
 
 Of course I Still Love You
 
-[查看原文](https://x.com/elonmusk/status/2118872598058860671)
-
 ---
 
 ## 2026-11-07 09:18:04
@@ -388,10 +386,6 @@ Of course I Still Love You
 **内容**:
 
 Starship is the most powerful moving object of any kind made by humans https://t.co/DRQmAQ8U8G
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOSWruf85-wYOzDfHSB3Lo-WAqe1ZXAAJ7Emsb_IpwV2vGfTUZuiD3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2118875601654436061)
 
 ---
 
@@ -403,7 +397,55 @@ Starship is the most powerful moving object of any kind made by humans https://t
 
 5 years ago
 
-[查看原文](https://x.com/elonmusk/status/2118876612544561449)
+---
+
+## 2026-11-07 09:39:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster
+
+[查看原文](https://x.com/elonmusk/status/2118880932014997910)
+
+---
+
+## 2026-11-07 09:40:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Super intelligence leads to abundance
+
+[查看原文](https://x.com/elonmusk/status/2118881284743483488)
+
+---
+
+## 2026-11-07 09:52:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: I'm telling you Grok's speech-to-text literally the best there is
+
+I was literally talking to Grok with music blasting right n…
+
+[查看原文](https://x.com/elonmusk/status/2118884257053684077)
+
+---
+
+## 2026-11-07 09:53:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In the coming years, @Neuralink will enable people to walk and use their hands again
+
+[查看原文](https://x.com/elonmusk/status/2118884500201787770)
 
 ---
 
