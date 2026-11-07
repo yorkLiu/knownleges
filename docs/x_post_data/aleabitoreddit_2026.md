@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 564 条推文
+> 📊 推文存档 - 共 565 条推文
 
 ---
 
@@ -51,11 +51,25 @@ Since there's a reason why Elon's $SPCX is heavily focused on this market full o
 
 He sees how attractive the economics are after https://t.co/v2CK4ehLCi
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOT2rvPLZhi-CNk1G9i5xw0IOItKV3AAK4FWsb_Ip4V6_Rz7t8yf1LAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOUGrvPLipdPkoFFpawfYFpOkksPyRAAK5FWsb_Ip4Vz8CF5L9bujHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-07 23:59:41
 
-[查看原文](https://x.com/aleabitoreddit/status/2119077473107472729)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. 
+
+After a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. 
+
+The implications would have put TSMC in competition with $MU, SK Hynix, and Samsung and set https://t.co/wltMmVO88f
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOUmrvSz6rGRNiXcdG9Hdxf5KZ5IDFAALIFWsb_Ip4V5jU7bzG6_MqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOU2rvS0F-a4lBacd0CM58j8o-T_9GAALJFWsb_Ip4V5mPkZL-6tVXAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119097466847191359)
 
 ---
 
