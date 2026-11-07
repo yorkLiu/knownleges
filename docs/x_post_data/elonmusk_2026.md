@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4612 条推文
+> 📊 推文存档 - 共 4614 条推文
 
 ---
 
@@ -210,7 +210,33 @@ And the second and third best-selling cars are much cheaper.
 
 RT @elonmusk: @WR4NYGov There are efficiency improvements coming that will allow for a 40kWh Cybercab pack. We will make this in liquid sil…
 
-[查看原文](https://x.com/elonmusk/status/2119152897057599947)
+---
+
+## 2026-11-08 05:25:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: Judging will take place this weekend!
+
+Also - make sure your video you submitted is included at https://t.co/9uKEUsi4lz. If…
+
+[查看原文](https://x.com/elonmusk/status/2119179384376762623)
+
+---
+
+## 2026-11-08 05:25:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: Announcing a contest! 💸💸
+
+I'll give $420.69 in @XMoney to someone who makes the best Claudia music video by Friday, 10pm EST…
+
+[查看原文](https://x.com/elonmusk/status/2119179405436366943)
 
 ---
 
