@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4609 条推文
+> 📊 推文存档 - 共 4611 条推文
 
 ---
 
@@ -168,10 +168,6 @@ Interesting
 
 I want to be José https://t.co/UUx63TuH3L
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOV2rvdtRh43Y6xqrzd8xGuLQRJoDUAAI4Fmsb_Ip4V9oRWZbo_jvqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2119137465323708895)
-
 ---
 
 ## 2026-11-08 02:58:33
@@ -182,7 +178,31 @@ I want to be José https://t.co/UUx63TuH3L
 
 RT @politicalmath: A statistic that sounds fake but isn't: Not one single white American man born after 1984 has published a work of litera…
 
-[查看原文](https://x.com/elonmusk/status/2119142479501099386)
+---
+
+## 2026-11-08 03:07:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Who put your beliefs into your head? It probably wasn’t you.
+
+[查看原文](https://x.com/elonmusk/status/2119144684299915299)
+
+---
+
+## 2026-11-08 03:14:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Most people don’t know that the best-selling car in the world is the Tesla Model Y. 
+
+And the second and third best-selling cars are much cheaper.
+
+[查看原文](https://x.com/elonmusk/status/2119146526899396725)
 
 ---
 
