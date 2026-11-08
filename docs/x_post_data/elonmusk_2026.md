@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4618 条推文
+> 📊 推文存档 - 共 4620 条推文
 
 ---
 
@@ -244,8 +244,6 @@ I'll give $420.69 in @XMoney to someone who makes the best Claudia music video b
 
 RT @cb_doge: BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during…
 
-[查看原文](https://x.com/elonmusk/status/2119302996224082049)
-
 ---
 
 ## 2026-11-08 13:43:15
@@ -255,8 +253,6 @@ RT @cb_doge: BREAKING: The local government of La Serena, Chile, is bringing @St
 **内容**:
 
 RT @Jenniferarcuri: Why is Russell Brand the only one found guilty when there are entire grooming gangs who have faced zero prosecution?! 🇬🇧
-
-[查看原文](https://x.com/elonmusk/status/2119304724209914069)
 
 ---
 
@@ -268,8 +264,6 @@ RT @Jenniferarcuri: Why is Russell Brand the only one found guilty when there ar
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2119305634688520262)
-
 ---
 
 ## 2026-11-08 13:48:14
@@ -280,7 +274,31 @@ Yes
 
 RT @EvaFox: When Elon Musk talks about abundance, I think about people having more room to breathe because the things they need become less…
 
-[查看原文](https://x.com/elonmusk/status/2119305975987650786)
+---
+
+## 2026-11-08 20:26:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ApoStructura: This is how every US launch ever looks like vs SpaceX’s 2030 launch target for Starship (10,000): https://t.co/Breuz9VnJl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOXGrwbb8R-iqq1Z4FL1jr0jf62NWfAAJ3E2sb97aBV_YcpVm8SCQaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119406258902224899)
+
+---
+
+## 2026-11-08 20:27:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Interesting
+
+[查看原文](https://x.com/elonmusk/status/2119406464372789396)
 
 ---
 
