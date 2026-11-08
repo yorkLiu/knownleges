@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4631 条推文
+> 📊 推文存档 - 共 4632 条推文
 
 ---
 
@@ -39,8 +39,6 @@ Larry Page has made many accurate predictions and this is one of them
 
 RT @DavidSacks: Republicans lost the midterms because of the war and its economic consequences. The good news is that job growth and GDP gr…
 
-[查看原文](https://x.com/elonmusk/status/2119477926160650342)
-
 ---
 
 ## 2026-11-09 01:18:08
@@ -51,7 +49,17 @@ RT @DavidSacks: Republicans lost the midterms because of the war and its economi
 
 RT @theisabelb: I will never forget how fiercely Charlie defended Dave Chapelle at the height of cancel culture, both publicly and privatel…
 
-[查看原文](https://x.com/elonmusk/status/2119479595921481923)
+---
+
+## 2026-11-09 01:36:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CarlHigbie: Uhh… you mean the kids who were found innocent???
+
+[查看原文](https://x.com/elonmusk/status/2119484265671110904)
 
 ---
 
