@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4614 条推文
+> 📊 推文存档 - 共 4618 条推文
 
 ---
 
@@ -222,8 +222,6 @@ RT @anabology: Judging will take place this weekend!
 
 Also - make sure your video you submitted is included at https://t.co/9uKEUsi4lz. If…
 
-[查看原文](https://x.com/elonmusk/status/2119179384376762623)
-
 ---
 
 ## 2026-11-08 05:25:17
@@ -236,7 +234,53 @@ RT @anabology: Announcing a contest! 💸💸
 
 I'll give $420.69 in @XMoney to someone who makes the best Claudia music video by Friday, 10pm EST…
 
-[查看原文](https://x.com/elonmusk/status/2119179405436366943)
+---
+
+## 2026-11-08 13:36:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: The local government of La Serena, Chile, is bringing @Starlink to rural clinics to help them stay connected during…
+
+[查看原文](https://x.com/elonmusk/status/2119302996224082049)
+
+---
+
+## 2026-11-08 13:43:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Jenniferarcuri: Why is Russell Brand the only one found guilty when there are entire grooming gangs who have faced zero prosecution?! 🇬🇧
+
+[查看原文](https://x.com/elonmusk/status/2119304724209914069)
+
+---
+
+## 2026-11-08 13:46:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2119305634688520262)
+
+---
+
+## 2026-11-08 13:48:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: When Elon Musk talks about abundance, I think about people having more room to breathe because the things they need become less…
+
+[查看原文](https://x.com/elonmusk/status/2119305975987650786)
 
 ---
 
