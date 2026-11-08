@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4620 条推文
+> 📊 推文存档 - 共 4622 条推文
 
 ---
 
@@ -284,10 +284,6 @@ RT @EvaFox: When Elon Musk talks about abundance, I think about people having mo
 
 RT @ApoStructura: This is how every US launch ever looks like vs SpaceX’s 2030 launch target for Starship (10,000): https://t.co/Breuz9VnJl
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOXGrwbb8R-iqq1Z4FL1jr0jf62NWfAAJ3E2sb97aBV_YcpVm8SCQaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2119406258902224899)
-
 ---
 
 ## 2026-11-08 20:27:32
@@ -298,7 +294,33 @@ RT @ApoStructura: This is how every US launch ever looks like vs SpaceX’s 2030
 
 Interesting
 
-[查看原文](https://x.com/elonmusk/status/2119406464372789396)
+---
+
+## 2026-11-08 20:57:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: If one of y'all makes a Starlink ad with a Claudia cameo that wins this contest...
+
+I will personally give you $5000 in @XMo…
+
+[查看原文](https://x.com/elonmusk/status/2119414103709978703)
+
+---
+
+## 2026-11-08 20:58:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Super Heavy’s Raptor engines lifting the booster off the pad.
+
+Filmed with a high-speed camera so you can see the detail…
+
+[查看原文](https://x.com/elonmusk/status/2119414305686761847)
 
 ---
 
