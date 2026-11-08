@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 566 条推文
+> 📊 推文存档 - 共 567 条推文
 
 ---
 
@@ -23,11 +23,31 @@ After a report yesterday from The Information stated TSMC's production plans wer
 
 The implications would have put TSMC in competition with $MU, SK Hynix, and Samsung and set https://t.co/5PHnAY2CaB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOVGrvUoQBmG184qFzLtaTzjcnTas-AALSFWsb_Ip4V8v_C3T7GPWQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOU2rvS0F-a4lBacd0CM58j8o-T_9GAALJFWsb_Ip4V5mPkZL-6tVXAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-08 12:35:49
 
-[查看原文](https://x.com/aleabitoreddit/status/2119097842363211968)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The two things I'm excited about are Gen G vs. T1...
+
+and new NASA's $10 Billion contract to begin settling on the moon. NASA selected:
+
+- $SPCX (SpaceX)
+- Blue Origin
+- $FLY (Firefly)
+- $LUNR (Lunar)
+- $LMT (Lockheed Martin Space)
+- $NOC (Northrop Grumman Space)
+- $VOYG https://t.co/uRHXj3mBGt
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOWWrwAAHH7D5agTDdYUzgLIss8_7BPgACpRJrG_e2gVfmKoOhiCajEQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOWmrwAAHK_fuvpAb7Y9KQY3V6wo6HcgACphJrG_e2gVc46b_uj_o98wEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119287752730738722)
 
 ---
 
