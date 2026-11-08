@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 568 条推文
+> 📊 推文存档 - 共 569 条推文
 
 ---
 
@@ -57,9 +57,23 @@ It think it's stupid that "AI Bubble" gets used over and over. In infra names yo
 
 - Optical companies like $POET traded -$97M under net cash. https://t.co/y82dSDqKB6
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOW2rwSWvQWLHll65rl1ADC7nP3PGwAAIhE2sb97aBV9xMgvY2IW91AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2119363124147191823)
+## 2026-11-08 23:52:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: 
+
+$LITE CEO: "You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. 
+
+And what the markets are showing. And yet https://t.co/qIit6H1ek2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOXWrwoJqXS4NLrNXqHBopJEGFqlG8AAISE2sb97aJV4XJklBVWzvZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119458038260318634)
 
 ---
 
