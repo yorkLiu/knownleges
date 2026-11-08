@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4629 条推文
+> 📊 推文存档 - 共 4631 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @_rathbone: If Russell Brand is going to prison for rape that occurred 20 years ago, why isn’t anyone in the Epstein files going too?
 
-[查看原文](https://x.com/elonmusk/status/2119464415410200981)
-
 ---
 
 ## 2026-11-09 00:37:46
@@ -31,7 +29,29 @@ RT @_rathbone: If Russell Brand is going to prison for rape that occurred 20 yea
 
 Larry Page has made many accurate predictions and this is one of them
 
-[查看原文](https://x.com/elonmusk/status/2119469436092760547)
+---
+
+## 2026-11-09 01:11:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DavidSacks: Republicans lost the midterms because of the war and its economic consequences. The good news is that job growth and GDP gr…
+
+[查看原文](https://x.com/elonmusk/status/2119477926160650342)
+
+---
+
+## 2026-11-09 01:18:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @theisabelb: I will never forget how fiercely Charlie defended Dave Chapelle at the height of cancel culture, both publicly and privatel…
+
+[查看原文](https://x.com/elonmusk/status/2119479595921481923)
 
 ---
 
