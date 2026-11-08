@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 225 条推文
+> 📊 推文存档 - 共 226 条推文
 
 ---
 
@@ -23,9 +23,21 @@ tags: ["2026"]
 
 现在昵称从“电鱼哥专注SpaceX”，变为“电鱼哥”。纵情向前！ https://t.co/3TG3pjnMwq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOWGrv6vlvjGDOmnP78Wq0198Tcy_gAAKhFmsb_Ip4V91rZfYoTDDGAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2119264559462826193)
+## 2026-11-08 22:14:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+下周走势
+
+上周五在大跌的基础上，微弱反弹。我认为主要还是情绪+避险影响，大跌把所有买盘打怕了，一是不敢买，二是赶紧卖，叠加周末未知的恐惧，所以反弹弱一点能够理解。
+
+一、当前核心判断是：反弹有没有结束？
+
+[查看原文](https://x.com/iiiinvest/status/2119433317212926006)
 
 ---
 
