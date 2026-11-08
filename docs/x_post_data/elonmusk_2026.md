@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4625 条推文
+> 📊 推文存档 - 共 4627 条推文
 
 ---
 
@@ -328,8 +328,6 @@ Filmed with a high-speed camera so you can see the detail…
 
 Grok Bot fixes for improved token efficiency and smarter behavior are underway
 
-[查看原文](https://x.com/elonmusk/status/2119419126045454531)
-
 ---
 
 ## 2026-11-08 21:21:27
@@ -339,8 +337,6 @@ Grok Bot fixes for improved token efficiency and smarter behavior are underway
 **内容**:
 
 Yup
-
-[查看原文](https://x.com/elonmusk/status/2119420033113739525)
 
 ---
 
@@ -352,7 +348,29 @@ Yup
 
 Many such stories
 
-[查看原文](https://x.com/elonmusk/status/2119425068979937378)
+---
+
+## 2026-11-08 23:21:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2119450198007337418)
+
+---
+
+## 2026-11-08 23:23:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Shame, shame, shame on Chappelle
+
+[查看原文](https://x.com/elonmusk/status/2119450646143537211)
 
 ---
 
