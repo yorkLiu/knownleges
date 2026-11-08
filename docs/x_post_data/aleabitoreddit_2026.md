@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 567 条推文
+> 📊 推文存档 - 共 568 条推文
 
 ---
 
@@ -43,11 +43,23 @@ and new NASA's $10 Billion contract to begin settling on the moon. NASA selected
 - $NOC (Northrop Grumman Space)
 - $VOYG https://t.co/uRHXj3mBGt
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOWWrwAAHH7D5agTDdYUzgLIss8_7BPgACpRJrG_e2gVfmKoOhiCajEQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOWmrwAAHK_fuvpAb7Y9KQY3V6wo6HcgACphJrG_e2gVc46b_uj_o98wEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-08 17:35:19
 
-[查看原文](https://x.com/aleabitoreddit/status/2119287752730738722)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It think it's stupid that "AI Bubble" gets used over and over. In infra names you have: 
+
+- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. 
+
+- Optical companies like $POET traded -$97M under net cash. https://t.co/y82dSDqKB6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOW2rwSWvQWLHll65rl1ADC7nP3PGwAAIhE2sb97aBV9xMgvY2IW91AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119363124147191823)
 
 ---
 
