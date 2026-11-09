@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4651 条推文
+> 📊 推文存档 - 共 4652 条推文
 
 ---
 
@@ -263,7 +263,19 @@ This is not a case of Cybertruck being unprofitable, as has been misreported
 
 RT @peterrhague: It’s a metaphor I keep coming back to; a nation can have a decisive lead and then simply throw it away for bad, short-term…
 
-[查看原文](https://x.com/elonmusk/status/2119721189413372375)
+---
+
+## 2026-11-09 17:40:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DefiantLs: @elonmusk The difference. https://t.co/sBPZs0nP2s
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOaWrxl3Lur7iTehAVhoYekPItXQhuAAKiH2sb97aRV3Qd2ySbO2H1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119726824662122530)
 
 ---
 
