@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4638 条推文
+> 📊 推文存档 - 共 4642 条推文
 
 ---
 
@@ -123,7 +123,55 @@ Fixes are being implemented overnight and you should notice a dramatic improveme
 
 Dave Chappelle is cruel
 
-[查看原文](https://x.com/elonmusk/status/2119624561100755305)
+---
+
+## 2026-11-09 11:09:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah
+
+[查看原文](https://x.com/elonmusk/status/2119628426571338063)
+
+---
+
+## 2026-11-09 11:13:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Chinese 𝕏 is 牛逼
+
+[查看原文](https://x.com/elonmusk/status/2119629310969467053)
+
+---
+
+## 2026-11-09 11:15:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Excited to be working with @Qualcomm on breakthrough technologies for 5G &amp; beyond
+
+[查看原文](https://x.com/elonmusk/status/2119629886377607546)
+
+---
+
+## 2026-11-09 11:23:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @adamgolding: Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely spoken out against the verdict.
+ She stated the following:
+ "…
+
+[查看原文](https://x.com/elonmusk/status/2119631955855606244)
 
 ---
 
