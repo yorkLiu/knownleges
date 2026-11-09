@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 231 条推文
+> 📊 推文存档 - 共 232 条推文
 
 ---
 
@@ -64,7 +64,21 @@ tags: ["2026"]
 今天2次加仓都加在低点，对你们，我真是真爱了！
 不信的，掏出来弹2下！
 
-[查看原文](https://x.com/iiiinvest/status/2119752546696987114)
+---
+
+## 2026-11-09 22:44:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+告送我，谁给你说要反弹？谁给你说别慌？谁给亲自示范？？？
+
+你可以不信你哥，但最好别做你哥的对手盘！掌声！👏🏻 https://t.co/z1sXY0pWhG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOcGrx4Cdnzrc3dIpb7KgNfZ3GXdIpAALKIGsb97aRV5QpTmJfTj69AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2119803271342960818)
 
 ---
 

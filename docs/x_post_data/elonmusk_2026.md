@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4671 条推文
+> 📊 推文存档 - 共 4672 条推文
 
 ---
 
@@ -417,8 +417,6 @@ RT @cb_doge: BREAKING: Brussels Airlines just released a new footage of @Starlin
 
 Flight SN2257 to Copenh…
 
-[查看原文](https://x.com/elonmusk/status/2119796701179613656)
-
 ---
 
 ## 2026-11-09 22:18:35
@@ -431,8 +429,6 @@ RT @BGatesIsaPyscho: BBC posted this Headline ‘Far Right Shooting’ it receiv
 
 However in the comments - you can…
 
-[查看原文](https://x.com/elonmusk/status/2119796801104748683)
-
 ---
 
 ## 2026-11-09 22:19:50
@@ -442,8 +438,6 @@ However in the comments - you can…
 **内容**:
 
 RT @zerohedge: "Whole World Repeating A Lie": EU Lawmaker Challenges "Far-Right" MSM Narrative For Polish Gunman https://t.co/7WpY2c2n4x
-
-[查看原文](https://x.com/elonmusk/status/2119797114297618712)
 
 ---
 
@@ -456,8 +450,6 @@ RT @zerohedge: "Whole World Repeating A Lie": EU Lawmaker Challenges "Far-Right"
 RT @kangminlee: Dave Chappelle didn't joke about Charlie's murder.
 
 He celebrated it.
-
-[查看原文](https://x.com/elonmusk/status/2119797266785714556)
 
 ---
 
@@ -474,8 +466,6 @@ RT @cb_doge: Another great month for the Grok app. 🚀
 
 Both numbers climbed in Oct…
 
-[查看原文](https://x.com/elonmusk/status/2119797712795390353)
-
 ---
 
 ## 2026-11-09 22:23:10
@@ -485,8 +475,6 @@ Both numbers climbed in Oct…
 **内容**:
 
 RT @ProjectConstitu: ‼️Someone Who Was ACTUALLY In The Room At Dave Chappelle’s Show Has Now Released The FULL Context Of What Was Said Abo…
-
-[查看原文](https://x.com/elonmusk/status/2119797951258403290)
 
 ---
 
@@ -498,9 +486,17 @@ RT @ProjectConstitu: ‼️Someone Who Was ACTUALLY In The Room At Dave Chappell
 
 RT @robotaxi: Bigger Austin service area now live https://t.co/Ku336rCL7K
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOa2rx2NXk_gwVVFAv41ZTSFCJ8Y_9AAK_IGsb97aRVxs9_tiYeDCtAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2119799146211393960)
+## 2026-11-09 22:35:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cawners: @InternetH0F id for creatine but not voting LMFAOOOO
+
+[查看原文](https://x.com/elonmusk/status/2119800933429416041)
 
 ---
 
