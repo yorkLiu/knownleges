@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4675 条推文
+> 📊 推文存档 - 共 4681 条推文
 
 ---
 
@@ -508,8 +508,6 @@ RT @cb_doge: Starlink helped save five people stranded in Kazakhstan’s snowy m
 
 Their SUV broke down about 15 km from the villa…
 
-[查看原文](https://x.com/elonmusk/status/2119811718721503550)
-
 ---
 
 ## 2026-11-09 23:21:24
@@ -519,8 +517,6 @@ Their SUV broke down about 15 km from the villa…
 **内容**:
 
 Project Crystal Sun
-
-[查看原文](https://x.com/elonmusk/status/2119812607117062451)
 
 ---
 
@@ -534,7 +530,93 @@ RT @cb_doge: Starlink helped save a family trapped by snowstorm in a remote area
 
 A metre of snow surrounded Rafael Da Silva…
 
-[查看原文](https://x.com/elonmusk/status/2119813673728548907)
+---
+
+## 2026-11-09 23:33:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EndWokeness: California national election margin before 𝙫𝙨 after amnesty and mass immigration:
+
+🔴 1968: R +3.1 
+🔴 1972: R +13.5
+🔴 1976:…
+
+[查看原文](https://x.com/elonmusk/status/2119815763796406607)
+
+---
+
+## 2026-11-09 23:35:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NathanielSami: Musk to Texas Democrats: Our Success Came From Freedom, Not Your Favors
+
+Elon Musk just slapped down a Wall Street Journ…
+
+[查看原文](https://x.com/elonmusk/status/2119816030579286326)
+
+---
+
+## 2026-11-09 23:37:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iAnonPatriot: Hey @grok, how many Europeans were captured and sold into slavery by North African pirates between 1500 and 1800? Number…
+
+[查看原文](https://x.com/elonmusk/status/2119816748891574503)
+
+---
+
+## 2026-11-09 23:41:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can do incredible things
+
+[查看原文](https://x.com/elonmusk/status/2119817540432244779)
+
+---
+
+## 2026-11-09 23:47:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrianRoemmele: NEW GROK BOT!
+
+Your favorite YouTubes and podcasts now come out as a weekly magazine. 📰
+
+I prefer to have a good read on…
+
+[查看原文](https://x.com/elonmusk/status/2119819084590428636)
+
+---
+
+## 2026-11-09 23:48:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: Starlink is now delivering fast, reliable internet onboard @FlyingBrussels 🛰️✈️ https://t.co/Jly6atnBkK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOcWrx7qCD8F8brvpykVgnMn_KtxfwAAIJIWsb97aRV0m9DRw_du_wAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOcmrx7qPwVENHYeurBSre6t0ZNLnvAAIKIWsb97aRV-kzJeepXpncAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOc2rx7qaYixTAlTl-rp_Cymna05pyAAILIWsb97aRV9_qyorNxjNZAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119819363331325983)
 
 ---
 
