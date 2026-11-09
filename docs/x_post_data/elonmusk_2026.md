@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4686 条推文
+> 📊 推文存档 - 共 4688 条推文
 
 ---
 
@@ -29,8 +29,6 @@ This is not justice.
 
 This…
 
-[查看原文](https://x.com/elonmusk/status/2119823115836678650)
-
 ---
 
 ## 2026-11-10 00:04:25
@@ -42,8 +40,6 @@ This…
 RT @mattyp: I responded to hundreds of you and will continue to monitor comments
 
 I’ll be using @bot to get aggregate feedback to the team…
-
-[查看原文](https://x.com/elonmusk/status/2119823433085358186)
 
 ---
 
@@ -57,8 +53,6 @@ RT @ResisttheMS: Ron Baron describes Elon Musk as "the biggest job creator in th
 
 Baron points out…
 
-[查看原文](https://x.com/elonmusk/status/2119823743212257504)
-
 ---
 
 ## 2026-11-10 00:06:08
@@ -70,8 +64,6 @@ Baron points out…
 RT @KatieMiller: Elon has nearly 160,000 direct employees throughout his companies and supports almost 870,000 jobs. 
 
 Over five years, bas…
-
-[查看原文](https://x.com/elonmusk/status/2119823862934482991)
 
 ---
 
@@ -85,7 +77,29 @@ RT @0xMiraxq: A battery cost $600 per kilowatt-hour. The materials it’s made o
 
 REPORTER: Where d…
 
-[查看原文](https://x.com/elonmusk/status/2119824096100040918)
+---
+
+## 2026-11-10 05:47:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Gwynne is great
+
+[查看原文](https://x.com/elonmusk/status/2119909709197279420)
+
+---
+
+## 2026-11-10 05:57:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Tesla VP of Vehicle Engineering Lars Moravy just put Tesla's extraordinary manufacturing scale into perspective during his con…
+
+[查看原文](https://x.com/elonmusk/status/2119912356377694591)
 
 ---
 
