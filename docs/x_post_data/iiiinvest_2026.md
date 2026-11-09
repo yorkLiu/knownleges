@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 228 条推文
+> 📊 推文存档 - 共 229 条推文
 
 ---
 
@@ -31,9 +31,17 @@ tags: ["2026"]
 
 加仓了，5万股SOXL，看多做多半导体，永远年轻永远热泪盈眶！ https://t.co/rLpOM60BJX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOYGrxIzgUHqR3seFxJDy_pFzXyOkbAAK9FGsb97aJV2vAVcqH6Rw8AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2119601336530718807)
+## 2026-11-09 10:20:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+他妈的，利空呢，怎么不砸了？哪位兄弟有资源，下次给老黄安排上，让他彻底对女的去魅！
+
+[查看原文](https://x.com/iiiinvest/status/2119615963436068951)
 
 ---
 
