@@ -7,7 +7,21 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 232 条推文
+> 📊 推文存档 - 共 233 条推文
+
+---
+
+## 2026-11-10 00:04:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+半导体SOXL 多单盈利35万美金了。就这走势，大戏在尾盘。睡了~ https://t.co/LSeaqZY8GG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOdGrx9ejsokSFBPRgQ3yxgO2Bry3AAAIUIWsb97aRV8YQd-GCxzYsAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2119823356929404991)
 
 ---
 
