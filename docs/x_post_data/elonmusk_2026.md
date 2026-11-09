@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4664 条推文
+> 📊 推文存档 - 共 4671 条推文
 
 ---
 
@@ -369,8 +369,6 @@ RT @GabeZZOZZ: Turns out the Krakow shooter is a pro-abortion, pro-LGBT leftist 
 
 Insightful
 
-[查看原文](https://x.com/elonmusk/status/2119742268265640376)
-
 ---
 
 ## 2026-11-09 18:42:49
@@ -380,8 +378,6 @@ Insightful
 **内容**:
 
 RT @TheGNPE: Hey @grok why are Polish officials and UK media calling the shooter "far right" when there has been zero evidence that he was…
-
-[查看原文](https://x.com/elonmusk/status/2119742500042948847)
 
 ---
 
@@ -399,8 +395,6 @@ Indians won't be a minority in India
 
 Chinese…
 
-[查看原文](https://x.com/elonmusk/status/2119742635128840506)
-
 ---
 
 ## 2026-11-09 18:45:33
@@ -411,7 +405,102 @@ Chinese…
 
 RT @hermanntertsch: El gobierno de Donald Tusk ordenó borrar de inmediato el facebook del asesino que mató ayer a seis personas e hirió a 1…
 
-[查看原文](https://x.com/elonmusk/status/2119743188978245667)
+---
+
+## 2026-11-09 22:18:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Brussels Airlines just released a new footage of @Starlink being installed on its aircraft.
+
+Flight SN2257 to Copenh…
+
+[查看原文](https://x.com/elonmusk/status/2119796701179613656)
+
+---
+
+## 2026-11-09 22:18:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BGatesIsaPyscho: BBC posted this Headline ‘Far Right Shooting’ it received if 1 million impressions
+
+However in the comments - you can…
+
+[查看原文](https://x.com/elonmusk/status/2119796801104748683)
+
+---
+
+## 2026-11-09 22:19:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @zerohedge: "Whole World Repeating A Lie": EU Lawmaker Challenges "Far-Right" MSM Narrative For Polish Gunman https://t.co/7WpY2c2n4x
+
+[查看原文](https://x.com/elonmusk/status/2119797114297618712)
+
+---
+
+## 2026-11-09 22:20:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kangminlee: Dave Chappelle didn't joke about Charlie's murder.
+
+He celebrated it.
+
+[查看原文](https://x.com/elonmusk/status/2119797266785714556)
+
+---
+
+## 2026-11-09 22:22:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Another great month for the Grok app. 🚀
+
+• 93,386,567 monthly active users
+• 12,731,752 downloads
+
+Both numbers climbed in Oct…
+
+[查看原文](https://x.com/elonmusk/status/2119797712795390353)
+
+---
+
+## 2026-11-09 22:23:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ProjectConstitu: ‼️Someone Who Was ACTUALLY In The Room At Dave Chappelle’s Show Has Now Released The FULL Context Of What Was Said Abo…
+
+[查看原文](https://x.com/elonmusk/status/2119797951258403290)
+
+---
+
+## 2026-11-09 22:27:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Bigger Austin service area now live https://t.co/Ku336rCL7K
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOa2rx2NXk_gwVVFAv41ZTSFCJ8Y_9AAK_IGsb97aRVxs9_tiYeDCtAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119799146211393960)
 
 ---
 
