@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4649 条推文
+> 📊 推文存档 - 共 4650 条推文
 
 ---
 
@@ -209,8 +209,6 @@ They built 400 over five years.
 
 How many did @ElonMusk's @Te…
 
-[查看原文](https://x.com/elonmusk/status/2119683889136349651)
-
 ---
 
 ## 2026-11-09 14:59:26
@@ -223,8 +221,6 @@ RT @cb_doge: Starlink connected a remote village in Fiji to the world. 🇫🇯
 
 For the first time, families in Naigani Village on Batiki Island…
 
-[查看原文](https://x.com/elonmusk/status/2119686284360749218)
-
 ---
 
 ## 2026-11-09 14:59:42
@@ -234,10 +230,6 @@ For the first time, families in Naigani Village on Batiki Island…
 **内容**:
 
 RT @robotaxi: Robotaxi available in San Antonio starting tomorrow, 5am https://t.co/4ioqOlFCsL
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOZGrxcyHmZHeGI-c06cmieBGvQZ0qAAJCFWsb97aJV_4LnslWNOajAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2119686351474078187)
 
 ---
 
@@ -249,7 +241,19 @@ RT @robotaxi: Robotaxi available in San Antonio starting tomorrow, 5am https://t
 
 RT @GuntherEagleman: The UK went after Russell Brand but not migrant rape gangs. Why.
 
-[查看原文](https://x.com/elonmusk/status/2119689039209250947)
+---
+
+## 2026-11-09 15:20:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will have to return deposits for a lot of people.
+
+This is not a case of Cybertruck being unprofitable, as has been misreported
+
+[查看原文](https://x.com/elonmusk/status/2119691615774146614)
 
 ---
 
