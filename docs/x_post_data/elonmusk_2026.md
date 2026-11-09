@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4660 条推文
+> 📊 推文存档 - 共 4664 条推文
 
 ---
 
@@ -283,8 +283,6 @@ RT @DefiantLs: @elonmusk The difference. https://t.co/sBPZs0nP2s
 
 RT @DavidWolfe: If Russell Brand is facing prison for rape allegations dating back 20 years, why isn’t anyone named in the Epstein files go…
 
-[查看原文](https://x.com/elonmusk/status/2119732549010464959)
-
 ---
 
 ## 2026-11-09 18:04:22
@@ -296,8 +294,6 @@ RT @DavidWolfe: If Russell Brand is facing prison for rape allegations dating ba
 RT @NiohBerg: Did you know?
 
 When a British person is murdered or raped by an imported foreigner, there are entire government units set up…
-
-[查看原文](https://x.com/elonmusk/status/2119732823569604963)
 
 ---
 
@@ -313,8 +309,6 @@ You're not the "free speech" guy.
 
 You're the guy who laughed when the free speech guy was m*rdered.…
 
-[查看原文](https://x.com/elonmusk/status/2119733594830848493)
-
 ---
 
 ## 2026-11-09 18:07:55
@@ -324,8 +318,6 @@ You're the guy who laughed when the free speech guy was m*rdered.…
 **内容**:
 
 RT @WallStreetMav: The shooter was a gay communist.
-
-[查看原文](https://x.com/elonmusk/status/2119733718856388951)
 
 ---
 
@@ -337,8 +329,6 @@ RT @WallStreetMav: The shooter was a gay communist.
 
 RT @pondebekkio: NVIDIAの革ジャンが中華4000年の歴史から繰り出されるハニートラップにやられた今、『家に来ないか？俺のデカいロケットを見てくれよ』と美女を口説いて宅飲みに誘い、ほんとにロケットの写真や資料を見せたイーロン・マスクの凄さがよくわかるね。世界…
 
-[查看原文](https://x.com/elonmusk/status/2119734126282694758)
-
 ---
 
 ## 2026-11-09 18:10:25
@@ -348,10 +338,6 @@ RT @pondebekkio: NVIDIAの革ジャンが中華4000年の歴史から繰り出�
 **内容**:
 
 RT @TheJadeWarwick: https://t.co/MxFM6cvvDQ
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOamrxnraHzuHAfXoPfWJQAY3YVG9cAAK8H2sb97aRV5aIlMUpTR6HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2119734344705249677)
 
 ---
 
@@ -363,8 +349,6 @@ RT @TheJadeWarwick: https://t.co/MxFM6cvvDQ
 
 RT @toadmeister: A grooming gang survivor raped by at least 50 men was handed back to her abusers by police after saying she was an adult.…
 
-[查看原文](https://x.com/elonmusk/status/2119734624536674678)
-
 ---
 
 ## 2026-11-09 18:14:02
@@ -375,7 +359,59 @@ RT @toadmeister: A grooming gang survivor raped by at least 50 men was handed ba
 
 RT @GabeZZOZZ: Turns out the Krakow shooter is a pro-abortion, pro-LGBT leftist extremist who hates Christianity. These people are sick in…
 
-[查看原文](https://x.com/elonmusk/status/2119735254366007616)
+---
+
+## 2026-11-09 18:41:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Insightful
+
+[查看原文](https://x.com/elonmusk/status/2119742268265640376)
+
+---
+
+## 2026-11-09 18:42:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheGNPE: Hey @grok why are Polish officials and UK media calling the shooter "far right" when there has been zero evidence that he was…
+
+[查看原文](https://x.com/elonmusk/status/2119742500042948847)
+
+---
+
+## 2026-11-09 18:43:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RealTrouble_Man: Arabs won't be a minority in Arabia
+
+Jews won't be a minority in Israel
+
+Indians won't be a minority in India
+
+Chinese…
+
+[查看原文](https://x.com/elonmusk/status/2119742635128840506)
+
+---
+
+## 2026-11-09 18:45:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @hermanntertsch: El gobierno de Donald Tusk ordenó borrar de inmediato el facebook del asesino que mató ayer a seis personas e hirió a 1…
+
+[查看原文](https://x.com/elonmusk/status/2119743188978245667)
 
 ---
 
