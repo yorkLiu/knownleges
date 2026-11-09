@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4642 条推文
+> 📊 推文存档 - 共 4644 条推文
 
 ---
 
@@ -133,8 +133,6 @@ Dave Chappelle is cruel
 
 Yeah
 
-[查看原文](https://x.com/elonmusk/status/2119628426571338063)
-
 ---
 
 ## 2026-11-09 11:13:03
@@ -145,8 +143,6 @@ Yeah
 
 Chinese 𝕏 is 牛逼
 
-[查看原文](https://x.com/elonmusk/status/2119629310969467053)
-
 ---
 
 ## 2026-11-09 11:15:20
@@ -156,8 +152,6 @@ Chinese 𝕏 is 牛逼
 **内容**:
 
 Excited to be working with @Qualcomm on breakthrough technologies for 5G &amp; beyond
-
-[查看原文](https://x.com/elonmusk/status/2119629886377607546)
 
 ---
 
@@ -171,7 +165,29 @@ RT @adamgolding: Russell Brand’s ex-girlfriend Samantha Pressdee has fiercely 
  She stated the following:
  "…
 
-[查看原文](https://x.com/elonmusk/status/2119631955855606244)
+---
+
+## 2026-11-09 11:42:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Chappelle is just not funny anymore
+
+[查看原文](https://x.com/elonmusk/status/2119636611633721811)
+
+---
+
+## 2026-11-09 11:44:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I care
+
+[查看原文](https://x.com/elonmusk/status/2119637191504581036)
 
 ---
 
