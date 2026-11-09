@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4650 条推文
+> 📊 推文存档 - 共 4651 条推文
 
 ---
 
@@ -253,7 +253,17 @@ The Cybertruck order rate far exceeds our production rate. We will try to make a
 
 This is not a case of Cybertruck being unprofitable, as has been misreported
 
-[查看原文](https://x.com/elonmusk/status/2119691615774146614)
+---
+
+## 2026-11-09 17:18:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @peterrhague: It’s a metaphor I keep coming back to; a nation can have a decisive lead and then simply throw it away for bad, short-term…
+
+[查看原文](https://x.com/elonmusk/status/2119721189413372375)
 
 ---
 
