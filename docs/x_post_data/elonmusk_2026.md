@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4652 条推文
+> 📊 推文存档 - 共 4660 条推文
 
 ---
 
@@ -273,9 +273,109 @@ RT @peterrhague: It’s a metaphor I keep coming back to; a nation can have a de
 
 RT @DefiantLs: @elonmusk The difference. https://t.co/sBPZs0nP2s
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOaWrxl3Lur7iTehAVhoYekPItXQhuAAKiH2sb97aRV3Qd2ySbO2H1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2119726824662122530)
+## 2026-11-09 18:03:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DavidWolfe: If Russell Brand is facing prison for rape allegations dating back 20 years, why isn’t anyone named in the Epstein files go…
+
+[查看原文](https://x.com/elonmusk/status/2119732549010464959)
+
+---
+
+## 2026-11-09 18:04:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NiohBerg: Did you know?
+
+When a British person is murdered or raped by an imported foreigner, there are entire government units set up…
+
+[查看原文](https://x.com/elonmusk/status/2119732823569604963)
+
+---
+
+## 2026-11-09 18:07:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattvanswol: Dear @DaveChappelle,
+
+You're not the "free speech" guy.
+
+You're the guy who laughed when the free speech guy was m*rdered.…
+
+[查看原文](https://x.com/elonmusk/status/2119733594830848493)
+
+---
+
+## 2026-11-09 18:07:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WallStreetMav: The shooter was a gay communist.
+
+[查看原文](https://x.com/elonmusk/status/2119733718856388951)
+
+---
+
+## 2026-11-09 18:09:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pondebekkio: NVIDIAの革ジャンが中華4000年の歴史から繰り出されるハニートラップにやられた今、『家に来ないか？俺のデカいロケットを見てくれよ』と美女を口説いて宅飲みに誘い、ほんとにロケットの写真や資料を見せたイーロン・マスクの凄さがよくわかるね。世界…
+
+[查看原文](https://x.com/elonmusk/status/2119734126282694758)
+
+---
+
+## 2026-11-09 18:10:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheJadeWarwick: https://t.co/MxFM6cvvDQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOamrxnraHzuHAfXoPfWJQAY3YVG9cAAK8H2sb97aRV5aIlMUpTR6HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119734344705249677)
+
+---
+
+## 2026-11-09 18:11:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @toadmeister: A grooming gang survivor raped by at least 50 men was handed back to her abusers by police after saying she was an adult.…
+
+[查看原文](https://x.com/elonmusk/status/2119734624536674678)
+
+---
+
+## 2026-11-09 18:14:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GabeZZOZZ: Turns out the Krakow shooter is a pro-abortion, pro-LGBT leftist extremist who hates Christianity. These people are sick in…
+
+[查看原文](https://x.com/elonmusk/status/2119735254366007616)
 
 ---
 
