@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 705 条推文
+> 📊 推文存档 - 共 707 条推文
 
 ---
 
@@ -52,7 +52,59 @@ tags: ["2026"]
 
 下課👏👏👏
 
-[查看原文](https://x.com/dianzhuXS/status/2119469479222780073)
+---
+
+## 2026-11-09 07:34:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【這一期基本實錘了】
+
+英偉達發新聞稿「實錘」創始人黃仁勳出軌中共女間諜
+
+黃仁勳本人也給全體員工發郵件承認
+
+出軌、對不起妻子、家人、同事，並將配合國家安全相關調查
+https://t.co/iAlP1aBTGw
+
+[查看原文](https://x.com/dianzhuXS/status/2119574352714977611)
+
+---
+
+## 2026-11-09 07:45:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【雪上加霜】
+
+民主黨拿下參眾兩院
+造成股災
+黃仁勳實錘出軌中共燕子
+英偉達的股票📉
+😱😱😱
+
+各位看官請注意
+財富如黃教主
+尚且被中共統戰
+晚節不保
+以牆人髒流量為經濟來源
+各位騎牆磨蛋有奶是娘的大V
+能比老黃強多少？
+
+依我看～
+【統戰一招手，就得跟著走】
+警惕，警惕，警惕
+😮‍💨😮‍💨😮‍💨 https://t.co/tEKDEAHPSW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOXmrxDWkzGi_173xBG8-CJv7Z8_KIAAJaE2sb97aJVwZgAAFT07uD7gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOX2rxDW0XBUIpHNF1m2c_cRHxGBNaAAJbE2sb97aJV-1kNIOmP2_oAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2119577160713404820)
 
 ---
 
