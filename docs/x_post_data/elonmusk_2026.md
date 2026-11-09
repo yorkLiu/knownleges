@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4645 条推文
+> 📊 推文存档 - 共 4649 条推文
 
 ---
 
@@ -195,7 +195,61 @@ I care
 
 RT @XFreeze: Elon Musk explains one of the most terrifying existential threats humanity faces: a massive comet striking Earth and potential…
 
-[查看原文](https://x.com/elonmusk/status/2119682340960039293)
+---
+
+## 2026-11-09 14:49:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JohnStossel: The US Government spent billions building electric vehicle.
+
+They built 400 over five years.
+
+How many did @ElonMusk's @Te…
+
+[查看原文](https://x.com/elonmusk/status/2119683889136349651)
+
+---
+
+## 2026-11-09 14:59:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink connected a remote village in Fiji to the world. 🇫🇯
+
+For the first time, families in Naigani Village on Batiki Island…
+
+[查看原文](https://x.com/elonmusk/status/2119686284360749218)
+
+---
+
+## 2026-11-09 14:59:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Robotaxi available in San Antonio starting tomorrow, 5am https://t.co/4ioqOlFCsL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOZGrxcyHmZHeGI-c06cmieBGvQZ0qAAJCFWsb97aJV_4LnslWNOajAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119686351474078187)
+
+---
+
+## 2026-11-09 15:10:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GuntherEagleman: The UK went after Russell Brand but not migrant rape gangs. Why.
+
+[查看原文](https://x.com/elonmusk/status/2119689039209250947)
 
 ---
 

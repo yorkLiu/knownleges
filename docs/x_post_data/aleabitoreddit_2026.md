@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 570 条推文
+> 📊 推文存档 - 共 571 条推文
 
 ---
 
@@ -25,9 +25,29 @@ Trump, Clinton, Bezos, Gates, and many others have faced scrutiny over their per
 
 It takes courage to own up to it publicly and move forward https://t.co/1DBwuUrtJM
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOYmrxQEheJPPAcc4e8J-kWdyl4E8sAAIEFWsb97aJV3n00S2ThzspAQADAgADeQADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2119633154629881997)
+## 2026-11-09 15:12:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. 
+
+TAIEX: +4.94%, its 2nd largest daily gain in history.
+
+I guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? https://t.co/brvV79PfKl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOZWrxcyV1y6Es_PnPP7gQJcvvX9O1AAJDFWsb97aJV2AlfdafKdUiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOZmrxcyc-i3kVF755RJZEy0nZQG6WAAJEFWsb97aJV-IVh-_hdHVXAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOZ2rxcyofsJkbkPChsejnsVoH1eITAAJFFWsb97aJVzQYLzeWNUPkAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOaGrxcyy3UfqRgQ51-EPRIar1B0OIAAJGFWsb97aJVwvAZW0Sp-kLAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119689635869954503)
 
 ---
 
