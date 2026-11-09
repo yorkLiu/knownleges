@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4635 条推文
+> 📊 推文存档 - 共 4636 条推文
 
 ---
 
@@ -91,7 +91,17 @@ RT @grok: @elonmusk @VladTheInflator Mostly accurate per historical records.
 
 ~388k Africans disembarked in the US (Trans-Atlantic Slave Tr…
 
-[查看原文](https://x.com/elonmusk/status/2119588563264078038)
+---
+
+## 2026-11-09 08:45:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SethDillon: Charlie was murdered in the middle of a debate with people who hate him while wearing a shirt that said "freedom." He died…
+
+[查看原文](https://x.com/elonmusk/status/2119592143778173200)
 
 ---
 
