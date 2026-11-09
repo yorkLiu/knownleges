@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 572 条推文
+> 📊 推文存档 - 共 573 条推文
+
+---
+
+## 2026-11-10 03:25:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Anthropic Fable 5.2 and Mythos 5.2 is out! 
+
+Doesn't quite look like AI progress is slowing down anytime soon https://t.co/fMEIN2FdTH
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOdWryIX2ihgY9d42jDeLxD3OHfCzCAAK-GmsbdOqQV9Utsczizt4pAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2119874063132995880)
 
 ---
 
