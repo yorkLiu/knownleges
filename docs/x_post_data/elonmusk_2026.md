@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4634 条推文
+> 📊 推文存档 - 共 4635 条推文
 
 ---
 
@@ -79,7 +79,19 @@ Interesting
 
 I agree
 
-[查看原文](https://x.com/elonmusk/status/2119578315619254275)
+---
+
+## 2026-11-09 08:31:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @elonmusk @VladTheInflator Mostly accurate per historical records.
+
+~388k Africans disembarked in the US (Trans-Atlantic Slave Tr…
+
+[查看原文](https://x.com/elonmusk/status/2119588563264078038)
 
 ---
 
