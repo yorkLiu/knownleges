@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 713 条推文
+> 📊 推文存档 - 共 714 条推文
 
 ---
 
@@ -101,7 +101,21 @@ tags: ["2026"]
 還是得種公一龍馬
 🤭🤭🤭
 
-[查看原文](https://x.com/dianzhuXS/status/2120046209570382200)
+---
+
+## 2026-11-10 15:20:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+看這座次
+👀👀👀
+這隻也快了吧？ https://t.co/JWsDEQ3XD7
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOeWryyJjzfDmTiYhucX_TtQy-OlJuAAK4FmsbdOqYV08Y5rMe4ReHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2120054003040166204)
 
 ---
 
