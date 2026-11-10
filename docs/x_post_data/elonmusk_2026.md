@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4708 条推文
+> 📊 推文存档 - 共 4709 条推文
 
 ---
 
@@ -32,8 +32,6 @@ What they say: the DSA prevents the spread of "illegal c…
 RT @NURM_Dima: CLAUDIA, Ship 42, Starbase. Do you copy?
 No tower has ever caught a ship coming back from orbit. Starship Flight 15 will try…
 
-[查看原文](https://x.com/elonmusk/status/2120249788431990910)
-
 ---
 
 ## 2026-11-11 04:27:28
@@ -46,7 +44,19 @@ RT @nextbigfuture: SpaceX is making moves to become the first AI carrier $SPCX
 
 • Current cell towers are still mostly “dumb” radios. The…
 
-[查看原文](https://x.com/elonmusk/status/2120252018799563074)
+---
+
+## 2026-11-11 04:34:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Here is SpaceX's new @Starlink Mini 2 with quick-swap battery. You can get up to 4.5 hours of use on a single charge.
+
+T…
+
+[查看原文](https://x.com/elonmusk/status/2120253907435655331)
 
 ---
 
