@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4702 条推文
+> 📊 推文存档 - 共 4705 条推文
 
 ---
 
@@ -252,7 +252,43 @@ RT @beffjezos: Taking the Shinkansen and all I can think about is how do we not 
 
  if only you knew how great…
 
-[查看原文](https://x.com/elonmusk/status/2120090806765932705)
+---
+
+## 2026-11-10 18:28:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk just revealed something huge about Grok's new SI training and inference infrastructure
+
+The engineering behind Starl…
+
+[查看原文](https://x.com/elonmusk/status/2120101380144992635)
+
+---
+
+## 2026-11-10 18:34:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence
+
+[查看原文](https://x.com/elonmusk/status/2120102767624880364)
+
+---
+
+## 2026-11-10 18:34:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk just revealed a massive update on Grok 4.8, and SpaceXSI has completely rebuilt its reinforcement learning and infer…
+
+[查看原文](https://x.com/elonmusk/status/2120102894817173862)
 
 ---
 
