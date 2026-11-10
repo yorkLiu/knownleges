@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4701 条推文
+> 📊 推文存档 - 共 4702 条推文
 
 ---
 
@@ -240,7 +240,19 @@ RT @MegynKellyShow: .@MegynKelly on the absolute double standard in the Russell 
 
 RT @TheCaptainEli: In February 2004 Elon Musk wrote the check that put Tesla Motors on the road: $6.5 million of a $7.5 million Series A, p…
 
-[查看原文](https://x.com/elonmusk/status/2120082348398256182)
+---
+
+## 2026-11-10 17:46:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @beffjezos: Taking the Shinkansen and all I can think about is how do we not have this between SF and LA...
+
+ if only you knew how great…
+
+[查看原文](https://x.com/elonmusk/status/2120090806765932705)
 
 ---
 
