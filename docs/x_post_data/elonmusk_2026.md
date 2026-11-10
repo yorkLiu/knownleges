@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4688 条推文
+> 📊 推文存档 - 共 4689 条推文
 
 ---
 
@@ -87,8 +87,6 @@ REPORTER: Where d…
 
 Gwynne is great
 
-[查看原文](https://x.com/elonmusk/status/2119909709197279420)
-
 ---
 
 ## 2026-11-10 05:57:46
@@ -99,7 +97,19 @@ Gwynne is great
 
 RT @XFreeze: Tesla VP of Vehicle Engineering Lars Moravy just put Tesla's extraordinary manufacturing scale into perspective during his con…
 
-[查看原文](https://x.com/elonmusk/status/2119912356377694591)
+---
+
+## 2026-11-10 10:02:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: Memphis Mayor Paul Young confirming @elonmusk’s statement that Memphis is booming because of the data centers: 
+
+“This yea…
+
+[查看原文](https://x.com/elonmusk/status/2119973828545901028)
 
 ---
 
