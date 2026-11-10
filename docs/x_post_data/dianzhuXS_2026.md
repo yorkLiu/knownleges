@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 715 条推文
+> 📊 推文存档 - 共 717 条推文
 
 ---
 
@@ -124,7 +124,38 @@ tags: ["2026"]
 永不退縮💪💪💪
 牠們算個屁～
 
-[查看原文](https://x.com/dianzhuXS/status/2120094958262817042)
+---
+
+## 2026-11-10 20:13:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+日本地鐵
+實時事故原因
+這麼直白的嗎？
+不用考慮社會影響嗎？
+什麼都讓老百姓知道？
+向領導請示了嗎？
+算給境外勢力遞刀子嗎？
+🤭🤭🤭 https://t.co/n5qewN0HzY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOfGrzEUWKrJfSh3D62RJti1Lu3AlbAAIdF2sbdOqYVx0e_XSsj3otAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2120127693559873932)
+
+---
+
+## 2026-11-10 20:29:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+赤馬紅羊 | 本來的“未來”不是這樣的！究竟是誰改變了「時間線」？（非會員限時觀看） https://t.co/djuGMhuUsH 來自 @YouTube
+
+[查看原文](https://x.com/dianzhuXS/status/2120131843718803511)
 
 ---
 
