@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 719 条推文
+> 📊 推文存档 - 共 720 条推文
 
 ---
 
@@ -60,7 +60,29 @@ tags: ["2026"]
 在羊頭怪的牽引下
 又重新燃起了邪念共振
 
-[查看原文](https://x.com/dianzhuXS/status/2120278522585665666)
+---
+
+## 2026-11-11 06:49:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大盧不是什麼「大師」
+但至少能識別真假
+曾仕強，南懷瑾之流
+跟現在的某些網紅大V
+講玄學鬼故事一樣
+都是忽悠傻逼吃髒流量的
+比如百家講壇
+修行人但凡有丁點自律
+都不會為共匪「唱堂會」
+牠們只不過死得早
+就成「大師」了 https://t.co/WGtvS7K6s1
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOgWrzoo06J40XH9M2YCd0qjhuY20nAAKlEmsbdOqgV-PNaOwJRa-tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2120287673453850625)
 
 ---
 
