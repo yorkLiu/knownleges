@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 234 条推文
+> 📊 推文存档 - 共 235 条推文
 
 ---
 
@@ -31,9 +31,21 @@ tags: ["2026"]
 
 尾盘强势收盘，今天还能涨涨。你亲哥带你上车就会带你下车，给你亲哥把牛逼打在评论里！ https://t.co/cVns5eeDVU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOdmryYuKEWrofhxS_sS2zGcXUAAEf1wACNBZrG3TqmFenO3tjYlcwAgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2119946222475915614)
+## 2026-11-10 13:17:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+很多人担心今晚的CPI，我认为是脱裤子放屁。
+
+记住我说的：，任何利空利好都要放在价格里面去检验，低位利空打不下去，高位利好也推不上去。
+
+你不理解，永远停留在被割的一方。实在不知道也没关心，盯紧了，跟牢了，也是本事。❤️
+
+[查看原文](https://x.com/iiiinvest/status/2120023131263992267)
 
 ---
 
