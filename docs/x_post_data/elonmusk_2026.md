@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4700 条推文
+> 📊 推文存档 - 共 4701 条推文
 
 ---
 
@@ -230,7 +230,17 @@ RT @firesidealpha: JUST IN: Memphis Mayor reveals SpaceX data center taxes more 
 
 RT @MegynKellyShow: .@MegynKelly on the absolute double standard in the Russell Brand sentencing: “If you needed any further proof that thi…
 
-[查看原文](https://x.com/elonmusk/status/2119996001490768028)
+---
+
+## 2026-11-10 17:13:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: In February 2004 Elon Musk wrote the check that put Tesla Motors on the road: $6.5 million of a $7.5 million Series A, p…
+
+[查看原文](https://x.com/elonmusk/status/2120082348398256182)
 
 ---
 
