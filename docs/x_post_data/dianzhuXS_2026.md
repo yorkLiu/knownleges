@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 711 条推文
+> 📊 推文存档 - 共 712 条推文
 
 ---
 
@@ -74,7 +74,24 @@ tags: ["2026"]
 又動了誰的蛋糕？
 🤭🤭🤭
 
-[查看原文](https://x.com/dianzhuXS/status/2120029253416947762)
+---
+
+## 2026-11-10 14:27:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+都撞臉沙大爺了
+你們管這叫有姿色？
+
+都說了悶騷黃
+是被「扣麻筋兒」了
+走心了 https://t.co/k4BxC3XQwP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOeGryuhW_u7nBHtr7vZpBZxQmqWACAAKSFmsbdOqYV0BrKDb3r1-sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2120040651039604916)
 
 ---
 
