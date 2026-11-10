@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4689 条推文
+> 📊 推文存档 - 共 4690 条推文
 
 ---
 
@@ -109,7 +109,19 @@ RT @KatieMiller: Memphis Mayor Paul Young confirming @elonmusk’s statement tha
 
 “This yea…
 
-[查看原文](https://x.com/elonmusk/status/2119973828545901028)
+---
+
+## 2026-11-10 10:51:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Starlink brings high-speed internet to 196 locations in Vietnam where mobile coverage is weak or unavailable 🇻🇳
+
+Vie…
+
+[查看原文](https://x.com/elonmusk/status/2119986275306586386)
 
 ---
 
