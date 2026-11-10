@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4706 条推文
+> 📊 推文存档 - 共 4708 条推文
 
 ---
 
@@ -21,7 +21,32 @@ RT @ADFIntl: 🚨The EU's Digital Services Act threatens freedom of speech GLOBA
 
 What they say: the DSA prevents the spread of "illegal c…
 
-[查看原文](https://x.com/elonmusk/status/2120204749480104133)
+---
+
+## 2026-11-11 04:18:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NURM_Dima: CLAUDIA, Ship 42, Starbase. Do you copy?
+No tower has ever caught a ship coming back from orbit. Starship Flight 15 will try…
+
+[查看原文](https://x.com/elonmusk/status/2120249788431990910)
+
+---
+
+## 2026-11-11 04:27:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nextbigfuture: SpaceX is making moves to become the first AI carrier $SPCX 
+
+• Current cell towers are still mostly “dumb” radios. The…
+
+[查看原文](https://x.com/elonmusk/status/2120252018799563074)
 
 ---
 
