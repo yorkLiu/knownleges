@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 720 条推文
+> 📊 推文存档 - 共 721 条推文
 
 ---
 
@@ -80,9 +80,17 @@ tags: ["2026"]
 牠們只不過死得早
 就成「大師」了 https://t.co/WGtvS7K6s1
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOgWrzoo06J40XH9M2YCd0qjhuY20nAAKlEmsbdOqgV-PNaOwJRa-tAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2120287673453850625)
+## 2026-11-11 07:19:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+業內這些叫「玄學奶頭樂」，本質上喂的都是「心靈雞湯」，迎合大腦的惰性
+
+[查看原文](https://x.com/dianzhuXS/status/2120295296081215784)
 
 ---
 
