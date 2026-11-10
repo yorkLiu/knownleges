@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 573 条推文
+> 📊 推文存档 - 共 574 条推文
 
 ---
 
@@ -21,9 +21,24 @@ Anthropic Fable 5.2 and Mythos 5.2 is out!
 
 Doesn't quite look like AI progress is slowing down anytime soon https://t.co/fMEIN2FdTH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOdWryIX2ihgY9d42jDeLxD3OHfCzCAAK-GmsbdOqQV9Utsczizt4pAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2119874063132995880)
+## 2026-11-10 16:43:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:
+
+70mW: ~$3–4
+100mW: ~$4–6 (Source Photonics channel checks).
+
+With some premiums apparently going up to $7-$9 range with the recent shortage for pluggables. 
+
+120–150mW NPO: ~$15–20
+
+[查看原文](https://x.com/aleabitoreddit/status/2120074819878449605)
 
 ---
 
