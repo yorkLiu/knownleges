@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4699 条推文
+> 📊 推文存档 - 共 4700 条推文
 
 ---
 
@@ -133,8 +133,6 @@ RT @bot: We've reset weekly limits for all Grok Bot users.
 
 Enjoy!
 
-[查看原文](https://x.com/elonmusk/status/2119989015957078096)
-
 ---
 
 ## 2026-11-10 11:02:32
@@ -144,8 +142,6 @@ Enjoy!
 **内容**:
 
 RT @SawyerMerritt: Jay Leno just tried @Tesla's FSD (Supervised) for the first time. The Model Y L pulled over by itself when an ambulance…
-
-[查看原文](https://x.com/elonmusk/status/2119989055392002456)
 
 ---
 
@@ -157,8 +153,6 @@ RT @SawyerMerritt: Jay Leno just tried @Tesla's FSD (Supervised) for the first t
 
 The most entertaining outcome is the most likely, especially if ironic
 
-[查看原文](https://x.com/elonmusk/status/2119989362725396589)
-
 ---
 
 ## 2026-11-10 11:04:24
@@ -168,8 +162,6 @@ The most entertaining outcome is the most likely, especially if ironic
 **内容**:
 
 Grok
-
-[查看原文](https://x.com/elonmusk/status/2119989523748905221)
 
 ---
 
@@ -182,8 +174,6 @@ Grok
 RT @EvaFox: Most people assume SpaceX began because Elon Musk wanted to build rockets, but the original idea was smaller. 
 
 Around 2001 he…
-
-[查看原文](https://x.com/elonmusk/status/2119991750769197295)
 
 ---
 
@@ -198,8 +188,6 @@ No forensic evidence. No DNA. No CCTV.
 
 Same country and sy…
 
-[查看原文](https://x.com/elonmusk/status/2119991792842260619)
-
 ---
 
 ## 2026-11-10 11:13:39
@@ -209,8 +197,6 @@ Same country and sy…
 **内容**:
 
 RT @JTLonsdale: The UK “justice system” is an utter joke. Beyond parody. Total dishonor.
-
-[查看原文](https://x.com/elonmusk/status/2119991850820051347)
 
 ---
 
@@ -224,10 +210,6 @@ RT @ricwe123: The Germans are learning what mass immigration really means.
 
 "Wir schaffen das" https://t.co/pEQc1OMbao
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOd2ryjneJY_wlfSBsbbTTMns-ocIFAAJhFmsbdOqYV_KAKjXD70mGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2119992481156829218)
-
 ---
 
 ## 2026-11-10 11:21:06
@@ -238,7 +220,17 @@ RT @ricwe123: The Germans are learning what mass immigration really means.
 
 RT @firesidealpha: JUST IN: Memphis Mayor reveals SpaceX data center taxes more than doubled to $54 million, after $25 million last year ma…
 
-[查看原文](https://x.com/elonmusk/status/2119993726898774521)
+---
+
+## 2026-11-10 11:30:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MegynKellyShow: .@MegynKelly on the absolute double standard in the Russell Brand sentencing: “If you needed any further proof that thi…
+
+[查看原文](https://x.com/elonmusk/status/2119996001490768028)
 
 ---
 
