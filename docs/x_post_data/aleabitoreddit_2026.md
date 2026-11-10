@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 574 条推文
+> 📊 推文存档 - 共 575 条推文
 
 ---
 
@@ -38,7 +38,29 @@ With some premiums apparently going up to $7-$9 range with the recent shortage f
 
 120–150mW NPO: ~$15–20
 
-[查看原文](https://x.com/aleabitoreddit/status/2120074819878449605)
+---
+
+## 2026-11-10 18:50:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+New commentary today from SoftBank on Elon Musks post 4 days ago: 
+
+“SoftBank is defaulting on their turbine orders”
+
+Analyst Question: “Any comment on that?” 
+
+SoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no such default”
+
+This also mirrors what $GE https://t.co/T47tFpAG0G
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOemry-3RceJFOCHRQqvgAATAaovQE1wACAxdrG3TqmFf4TgTn83Cf8AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOe2ry-3f_6y6qkmRoD3qwn8qiksDJAAIEF2sbdOqYVyIv5dhoFeNRAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120106741090370030)
 
 ---
 
