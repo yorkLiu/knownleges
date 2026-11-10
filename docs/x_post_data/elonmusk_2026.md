@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4690 条推文
+> 📊 推文存档 - 共 4699 条推文
 
 ---
 
@@ -121,7 +121,124 @@ RT @cb_doge: BREAKING: Starlink brings high-speed internet to 196 locations in V
 
 Vie…
 
-[查看原文](https://x.com/elonmusk/status/2119986275306586386)
+---
+
+## 2026-11-10 11:02:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: We've reset weekly limits for all Grok Bot users.
+
+Enjoy!
+
+[查看原文](https://x.com/elonmusk/status/2119989015957078096)
+
+---
+
+## 2026-11-10 11:02:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Jay Leno just tried @Tesla's FSD (Supervised) for the first time. The Model Y L pulled over by itself when an ambulance…
+
+[查看原文](https://x.com/elonmusk/status/2119989055392002456)
+
+---
+
+## 2026-11-10 11:03:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The most entertaining outcome is the most likely, especially if ironic
+
+[查看原文](https://x.com/elonmusk/status/2119989362725396589)
+
+---
+
+## 2026-11-10 11:04:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok
+
+[查看原文](https://x.com/elonmusk/status/2119989523748905221)
+
+---
+
+## 2026-11-10 11:13:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: Most people assume SpaceX began because Elon Musk wanted to build rockets, but the original idea was smaller. 
+
+Around 2001 he…
+
+[查看原文](https://x.com/elonmusk/status/2119991750769197295)
+
+---
+
+## 2026-11-10 11:13:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheJadeWarwick: UK judge gives Russel Brand 10 years 6 months for “rape”. 
+No forensic evidence. No DNA. No CCTV. 
+
+Same country and sy…
+
+[查看原文](https://x.com/elonmusk/status/2119991792842260619)
+
+---
+
+## 2026-11-10 11:13:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JTLonsdale: The UK “justice system” is an utter joke. Beyond parody. Total dishonor.
+
+[查看原文](https://x.com/elonmusk/status/2119991850820051347)
+
+---
+
+## 2026-11-10 11:16:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ricwe123: The Germans are learning what mass immigration really means.
+
+"Wir schaffen das" https://t.co/pEQc1OMbao
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOd2ryjneJY_wlfSBsbbTTMns-ocIFAAJhFmsbdOqYV_KAKjXD70mGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2119992481156829218)
+
+---
+
+## 2026-11-10 11:21:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: JUST IN: Memphis Mayor reveals SpaceX data center taxes more than doubled to $54 million, after $25 million last year ma…
+
+[查看原文](https://x.com/elonmusk/status/2119993726898774521)
 
 ---
 
