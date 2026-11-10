@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 575 条推文
+> 📊 推文存档 - 共 576 条推文
+
+---
+
+## 2026-11-11 00:53:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation
+
+After projecting 70% supply-constrained growth FY2028.
+
+Also probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday… 
+
+Are there still people out there interested at that price? https://t.co/KYrQL2hyc4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOfmrzUqXoLdMNG96h26AkrV8h6bw-AAJ-EmsbdOqgV67Qz-xQ-IGpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOf2rzUqi4VSG_aPVPfT_00n9V9ZkNAAJ_EmsbdOqgVyDplX3Ba8zTAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120198265346081174)
 
 ---
 
