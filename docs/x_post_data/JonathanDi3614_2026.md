@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 84 条推文
+> 📊 推文存档 - 共 85 条推文
+
+---
+
+## 2026-11-11 00:25:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+短线是短线，价投是价投。别把两场游戏混着打。
+猛哥今日仓位不变
+第一，短线不看基本面——除了减持、监管函这种硬雷。短线看什么？市场情绪、资金流向、预期变化。你把财报翻烂，也翻不出明天的涨停。价投看的是三五年后的现金流，短线看的是明早九点半谁在抢筹。两套逻辑，两个世界。 https://t.co/HBBOEDW8yy
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOfWrzS14hucVuA2tuBJ2IWVAsOWYgAAJuEmsbdOqgV6JAmtg0okSiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2120191246958477357)
 
 ---
 
