@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4709 条推文
+> 📊 推文存档 - 共 4710 条推文
 
 ---
 
@@ -56,7 +56,19 @@ RT @SawyerMerritt: Here is SpaceX's new @Starlink Mini 2 with quick-swap battery
 
 T…
 
-[查看原文](https://x.com/elonmusk/status/2120253907435655331)
+---
+
+## 2026-11-11 06:11:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ns123abc: 🚨 BREAKING: The FCC accepts SpaceX's application to acquire nationwide 800 MHz spectrum
+
+Verizon, AT&amp;T and T-Mobile all told…
+
+[查看原文](https://x.com/elonmusk/status/2120278105051042195)
 
 ---
 
