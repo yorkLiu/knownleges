@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 243 条推文
+> 📊 推文存档 - 共 244 条推文
 
 ---
 
@@ -70,9 +70,19 @@ tags: ["2026"]
 
 经过这次半导体底部做多，你肯定更能理解“对了拿住”这话的重量！ https://t.co/Aatomw8u0H
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOjWr0UPD-sBzWHg-Bu4F8CIiqeq-hAAISGmsbdZGhVy8ft5DZ53H9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2120474781317571045)
+## 2026-11-11 20:52:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我之前说过，在我这里，你跟单赚点钱是其次的，最重要的是会刷新你的交易观！
+
+交易这东西，最后拼的是纪律，就拿今天盘前纳指+2%和半导体+16%的涨幅，我肯定是没预料到。但因为有纪律，这几天就拿住了。当然纪律也不是一成不变的，要根据盘面、标的和时机不断优化调整。
+
+[查看原文](https://x.com/iiiinvest/status/2120499964581425635)
 
 ---
 
