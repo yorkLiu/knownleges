@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 721 条推文
+> 📊 推文存档 - 共 723 条推文
 
 ---
 
@@ -90,7 +90,44 @@ tags: ["2026"]
 
 業內這些叫「玄學奶頭樂」，本質上喂的都是「心靈雞湯」，迎合大腦的惰性
 
-[查看原文](https://x.com/dianzhuXS/status/2120295296081215784)
+---
+
+## 2026-11-11 08:10:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+我懷疑他知道自己毛的顏色
+自從換了棕色沙發罩以後
+基本每天就是「葛優躺」了
+癱在沙發上了🤪🤪🤪 https://t.co/Zg4MzTrAad
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOgmrzuFvjWKv-V5ubxuf8ic4jauakAAKzEmsbdOqgVwyd_oHhYKzmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2120308233130934752)
+
+---
+
+## 2026-11-11 08:29:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+尊重女性是沒錯
+但不代表
+要尊重中共女性間諜
+
+這跟性別沒關係
+比如賀錦麗被中共鴨子拿下了
+那大家唾棄抨擊鴨子
+算是不尊重男性？
+
+男女對立快成了「口袋罪」了
+🤪🤪🤪
+
+[查看原文](https://x.com/dianzhuXS/status/2120312827915518219)
 
 ---
 
