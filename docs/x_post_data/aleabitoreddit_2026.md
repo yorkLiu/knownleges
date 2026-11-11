@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 585 条推文
+> 📊 推文存档 - 共 586 条推文
 
 ---
 
@@ -61,9 +61,21 @@ The cluster of news coming out about Jensen feel extremely bizarre. https://t.co
 
 I don’t know what’s happening anymore https://t.co/jSvZUfz7o6
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOmWr0-AoJkEvMhvzN6oKqHjn5Rsh4AAJLFmsbdZGpVxRjsxInvf_zAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120650676762181843)
+## 2026-11-12 07:20:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.
+
+The same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.
+
+The AI trade won’t end off this but for Nvidia’s best interest, he should remain CEO.
+
+[查看原文](https://x.com/aleabitoreddit/status/2120658071274013137)
 
 ---
 
