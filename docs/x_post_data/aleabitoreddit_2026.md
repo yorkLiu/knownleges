@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 583 条推文
+> 📊 推文存档 - 共 584 条推文
 
 ---
 
@@ -39,9 +39,21 @@ Yes, I still like and will defend $AAOI despite the "shitco" claims from the lev
 
 This https://t.co/D6d4Qc0eGk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOl2r0ve2r0dLWgzd1PStqcdugzubjAALpFGsbdZGpV40p9u1f7PVSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120594656262287463)
+## 2026-11-12 06:41:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Holy crap, why does $NVDA nonstop TMZ scandals keep getting “leaked” left and right.
+
+The cluster of news coming out about Jensen feel extremely bizarre. https://t.co/ezi7NRN14U
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOmGr08MVWVB-GD54OeWL9RNvx7OozAAJBFmsbdZGpVx-NO3o0sCUMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120648172192378945)
 
 ---
 
