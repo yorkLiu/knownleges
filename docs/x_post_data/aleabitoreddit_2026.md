@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 584 条推文
+> 📊 推文存档 - 共 585 条推文
 
 ---
 
@@ -51,9 +51,19 @@ Holy crap, why does $NVDA nonstop TMZ scandals keep getting “leaked” left an
 
 The cluster of news coming out about Jensen feel extremely bizarre. https://t.co/ezi7NRN14U
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOmGr08MVWVB-GD54OeWL9RNvx7OozAAJBFmsbdZGpVx-NO3o0sCUMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120648172192378945)
+## 2026-11-12 06:51:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I don’t know what’s happening anymore https://t.co/jSvZUfz7o6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOmWr0-AoJkEvMhvzN6oKqHjn5Rsh4AAJLFmsbdZGpVxRjsxInvf_zAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120650676762181843)
 
 ---
 
