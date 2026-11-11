@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 471 条推文
+> 📊 推文存档 - 共 472 条推文
 
 ---
 
@@ -35,9 +35,19 @@ a股这个中韩得拉个10%才能回本。 https://t.co/4LWEOjZR8O
 失去的慢慢再赚，
 不下牌桌终会有机会。 https://t.co/yw8yK6xhrR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOhmrz-b2wiq_jCGei2vtWaiSJHXLHAAJ_FWsbdZGhVx4WFvw5T9rVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2120379454031839571)
+## 2026-11-11 17:38:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+棒子政府13号准备讨论下场救股市 https://t.co/Gsar6Gn1L0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOjGr0OyPusq0yRc8syG54SXsjzl8nAAIuGWsbdZGhV_17Hlci5it1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2120450970371187053)
 
 ---
 
