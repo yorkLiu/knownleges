@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 723 条推文
+> 📊 推文存档 - 共 724 条推文
 
 ---
 
@@ -103,10 +103,6 @@ tags: ["2026"]
 基本每天就是「葛優躺」了
 癱在沙發上了🤪🤪🤪 https://t.co/Zg4MzTrAad
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOgmrzuFvjWKv-V5ubxuf8ic4jauakAAKzEmsbdOqgVwyd_oHhYKzmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2120308233130934752)
-
 ---
 
 ## 2026-11-11 08:29:06
@@ -127,7 +123,34 @@ tags: ["2026"]
 男女對立快成了「口袋罪」了
 🤪🤪🤪
 
-[查看原文](https://x.com/dianzhuXS/status/2120312827915518219)
+---
+
+## 2026-11-11 10:38:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+分享一下養狗心得
+確切的說應該是
+養「阿拉撕家」心得
+為什麼有些主人總結
+這貨小時後叫「阿拉」
+長大了叫「撕家」呢
+
+因為寶寶沒有擁有感
+簡單說「你的家」
+不是他的「家」
+連沙發都不讓他上
+而您卻天天坐在上面
+他就不認為這是他的「家」
+
+另一個原因
+就是孤獨
+閒得難受怎麼辦？
+作禍唄
+
+[查看原文](https://x.com/dianzhuXS/status/2120345363232219556)
 
 ---
 
