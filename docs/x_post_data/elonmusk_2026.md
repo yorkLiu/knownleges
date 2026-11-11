@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4710 条推文
+> 📊 推文存档 - 共 4711 条推文
 
 ---
 
@@ -68,7 +68,19 @@ RT @ns123abc: 🚨 BREAKING: The FCC accepts SpaceX's application to acquire nat
 
 Verizon, AT&amp;T and T-Mobile all told…
 
-[查看原文](https://x.com/elonmusk/status/2120278105051042195)
+---
+
+## 2026-11-11 07:47:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. 
+
+This is for Starmind to create a sentient sun.
+
+[查看原文](https://x.com/elonmusk/status/2120302471210033426)
 
 ---
 
