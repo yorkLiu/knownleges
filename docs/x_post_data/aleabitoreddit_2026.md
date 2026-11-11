@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 576 条推文
+> 📊 推文存档 - 共 577 条推文
 
 ---
 
@@ -25,11 +25,25 @@ Also probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday�
 
 Are there still people out there interested at that price? https://t.co/KYrQL2hyc4
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOfmrzUqXoLdMNG96h26AkrV8h6bw-AAJ-EmsbdOqgV67Qz-xQ-IGpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOf2rzUqi4VSG_aPVPfT_00n9V9ZkNAAJ_EmsbdOqgVyDplX3Ba8zTAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-11 13:42:15
 
-[查看原文](https://x.com/aleabitoreddit/status/2120198265346081174)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$CRWV ER and read through for $NBIS and other Neoclouds:
+
+“We have 10x as much qualified demand as available capacity”.
+
+- interest in 2028 capacity already amounts to several times what CoreWeave has available
+
+-  CoreWeave raised prices by 25% in July, +10% later in Q3, and https://t.co/za7Nc4ZNLP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOh2r0AQLSfpwg9XWMPzFHCWXF97NVAALgFWsbdZGhV92EIB_zHW2HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120391635737649423)
 
 ---
 
