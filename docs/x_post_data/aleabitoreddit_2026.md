@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 577 条推文
+> 📊 推文存档 - 共 578 条推文
 
 ---
 
@@ -41,9 +41,25 @@ $CRWV ER and read through for $NBIS and other Neoclouds:
 
 -  CoreWeave raised prices by 25% in July, +10% later in Q3, and https://t.co/za7Nc4ZNLP
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOh2r0AQLSfpwg9XWMPzFHCWXF97NVAALgFWsbdZGhV92EIB_zHW2HAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120391635737649423)
+## 2026-11-11 20:08:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+You heard 10x demand for compute &gt; supply from $CRWV today. 
+
+Hearing from $TSM today on Nikkei Forum: 
+
+"The demand on our leading node [most advanced] silicon is insatiable"
+
+Customers "want to get [their] hands around any compute capability they can have. It's truly an https://t.co/mzRs8jqqM3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOjmr0X3WBRZUWlwPVMRh4Bjb01gUSAAJzG2sbdZGhV2sKiQ4RZDgfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120488757334044945)
 
 ---
 
