@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4719 条推文
+> 📊 推文存档 - 共 4721 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027
 
-[查看原文](https://x.com/elonmusk/status/2120565056429814073)
-
 ---
 
 ## 2026-11-12 01:11:51
@@ -30,8 +28,6 @@ In order to work through more of the Cybertruck order backlog, production will b
 **内容**:
 
 Tesla self-driving now approved in Finland
-
-[查看原文](https://x.com/elonmusk/status/2120565179276832797)
 
 ---
 
@@ -43,7 +39,31 @@ Tesla self-driving now approved in Finland
 
 This is not the smartest move from a profit-maximizing standpoint btw, but there must be some room in this world for sentimentality or what’s the point?
 
-[查看原文](https://x.com/elonmusk/status/2120570459335131606)
+---
+
+## 2026-11-12 02:22:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Bernie is the meme https://t.co/F5TcWiKSaE
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOlGr0tqMTEp39fIzC-w1up5_kqkFkAALdFGsbdZGpV0dwK4VjUyjuAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2120582866413514912)
+
+---
+
+## 2026-11-12 02:28:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hire Grok @Bot as a colleague and give it your hardest tasks!
+
+[查看原文](https://x.com/elonmusk/status/2120584535423565889)
 
 ---
 
