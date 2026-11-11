@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 578 条推文
+> 📊 推文存档 - 共 579 条推文
 
 ---
 
@@ -57,9 +57,21 @@ Hearing from $TSM today on Nikkei Forum:
 
 Customers "want to get [their] hands around any compute capability they can have. It's truly an https://t.co/mzRs8jqqM3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOjmr0X3WBRZUWlwPVMRh4Bjb01gUSAAJzG2sbdZGhV2sKiQ4RZDgfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120488757334044945)
+## 2026-11-11 22:25:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+There's a lot of news about WT (3036) introducing their first CW DFB laser line card. 
+
+More significant than people think for medium-long term. For economic impact and what revenue looks like: 
+
+- $SMTC generated 74% of its revenue through distributors. $AMBA as another example,
+
+[查看原文](https://x.com/aleabitoreddit/status/2120523420639408175)
 
 ---
 
