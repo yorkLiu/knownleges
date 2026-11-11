@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 580 条推文
+> 📊 推文存档 - 共 581 条推文
 
 ---
 
@@ -85,9 +85,23 @@ After trying to raise $57.8–64.4B… pushing total Anthropic IPO funding close
 
 I guess the pool of capital is infinity in America if you can cure cancer with AI in 5–10 years? https://t.co/p62qwYGTMk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOj2r0g9HzY4usFiG6SEFyDJrfxEjRAAJyHWsbdZGhV7Tqbm7lFFWYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120526218076504318)
+## 2026-11-11 23:05:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Let's fking go $ANT
+
+This is how you sell the future of AI... by entering an "Age of Miracles," not human extinction.
+
+I still think Anthropic is overvalued, but even I'm getting hyped by this IPO teaser. https://t.co/ebNkiRoogo
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOkWr0iw00umDlM4cCoNxyTNKiqgpYAALsHWsbdZGhV-MgCf0BSHF2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120533451279642808)
 
 ---
 
