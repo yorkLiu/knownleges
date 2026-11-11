@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 581 条推文
+> 📊 推文存档 - 共 582 条推文
+
+---
+
+## 2026-11-12 01:52:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This aged pretty well, when I said this last year in 2025, Clickhouse was a $6.7B company... 
+
+Now as an update, their secondary valuation sits around ~$50B, which $NBIS owns 25%+ of. 
+
+I've always liked Nebius the most because sum of parts, with all their lesser known https://t.co/wLfaFZORYq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOk2r0r2ByQi00LuWcIgFuzHhAVNyuAALNFGsbdZGpV3wfNEEnZSkZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120575364238094682)
 
 ---
 
