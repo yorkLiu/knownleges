@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 242 条推文
+> 📊 推文存档 - 共 243 条推文
 
 ---
 
@@ -60,7 +60,19 @@ tags: ["2026"]
 常庆功，才成功！不要压抑自己，嗨起来~ ！~ ！
 😎~🤑~🥳~😜~🤡~🥰~😝~🤠~😀~❤️
 
-[查看原文](https://x.com/iiiinvest/status/2120447970957197575)
+---
+
+## 2026-11-11 19:12:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+经过这次半导体底部做多，你肯定更能理解“对了拿住”这话的重量！ https://t.co/Aatomw8u0H
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOjWr0UPD-sBzWHg-Bu4F8CIiqeq-hAAISGmsbdZGhVy8ft5DZ53H9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2120474781317571045)
 
 ---
 
