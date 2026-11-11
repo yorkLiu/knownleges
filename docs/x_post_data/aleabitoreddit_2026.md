@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 582 条推文
+> 📊 推文存档 - 共 583 条推文
 
 ---
 
@@ -23,9 +23,25 @@ Now as an update, their secondary valuation sits around ~$50B, which $NBIS owns 
 
 I've always liked Nebius the most because sum of parts, with all their lesser known https://t.co/wLfaFZORYq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOk2r0r2ByQi00LuWcIgFuzHhAVNyuAALNFGsbdZGpV3wfNEEnZSkZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120575364238094682)
+## 2026-11-12 03:08:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes, I still like and will defend $AAOI despite the "shitco" claims from the level 1 NPCs on X: 
+
+- AOI recently signed a $1B to $1.5B 3Y contract with a hyperscalers
+
+- Majority of people missed this part, but there's another $5-$7B contract expected to be signed in weeks.
+
+This https://t.co/D6d4Qc0eGk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOl2r0ve2r0dLWgzd1PStqcdugzubjAALpFGsbdZGpV40p9u1f7PVSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120594656262287463)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4721 条推文
+> 📊 推文存档 - 共 4724 条推文
 
 ---
 
@@ -49,10 +49,6 @@ This is not the smartest move from a profit-maximizing standpoint btw, but there
 
 Bernie is the meme https://t.co/F5TcWiKSaE
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOlGr0tqMTEp39fIzC-w1up5_kqkFkAALdFGsbdZGpV0dwK4VjUyjuAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2120582866413514912)
-
 ---
 
 ## 2026-11-12 02:28:46
@@ -63,7 +59,45 @@ Bernie is the meme https://t.co/F5TcWiKSaE
 
 Hire Grok @Bot as a colleague and give it your hardest tasks!
 
-[查看原文](https://x.com/elonmusk/status/2120584535423565889)
+---
+
+## 2026-11-12 02:49:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla Megapacks are designed to ensure grid stability, so that you never have a blackout
+
+[查看原文](https://x.com/elonmusk/status/2120589832963711162)
+
+---
+
+## 2026-11-12 02:52:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship Super Heavy rocket booster moved to launch pad
+
+[查看原文](https://x.com/elonmusk/status/2120590521253126183)
+
+---
+
+## 2026-11-12 02:58:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Person for scale https://t.co/6XGX98l38L
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOlWr0veesJl3A5ky7S-KB1GKINroYAALnFGsbdZGpV2MckN_khKEMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOlmr0vepxLDIvth0UcoPkD6Cr2nxqAALoFGsbdZGpV1HlKMzo9JM9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2120591950961353125)
 
 ---
 
