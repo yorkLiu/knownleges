@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4711 条推文
+> 📊 推文存档 - 共 4715 条推文
 
 ---
 
@@ -80,7 +80,63 @@ SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulu
 
 This is for Starmind to create a sentient sun.
 
-[查看原文](https://x.com/elonmusk/status/2120302471210033426)
+---
+
+## 2026-11-11 16:25:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Portable, lightning-fast Internet that works anywhere on Earth where Starlink is legal!
+
+[查看原文](https://x.com/elonmusk/status/2120432718639145404)
+
+---
+
+## 2026-11-11 16:38:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @boringcompany: 29 days from completion of tunneling in Bastrop to initiation of tunneling in San Antonio. https://t.co/HnQnKdxcHX
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOiWr0LJ0XZNBmaLZmZKlRqxjfTp8ZAAK8GGsbdZGhV5auFgj2W9MzAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOimr0LKDbSEDlRNhFKa9_eZ4CnRf5AAK9GGsbdZGhVzHShgP-G873AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOi2r0LKS_5tkshH9lMwM2sLDTH9a0AAK-GGsbdZGhV1wefAuBeUnKAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2120435998056476771)
+
+---
+
+## 2026-11-11 16:46:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: Taps the sign https://t.co/0Zc5fOFXNQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOiGr0LJqbWd-xsfVgyFefBXtxxUmkAAK7GGsbdZGhVzk7-L3gKzmBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2120437887703601309)
+
+---
+
+## 2026-11-11 16:51:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Dogetothemoon: Elon Musk has a track record of calling hard problems early.
+
+In a February 2026 interview, he warned: “Those who have l…
+
+[查看原文](https://x.com/elonmusk/status/2120439243478806562)
 
 ---
 
