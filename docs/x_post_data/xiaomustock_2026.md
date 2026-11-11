@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 470 条推文
+> 📊 推文存档 - 共 471 条推文
 
 ---
 
@@ -20,11 +20,24 @@ tags: ["2026"]
 闪迪按照一个季度赚100亿美金，市值最低1000亿市值，市盈率只剩下2.5了。
 a股这个中韩得拉个10%才能回本。 https://t.co/4LWEOjZR8O
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOhGrz8ngyFeIRrwT4LJfhM0dnFxdiAAMTaxt06qBXg0Bz6a2JlPgBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOhWrz8nx5NDVuwB5aIBo5milroM1XAAIBE2sbdOqgVzyKvZ_6QyK5AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-11 12:53:51
 
-[查看原文](https://x.com/xiaomustock/status/2120376507084546173)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+做交易赚到钱才有信心和底气，
+最近心气差点崩了，
+再亏下去得自我怀疑了他娘的。
+跑海边旅游逃避了一下，心里不是那么难受了，海风吹拂，心情能变得辽阔释然，
+失去的慢慢再赚，
+不下牌桌终会有机会。 https://t.co/yw8yK6xhrR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOhmrz-b2wiq_jCGei2vtWaiSJHXLHAAJ_FWsbdZGhVx4WFvw5T9rVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2120379454031839571)
 
 ---
 
