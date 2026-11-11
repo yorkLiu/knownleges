@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4724 条推文
+> 📊 推文存档 - 共 4725 条推文
 
 ---
 
@@ -69,8 +69,6 @@ Hire Grok @Bot as a colleague and give it your hardest tasks!
 
 Tesla Megapacks are designed to ensure grid stability, so that you never have a blackout
 
-[查看原文](https://x.com/elonmusk/status/2120589832963711162)
-
 ---
 
 ## 2026-11-12 02:52:33
@@ -80,8 +78,6 @@ Tesla Megapacks are designed to ensure grid stability, so that you never have a 
 **内容**:
 
 Starship Super Heavy rocket booster moved to launch pad
-
-[查看原文](https://x.com/elonmusk/status/2120590521253126183)
 
 ---
 
@@ -93,11 +89,19 @@ Starship Super Heavy rocket booster moved to launch pad
 
 Person for scale https://t.co/6XGX98l38L
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOlWr0veesJl3A5ky7S-KB1GKINroYAALnFGsbdZGpV2MckN_khKEMAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOlmr0vepxLDIvth0UcoPkD6Cr2nxqAALoFGsbdZGpV1HlKMzo9JM9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-12 04:23:15
 
-[查看原文](https://x.com/elonmusk/status/2120591950961353125)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @TheFlintFace @IterIntellectus 100GW in space is roughly equal to 800GW on Earth. 
+
+Moreover, solar on Earth must be paired w…
+
+[查看原文](https://x.com/elonmusk/status/2120613346596761630)
 
 ---
 
