@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 472 条推文
+> 📊 推文存档 - 共 473 条推文
 
 ---
 
@@ -45,9 +45,17 @@ a股这个中韩得拉个10%才能回本。 https://t.co/4LWEOjZR8O
 
 棒子政府13号准备讨论下场救股市 https://t.co/Gsar6Gn1L0
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOjGr0OyPusq0yRc8syG54SXsjzl8nAAIuGWsbdZGhV_17Hlci5it1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2120450970371187053)
+## 2026-11-11 23:02:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+闪迪今天牛炸了，它100%回购，只要价格稳俩年，一个季度100亿，俩年就是800亿美金，2028货都提前卖完了，这次800刀基本上是极限价格。
+
+[查看原文](https://x.com/xiaomustock/status/2120532662851162322)
 
 ---
 

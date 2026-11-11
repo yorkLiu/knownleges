@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 244 条推文
+> 📊 推文存档 - 共 245 条推文
 
 ---
 
@@ -82,7 +82,19 @@ tags: ["2026"]
 
 交易这东西，最后拼的是纪律，就拿今天盘前纳指+2%和半导体+16%的涨幅，我肯定是没预料到。但因为有纪律，这几天就拿住了。当然纪律也不是一成不变的，要根据盘面、标的和时机不断优化调整。
 
-[查看原文](https://x.com/iiiinvest/status/2120499964581425635)
+---
+
+## 2026-11-11 22:47:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+半导体多单全部止盈了！这次反弹总共赚了55万美金，知足。 https://t.co/aqYed6ZAA9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOkGr0g9cLQj00d70hjEgGLdeCSUrCAAJzHWsbdZGhV8wKUreU54ewAQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2120528950787260418)
 
 ---
 

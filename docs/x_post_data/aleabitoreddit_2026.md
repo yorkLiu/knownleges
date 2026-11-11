@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 579 条推文
+> 📊 推文存档 - 共 580 条推文
 
 ---
 
@@ -71,7 +71,23 @@ More significant than people think for medium-long term. For economic impact and
 
 - $SMTC generated 74% of its revenue through distributors. $AMBA as another example,
 
-[查看原文](https://x.com/aleabitoreddit/status/2120523420639408175)
+---
+
+## 2026-11-11 22:37:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$ANT IPO at $1.4T valuation is now multiple times oversubscribed. 
+
+After trying to raise $57.8–64.4B… pushing total Anthropic IPO funding closer to $100B.
+
+I guess the pool of capital is infinity in America if you can cure cancer with AI in 5–10 years? https://t.co/p62qwYGTMk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOj2r0g9HzY4usFiG6SEFyDJrfxEjRAAJyHWsbdZGhV7Tqbm7lFFWYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120526218076504318)
 
 ---
 
