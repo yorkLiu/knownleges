@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4726 条推文
+> 📊 推文存档 - 共 4728 条推文
 
 ---
 
@@ -111,7 +111,35 @@ Moreover, solar on Earth must be paired w…
 
 RT @KatieMiller: Thanks to @elonmusk &amp; @SpaceX, the City of Memphis finished its Fiscal Year ahead of budget for the first time in a long t…
 
-[查看原文](https://x.com/elonmusk/status/2120638269994263035)
+---
+
+## 2026-11-12 09:46:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Grok Bot can now join your personal or company tailnets on Tailscale.
+
+Use it to securely reach private MCP servers, internal tool…
+
+[查看原文](https://x.com/elonmusk/status/2120694603506733324)
+
+---
+
+## 2026-11-12 09:53:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @spacexai: Introducing Grok Bot 1.0.
+
+Bots can be shared and are more collaborative and capable than ever. https://t.co/gmxan7jupQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOmmr1HGCe8yPyP_w1cEglqPRwVXorAAK-FmsbdZGpV3rFiHTAqBMsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2120696407917273571)
 
 ---
 
