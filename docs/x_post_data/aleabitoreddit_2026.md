@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 592 条推文
+> 📊 推文存档 - 共 593 条推文
 
 ---
 
@@ -25,11 +25,23 @@ Without Jensen’s visionary leadership that previously set them ahead of $AMD t
 
 It’s don’t find Nvidia compelling in the long horizon https://t.co/YRkS8wCCgT
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOqWr2BN4nAxR2ub_b299ljYzBhWrCAALqFWsbLquxV_ANo6PAdZeLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOqmr2BOCVA9hI2LoJQqPZIDdIva4xAALrFWsbLquxV8S392gDKK1UAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-13 02:40:17
 
-[查看原文](https://x.com/aleabitoreddit/status/2120943109505008055)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out as well.
+
+Following $NVDA CEO controversy and his handling of China export controls (Reuters).
+
+Hard to believe Washington didn’t have a role to play on Jensen Huang’s https://t.co/Z91x4xO9ws
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOq2r2DCKkayzfe7gRnIMe-WPH8CulAALuFWsbLquxV8Y6nDaCYwaDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120949820684972421)
 
 ---
 
