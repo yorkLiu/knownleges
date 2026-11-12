@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4733 条推文
+> 📊 推文存档 - 共 4734 条推文
 
 ---
 
@@ -167,8 +167,6 @@ Some new things we're e…
 
 RT @SpaceX: Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans…
 
-[查看原文](https://x.com/elonmusk/status/2120737200799465946)
-
 ---
 
 ## 2026-11-12 12:36:22
@@ -178,8 +176,6 @@ RT @SpaceX: Thank you to all those who have served, including the veterans we're
 **内容**:
 
 RT @SpaceX: All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of…
-
-[查看原文](https://x.com/elonmusk/status/2120737443267670220)
 
 ---
 
@@ -192,7 +188,17 @@ RT @SpaceX: All systems are looking good, and weather is favorable for liftoff. 
 RT @teslaownersSV: Barbara Corcoran on Elon Musk:
 "Any great leader has a strong opinion and isn't so smooth on the edges and drives it hom…
 
-[查看原文](https://x.com/elonmusk/status/2120742206529257928)
+---
+
+## 2026-11-12 13:12:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Robotaxi works 168 hours a week
+
+[查看原文](https://x.com/elonmusk/status/2120746428720988408)
 
 ---
 
