@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 590 条推文
+> 📊 推文存档 - 共 591 条推文
 
 ---
 
@@ -134,11 +134,23 @@ Net Income: −$190.4M -&gt; −$37.5M
 
 ARR has reached $6.4B https://t.co/pxz6XmIU3s
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOomr1vDZPjLY6u8B76j3l7dsMUkBIAAL8FmsbdZGxVyZDai97gF-NAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOo2r1vDoAAYuDk6vWBcpiBgABfs7U7moAAv0Waxt1kbFXg_RGTtWOzI4BAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-12 21:56:21
 
-[查看原文](https://x.com/aleabitoreddit/status/2120866647930187882)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$NVDA Jensen Huang has now resigned.
+
+Despite the overwhelming support worldwide and from his employees. 
+
+This is an end of an era for Nvidia. https://t.co/GwtmTgkHBa
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOpGr1yr64EKxeeaX1hwABI8SbO3XA0gACGxhrG3WRsVdRlQzgpcMhDgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120878368975618315)
 
 ---
 
