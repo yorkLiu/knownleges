@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 586 条推文
+> 📊 推文存档 - 共 587 条推文
 
 ---
 
@@ -75,7 +75,21 @@ The same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.
 
 The AI trade won’t end off this but for Nvidia’s best interest, he should remain CEO.
 
-[查看原文](https://x.com/aleabitoreddit/status/2120658071274013137)
+---
+
+## 2026-11-12 16:15:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+"Chinese AI firms rush to secure $NVDA chip capacity as spy scandal stirs fear of US curbs"
+
+Wow, Jensen really took one for the team just to generate more GPU and Neocloud demand https://t.co/Y1rDNXx6Vi
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOoGr1etMdK-Ylpfoa-JPOaXjxDjiWAAITG2sbdZGpV3A1Dc5C0-v_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120792625477468583)
 
 ---
 

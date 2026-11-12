@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4741 条推文
+> 📊 推文存档 - 共 4742 条推文
 
 ---
 
@@ -232,8 +232,6 @@ https://t.co/NjkQuOVZag…
 
 Chill vibes
 
-[查看原文](https://x.com/elonmusk/status/2120760435813306525)
-
 ---
 
 ## 2026-11-12 14:07:47
@@ -243,10 +241,6 @@ Chill vibes
 **内容**:
 
 RT @robotaxi: Lofi beats to self-drive to https://t.co/eyaXxUY7Jr
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOnmr1XcMU39bPzwsrS7TZGR4zUrG6AAK3GGsbdZGpV3o1Et1uu5JGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2120760449906209222)
 
 ---
 
@@ -258,8 +252,6 @@ RT @robotaxi: Lofi beats to self-drive to https://t.co/eyaXxUY7Jr
 
 11 years ago
 
-[查看原文](https://x.com/elonmusk/status/2120761225529168312)
-
 ---
 
 ## 2026-11-12 14:15:32
@@ -269,10 +261,6 @@ RT @robotaxi: Lofi beats to self-drive to https://t.co/eyaXxUY7Jr
 **内容**:
 
 RT @laobaishare: 火箭回收成功瞬间，马斯克的反应。 https://t.co/LMRBuKEDDd
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOnWr1XcBCaV1ANeHSuM5S1HEQNAwKAAK2GGsbdZGpVxseOlh4keHLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2120762397443215678)
 
 ---
 
@@ -284,7 +272,21 @@ RT @laobaishare: 火箭回收成功瞬间，马斯克的反应。 https://t.co/L
 
 RT @mntruell: Bot 1.0 is out!
 
-[查看原文](https://x.com/elonmusk/status/2120765326233137566)
+---
+
+## 2026-11-12 16:28:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Scobleizer: A lot of nerds are in Austin for a big robotics/AI event.
+
+With every ride @elonmusk gets free advertising.
+
+People say Elo…
+
+[查看原文](https://x.com/elonmusk/status/2120795813123129831)
 
 ---
 
