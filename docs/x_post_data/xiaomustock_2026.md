@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 474 条推文
+> 📊 推文存档 - 共 475 条推文
 
 ---
 
@@ -20,9 +20,21 @@ tags: ["2026"]
 赚钱真能带来自信心提升，撸回来了一部分血。全跑了我打算猥琐一手等anthropic融资上市了。
 以后不开杠杆股了，改换多一倍仓位的正股，他娘的这样就没磨损了吧，soxl和snxx这波跌得太几把吓人，有心理阴影了。 https://t.co/gpE4c0jjoz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOkmr0mZPSu2vlAAERhMTEbqyHJ-XkIAACFxRrG3WRqVeZrE3ofnOP0QEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2120551425386406054)
+## 2026-11-12 10:33:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+老黄再爆出来一个出轨对象就是为了掩人耳目表现出不是刻意跟华女接触的，
+而是广撒网。
+都是为了逃脱间谍案，毕竟间谍案和私德败坏性质完全不一样。 https://t.co/kl3JWMizXR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOm2r1KuVdJ_UxQ3M65qvnJ0cEMuKkAAIlF2sbdZGpVwTVJbZNj6wLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2120706453107511687)
 
 ---
 
