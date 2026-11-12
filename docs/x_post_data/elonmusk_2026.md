@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4729 条推文
+> 📊 推文存档 - 共 4730 条推文
 
 ---
 
@@ -145,7 +145,19 @@ Bots can be shared and are more collaborative and capable than ever. https://t.c
 
 RT @MegynKellyShow: Russell Brand's longtime friend and one-time fling @SammiePressdee speaks out to @MegynKelly about the TRUTH: "I said n…
 
-[查看原文](https://x.com/elonmusk/status/2120724711474692497)
+---
+
+## 2026-11-12 12:27:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @romanugarte_: Bot 1.0 is out. Our goal for this release was to make Bots a much more useful part of your team.
+
+Some new things we're e…
+
+[查看原文](https://x.com/elonmusk/status/2120735309424128325)
 
 ---
 
