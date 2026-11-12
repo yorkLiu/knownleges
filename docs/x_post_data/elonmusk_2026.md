@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4734 条推文
+> 📊 推文存档 - 共 4736 条推文
 
 ---
 
@@ -198,7 +198,33 @@ RT @teslaownersSV: Barbara Corcoran on Elon Musk:
 
 Robotaxi works 168 hours a week
 
-[查看原文](https://x.com/elonmusk/status/2120746428720988408)
+---
+
+## 2026-11-12 13:59:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2120758305047904548)
+
+---
+
+## 2026-11-12 13:59:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gregisenberg: grok bot is the BEST AI agent orchestrator right now
+
+and THIS is the best setup i’ve EVER seen
+
+https://t.co/NjkQuOVZag…
+
+[查看原文](https://x.com/elonmusk/status/2120758321619542032)
 
 ---
 
