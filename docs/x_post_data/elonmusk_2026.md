@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4728 条推文
+> 📊 推文存档 - 共 4729 条推文
 
 ---
 
@@ -123,8 +123,6 @@ RT @bot: Grok Bot can now join your personal or company tailnets on Tailscale.
 
 Use it to securely reach private MCP servers, internal tool…
 
-[查看原文](https://x.com/elonmusk/status/2120694603506733324)
-
 ---
 
 ## 2026-11-12 09:53:18
@@ -137,9 +135,17 @@ RT @spacexai: Introducing Grok Bot 1.0.
 
 Bots can be shared and are more collaborative and capable than ever. https://t.co/gmxan7jupQ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOmmr1HGCe8yPyP_w1cEglqPRwVXorAAK-FmsbdZGpV3rFiHTAqBMsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2120696407917273571)
+## 2026-11-12 11:45:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MegynKellyShow: Russell Brand's longtime friend and one-time fling @SammiePressdee speaks out to @MegynKelly about the TRUTH: "I said n…
+
+[查看原文](https://x.com/elonmusk/status/2120724711474692497)
 
 ---
 
