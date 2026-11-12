@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 475 条推文
+> 📊 推文存档 - 共 477 条推文
 
 ---
 
@@ -32,9 +32,37 @@ tags: ["2026"]
 而是广撒网。
 都是为了逃脱间谍案，毕竟间谍案和私德败坏性质完全不一样。 https://t.co/kl3JWMizXR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOm2r1KuVdJ_UxQ3M65qvnJ0cEMuKkAAIlF2sbdZGpVwTVJbZNj6wLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2120706453107511687)
+## 2026-11-12 10:59:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+去年关税战英伟达股价最低86刀，英伟达每年几乎100%业绩增速，历经一年多，相对于那时候业绩利润翻倍还多，股价86*2，
+172按理就是理性的价格最低点，现在160刀都是非理性，被黄仁勋的裤裆吓破了胆，
+接下来顶多老黄被董事会轰走，
+他总不能再发道歉信搞特朗普老婆吧。 https://t.co/IMqjDIcI1h
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOnGr1MimpdmxCLdYDpya8MlDjB3V2AAIwF2sbdZGpV99QHYXH5bR4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2120713060226900471)
+
+---
+
+## 2026-11-12 11:11:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+唯一的大问题就是没有老黄的英伟达还是不是英伟达，
+就像没有乔布斯的苹果没任何创新，
+而老黄的英伟达极度需要持续创新。
+半导体公司不是可口可乐和茅台这种消费品公司，不能持续创新真会被干死。
+
+[查看原文](https://x.com/xiaomustock/status/2120715999888785904)
 
 ---
 
