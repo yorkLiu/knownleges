@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 588 条推文
+> 📊 推文存档 - 共 589 条推文
 
 ---
 
@@ -103,7 +103,19 @@ The foresight to bet on CUDA before AI took off, build the Neocloud ecosystem...
 
 The move to secure
 
-[查看原文](https://x.com/aleabitoreddit/status/2120798356205093139)
+---
+
+## 2026-11-12 18:14:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Okay, let’s gauge individual investor and public sentiment independently.
+
+Should Jensen Huang remain CEO of $NVDA?
+
+[查看原文](https://x.com/aleabitoreddit/status/2120822653997261079)
 
 ---
 
