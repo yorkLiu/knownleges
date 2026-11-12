@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 593 条推文
+> 📊 推文存档 - 共 594 条推文
 
 ---
 
@@ -39,9 +39,21 @@ Following $NVDA CEO controversy and his handling of China export controls (Reute
 
 Hard to believe Washington didn’t have a role to play on Jensen Huang’s https://t.co/Z91x4xO9ws
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOq2r2DCKkayzfe7gRnIMe-WPH8CulAALuFWsbLquxV8Y6nDaCYwaDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120949820684972421)
+## 2026-11-13 03:36:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Former $NVDA CEO had a relationship with a second employee per Reuters. 
+
+What is this timeline https://t.co/aMTgHsPz6V
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOrGr2Gqn2WkrowLMRjTdi1rTl_nBjAAL6FWsbLquxV32-Fl7Aup57AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120964006328566047)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 743 条推文
+> 📊 推文存档 - 共 744 条推文
 
 ---
 
@@ -18,8 +18,6 @@ tags: ["2026"]
 **内容**:
 
 話說黃仁勳如果離婚的話，手裡的股權是不是還要分正妻一半？
-
-[查看原文](https://x.com/dianzhuXS/status/2120910681977524469)
 
 ---
 
@@ -33,7 +31,18 @@ tags: ["2026"]
 
 「黃樂」是必死了
 
-[查看原文](https://x.com/dianzhuXS/status/2120912879801217100)
+---
+
+## 2026-11-13 03:48:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @njnnnyhdt: @dianzhuXS 真是应了点烛先生这一集👍
+https://t.co/ZDR0txD1Dz
+
+[查看原文](https://x.com/dianzhuXS/status/2120967067948241168)
 
 ---
 
