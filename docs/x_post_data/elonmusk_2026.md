@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4730 条推文
+> 📊 推文存档 - 共 4733 条推文
 
 ---
 
@@ -157,7 +157,42 @@ RT @romanugarte_: Bot 1.0 is out. Our goal for this release was to make Bots a m
 
 Some new things we're e…
 
-[查看原文](https://x.com/elonmusk/status/2120735309424128325)
+---
+
+## 2026-11-12 12:35:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Thank you to all those who have served, including the veterans we're proud to call members of the SpaceX family. Happy Veterans…
+
+[查看原文](https://x.com/elonmusk/status/2120737200799465946)
+
+---
+
+## 2026-11-12 12:36:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of…
+
+[查看原文](https://x.com/elonmusk/status/2120737443267670220)
+
+---
+
+## 2026-11-12 12:55:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Barbara Corcoran on Elon Musk:
+"Any great leader has a strong opinion and isn't so smooth on the edges and drives it hom…
+
+[查看原文](https://x.com/elonmusk/status/2120742206529257928)
 
 ---
 
