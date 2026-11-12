@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 589 条推文
+> 📊 推文存档 - 共 590 条推文
 
 ---
 
@@ -115,7 +115,30 @@ Okay, let’s gauge individual investor and public sentiment independently.
 
 Should Jensen Huang remain CEO of $NVDA?
 
-[查看原文](https://x.com/aleabitoreddit/status/2120822653997261079)
+---
+
+## 2026-11-12 21:09:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Regarding $NBIS earnings results:
+
+To show you how fast they're growing... from Q2 to Q3: 
+
+Revenue: $582.3M -&gt; $980.8M (+68% QoQ)
+Adjusted EBITDA: $236.2M -&gt; $465.8M (+97% QoQ)
+AI cloud adj. EBITDA margin: 49.7% -&gt; 53.2%
+Net Income: −$190.4M -&gt; −$37.5M
+
+ARR has reached $6.4B https://t.co/pxz6XmIU3s
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOomr1vDZPjLY6u8B76j3l7dsMUkBIAAL8FmsbdZGxVyZDai97gF-NAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOo2r1vDoAAYuDk6vWBcpiBgABfs7U7moAAv0Waxt1kbFXg_RGTtWOzI4BAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2120866647930187882)
 
 ---
 
