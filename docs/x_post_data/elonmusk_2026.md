@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4742 条推文
+> 📊 推文存档 - 共 4743 条推文
 
 ---
 
@@ -286,7 +286,19 @@ With every ride @elonmusk gets free advertising.
 
 People say Elo…
 
-[查看原文](https://x.com/elonmusk/status/2120795813123129831)
+---
+
+## 2026-11-12 16:40:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NarutoNolimits: Why Elon Musk believes we could colonize the entire galaxy in a million years
+
+To Elon Musk, it's not even a hard quest…
+
+[查看原文](https://x.com/elonmusk/status/2120798842451058773)
 
 ---
 

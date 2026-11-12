@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 587 条推文
+> 📊 推文存档 - 共 588 条推文
 
 ---
 
@@ -87,9 +87,23 @@ The AI trade won’t end off this but for Nvidia’s best interest, he should re
 
 Wow, Jensen really took one for the team just to generate more GPU and Neocloud demand https://t.co/Y1rDNXx6Vi
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOoGr1etMdK-Ylpfoa-JPOaXjxDjiWAAITG2sbdZGpV3A1Dc5C0-v_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120792625477468583)
+## 2026-11-12 16:38:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I disagree, Jensen Huang is practically irreplaceable from $NVDA.
+
+And it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. 
+
+The foresight to bet on CUDA before AI took off, build the Neocloud ecosystem... 
+
+The move to secure
+
+[查看原文](https://x.com/aleabitoreddit/status/2120798356205093139)
 
 ---
 
