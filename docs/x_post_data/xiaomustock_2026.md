@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 477 条推文
+> 📊 推文存档 - 共 479 条推文
 
 ---
 
@@ -45,10 +45,6 @@ tags: ["2026"]
 接下来顶多老黄被董事会轰走，
 他总不能再发道歉信搞特朗普老婆吧。 https://t.co/IMqjDIcI1h
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOnGr1MimpdmxCLdYDpya8MlDjB3V2AAIwF2sbdZGpV99QHYXH5bR4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2120713060226900471)
-
 ---
 
 ## 2026-11-12 11:11:10
@@ -62,7 +58,33 @@ tags: ["2026"]
 而老黄的英伟达极度需要持续创新。
 半导体公司不是可口可乐和茅台这种消费品公司，不能持续创新真会被干死。
 
-[查看原文](https://x.com/xiaomustock/status/2120715999888785904)
+---
+
+## 2026-11-12 22:41:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这走的太干脆了，裸辞啊，这么大个公司，ceo不当就算了，董事也不当了。这是自己的公司彻底不要了啊卧槽这么狠。 https://t.co/62HusFXdwa
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOpmr10gRkG8ZZRQRmcRTbEqN49butAAIQGWsbdZGxV8IuXaLqmo_sAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2120889801704611877)
+
+---
+
+## 2026-11-12 22:42:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+利空出尽梭哈sndk，nvda https://t.co/Ecbr7UyEZJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOpWr10gGv2XglI-knS594PjaQBqrpAAIPGWsbdZGxV6h_Y4XBazq0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2120889899306168626)
 
 ---
 
