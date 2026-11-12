@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 738 条推文
+> 📊 推文存档 - 共 739 条推文
 
 ---
 
@@ -58,7 +58,21 @@ https://t.co/QjFqfpDMQx
 
 所以人類公敵習近平「欲動」
 
-[查看原文](https://x.com/dianzhuXS/status/2120801351563436332)
+---
+
+## 2026-11-12 20:31:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+謝謝小夥伴們的信息
+這款有貨且已買到
+明天寄過來 https://t.co/D1RYcNzunt
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOoWr1tPytxJOr_pGFxiaPOW1IJT9SAAL5FmsbdZGxV7nb6wLza_MLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2120856917157499384)
 
 ---
 
