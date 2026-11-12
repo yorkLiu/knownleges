@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4746 条推文
+> 📊 推文存档 - 共 4747 条推文
 
 ---
 
@@ -43,7 +43,17 @@ RT @SpaceX: Development of the Starbase supercompute site is creating an opportu
 
 Portion…
 
-[查看原文](https://x.com/elonmusk/status/2120984149666545741)
+---
+
+## 2026-11-13 06:51:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TimSweeneyEpic: A sad day for NVIDIA, developers, America, and all humanity. Jensen founded and ran one of the few companies to reach a…
+
+[查看原文](https://x.com/elonmusk/status/2121012954548326450)
 
 ---
 
