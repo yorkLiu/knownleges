@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 594 条推文
+> 📊 推文存档 - 共 595 条推文
 
 ---
 
@@ -51,9 +51,19 @@ Former $NVDA CEO had a relationship with a second employee per Reuters.
 
 What is this timeline https://t.co/aMTgHsPz6V
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOrGr2Gqn2WkrowLMRjTdi1rTl_nBjAAL6FWsbLquxV32-Fl7Aup57AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2120964006328566047)
+## 2026-11-13 05:33:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I’m sorry but why are we letting the future of $NVDA and American semiconductors 
+
+Be decided by board members with experience from Taco Bell and the NFL
+
+[查看原文](https://x.com/aleabitoreddit/status/2120993521289326858)
 
 ---
 
