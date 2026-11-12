@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4736 条推文
+> 📊 推文存档 - 共 4741 条推文
 
 ---
 
@@ -208,8 +208,6 @@ Robotaxi works 168 hours a week
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2120758305047904548)
-
 ---
 
 ## 2026-11-12 13:59:20
@@ -224,7 +222,69 @@ and THIS is the best setup i’ve EVER seen
 
 https://t.co/NjkQuOVZag…
 
-[查看原文](https://x.com/elonmusk/status/2120758321619542032)
+---
+
+## 2026-11-12 14:07:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Chill vibes
+
+[查看原文](https://x.com/elonmusk/status/2120760435813306525)
+
+---
+
+## 2026-11-12 14:07:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Lofi beats to self-drive to https://t.co/eyaXxUY7Jr
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOnmr1XcMU39bPzwsrS7TZGR4zUrG6AAK3GGsbdZGpV3o1Et1uu5JGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2120760449906209222)
+
+---
+
+## 2026-11-12 14:10:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+11 years ago
+
+[查看原文](https://x.com/elonmusk/status/2120761225529168312)
+
+---
+
+## 2026-11-12 14:15:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @laobaishare: 火箭回收成功瞬间，马斯克的反应。 https://t.co/LMRBuKEDDd
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOnWr1XcBCaV1ANeHSuM5S1HEQNAwKAAK2GGsbdZGpVxseOlh4keHLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2120762397443215678)
+
+---
+
+## 2026-11-12 14:27:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mntruell: Bot 1.0 is out!
+
+[查看原文](https://x.com/elonmusk/status/2120765326233137566)
 
 ---
 
