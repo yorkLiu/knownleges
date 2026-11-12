@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 740 条推文
+> 📊 推文存档 - 共 741 条推文
 
 ---
 
@@ -83,7 +83,19 @@ https://t.co/QjFqfpDMQx
 一切都是拜「精緻利己」所賜
 😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2120872532689702950)
+---
+
+## 2026-11-12 23:36:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+黃金坑已成 https://t.co/ce7eXeFzyv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOp2r14IvId7klwhlPXBB2tExsYK4JAAIpGWsbdZGxV3il0vlrIG8PAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2120903678081290604)
 
 ---
 
