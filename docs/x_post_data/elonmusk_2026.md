@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4745 条推文
+> 📊 推文存档 - 共 4746 条推文
 
 ---
 
@@ -31,7 +31,19 @@ RT @SawyerMerritt: These are the community benefits if @SpaceX builds their plan
 
 • 6,500 job…
 
-[查看原文](https://x.com/elonmusk/status/2120923092872790445)
+---
+
+## 2026-11-13 04:56:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Development of the Starbase supercompute site is creating an opportunity to address decades of environmental neglect. 
+
+Portion…
+
+[查看原文](https://x.com/elonmusk/status/2120984149666545741)
 
 ---
 
