@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 479 条推文
+> 📊 推文存档 - 共 480 条推文
+
+---
+
+## 2026-11-13 00:58:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+大陆缺什么呢，
+唯一缺英伟达的算力芯片，其他的都能大差不差自己搞了。
+美国自己把英伟达搞死图啥，全球所有科技公司都想要的东西自己不可能亲手毁了吧。都是做做样子走走形式，达到该有的目的继续梭哈干ai，英伟达肯定啥事没有。 https://t.co/MGaWA7CAqq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOqGr19lPNaAOk1NW9dmA9YvwtdgdEAALeFWsbLquxV-RqBTdJM8-rAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2120924300333154787)
 
 ---
 

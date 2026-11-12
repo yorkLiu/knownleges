@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4744 条推文
+> 📊 推文存档 - 共 4745 条推文
 
 ---
 
@@ -19,7 +19,19 @@ tags: ["2026"]
 
 SpaceX community benefits
 
-[查看原文](https://x.com/elonmusk/status/2120912138772369758)
+---
+
+## 2026-11-13 00:54:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: These are the community benefits if @SpaceX builds their planned $50 billion Arizona Supercomputing Campus:
+
+• 6,500 job…
+
+[查看原文](https://x.com/elonmusk/status/2120923092872790445)
 
 ---
 
