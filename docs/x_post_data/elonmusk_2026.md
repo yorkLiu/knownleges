@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4763 条推文
+> 📊 推文存档 - 共 4768 条推文
 
 ---
 
@@ -231,7 +231,71 @@ RT @SpaceX: From the Rio Grande Valley, TX to Cochise County, AZ, we’re buildi
 
 Grok is a straight shooter
 
-[查看原文](https://x.com/elonmusk/status/2121242367684661286)
+---
+
+## 2026-11-13 22:05:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TRobinsonNewEra: White farmer gives first account of terrifying South Africa raid: "They put my testicles in bolt cutters, sliced my wi…
+
+[查看原文](https://x.com/elonmusk/status/2121243017084588373)
+
+---
+
+## 2026-11-13 22:08:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: SPACEX FLIGHT 15
+
+TOMORROW https://t.co/14PTPIoCYp
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO5mr3IF8AAXjjIZT-LkjLNXEwsmp6JAACYRZrGy6ruVesg27gIF6tNQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121243784822309103)
+
+---
+
+## 2026-11-13 22:09:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SarahisCensored: The REAL story finally came out. And THIS is exactly why I waited before jumping on the outrage bandwagon.
+
+Not only h…
+
+[查看原文](https://x.com/elonmusk/status/2121244058379321642)
+
+---
+
+## 2026-11-13 22:33:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship 42 preparing for launch
+
+[查看原文](https://x.com/elonmusk/status/2121250205806772283)
+
+---
+
+## 2026-11-13 22:35:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mntruell: Bot can now spot and act on any texts you may have forgotten.
+
+[查看原文](https://x.com/elonmusk/status/2121250645613429076)
 
 ---
 
