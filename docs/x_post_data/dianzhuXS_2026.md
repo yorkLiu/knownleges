@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 748 条推文
+> 📊 推文存档 - 共 749 条推文
 
 ---
 
@@ -128,15 +128,35 @@ BTW你們的習皇
 縫縫補補又三年
 請叫我「小皮匠」 https://t.co/4obhRWr1DB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOsGr2lhwCMYTg2MMEVhXiWv7D1_DTAAJ9FmsbLquxV_1I6DzAxIOJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOsWr2liAhST79kSFxKmWQjWJCUaYZAAJ-FmsbLquxVyf-rb7kcCYzAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-13 17:01:00
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOsmr2liNcWgGjTgdYTuCNbjy9vBkqAAJ_FmsbLquxVyNYEVrFbFxUAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOs2r2liZN_eRvF3epoBGeeSM7WZtfAAKAFmsbLquxV3cuuwmNKOq-AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/dianzhuXS/status/2121099024124228088)
+【胡錫進下場嘍】
+
+黨奴老狗親自官宣定調了
+歌迷們還怎麼給羅大佑洗？
+
+當今世界就是兩大陣營
+一正一邪一善一惡
+中間地帶其實更危險
+
+首鼠兩端騎牆磨蛋的必遭反噬
+說到底就是「精緻利己」
+不忌口左右通吃好壞通吃
+結果裡外不是人
+
+「精緻利己」是介於
+壞逼和傻逼之間的物種
+你說牠們算壞逼吧 https://t.co/oP1lsaGwLN
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO32r217cj05Bt4NjJ1DPmflDdYmiLAALYFWsbLqu5V46eET1E5Y5sAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2121166429491712101)
 
 ---
 

@@ -17,10 +17,10 @@ title: 推文数据
 || [@elonmusk](./elonmusk_2026.md) | 4761 | ✅ | 1410 | [查看](./elonmusk_2026.md) |
 || [@karpathy](./karpathy_2026.md) | 50 |   | 18 | [查看](./karpathy_2026.md) |
 || [@aleabitoreddit](./aleabitoreddit_2026.md) | 596 | ✅ | 546 | [查看](./aleabitoreddit_2026.md) |
-|| [@dianzhuXS](./dianzhuXS_2026.md) | 748 | ✅ | 277 | [查看](./dianzhuXS_2026.md) |
+|| [@dianzhuXS](./dianzhuXS_2026.md) | 749 | ✅ | 274 | [查看](./dianzhuXS_2026.md) |
 || [@Mimiwftt](./Mimiwftt_2026.md) | 483 |   | 161 | [查看](./Mimiwftt_2026.md) |
 || [@akohika1233](./akohika1233_2026.md) | 57 |   | 26 | [查看](./akohika1233_2026.md) |
-|| [@iiiinvest](./iiiinvest_2026.md) | 255 | ✅ | 20 | [查看](./iiiinvest_2026.md) |
+|| [@iiiinvest](./iiiinvest_2026.md) | 256 | ✅ | 22 | [查看](./iiiinvest_2026.md) |
 ---
 
 ## 📅 [日期归档](./tags/index.md)

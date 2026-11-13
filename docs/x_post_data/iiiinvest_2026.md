@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 255 条推文
+> 📊 推文存档 - 共 256 条推文
 
 ---
 
@@ -53,7 +53,25 @@ tags: ["2026"]
 
 石油，油价下来了啊，对油价下来了，但股价不涨！吓不吓人？
 
-[查看原文](https://x.com/iiiinvest/status/2121122829282525582)
+---
+
+## 2026-11-13 17:26:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+币安实盘，盈利排名又进入前3了！
+
+这个账户年初40万美金，到现在盈利400万美金，收益率800%，前两名收益率都没我高，所以鱼哥是小牛拉单杠，杠牛啦！
+
+给你亲哥说句牛逼，谢谢！❤️ https://t.co/a9YejFXGTv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO4Gr217ptKWsEQ9PNatukoq0YGozoAALZFWsbLqu5V-SZVI80I3eKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO4Wr217yyGb4HuMlIiB4iAfcDe-UjAALaFWsbLqu5V2ulgcXPNvb9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2121172719681294532)
 
 ---
 
