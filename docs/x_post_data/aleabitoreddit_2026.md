@@ -7,7 +7,24 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 600 条推文
+> 📊 推文存档 - 共 601 条推文
+
+---
+
+## 2026-11-14 01:53:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Be Jensen:
+
+&gt; Asian American Dishwasher at Dennys
+&gt; Founded $NVDA and pioneered GPU computing
+&gt; Took an extraordinary gamble in CUDA, despite the company close to bankruptcy risk. 
+&gt; Bet paid off heavily, and Nvidia was there as the infrastructure for deep learning and generative
+
+[查看原文](https://x.com/aleabitoreddit/status/2121300436011590104)
 
 ---
 
