@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 483 条推文
+> 📊 推文存档 - 共 484 条推文
 
 ---
 
@@ -56,7 +56,21 @@ tags: ["2026"]
 币里面好上杠杆，一百万能干出三百万的效果，股票就是慢慢坐牢了，
 降低预期慢慢撸。
 
-[查看原文](https://x.com/xiaomustock/status/2121080966580170903)
+---
+
+## 2026-11-13 11:50:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+btc这走势很明显，
+中本聪肯定出轨了，
+说不定小三也是间谍 https://t.co/rIo91pwuUN
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOr2r2jtP4AAHs5iUZS4fAAS3Qve6sTgACahZrGy6rsVe4jXw4C81RdAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2121088314849804507)
 
 ---
 
