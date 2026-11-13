@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 482 条推文
+> 📊 推文存档 - 共 483 条推文
 
 ---
 
@@ -43,9 +43,20 @@ tags: ["2026"]
 最近财运回来了，否极泰来。
 祝大家财运亨通。 https://t.co/7eK9NQsJAb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOrmr2gEqsQKlv4QZhfcOCDfd6NHEFAAJRFmsbLquxVyq6avj15Je6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2121078667791274311)
+## 2026-11-13 11:21:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+股票亏的难赚回来，估计没个一俩年没机会赚回来。
+币里面亏光了，前几天找朋友花花入金了1m，
+币里面好上杠杆，一百万能干出三百万的效果，股票就是慢慢坐牢了，
+降低预期慢慢撸。
+
+[查看原文](https://x.com/xiaomustock/status/2121080966580170903)
 
 ---
 
