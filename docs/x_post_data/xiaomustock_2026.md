@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 484 条推文
+> 📊 推文存档 - 共 485 条推文
 
 ---
 
@@ -68,9 +68,18 @@ btc这走势很明显，
 中本聪肯定出轨了，
 说不定小三也是间谍 https://t.co/rIo91pwuUN
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOr2r2jtP4AAHs5iUZS4fAAS3Qve6sTgACahZrGy6rsVe4jXw4C81RdAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2121088314849804507)
+## 2026-11-13 12:15:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+实际上中本聪就是黄仁勋，黄仁勋就是中本聪。俩个人都是干的事情都需要海量的电力，比特币和nvda都涨了万倍。
+所以中本聪的小三是间谍属于实锤。
+
+[查看原文](https://x.com/xiaomustock/status/2121094637649895817)
 
 ---
 

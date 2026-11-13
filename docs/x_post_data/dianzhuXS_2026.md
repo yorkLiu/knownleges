@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 747 条推文
+> 📊 推文存档 - 共 748 条推文
 
 ---
 
@@ -116,7 +116,27 @@ BTW你們的習皇
 遠離牆人
 遠離牆人
 
-[查看原文](https://x.com/dianzhuXS/status/2121087922212639154)
+---
+
+## 2026-11-13 12:33:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+新三年舊三年
+縫縫補補又三年
+請叫我「小皮匠」 https://t.co/4obhRWr1DB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOsGr2lhwCMYTg2MMEVhXiWv7D1_DTAAJ9FmsbLquxV_1I6DzAxIOJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOsWr2liAhST79kSFxKmWQjWJCUaYZAAJ-FmsbLquxVyf-rb7kcCYzAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOsmr2liNcWgGjTgdYTuCNbjy9vBkqAAJ_FmsbLquxVyNYEVrFbFxUAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOs2r2liZN_eRvF3epoBGeeSM7WZtfAAKAFmsbLquxV3cuuwmNKOq-AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2121099024124228088)
 
 ---
 
