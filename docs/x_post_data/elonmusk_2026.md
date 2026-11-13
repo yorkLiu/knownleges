@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4769 条推文
+> 📊 推文存档 - 共 4770 条推文
 
 ---
 
@@ -295,7 +295,53 @@ RT @mntruell: Bot can now spot and act on any texts you may have forgotten.
 
 Hmm
 
-[查看原文](https://x.com/elonmusk/status/2121250804447445203)
+---
+
+## 2026-11-13 23:18:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @justinbieber: https://t.co/EuQgsK5QZW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO52r3Lud-7_9ka1q-b8_AT9w2WD7jAAJqFmsbLqu5V1Gl8aYcc9onAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO6Gr3LuoOfTPm0fGmaVLVkRntjDhpAAJrFmsbLqu5V4xqoWoUecgEAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO6Wr3Luztn9qvvYAAAb-N71iXQktHNQACbBZrGy6ruVcCQZ73aJwpbwEAAwIAA3gAAz0E.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO6mr3Lu-6NTg3YswvUqXfQIWLavJtAAJtFmsbLqu5V_gyW0SVVVWvAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO62r3LvLKmgKIyQRURNMXLzxz2LLOAAJuFmsbLqu5V5vuNDr3q-NgAQADAgADeQADPQQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO7Gr3LvX-zEhdxzW0Nk5iU8LiEUmgAAJvFmsbLqu5V48FIt2MZbiAAQADAgADeQADPQQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO7Wr3LvhxpB3fpGKUgTqrMnv-38HoAAJwFmsbLqu5V7zh7HyAvQh5AQADAgADeAADPQQ.jpg" alt="图片 7" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO7mr3LvtCmDMDP4otJPfJyAIBkXORAAJxFmsbLqu5Vy_5Bi1MPPnRAQADAgADeQADPQQ.jpg" alt="图片 8" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO72r3Lv2EFL-s7uPuhsYq1P1_bHZpAAJyFmsbLqu5V136hc1Qf29PAQADAgADeQADPQQ.jpg" alt="图片 9" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO8Gr3LwABGnVMcJ12xI1syprR9b0SXgACcxZrGy6ruVevknuhqAv2wwEAAwIAA3kAAz0E.jpg" alt="图片 10" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO8Wr3LwP2pkVzzBHraccLq0jwZkxRAAJ0FmsbLqu5V41wWfJBEDwZAQADAgADeQADPQQ.jpg" alt="图片 11" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO8mr3LwUqLm-PM2luG2W4Oa7gla_-AAJ1FmsbLqu5Vx5F8sfjS7hQAQADAgADeQADPQQ.jpg" alt="图片 12" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO82r3LwiCX4m3yHr_aBMb1cxgI1YvAAJ2FmsbLqu5V2VGcXkmfyyXAQADAgADeQADPQQ.jpg" alt="图片 13" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO9Gr3LwrhCNELIRWmRcKkv3OKe3fOAAJ3FmsbLqu5VzVqImHsPYA0AQADAgADeQADPQQ.jpg" alt="图片 14" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO9Wr3LwxNEUxMIH0lvAt9L0grej0wAAJ4FmsbLqu5V8OK1Nj81E_MAQADAgADeQADPQQ.jpg" alt="图片 15" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO9mr3Lw5sQMUUkY7QgHUcET_rrWH_AAJ5FmsbLqu5V2V7ZjrqeD80AQADAgADeQADPQQ.jpg" alt="图片 16" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO92r3LxC1YTaCyZjEc-ig4UVufMlYAAJ6FmsbLqu5V0OnuykYPUaaAQADAgADeQADPQQ.jpg" alt="图片 17" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO-Gr3LxJpK06LDB3WYDuPcZusjwI5AAJ7FmsbLqu5V94NikZ23h1QAQADAgADeQADPQQ.jpg" alt="图片 18" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121261314580574291)
 
 ---
 

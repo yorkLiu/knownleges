@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 599 条推文
+> 📊 推文存档 - 共 600 条推文
 
 ---
 
@@ -128,13 +128,27 @@ Samsung Electronics is in talks to buy $MOD Modine.
 
 Which supplies thermal/cooling https://t.co/oIqL8K4F59
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO42r3CpMRR6hSBUqPLC_nKqBg0UPdAAI2FmsbLqu5VxpHKqadYKVeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO5Gr3CpY5AicvJswZ6hUlSA9jYnFDAAI3FmsbLqu5VxqNvqnn-324AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-13 23:36:01
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO5Wr3Cpk5EH74U66kAaN4-VpBLdThAAI4FmsbLqu5V2CzZ_Ov80A_AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://x.com/aleabitoreddit/status/2121221289440665737)
+**内容**:
+
+My personal opinion is that Kress leadership is negative for $NVDA centric ecosystems and its financing.
+
+Companies like $COHR that supply everyone, with long term visibility are more isolated.
+
+As for some of the commentary:
+
+Kress reportedly “challenged some of Huang’s proposed https://t.co/rC9oZkQ02g
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO-Wr3LxaETf05xQrLtI1DJQlsxKh6AAJ8FmsbLqu5V_NcTmrRUl7zAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO-mr3Lxh78RrThRMreC_ymcmFLn0eAAJ9FmsbLqu5VwLVpgXcu0DmAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2121265837000782035)
 
 ---
 
