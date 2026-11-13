@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 595 条推文
+> 📊 推文存档 - 共 596 条推文
 
 ---
 
@@ -63,7 +63,27 @@ I’m sorry but why are we letting the future of $NVDA and American semiconducto
 
 Be decided by board members with experience from Taco Bell and the NFL
 
-[查看原文](https://x.com/aleabitoreddit/status/2120993521289326858)
+---
+
+## 2026-11-13 15:49:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The people have spoken.
+
+In the largest large-scale poll of 22,965 respondents:
+
+19,750 supported @JensenHuang remaining CEO of $NVDA, compared with just 1,840 opposing him.
+
+Among respondents expressing a position Jensen received a:
+
+- 91.5% support vs. 8.5% opposition ratio https://t.co/cwY1XGd4OH
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO3mr2wetEqtmKgJrSehRdv5cv29RZAAL8FmsbLquxV7ErfwXHwTXYAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2121148384555995136)
 
 ---
 
