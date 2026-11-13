@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4762 条推文
+> 📊 推文存档 - 共 4763 条推文
 
 ---
 
@@ -221,7 +221,17 @@ Everyone miss…
 
 RT @SpaceX: From the Rio Grande Valley, TX to Cochise County, AZ, we’re building more than supercomputers. We’re creating jobs, investing i…
 
-[查看原文](https://x.com/elonmusk/status/2121174767562551693)
+---
+
+## 2026-11-13 22:02:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is a straight shooter
+
+[查看原文](https://x.com/elonmusk/status/2121242367684661286)
 
 ---
 
