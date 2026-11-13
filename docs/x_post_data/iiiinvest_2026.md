@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 256 条推文
+> 📊 推文存档 - 共 257 条推文
 
 ---
 
@@ -67,11 +67,19 @@ tags: ["2026"]
 
 给你亲哥说句牛逼，谢谢！❤️ https://t.co/a9YejFXGTv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO4Gr217ptKWsEQ9PNatukoq0YGozoAALZFWsbLqu5V-SZVI80I3eKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO4Wr217yyGb4HuMlIiB4iAfcDe-UjAALaFWsbLqu5V2ulgcXPNvb9AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-13 20:20:16
 
-[查看原文](https://x.com/iiiinvest/status/2121172719681294532)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+比特币今天跌的有点多，时间线上一片FUD之声。其实我也没想到，这波比特币从6万涨到8.7万又回到6.8万，基本把信仰减半周期的都套了。
+
+错吗，那就是个标的，大家都是来赚钱的，你如果想赚一波就跑，那确实亏了。但如果你看的是28年减半这波，现在可能就是个回调而已。
+
+[查看原文](https://x.com/iiiinvest/status/2121216576355721478)
 
 ---
 
