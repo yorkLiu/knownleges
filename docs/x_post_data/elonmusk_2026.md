@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4779 条推文
+> 📊 推文存档 - 共 4781 条推文
 
 ---
 
@@ -31,8 +31,6 @@ In Suco Aubeon, residents and community…
 
 RT @SpaceX: Boca Chica Beach is not for sale, and SpaceX isn’t attempting to buy it. The beach is an important part of the Rio Grande Valle…
 
-[查看原文](https://x.com/elonmusk/status/2121316459469222250)
-
 ---
 
 ## 2026-11-14 02:57:47
@@ -42,8 +40,6 @@ RT @SpaceX: Boca Chica Beach is not for sale, and SpaceX isn’t attempting to b
 **内容**:
 
 About 4 hours to Flight 15
-
-[查看原文](https://x.com/elonmusk/status/2121316611974185273)
 
 ---
 
@@ -57,8 +53,6 @@ RT @cb_doge: BREAKING: Zambia’s government has begun deploying 751 @Starlink k
 
 • 90 ki…
 
-[查看原文](https://x.com/elonmusk/status/2121316908930634081)
-
 ---
 
 ## 2026-11-14 03:00:38
@@ -68,8 +62,6 @@ RT @cb_doge: BREAKING: Zambia’s government has begun deploying 751 @Starlink k
 **内容**:
 
 Made on Earth by humans
-
-[查看原文](https://x.com/elonmusk/status/2121317331179614676)
 
 ---
 
@@ -81,7 +73,31 @@ Made on Earth by humans
 
 RT @pmarca: There is no substitute for the person who Knows What To Do.
 
-[查看原文](https://x.com/elonmusk/status/2121318015124066702)
+---
+
+## 2026-11-14 03:23:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mntruell: Within a couple of quarters, it will be normal for work meetings to be with Bots.
+
+This early beta gives a very rough glimpse…
+
+[查看原文](https://x.com/elonmusk/status/2121323141347914196)
+
+---
+
+## 2026-11-14 03:25:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2121323469002437065)
 
 ---
 
