@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4781 条推文
+> 📊 推文存档 - 共 4784 条推文
 
 ---
 
@@ -85,8 +85,6 @@ RT @mntruell: Within a couple of quarters, it will be normal for work meetings t
 
 This early beta gives a very rough glimpse…
 
-[查看原文](https://x.com/elonmusk/status/2121323141347914196)
-
 ---
 
 ## 2026-11-14 03:25:01
@@ -97,7 +95,43 @@ This early beta gives a very rough glimpse…
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2121323469002437065)
+---
+
+## 2026-11-14 04:09:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ducksays: grok bot is literally becoming the only ai system you'll ever need to use.
+
+so many enterprise use cases already, and they're…
+
+[查看原文](https://x.com/elonmusk/status/2121334760677298277)
+
+---
+
+## 2026-11-14 04:10:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @willdepue: if SpaceX achieves a double catch, it will be one of the single most important moments in the history of rocketry and mark a…
+
+[查看原文](https://x.com/elonmusk/status/2121335021202256068)
+
+---
+
+## 2026-11-14 04:14:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot today!
+
+[查看原文](https://x.com/elonmusk/status/2121335897744372073)
 
 ---
 
