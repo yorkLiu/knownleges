@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 596 条推文
+> 📊 推文存档 - 共 597 条推文
 
 ---
 
@@ -81,9 +81,23 @@ Among respondents expressing a position Jensen received a:
 
 - 91.5% support vs. 8.5% opposition ratio https://t.co/cwY1XGd4OH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO3mr2wetEqtmKgJrSehRdv5cv29RZAAL8FmsbLquxV7ErfwXHwTXYAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2121148384555995136)
+## 2026-11-13 18:03:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$SHOP CEO: 今天，真正的 $NVDA 就此终结。
+
+取而代之的，不过是一个披着英伟达外衣、徒有其形的仿冒品。
+
+未来掌舵的，将不再是开创者，而只是一群守成的看管者。他们会竭力守护黄仁勋亲手点燃的那团火焰，却终究无法让它延续下去。 https://t.co/pwmAJx1gdv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO4mr25kFktAABrIXSIWbRH9yc6_n3GgAC8xVrGy6ruVca2_hUfEQrPwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2121182068558446730)
 
 ---
 
