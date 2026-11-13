@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 481 条推文
+> 📊 推文存档 - 共 482 条推文
 
 ---
 
@@ -31,9 +31,21 @@ tags: ["2026"]
 
 犹太资本的目的就是利用贝莱德，道富这些机构的持股占据董事会席位，然后趁自己扶持的政党民主党彻底掌握国会用刑事调查“间谍”外加一连串私生活爆料作为引子，提起董事会提案罢免英伟达ceo老黄，用董事会控制英伟达公司，使其成为一个犹太资本控制下的科技巨头，类似谷歌模式，职业代理人经营。 https://t.co/USGZ8S92ki
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOrWr2eQiNsn7XZkBJ_6eps3pkbHYAA0MWaxsuq7FXvMAAAfkNU7WzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2121066071625261135)
+## 2026-11-13 11:12:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+梭哈的全卖完了，继续等anthropic发行到时候看看波动，
+最近财运回来了，否极泰来。
+祝大家财运亨通。 https://t.co/7eK9NQsJAb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOrmr2gEqsQKlv4QZhfcOCDfd6NHEFAAJRFmsbLquxVyq6avj15Je6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2121078667791274311)
 
 ---
 
