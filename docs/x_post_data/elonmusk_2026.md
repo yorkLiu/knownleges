@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4786 条推文
+> 📊 推文存档 - 共 4789 条推文
 
 ---
 
@@ -149,7 +149,45 @@ RT @cb_doge: BREAKING: SpaceX says Boca Chica Beach will remain public, outlinin
 
 RT @elonmusk: @yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too
 
-[查看原文](https://x.com/elonmusk/status/2121354518852153704)
+---
+
+## 2026-11-14 07:43:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Live Starship video from space https://t.co/PSFPxivC0z
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO_2r3o2cfWwABGfF1jc8mvlx9GW396gACrxZrGy6ruVdwI95ySl5LIAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121388517540716839)
+
+---
+
+## 2026-11-14 07:49:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Select customers are now being invited to purchase Cybercab for personal use https://t.co/LDIkKuseAZ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO_mr3o2TkUKvMHzb_Lix9ikIwPg0TAAKuFmsbLqu5V598qFQMWLSUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121389916948939141)
+
+---
+
+## 2026-11-14 07:51:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Indian telecom giant Airtel’s Chairman, Sunil Bharti Mittal, praised Elon Musk’s “mind-boggling” achievements, says…
+
+[查看原文](https://x.com/elonmusk/status/2121390536753914139)
 
 ---
 
