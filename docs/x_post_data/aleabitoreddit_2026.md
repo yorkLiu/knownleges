@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 598 条推文
+> 📊 推文存档 - 共 599 条推文
 
 ---
 
@@ -111,7 +111,30 @@ And rally hundred of billions of capital and supply chain commitment into Nvidia
 
 As for Nvidia: the
 
-[查看原文](https://x.com/aleabitoreddit/status/2121203324167037436)
+---
+
+## 2026-11-13 20:39:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Following the $MRVL and $LITE acquisition announcement…
+
+Samsung Electronics has been doing vertical integration of their own in photonics to thermal:
+
+- New report from Bloomberg states that 
+Samsung Electronics is in talks to buy $MOD Modine.
+
+Which supplies thermal/cooling https://t.co/oIqL8K4F59
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO42r3CpMRR6hSBUqPLC_nKqBg0UPdAAI2FmsbLqu5VxpHKqadYKVeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO5Gr3CpY5AicvJswZ6hUlSA9jYnFDAAI3FmsbLqu5VxqNvqnn-324AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO5Wr3Cpk5EH74U66kAaN4-VpBLdThAAI4FmsbLqu5V2CzZ_Ov80A_AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2121221289440665737)
 
 ---
 
