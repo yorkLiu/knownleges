@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 597 条推文
+> 📊 推文存档 - 共 598 条推文
 
 ---
 
@@ -95,9 +95,23 @@ $SHOP CEO: 今天，真正的 $NVDA 就此终结。
 
 未来掌舵的，将不再是开创者，而只是一群守成的看管者。他们会竭力守护黄仁勋亲手点燃的那团火焰，却终究无法让它延续下去。 https://t.co/pwmAJx1gdv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO4mr25kFktAABrIXSIWbRH9yc6_n3GgAC8xVrGy6ruVca2_hUfEQrPwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2121182068558446730)
+## 2026-11-13 19:27:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just to state the nuances of my opinion: Jensen is irreplaceable to $NVDA.
+
+No other CEO can visit a chicken shop in Korea, noodle shop in Japan
+
+And rally hundred of billions of capital and supply chain commitment into Nvidia’s next technological vision.
+
+As for Nvidia: the
+
+[查看原文](https://x.com/aleabitoreddit/status/2121203324167037436)
 
 ---
 
