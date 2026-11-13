@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4784 条推文
+> 📊 推文存档 - 共 4785 条推文
 
 ---
 
@@ -107,8 +107,6 @@ RT @ducksays: grok bot is literally becoming the only ai system you'll ever need
 
 so many enterprise use cases already, and they're…
 
-[查看原文](https://x.com/elonmusk/status/2121334760677298277)
-
 ---
 
 ## 2026-11-14 04:10:56
@@ -118,8 +116,6 @@ so many enterprise use cases already, and they're…
 **内容**:
 
 RT @willdepue: if SpaceX achieves a double catch, it will be one of the single most important moments in the history of rocketry and mark a…
-
-[查看原文](https://x.com/elonmusk/status/2121335021202256068)
 
 ---
 
@@ -131,7 +127,19 @@ RT @willdepue: if SpaceX achieves a double catch, it will be one of the single m
 
 Try Grok @Bot today!
 
-[查看原文](https://x.com/elonmusk/status/2121335897744372073)
+---
+
+## 2026-11-14 05:08:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX says Boca Chica Beach will remain public, outlining major efforts to protect and restore it.
+
+• More than 50…
+
+[查看原文](https://x.com/elonmusk/status/2121349506726031752)
 
 ---
 

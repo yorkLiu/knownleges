@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 602 条推文
+> 📊 推文存档 - 共 603 条推文
 
 ---
 
@@ -38,9 +38,17 @@ As one Korean executive on memory puts it:
 
 "Thirty people are already lined up at a restaurant that is full, and https://t.co/U72V764tHB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIO_Wr3d8ziGiahiKkYC4ELo2XmkBvXAAKoFmsbLqu5V_QQcPi6GHRnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2121338681571328368)
+## 2026-11-14 05:07:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+With Elon’s involvement, the odds of Jensen rejoining as $NVDA CEO just shot up.
+
+[查看原文](https://x.com/aleabitoreddit/status/2121349155457261991)
 
 ---
 
