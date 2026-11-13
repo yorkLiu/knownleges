@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 480 条推文
+> 📊 推文存档 - 共 481 条推文
 
 ---
 
@@ -21,9 +21,19 @@ tags: ["2026"]
 唯一缺英伟达的算力芯片，其他的都能大差不差自己搞了。
 美国自己把英伟达搞死图啥，全球所有科技公司都想要的东西自己不可能亲手毁了吧。都是做做样子走走形式，达到该有的目的继续梭哈干ai，英伟达肯定啥事没有。 https://t.co/MGaWA7CAqq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOqGr19lPNaAOk1NW9dmA9YvwtdgdEAALeFWsbLquxV-RqBTdJM8-rAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2120924300333154787)
+## 2026-11-13 10:22:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+犹太资本的目的就是利用贝莱德，道富这些机构的持股占据董事会席位，然后趁自己扶持的政党民主党彻底掌握国会用刑事调查“间谍”外加一连串私生活爆料作为引子，提起董事会提案罢免英伟达ceo老黄，用董事会控制英伟达公司，使其成为一个犹太资本控制下的科技巨头，类似谷歌模式，职业代理人经营。 https://t.co/USGZ8S92ki
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIOrWr2eQiNsn7XZkBJ_6eps3pkbHYAA0MWaxsuq7FXvMAAAfkNU7WzAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2121066071625261135)
 
 ---
 
