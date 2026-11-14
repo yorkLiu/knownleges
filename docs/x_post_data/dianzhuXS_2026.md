@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 756 条推文
+> 📊 推文存档 - 共 757 条推文
 
 ---
 
@@ -148,9 +148,34 @@ tags: ["2026"]
 正常人類們
 這算個好消息了吧？ https://t.co/qwAZtNzc59
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPAmr3-pSkby4lwRYoRlFRbq4kvxH-AAIbFmsbXWLBV-p5iWn9JNIVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2121485120846921865)
+## 2026-11-14 16:09:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【廁所別跟廚房比】
+
+別拿牆國的事偷換概念
+你們那不是天道也不是神
+
+正因為精緻利己
+沈默的大多數
+所以你們那裡是魔道橫行
+旅遊景點所謂的「神」
+也都是出馬仙而已
+正神早已因為嫌你們太髒太污穢
+遠離了你們
+遠離了你們
+遠離了你們
+你們是你們
+我們是我們
+
+你們繼續在地獄裡盼世界毀滅
+
+[查看原文](https://x.com/dianzhuXS/status/2121515835378552962)
 
 ---
 

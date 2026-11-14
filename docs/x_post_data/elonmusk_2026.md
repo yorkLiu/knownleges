@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4815 条推文
+> 📊 推文存档 - 共 4816 条推文
 
 ---
 
@@ -435,8 +435,6 @@ No wonder Jensen got fired. https://t.co/YrarRIL2fx
 
 Future Starship flights will carry over 50 Tb/s of Starlink bandwidth to orbit
 
-[查看原文](https://x.com/elonmusk/status/2121501324663832873)
-
 ---
 
 ## 2026-11-14 15:14:04
@@ -446,16 +444,6 @@ Future Starship flights will carry over 50 Tb/s of Starlink bandwidth to orbit
 **内容**:
 
 RT @SpaceX: Liftoff of Starship Flight 15 https://t.co/OWqYkqfUG8
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPE2r4EGNMz0bqqiScJFRoYfuI4XyjAAJjFmsbXWLBVytREJWOpiUUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPFGr4EGaq_KkeC0YOgAfqIwxJVhu2AAJkFmsbXWLBV-DB6gAB9uwmegEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPFWr4EGm92KpvDbHo5CVTs1P-7hy8AAJlFmsbXWLBV-SSOKv5zKQwAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPFmr4EGsRioTI2Bwhur_uRpByySJYAAJmFmsbXWLBV_XU1G3E2_DgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121501906501566852)
 
 ---
 
@@ -467,9 +455,19 @@ RT @SpaceX: Liftoff of Starship Flight 15 https://t.co/OWqYkqfUG8
 
 Made on Earth by humans https://t.co/NEQ4zMs7bo
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPEmr4EGBeaWOAVSDJZo1f1v1cfvMFAAJiFmsbXWLBVwz07gX3uHLjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2121502131056177514)
+## 2026-11-14 15:50:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+So funny https://t.co/Zq5jSoM3Ut
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPF2r4F6OZVNUJHlDo-Bo8O5ylfBI_AAKVFmsbXWLBV7u5K0WqcoJNAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121510962901483584)
 
 ---
 
