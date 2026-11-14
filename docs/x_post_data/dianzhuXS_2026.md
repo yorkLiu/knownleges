@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 755 条推文
+> 📊 推文存档 - 共 756 条推文
 
 ---
 
@@ -105,8 +105,6 @@ tags: ["2026"]
 但總比不切好吧
 😮‍💨😮‍💨😮‍💨
 
-[查看原文](https://x.com/dianzhuXS/status/2121481186682040496)
-
 ---
 
 ## 2026-11-14 13:59:04
@@ -126,8 +124,6 @@ tags: ["2026"]
 應該是「價值觀同頻共振」
 💪💪💪
 
-[查看原文](https://x.com/dianzhuXS/status/2121483030967865804)
-
 ---
 
 ## 2026-11-14 14:05:57
@@ -139,9 +135,22 @@ tags: ["2026"]
 正常人類們
 這算個好消息了吧？ https://t.co/bFccZZeXMO
 
+---
+
+## 2026-11-14 14:07:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【最新民調】
+
+正常人類們
+這算個好消息了吧？ https://t.co/qwAZtNzc59
+
 <img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPAmr3-pSkby4lwRYoRlFRbq4kvxH-AAIbFmsbXWLBV-p5iWn9JNIVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://x.com/dianzhuXS/status/2121484763685159068)
+[查看原文](https://x.com/dianzhuXS/status/2121485120846921865)
 
 ---
 
