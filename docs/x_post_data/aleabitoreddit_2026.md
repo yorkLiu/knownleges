@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 604 条推文
+> 📊 推文存档 - 共 605 条推文
 
 ---
 
@@ -58,9 +58,21 @@ With Elon’s involvement, the odds of Jensen rejoining as $NVDA CEO just shot u
 
 Altimeter and Atreides' letter to the board of $NVDA. https://t.co/vC4lgj6OxC
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPAAFq96qpiW3mKRg4SUIsbqI5t1OTFgACuBZrGy6ruVe8RqODvPSHpAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2121396827484524803)
+## 2026-11-14 13:03:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I've been talking with industry executives about sentiment around Jensen after the controversy at $NVDA. 
+
+What struck me most was how much they still admire him as a leader, and wanted him to remain CEO.  
+
+One executive told me about a night Jensen visited a supplier's factory
+
+[查看原文](https://x.com/aleabitoreddit/status/2121469108596445341)
 
 ---
 
