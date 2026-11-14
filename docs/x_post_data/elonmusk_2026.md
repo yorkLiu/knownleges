@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4828 条推文
+> 📊 推文存档 - 共 4830 条推文
 
 ---
 
@@ -539,8 +539,6 @@ RT @SemiAnalysis_: “Jensen has been incredibly good at retaining talent. There
 
 RT @benitoz: I remember the friends who were still there when I was down. Not the ones who liked me when things were easy. Elon said it las…
 
-[查看原文](https://x.com/elonmusk/status/2121610300981981497)
-
 ---
 
 ## 2026-11-14 22:30:24
@@ -551,8 +549,6 @@ RT @benitoz: I remember the friends who were still there when I was down. Not th
 
 Starship is currently completing 14 orbits of Earth, before initiating deorbit and attempting to land in Starbase
 
-[查看原文](https://x.com/elonmusk/status/2121611711278981147)
-
 ---
 
 ## 2026-11-14 22:30:30
@@ -562,10 +558,6 @@ Starship is currently completing 14 orbits of Earth, before initiating deorbit a
 **内容**:
 
 RT @SpaceX: Starship in orbit over Africa https://t.co/vwkuBpdrLI
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPGmr4dhc2SpKBWlJWq_YVXj9hCqrnAALRF2sbXWLBVz7HBVU64BJ1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121611736902197480)
 
 ---
 
@@ -579,8 +571,6 @@ Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a 
 
 Without Jensen, at least some of those critical deals will be lost.
 
-[查看原文](https://x.com/elonmusk/status/2121613402846204253)
-
 ---
 
 ## 2026-11-14 22:40:06
@@ -590,8 +580,6 @@ Without Jensen, at least some of those critical deals will be lost.
 **内容**:
 
 RT @firesidealpha: SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen…
-
-[查看原文](https://x.com/elonmusk/status/2121614151768248683)
 
 ---
 
@@ -605,7 +593,33 @@ RT @cb_doge: BREAKING: SpaceXSI completes MiniHard construction in just ~5 month
 
 According to…
 
-[查看原文](https://x.com/elonmusk/status/2121615415155806253)
+---
+
+## 2026-11-14 22:54:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AJamesMcCarthy: I placed a camera right next to the launch pad to capture starship’s liftoff in slow motion. 
+
+Can you spot the moon? h…
+
+[查看原文](https://x.com/elonmusk/status/2121617733221818612)
+
+---
+
+## 2026-11-14 23:20:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+If Jensen gave me his word about compute delivery or I asked for components to be accelerated, he always came through. 
+
+Sure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen.
+
+[查看原文](https://x.com/elonmusk/status/2121624209675665519)
 
 ---
 
