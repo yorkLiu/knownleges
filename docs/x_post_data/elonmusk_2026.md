@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4793 条推文
+> 📊 推文存档 - 共 4795 条推文
 
 ---
 
@@ -193,8 +193,6 @@ A first for @atreidesmgmt
 
 Absolutely share @altcap belief that this lette…
 
-[查看原文](https://x.com/elonmusk/status/2121420201153499601)
-
 ---
 
 ## 2026-11-14 09:51:41
@@ -204,8 +202,6 @@ Absolutely share @altcap belief that this lette…
 **内容**:
 
 RT @SpaceX: Starship is now in a long coast phase around Earth. Teams will monitor Starship’s systems over the next ~21 hours that we inten…
-
-[查看原文](https://x.com/elonmusk/status/2121420775593037994)
 
 ---
 
@@ -217,10 +213,6 @@ RT @SpaceX: Starship is now in a long coast phase around Earth. Teams will monit
 
 RT @SpaceX: Payload deploy complete. All 26 @Starlink V3 satellites are in orbit https://t.co/y2ffFifGdo
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPAWr3wHPkG8cJDyF44cdHCiUBdqOSAAL5FmsbLqu5Vxg5BBosgMX9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121420798133252405)
-
 ---
 
 ## 2026-11-14 09:51:57
@@ -231,7 +223,31 @@ RT @SpaceX: Payload deploy complete. All 26 @Starlink V3 satellites are in orbit
 
 RT @SpaceX: Starship is now deploying its payload of 26 @Starlink V3 satellites. This deployment sequence will take ~42 minutes https://t.c…
 
-[查看原文](https://x.com/elonmusk/status/2121420841757905406)
+---
+
+## 2026-11-14 10:23:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Creating jobs, investing in critical infrastructure, expanding local tax bases, and working alongside communities to build a fu…
+
+[查看原文](https://x.com/elonmusk/status/2121428806770856373)
+
+---
+
+## 2026-11-14 10:29:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @balajis: Altimeter and Atreides together hold more than $25B in assets.
+
+Elon and the founders of Uber, Shopify, Replit, and Vercel hav…
+
+[查看原文](https://x.com/elonmusk/status/2121430250877788286)
 
 ---
 
