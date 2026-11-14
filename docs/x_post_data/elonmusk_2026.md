@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4845 条推文
+> 📊 推文存档 - 共 4849 条推文
 
 ---
 
@@ -113,7 +113,59 @@ Actually, just looked closer and noticed that Tom, Gwynne and a few others aren�
 
 All systems green for the deorbit burn of Starship
 
-[查看原文](https://x.com/elonmusk/status/2121695381759144393)
+---
+
+## 2026-11-15 04:07:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @johnkrausphotos: https://t.co/AKUUOfLiGp
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPHGr4xgH_jwfHrxtbVvQxGowmNTO_AAKnGWsbXWLJVyR8pntytFL8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121696592168378490)
+
+---
+
+## 2026-11-15 04:10:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @adeoressi: Grok Bot has been such a force multiplier for me. It’s insane. 
+
+It provides you with a team of experts, and you get a total…
+
+[查看原文](https://x.com/elonmusk/status/2121697251819229393)
+
+---
+
+## 2026-11-15 04:22:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship deorbit burn in 30 seconds
+
+[查看原文](https://x.com/elonmusk/status/2121700409173487768)
+
+---
+
+## 2026-11-15 04:26:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Good deorbit burn. 
+
+Landing burn in 53 minutes.  https://t.co/GJIz7yiCvY
+
+[查看原文](https://x.com/elonmusk/status/2121701421183853007)
 
 ---
 
