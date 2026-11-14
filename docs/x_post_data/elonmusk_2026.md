@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4850 条推文
+> 📊 推文存档 - 共 4853 条推文
 
 ---
 
@@ -167,9 +167,47 @@ Landing burn in 53 minutes.  https://t.co/GJIz7yiCvY
 
 Congratulations to an incredible team at SpaceX!!! https://t.co/phiZ0amQyp
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPHWr4282cyXl4SMQMjaw-bekvBPwBAAK8GWsbXWLJV1eE04BUJoQiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2121726288968720709)
+## 2026-11-15 06:17:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @johnkrausphotos: https://t.co/gUueTHeGNT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPIGr44xjMNR__Jo6O1zLnmhAHamTdAALEGWsbXWLJV-pecJyQAWR8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121729222804951066)
+
+---
+
+## 2026-11-15 06:31:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: You're not gonna believe this, but @SpaceX caught their Starship rocket at 4:20 PM ET 😂 https://t.co/3VzaSZq9ck
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPH2r44xV-Sht8BYwISPaDQiv9ZgjEAALDGWsbXWLJV-rCe4XxXXa_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121732719050977749)
+
+---
+
+## 2026-11-15 06:36:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Inspecting ship 42 right now https://t.co/mazv15Dxtk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPHmr44xLh15XBBK3W7gYNAAEvy-uRkQACwhlrG11iyVeJhOgjE0i_TQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121733992726802703)
 
 ---
 
