@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4844 条推文
+> 📊 推文存档 - 共 4845 条推文
 
 ---
 
@@ -93,8 +93,6 @@ True, that pic shows everyone in the entire company of SpaceX in 2002!
 
 Tom Mueller (@lrocket) and Hans Koenigsmann, both amazing, world-class engineers, came by Mission Control last night. Good to see old friends ❤️
 
-[查看原文](https://x.com/elonmusk/status/2121668709064282507)
-
 ---
 
 ## 2026-11-15 02:18:43
@@ -105,7 +103,17 @@ Tom Mueller (@lrocket) and Hans Koenigsmann, both amazing, world-class engineers
 
 Actually, just looked closer and noticed that Tom, Gwynne and a few others aren’t in this particular picture, but they were certainly part of the company in those days
 
-[查看原文](https://x.com/elonmusk/status/2121669169925996567)
+---
+
+## 2026-11-15 04:02:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+All systems green for the deorbit burn of Starship
+
+[查看原文](https://x.com/elonmusk/status/2121695381759144393)
 
 ---
 
