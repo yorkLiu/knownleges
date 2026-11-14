@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4836 条推文
+> 📊 推文存档 - 共 4841 条推文
 
 ---
 
@@ -19,7 +19,67 @@ tags: ["2026"]
 
 RT @billlee: wut
 
-[查看原文](https://x.com/elonmusk/status/2121636671791992967)
+---
+
+## 2026-11-15 00:39:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Text watermarking with Grok is only on where required by law or requested by the user
+
+[查看原文](https://x.com/elonmusk/status/2121644169462681818)
+
+---
+
+## 2026-11-15 00:42:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @lingxi: we optimized it heavily so it should burn only a little of your usage.
+
+go invite your e-coworker to the meeting, and let us kn…
+
+[查看原文](https://x.com/elonmusk/status/2121644895958077656)
+
+---
+
+## 2026-11-15 00:44:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @StateDept: SECRETARY RUBIO: The ultimate question of our time is whether Americans have a moral right to exist as a distinct nation and…
+
+[查看原文](https://x.com/elonmusk/status/2121645538516799828)
+
+---
+
+## 2026-11-15 00:56:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @DJSnM Yes, the green flame is caused by burning copper from depleting fuel in the regenerative cooling circuit and going oxy…
+
+[查看原文](https://x.com/elonmusk/status/2121648602539782187)
+
+---
+
+## 2026-11-15 00:57:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://x.com/elonmusk/status/2121648757456662970)
 
 ---
 
