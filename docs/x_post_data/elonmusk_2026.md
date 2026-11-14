@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4853 条推文
+> 📊 推文存档 - 共 4859 条推文
 
 ---
 
@@ -177,10 +177,6 @@ Congratulations to an incredible team at SpaceX!!! https://t.co/phiZ0amQyp
 
 RT @johnkrausphotos: https://t.co/gUueTHeGNT
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPIGr44xjMNR__Jo6O1zLnmhAHamTdAALEGWsbXWLJV-pecJyQAWR8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121729222804951066)
-
 ---
 
 ## 2026-11-15 06:31:14
@@ -190,10 +186,6 @@ RT @johnkrausphotos: https://t.co/gUueTHeGNT
 **内容**:
 
 RT @SawyerMerritt: You're not gonna believe this, but @SpaceX caught their Starship rocket at 4:20 PM ET 😂 https://t.co/3VzaSZq9ck
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPH2r44xV-Sht8BYwISPaDQiv9ZgjEAALDGWsbXWLJV-rCe4XxXXa_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121732719050977749)
 
 ---
 
@@ -205,9 +197,83 @@ RT @SawyerMerritt: You're not gonna believe this, but @SpaceX caught their Stars
 
 Inspecting ship 42 right now https://t.co/mazv15Dxtk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPHmr44xLh15XBBK3W7gYNAAEvy-uRkQACwhlrG11iyVeJhOgjE0i_TQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2121733992726802703)
+## 2026-11-15 07:17:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ShanaDiez: You can quote me on this. Sometimes it all works.
+
+[查看原文](https://x.com/elonmusk/status/2121744356944089225)
+
+---
+
+## 2026-11-15 07:17:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @johnkrausphotos: https://t.co/4taJXnpfjg
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPImr48Z0hFxpwqu1UoILsrGqxSMd_AALRGWsbXWLJV7PoPR8IEqh0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121744423272988985)
+
+---
+
+## 2026-11-15 07:18:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NASAAdmin: Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸…
+
+[查看原文](https://x.com/elonmusk/status/2121744536867066313)
+
+---
+
+## 2026-11-15 07:25:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Ship 42 looks great! https://t.co/ChJcdWiuuS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPIWr48ZnVVGfYfHnzzRDFPiGkJxcNAALQGWsbXWLJV9ZeZwS2ycTpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121746382402797892)
+
+---
+
+## 2026-11-15 07:40:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @andrewrsorkin: “Physics is the law. Everything else is a recommendation.” @elonmusk told me that at DealBook in 2023. 
+
+Today, SpaceX c…
+
+[查看原文](https://x.com/elonmusk/status/2121750118835671432)
+
+---
+
+## 2026-11-15 07:40:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @willdepue: it feels great to be an american. it feels fucking great to be an american
+
+[查看原文](https://x.com/elonmusk/status/2121750189513769337)
 
 ---
 
