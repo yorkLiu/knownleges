@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4818 条推文
+> 📊 推文存档 - 共 4822 条推文
 
 ---
 
@@ -477,8 +477,6 @@ RT @Scobleizer: Made with @neuralink.
 
 Some live in the future already.
 
-[查看原文](https://x.com/elonmusk/status/2121601112574959630)
-
 ---
 
 ## 2026-11-14 21:48:20
@@ -489,7 +487,59 @@ Some live in the future already.
 
 RT @Cyborg21: It's here. Claudia's "ALLOW ALWAYS" world premiere. Made by a guy with ALS, a brain implant, and too many AI friends. 😂 https…
 
-[查看原文](https://x.com/elonmusk/status/2121601125237600677)
+---
+
+## 2026-11-14 21:55:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AJamesMcCarthy: An absolutely gorgeous launch https://t.co/jHzR7jwNsP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPGWr4btc8YuPvj7BoNus2T1Sv_KzJAAK4F2sbXWLBV-RdLzfYhYRRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121602899088486608)
+
+---
+
+## 2026-11-14 22:04:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: SpaceX’s official 3D animation explaining Starship. 🚀 https://t.co/TblZgC8sOv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPGGr4btSvnwABFmmhqaTxxFYcgzO1dgACtxdrG11iwVcAAaA9sfHi4yABAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121605193209151656)
+
+---
+
+## 2026-11-14 22:06:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bowie_HQ: Jensen Huang said it plainly:
+
+Building a massive, liquid-cooled, fully permitted, fully powered factory — and getting 100,00…
+
+[查看原文](https://x.com/elonmusk/status/2121605675768054043)
+
+---
+
+## 2026-11-14 22:18:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SemiAnalysis_: “Jensen has been incredibly good at retaining talent. There are very few high-profile departures from the NVIDIA executi…
+
+[查看原文](https://x.com/elonmusk/status/2121608636598493274)
 
 ---
 
