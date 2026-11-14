@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4822 条推文
+> 📊 推文存档 - 共 4828 条推文
 
 ---
 
@@ -497,10 +497,6 @@ RT @Cyborg21: It's here. Claudia's "ALLOW ALWAYS" world premiere. Made by a guy 
 
 RT @AJamesMcCarthy: An absolutely gorgeous launch https://t.co/jHzR7jwNsP
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPGWr4btc8YuPvj7BoNus2T1Sv_KzJAAK4F2sbXWLBV-RdLzfYhYRRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121602899088486608)
-
 ---
 
 ## 2026-11-14 22:04:30
@@ -510,10 +506,6 @@ RT @AJamesMcCarthy: An absolutely gorgeous launch https://t.co/jHzR7jwNsP
 **内容**:
 
 RT @cb_doge: SpaceX’s official 3D animation explaining Starship. 🚀 https://t.co/TblZgC8sOv
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPGGr4btSvnwABFmmhqaTxxFYcgzO1dgACtxdrG11iwVcAAaA9sfHi4yABAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121605193209151656)
 
 ---
 
@@ -527,8 +519,6 @@ RT @bowie_HQ: Jensen Huang said it plainly:
 
 Building a massive, liquid-cooled, fully permitted, fully powered factory — and getting 100,00…
 
-[查看原文](https://x.com/elonmusk/status/2121605675768054043)
-
 ---
 
 ## 2026-11-14 22:18:11
@@ -539,7 +529,83 @@ Building a massive, liquid-cooled, fully permitted, fully powered factory — an
 
 RT @SemiAnalysis_: “Jensen has been incredibly good at retaining talent. There are very few high-profile departures from the NVIDIA executi…
 
-[查看原文](https://x.com/elonmusk/status/2121608636598493274)
+---
+
+## 2026-11-14 22:24:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @benitoz: I remember the friends who were still there when I was down. Not the ones who liked me when things were easy. Elon said it las…
+
+[查看原文](https://x.com/elonmusk/status/2121610300981981497)
+
+---
+
+## 2026-11-14 22:30:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship is currently completing 14 orbits of Earth, before initiating deorbit and attempting to land in Starbase
+
+[查看原文](https://x.com/elonmusk/status/2121611711278981147)
+
+---
+
+## 2026-11-14 22:30:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Starship in orbit over Africa https://t.co/vwkuBpdrLI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPGmr4dhc2SpKBWlJWq_YVXj9hCqrnAALRF2sbXWLBVz7HBVU64BJ1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121611736902197480)
+
+---
+
+## 2026-11-14 22:37:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract. 
+
+Without Jensen, at least some of those critical deals will be lost.
+
+[查看原文](https://x.com/elonmusk/status/2121613402846204253)
+
+---
+
+## 2026-11-14 22:40:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: SemiAnalysis’s Dylan Patel says Google’s TPUs are just as good as Nvidia’s in his nightly benchmarks, and without Jensen…
+
+[查看原文](https://x.com/elonmusk/status/2121614151768248683)
+
+---
+
+## 2026-11-14 22:45:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceXSI completes MiniHard construction in just ~5 months, with Gun Range targeting a ~4-month build.
+
+According to…
+
+[查看原文](https://x.com/elonmusk/status/2121615415155806253)
 
 ---
 
