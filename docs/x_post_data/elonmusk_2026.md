@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4830 条推文
+> 📊 推文存档 - 共 4835 条推文
 
 ---
 
@@ -605,8 +605,6 @@ RT @AJamesMcCarthy: I placed a camera right next to the launch pad to capture st
 
 Can you spot the moon? h…
 
-[查看原文](https://x.com/elonmusk/status/2121617733221818612)
-
 ---
 
 ## 2026-11-14 23:20:04
@@ -619,7 +617,69 @@ If Jensen gave me his word about compute delivery or I asked for components to b
 
 Sure, we’d put together a purchase order at some point later, but I never for a second thought it wouldn’t happen.
 
-[查看原文](https://x.com/elonmusk/status/2121624209675665519)
+---
+
+## 2026-11-14 23:26:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+https://t.co/eIuxWL3C5E https://t.co/YhLjqqdUSs
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPG2r4hKCmLrijowl9Gp5nVYeUoZ_fAAL3F2sbXWLBV6ZnO0gC5udCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121625731088445896)
+
+---
+
+## 2026-11-14 23:34:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Update on Starship
+
+[查看原文](https://x.com/elonmusk/status/2121627776881230121)
+
+---
+
+## 2026-11-14 23:36:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Improvements to Grok @Bot efficiency
+
+[查看原文](https://x.com/elonmusk/status/2121628295234023654)
+
+---
+
+## 2026-11-14 23:45:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Flight 15 Update: Starship coasting in orbit, still looking good for return to launch site today. Pad and tower systems are go…
+
+[查看原文](https://x.com/elonmusk/status/2121630693747024071)
+
+---
+
+## 2026-11-14 23:47:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX just laid out a major plan to protect and restore the coastline around its launch site
+
+Boca Chica Beach is staying pub…
+
+[查看原文](https://x.com/elonmusk/status/2121630988744724531)
 
 ---
 
