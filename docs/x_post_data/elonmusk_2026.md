@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4802 条推文
+> 📊 推文存档 - 共 4812 条推文
 
 ---
 
@@ -265,10 +265,6 @@ RT @NASAAdmin: Congratulations to the @SpaceX team on another spectacular launch
 
 RT @AtelierMissor_: Prometheus unbound https://t.co/W3PpwmWpD3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPD2r4AfZ35lR3GPSpU7JCfqP3MjL5AAI6FmsbXWLBV5tkMXQFGEZcAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121486195716919558)
-
 ---
 
 ## 2026-11-14 14:23:47
@@ -278,8 +274,6 @@ RT @AtelierMissor_: Prometheus unbound https://t.co/W3PpwmWpD3
 **内容**:
 
 So far, so good for the ship
-
-[查看原文](https://x.com/elonmusk/status/2121489252072693925)
 
 ---
 
@@ -291,30 +285,6 @@ So far, so good for the ship
 
 RT @johnkrausphotos: Swipe for the full sequence: Super Heavy Booster 22 offshore divert during Starship Flight 15! https://t.co/ybDABIk0Mz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPBGr4AdrAbd9XUXwUe-EQS9qg7Lf3AAIuFmsbXWLBVx3dq9398VJ9AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPBWr4Ad2AmQ3iPKt_nso5ij7UUzi5AAIwFmsbXWLBV7YhNZdjfNG2AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPBmr4AeCV5BGNkyOHiV4GB5xjg_HgAAIxFmsbXWLBV3ZaV0d5QpV6AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPB2r4AeKD2CdQQqjt3_1v4GweHG_9AAIyFmsbXWLBV099ctyWBtjTAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPCGr4AeQwozw_WaMRb79y7BNYNoUNAAIzFmsbXWLBV2orlV-0otKCAQADAgADeQADPQQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPCWr4AefQ3Y6CLVAL3JgAAVUw2G1FVAACNBZrG11iwVe6GJgeZ1FduwEAAwIAA3kAAz0E.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPCmr4AerAiTUfCS9KNhADN1ps2ip7AAI1FmsbXWLBV9y-KF797T2HAQADAgADeQADPQQ.jpg" alt="图片 7" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPC2r4AeyU2TRNAAFyG79__KRDj1YvPQACNhZrG11iwVcowfb3TFpwDQEAAwIAA3kAAz0E.jpg" alt="图片 8" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPDGr4Ae-z7jenzJmuIrfbV_melntFAAI3FmsbXWLBV-j7l6BLivnFAQADAgADeQADPQQ.jpg" alt="图片 9" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPDWr4AfIC9aA5GcPyk3gRLgrhJH1RAAI4FmsbXWLBVzjj3j6oTLeKAQADAgADeQADPQQ.jpg" alt="图片 10" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPDmr4AfTq4rS0BnEqmbF1wROr25EKAAI5FmsbXWLBVyvKCqL6tv1DAQADAgADeQADPQQ.jpg" alt="图片 11" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121489358956134656)
-
 ---
 
 ## 2026-11-14 14:25:03
@@ -325,8 +295,6 @@ RT @johnkrausphotos: Swipe for the full sequence: Super Heavy Booster 22 offshor
 
 Starship is traveling around the world every ~90 minutes right now
 
-[查看原文](https://x.com/elonmusk/status/2121489571213168758)
-
 ---
 
 ## 2026-11-14 14:27:44
@@ -336,10 +304,6 @@ Starship is traveling around the world every ~90 minutes right now
 **内容**:
 
 RT @holdonyourrope: 看马斯克和黄仁勋聊天，真的太tm舒服了，恨不得边喝点酒边看，再吃点花生米，堪称完美 https://t.co/EYcaaVS34g
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPA2r4AddUpEmAn0LBnUQ_acgnbtq5AAItFmsbXWLBV_lQ-MbFF-07AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121490244088570044)
 
 ---
 
@@ -353,7 +317,137 @@ RT @cb_doge: The most valuable thing in life isn’t money, it’s true friendsh
 
 "A friend is someone who's going to support you in difficu…
 
-[查看原文](https://x.com/elonmusk/status/2121490886030938496)
+---
+
+## 2026-11-14 14:40:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Slowly at first, then rapid acceleration
+
+[查看原文](https://x.com/elonmusk/status/2121493331528056887)
+
+---
+
+## 2026-11-14 14:40:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @as400495: Few realize fixing government is an IT &amp; software problem. Government infrastructure is insecure, slow, expensive, and has in…
+
+[查看原文](https://x.com/elonmusk/status/2121493441205162195)
+
+---
+
+## 2026-11-14 14:41:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @garrytan: Jensen deserves due process, not whatever is happening right now. I signed. 
+
+#standwithjensen
+
+[查看原文](https://x.com/elonmusk/status/2121493686668439827)
+
+---
+
+## 2026-11-14 14:45:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @YveK22: Guten Morgen zusammen,
+heute vor elf Jahren, am 13. November 2015, verübten mehrere Attentäter im Namen des Islams, organisiert…
+
+[查看原文](https://x.com/elonmusk/status/2121494726650257690)
+
+---
+
+## 2026-11-14 14:46:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wholemars: What's happening at Starbase, Texas is truly incredible. 
+
+Deep in south Texas, Musk and his team have pulled in some of the…
+
+[查看原文](https://x.com/elonmusk/status/2121495080372769072)
+
+---
+
+## 2026-11-14 14:47:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wholemars: I cannot believe he’s still trying to claim he was right. Marques, be a man and honor your word.
+
+Tesla showed you the futur…
+
+[查看原文](https://x.com/elonmusk/status/2121495269820825684)
+
+---
+
+## 2026-11-14 14:49:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: Je viens de regarder mon passage dans Quotidien. Évidemment, je suis qualifié d’« influenceur entrepreneur d’extrême droite ».…
+
+[查看原文](https://x.com/elonmusk/status/2121495838426050717)
+
+---
+
+## 2026-11-14 14:53:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: Zambia has started connecting 751 health facilities across all 10 provinces with Starlink, and the first 90 kits went to…
+
+[查看原文](https://x.com/elonmusk/status/2121496746656231454)
+
+---
+
+## 2026-11-14 14:55:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @stevenmarkryan Yes. Per the exact words in the clip, the bet is lost if a Cybercab is delivered to a customer for $30k or less b…
+
+[查看原文](https://x.com/elonmusk/status/2121497262547251665)
+
+---
+
+## 2026-11-14 14:59:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GS_VCactivist: NVIDIA board credentials. 
+No wonder Jensen got fired. https://t.co/YrarRIL2fx
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPEGr4CRtvCFySxgQXc6xOhYMiNKL9AAJOFmsbXWLBV9mihbZMLTFvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPEWr4CR7g3sjW9UEZpSiwgIrfgK7CAAJPFmsbXWLBVy_EwjIzLdQGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121498127484244186)
 
 ---
 
