@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4812 条推文
+> 📊 推文存档 - 共 4815 条推文
 
 ---
 
@@ -327,8 +327,6 @@ RT @cb_doge: The most valuable thing in life isn’t money, it’s true friendsh
 
 Slowly at first, then rapid acceleration
 
-[查看原文](https://x.com/elonmusk/status/2121493331528056887)
-
 ---
 
 ## 2026-11-14 14:40:26
@@ -338,8 +336,6 @@ Slowly at first, then rapid acceleration
 **内容**:
 
 RT @as400495: Few realize fixing government is an IT &amp; software problem. Government infrastructure is insecure, slow, expensive, and has in…
-
-[查看原文](https://x.com/elonmusk/status/2121493441205162195)
 
 ---
 
@@ -353,8 +349,6 @@ RT @garrytan: Jensen deserves due process, not whatever is happening right now. 
 
 #standwithjensen
 
-[查看原文](https://x.com/elonmusk/status/2121493686668439827)
-
 ---
 
 ## 2026-11-14 14:45:32
@@ -365,8 +359,6 @@ RT @garrytan: Jensen deserves due process, not whatever is happening right now. 
 
 RT @YveK22: Guten Morgen zusammen,
 heute vor elf Jahren, am 13. November 2015, verübten mehrere Attentäter im Namen des Islams, organisiert…
-
-[查看原文](https://x.com/elonmusk/status/2121494726650257690)
 
 ---
 
@@ -380,8 +372,6 @@ RT @wholemars: What's happening at Starbase, Texas is truly incredible.
 
 Deep in south Texas, Musk and his team have pulled in some of the…
 
-[查看原文](https://x.com/elonmusk/status/2121495080372769072)
-
 ---
 
 ## 2026-11-14 14:47:42
@@ -394,8 +384,6 @@ RT @wholemars: I cannot believe he’s still trying to claim he was right. Marqu
 
 Tesla showed you the futur…
 
-[查看原文](https://x.com/elonmusk/status/2121495269820825684)
-
 ---
 
 ## 2026-11-14 14:49:58
@@ -405,8 +393,6 @@ Tesla showed you the futur…
 **内容**:
 
 RT @brivael: Je viens de regarder mon passage dans Quotidien. Évidemment, je suis qualifié d’« influenceur entrepreneur d’extrême droite ».…
-
-[查看原文](https://x.com/elonmusk/status/2121495838426050717)
 
 ---
 
@@ -418,8 +404,6 @@ RT @brivael: Je viens de regarder mon passage dans Quotidien. Évidemment, je su
 
 RT @TheCaptainEli: Zambia has started connecting 751 health facilities across all 10 provinces with Starlink, and the first 90 kits went to…
 
-[查看原文](https://x.com/elonmusk/status/2121496746656231454)
-
 ---
 
 ## 2026-11-14 14:55:37
@@ -429,8 +413,6 @@ RT @TheCaptainEli: Zambia has started connecting 751 health facilities across al
 **内容**:
 
 RT @grok: @stevenmarkryan Yes. Per the exact words in the clip, the bet is lost if a Cybercab is delivered to a customer for $30k or less b…
-
-[查看原文](https://x.com/elonmusk/status/2121497262547251665)
 
 ---
 
@@ -443,11 +425,51 @@ RT @grok: @stevenmarkryan Yes. Per the exact words in the clip, the bet is lost 
 RT @GS_VCactivist: NVIDIA board credentials. 
 No wonder Jensen got fired. https://t.co/YrarRIL2fx
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPEGr4CRtvCFySxgQXc6xOhYMiNKL9AAJOFmsbXWLBV9mihbZMLTFvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPEWr4CR7g3sjW9UEZpSiwgIrfgK7CAAJPFmsbXWLBVy_EwjIzLdQGAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-14 15:11:46
 
-[查看原文](https://x.com/elonmusk/status/2121498127484244186)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Future Starship flights will carry over 50 Tb/s of Starlink bandwidth to orbit
+
+[查看原文](https://x.com/elonmusk/status/2121501324663832873)
+
+---
+
+## 2026-11-14 15:14:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Liftoff of Starship Flight 15 https://t.co/OWqYkqfUG8
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPE2r4EGNMz0bqqiScJFRoYfuI4XyjAAJjFmsbXWLBVytREJWOpiUUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPFGr4EGaq_KkeC0YOgAfqIwxJVhu2AAJkFmsbXWLBV-DB6gAB9uwmegEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPFWr4EGm92KpvDbHo5CVTs1P-7hy8AAJlFmsbXWLBV-SSOKv5zKQwAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPFmr4EGsRioTI2Bwhur_uRpByySJYAAJmFmsbXWLBV_XU1G3E2_DgAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121501906501566852)
+
+---
+
+## 2026-11-14 15:14:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Made on Earth by humans https://t.co/NEQ4zMs7bo
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPEmr4EGBeaWOAVSDJZo1f1v1cfvMFAAJiFmsbXWLBVwz07gX3uHLjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121502131056177514)
 
 ---
 
