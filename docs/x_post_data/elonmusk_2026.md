@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4795 条推文
+> 📊 推文存档 - 共 4796 条推文
 
 ---
 
@@ -233,8 +233,6 @@ RT @SpaceX: Starship is now deploying its payload of 26 @Starlink V3 satellites.
 
 RT @SpaceX: Creating jobs, investing in critical infrastructure, expanding local tax bases, and working alongside communities to build a fu…
 
-[查看原文](https://x.com/elonmusk/status/2121428806770856373)
-
 ---
 
 ## 2026-11-14 10:29:20
@@ -247,7 +245,17 @@ RT @balajis: Altimeter and Atreides together hold more than $25B in assets.
 
 Elon and the founders of Uber, Shopify, Replit, and Vercel hav…
 
-[查看原文](https://x.com/elonmusk/status/2121430250877788286)
+---
+
+## 2026-11-14 11:26:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @NASAAdmin: Congratulations to the @SpaceX team on another spectacular launch. Very much appreciate how you bring the world along in hig…
+
+[查看原文](https://x.com/elonmusk/status/2121444535406633445)
 
 ---
 
