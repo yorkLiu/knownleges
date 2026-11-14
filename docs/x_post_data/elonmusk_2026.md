@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4841 条推文
+> 📊 推文存档 - 共 4842 条推文
 
 ---
 
@@ -29,8 +29,6 @@ RT @billlee: wut
 
 Text watermarking with Grok is only on where required by law or requested by the user
 
-[查看原文](https://x.com/elonmusk/status/2121644169462681818)
-
 ---
 
 ## 2026-11-15 00:42:16
@@ -43,8 +41,6 @@ RT @lingxi: we optimized it heavily so it should burn only a little of your usag
 
 go invite your e-coworker to the meeting, and let us kn…
 
-[查看原文](https://x.com/elonmusk/status/2121644895958077656)
-
 ---
 
 ## 2026-11-15 00:44:49
@@ -54,8 +50,6 @@ go invite your e-coworker to the meeting, and let us kn…
 **内容**:
 
 RT @StateDept: SECRETARY RUBIO: The ultimate question of our time is whether Americans have a moral right to exist as a distinct nation and…
-
-[查看原文](https://x.com/elonmusk/status/2121645538516799828)
 
 ---
 
@@ -67,8 +61,6 @@ RT @StateDept: SECRETARY RUBIO: The ultimate question of our time is whether Ame
 
 RT @elonmusk: @DJSnM Yes, the green flame is caused by burning copper from depleting fuel in the regenerative cooling circuit and going oxy…
 
-[查看原文](https://x.com/elonmusk/status/2121648602539782187)
-
 ---
 
 ## 2026-11-15 00:57:36
@@ -79,7 +71,17 @@ RT @elonmusk: @DJSnM Yes, the green flame is caused by burning copper from deple
 
 Starlink
 
-[查看原文](https://x.com/elonmusk/status/2121648757456662970)
+---
+
+## 2026-11-15 01:04:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @billlee This is not as good as it sounds, because Starlink required many satellites in low Earth orbit to achieve this bandw…
+
+[查看原文](https://x.com/elonmusk/status/2121650594603847797)
 
 ---
 
