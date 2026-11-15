@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 607 条推文
+> 📊 推文存档 - 共 608 条推文
 
 ---
 
@@ -39,7 +39,22 @@ Was that if a critical material can be bought out for spare change eg. ~$400m (F
 
 And trigger tens of billions
 
-[查看原文](https://x.com/aleabitoreddit/status/2121918080293196209)
+---
+
+## 2026-11-15 23:01:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I've posted a lot about $NVDA because Jensen Huang is worth fighting for.
+
+Talking with Jensen and those around him convinced me he's 1 of 1... both for Nvidia's future and US leadership in AI. 
+
+A friend asked me to share this petition (I signed):   
+https://t.co/8SymDAeyOD
+
+[查看原文](https://x.com/aleabitoreddit/status/2121981880480522483)
 
 ---
 
