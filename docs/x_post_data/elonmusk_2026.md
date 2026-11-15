@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4859 条推文
+> 📊 推文存档 - 共 4862 条推文
 
 ---
 
@@ -207,8 +207,6 @@ Inspecting ship 42 right now https://t.co/mazv15Dxtk
 
 RT @ShanaDiez: You can quote me on this. Sometimes it all works.
 
-[查看原文](https://x.com/elonmusk/status/2121744356944089225)
-
 ---
 
 ## 2026-11-15 07:17:45
@@ -218,10 +216,6 @@ RT @ShanaDiez: You can quote me on this. Sometimes it all works.
 **内容**:
 
 RT @johnkrausphotos: https://t.co/4taJXnpfjg
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPImr48Z0hFxpwqu1UoILsrGqxSMd_AALRGWsbXWLJV7PoPR8IEqh0AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121744423272988985)
 
 ---
 
@@ -233,8 +227,6 @@ RT @johnkrausphotos: https://t.co/4taJXnpfjg
 
 RT @NASAAdmin: Congrats to @elonmusk and the @SpaceX team! It was almost magic..Making more believers by the day....one step closer to 🌖🇺🇸…
 
-[查看原文](https://x.com/elonmusk/status/2121744536867066313)
-
 ---
 
 ## 2026-11-15 07:25:32
@@ -244,10 +236,6 @@ RT @NASAAdmin: Congrats to @elonmusk and the @SpaceX team! It was almost magic..
 **内容**:
 
 Ship 42 looks great! https://t.co/ChJcdWiuuS
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPIWr48ZnVVGfYfHnzzRDFPiGkJxcNAALQGWsbXWLJV9ZeZwS2ycTpAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121746382402797892)
 
 ---
 
@@ -261,8 +249,6 @@ RT @andrewrsorkin: “Physics is the law. Everything else is a recommendation.�
 
 Today, SpaceX c…
 
-[查看原文](https://x.com/elonmusk/status/2121750118835671432)
-
 ---
 
 ## 2026-11-15 07:40:40
@@ -273,7 +259,45 @@ Today, SpaceX c…
 
 RT @willdepue: it feels great to be an american. it feels fucking great to be an american
 
-[查看原文](https://x.com/elonmusk/status/2121750189513769337)
+---
+
+## 2026-11-15 07:42:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: On Friday, November 13, Starship lifted off from Starbase, Texas on its 15th flight. 
+
+On Saturday, November 14, Starship retur…
+
+[查看原文](https://x.com/elonmusk/status/2121750673910075806)
+
+---
+
+## 2026-11-15 07:47:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: The next time you want to give up, think of this image: https://t.co/UXC9pC6Myq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPI2r4-N5DDInXj6umSnQu1Y2nLMZaAALSGWsbXWLJVzdU9jHmydCsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121751860914929835)
+
+---
+
+## 2026-11-15 08:03:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @edwards345: The holy grail of rocketry has just been achieved. This is an inflection point in human history that will unlock the solar…
+
+[查看原文](https://x.com/elonmusk/status/2121755853766504842)
 
 ---
 
