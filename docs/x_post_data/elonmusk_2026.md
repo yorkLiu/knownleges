@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4888 条推文
+> 📊 推文存档 - 共 4889 条推文
 
 ---
 
@@ -494,8 +494,6 @@ Without a shadow of a doubt.
 
 The combination of Grok Bot + Opus/Fable + Argon is a…
 
-[查看原文](https://x.com/elonmusk/status/2121875382614085666)
-
 ---
 
 ## 2026-11-15 15:58:15
@@ -505,8 +503,6 @@ The combination of Grok Bot + Opus/Fable + Argon is a…
 **内容**:
 
 RT @johnkrausphotos: Ship 42 returns to Starbase, Texas for the first-ever Starship tower catch during Flight 15! I have dreamt of creating…
-
-[查看原文](https://x.com/elonmusk/status/2121875411843830203)
 
 ---
 
@@ -518,8 +514,6 @@ RT @johnkrausphotos: Ship 42 returns to Starbase, Texas for the first-ever Stars
 
 This gives a clear sense of the catch maneuver
 
-[查看原文](https://x.com/elonmusk/status/2121875600906592260)
-
 ---
 
 ## 2026-11-15 15:59:38
@@ -529,8 +523,6 @@ This gives a clear sense of the catch maneuver
 **内容**:
 
 5 years ago
-
-[查看原文](https://x.com/elonmusk/status/2121875758704370144)
 
 ---
 
@@ -544,8 +536,6 @@ RT @AJamesMcCarthy: After careful consideration I’ve decided I’m quite bulli
 
 KARDASHEV II HERE WE COME! https://t.co/t43…
 
-[查看原文](https://x.com/elonmusk/status/2121876044366201235)
-
 ---
 
 ## 2026-11-15 16:02:05
@@ -557,10 +547,6 @@ KARDASHEV II HERE WE COME! https://t.co/t43…
 RT @anabology: MADE ON EARTH 
 
 BY HUMANS https://t.co/y4vuSP0RTk
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPLmr5bSD8TC_ZOOy6oz0d9uodXiQ8AAJRHGsbXWLJVzht2RJq2vvhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121876378052436213)
 
 ---
 
@@ -574,8 +560,6 @@ RT @XFreeze: Starship Flight 15 mission in one timelapse
 
 Launched from the tower → around Earth 14 times → caught by the tower https://t.c…
 
-[查看原文](https://x.com/elonmusk/status/2121877552171999280)
-
 ---
 
 ## 2026-11-15 16:11:25
@@ -586,7 +570,17 @@ Launched from the tower → around Earth 14 times → caught by the tower https:
 
 RT @GavinSBaker: If you have kids, I highly recommend taking them to a launch. You can watch from the Margaritaville, the town beach or man…
 
-[查看原文](https://x.com/elonmusk/status/2121878725675622837)
+---
+
+## 2026-11-15 16:36:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CBSNews: SpaceX is preparing for its 15th Starship launch from South Texas, with spectators gathering just across the street from the 4…
+
+[查看原文](https://x.com/elonmusk/status/2121884943529959468)
 
 ---
 
