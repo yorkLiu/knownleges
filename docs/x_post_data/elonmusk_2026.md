@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4901 条推文
+> 📊 推文存档 - 共 4902 条推文
 
 ---
 
@@ -103,8 +103,6 @@ Yeah, I was going over the whole Starship heat shield earlier today. Overall, it
 
 However, many small fixes are needed to achieve immediate reusability (like an
 
-[查看原文](https://x.com/elonmusk/status/2122092374016806969)
-
 ---
 
 ## 2026-11-16 06:21:28
@@ -114,8 +112,6 @@ However, many small fixes are needed to achieve immediate reusability (like an
 **内容**:
 
 🍌 4 scale
-
-[查看原文](https://x.com/elonmusk/status/2122092646294581460)
 
 ---
 
@@ -127,7 +123,21 @@ However, many small fixes are needed to achieve immediate reusability (like an
 
 Starlink is a gamechanger
 
-[查看原文](https://x.com/elonmusk/status/2122092920434274773)
+---
+
+## 2026-11-16 07:24:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MinaGawargious: Elon Musk is currently inspecting heat shield tiles on Starship https://t.co/WIGJYVBa7n
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPMGr6P9ThphW45GIBJhD7sRyxT2wlAAIFF2sbsALRV9tgwfpIRV0MAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPMWr6P9chl1wrqD1Uo2l2q7amJUYAAwYXaxuwAtFX-kqqFj7gkHUBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122108612860428490)
 
 ---
 
