@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4868 条推文
+> 📊 推文存档 - 共 4872 条推文
 
 ---
 
@@ -301,8 +301,6 @@ RT @edwards345: The holy grail of rocketry has just been achieved. This is an in
 
 Three booster catches and a ship
 
-[查看原文](https://x.com/elonmusk/status/2121759042582589821)
-
 ---
 
 ## 2026-11-15 08:17:45
@@ -312,8 +310,6 @@ Three booster catches and a ship
 **内容**:
 
 The epic day has arrived, thanks to the incredibly talented team at SpaceX!
-
-[查看原文](https://x.com/elonmusk/status/2121759522851115109)
 
 ---
 
@@ -325,12 +321,6 @@ The epic day has arrived, thanks to the incredibly talented team at SpaceX!
 
 Some phone videos I took from the tower https://t.co/kxiSkIvoHQ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJWr5AAEl4f3EQWCeNO658kRhjistDAAC4hlrG11iyVfesAzTgFfZ1AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJmr5AAErj4P_jesOQrdd3R-tk_Lq_QAC4xlrG11iyVcFxfZ49QqCigEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121763396190179414)
-
 ---
 
 ## 2026-11-15 08:35:27
@@ -340,8 +330,6 @@ Some phone videos I took from the tower https://t.co/kxiSkIvoHQ
 **内容**:
 
 I hugged ship 42 upon its return
-
-[查看原文](https://x.com/elonmusk/status/2121763977349013884)
 
 ---
 
@@ -353,8 +341,6 @@ I hugged ship 42 upon its return
 
 Thanks
 
-[查看原文](https://x.com/elonmusk/status/2121764319792677119)
-
 ---
 
 ## 2026-11-15 08:39:00
@@ -365,9 +351,62 @@ Thanks
 
 RT @johnkrausphotos: https://t.co/LGMOqPPI8B
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJGr5AAEin7-rorfLbN5FhTu884s9ngAC4RlrG11iyVc99sziGAYTjgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2121764870999957679)
+## 2026-11-15 08:46:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SciGuySpace: Dazzled.
+
+https://t.co/ZLWoaOjaD8
+
+[查看原文](https://x.com/elonmusk/status/2121766670834471176)
+
+---
+
+## 2026-11-15 09:02:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Try Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2121770874885845044)
+
+---
+
+## 2026-11-15 09:08:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @minheo93698092: 그록봇에 화상회의에 초대할수 있는데 토큰을 거의 먹지 않는다고 합니다. 
+
+이건 엄청난 기능인데,제가 우려한 유일한 점은 토큰 소모 였습니다. 
+
+오늘 업데이트 되자마자 사용했습니다. 
+성능은 대박이었습니다.…
+
+[查看原文](https://x.com/elonmusk/status/2121772407161774462)
+
+---
+
+## 2026-11-15 09:13:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robinebers: Grok Bot is the only one that stuck
+
+ChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying…
+
+[查看原文](https://x.com/elonmusk/status/2121773526277370339)
 
 ---
 
