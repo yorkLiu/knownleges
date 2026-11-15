@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4877 条推文
+> 📊 推文存档 - 共 4880 条推文
 
 ---
 
@@ -440,10 +440,6 @@ Will the future that you want
 
 RT @_MaxQ_: I’m lost for words https://t.co/B1oeJQjdDz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPLWr5Xphm4aLGUTNNvsA3pruDm_zGAAKPG2sbXWLJV0o8TGBDR-JbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121866298502049890)
-
 ---
 
 ## 2026-11-15 15:22:12
@@ -454,9 +450,41 @@ RT @_MaxQ_: I’m lost for words https://t.co/B1oeJQjdDz
 
 RT @rookisaacman: Do you believe now? https://t.co/w3EbswSyn0
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPLGr5XpVSiaYmlaE4_ukZgb-Hzfo3AAKOG2sbXWLJVxBU1npHukk8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2121866340055019918)
+## 2026-11-15 15:34:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Pedroascenbell: Wow, así se vio el catch de la Ship vista desde Matamoros, México. FUE UNA LOCURAAA 🚀❤️ #Starship #SpaceX https://t.co/…
+
+[查看原文](https://x.com/elonmusk/status/2121869348491157768)
+
+---
+
+## 2026-11-15 15:35:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DannyLimanseta: Amidst all the chaos that happened in the past few days, this makes me feel proud of humanity.
+
+[查看原文](https://x.com/elonmusk/status/2121869641568112819)
+
+---
+
+## 2026-11-15 15:56:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Great day
+
+[查看原文](https://x.com/elonmusk/status/2121875056817328621)
 
 ---
 
