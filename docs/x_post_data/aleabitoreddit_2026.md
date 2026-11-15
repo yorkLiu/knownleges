@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 606 条推文
+> 📊 推文存档 - 共 607 条推文
 
 ---
 
@@ -23,11 +23,23 @@ Where it even gives Chinese people more pride in CCP state media.
 
 Very dark times for Western journalism. https://t.co/oJ8eEgOIDS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPKmr5V1Itij0o_EbXntiCwBfRJZWKAAJkG2sbXWLJV_fJQrorr-nGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPK2r5V1a1-ZP91Wdi6XdyrMZontAiAAJlG2sbXWLJV4Qtcp1RKyqWAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-15 18:47:48
 
-[查看原文](https://x.com/aleabitoreddit/status/2121852636261724398)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The most interesting lesson Jensen Huang taught me
+
+And gave PTSD to Google executives over from his leadership at $NVDA:
+
+Was that if a critical material can be bought out for spare change eg. ~$400m (FY2028 Photonics-SOI revenue forecast for $SOI)
+
+And trigger tens of billions
+
+[查看原文](https://x.com/aleabitoreddit/status/2121918080293196209)
 
 ---
 
