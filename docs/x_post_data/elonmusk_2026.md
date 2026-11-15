@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4898 条推文
+> 📊 推文存档 - 共 4901 条推文
 
 ---
 
@@ -59,8 +59,6 @@ Starlink
 
 RT @cb_doge: BREAKING: Former White House and Pentagon official Douglas MacKinnon calls for an end to political attacks on Elon Musk, sayin…
 
-[查看原文](https://x.com/elonmusk/status/2122067901616210049)
-
 ---
 
 ## 2026-11-16 04:44:32
@@ -73,8 +71,6 @@ RT @cb_doge: BREAKING: Samsung reportedly plans to make chips for SpaceX’s Sta
 
 Samsung is investing $1.…
 
-[查看原文](https://x.com/elonmusk/status/2122068253564350768)
-
 ---
 
 ## 2026-11-16 04:45:20
@@ -84,8 +80,6 @@ Samsung is investing $1.…
 **内容**:
 
 RT @jamesdouma: IMO Grok is currently, the best tool for understanding what’s happening in the world.  Is Jensen being railroaded?  https:/…
-
-[查看原文](https://x.com/elonmusk/status/2122068455415234856)
 
 ---
 
@@ -97,7 +91,43 @@ RT @jamesdouma: IMO Grok is currently, the best tool for understanding what’s 
 
 Ship, in the future, will almost always be taken to mean spaceship
 
-[查看原文](https://x.com/elonmusk/status/2122068777189716003)
+---
+
+## 2026-11-16 06:20:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah, I was going over the whole Starship heat shield earlier today. Overall, it looks great. The engines look great too. Ship 42 could probably be reflown with a few weeks of refurbishment. 
+
+However, many small fixes are needed to achieve immediate reusability (like an
+
+[查看原文](https://x.com/elonmusk/status/2122092374016806969)
+
+---
+
+## 2026-11-16 06:21:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🍌 4 scale
+
+[查看原文](https://x.com/elonmusk/status/2122092646294581460)
+
+---
+
+## 2026-11-16 06:22:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink is a gamechanger
+
+[查看原文](https://x.com/elonmusk/status/2122092920434274773)
 
 ---
 
