@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4902 条推文
+> 📊 推文存档 - 共 4907 条推文
 
 ---
 
@@ -133,11 +133,69 @@ Starlink is a gamechanger
 
 RT @MinaGawargious: Elon Musk is currently inspecting heat shield tiles on Starship https://t.co/WIGJYVBa7n
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPMGr6P9ThphW45GIBJhD7sRyxT2wlAAIFF2sbsALRV9tgwfpIRV0MAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPMWr6P9chl1wrqD1Uo2l2q7amJUYAAwYXaxuwAtFX-kqqFj7gkHUBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-16 07:27:19
 
-[查看原文](https://x.com/elonmusk/status/2122108612860428490)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2122109219855806886)
+
+---
+
+## 2026-11-16 07:30:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: No other 1:1 can top this. 😆
+
+[查看原文](https://x.com/elonmusk/status/2122109971735408759)
+
+---
+
+## 2026-11-16 07:30:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Dominican Republic Government advances plans to expand Starlink connectivity and explores Grok for education. 🇩🇴
+
+Pr…
+
+[查看原文](https://x.com/elonmusk/status/2122110047421661363)
+
+---
+
+## 2026-11-16 07:30:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @johnkrausphotos: https://t.co/6A9QDJM2BC
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPMmr6RxmjO0ioKt517HHfhyk_W_eNAAI8F2sbsALRV8U5hbuy5Z-fAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122110142271361412)
+
+---
+
+## 2026-11-16 07:48:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @dhh @wholemars @matthewstoller Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and…
+
+[查看原文](https://x.com/elonmusk/status/2122114501554086197)
 
 ---
 
