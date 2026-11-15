@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4862 条推文
+> 📊 推文存档 - 共 4868 条推文
 
 ---
 
@@ -271,8 +271,6 @@ RT @SpaceX: On Friday, November 13, Starship lifted off from Starbase, Texas on 
 
 On Saturday, November 14, Starship retur…
 
-[查看原文](https://x.com/elonmusk/status/2121750673910075806)
-
 ---
 
 ## 2026-11-15 07:47:18
@@ -282,10 +280,6 @@ On Saturday, November 14, Starship retur…
 **内容**:
 
 RT @cb_doge: The next time you want to give up, think of this image: https://t.co/UXC9pC6Myq
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPI2r4-N5DDInXj6umSnQu1Y2nLMZaAALSGWsbXWLJVzdU9jHmydCsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121751860914929835)
 
 ---
 
@@ -297,7 +291,83 @@ RT @cb_doge: The next time you want to give up, think of this image: https://t.c
 
 RT @edwards345: The holy grail of rocketry has just been achieved. This is an inflection point in human history that will unlock the solar…
 
-[查看原文](https://x.com/elonmusk/status/2121755853766504842)
+---
+
+## 2026-11-15 08:15:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Three booster catches and a ship
+
+[查看原文](https://x.com/elonmusk/status/2121759042582589821)
+
+---
+
+## 2026-11-15 08:17:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The epic day has arrived, thanks to the incredibly talented team at SpaceX!
+
+[查看原文](https://x.com/elonmusk/status/2121759522851115109)
+
+---
+
+## 2026-11-15 08:33:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Some phone videos I took from the tower https://t.co/kxiSkIvoHQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJWr5AAEl4f3EQWCeNO658kRhjistDAAC4hlrG11iyVfesAzTgFfZ1AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJmr5AAErj4P_jesOQrdd3R-tk_Lq_QAC4xlrG11iyVcFxfZ49QqCigEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121763396190179414)
+
+---
+
+## 2026-11-15 08:35:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I hugged ship 42 upon its return
+
+[查看原文](https://x.com/elonmusk/status/2121763977349013884)
+
+---
+
+## 2026-11-15 08:36:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Thanks
+
+[查看原文](https://x.com/elonmusk/status/2121764319792677119)
+
+---
+
+## 2026-11-15 08:39:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @johnkrausphotos: https://t.co/LGMOqPPI8B
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJGr5AAEin7-rorfLbN5FhTu884s9ngAC4RlrG11iyVc99sziGAYTjgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121764870999957679)
 
 ---
 
