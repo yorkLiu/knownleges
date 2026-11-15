@@ -7,7 +7,55 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4890 条推文
+> 📊 推文存档 - 共 4894 条推文
+
+---
+
+## 2026-11-16 02:49:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DavidSolomon: This is spectacular— looks like science fiction, but it’s real!  @elonmusk — I need to see this live one of these days!
+
+[查看原文](https://x.com/elonmusk/status/2122039309716828391)
+
+---
+
+## 2026-11-16 02:58:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://x.com/elonmusk/status/2122041658426765334)
+
+---
+
+## 2026-11-16 03:05:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @paulg: You work your ass off solving really hard problems day after day for decades, and this is what you get: anyone could have done i…
+
+[查看原文](https://x.com/elonmusk/status/2122043340044587303)
+
+---
+
+## 2026-11-16 03:05:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://x.com/elonmusk/status/2122043427776819503)
 
 ---
 
