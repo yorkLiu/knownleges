@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4872 条推文
+> 📊 推文存档 - 共 4873 条推文
 
 ---
 
@@ -363,8 +363,6 @@ RT @SciGuySpace: Dazzled.
 
 https://t.co/ZLWoaOjaD8
 
-[查看原文](https://x.com/elonmusk/status/2121766670834471176)
-
 ---
 
 ## 2026-11-15 09:02:51
@@ -374,8 +372,6 @@ https://t.co/ZLWoaOjaD8
 **内容**:
 
 Try Grok @Bot
-
-[查看原文](https://x.com/elonmusk/status/2121770874885845044)
 
 ---
 
@@ -392,8 +388,6 @@ RT @minheo93698092: 그록봇에 화상회의에 초대할수 있는데 토큰�
 오늘 업데이트 되자마자 사용했습니다. 
 성능은 대박이었습니다.…
 
-[查看原文](https://x.com/elonmusk/status/2121772407161774462)
-
 ---
 
 ## 2026-11-15 09:13:23
@@ -406,7 +400,19 @@ RT @robinebers: Grok Bot is the only one that stuck
 
 ChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or annoying…
 
-[查看原文](https://x.com/elonmusk/status/2121773526277370339)
+---
+
+## 2026-11-15 10:23:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AJamesMcCarthy: Everything has changed. https://t.co/MdMc1Q5j9Y
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJ2r5HTIMoNDvaOH2iMN-1MI0BnwOAAINGmsbXWLJV_o1IKPrDAn2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121791280208581035)
 
 ---
 
