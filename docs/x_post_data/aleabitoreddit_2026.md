@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 605 条推文
+> 📊 推文存档 - 共 606 条推文
+
+---
+
+## 2026-11-15 14:27:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Western media coverage of $NVDA and Jensen Huang have reached a point
+
+Where it even gives Chinese people more pride in CCP state media.
+
+Very dark times for Western journalism. https://t.co/oJ8eEgOIDS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPKmr5V1Itij0o_EbXntiCwBfRJZWKAAJkG2sbXWLJV_fJQrorr-nGAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPK2r5V1a1-ZP91Wdi6XdyrMZontAiAAJlG2sbXWLJV4Qtcp1RKyqWAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2121852636261724398)
 
 ---
 
