@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4875 条推文
+> 📊 推文存档 - 共 4877 条推文
 
 ---
 
@@ -420,12 +420,6 @@ RT @AJamesMcCarthy: Everything has changed. https://t.co/MdMc1Q5j9Y
 
 RT @Geiger_Capital: Choose your path Western man. https://t.co/2qtGHiKJXd
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPKGr5JHh_CLSl3yrje4X_6TNQ350MAAIYGmsbXWLJV_mb-AMThpKWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPKWr5JHv1iXtrmrXxpK2C5N2TsWZkAAIZGmsbXWLJVzmiz1Fl50kQAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2121802386880753924)
-
 ---
 
 ## 2026-11-15 11:08:38
@@ -436,7 +430,33 @@ RT @Geiger_Capital: Choose your path Western man. https://t.co/2qtGHiKJXd
 
 Will the future that you want
 
-[查看原文](https://x.com/elonmusk/status/2121802527524164015)
+---
+
+## 2026-11-15 15:22:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @_MaxQ_: I’m lost for words https://t.co/B1oeJQjdDz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPLWr5Xphm4aLGUTNNvsA3pruDm_zGAAKPG2sbXWLJV0o8TGBDR-JbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121866298502049890)
+
+---
+
+## 2026-11-15 15:22:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @rookisaacman: Do you believe now? https://t.co/w3EbswSyn0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPLGr5XpVSiaYmlaE4_ukZgb-Hzfo3AAKOG2sbXWLJVxBU1npHukk8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121866340055019918)
 
 ---
 
