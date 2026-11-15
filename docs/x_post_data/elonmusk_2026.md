@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4894 条推文
+> 📊 推文存档 - 共 4898 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 RT @DavidSolomon: This is spectacular— looks like science fiction, but it’s real!  @elonmusk — I need to see this live one of these days!
 
-[查看原文](https://x.com/elonmusk/status/2122039309716828391)
-
 ---
 
 ## 2026-11-16 02:58:51
@@ -30,8 +28,6 @@ RT @DavidSolomon: This is spectacular— looks like science fiction, but it’s 
 **内容**:
 
 Starlink
-
-[查看原文](https://x.com/elonmusk/status/2122041658426765334)
 
 ---
 
@@ -43,8 +39,6 @@ Starlink
 
 RT @paulg: You work your ass off solving really hard problems day after day for decades, and this is what you get: anyone could have done i…
 
-[查看原文](https://x.com/elonmusk/status/2122043340044587303)
-
 ---
 
 ## 2026-11-16 03:05:53
@@ -55,7 +49,55 @@ RT @paulg: You work your ass off solving really hard problems day after day for 
 
 Starlink
 
-[查看原文](https://x.com/elonmusk/status/2122043427776819503)
+---
+
+## 2026-11-16 04:43:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Former White House and Pentagon official Douglas MacKinnon calls for an end to political attacks on Elon Musk, sayin…
+
+[查看原文](https://x.com/elonmusk/status/2122067901616210049)
+
+---
+
+## 2026-11-16 04:44:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Samsung reportedly plans to make chips for SpaceX’s Starlink satellites in Austin, Texas. 
+
+Samsung is investing $1.…
+
+[查看原文](https://x.com/elonmusk/status/2122068253564350768)
+
+---
+
+## 2026-11-16 04:45:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jamesdouma: IMO Grok is currently, the best tool for understanding what’s happening in the world.  Is Jensen being railroaded?  https:/…
+
+[查看原文](https://x.com/elonmusk/status/2122068455415234856)
+
+---
+
+## 2026-11-16 04:46:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Ship, in the future, will almost always be taken to mean spaceship
+
+[查看原文](https://x.com/elonmusk/status/2122068777189716003)
 
 ---
 
