@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4873 条推文
+> 📊 推文存档 - 共 4875 条推文
 
 ---
 
@@ -410,9 +410,33 @@ ChatGPT Dots: i’ve literally paused mine due to bugs and constant refusals or 
 
 RT @AJamesMcCarthy: Everything has changed. https://t.co/MdMc1Q5j9Y
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPJ2r5HTIMoNDvaOH2iMN-1MI0BnwOAAINGmsbXWLJV_o1IKPrDAn2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2121791280208581035)
+## 2026-11-15 11:08:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Geiger_Capital: Choose your path Western man. https://t.co/2qtGHiKJXd
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPKGr5JHh_CLSl3yrje4X_6TNQ350MAAIYGmsbXWLJV_mb-AMThpKWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPKWr5JHv1iXtrmrXxpK2C5N2TsWZkAAIZGmsbXWLJVzmiz1Fl50kQAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2121802386880753924)
+
+---
+
+## 2026-11-15 11:08:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Will the future that you want
+
+[查看原文](https://x.com/elonmusk/status/2121802527524164015)
 
 ---
 
