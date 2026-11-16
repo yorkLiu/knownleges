@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4931 条推文
+> 📊 推文存档 - 共 4932 条推文
 
 ---
 
@@ -433,7 +433,17 @@ RT @JohnLeFevre: The SpaceX engineers who caught the rocket don't write LinkedIn
 
 Yup
 
-[查看原文](https://x.com/elonmusk/status/2122191623731745133)
+---
+
+## 2026-11-16 13:41:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+[查看原文](https://x.com/elonmusk/status/2122203324460265943)
 
 ---
 
