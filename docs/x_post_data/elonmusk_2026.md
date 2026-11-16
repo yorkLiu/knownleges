@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4909 条推文
+> 📊 推文存档 - 共 4912 条推文
 
 ---
 
@@ -195,8 +195,6 @@ RT @elonmusk: @dhh @wholemars @matthewstoller Let’s take this gentleman’s ar
 
 RT @SawyerMerritt: Samsung will invest $1.9 billion to expand its chip plant in Austin, Texas, to produce semiconductors for @SpaceX's Star…
 
-[查看原文](https://x.com/elonmusk/status/2122127355502071854)
-
 ---
 
 ## 2026-11-16 08:40:04
@@ -207,7 +205,43 @@ RT @SawyerMerritt: Samsung will invest $1.9 billion to expand its chip plant in 
 
 Starlink helps rural schools with education
 
-[查看原文](https://x.com/elonmusk/status/2122127527040712704)
+---
+
+## 2026-11-16 09:21:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Legacy media headlines after @SpaceX caught Starship:
+
+• CNN: "SpaceX Starship nails historic ship catch in unprecedente…
+
+[查看原文](https://x.com/elonmusk/status/2122137991032529140)
+
+---
+
+## 2026-11-16 09:21:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2122138040176894180)
+
+---
+
+## 2026-11-16 09:23:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the way
+
+[查看原文](https://x.com/elonmusk/status/2122138555137110487)
 
 ---
 
