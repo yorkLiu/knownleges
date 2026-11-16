@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4945 条推文
+> 📊 推文存档 - 共 4946 条推文
 
 ---
 
@@ -59,8 +59,6 @@ Catching a Starship from space
 
 Try Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2122416056006324311)
-
 ---
 
 ## 2026-11-17 03:46:50
@@ -71,15 +69,17 @@ Try Grok @Bot
 
 RT @SpaceX: Starship 42 coming in for catch https://t.co/aw0o56LhCg
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPRmr7YnwUDtQ28qIsriHF-EG10Fc_AAKwHWsbsALZV4iEK3xVao7yAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPR2r7Yn8lMhnhHU40VK_c3MElJon2AAKxHWsbsALZVyfx5jREr5sSAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-17 04:56:01
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPSGr7YoLVZMh7LdIC0Gqr01RoNXalAAKyHWsbsALZVydmvrts5DxSAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPSWr7YoUfSy_ks4bcvfkUByZgd9n7AAKzHWsbsALZV03za4jetRr2AQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/elonmusk/status/2122416120418218377)
+RT @AlanMamedi: We've all read about Elon's working style being different. Hands-on, to say the least. Here's my anecdotal Elon moment: in…
+
+[查看原文](https://x.com/elonmusk/status/2122433533079695721)
 
 ---
 
