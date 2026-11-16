@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4912 条推文
+> 📊 推文存档 - 共 4919 条推文
 
 ---
 
@@ -217,8 +217,6 @@ RT @SawyerMerritt: Legacy media headlines after @SpaceX caught Starship:
 
 • CNN: "SpaceX Starship nails historic ship catch in unprecedente…
 
-[查看原文](https://x.com/elonmusk/status/2122137991032529140)
-
 ---
 
 ## 2026-11-16 09:21:50
@@ -228,8 +226,6 @@ RT @SawyerMerritt: Legacy media headlines after @SpaceX caught Starship:
 **内容**:
 
 Cool
-
-[查看原文](https://x.com/elonmusk/status/2122138040176894180)
 
 ---
 
@@ -241,7 +237,95 @@ Cool
 
 This is the way
 
-[查看原文](https://x.com/elonmusk/status/2122138555137110487)
+---
+
+## 2026-11-16 09:33:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship V4 will be ~70m long, which is roughly a 40% length increase and allows &gt;60% more propellant load.
+
+Engine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and these will be higher thrust V4 engines.
+
+[查看原文](https://x.com/elonmusk/status/2122141019894383027)
+
+---
+
+## 2026-11-16 09:34:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2122141116195877155)
+
+---
+
+## 2026-11-16 09:37:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That’s how it happened
+
+[查看原文](https://x.com/elonmusk/status/2122141959917842487)
+
+---
+
+## 2026-11-16 09:50:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I have a very wide distribution of training data
+
+[查看原文](https://x.com/elonmusk/status/2122145276681220436)
+
+---
+
+## 2026-11-16 09:50:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WR4NYGov: Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon found…
+
+[查看原文](https://x.com/elonmusk/status/2122145343693598847)
+
+---
+
+## 2026-11-16 09:54:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Say no to crack https://t.co/uQmtL5s2yh
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPM2r6ZCnhTrVkjflSI9NSKW6Y5lJPAAJDGGsbsALRV9kQX2suYtY7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122146355074232469)
+
+---
+
+## 2026-11-16 09:57:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Joe Rogan praises Tesla FSD, saying his car drives him home at the press of a button.
+
+“I leave the club. I press a button. It…
+
+[查看原文](https://x.com/elonmusk/status/2122147070132052059)
 
 ---
 
