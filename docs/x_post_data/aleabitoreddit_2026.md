@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 609 条推文
+> 📊 推文存档 - 共 610 条推文
 
 ---
 
@@ -21,9 +21,30 @@ It’s time for Jensen’s redemption arc at $NVDA.
 
 FT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPL2r6DPZRyl41PoLaBOX-rTqtIPF5AALEFWsbsALRV-_JlIF_3_DsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2122046823934407066)
+## 2026-11-16 17:58:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Morgan Stanley sends a note to clients using the term:
+
+“Max Overweight” for global equities.
+
+Arguing that AI capex cycle remains intact and sustains corporate earnings into 2027.
+
+They told clients:
+
+- hold less cash, trim commodities and exposure to bonds
+- move https://t.co/z9hAJuz0Xa
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPPmr62GuQvYliUO5UekMtobtRxN_IAAJrGWsbsALZV9zSsyvv5FLwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPP2r62G4ndULcW9mbTOUilyap43koAAJsGWsbsALZV5YYfPxdJDclAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122268155682996328)
 
 ---
 
