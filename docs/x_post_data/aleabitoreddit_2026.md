@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 613 条推文
+> 📊 推文存档 - 共 614 条推文
 
 ---
 
@@ -37,9 +37,21 @@ $NVDA is not the same thing as Apple or McDonalds.
 
 You also cannot replace Jensen with ARM CEO or Palo Alto Networks CEO... then expect local Taiwanese factories to move as fast. https://t.co/kSoTRrIZln
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPRGr7U-9_T2XQqrWSpMp0JNwGzz4hAAJTHWsbsALZV-DhbqzWLl2WAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2122404712800723209)
+## 2026-11-17 04:37:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Well, most of the time projections are noise and reactionary. 
+
+Like right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. 
+
+I do think it's important to model in capex forecasts dropping past 2028,
+
+[查看原文](https://x.com/aleabitoreddit/status/2122428876748206564)
 
 ---
 
