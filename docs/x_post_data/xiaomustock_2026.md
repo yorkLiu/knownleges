@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 488 条推文
+> 📊 推文存档 - 共 489 条推文
 
 ---
 
@@ -36,9 +36,21 @@ $ANT 按照7倍认购算，
 市场近6000亿美金的流动性被抽走了。
 不跌才怪，所有股票合计的交易量才多少。 https://t.co/aIOh799G1n
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPPGr6pY4G887K9hzmtuuP3_Cp_586AAJ9GmsbsALRVzWddG3_ep-XAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2122211740939321389)
+## 2026-11-16 22:48:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+俩条消息合一起，川普这逼真是把贪污做到了明面上。
+美国总统特朗普：英伟达(NVDA.O)前CEO黄仁勋吸取了教训，不介意看到黄仁勋复职。
+(来自金十数据App) https://t.co/sf131RnZg6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPQWr7GcyIfZFGHvNl_rlf8HB4xJvXAAKfG2sbsALZV2h8IerMcyGiAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2122341053584011671)
 
 ---
 
