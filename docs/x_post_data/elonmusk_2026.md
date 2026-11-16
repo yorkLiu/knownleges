@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4947 条推文
+> 📊 推文存档 - 共 4950 条推文
 
 ---
 
@@ -93,7 +93,47 @@ Than the entire continent of Europe has in the entirety of human history
 
 B…
 
-[查看原文](https://x.com/elonmusk/status/2122437555001930163)
+---
+
+## 2026-11-17 05:47:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+As I was saying …
+
+Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.
+
+[查看原文](https://x.com/elonmusk/status/2122446366354096479)
+
+---
+
+## 2026-11-17 05:55:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @zerohedge: What was the significance of this weekend's SpaceX tower catch: 
+
+"Catching the second stage is substantially harder than ca…
+
+[查看原文](https://x.com/elonmusk/status/2122448619915870208)
+
+---
+
+## 2026-11-17 05:56:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Tesla is going big in Germany again, and this time it's all about the Cybercab
+
+Tesla will invest €3 billion to expand Giga Be…
+
+[查看原文](https://x.com/elonmusk/status/2122448662538371471)
 
 ---
 
