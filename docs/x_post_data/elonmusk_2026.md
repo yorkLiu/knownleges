@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4921 条推文
+> 📊 推文存档 - 共 4922 条推文
 
 ---
 
@@ -321,10 +321,6 @@ RT @cb_doge: Joe Rogan praises Tesla FSD, saying his car drives him home at the 
 
 Robotaxi life is a hard life. Tesla team empathizes with this guy. https://t.co/HE6NoyNv0r
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPNGr6a23m34AOIPFGBHPINwd-yuNBAAJ7GGsbsALRV4cqPzB0DYsnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122155440788099394)
-
 ---
 
 ## 2026-11-16 10:32:20
@@ -337,7 +333,17 @@ RT @SawyerMerritt: Morgan Stanley’s Adam Jonas on @SpaceX successfully catchin
 
 “In our view, Flight 15 is a histor…
 
-[查看原文](https://x.com/elonmusk/status/2122155781785346141)
+---
+
+## 2026-11-16 11:04:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just doin some plumbin
+
+[查看原文](https://x.com/elonmusk/status/2122163777454166505)
 
 ---
 
