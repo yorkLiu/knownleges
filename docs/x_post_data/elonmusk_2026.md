@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4937 条推文
+> 📊 推文存档 - 共 4938 条推文
 
 ---
 
@@ -493,9 +493,19 @@ Important
 
 RT @robotaxi: Now serving more of Miami 🌴 https://t.co/wXWEAxn6i9
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPPWr6u1pfoW_XxZuWr_o1YHdom3nRAAI1G2sbsALRVwinnsLsQJaWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2122241757207556360)
+## 2026-11-16 22:24:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ApoStructura: If Starship were its own launch company, it would already be number 2 in the US by payload to orbit.
+
+(behind SpaceX Falc…
+
+[查看原文](https://x.com/elonmusk/status/2122334993737240623)
 
 ---
 
