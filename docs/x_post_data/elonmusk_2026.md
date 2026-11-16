@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4927 条推文
+> 📊 推文存档 - 共 4930 条推文
 
 ---
 
@@ -393,11 +393,43 @@ RT @max_west07: i’m happy to answer any questions anyone has https://t.co/vpjC
 
 RT @LukeLeisher: The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’ https://t.co/M9bUgk83Le
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPOWr6gTx7QgABcpCo2A76MX-dlOCkEAACSBlrG7AC0VfO7_8gqRGUiAEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPOmr6gT6v5HJ3RFWkcoJcjJCQqwafAAJJGWsbsALRV5rJQl-Oa0p9AQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-16 12:06:26
 
-[查看原文](https://x.com/elonmusk/status/2122178893297905713)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @nbcsnl lol https://t.co/7vw3wS9Jm3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPO2r6iHwbOhpnViqQ-wi4pgMaUHhbAAKHGWsbsALRVxr2o9hsypbDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122179460435001423)
+
+---
+
+## 2026-11-16 12:18:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JohnLeFevre: The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.
+
+[查看原文](https://x.com/elonmusk/status/2122182607391920214)
+
+---
+
+## 2026-11-16 12:34:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+12 years ago
+
+[查看原文](https://x.com/elonmusk/status/2122186399575396604)
 
 ---
 
