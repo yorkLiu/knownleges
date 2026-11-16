@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4907 条推文
+> 📊 推文存档 - 共 4909 条推文
 
 ---
 
@@ -143,8 +143,6 @@ RT @MinaGawargious: Elon Musk is currently inspecting heat shield tiles on Stars
 
 Starlink saves lives
 
-[查看原文](https://x.com/elonmusk/status/2122109219855806886)
-
 ---
 
 ## 2026-11-16 07:30:18
@@ -154,8 +152,6 @@ Starlink saves lives
 **内容**:
 
 RT @yunta_tsai: No other 1:1 can top this. 😆
-
-[查看原文](https://x.com/elonmusk/status/2122109971735408759)
 
 ---
 
@@ -169,8 +165,6 @@ RT @cb_doge: BREAKING: Dominican Republic Government advances plans to expand St
 
 Pr…
 
-[查看原文](https://x.com/elonmusk/status/2122110047421661363)
-
 ---
 
 ## 2026-11-16 07:30:59
@@ -180,10 +174,6 @@ Pr…
 **内容**:
 
 RT @johnkrausphotos: https://t.co/6A9QDJM2BC
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPMmr6RxmjO0ioKt517HHfhyk_W_eNAAI8F2sbsALRV8U5hbuy5Z-fAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122110142271361412)
 
 ---
 
@@ -195,7 +185,29 @@ RT @johnkrausphotos: https://t.co/6A9QDJM2BC
 
 RT @elonmusk: @dhh @wholemars @matthewstoller Let’s take this gentleman’s argument at face value that anyone can throw money at rockets and…
 
-[查看原文](https://x.com/elonmusk/status/2122114501554086197)
+---
+
+## 2026-11-16 08:39:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Samsung will invest $1.9 billion to expand its chip plant in Austin, Texas, to produce semiconductors for @SpaceX's Star…
+
+[查看原文](https://x.com/elonmusk/status/2122127355502071854)
+
+---
+
+## 2026-11-16 08:40:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink helps rural schools with education
+
+[查看原文](https://x.com/elonmusk/status/2122127527040712704)
 
 ---
 
