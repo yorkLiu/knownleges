@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4946 条推文
+> 📊 推文存档 - 共 4947 条推文
 
 ---
 
@@ -79,7 +79,21 @@ RT @SpaceX: Starship 42 coming in for catch https://t.co/aw0o56LhCg
 
 RT @AlanMamedi: We've all read about Elon's working style being different. Hands-on, to say the least. Here's my anecdotal Elon moment: in…
 
-[查看原文](https://x.com/elonmusk/status/2122433533079695721)
+---
+
+## 2026-11-17 05:12:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @zebulgar: This year SpaceX has launched more mass to orbit
+
+Than the entire continent of Europe has in the entirety of human history
+
+B…
+
+[查看原文](https://x.com/elonmusk/status/2122437555001930163)
 
 ---
 
