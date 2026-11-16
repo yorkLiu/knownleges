@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 614 条推文
+> 📊 推文存档 - 共 615 条推文
 
 ---
 
@@ -51,7 +51,29 @@ Like right now, sky-high projections for $ANT $700-$800B ARR over next few years
 
 I do think it's important to model in capex forecasts dropping past 2028,
 
-[查看原文](https://x.com/aleabitoreddit/status/2122428876748206564)
+---
+
+## 2026-11-17 06:22:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Leopold’s Situational Awareness 13F filing reveals: 
+
+- $BE $389.2M calls
+- $NBIS $332.6M calls
+- $SNDK $182.7M calls
+
+With $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure to IREN + Neoclouds/Colo players.
+
+Call values are apparently market value of https://t.co/O6v15kVEC0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPSmr7htHmvGFA3TKkz9g1XE3Ix_eQAAKZHmsbsALZV_ISgmmru449AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPS2r7htUJkpPukhNlIVRmQ3HirZSpAAKbHmsbsALZV5SD39Uuj5CBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122455173356536151)
 
 ---
 
