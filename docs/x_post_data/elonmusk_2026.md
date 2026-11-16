@@ -7,7 +7,57 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4939 条推文
+> 📊 推文存档 - 共 4943 条推文
+
+---
+
+## 2026-11-17 03:10:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’ve come a long way
+
+[查看原文](https://x.com/elonmusk/status/2122406902827245831)
+
+---
+
+## 2026-11-17 03:10:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nelkboys: shoutout @elonmusk were livestreaming a MARATHON IN ANTARTICA https://t.co/WQwG0e5pGv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPRWr7WzF9l4kuzgFQxn_3gp6JwuOvAAKBHWsbsALZV7WShudrvr3zAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122407004748800453)
+
+---
+
+## 2026-11-17 03:11:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cool
+
+[查看原文](https://x.com/elonmusk/status/2122407149401964722)
+
+---
+
+## 2026-11-17 03:16:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Catching a Starship from space
+
+[查看原文](https://x.com/elonmusk/status/2122408454325416322)
 
 ---
 
