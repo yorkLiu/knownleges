@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4936 条推文
+> 📊 推文存档 - 共 4937 条推文
 
 ---
 
@@ -453,8 +453,6 @@ Yup
 
 The amount of energy we harness for civilization from the Sun will obviously ultimately round up to 100% of all energy. That math is obvious and trivial.
 
-[查看原文](https://x.com/elonmusk/status/2122220308799316072)
-
 ---
 
 ## 2026-11-16 14:53:33
@@ -464,8 +462,6 @@ The amount of energy we harness for civilization from the Sun will obviously ult
 **内容**:
 
 💯
-
-[查看原文](https://x.com/elonmusk/status/2122221516867895726)
 
 ---
 
@@ -477,8 +473,6 @@ The amount of energy we harness for civilization from the Sun will obviously ult
 
 RT @SonoranAstro: i find it really weird seeing people say spacex trashed “boca chica beach” when in reality my grandparents lived in brown…
 
-[查看原文](https://x.com/elonmusk/status/2122222491430994336)
-
 ---
 
 ## 2026-11-16 15:01:49
@@ -489,7 +483,19 @@ RT @SonoranAstro: i find it really weird seeing people say spacex trashed “boc
 
 Important
 
-[查看原文](https://x.com/elonmusk/status/2122223599079559603)
+---
+
+## 2026-11-16 16:13:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Now serving more of Miami 🌴 https://t.co/wXWEAxn6i9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPPWr6u1pfoW_XxZuWr_o1YHdom3nRAAI1G2sbsALRVwinnsLsQJaWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122241757207556360)
 
 ---
 
