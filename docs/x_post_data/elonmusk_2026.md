@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4950 条推文
+> 📊 推文存档 - 共 4953 条推文
 
 ---
 
@@ -105,8 +105,6 @@ As I was saying …
 
 Free Starlinks for FAA were offered to Sec Duffy, but he said they were not needed. As it turns out, they were.
 
-[查看原文](https://x.com/elonmusk/status/2122446366354096479)
-
 ---
 
 ## 2026-11-17 05:55:58
@@ -118,8 +116,6 @@ Free Starlinks for FAA were offered to Sec Duffy, but he said they were not need
 RT @zerohedge: What was the significance of this weekend's SpaceX tower catch: 
 
 "Catching the second stage is substantially harder than ca…
-
-[查看原文](https://x.com/elonmusk/status/2122448619915870208)
 
 ---
 
@@ -133,7 +129,45 @@ RT @XFreeze: Tesla is going big in Germany again, and this time it's all about t
 
 Tesla will invest €3 billion to expand Giga Be…
 
-[查看原文](https://x.com/elonmusk/status/2122448662538371471)
+---
+
+## 2026-11-17 07:28:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://x.com/elonmusk/status/2122471820712660999)
+
+---
+
+## 2026-11-17 07:30:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+View of Starship landing from the tower
+
+[查看原文](https://x.com/elonmusk/status/2122472344052531640)
+
+---
+
+## 2026-11-17 07:30:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Views from Mechazilla of the first ever Starship catch https://t.co/mcoWaqnkaU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPTGr7lVdOUOwQgP896yvfhnDXbM5rAAL5HmsbsALZVzEJfjOEQAJqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPTWr7lVr1w2tem05ds4nX_hwmueseAAL6HmsbsALZVwpfIsuQu4DeAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122472372552749426)
 
 ---
 

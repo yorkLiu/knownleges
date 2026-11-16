@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 615 条推文
+> 📊 推文存档 - 共 616 条推文
 
 ---
 
@@ -69,11 +69,23 @@ With $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure 
 
 Call values are apparently market value of https://t.co/O6v15kVEC0
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPSmr7htHmvGFA3TKkz9g1XE3Ix_eQAAKZHmsbsALZV_ISgmmru449AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPS2r7htUJkpPukhNlIVRmQ3HirZSpAAKbHmsbsALZV5SD39Uuj5CBAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-17 07:27:50
 
-[查看原文](https://x.com/aleabitoreddit/status/2122455173356536151)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True, it also feels like I’m one of the few remaining people that refuse to do paid ads.
+
+Even if my ideas don’t perform well short term, I’d rather continue sharing original ideas for free
+
+Than treat audiences as something to monetize behind high paywalls or $10K+ / promo https://t.co/73hKtWtXA8
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPTmr7lV2HxOZQW9IOMFP5UnG6wUvOAAL8HmsbsALZVy7GD2bNQcUeAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122471739238350876)
 
 ---
 
