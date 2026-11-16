@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4926 条推文
+> 📊 推文存档 - 共 4927 条推文
 
 ---
 
@@ -353,10 +353,6 @@ Just doin some plumbin
 
 RT @AntiWokeMemes: @elonmusk Great timeline 😂 https://t.co/peznuqAnw3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPN2r6ef3cVhsh9ylwidoWgd1l5HnDAAIIGWsbsALRV79ki8Mw4pZ8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122164088726016388)
-
 ---
 
 ## 2026-11-16 11:05:53
@@ -366,8 +362,6 @@ RT @AntiWokeMemes: @elonmusk Great timeline 😂 https://t.co/peznuqAnw3
 **内容**:
 
 Grok @Bot can do almost anything
-
-[查看原文](https://x.com/elonmusk/status/2122164224382447808)
 
 ---
 
@@ -379,10 +373,6 @@ Grok @Bot can do almost anything
 
 RT @punishablepress: Crazy feat of engineering https://t.co/PhNUOC7g9e
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPNmr6efqUX1sak0Gh-E2Zl7zT87AdAAIHGWsbsALRVwZUw5QmVSBXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122164455425327419)
-
 ---
 
 ## 2026-11-16 11:08:21
@@ -393,9 +383,21 @@ RT @punishablepress: Crazy feat of engineering https://t.co/PhNUOC7g9e
 
 RT @max_west07: i’m happy to answer any questions anyone has https://t.co/vpjCbBx6ou
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPNWr6efeoeAwpymZLbs6MDdQcs6CFAAIGGWsbsALRV4n6NE4LyRxFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2122164844107268542)
+## 2026-11-16 12:04:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @LukeLeisher: The lesson of Icarus is not ‘don’t fly too close to the sun’ it’s ‘make better fucking wings’ https://t.co/M9bUgk83Le
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPOWr6gTx7QgABcpCo2A76MX-dlOCkEAACSBlrG7AC0VfO7_8gqRGUiAEAAwIAA3gAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPOmr6gT6v5HJ3RFWkcoJcjJCQqwafAAJJGWsbsALRV5rJQl-Oa0p9AQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122178893297905713)
 
 ---
 
