@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4919 条推文
+> 📊 推文存档 - 共 4921 条推文
 
 ---
 
@@ -249,8 +249,6 @@ Starship V4 will be ~70m long, which is roughly a 40% length increase and allows
 
 Engine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and these will be higher thrust V4 engines.
 
-[查看原文](https://x.com/elonmusk/status/2122141019894383027)
-
 ---
 
 ## 2026-11-16 09:34:04
@@ -260,8 +258,6 @@ Engine count will be raised to 9, with 3 more Raptor-Vacuum engines added, and t
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2122141116195877155)
 
 ---
 
@@ -273,8 +269,6 @@ True
 
 That’s how it happened
 
-[查看原文](https://x.com/elonmusk/status/2122141959917842487)
-
 ---
 
 ## 2026-11-16 09:50:36
@@ -284,8 +278,6 @@ That’s how it happened
 **内容**:
 
 I have a very wide distribution of training data
-
-[查看原文](https://x.com/elonmusk/status/2122145276681220436)
 
 ---
 
@@ -297,8 +289,6 @@ I have a very wide distribution of training data
 
 RT @WR4NYGov: Jeff Bezos applied capital and engineering to the same industry with Blue Origin, starting in 2000, 2 years before Elon found…
 
-[查看原文](https://x.com/elonmusk/status/2122145343693598847)
-
 ---
 
 ## 2026-11-16 09:54:53
@@ -308,10 +298,6 @@ RT @WR4NYGov: Jeff Bezos applied capital and engineering to the same industry wi
 **内容**:
 
 Say no to crack https://t.co/uQmtL5s2yh
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPM2r6ZCnhTrVkjflSI9NSKW6Y5lJPAAJDGGsbsALRV9kQX2suYtY7AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122146355074232469)
 
 ---
 
@@ -325,7 +311,33 @@ RT @cb_doge: Joe Rogan praises Tesla FSD, saying his car drives him home at the 
 
 “I leave the club. I press a button. It…
 
-[查看原文](https://x.com/elonmusk/status/2122147070132052059)
+---
+
+## 2026-11-16 10:30:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Robotaxi life is a hard life. Tesla team empathizes with this guy. https://t.co/HE6NoyNv0r
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPNGr6a23m34AOIPFGBHPINwd-yuNBAAJ7GGsbsALRV4cqPzB0DYsnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122155440788099394)
+
+---
+
+## 2026-11-16 10:32:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Morgan Stanley’s Adam Jonas on @SpaceX successfully catching Starship on flight 15:
+
+“In our view, Flight 15 is a histor…
+
+[查看原文](https://x.com/elonmusk/status/2122155781785346141)
 
 ---
 
