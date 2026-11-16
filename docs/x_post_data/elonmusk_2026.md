@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4930 条推文
+> 📊 推文存档 - 共 4931 条推文
 
 ---
 
@@ -403,10 +403,6 @@ RT @LukeLeisher: The lesson of Icarus is not ‘don’t fly too close to the sun
 
 RT @elonmusk: @nbcsnl lol https://t.co/7vw3wS9Jm3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPO2r6iHwbOhpnViqQ-wi4pgMaUHhbAAKHGWsbsALRVxr2o9hsypbDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122179460435001423)
-
 ---
 
 ## 2026-11-16 12:18:56
@@ -416,8 +412,6 @@ RT @elonmusk: @nbcsnl lol https://t.co/7vw3wS9Jm3
 **内容**:
 
 RT @JohnLeFevre: The SpaceX engineers who caught the rocket don't write LinkedIn thought pieces about leadership.
-
-[查看原文](https://x.com/elonmusk/status/2122182607391920214)
 
 ---
 
@@ -429,7 +423,17 @@ RT @JohnLeFevre: The SpaceX engineers who caught the rocket don't write LinkedIn
 
 12 years ago
 
-[查看原文](https://x.com/elonmusk/status/2122186399575396604)
+---
+
+## 2026-11-16 12:54:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+[查看原文](https://x.com/elonmusk/status/2122191623731745133)
 
 ---
 
