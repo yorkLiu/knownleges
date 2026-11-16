@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 610 条推文
+> 📊 推文存档 - 共 611 条推文
 
 ---
 
@@ -40,11 +40,23 @@ They told clients:
 - hold less cash, trim commodities and exposure to bonds
 - move https://t.co/z9hAJuz0Xa
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPPmr62GuQvYliUO5UekMtobtRxN_IAAJrGWsbsALZV9zSsyvv5FLwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPP2r62G4ndULcW9mbTOUilyap43koAAJsGWsbsALZV5YYfPxdJDclAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-16 20:31:23
 
-[查看原文](https://x.com/aleabitoreddit/status/2122268155682996328)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I think AI is one of the few industries where investors celebrate deteriorating supply conditions.
+
+MLCC lead times are extending per new Trendforce data… now “very tight” at 40W.
+
+Content per system keeps going up as well (eg. $AMD using +632% more of a part for MI450 boards). https://t.co/o2W3esfBP4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPQGr6_L7_qoeBhjBM3U0H0B2xXjuPAAKNGmsbsALZVwABYUk-FsLsOwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122306534772519308)
 
 ---
 
