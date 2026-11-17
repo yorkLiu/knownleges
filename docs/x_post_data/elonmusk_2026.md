@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5005 条推文
+> 📊 推文存档 - 共 5007 条推文
 
 ---
 
@@ -41,10 +41,6 @@ RT @spqr_sulla: As you can see from the chart, grifting podcasters, malicious Yo
 
 RT @andst7: Bellissimo servizio su Starship da vedere e condividere! 👏🏻👏🏻 https://t.co/cY6bJl2PV6
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPamr8hRu7OQIk0I2Bw2iCPb0o_pTlAAL-HGsbos_gV8CZf7MF-JmdAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122728097455997036)
-
 ---
 
 ## 2026-11-18 00:29:10
@@ -55,8 +51,6 @@ RT @andst7: Bellissimo servizio su Starship da vedere e condividere! 👏🏻�
 
 RT @Da7_Tech: Gave the same task to Grok bot and OpenAI's Dot yesterday. Grok finished it in under 2 hours. Dot still has no clue what it's…
 
-[查看原文](https://x.com/elonmusk/status/2122728765528617279)
-
 ---
 
 ## 2026-11-18 00:29:38
@@ -66,8 +60,6 @@ RT @Da7_Tech: Gave the same task to Grok bot and OpenAI's Dot yesterday. Grok fi
 **内容**:
 
 RT @JensenHuang: Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never m…
-
-[查看原文](https://x.com/elonmusk/status/2122728883317334138)
 
 ---
 
@@ -81,8 +73,6 @@ RT @XFreeze: SpaceX just provided another $30 MILLION to help secure Brownsville
 
 That brings the total to $70 MILLION alrea…
 
-[查看原文](https://x.com/elonmusk/status/2122732511012831675)
-
 ---
 
 ## 2026-11-18 00:45:16
@@ -92,8 +82,6 @@ That brings the total to $70 MILLION alrea…
 **内容**:
 
 RT @jamesdouma: Yes! This is sorely needed.
-
-[查看原文](https://x.com/elonmusk/status/2122732817188782341)
 
 ---
 
@@ -105,7 +93,31 @@ RT @jamesdouma: Yes! This is sorely needed.
 
 Advanced solid state transformers at scale from Tesla
 
-[查看原文](https://x.com/elonmusk/status/2122733232894468308)
+---
+
+## 2026-11-18 01:44:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2122747622662222010)
+
+---
+
+## 2026-11-18 01:47:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Tesla has officially unveiled its first-ever transformer called Powercore, enabling fully off-grid data centers.
+
+• Soli…
+
+[查看原文](https://x.com/elonmusk/status/2122748468644983172)
 
 ---
 
