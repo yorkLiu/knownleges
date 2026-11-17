@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5007 条推文
+> 📊 推文存档 - 共 5008 条推文
 
 ---
 
@@ -103,8 +103,6 @@ Advanced solid state transformers at scale from Tesla
 
 Starlink saves lives
 
-[查看原文](https://x.com/elonmusk/status/2122747622662222010)
-
 ---
 
 ## 2026-11-18 01:47:28
@@ -117,7 +115,17 @@ RT @SawyerMerritt: Tesla has officially unveiled its first-ever transformer call
 
 • Soli…
 
-[查看原文](https://x.com/elonmusk/status/2122748468644983172)
+---
+
+## 2026-11-18 01:57:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Delta’s CEO said today, “We’ve been the leader in free, fast Wi-Fi,” and claimed customers don’t pick airlines based on Wi-Fi.…
+
+[查看原文](https://x.com/elonmusk/status/2122750913991631109)
 
 ---
 
