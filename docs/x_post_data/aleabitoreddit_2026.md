@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 622 条推文
+> 📊 推文存档 - 共 623 条推文
 
 ---
 
@@ -23,7 +23,23 @@ The support for Jensen is absolutely overwhelming.
 
 Can’t think of anyone else who is better suited to lead Nvidia and America’s future in AI
 
-[查看原文](https://x.com/aleabitoreddit/status/2122791681405997440)
+---
+
+## 2026-11-18 06:08:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AAOI management lost all credibility by launching another $550M ATM.
+
+Especially after it comes contrary to earlier commentary about other financing methods + share price caution.
+
+I still find AOI operationally compelling around their CPO program + optical transceiver ramp. https://t.co/baoFkSypFf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPbmr81NWrFHgFxaSe8XjIQXGlsgGVAAImHWsbos_gVxT8pions7WKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122814062329471182)
 
 ---
 
