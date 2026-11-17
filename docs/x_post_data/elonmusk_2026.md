@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4986 条推文
+> 📊 推文存档 - 共 4987 条推文
 
 ---
 
@@ -473,8 +473,6 @@ Relentless reinforcement learning must feel like Edge of Tomorrow to superintell
 
 Was good to see @lrocket &amp; @HansKoenigsmann at the first ship catch
 
-[查看原文](https://x.com/elonmusk/status/2122587577274237129)
-
 ---
 
 ## 2026-11-17 15:12:44
@@ -484,8 +482,6 @@ Was good to see @lrocket &amp; @HansKoenigsmann at the first ship catch
 **内容**:
 
 RT @yunta_tsai: Jensen was demanding of his executives, yet consistently kind and supportive to individual contributors like me. Too many c…
-
-[查看原文](https://x.com/elonmusk/status/2122588732742304147)
 
 ---
 
@@ -497,10 +493,6 @@ RT @yunta_tsai: Jensen was demanding of his executives, yet consistently kind an
 
 RT @elonmusk: @XFreeze I found a pic of “the long game” https://t.co/7UKH8JurPH
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPY2r8AlcWHg_vZy3OaxAf0Y2kXHteAALnG2sbos_gVxsJjMpSHh7RAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122589169608179783)
-
 ---
 
 ## 2026-11-17 15:24:26
@@ -511,7 +503,21 @@ RT @elonmusk: @XFreeze I found a pic of “the long game” https://t.co/7UKH8Ju
 
 RT @teslaownersSV: Grok Bot read my wife's medical records, researched the latest cancer treatments and trials, found the top specialist at…
 
-[查看原文](https://x.com/elonmusk/status/2122591679525900447)
+---
+
+## 2026-11-17 16:00:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @paranoidream: Find me when you wake up.
+
+ https://t.co/vg8yj6Gpu7
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPZGr8CZd1CTo1xIO_ruhFbdpA06kcAAMcaxuiz-BXgZyOFvT2MaMBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122600656267821308)
 
 ---
 
