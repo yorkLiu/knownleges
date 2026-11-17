@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4974 条推文
+> 📊 推文存档 - 共 4977 条推文
 
 ---
 
@@ -359,8 +359,6 @@ A snowstorm trapped…
 
 I remember
 
-[查看原文](https://x.com/elonmusk/status/2122546702112735233)
-
 ---
 
 ## 2026-11-17 12:39:03
@@ -370,8 +368,6 @@ I remember
 **内容**:
 
 RT @cb_doge: LEO BOZELL: “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nat…
-
-[查看原文](https://x.com/elonmusk/status/2122550057346249196)
 
 ---
 
@@ -385,7 +381,43 @@ RT @cb_doge: BREAKING: The Government of Burundi is rolling out 435 Starlink kit
 
 The depl…
 
-[查看原文](https://x.com/elonmusk/status/2122550109078425632)
+---
+
+## 2026-11-17 13:21:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot
+
+[查看原文](https://x.com/elonmusk/status/2122560774073901341)
+
+---
+
+## 2026-11-17 13:22:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AndrThie: If you ever wondered, what we would be doing at Giga Berlin with all the land that we have…  
+
+We are expanding! Cybercab pro…
+
+[查看原文](https://x.com/elonmusk/status/2122560875793953165)
+
+---
+
+## 2026-11-17 13:22:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gigafactories: Giga Berlin is expanding - Cybercab production is coming to Europe
+
+[查看原文](https://x.com/elonmusk/status/2122560960414278012)
 
 ---
 
