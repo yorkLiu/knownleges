@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4958 条推文
+> 📊 推文存档 - 共 4960 条推文
 
 ---
 
@@ -169,8 +169,6 @@ RT @SpaceX: Views from Mechazilla of the first ever Starship catch https://t.co/
 
 RT @Jason: Week two of moving the entire team to @bot: multiple team members burned their credits and asked to level up to the $100 plan —…
 
-[查看原文](https://x.com/elonmusk/status/2122495920181039523)
-
 ---
 
 ## 2026-11-17 09:04:50
@@ -180,8 +178,6 @@ RT @Jason: Week two of moving the entire team to @bot: multiple team members bur
 **内容**:
 
 💯😂
-
-[查看原文](https://x.com/elonmusk/status/2122496146538946784)
 
 ---
 
@@ -193,8 +189,6 @@ RT @Jason: Week two of moving the entire team to @bot: multiple team members bur
 
 RT @DJSnM: For the people who are desperate to act like recovering Starship is some kind of nothingburger because the Space Shuttle was kin…
 
-[查看原文](https://x.com/elonmusk/status/2122496246183317599)
-
 ---
 
 ## 2026-11-17 09:14:35
@@ -204,10 +198,6 @@ RT @DJSnM: For the people who are desperate to act like recovering Starship is s
 **内容**:
 
 RT @Starlink: Catching a Starship with Mini 2 → https://t.co/UirXPKXYHa https://t.co/mmDrFNvhA6
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPUWr7qyUxyvYlw2K08I2lQRJaw52nAAKsH2sbsALZV7e852--03u-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122498602404819262)
 
 ---
 
@@ -219,7 +209,43 @@ RT @Starlink: Catching a Starship with Mini 2 → https://t.co/UirXPKXYHa https:
 
 RT @_MaxQ_: there's something immensely satisfying about the way 42 walks its way into the sticks, then sinking into the landing rails and…
 
-[查看原文](https://x.com/elonmusk/status/2122498712656036252)
+---
+
+## 2026-11-17 09:43:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RapidResponse47: .@NASAAdmin on @SpaceX's Starship catch: "This really changes everything." https://t.co/p4qiUjEaVA
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPWGr7snlk4XJ-ohM7hMIz8O9uF60OAAKOIGsbsALZVyKCgRZHj56TAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122505761838563426)
+
+---
+
+## 2026-11-17 09:43:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Starship 42 back on Earth https://t.co/OEkFHSM5GJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPUmr7smhK0YfWdtNHS4YqQZAQVQ0qAAKHIGsbsALZV5G7X1XcXys2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPU2r7smwzqwqdVos2FyVralTPrOTJAAKJIGsbsALZV4SjW7AMrORbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPVGr7sm_EUGAP_7gUIEGNaxs-iGsWAAKKIGsbsALZVzrGC8hZTj_1AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPVWr7snKPo5OgPVWMkPcNfxXB47_MAAKLIGsbsALZV6wD1KitgIHdAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPVmr7snVzOTMslf7OQtkxlargu_OQAAKMIGsbsALZV6dmFED3NdbsAQADAgADeQADPQQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPV2r7snf5mChkjbsFnvc3W6izkIMpAAKNIGsbsALZV-2CJMx9-jEKAQADAgADeQADPQQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122505984224735409)
 
 ---
 
