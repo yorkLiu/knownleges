@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4982 条推文
+> 📊 推文存档 - 共 4986 条推文
 
 ---
 
@@ -433,8 +433,6 @@ RT @JasonBud: Grok @bot will do whatever it takes to get a task done for you, ev
 
 How can Grok @Bot be more helpful?
 
-[查看原文](https://x.com/elonmusk/status/2122572107116642664)
-
 ---
 
 ## 2026-11-17 14:11:25
@@ -444,10 +442,6 @@ How can Grok @Bot be more helpful?
 **内容**:
 
 RT @Cyber_Trailer: FSD knowledge is slowly matriculating down to the dumbest members of society. https://t.co/ey70TbX4nv
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPYWr78849utPAlhXttUy5tKSxOvL5AALAFmsbsALhV8S3G7reUc11AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122573303994896678)
 
 ---
 
@@ -459,10 +453,6 @@ RT @Cyber_Trailer: FSD knowledge is slowly matriculating down to the dumbest mem
 
 Starship 42 https://t.co/qcnoZ74uXS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPYGr788uX6NLNAV-HIAc9coCOXXJVAAK_FmsbsALhV5hJ2eZeYncuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122576221846253837)
-
 ---
 
 ## 2026-11-17 14:26:47
@@ -473,7 +463,55 @@ Starship 42 https://t.co/qcnoZ74uXS
 
 Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence
 
-[查看原文](https://x.com/elonmusk/status/2122577169863885235)
+---
+
+## 2026-11-17 15:08:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Was good to see @lrocket &amp; @HansKoenigsmann at the first ship catch
+
+[查看原文](https://x.com/elonmusk/status/2122587577274237129)
+
+---
+
+## 2026-11-17 15:12:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: Jensen was demanding of his executives, yet consistently kind and supportive to individual contributors like me. Too many c…
+
+[查看原文](https://x.com/elonmusk/status/2122588732742304147)
+
+---
+
+## 2026-11-17 15:14:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @XFreeze I found a pic of “the long game” https://t.co/7UKH8JurPH
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPY2r8AlcWHg_vZy3OaxAf0Y2kXHteAALnG2sbos_gVxsJjMpSHh7RAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122589169608179783)
+
+---
+
+## 2026-11-17 15:24:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Grok Bot read my wife's medical records, researched the latest cancer treatments and trials, found the top specialist at…
+
+[查看原文](https://x.com/elonmusk/status/2122591679525900447)
 
 ---
 
