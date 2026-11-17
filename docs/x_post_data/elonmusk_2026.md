@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4970 条推文
+> 📊 推文存档 - 共 4971 条推文
 
 ---
 
@@ -239,12 +239,6 @@ RT @SpaceX: Starship 42 back on Earth https://t.co/OEkFHSM5GJ
 
 RT @ArthurMacwaters: only 2,670 **days** between these two photos https://t.co/mHHjDpt1oX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPW2r7ubPxS8dIlng3NL3Feh3naY4VAALFIGsbsALZV3N5OLBKB51iAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPXGr7ubVY6TCII0GLW-rs6MLwMr2vAALGIGsbsALZV_luqrgBrThjAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122507279794938197)
-
 ---
 
 ## 2026-11-17 09:49:12
@@ -254,10 +248,6 @@ RT @ArthurMacwaters: only 2,670 **days** between these two photos https://t.co/m
 **内容**:
 
 RT @bot: Every driver needs their crew. https://t.co/mJ9AJ1CgiG
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPWmr7ubAoLYHUOSLiB2CDl3z8GIU5AALEIGsbsALZV53q2djy6k2gAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122507314469208511)
 
 ---
 
@@ -271,8 +261,6 @@ RT @XFreeze: Deep in the Amazon rainforest, MrBeast was still connected to the w
 
 In his video, he used S…
 
-[查看原文](https://x.com/elonmusk/status/2122507521185214633)
-
 ---
 
 ## 2026-11-17 10:00:32
@@ -282,8 +270,6 @@ In his video, he used S…
 **内容**:
 
 RT @cb_doge: SpaceXSI’s Colossus I is helping fund $3.26 million in home repairs, paid local jobs and neighborhood improvements in South Me…
-
-[查看原文](https://x.com/elonmusk/status/2122510166876987419)
 
 ---
 
@@ -297,8 +283,6 @@ RT @firesidealpha: Dylan Patel says all of Elon Musk’s data centers 'use less 
 
 Dylan Patel: “If done improperly…
 
-[查看原文](https://x.com/elonmusk/status/2122510367267905683)
-
 ---
 
 ## 2026-11-17 10:03:34
@@ -308,8 +292,6 @@ Dylan Patel: “If done improperly…
 **内容**:
 
 RT @Devon_Eriksen_: A lot of people have real trouble thinking about the aggregate behavior of groups. They can only think about individual…
-
-[查看原文](https://x.com/elonmusk/status/2122510927350415598)
 
 ---
 
@@ -323,8 +305,6 @@ RT @cb_doge: NASA chief Jared Isaacman after SpaceX’s Starship catch: “This 
 
 “They’re doing all of this for a…
 
-[查看原文](https://x.com/elonmusk/status/2122510968253264191)
-
 ---
 
 ## 2026-11-17 10:04:28
@@ -334,8 +314,6 @@ RT @cb_doge: NASA chief Jared Isaacman after SpaceX’s Starship catch: “This 
 **内容**:
 
 😂
-
-[查看原文](https://x.com/elonmusk/status/2122511154455134253)
 
 ---
 
@@ -349,8 +327,6 @@ RT @RealOtisCrune: For many on the left, SpaceX exists in a bizzare quantum supe
 
 SpaceX is simultaneousl…
 
-[查看原文](https://x.com/elonmusk/status/2122511202865844349)
-
 ---
 
 ## 2026-11-17 10:08:13
@@ -361,9 +337,19 @@ SpaceX is simultaneousl…
 
 RT @BrendanCarrFCC: https://t.co/y55PmW52zY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPWWr7ua5FG-tOK4vPNrn9oqQHqyCsAALDIGsbsALZV9Am-SIah1tqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2122512097720316361)
+## 2026-11-17 12:21:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink helped rescue teams bring 211 stranded tourists to safety in Argentina’s remote mountains. ❤️🇦🇷
+
+A snowstorm trapped…
+
+[查看原文](https://x.com/elonmusk/status/2122545705067872753)
 
 ---
 
