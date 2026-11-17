@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4987 条推文
+> 📊 推文存档 - 共 4990 条推文
 
 ---
 
@@ -515,9 +515,41 @@ RT @paranoidream: Find me when you wake up.
 
  https://t.co/vg8yj6Gpu7
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPZGr8CZd1CTo1xIO_ruhFbdpA06kcAAMcaxuiz-BXgZyOFvT2MaMBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2122600656267821308)
+## 2026-11-17 16:00:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: This video was made entirely using @Cyborg21's neuralink implant
+
+[查看原文](https://x.com/elonmusk/status/2122600786404442130)
+
+---
+
+## 2026-11-17 16:01:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Cyber-Inception
+
+[查看原文](https://x.com/elonmusk/status/2122600952096280785)
+
+---
+
+## 2026-11-17 16:01:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: As a teenager, Elon Musk went through an existential crisis, reading religion and philosophy in search of the meaning of life…
+
+[查看原文](https://x.com/elonmusk/status/2122601053111677107)
 
 ---
 
