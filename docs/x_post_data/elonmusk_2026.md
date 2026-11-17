@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4991 条推文
+> 📊 推文存档 - 共 4997 条推文
 
 ---
 
@@ -555,7 +555,83 @@ RT @XFreeze: As a teenager, Elon Musk went through an existential crisis, readin
 
 RT @IterIntellectus: south africa is one of the few countries in the world that still explicitly discriminates based on race through its la…
 
-[查看原文](https://x.com/elonmusk/status/2122670163157995633)
+---
+
+## 2026-11-17 20:50:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: South Korea’s Jin Air to introduce FREE Starlink Wi-Fi next month. 
+
+Boeing 737-8 jets will be equipped first, bring…
+
+[查看原文](https://x.com/elonmusk/status/2122673756091085286)
+
+---
+
+## 2026-11-17 20:54:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CNBC: Analysts are awed by SpaceX's Starship catch. Here's why https://t.co/Fql5LIBmVx
+
+[查看原文](https://x.com/elonmusk/status/2122674642347508099)
+
+---
+
+## 2026-11-17 21:00:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RonDeSantis: Thomas Jefferson and John Adams met the Tripoli Ambassador in London and asked why Muslims were attacking nations who had…
+
+[查看原文](https://x.com/elonmusk/status/2122676371654893569)
+
+---
+
+## 2026-11-17 21:01:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Texas A&amp;M’s $205.5 million semiconductor project will help train America’s next generation of chipmakers for Terafab…
+
+[查看原文](https://x.com/elonmusk/status/2122676485651599457)
+
+---
+
+## 2026-11-17 21:05:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ZhouTalks: 最近硅谷两大佬因为马斯克吵翻了，结果老马亲自下场，一句话把全网看乐了。
+
+先是著名反垄断评论家 Matt 泼冷水：SpaceX 算什么奇迹？马斯克根本不是天才，无非是会找华尔街搞钱，用钞票和工程师硬堆出来的。
+
+这话连平时谁都不服的硅谷传奇程序员…
+
+[查看原文](https://x.com/elonmusk/status/2122677456293536113)
+
+---
+
+## 2026-11-17 21:10:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TeslaLarry: The first two features Matt Palmer walks through in his What's new in Grok Bot 1.0 video this morning, Team Bot improvement…
+
+[查看原文](https://x.com/elonmusk/status/2122678657944797635)
 
 ---
 
