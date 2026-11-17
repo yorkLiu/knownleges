@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4978 条推文
+> 📊 推文存档 - 共 4982 条推文
 
 ---
 
@@ -423,7 +423,57 @@ RT @gigafactories: Giga Berlin is expanding - Cybercab production is coming to E
 
 RT @JasonBud: Grok @bot will do whatever it takes to get a task done for you, even make a phone call.
 
-[查看原文](https://x.com/elonmusk/status/2122569434158002642)
+---
+
+## 2026-11-17 14:06:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+How can Grok @Bot be more helpful?
+
+[查看原文](https://x.com/elonmusk/status/2122572107116642664)
+
+---
+
+## 2026-11-17 14:11:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Cyber_Trailer: FSD knowledge is slowly matriculating down to the dumbest members of society. https://t.co/ey70TbX4nv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPYWr78849utPAlhXttUy5tKSxOvL5AALAFmsbsALhV8S3G7reUc11AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122573303994896678)
+
+---
+
+## 2026-11-17 14:23:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starship 42 https://t.co/qcnoZ74uXS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPYGr788uX6NLNAV-HIAc9coCOXXJVAAK_FmsbsALhV5hJ2eZeYncuAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122576221846253837)
+
+---
+
+## 2026-11-17 14:26:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Relentless reinforcement learning must feel like Edge of Tomorrow to superintelligence
+
+[查看原文](https://x.com/elonmusk/status/2122577169863885235)
 
 ---
 
