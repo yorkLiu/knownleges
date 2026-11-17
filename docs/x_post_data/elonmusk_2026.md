@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4953 条推文
+> 📊 推文存档 - 共 4958 条推文
 
 ---
 
@@ -139,8 +139,6 @@ Tesla will invest €3 billion to expand Giga Be…
 
 Starlink
 
-[查看原文](https://x.com/elonmusk/status/2122471820712660999)
-
 ---
 
 ## 2026-11-17 07:30:15
@@ -150,8 +148,6 @@ Starlink
 **内容**:
 
 View of Starship landing from the tower
-
-[查看原文](https://x.com/elonmusk/status/2122472344052531640)
 
 ---
 
@@ -163,11 +159,67 @@ View of Starship landing from the tower
 
 RT @SpaceX: Views from Mechazilla of the first ever Starship catch https://t.co/mcoWaqnkaU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPTGr7lVdOUOwQgP896yvfhnDXbM5rAAL5HmsbsALZVzEJfjOEQAJqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPTWr7lVr1w2tem05ds4nX_hwmueseAAL6HmsbsALZVwpfIsuQu4DeAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-17 09:03:56
 
-[查看原文](https://x.com/elonmusk/status/2122472372552749426)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Jason: Week two of moving the entire team to @bot: multiple team members burned their credits and asked to level up to the $100 plan —…
+
+[查看原文](https://x.com/elonmusk/status/2122495920181039523)
+
+---
+
+## 2026-11-17 09:04:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+💯😂
+
+[查看原文](https://x.com/elonmusk/status/2122496146538946784)
+
+---
+
+## 2026-11-17 09:05:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DJSnM: For the people who are desperate to act like recovering Starship is some kind of nothingburger because the Space Shuttle was kin…
+
+[查看原文](https://x.com/elonmusk/status/2122496246183317599)
+
+---
+
+## 2026-11-17 09:14:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Starlink: Catching a Starship with Mini 2 → https://t.co/UirXPKXYHa https://t.co/mmDrFNvhA6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPUWr7qyUxyvYlw2K08I2lQRJaw52nAAKsH2sbsALZV7e852--03u-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122498602404819262)
+
+---
+
+## 2026-11-17 09:15:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @_MaxQ_: there's something immensely satisfying about the way 42 walks its way into the sticks, then sinking into the landing rails and…
+
+[查看原文](https://x.com/elonmusk/status/2122498712656036252)
 
 ---
 
