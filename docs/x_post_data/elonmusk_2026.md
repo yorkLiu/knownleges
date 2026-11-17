@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4990 条推文
+> 📊 推文存档 - 共 4991 条推文
 
 ---
 
@@ -525,8 +525,6 @@ RT @paranoidream: Find me when you wake up.
 
 RT @anabology: This video was made entirely using @Cyborg21's neuralink implant
 
-[查看原文](https://x.com/elonmusk/status/2122600786404442130)
-
 ---
 
 ## 2026-11-17 16:01:17
@@ -536,8 +534,6 @@ RT @anabology: This video was made entirely using @Cyborg21's neuralink implant
 **内容**:
 
 Cyber-Inception
-
-[查看原文](https://x.com/elonmusk/status/2122600952096280785)
 
 ---
 
@@ -549,7 +545,17 @@ Cyber-Inception
 
 RT @XFreeze: As a teenager, Elon Musk went through an existential crisis, reading religion and philosophy in search of the meaning of life…
 
-[查看原文](https://x.com/elonmusk/status/2122601053111677107)
+---
+
+## 2026-11-17 20:36:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @IterIntellectus: south africa is one of the few countries in the world that still explicitly discriminates based on race through its la…
+
+[查看原文](https://x.com/elonmusk/status/2122670163157995633)
 
 ---
 
