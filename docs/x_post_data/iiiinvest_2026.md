@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 269 条推文
+> 📊 推文存档 - 共 270 条推文
 
 ---
 
@@ -49,9 +49,19 @@ tags: ["2026"]
 
 如计划，先打了 20000 SOXL，会择机再加点。虽千万人，吾往矣！ https://t.co/iMkctd0PNL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPX2r7z3rpZJzKoUfgPAT3zC5qD850AAKMIWsbsALZV6KQGwhQBvvWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2122531593369895275)
+## 2026-11-17 17:36:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+慌个几把，看到我怎么写的了吗？
+
+11月5日低点止损，不然干就完了。今晚就是干的时候，要么你赌下去，我现在赌反弹。就这么简单！
+
+[查看原文](https://x.com/iiiinvest/status/2122625030660247711)
 
 ---
 

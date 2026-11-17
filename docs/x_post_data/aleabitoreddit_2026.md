@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 619 条推文
+> 📊 推文存档 - 共 620 条推文
 
 ---
 
@@ -127,9 +127,23 @@ If you're going to invest in $ANT IPO.
 
 That being said $SPCX changing passive index rules changes a lot of dynamics for mega-US IPOs. https://t.co/tX0LQn9sdo
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPZWr8H2MSiyuaTIg_8JS4ODY76AtFAAIiHGsbos_gV-mZrCibnGdBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2122623882993795127)
+## 2026-11-17 17:52:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. 
+
+That they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. 
+
+This is positive on regarding memory demand visibility, no price https://t.co/DoARu2DgKL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPZmr8JqoFvy8WRvexy8S-qANcTjvVAAItHGsbos_gV0vPN8PeTPyPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122628849657954454)
 
 ---
 
