@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4977 条推文
+> 📊 推文存档 - 共 4978 条推文
 
 ---
 
@@ -391,8 +391,6 @@ The depl…
 
 Grok @Bot
 
-[查看原文](https://x.com/elonmusk/status/2122560774073901341)
-
 ---
 
 ## 2026-11-17 13:22:02
@@ -405,8 +403,6 @@ RT @AndrThie: If you ever wondered, what we would be doing at Giga Berlin with a
 
 We are expanding! Cybercab pro…
 
-[查看原文](https://x.com/elonmusk/status/2122560875793953165)
-
 ---
 
 ## 2026-11-17 13:22:22
@@ -417,7 +413,17 @@ We are expanding! Cybercab pro…
 
 RT @gigafactories: Giga Berlin is expanding - Cybercab production is coming to Europe
 
-[查看原文](https://x.com/elonmusk/status/2122560960414278012)
+---
+
+## 2026-11-17 13:56:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JasonBud: Grok @bot will do whatever it takes to get a task done for you, even make a phone call.
+
+[查看原文](https://x.com/elonmusk/status/2122569434158002642)
 
 ---
 
