@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4971 条推文
+> 📊 推文存档 - 共 4974 条推文
 
 ---
 
@@ -349,7 +349,43 @@ RT @cb_doge: Starlink helped rescue teams bring 211 stranded tourists to safety 
 
 A snowstorm trapped…
 
-[查看原文](https://x.com/elonmusk/status/2122545705067872753)
+---
+
+## 2026-11-17 12:25:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I remember
+
+[查看原文](https://x.com/elonmusk/status/2122546702112735233)
+
+---
+
+## 2026-11-17 12:39:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: LEO BOZELL: “Everyone would agree that Starlink is a great idea for South Africa. Starlink is a great idea in every single nat…
+
+[查看原文](https://x.com/elonmusk/status/2122550057346249196)
+
+---
+
+## 2026-11-17 12:39:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: The Government of Burundi is rolling out 435 Starlink kits to connect rural schools and health centers. 🇧🇮
+
+The depl…
+
+[查看原文](https://x.com/elonmusk/status/2122550109078425632)
 
 ---
 
