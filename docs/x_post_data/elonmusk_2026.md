@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4997 条推文
+> 📊 推文存档 - 共 4999 条推文
+
+---
+
+## 2026-11-18 00:10:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GoodPartsOnly: A SpaceX competitor explains just how impossible it is to achieve what Elon has.
+
+Rocket Lab CEO Peter Beck once said re…
+
+[查看原文](https://x.com/elonmusk/status/2122724090427633763)
+
+---
+
+## 2026-11-18 00:15:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @spqr_sulla: As you can see from the chart, grifting podcasters, malicious YouTube algorithm, and illegal memes have caused young men to…
+
+[查看原文](https://x.com/elonmusk/status/2122725439936602142)
 
 ---
 
