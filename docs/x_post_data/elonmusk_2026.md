@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 4960 条推文
+> 📊 推文存档 - 共 4970 条推文
 
 ---
 
@@ -219,10 +219,6 @@ RT @_MaxQ_: there's something immensely satisfying about the way 42 walks its wa
 
 RT @RapidResponse47: .@NASAAdmin on @SpaceX's Starship catch: "This really changes everything." https://t.co/p4qiUjEaVA
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPWGr7snlk4XJ-ohM7hMIz8O9uF60OAAKOIGsbsALZVyKCgRZHj56TAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2122505761838563426)
-
 ---
 
 ## 2026-11-17 09:43:55
@@ -233,19 +229,141 @@ RT @RapidResponse47: .@NASAAdmin on @SpaceX's Starship catch: "This really chang
 
 RT @SpaceX: Starship 42 back on Earth https://t.co/OEkFHSM5GJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPUmr7smhK0YfWdtNHS4YqQZAQVQ0qAAKHIGsbsALZV5G7X1XcXys2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPU2r7smwzqwqdVos2FyVralTPrOTJAAKJIGsbsALZV4SjW7AMrORbAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-17 09:49:04
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPVGr7sm_EUGAP_7gUIEGNaxs-iGsWAAKKIGsbsALZVzrGC8hZTj_1AQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPVWr7snKPo5OgPVWMkPcNfxXB47_MAAKLIGsbsALZV6wD1KitgIHdAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPVmr7snVzOTMslf7OQtkxlargu_OQAAKMIGsbsALZV6dmFED3NdbsAQADAgADeQADPQQ.jpg" alt="图片 5" style="max-width:100%;border-radius:8px;margin:8px 0;">
+RT @ArthurMacwaters: only 2,670 **days** between these two photos https://t.co/mHHjDpt1oX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPV2r7snf5mChkjbsFnvc3W6izkIMpAAKNIGsbsALZV-2CJMx9-jEKAQADAgADeQADPQQ.jpg" alt="图片 6" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPW2r7ubPxS8dIlng3NL3Feh3naY4VAALFIGsbsALZV3N5OLBKB51iAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
 
-[查看原文](https://x.com/elonmusk/status/2122505984224735409)
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPXGr7ubVY6TCII0GLW-rs6MLwMr2vAALGIGsbsALZV_luqrgBrThjAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122507279794938197)
+
+---
+
+## 2026-11-17 09:49:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Every driver needs their crew. https://t.co/mJ9AJ1CgiG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPWmr7ubAoLYHUOSLiB2CDl3z8GIU5AALEIGsbsALZV53q2djy6k2gAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122507314469208511)
+
+---
+
+## 2026-11-17 09:50:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Deep in the Amazon rainforest, MrBeast was still connected to the whole world, all thanks to Starlink
+
+In his video, he used S…
+
+[查看原文](https://x.com/elonmusk/status/2122507521185214633)
+
+---
+
+## 2026-11-17 10:00:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: SpaceXSI’s Colossus I is helping fund $3.26 million in home repairs, paid local jobs and neighborhood improvements in South Me…
+
+[查看原文](https://x.com/elonmusk/status/2122510166876987419)
+
+---
+
+## 2026-11-17 10:01:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Dylan Patel says all of Elon Musk’s data centers 'use less water than three In-N-Outs'
+
+Dylan Patel: “If done improperly…
+
+[查看原文](https://x.com/elonmusk/status/2122510367267905683)
+
+---
+
+## 2026-11-17 10:03:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Devon_Eriksen_: A lot of people have real trouble thinking about the aggregate behavior of groups. They can only think about individual…
+
+[查看原文](https://x.com/elonmusk/status/2122510927350415598)
+
+---
+
+## 2026-11-17 10:03:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: NASA chief Jared Isaacman after SpaceX’s Starship catch: “This really changes everything.” 
+
+“They’re doing all of this for a…
+
+[查看原文](https://x.com/elonmusk/status/2122510968253264191)
+
+---
+
+## 2026-11-17 10:04:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+[查看原文](https://x.com/elonmusk/status/2122511154455134253)
+
+---
+
+## 2026-11-17 10:04:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RealOtisCrune: For many on the left, SpaceX exists in a bizzare quantum superposition of cognitive dissonance.
+
+SpaceX is simultaneousl…
+
+[查看原文](https://x.com/elonmusk/status/2122511202865844349)
+
+---
+
+## 2026-11-17 10:08:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BrendanCarrFCC: https://t.co/y55PmW52zY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPWWr7ua5FG-tOK4vPNrn9oqQHqyCsAALDIGsbsALZV9Am-SIah1tqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122512097720316361)
 
 ---
 
