@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 492 条推文
+> 📊 推文存档 - 共 493 条推文
 
 ---
 
@@ -21,10 +21,6 @@ tags: ["2026"]
 如果闪迪真100%回购，
 这几把毛应该是再往下难了吧。 https://t.co/avlTFDTtIs
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPaWr8fd1kxt95oDft0C3RRhnRGVIxAALuHGsbos_gVxkWJ1CWFJIxAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/xiaomustock/status/2122724364584161784)
-
 ---
 
 ## 2026-11-18 00:14:16
@@ -37,9 +33,21 @@ tags: ["2026"]
 现在持仓就怕盘后英伟达财报的下季度指引出问题，万一增长跟不上ai交易的想象力，
 那全场完蛋。 https://t.co/dtkSdGsEBx
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPaGr8fdptUb-Hx2iLQRD3gMJf7XLwAALtHGsbos_gVz8zwca_YJOSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2122725012700627369)
+## 2026-11-18 01:14:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+拉闪迪吧，救救孩子。
+闪迪董事会赶紧把那没用的100亿回购批了吧。
+都跌成啥逼样了。股票➕币里面的总共干了1.2万股闪迪正股，成本766。 https://t.co/9ecCMiZ3WM
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPa2r8jF9CrNnKAVcbzdtI5X60BHdKAAIDHWsbos_gV-fav3aTm6TbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2122740257825419382)
 
 ---
 
