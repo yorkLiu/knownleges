@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 617 条推文
+> 📊 推文存档 - 共 618 条推文
 
 ---
 
@@ -97,11 +97,27 @@ Prompting rationing over inference usage and tighter restrictions (input limit, 
 
 Believe it or not, compute shortages are a bullish signal for AI infra demand https://t.co/SoAvB3S1JW
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPT2r7o-DHBJoOS08GQVpCScDht5TpAAJ2H2sbsALZV6ltUft3ucw8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPUGr7o-R1JxH8-azkzDMqX-CKeDkJAAJ3H2sbsALZV5_NmMLjcxcnAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-17 10:36:19
 
-[查看原文](https://x.com/aleabitoreddit/status/2122485440469241998)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.
+
+- Fully autonomous vulnerability exploitation is now happening
+
+- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive frameworks
+
+- AI is collapsing the https://t.co/MCJa9MUoaU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPXWr7wPJZKGRaEWN2N3A1XP5KyWi9AAITIWsbsALZV7myIEJp4gaYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPXmr7wPXeVa-U4o4uVzKmZEDgmPN2AAIVIWsbsALZV350L_WRl0RtAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122519172664209692)
 
 ---
 
