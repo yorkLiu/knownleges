@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 620 条推文
+> 📊 推文存档 - 共 621 条推文
 
 ---
 
@@ -141,9 +141,23 @@ That they've approached Samsung Electronics for DRAM supply LTAs. Contracts are 
 
 This is positive on regarding memory demand visibility, no price https://t.co/DoARu2DgKL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPZmr8JqoFvy8WRvexy8S-qANcTjvVAAItHGsbos_gV0vPN8PeTPyPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2122628849657954454)
+## 2026-11-17 19:59:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  
+
+Despite opposition from hyperscalers like $AMZN to solana:GooGLMvZtJZXHdNZy95RUrAMCCKxV6ghK3qE5ddBgVm5
+
+This move benefits Western optical https://t.co/gScizE9ot4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPZ2r8Q7hKJGKMvWU_RuTaEP1GaG-CAAJ8HGsbos_gV3F00rx_nBeQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122660925488718046)
 
 ---
 
