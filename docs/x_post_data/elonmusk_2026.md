@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5008 条推文
+> 📊 推文存档 - 共 5013 条推文
 
 ---
 
@@ -125,7 +125,83 @@ RT @SawyerMerritt: Tesla has officially unveiled its first-ever transformer call
 
 RT @cb_doge: Delta’s CEO said today, “We’ve been the leader in free, fast Wi-Fi,” and claimed customers don’t pick airlines based on Wi-Fi.…
 
-[查看原文](https://x.com/elonmusk/status/2122750913991631109)
+---
+
+## 2026-11-18 02:21:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pbeisel: Not "pretty darn close".
+
+Starlink: 
+~100 Mbps down
+~20 Mbps up, 
+Latency ~30 ms
+
+ViaSat: 
+~`10 Mbps down 
+~2 Mbps up
+Latency…
+
+[查看原文](https://x.com/elonmusk/status/2122757100434780301)
+
+---
+
+## 2026-11-18 02:23:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @techdevnotes: SpaceXSI has released a blog: Building an accounting team with Grok Bot https://t.co/rF46JJb0Zm
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPbWr8oi7zRaKa_4I6yGtNhfWucbEeAAIdHWsbos_gV2-ePj0Y3gaaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122757555030241324)
+
+---
+
+## 2026-11-18 02:31:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AJamesMcCarthy: I combined 15 of my launch/catch photos to create this: A composite image telling the story of this historic event.
+
+I…
+
+[查看原文](https://x.com/elonmusk/status/2122759422799958111)
+
+---
+
+## 2026-11-18 02:33:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla: Tesla’s Annual Meeting is coming up on December 3 &amp; we need your vote
+
+Voting is quick &amp; easy – you can vote online, by mail, by…
+
+[查看原文](https://x.com/elonmusk/status/2122759967413567648)
+
+---
+
+## 2026-11-18 02:48:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MAGAGEM1: Socialism vs Capitalism https://t.co/bQIAK1ujyu
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPbGr8oivNr80POGWai4cYk-GkzO3EAAIcHWsbos_gV4r5IKoPHQViAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122763840735862889)
 
 ---
 
