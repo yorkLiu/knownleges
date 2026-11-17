@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 616 条推文
+> 📊 推文存档 - 共 617 条推文
 
 ---
 
@@ -83,9 +83,25 @@ Even if my ideas don’t perform well short term, I’d rather continue sharing 
 
 Than treat audiences as something to monetize behind high paywalls or $10K+ / promo https://t.co/73hKtWtXA8
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPTmr7lV2HxOZQW9IOMFP5UnG6wUvOAAL8HmsbsALZVy7GD2bNQcUeAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2122471739238350876)
+## 2026-11-17 08:22:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+DeepSeek is now restricting users due to “insufficient compute capacity”.
+
+Prompting rationing over inference usage and tighter restrictions (input limit, conversation history) per Cailian 
+
+Believe it or not, compute shortages are a bullish signal for AI infra demand https://t.co/SoAvB3S1JW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPT2r7o-DHBJoOS08GQVpCScDht5TpAAJ2H2sbsALZV6ltUft3ucw8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPUGr7o-R1JxH8-azkzDMqX-CKeDkJAAJ3H2sbsALZV5_NmMLjcxcnAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122485440469241998)
 
 ---
 
