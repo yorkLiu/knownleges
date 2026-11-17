@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 621 条推文
+> 📊 推文存档 - 共 622 条推文
+
+---
+
+## 2026-11-18 04:39:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Jensen’s first public statement since leaving $NVDA.
+
+The support for Jensen is absolutely overwhelming.
+
+Can’t think of anyone else who is better suited to lead Nvidia and America’s future in AI
+
+[查看原文](https://x.com/aleabitoreddit/status/2122791681405997440)
 
 ---
 
