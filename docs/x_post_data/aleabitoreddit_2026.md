@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 618 条推文
+> 📊 推文存档 - 共 619 条推文
 
 ---
 
@@ -113,11 +113,23 @@ $GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived�
 
 - AI is collapsing the https://t.co/MCJa9MUoaU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPXWr7wPJZKGRaEWN2N3A1XP5KyWi9AAITIWsbsALZV7myIEJp4gaYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPXmr7wPXeVa-U4o4uVzKmZEDgmPN2AAIVIWsbsALZV350L_WRl0RtAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-17 17:32:24
 
-[查看原文](https://x.com/aleabitoreddit/status/2122519172664209692)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Just putting this out there, try not to look at Minimax (HKG: 0100) IPO chart...
+
+If you're going to invest in $ANT IPO. 
+
+That being said $SPCX changing passive index rules changes a lot of dynamics for mega-US IPOs. https://t.co/tX0LQn9sdo
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPZWr8H2MSiyuaTIg_8JS4ODY76AtFAAIiHGsbos_gV-mZrCibnGdBAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2122623882993795127)
 
 ---
 
