@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5043 条推文
+> 📊 推文存档 - 共 5046 条推文
 
 ---
 
@@ -501,8 +501,6 @@ RT @TheCaptainEli: While critics focus on turnover, look at the senior leaders w
 
 • Gwynn…
 
-[查看原文](https://x.com/elonmusk/status/2122995304857538560)
-
 ---
 
 ## 2026-11-18 18:08:54
@@ -513,7 +511,43 @@ RT @TheCaptainEli: While critics focus on turnover, look at the senior leaders w
 
 Prufrock
 
-[查看原文](https://x.com/elonmusk/status/2122995454560587952)
+---
+
+## 2026-11-18 18:55:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It only gets better from here
+
+[查看原文](https://x.com/elonmusk/status/2123007193918398527)
+
+---
+
+## 2026-11-18 18:56:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @OPteemyst: 5 years ago a SpaceX worker gave Elon a hug and told him "We gonna make it"
+
+And made it, we did! Starship came home &amp; Elon…
+
+[查看原文](https://x.com/elonmusk/status/2123007327049769189)
+
+---
+
+## 2026-11-18 19:05:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Prufrock is perfectly named
+
+[查看原文](https://x.com/elonmusk/status/2123009640925663305)
 
 ---
 
