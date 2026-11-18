@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5025 条推文
+> 📊 推文存档 - 共 5032 条推文
 
 ---
 
@@ -285,8 +285,6 @@ RT @cb_doge: BREAKING: SpaceX CFO Bret Johnsen says SpaceX is spending hundreds 
 
 Grok @Bot can do your accounting
 
-[查看原文](https://x.com/elonmusk/status/2122891480729829482)
-
 ---
 
 ## 2026-11-18 11:16:11
@@ -296,8 +294,6 @@ Grok @Bot can do your accounting
 **内容**:
 
 RT @cb_doge: BREAKING: SpaceX CFO Bret Johnsen shares a heartwarming story of Gwynne Shotwell’s visit to Brazil and how @Starlink changed t…
-
-[查看原文](https://x.com/elonmusk/status/2122891591191089627)
 
 ---
 
@@ -311,8 +307,6 @@ RT @wintonARK: relative to our (aggressive) expectations
 
 Starship landed on its 2nd commercial flight (we were expecting 6th at the midpoi…
 
-[查看原文](https://x.com/elonmusk/status/2122892116271808703)
-
 ---
 
 ## 2026-11-18 11:29:45
@@ -323,7 +317,93 @@ Starship landed on its 2nd commercial flight (we were expecting 6th at the midpo
 
 RT @cb_doge: BREAKING: SpaceX just confirmed that the heat shield tile MrBeast signed and installed on Ship 42 is intact. Even his signatur…
 
-[查看原文](https://x.com/elonmusk/status/2122895004045861065)
+---
+
+## 2026-11-18 11:38:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @larsencc: I work on @bot
+
+Tag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good…
+
+[查看原文](https://x.com/elonmusk/status/2122897194298839338)
+
+---
+
+## 2026-11-18 11:39:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceXAIMemphis: SpaceXSI is committed to helping build and grow the communities our employees live and work in for the better. This in…
+
+[查看原文](https://x.com/elonmusk/status/2122897352726131188)
+
+---
+
+## 2026-11-18 11:39:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MdeZegher: Big push underway from the US Supercharger team to open new sites before Thanksgiving travel.
+
+Thank you to the utilities an…
+
+[查看原文](https://x.com/elonmusk/status/2122897388344119452)
+
+---
+
+## 2026-11-18 11:39:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th  Commercial Resupply Services missio…
+
+[查看原文](https://x.com/elonmusk/status/2122897415053402206)
+
+---
+
+## 2026-11-18 11:39:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusabili…
+
+[查看原文](https://x.com/elonmusk/status/2122897540882542782)
+
+---
+
+## 2026-11-18 11:42:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nice shot
+
+[查看原文](https://x.com/elonmusk/status/2122898321044127878)
+
+---
+
+## 2026-11-18 11:52:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+[查看原文](https://x.com/elonmusk/status/2122900620495704530)
 
 ---
 
