@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5015 条推文
+> 📊 推文存档 - 共 5016 条推文
 
 ---
 
@@ -211,7 +211,19 @@ RT @cb_doge: 🚨SpaceX CFO Bret Johnsen:
 
 “I hope everyone's trying Grok Bot, it is amazing. It’s probably the best agentic AI solution out t…
 
-[查看原文](https://x.com/elonmusk/status/2122811250858156410)
+---
+
+## 2026-11-18 09:28:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MdeZegher: Transformers have barely changed since the 1890s: copper coils in a tank of oil.
+
+Batteries, solar and compute run on DC. Th…
+
+[查看原文](https://x.com/elonmusk/status/2122864602770030829)
 
 ---
 
