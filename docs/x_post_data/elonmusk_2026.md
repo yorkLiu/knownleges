@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5035 条推文
+> 📊 推文存档 - 共 5036 条推文
 
 ---
 
@@ -401,8 +401,6 @@ Nice shot
 
 I wrote this 18 months ago
 
-[查看原文](https://x.com/elonmusk/status/2122924448861008163)
-
 ---
 
 ## 2026-11-18 13:27:14
@@ -412,8 +410,6 @@ I wrote this 18 months ago
 **内容**:
 
 RT @alx: Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, shou…
-
-[查看原文](https://x.com/elonmusk/status/2122924572148199775)
 
 ---
 
@@ -426,7 +422,21 @@ RT @alx: Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Tru
 It was the smartest of times
 It was the dumbest of times
 
-[查看原文](https://x.com/elonmusk/status/2122925042400895056)
+---
+
+## 2026-11-18 13:41:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: SpaceX Investors MUST Watch This
+
+Supercut from CFO's Epic Chat Today With @GavinSBaker https://t.co/CvTovnHMjn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPdGr9QdNKLIkotbbWqDbcS4w1LeDRAALTGWsbos_oVyGdQz2H2LDHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122928184119161018)
 
 ---
 

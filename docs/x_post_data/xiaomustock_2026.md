@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 494 条推文
+> 📊 推文存档 - 共 495 条推文
 
 ---
 
@@ -55,7 +55,22 @@ tags: ["2026"]
 
 RT @JensenHuang: Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never m…
 
-[查看原文](https://x.com/xiaomustock/status/2122798603274203535)
+---
+
+## 2026-11-18 14:12:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+问gpt给的anthropic融资打ipo的资金释放时间。估计大部分明天早晨释放。
+现在估计就是最好的抄底时间了。
+基本上该有的利空都没有了。
+怎么着也得反弹一下，明天海量资金释放出来。 https://t.co/x8yJFpDzyO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPc2r9Qc8NCzWPy3GKyNQTaNWHQAhLAALSGWsbos_oVyE-Ewx0b574AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2122935887336214788)
 
 ---
 
