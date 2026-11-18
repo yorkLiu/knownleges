@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5021 条推文
+> 📊 推文存档 - 共 5025 条推文
 
 ---
 
@@ -233,8 +233,6 @@ Batteries, solar and compute run on DC. Th…
 
 Super intelligence will hack your limbic system
 
-[查看原文](https://x.com/elonmusk/status/2122866559425384674)
-
 ---
 
 ## 2026-11-18 09:52:43
@@ -245,8 +243,6 @@ Super intelligence will hack your limbic system
 
 RT @DrewPavlou: The Australian Labor government want to ban “trad wife” content and their example is literally just a video of a lady sayin…
 
-[查看原文](https://x.com/elonmusk/status/2122870585730773263)
-
 ---
 
 ## 2026-11-18 09:55:59
@@ -256,8 +252,6 @@ RT @DrewPavlou: The Australian Labor government want to ban “trad wife” cont
 **内容**:
 
 True, Starship launches are incredibly exciting
-
-[查看原文](https://x.com/elonmusk/status/2122871410561593384)
 
 ---
 
@@ -271,8 +265,6 @@ Grok @Bot can save you millions in corporate expenses!
 
 It will research every expenditure, evaluate its necessity and find better deals on the Internet or by calling suppliers on the phone directly.
 
-[查看原文](https://x.com/elonmusk/status/2122872199623414175)
-
 ---
 
 ## 2026-11-18 10:01:20
@@ -283,7 +275,55 @@ It will research every expenditure, evaluate its necessity and find better deals
 
 RT @cb_doge: BREAKING: SpaceX CFO Bret Johnsen says SpaceX is spending hundreds of millions of dollars to build a new clean water system fo…
 
-[查看原文](https://x.com/elonmusk/status/2122872754206912914)
+---
+
+## 2026-11-18 11:15:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok @Bot can do your accounting
+
+[查看原文](https://x.com/elonmusk/status/2122891480729829482)
+
+---
+
+## 2026-11-18 11:16:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX CFO Bret Johnsen shares a heartwarming story of Gwynne Shotwell’s visit to Brazil and how @Starlink changed t…
+
+[查看原文](https://x.com/elonmusk/status/2122891591191089627)
+
+---
+
+## 2026-11-18 11:18:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wintonARK: relative to our (aggressive) expectations
+
+Starship landed on its 2nd commercial flight (we were expecting 6th at the midpoi…
+
+[查看原文](https://x.com/elonmusk/status/2122892116271808703)
+
+---
+
+## 2026-11-18 11:29:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX just confirmed that the heat shield tile MrBeast signed and installed on Ship 42 is intact. Even his signatur…
+
+[查看原文](https://x.com/elonmusk/status/2122895004045861065)
 
 ---
 

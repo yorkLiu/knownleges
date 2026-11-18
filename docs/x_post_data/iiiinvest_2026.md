@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 273 条推文
+> 📊 推文存档 - 共 274 条推文
 
 ---
 
@@ -21,9 +21,21 @@ tags: ["2026"]
 
 而你，我的亲弟，只需说句“牛逼”并享受推背感，谢谢❤️ https://t.co/GPqFHb6H37
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPcWr86qViS6T6k_ZrWAW72my4mKWVAAIvHWsbos_gV1xD-W46VeO4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2122840736341332055)
+## 2026-11-18 11:13:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+周三计划
+
+周二盘前微涨，开盘后半导体随着大盘下砸最多-10%，然后又往回拉，尾盘收涨。整体符合周末对周二震荡的判断。
+
+周二我们的计划是：以前低为止损布局半导体多单。我整体建仓了6万股SOXL，平均成本48多。
+
+[查看原文](https://x.com/iiiinvest/status/2122890907985084895)
 
 ---
 
