@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5046 条推文
+> 📊 推文存档 - 共 5049 条推文
 
 ---
 
@@ -521,8 +521,6 @@ Prufrock
 
 It only gets better from here
 
-[查看原文](https://x.com/elonmusk/status/2123007193918398527)
-
 ---
 
 ## 2026-11-18 18:56:04
@@ -535,8 +533,6 @@ RT @OPteemyst: 5 years ago a SpaceX worker gave Elon a hug and told him "We gonn
 
 And made it, we did! Starship came home &amp; Elon…
 
-[查看原文](https://x.com/elonmusk/status/2123007327049769189)
-
 ---
 
 ## 2026-11-18 19:05:16
@@ -547,7 +543,45 @@ And made it, we did! Starship came home &amp; Elon…
 
 Prufrock is perfectly named
 
-[查看原文](https://x.com/elonmusk/status/2123009640925663305)
+---
+
+## 2026-11-18 19:24:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @HalcyonHypnotic: I’m sorry but how can you watch this and not be obsessed https://t.co/70he8U2tKh
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPeGr9kbzZSTIOJcjKUXPkHF402t9KAALYGmsbos_oVy09pX3d_6IPAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2123014381483229289)
+
+---
+
+## 2026-11-18 19:38:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Is the Thucydides Trap ever avoidable?
+
+I wish it were, but, inevitably, the most interesting outcome is the most likely.
+
+[查看原文](https://x.com/elonmusk/status/2123017891167785201)
+
+---
+
+## 2026-11-18 19:48:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2123020499680981231)
 
 ---
 
