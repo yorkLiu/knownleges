@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5036 条推文
+> 📊 推文存档 - 共 5038 条推文
 
 ---
 
@@ -434,9 +434,32 @@ RT @stevenmarkryan: SpaceX Investors MUST Watch This
 
 Supercut from CFO's Epic Chat Today With @GavinSBaker https://t.co/CvTovnHMjn
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPdGr9QdNKLIkotbbWqDbcS4w1LeDRAALTGWsbos_oVyGdQz2H2LDHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2122928184119161018)
+## 2026-11-18 14:13:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🤗 https://t.co/DrOMvEPZpW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPdWr9SRXYQRLoLWAYeCsR8noynjeTAALsGWsbos_oV_dO46wYB3_3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2122936119448764559)
+
+---
+
+## 2026-11-18 14:14:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: It was the smartest of times
+It was the dumbest of times
+
+[查看原文](https://x.com/elonmusk/status/2122936375762936124)
 
 ---
 
