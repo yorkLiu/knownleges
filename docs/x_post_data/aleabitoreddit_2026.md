@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 629 条推文
+> 📊 推文存档 - 共 630 条推文
 
 ---
 
@@ -54,11 +54,25 @@ When I first took positions in $SOI, Citi reacted to my analysis and warned: "in
 Soitec back then had:
 -&gt; $25M in Photonics-SOI revenue, with no guidance... when Citi published their note. https://t.co/4iki6BOuVo
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPgGr993QuwAKScieNHRpaeYhxsgzJAAJ4F2sbCDPxV8Ano6e3RCWYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPgWr993hAfr-F1qZb0-wmWUdmaIfxAAJ5F2sbCDPxVzeQr8pyheXpAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-19 03:34:09
 
-[查看原文](https://x.com/aleabitoreddit/status/2123126925908742463)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Situational Awareness 2.0 is coming. 
+
+I think Leopold's early ideas were directionally right from $SNDK to $BE. 
+
+Even his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2027. 
+
+Unfortunately, due to excessive leverage and crowded longs... Positioning left https://t.co/tVCo5ku9kf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPgmr9_rcICtQ6KNpHg52hsn7rya7ZAAKGF2sbCDPxVy58WQrmF4AQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123137705597120613)
 
 ---
 
