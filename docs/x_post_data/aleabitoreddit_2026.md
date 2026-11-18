@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 628 条推文
+> 📊 推文存档 - 共 629 条推文
 
 ---
 
@@ -39,11 +39,26 @@ If we look at Anthropic's $900.9B of eventual purchase agreements:
 
 - $AVGO + https://t.co/49K2NroJqW
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPfmr98DFYRDR2bOCTdj_HJDRI44mWAAL1HWsbos_oV_njw_-2SUeLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPf2r98DXb1I_Hp6XJkU_YCVxd5F5TAAL2HWsbos_oV0jRYvGUIWGhAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-19 02:51:19
 
-[查看原文](https://x.com/aleabitoreddit/status/2123116246183088517)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Did you listen Citibank?
+
+When I first took positions in $SOI, Citi reacted to my analysis and warned: "investor expectations for Photonics-SOI growth might be excessive"
+
+Soitec back then had:
+-&gt; $25M in Photonics-SOI revenue, with no guidance... when Citi published their note. https://t.co/4iki6BOuVo
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPgGr993QuwAKScieNHRpaeYhxsgzJAAJ4F2sbCDPxV8Ano6e3RCWYAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPgWr993hAfr-F1qZb0-wmWUdmaIfxAAJ5F2sbCDPxVzeQr8pyheXpAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123126925908742463)
 
 ---
 
