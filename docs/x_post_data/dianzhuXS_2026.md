@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 775 条推文
+> 📊 推文存档 - 共 776 条推文
 
 ---
 
@@ -21,7 +21,26 @@ tags: ["2026"]
 嗯，只看，至於看後的態度，隨心即可。
 既然是隨心，我站林夕，看好了，我沒要求別人，我只代表我自己😎
 
-[查看原文](https://x.com/dianzhuXS/status/2122878163563012527)
+---
+
+## 2026-11-18 12:59:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【跟善良的人們分享下】
+
+其實美國的事，您要看不懂川普，也別費勁了
+
+就挺盧比奧就行了，他比較直接，更好理解
+
+另外，他還是「盧家門兒」的
+🤭🤭🤭 https://t.co/AlZQpM0cQX
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPcmr9M1MGHalt3MhhUcMCfUGIWkN8AAJrGWsbos_oV9Sisd-1E3BGAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2122917519891874020)
 
 ---
 
