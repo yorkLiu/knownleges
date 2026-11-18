@@ -7,7 +7,27 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 626 条推文
+> 📊 推文存档 - 共 627 条推文
+
+---
+
+## 2026-11-19 01:04:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.
+
+I hope the market’s reaction, even after record earnings…
+
+sends a message to the rest of the board. https://t.co/aEve8LRHnv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPfGr94agzgXSwIRLK3uRUSHvX-WgwAAJCHWsbos_oVweTIepa6_4rAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPfWr94at-rfDkHU2xPFfO0MEDcxXJAAJDHWsbos_oVwJKLFPFY42fAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123100162616951229)
 
 ---
 
