@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5032 条推文
+> 📊 推文存档 - 共 5035 条推文
 
 ---
 
@@ -329,8 +329,6 @@ RT @larsencc: I work on @bot
 
 Tag me with whatever annoys you, breaks on you, or you wish it could do. I read all of it and bring the good…
 
-[查看原文](https://x.com/elonmusk/status/2122897194298839338)
-
 ---
 
 ## 2026-11-18 11:39:05
@@ -340,8 +338,6 @@ Tag me with whatever annoys you, breaks on you, or you wish it could do. I read 
 **内容**:
 
 RT @SpaceXAIMemphis: SpaceXSI is committed to helping build and grow the communities our employees live and work in for the better. This in…
-
-[查看原文](https://x.com/elonmusk/status/2122897352726131188)
 
 ---
 
@@ -355,8 +351,6 @@ RT @MdeZegher: Big push underway from the US Supercharger team to open new sites
 
 Thank you to the utilities an…
 
-[查看原文](https://x.com/elonmusk/status/2122897388344119452)
-
 ---
 
 ## 2026-11-18 11:39:19
@@ -366,8 +360,6 @@ Thank you to the utilities an…
 **内容**:
 
 RT @SpaceX: After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th  Commercial Resupply Services missio…
-
-[查看原文](https://x.com/elonmusk/status/2122897415053402206)
 
 ---
 
@@ -379,8 +371,6 @@ RT @SpaceX: After 34 days docked to the @Space_Station, the Dragon spacecraft su
 
 RT @SpaceX: The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusabili…
 
-[查看原文](https://x.com/elonmusk/status/2122897540882542782)
-
 ---
 
 ## 2026-11-18 11:42:55
@@ -390,8 +380,6 @@ RT @SpaceX: The Starbase tower chopsticks catching their first Starship. This un
 **内容**:
 
 Nice shot
-
-[查看原文](https://x.com/elonmusk/status/2122898321044127878)
 
 ---
 
@@ -403,7 +391,42 @@ Nice shot
 
 😂
 
-[查看原文](https://x.com/elonmusk/status/2122900620495704530)
+---
+
+## 2026-11-18 13:26:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I wrote this 18 months ago
+
+[查看原文](https://x.com/elonmusk/status/2122924448861008163)
+
+---
+
+## 2026-11-18 13:27:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: Four Years Ago Today, Elon Musk posted a poll asking 𝕏 if Donald Trump, who was banned by Twitter 1.0 as a sitting President, shou…
+
+[查看原文](https://x.com/elonmusk/status/2122924572148199775)
+
+---
+
+## 2026-11-18 13:29:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It was the smartest of times
+It was the dumbest of times
+
+[查看原文](https://x.com/elonmusk/status/2122925042400895056)
 
 ---
 
