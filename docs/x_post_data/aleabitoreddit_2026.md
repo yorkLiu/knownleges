@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 631 条推文
+> 📊 推文存档 - 共 632 条推文
 
 ---
 
@@ -86,11 +86,21 @@ The weeks before Nov 13 also saw the heaviest net selling of global tech stocks 
 
 Per Goldman Sachs prime data. https://t.co/omwdGvF0MN
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPg2r-DUXlapdRvoLXmp1vVq_ndqGXAAKLF2sbCDPxVzd1CYIM9Z5mAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPhGr-DUfsex8ZCU4xY4EEbE2b2wqKAAKMF2sbCDPxV8Yalph_dOSyAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-19 05:54:45
 
-[查看原文](https://x.com/aleabitoreddit/status/2123152181134234071)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug
+
+<img src="/images/aleabitoreddit/HXcGqxga0AARlFd.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="/images/aleabitoreddit/HXcGqxsbMAA0sSH.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123173088598938033)
 
 ---
 
