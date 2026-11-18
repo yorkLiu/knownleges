@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5039 条推文
+> 📊 推文存档 - 共 5041 条推文
 
 ---
 
@@ -465,9 +465,33 @@ It was the dumbest of times
 
 RT @elonmusk: 🤗 https://t.co/DrOMvEPZpW
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPdWr9SRXYQRLoLWAYeCsR8noynjeTAALsGWsbos_oV_dO46wYB3_3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2122981065921044489)
+## 2026-11-18 17:36:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The machines of @boringcompany were named after:
+
+Waiting for Godot
+A Line-storm Song
+The Love Song of J. Alfred Prufrock
+
+[查看原文](https://x.com/elonmusk/status/2122987306923733063)
+
+---
+
+## 2026-11-18 17:49:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @CJHandmer: Hearing the @united CEO Scott Kirby on @CheekyPint telling @collision that the primary constraint on commercial aviation in…
+
+[查看原文](https://x.com/elonmusk/status/2122990532410716160)
 
 ---
 
