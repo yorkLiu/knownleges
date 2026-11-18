@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 627 条推文
+> 📊 推文存档 - 共 628 条推文
 
 ---
 
@@ -23,11 +23,27 @@ I hope the market’s reaction, even after record earnings…
 
 sends a message to the rest of the board. https://t.co/aEve8LRHnv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPfGr94agzgXSwIRLK3uRUSHvX-WgwAAJCHWsbos_oVweTIepa6_4rAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPfWr94at-rfDkHU2xPFfO0MEDcxXJAAJDHWsbos_oVwJKLFPFY42fAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-19 02:08:53
 
-[查看原文](https://x.com/aleabitoreddit/status/2123100162616951229)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...
+
+will eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.
+
+If we look at Anthropic's $900.9B of eventual purchase agreements:
+
+- $AVGO + https://t.co/49K2NroJqW
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPfmr98DFYRDR2bOCTdj_HJDRI44mWAAL1HWsbos_oV_njw_-2SUeLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPf2r98DXb1I_Hp6XJkU_YCVxd5F5TAAL2HWsbos_oV0jRYvGUIWGhAQADAgADeQADPQQ.png" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123116246183088517)
 
 ---
 
