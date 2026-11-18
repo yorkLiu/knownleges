@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 779 条推文
+> 📊 推文存档 - 共 780 条推文
 
 ---
 
@@ -52,10 +52,6 @@ tags: ["2026"]
 
 不爭論，不抬槓，大家就等著看接下來這些富豪們的變化吧⋯⋯ https://t.co/qVNDcfKm8Z
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPdmr9V58MZCWa0n3YYuHStoGx7z4EAAIPGmsbos_oVxOj0VIfJbfkAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/dianzhuXS/status/2122952060798935292)
-
 ---
 
 ## 2026-11-18 15:25:25
@@ -65,8 +61,6 @@ tags: ["2026"]
 **内容**:
 
 從這個視頻，我終於發現了一個握手偷運博弈秘密㊙️，也明白了川普為什麼不會被習近平偷運，等抽空小範圍叨逼叨一下👀
-
-[查看原文](https://x.com/dianzhuXS/status/2122954313794560232)
 
 ---
 
@@ -78,7 +72,21 @@ tags: ["2026"]
 
 當前發數字幣就是讓你們繳社保繳房貸車貸的「專款專用」，還想提現？想瞎了心了🤪🤪🤪
 
-[查看原文](https://x.com/dianzhuXS/status/2122959220773630264)
+---
+
+## 2026-11-18 16:42:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+盧比奧迫害黃仁勳？
+
+簡中圈的精神病越來越多啦
+
+盧比奧也太閒了🤪🤪🤪
+
+[查看原文](https://x.com/dianzhuXS/status/2122973822878109731)
 
 ---
 
