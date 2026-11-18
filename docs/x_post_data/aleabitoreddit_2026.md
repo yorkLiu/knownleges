@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 630 条推文
+> 📊 推文存档 - 共 631 条推文
 
 ---
 
@@ -70,9 +70,27 @@ Even his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2
 
 Unfortunately, due to excessive leverage and crowded longs... Positioning left https://t.co/tVCo5ku9kf
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPgmr9_rcICtQ6KNpHg52hsn7rya7ZAAKGF2sbCDPxVy58WQrmF4AQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123137705597120613)
+## 2026-11-19 04:31:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Woah, the charts mapping the recent AI crash is insane. 
+
+Net momentum exposure went from ~60% of hedge fund equity at the peak down to 8%.
+
+The weeks before Nov 13 also saw the heaviest net selling of global tech stocks in the past 9 years.
+
+Per Goldman Sachs prime data. https://t.co/omwdGvF0MN
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPg2r-DUXlapdRvoLXmp1vVq_ndqGXAAKLF2sbCDPxVzd1CYIM9Z5mAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPhGr-DUfsex8ZCU4xY4EEbE2b2wqKAAKMF2sbCDPxV8Yalph_dOSyAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123152181134234071)
 
 ---
 
