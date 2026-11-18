@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5054 条推文
+> 📊 推文存档 - 共 5056 条推文
 
 ---
 
@@ -19,10 +19,6 @@ tags: ["2026"]
 
 RT @farzyness: Why Starship Zigzagged Home Instead of Flying Straight https://t.co/ckNS7ldQe1
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPiGr-FIs9rvP3E_RYG648jg2sCmMPAAKTF2sbCDPxV9YGwO8bJ-s6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2123156089424445719)
-
 ---
 
 ## 2026-11-19 05:00:15
@@ -32,8 +28,6 @@ RT @farzyness: Why Starship Zigzagged Home Instead of Flying Straight https://t.
 **内容**:
 
 We put a lot of thought into public safety
-
-[查看原文](https://x.com/elonmusk/status/2123159371119280372)
 
 ---
 
@@ -45,14 +39,6 @@ We put a lot of thought into public safety
 
 RT @SpaceX: The Starbase tower team on location with the first caught Starship🍌 https://t.co/ar7y6ccgZr
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPhWr-FIM8Ji5tA9bc1AN9jjvjcrx-AAKQF2sbCDPxVwgBuHRVYmULAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPhmr-FIYMehv3_-W2QFHCZzjHOUH9AAKRF2sbCDPxV__hobNDZeFkAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPh2r-FIlgp7GOH8tNCoFwRdpU6TdqAAKSF2sbCDPxV634g7ajij6vAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2123159972704076219)
-
 ---
 
 ## 2026-11-19 05:03:19
@@ -62,8 +48,6 @@ RT @SpaceX: The Starbase tower team on location with the first caught Starship�
 **内容**:
 
 RT @Starlink: Starlink Mobile is now available in Mongolia with @mobicomofficial! For the first time, phones in areas without cell signal w…
-
-[查看原文](https://x.com/elonmusk/status/2123160145249349868)
 
 ---
 
@@ -75,7 +59,29 @@ RT @Starlink: Starlink Mobile is now available in Mongolia with @mobicomofficial
 
 Treat Grok @Bot like a really smart employee
 
-[查看原文](https://x.com/elonmusk/status/2123161902683746640)
+---
+
+## 2026-11-19 05:17:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @gjurvetson: Couldn’t recommend it more. Take your kids to a Starship launch. It’s a full-body experience. something you feel as much as…
+
+[查看原文](https://x.com/elonmusk/status/2123163650412441650)
+
+---
+
+## 2026-11-19 05:17:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2123163808592265639)
 
 ---
 
