@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 782 条推文
+> 📊 推文存档 - 共 783 条推文
 
 ---
 
@@ -103,8 +103,6 @@ tags: ["2026"]
 大盧所在之地並無戰爭
 🤗🤗🤗
 
-[查看原文](https://x.com/dianzhuXS/status/2122987498192461826)
-
 ---
 
 ## 2026-11-18 17:44:47
@@ -121,7 +119,19 @@ tags: ["2026"]
 
 【這兩年你別瞎鬧騰】
 
-[查看原文](https://x.com/dianzhuXS/status/2122989385725751520)
+---
+
+## 2026-11-18 18:09:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+親自迎接 https://t.co/eEyTBdfzqy
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPd2r9e_KRr5mjxCNSrbGitIHydNC3AAJ1Gmsbos_oV-D14oY6HGxDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2122995646311653409)
 
 ---
 

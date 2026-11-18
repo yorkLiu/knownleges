@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5041 条推文
+> 📊 推文存档 - 共 5043 条推文
 
 ---
 
@@ -479,8 +479,6 @@ Waiting for Godot
 A Line-storm Song
 The Love Song of J. Alfred Prufrock
 
-[查看原文](https://x.com/elonmusk/status/2122987306923733063)
-
 ---
 
 ## 2026-11-18 17:49:20
@@ -491,7 +489,31 @@ The Love Song of J. Alfred Prufrock
 
 RT @CJHandmer: Hearing the @united CEO Scott Kirby on @CheekyPint telling @collision that the primary constraint on commercial aviation in…
 
-[查看原文](https://x.com/elonmusk/status/2122990532410716160)
+---
+
+## 2026-11-18 18:08:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TheCaptainEli: While critics focus on turnover, look at the senior leaders who have chosen to stay with Elon Musk for decades:
+
+• Gwynn…
+
+[查看原文](https://x.com/elonmusk/status/2122995304857538560)
+
+---
+
+## 2026-11-18 18:08:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Prufrock
+
+[查看原文](https://x.com/elonmusk/status/2122995454560587952)
 
 ---
 
