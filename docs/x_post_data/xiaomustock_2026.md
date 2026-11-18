@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 495 条推文
+> 📊 推文存档 - 共 496 条推文
 
 ---
 
@@ -68,9 +68,17 @@ RT @JensenHuang: Over the past week, I’ve been overwhelmed by the love and sup
 基本上该有的利空都没有了。
 怎么着也得反弹一下，明天海量资金释放出来。 https://t.co/x8yJFpDzyO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPc2r9Qc8NCzWPy3GKyNQTaNWHQAhLAALSGWsbos_oVyE-Ewx0b574AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2122935887336214788)
+## 2026-11-18 22:50:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+闪迪跌回成本价，镜花水月了
+
+[查看原文](https://x.com/xiaomustock/status/2123066290160185564)
 
 ---
 

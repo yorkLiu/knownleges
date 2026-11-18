@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 624 条推文
+> 📊 推文存档 - 共 625 条推文
 
 ---
 
@@ -51,11 +51,24 @@ $NVDA earnings transcript + industry read through. To sum it up: "Demand far exc
 
 "Our supply commitments increased from $279B last quarter to $390B, primarily related to the multi-year procurement of memory https://t.co/rbrqHtM5ef
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPb2r86qAh-MooMGKzTEcl017G0OyQAAItHWsbos_gV_iTJLVMot0AAQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPcGr86qPlbDB6LPze-FpkZik-K-P2AAIuHWsbos_gVwSZbgABRtT0DgEAAwIAA3kAAz0E.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-18 22:53:54
 
-[查看原文](https://x.com/aleabitoreddit/status/2122835908596846950)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:
+
+1. Capex cuts past 2028 
+2. Stranded Compute / DC Slowdowns 
+3. Finance deterioration (base case)
+4. 2x+ rate hikes
+
+Working in parallel and see what happens with valuations of AI
+
+[查看原文](https://x.com/aleabitoreddit/status/2123067177905643769)
 
 ---
 
