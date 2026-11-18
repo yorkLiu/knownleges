@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 625 条推文
+> 📊 推文存档 - 共 626 条推文
 
 ---
 
@@ -68,7 +68,25 @@ Now that we're close to 2027 it's a good idea to stress test downside scenarios 
 
 Working in parallel and see what happens with valuations of AI
 
-[查看原文](https://x.com/aleabitoreddit/status/2123067177905643769)
+---
+
+## 2026-11-18 23:48:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Does anyone remember the days…
+
+When $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…
+
+was good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPemr9y-A6DOS6QcF623P7Rj03QF1VAAJcHGsbos_oVxN2Vft07Lh8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPe2r9y-K2dAczLENw7ZQi-hYaYcxzAAJdHGsbos_oV9UUbJbz7v0JAQADAgADeAADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123080934362845437)
 
 ---
 
