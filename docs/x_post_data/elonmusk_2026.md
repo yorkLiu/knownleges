@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5078 条推文
+> 📊 推文存档 - 共 5079 条推文
 
 ---
 
@@ -299,8 +299,6 @@ RT @KanekoaTheGreat: Elon Musk says SpaceX’s StarMind orbital AI satellite is 
 
 “I’m n…
 
-[查看原文](https://x.com/elonmusk/status/2123243377907175651)
-
 ---
 
 ## 2026-11-19 10:37:05
@@ -310,8 +308,6 @@ RT @KanekoaTheGreat: Elon Musk says SpaceX’s StarMind orbital AI satellite is 
 **内容**:
 
 RT @sundarpichai: Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, know…
-
-[查看原文](https://x.com/elonmusk/status/2123244141400481974)
 
 ---
 
@@ -323,8 +319,6 @@ RT @sundarpichai: Gemini 4 Neon: frontier-level intelligence with fast end-to-en
 
 RT @Tesla_Asia: 60,000 deliveries. ありがとう❤️
 
-[查看原文](https://x.com/elonmusk/status/2123244195746119926)
-
 ---
 
 ## 2026-11-19 10:38:49
@@ -335,7 +329,17 @@ RT @Tesla_Asia: 60,000 deliveries. ありがとう❤️
 
 RT @demishassabis: Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra u…
 
-[查看原文](https://x.com/elonmusk/status/2123244574785388546)
+---
+
+## 2026-11-19 12:29:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+4 years ago
+
+[查看原文](https://x.com/elonmusk/status/2123272422719967730)
 
 ---
 
