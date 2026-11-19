@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5079 条推文
+> 📊 推文存档 - 共 5080 条推文
 
 ---
 
@@ -339,7 +339,19 @@ RT @demishassabis: Excited to launch Gemini 4 Neon: frontier-level intelligence,
 
 4 years ago
 
-[查看原文](https://x.com/elonmusk/status/2123272422719967730)
+---
+
+## 2026-11-19 13:14:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Back in 2015, Elon Musk opened SpaceX's new satellite engineering office in Seattle with an enormous ambition:
+
+“We want to re…
+
+[查看原文](https://x.com/elonmusk/status/2123283685889966584)
 
 ---
 
