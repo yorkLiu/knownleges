@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 793 条推文
+> 📊 推文存档 - 共 794 条推文
 
 ---
 
@@ -99,8 +99,6 @@ tags: ["2026"]
 
 這次習近平親自給川普接機時，安排飛機掠過，基本就是「毛病不改，積惡成習」。
 
-[查看原文](https://x.com/dianzhuXS/status/2123298898165047662)
-
 ---
 
 ## 2026-11-19 14:20:21
@@ -113,7 +111,23 @@ tags: ["2026"]
 
 同年秋天開始大規模拆遷（拆除中華門、紅牆、衚衕民居等），人民大會堂等工程在1958年10月前後破土動工。
 
-[查看原文](https://x.com/dianzhuXS/status/2123300327260864641)
+---
+
+## 2026-11-19 18:39:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【終於感覺到了好消息】
+
+這次APEC所謂的「川習普」三方會談，從表面的蛛絲馬跡透析最深層的博弈結果，一個字～是台灣保下來了。好消息！
+
+在中期選舉民主黨拿下美國參眾兩院後，還要震攝獨裁者，保證亞太地區的和平，這事其實是很不容易的，即使如川普這樣的強人政治風格，難度也相當大。 https://t.co/0NoIVSoQUG
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPkGr-1h9vLjW_HMm4CZIN7DNjsbOPAALkE2sbCDP5V_NdukTYT7MjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2123365662710288878)
 
 ---
 
