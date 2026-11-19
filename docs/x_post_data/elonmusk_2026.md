@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5080 条推文
+> 📊 推文存档 - 共 5082 条推文
 
 ---
 
@@ -351,7 +351,29 @@ RT @XFreeze: Back in 2015, Elon Musk opened SpaceX's new satellite engineering o
 
 “We want to re…
 
-[查看原文](https://x.com/elonmusk/status/2123283685889966584)
+---
+
+## 2026-11-19 13:31:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly
+
+[查看原文](https://x.com/elonmusk/status/2123288098331414533)
+
+---
+
+## 2026-11-19 13:56:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @milichab: One-shot your trip with @bot
+
+[查看原文](https://x.com/elonmusk/status/2123294397555225054)
 
 ---
 
