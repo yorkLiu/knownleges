@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5074 条推文
+> 📊 推文存档 - 共 5078 条推文
 
 ---
 
@@ -237,8 +237,6 @@ RT @shaunmmaguire: People do not yet understand:
 
 2) @Spac…
 
-[查看原文](https://x.com/elonmusk/status/2123229086487400502)
-
 ---
 
 ## 2026-11-19 09:38:18
@@ -248,8 +246,6 @@ RT @shaunmmaguire: People do not yet understand:
 **内容**:
 
 Looking for hardcore engineers to join Terafab!
-
-[查看原文](https://x.com/elonmusk/status/2123229344936173890)
 
 ---
 
@@ -262,8 +258,6 @@ Looking for hardcore engineers to join Terafab!
 RT @XFreeze: All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational
 
 Those 26 satellites added 26 Tbps of downlin…
-
-[查看原文](https://x.com/elonmusk/status/2123229444794118516)
 
 ---
 
@@ -281,8 +275,6 @@ Zelensky: I used Starlink to kill.
 
 Legacy Media: Elon is evil for stopping…
 
-[查看原文](https://x.com/elonmusk/status/2123231924420579393)
-
 ---
 
 ## 2026-11-19 09:51:04
@@ -295,7 +287,55 @@ RT @KanekoaTheGreat: Elon Musk says Neuralink’s next product, Blindsight, will
 
 “Our next pr…
 
-[查看原文](https://x.com/elonmusk/status/2123232559547183243)
+---
+
+## 2026-11-19 10:34:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: Elon Musk says SpaceX’s StarMind orbital AI satellite is a “much easier” engineering problem than Starlink V3:
+
+“I’m n…
+
+[查看原文](https://x.com/elonmusk/status/2123243377907175651)
+
+---
+
+## 2026-11-19 10:37:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @sundarpichai: Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, know…
+
+[查看原文](https://x.com/elonmusk/status/2123244141400481974)
+
+---
+
+## 2026-11-19 10:37:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla_Asia: 60,000 deliveries. ありがとう❤️
+
+[查看原文](https://x.com/elonmusk/status/2123244195746119926)
+
+---
+
+## 2026-11-19 10:38:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @demishassabis: Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra u…
+
+[查看原文](https://x.com/elonmusk/status/2123244574785388546)
 
 ---
 

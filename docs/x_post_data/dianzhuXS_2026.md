@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 787 条推文
+> 📊 推文存档 - 共 788 条推文
 
 ---
 
@@ -41,9 +41,18 @@ tags: ["2026"]
 
 不知當講不當講🤭🤭🤭 https://t.co/ZRaac53RhV
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPi2r-VmHpsHhgawRDDYZcXxrIBlj-AALyF2sbCDPxVxxcxTUVeCJwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2123230421068681384)
+## 2026-11-19 10:23:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+明白了💡
+就是「嘉義市長候選人張啓楷在路邊小便」🤪🤪🤪
+
+[查看原文](https://x.com/dianzhuXS/status/2123240789019111609)
 
 ---
 
