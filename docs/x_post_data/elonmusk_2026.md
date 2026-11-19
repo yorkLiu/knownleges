@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5106 条推文
+> 📊 推文存档 - 共 5107 条推文
 
 ---
 
@@ -79,8 +79,6 @@ He flew in fr…
 
 RT @Texas_Twins_Dad: Haven't tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful…
 
-[查看原文](https://x.com/elonmusk/status/2123465611145544179)
-
 ---
 
 ## 2026-11-20 01:25:56
@@ -93,7 +91,17 @@ RT @firesidealpha: Dario Amodei on SpaceX compute: “We’re finding that compu
 
 SOR…
 
-[查看原文](https://x.com/elonmusk/status/2123467827826897089)
+---
+
+## 2026-11-20 01:56:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+You can create an entire company made of Grok Bots!
+
+[查看原文](https://x.com/elonmusk/status/2123475464043786417)
 
 ---
 
