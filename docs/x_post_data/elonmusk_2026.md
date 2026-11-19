@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5101 条推文
+> 📊 推文存档 - 共 5104 条推文
 
 ---
 
@@ -25,8 +25,6 @@ RT @gaooofy: 🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊�
 
 现场他还分享了一段很有意义的话：… https://t.co/eAslOw…
 
-[查看原文](https://x.com/elonmusk/status/2123453686110122414)
-
 ---
 
 ## 2026-11-20 00:37:40
@@ -37,7 +35,45 @@ RT @gaooofy: 🚨 马斯克来上海了！好羡慕上海特斯拉的员工啊�
 
 RT @SRBednarek: Starlink Mobile is now live in Mongolia! Our complementary layer of coverage enables customers to stay connected on their p…
 
-[查看原文](https://x.com/elonmusk/status/2123455680682082645)
+---
+
+## 2026-11-20 00:59:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his company is enjoying working with SpaceX.
+
+“We're finding that…
+
+[查看原文](https://x.com/elonmusk/status/2123461205675147509)
+
+---
+
+## 2026-11-20 01:03:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aplusk: People usually see the one deal and think that’s the whole thing, but the ones who know realize that it’s years of work, micro…
+
+[查看原文](https://x.com/elonmusk/status/2123462109359132941)
+
+---
+
+## 2026-11-20 01:06:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Elon Musk visited Tesla's Giga Shanghai today to personally thank the China and Asia-Pacific teams 🇨🇳
+
+He flew in fr…
+
+[查看原文](https://x.com/elonmusk/status/2123462926375821793)
 
 ---
 
