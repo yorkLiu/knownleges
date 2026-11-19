@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5089 条推文
+> 📊 推文存档 - 共 5093 条推文
 
 ---
 
@@ -427,8 +427,6 @@ RT @XFreeze: HMD Trucking has taken delivery of its FIRST Tesla Semi from a 50-t
 
 Before committing to the order, HMD…
 
-[查看原文](https://x.com/elonmusk/status/2123316265175728588)
-
 ---
 
 ## 2026-11-19 15:30:19
@@ -438,8 +436,6 @@ Before committing to the order, HMD…
 **内容**:
 
 𝕏 Money is growing fast
-
-[查看原文](https://x.com/elonmusk/status/2123317934747746611)
 
 ---
 
@@ -451,7 +447,53 @@ Before committing to the order, HMD…
 
 RT @Nasdaq: The Nasdaq Tower lights up for @SpaceX's historic Starship Flight 15, featuring the first catch of Starship’s upper stage, plus…
 
-[查看原文](https://x.com/elonmusk/status/2123318091102986520)
+---
+
+## 2026-11-19 15:35:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SRBednarek: Starlink Mobile is coming to Botswana! Rural communities, farmers, miners and many more will have reliable connectivity on…
+
+[查看原文](https://x.com/elonmusk/status/2123319234038296844)
+
+---
+
+## 2026-11-19 15:38:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Moving all text conversations to be encrypted to ensure user privacy
+
+[查看原文](https://x.com/elonmusk/status/2123319956381339961)
+
+---
+
+## 2026-11-19 15:39:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Remember to cast your Tesla votes!
+
+[查看原文](https://x.com/elonmusk/status/2123320336544649485)
+
+---
+
+## 2026-11-19 15:42:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EricLDaugh: 🚨 WOW! Elon Musk just went off about the smears against him involving Starlink and Russia-Ukraine, saying he just WANTS PEA…
+
+[查看原文](https://x.com/elonmusk/status/2123320935285657859)
 
 ---
 
