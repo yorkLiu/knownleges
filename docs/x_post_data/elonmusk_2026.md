@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5082 条推文
+> 📊 推文存档 - 共 5086 条推文
 
 ---
 
@@ -361,8 +361,6 @@ RT @XFreeze: Back in 2015, Elon Musk opened SpaceX's new satellite engineering o
 
 Exactly
 
-[查看原文](https://x.com/elonmusk/status/2123288098331414533)
-
 ---
 
 ## 2026-11-19 13:56:47
@@ -373,7 +371,57 @@ Exactly
 
 RT @milichab: One-shot your trip with @bot
 
-[查看原文](https://x.com/elonmusk/status/2123294397555225054)
+---
+
+## 2026-11-19 14:00:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @marsrepublica: Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings calls…
+
+[查看原文](https://x.com/elonmusk/status/2123295424056598774)
+
+---
+
+## 2026-11-19 14:07:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceInvestor_D: $SPCX: Satya Nadella says Microsoft would rent SpaceX compute.
+
+Asked at DealBook whether Musk is right about data cen…
+
+[查看原文](https://x.com/elonmusk/status/2123297089946034502)
+
+---
+
+## 2026-11-19 14:07:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jimfarley98: Ford is officially in the battery business.  We’ll be the first to deliver LFP batteries in the U.S. for mainstream consum…
+
+[查看原文](https://x.com/elonmusk/status/2123297185160933681)
+
+---
+
+## 2026-11-19 14:13:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes. 
+
+Only questions are how fast the singularity will grow and to what size.
+
+[查看原文](https://x.com/elonmusk/status/2123298515573207075)
 
 ---
 
