@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5069 条推文
+> 📊 推文存档 - 共 5074 条推文
 
 ---
 
@@ -201,8 +201,6 @@ Its current…
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2123220589657944265)
-
 ---
 
 ## 2026-11-19 09:03:33
@@ -215,8 +213,6 @@ RT @KanekoaTheGreat: Elon Musk reveals how Starlink saved Ukraine from collapse,
 
 “…
 
-[查看原文](https://x.com/elonmusk/status/2123220601154466066)
-
 ---
 
 ## 2026-11-19 09:04:44
@@ -227,7 +223,79 @@ RT @KanekoaTheGreat: Elon Musk reveals how Starlink saved Ukraine from collapse,
 
 Catching the ship was the last major piece of the puzzle
 
-[查看原文](https://x.com/elonmusk/status/2123220899264679988)
+---
+
+## 2026-11-19 09:37:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @shaunmmaguire: People do not yet understand:
+
+1) Starship is one of the most important technologies in the history of mankind
+
+2) @Spac…
+
+[查看原文](https://x.com/elonmusk/status/2123229086487400502)
+
+---
+
+## 2026-11-19 09:38:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Looking for hardcore engineers to join Terafab!
+
+[查看原文](https://x.com/elonmusk/status/2123229344936173890)
+
+---
+
+## 2026-11-19 09:38:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: All 26 Starlink V3 satellites launched on Starship Flight 15 are now operational
+
+Those 26 satellites added 26 Tbps of downlin…
+
+[查看原文](https://x.com/elonmusk/status/2123229444794118516)
+
+---
+
+## 2026-11-19 09:48:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @C_3C_3: What happened…
+
+Elon: Do not use Starlink to kill.
+
+Zelensky: I used Starlink to kill.
+
+Legacy Media: Elon is evil for stopping…
+
+[查看原文](https://x.com/elonmusk/status/2123231924420579393)
+
+---
+
+## 2026-11-19 09:51:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: Elon Musk says Neuralink’s next product, Blindsight, will enable people who are completely blind to see:
+
+“Our next pr…
+
+[查看原文](https://x.com/elonmusk/status/2123232559547183243)
 
 ---
 

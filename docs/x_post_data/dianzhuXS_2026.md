@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 786 条推文
+> 📊 推文存档 - 共 787 条推文
 
 ---
 
@@ -24,7 +24,26 @@ tags: ["2026"]
 名词解释开始～
 🤗🤗🤗
 
-[查看原文](https://x.com/dianzhuXS/status/2123224821945544851)
+---
+
+## 2026-11-19 09:42:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+內行看門道
+外行看熱鬧
+
+此時此刻……此情此景
+
+我看出來個小妙招兒
+
+不知當講不當講🤭🤭🤭 https://t.co/ZRaac53RhV
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPi2r-VmHpsHhgawRDDYZcXxrIBlj-AALyF2sbCDPxVxxcxTUVeCJwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2123230421068681384)
 
 ---
 
