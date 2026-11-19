@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 281 条推文
+> 📊 推文存档 - 共 282 条推文
 
 ---
 
@@ -71,7 +71,23 @@ tags: ["2026"]
 
 另外给你说个秘密：现在并不是缺资金，而是情绪。上涨是最能提振情绪的。
 
-[查看原文](https://x.com/iiiinvest/status/2123348841793830920)
+---
+
+## 2026-11-19 20:25:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Anthropic 首日机会
+
+今晚Anthropic上市，肯定是继SpaceX之后又一个万人狂欢。还有人说会破发，这种纯属口嗨，建议去了解下什么叫绿鞋机制。
+
+我从SpaceX赚过好几轮，150多万美金。今晚我肯定也会参与Anthropic。参考 SpaceX 给你画些重点：
+
+1、Anthropic定价83，SpaceX 定价135。
+
+[查看原文](https://x.com/iiiinvest/status/2123392327104524337)
 
 ---
 
