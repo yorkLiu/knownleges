@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5093 条推文
+> 📊 推文存档 - 共 5099 条推文
 
 ---
 
@@ -457,8 +457,6 @@ RT @Nasdaq: The Nasdaq Tower lights up for @SpaceX's historic Starship Flight 15
 
 RT @SRBednarek: Starlink Mobile is coming to Botswana! Rural communities, farmers, miners and many more will have reliable connectivity on…
 
-[查看原文](https://x.com/elonmusk/status/2123319234038296844)
-
 ---
 
 ## 2026-11-19 15:38:21
@@ -468,8 +466,6 @@ RT @SRBednarek: Starlink Mobile is coming to Botswana! Rural communities, farmer
 **内容**:
 
 Moving all text conversations to be encrypted to ensure user privacy
-
-[查看原文](https://x.com/elonmusk/status/2123319956381339961)
 
 ---
 
@@ -481,8 +477,6 @@ Moving all text conversations to be encrypted to ensure user privacy
 
 Remember to cast your Tesla votes!
 
-[查看原文](https://x.com/elonmusk/status/2123320336544649485)
-
 ---
 
 ## 2026-11-19 15:42:15
@@ -493,7 +487,84 @@ Remember to cast your Tesla votes!
 
 RT @EricLDaugh: 🚨 WOW! Elon Musk just went off about the smears against him involving Starlink and Russia-Ukraine, saying he just WANTS PEA…
 
-[查看原文](https://x.com/elonmusk/status/2123320935285657859)
+---
+
+## 2026-11-19 16:29:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @larsencc: What I fixed in the last 24h from your replies:
+
+&gt; take over your bot's computer and stay in control until you hand it back
+&gt;…
+
+[查看原文](https://x.com/elonmusk/status/2123332718218125495)
+
+---
+
+## 2026-11-19 16:31:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink started with a speech in Seattle
+
+[查看原文](https://x.com/elonmusk/status/2123333341932052749)
+
+---
+
+## 2026-11-19 16:39:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ashen_one: I honestly can't live without Grokbot anymore -- I officially just upgraded to $200/m
+
+It's better than Claude Duet, Codex D…
+
+[查看原文](https://x.com/elonmusk/status/2123335263619526973)
+
+---
+
+## 2026-11-19 16:48:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Extend consciousness to the stars
+
+[查看原文](https://x.com/elonmusk/status/2123337655731826810)
+
+---
+
+## 2026-11-19 16:51:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: @elonmusk Asked whether he should collect Tesla compensation if SpaceX and Tesla merge, Elon Musk said no:
+
+"I don't thi…
+
+[查看原文](https://x.com/elonmusk/status/2123338476934627352)
+
+---
+
+## 2026-11-19 16:53:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a…
+
+[查看原文](https://x.com/elonmusk/status/2123338817805664576)
 
 ---
 
