@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 789 条推文
+> 📊 推文存档 - 共 790 条推文
 
 ---
 
@@ -63,9 +63,17 @@ tags: ["2026"]
 騎牆磨蛋也是要有敏感性的
 李在明這貨是懂誰是老大的 https://t.co/XACmhIYfDZ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPjGr-bC2V2KowNPx-Q56APJbv0_oQAAJBGGsbCDPxV9ewAAFDb_pYmQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2123249942244495537)
+## 2026-11-19 11:25:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+還得是白宮，這就叫專業💪💪💪
+
+[查看原文](https://x.com/dianzhuXS/status/2123256361844953309)
 
 ---
 
