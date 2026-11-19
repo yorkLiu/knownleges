@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 282 条推文
+> 📊 推文存档 - 共 283 条推文
 
 ---
 
@@ -87,7 +87,19 @@ Anthropic 首日机会
 
 1、Anthropic定价83，SpaceX 定价135。
 
-[查看原文](https://x.com/iiiinvest/status/2123392327104524337)
+---
+
+## 2026-11-19 23:43:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+这吊世界还会好吗，+2%开盘都能转跌。
+
+心疼多头兄弟，兄弟你还好吗？❤️
+
+[查看原文](https://x.com/iiiinvest/status/2123442087190544681)
 
 ---
 
