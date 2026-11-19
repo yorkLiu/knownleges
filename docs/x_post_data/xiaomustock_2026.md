@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 499 条推文
+> 📊 推文存档 - 共 500 条推文
+
+---
+
+## 2026-11-20 01:16:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+ai崩了
+
+[查看原文](https://x.com/xiaomustock/status/2123465573665550439)
 
 ---
 

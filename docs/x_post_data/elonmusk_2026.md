@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5104 条推文
+> 📊 推文存档 - 共 5106 条推文
 
 ---
 
@@ -47,8 +47,6 @@ RT @cb_doge: BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his co
 
 “We're finding that…
 
-[查看原文](https://x.com/elonmusk/status/2123461205675147509)
-
 ---
 
 ## 2026-11-20 01:03:13
@@ -58,8 +56,6 @@ RT @cb_doge: BREAKING: Anthropic CEO Dario Amodei praises SpaceX and says his co
 **内容**:
 
 RT @aplusk: People usually see the one deal and think that’s the whole thing, but the ones who know realize that it’s years of work, micro…
-
-[查看原文](https://x.com/elonmusk/status/2123462109359132941)
 
 ---
 
@@ -73,7 +69,31 @@ RT @cb_doge: BREAKING: Elon Musk visited Tesla's Giga Shanghai today to personal
 
 He flew in fr…
 
-[查看原文](https://x.com/elonmusk/status/2123462926375821793)
+---
+
+## 2026-11-20 01:17:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Texas_Twins_Dad: Haven't tried Grok Bot making a phone call yet? Watch this, then give it a try. Live transcripts is a seriously useful…
+
+[查看原文](https://x.com/elonmusk/status/2123465611145544179)
+
+---
+
+## 2026-11-20 01:25:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Dario Amodei on SpaceX compute: “We’re finding that compute to be high quality. We’re enjoying working with SpaceX”
+
+SOR…
+
+[查看原文](https://x.com/elonmusk/status/2123467827826897089)
 
 ---
 
