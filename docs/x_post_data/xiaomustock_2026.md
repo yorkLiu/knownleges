@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 498 条推文
+> 📊 推文存档 - 共 499 条推文
 
 ---
 
@@ -34,9 +34,21 @@ tags: ["2026"]
 但是在细胞总数，组织结构一样的情况下，
 亚洲人的大脑是不是具有更高密度的脑神经， https://t.co/eSiocV3oYU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPjmr-rY83moCs-LwVT5TmQ8Q0csyyAAKGE2sbCDP5V5eKTPG7gUKoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2123319157685133481)
+## 2026-11-19 21:34:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+闪迪不敢拿了刚卖了，怕开盘再来一次跌回去。
+开盘看情况再搞搞。
+晚上打算撸撸ant。 https://t.co/bkZgPAEcmP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPk2r_AbdNtwABFIipxFM1_st9PJCEzgACZxRrGwgz-Vc02FcccHECfwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2123409559389933622)
 
 ---
 
