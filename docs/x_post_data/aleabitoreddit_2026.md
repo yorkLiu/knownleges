@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 635 条推文
+> 📊 推文存档 - 共 636 条推文
 
 ---
 
@@ -23,9 +23,25 @@ is now worth hundreds of billions more than $META.
 
 Did anyone end up investing? https://t.co/qwMEVzFOli
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPlWr_Sl9hQ9qR5o2abQcsbNGjkhtLAAI7FWsbCDP5V_fm1DCLffcqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123488317425820130)
+## 2026-11-20 06:28:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$AAPL is now developing its own AI agent offerings to compete vs. $ANT, Meta Muse, Google Gemini, and OpenAI. 
+
+Given on-device inference isn't quite ready yet for complex workflows...
+
++ Apple isn't really known for doing much in the AI race
+
+This is pretty positive for https://t.co/O2Cx6IXe8q
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPlmr_fTxzx8KP1XCqFMaUqu8p76VmAAJDFWsbCDP5V_5I65AuJUkeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123543880780132572)
 
 ---
 
