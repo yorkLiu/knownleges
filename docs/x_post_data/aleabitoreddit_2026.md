@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 633 条推文
+> 📊 推文存档 - 共 634 条推文
 
 ---
 
@@ -110,11 +110,23 @@ That being said, $SOI accelerating from $25m quarterly photonics-SOI revenue… 
 
 Into securing $1.2B in agreements this quarter, backed by cash, is extremely transformative and make https://t.co/XqNDTrdIQb
 
-<img src="/images/aleabitoreddit/HXeaIHgaUAAuNBn.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPj2r-uKQIO7QLeS6VXQy7XA-P0k43AAKaE2sbCDP5Vya5rK1nxj6wAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-19 21:02:59
 
-[查看原文](https://x.com/aleabitoreddit/status/2123335230870392843)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+That’s the signal of confidence I like to see: $COHR issues a new $2B share buyback, through open market purchases.
+
+Optical industry looks very undervalued right now, especially as it reaches the inflection of the next supercycle.
+
+We’re already seeing photonics-SOI substrate https://t.co/DZEaMisCI1
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPkmr--nKt2UTTzOydhOq_iRKZcizlAAJSFGsbCDP5V1PFtAABaLAhOwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123401652782923980)
 
 ---
 
