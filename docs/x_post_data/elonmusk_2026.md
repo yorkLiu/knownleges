@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5086 条推文
+> 📊 推文存档 - 共 5089 条推文
 
 ---
 
@@ -381,8 +381,6 @@ RT @milichab: One-shot your trip with @bot
 
 RT @marsrepublica: Elon gave two talks today at DealBook and TomorrowX Summit, revealing more about SpaceX's plans than most earnings calls…
 
-[查看原文](https://x.com/elonmusk/status/2123295424056598774)
-
 ---
 
 ## 2026-11-19 14:07:29
@@ -395,8 +393,6 @@ RT @SpaceInvestor_D: $SPCX: Satya Nadella says Microsoft would rent SpaceX compu
 
 Asked at DealBook whether Musk is right about data cen…
 
-[查看原文](https://x.com/elonmusk/status/2123297089946034502)
-
 ---
 
 ## 2026-11-19 14:07:52
@@ -406,8 +402,6 @@ Asked at DealBook whether Musk is right about data cen…
 **内容**:
 
 RT @jimfarley98: Ford is officially in the battery business.  We’ll be the first to deliver LFP batteries in the U.S. for mainstream consum…
-
-[查看原文](https://x.com/elonmusk/status/2123297185160933681)
 
 ---
 
@@ -421,7 +415,43 @@ Yes.
 
 Only questions are how fast the singularity will grow and to what size.
 
-[查看原文](https://x.com/elonmusk/status/2123298515573207075)
+---
+
+## 2026-11-19 15:23:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: HMD Trucking has taken delivery of its FIRST Tesla Semi from a 50-truck order in Illinois
+
+Before committing to the order, HMD…
+
+[查看原文](https://x.com/elonmusk/status/2123316265175728588)
+
+---
+
+## 2026-11-19 15:30:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+𝕏 Money is growing fast
+
+[查看原文](https://x.com/elonmusk/status/2123317934747746611)
+
+---
+
+## 2026-11-19 15:30:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Nasdaq: The Nasdaq Tower lights up for @SpaceX's historic Starship Flight 15, featuring the first catch of Starship’s upper stage, plus…
+
+[查看原文](https://x.com/elonmusk/status/2123318091102986520)
 
 ---
 
