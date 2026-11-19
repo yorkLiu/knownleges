@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 794 条推文
+> 📊 推文存档 - 共 795 条推文
 
 ---
 
@@ -125,9 +125,19 @@ tags: ["2026"]
 
 在中期選舉民主黨拿下美國參眾兩院後，還要震攝獨裁者，保證亞太地區的和平，這事其實是很不容易的，即使如川普這樣的強人政治風格，難度也相當大。 https://t.co/0NoIVSoQUG
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPkGr-1h9vLjW_HMm4CZIN7DNjsbOPAALkE2sbCDP5V_NdukTYT7MjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2123365662710288878)
+## 2026-11-19 19:07:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+蛛絲馬跡一 https://t.co/YWJa2yOzrb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPkWr-3WU3QeUUe5T4BYcINWRjlk1zAALuE2sbCDP5V3n2m5ovNDoCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2123372706322358428)
 
 ---
 
