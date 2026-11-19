@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5066 条推文
+> 📊 推文存档 - 共 5069 条推文
 
 ---
 
@@ -91,8 +91,6 @@ RT @cb_doge: Elon Musk on Neuralink's BlindSight:
 
 "Our next product is what we call BlindSight. So BlindSight is a neural implant that int…
 
-[查看原文](https://x.com/elonmusk/status/2123214541756813633)
-
 ---
 
 ## 2026-11-19 08:39:39
@@ -103,8 +101,6 @@ RT @cb_doge: Elon Musk on Neuralink's BlindSight:
 
 RT @aaronburnett: Elon - “any self respecting civilization needs to be a multi-planetary civilization… come on guys let’s represent here”…
 
-[查看原文](https://x.com/elonmusk/status/2123214587499827565)
-
 ---
 
 ## 2026-11-19 08:41:46
@@ -114,8 +110,6 @@ RT @aaronburnett: Elon - “any self respecting civilization needs to be a multi
 **内容**:
 
 RT @KanekoaTheGreat: Elon Musk reveals what really drives him to make humanity a star-faring civilization: “It’s life insurance, but for ev…
-
-[查看原文](https://x.com/elonmusk/status/2123215119987753433)
 
 ---
 
@@ -128,8 +122,6 @@ RT @KanekoaTheGreat: Elon Musk reveals what really drives him to make humanity a
 RT @KanekoaTheGreat: Elon Musk responds to Democrats calling for his imprisonment: “It was like prison first, crime later.”
 
 “I don’t think…
-
-[查看原文](https://x.com/elonmusk/status/2123215712856785209)
 
 ---
 
@@ -145,8 +137,6 @@ RT @cb_doge: Here's Elon Musk's full interview at DealBook Summit today:
 0:31 Jensen Huang Situation
 2:44 Jensen Like…
 
-[查看原文](https://x.com/elonmusk/status/2123215952326390100)
-
 ---
 
 ## 2026-11-19 08:46:36
@@ -156,8 +146,6 @@ RT @cb_doge: Here's Elon Musk's full interview at DealBook Summit today:
 **内容**:
 
 RT @KanekoaTheGreat: Elon Musk predicts 100% of superintelligence compute will be in space, and says Tesla and SpaceX would “probably” be b…
-
-[查看原文](https://x.com/elonmusk/status/2123216337602486308)
 
 ---
 
@@ -171,8 +159,6 @@ RT @GuntherEagleman: 🚨 BOOM: Elon Musk just walked into the New York Times De
 
 Asked about im…
 
-[查看原文](https://x.com/elonmusk/status/2123216469895020839)
-
 ---
 
 ## 2026-11-19 08:47:30
@@ -183,8 +169,6 @@ Asked about im…
 
 RT @firesidealpha: Elon Musk reveals over 30 people now have a Neuralink, some use it to feed themselves with a robot arm, and he's confide…
 
-[查看原文](https://x.com/elonmusk/status/2123216563478356137)
-
 ---
 
 ## 2026-11-19 08:47:47
@@ -194,8 +178,6 @@ RT @firesidealpha: Elon Musk reveals over 30 people now have a Neuralink, some u
 **内容**:
 
 RT @TashaARK: My recap from witnessing the most important engineering feat I've ever seen at @SpaceX :
-
-[查看原文](https://x.com/elonmusk/status/2123216635326816526)
 
 ---
 
@@ -209,7 +191,43 @@ RT @wallstengine: Elon Musk says SpaceX aims to bring online over 1 GW of terres
 
 Its current…
 
-[查看原文](https://x.com/elonmusk/status/2123216714188107804)
+---
+
+## 2026-11-19 09:03:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2123220589657944265)
+
+---
+
+## 2026-11-19 09:03:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: Elon Musk reveals how Starlink saved Ukraine from collapse, and sets the record straight on claims he throttled it:
+
+“…
+
+[查看原文](https://x.com/elonmusk/status/2123220601154466066)
+
+---
+
+## 2026-11-19 09:04:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Catching the ship was the last major piece of the puzzle
+
+[查看原文](https://x.com/elonmusk/status/2123220899264679988)
 
 ---
 
