@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 795 条推文
+> 📊 推文存档 - 共 796 条推文
 
 ---
 
@@ -135,9 +135,21 @@ tags: ["2026"]
 
 蛛絲馬跡一 https://t.co/YWJa2yOzrb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPkWr-3WU3QeUUe5T4BYcINWRjlk1zAALuE2sbCDP5V3n2m5ovNDoCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2123372706322358428)
+## 2026-11-19 20:45:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+好了，談妥了
+
+我感覺
+
+這次伊朗真完了👀
+
+[查看原文](https://x.com/dianzhuXS/status/2123397365033992676)
 
 ---
 
