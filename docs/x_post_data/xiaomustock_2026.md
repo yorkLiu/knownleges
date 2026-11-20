@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 500 条推文
+> 📊 推文存档 - 共 501 条推文
 
 ---
 
@@ -19,7 +19,20 @@ tags: ["2026"]
 
 ai崩了
 
-[查看原文](https://x.com/xiaomustock/status/2123465573665550439)
+---
+
+## 2026-11-20 21:39:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+ant不到24小时破发，正儿八经全球的金融危机。
+这波ant也就龙王赚了把大的，他这个认知是真高。 https://t.co/MpWYvMrwci
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPomsAAU_tMoXvldbpfRv3gfKJy6C1WgACMx9rG7FgAAFUeD5fAqjsvtoBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2123773346290844038)
 
 ---
 
