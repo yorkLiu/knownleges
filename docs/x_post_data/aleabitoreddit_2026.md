@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 642 条推文
+> 📊 推文存档 - 共 643 条推文
 
 ---
 
@@ -123,11 +123,25 @@ But more on AI capex broadening, where deployments are happening, and what Jense
 
 - Everpure CEO stated that enterprises are https://t.co/RDDE4mKTMw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPoGsAAUipxjlPioAiz5PaDNuth6GOSQACIB9rG7FgAAFU8bSGs1vrfEYBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPoWsAAUitlVAd-OBoBNWOl-2tm2J7FgACIR9rG7FgAAFUfYDdNvyJMIUBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-20 23:48:08
 
-[查看原文](https://x.com/aleabitoreddit/status/2123762482280055255)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Feels like every growth equity, even outside of AI, from $HOOD to $NBIS has fallen off a cliff.
+
+Meanwhile bubbles are forming in consumer staples, with valuations not seen since 1999.
+
+Do you guys think markets are right... that premiums given to rocket or AI companies, should https://t.co/uoVpexCarl
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPo2sAAWz-Vwn2hZ40CVVNJUw9qFuhxgACUx9rG7FgAAFUKnT9V8diFJsBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPpGsAAW0BYtaI9KYEcWWVYXGSdBbvlgACVB9rG7FgAAFULST2P77zXm4BAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123805601411277149)
 
 ---
 
