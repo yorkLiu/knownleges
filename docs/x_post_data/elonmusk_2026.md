@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5132 条推文
+> 📊 推文存档 - 共 5133 条推文
 
 ---
 
@@ -89,8 +89,6 @@ RT @stuffyokodraws: I use @bot very extensively, but the most mind blowing thing
 
 Our roof had a small leak because of the…
 
-[查看原文](https://x.com/elonmusk/status/2123814933163094138)
-
 ---
 
 ## 2026-11-21 00:26:23
@@ -103,8 +101,6 @@ RT @XFreeze: Starlink is transforming a remote mountain water gate in Japan that
 
 For years…
 
-[查看原文](https://x.com/elonmusk/status/2123815227942895868)
-
 ---
 
 ## 2026-11-21 00:31:31
@@ -114,8 +110,6 @@ For years…
 **内容**:
 
 Starlink helps education
-
-[查看原文](https://x.com/elonmusk/status/2123816520002482305)
 
 ---
 
@@ -127,8 +121,6 @@ Starlink helps education
 
 Neuralink’s Blindsight product is now just waiting for regulatory approval
 
-[查看原文](https://x.com/elonmusk/status/2123817232849567933)
-
 ---
 
 ## 2026-11-21 00:52:51
@@ -139,9 +131,18 @@ Neuralink’s Blindsight product is now just waiting for regulatory approval
 
 RT @summer__heidi: Deception needs a motive, and a motive needs a soul https://t.co/ALegDU7oQ6
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPp2sAAXuFmyBDsS6W2ANCD5wuQI2FxwACah9rG7FgAAFUndy1QP7pcW0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2123821887746920471)
+## 2026-11-21 01:17:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Made with Grok @Bot
+https://t.co/b1rXfw9h4K
+
+[查看原文](https://x.com/elonmusk/status/2123827993382687217)
 
 ---
 
