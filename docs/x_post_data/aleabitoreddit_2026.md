@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 645 条推文
+> 📊 推文存档 - 共 646 条推文
 
 ---
 
@@ -31,9 +31,23 @@ https://t.co/WnjrVcXuMv
 &gt; Trump: "Let's ban new datacenters overseas"
 &gt; $CRWV: ??? https://t.co/2sOPrHkl9J
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPqmsAAZFSeEZReGhusnh0OY_A-cRErwAC0B9rG7FgAAFUgUs3H9UbwcQBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123841418577973727)
+## 2026-11-21 02:50:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I covered this earlier in Jan regarding PCB bottlenecks with photonics + $AMZN Kuiper / $SPCX starlink supply chains.
+
+But as an update, it like other industries outside of AI are really starting to feel the pain now too.  
+
+Global Electronics Association: "Is issuing this https://t.co/VXg999AfTb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPrGsAAZiYXw3GM_p4e_IyyGwa_gABXsQAAtIfaxuxYAABVNGbH2esCvEnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123851594811011470)
 
 ---
 

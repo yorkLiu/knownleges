@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5138 条推文
+> 📊 推文存档 - 共 5142 条推文
 
 ---
 
@@ -193,8 +193,6 @@ RT @iiiichigo_chan: holy f*ck... you will never give a store your real email aga
 
 every Grok Bot c…
 
-[查看原文](https://x.com/elonmusk/status/2123838402986639616)
-
 ---
 
 ## 2026-11-21 02:28:08
@@ -205,7 +203,55 @@ every Grok Bot c…
 
 I was just thinking that (for myself) stupidity doesn’t count unless I’m also really obstinate about it
 
-[查看原文](https://x.com/elonmusk/status/2123845867526574261)
+---
+
+## 2026-11-21 02:30:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Haven’t read it, but probably mostly (80% or so) accurate
+
+[查看原文](https://x.com/elonmusk/status/2123846481488789866)
+
+---
+
+## 2026-11-21 02:34:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is where the smart people are
+
+[查看原文](https://x.com/elonmusk/status/2123847352582897719)
+
+---
+
+## 2026-11-21 02:36:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @finkd: Wait which version did I get? https://t.co/mGDZzAD3aw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPq2sAAZiUJFgicg-sT3o4tu_6lKGw4wAC0R9rG7FgAAFUjyuXGovqsvEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2123848092684550631)
+
+---
+
+## 2026-11-21 02:55:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …
+
+[查看原文](https://x.com/elonmusk/status/2123852660688494744)
 
 ---
 
