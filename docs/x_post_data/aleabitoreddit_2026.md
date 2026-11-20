@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 644 条推文
+> 📊 推文存档 - 共 645 条推文
 
 ---
 
@@ -19,9 +19,21 @@ tags: ["2026"]
 
 https://t.co/WnjrVcXuMv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPqGsAAXuJ3ZpUpf_In75Awpb0yQtaggACax9rG7FgAAFUHg4AAcawpXgjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123820597465776460)
+## 2026-11-21 02:10:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+&gt; Democrats: "Let's ban new datacenters in the US"
+&gt; Trump: "Let's ban new datacenters overseas"
+&gt; $CRWV: ??? https://t.co/2sOPrHkl9J
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPqmsAAZFSeEZReGhusnh0OY_A-cRErwAC0B9rG7FgAAFUgUs3H9UbwcQBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123841418577973727)
 
 ---
 
