@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 799 条推文
+> 📊 推文存档 - 共 800 条推文
 
 ---
 
@@ -31,9 +31,25 @@ tags: ["2026"]
 
 2027丁未年紅羊劫，從精神病國值年卦推測，各種災難還是從習近平始發輻射全世界。所以切割是必須的，也是正常人類一日三省的常態，那裡的人和事粘上就掉一層皮，絕對不可掉以輕心。 https://t.co/1UVImzXZH5
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPm2r_xeOWXSa62bQLQZyyWpvA9omiAAITFWsbCDMBVH-_UtDN356lAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2123626216662213028)
+## 2026-11-20 13:47:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+習近平接下來要形成的迷之自豪感
+「精神病國全蛆群體意識」
+大概率就是下面這句話～
+
+【自從變成了一坨狗屎，就再也沒有人敢踩在我頭上啦】
+
+嗯，穿新鞋的都注意點
+畫面感有木有？
+🤗🤗🤗
+
+[查看原文](https://x.com/dianzhuXS/status/2123654541837205586)
 
 ---
 
