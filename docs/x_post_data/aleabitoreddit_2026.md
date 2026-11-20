@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 637 条推文
+> 📊 推文存档 - 共 638 条推文
 
 ---
 
@@ -55,7 +55,23 @@ Many senior management and engineers can easily retire after Nvidia stock apprec
 
 They don't need to continue working sitting on
 
-[查看原文](https://x.com/aleabitoreddit/status/2123565807653552458)
+---
+
+## 2026-11-20 09:26:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. 
+
+If you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Samsung Electronics photonics foundry https://t.co/YQzM1Y6yPB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPl2r_qNFqpGAsMmkQVVELEgL6ulSFAALfFGsbCDMBVJtdwLXASyX_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPmGr_qNSyfHT9kB4qHyi734Jx4J44AALgFGsbCDMBVCxsj98qixHoAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123588783753048553)
 
 ---
 
