@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5113 条推文
+> 📊 推文存档 - 共 5115 条推文
 
 ---
 
@@ -163,7 +163,31 @@ RT @yunta_tsai: In retrospect, barely needing to drive came long before barely n
 
 This is not AI 😂
 
-[查看原文](https://x.com/elonmusk/status/2123695317375992288)
+---
+
+## 2026-11-20 18:12:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Tesla_Asia: Great to have Elon at Giga Shanghai!
+
+During his brief visit to China, Elon made a special stop to thank our teams across A…
+
+[查看原文](https://x.com/elonmusk/status/2123721195313127638)
+
+---
+
+## 2026-11-20 18:34:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo
+
+[查看原文](https://x.com/elonmusk/status/2123726569206415815)
 
 ---
 
