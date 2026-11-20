@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5115 条推文
+> 📊 推文存档 - 共 5120 条推文
 
 ---
 
@@ -175,8 +175,6 @@ RT @Tesla_Asia: Great to have Elon at Giga Shanghai!
 
 During his brief visit to China, Elon made a special stop to thank our teams across A…
 
-[查看原文](https://x.com/elonmusk/status/2123721195313127638)
-
 ---
 
 ## 2026-11-20 18:34:05
@@ -187,7 +185,65 @@ During his brief visit to China, Elon made a special stop to thank our teams acr
 
 Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo
 
-[查看原文](https://x.com/elonmusk/status/2123726569206415815)
+---
+
+## 2026-11-20 19:17:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop…
+
+[查看原文](https://x.com/elonmusk/status/2123737556898709609)
+
+---
+
+## 2026-11-20 19:19:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jamesdouma: The magnitude of the consumer surplus for AI tools is mind boggling. My Grok subscription has probably already saved (made?…
+
+[查看原文](https://x.com/elonmusk/status/2123737911078408345)
+
+---
+
+## 2026-11-20 19:19:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2123737976710848580)
+
+---
+
+## 2026-11-20 19:19:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: SpaceX provided food, water and mobile Starlink units to emergency crews responding to flooding in Cocoa Beach, Flor…
+
+[查看原文](https://x.com/elonmusk/status/2123738034453819542)
+
+---
+
+## 2026-11-20 19:23:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @andst7: Approvata la guida autonoma di Tesla in Italia: è il primo dei grandi Paesi europei ad approvarla. Complimenti al sindaco di Ro…
+
+[查看原文](https://x.com/elonmusk/status/2123739064893600056)
 
 ---
 
