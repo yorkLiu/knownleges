@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5127 条推文
+> 📊 推文存档 - 共 5132 条推文
 
 ---
 
@@ -21,8 +21,6 @@ RT @matteosalvinimi: Sono orgoglioso di annunciare un’altra importante novità
 
 Il @mitgov_it, dopo puntuale veri…
 
-[查看原文](https://x.com/elonmusk/status/2123808830752706658)
-
 ---
 
 ## 2026-11-21 00:03:44
@@ -35,8 +33,6 @@ RT @XFreeze: Back in 2019, Elon Musk stood on an empty field in Shanghai and bro
 
 Less than a ye…
 
-[查看原文](https://x.com/elonmusk/status/2123809527158161619)
-
 ---
 
 ## 2026-11-21 00:06:41
@@ -46,10 +42,6 @@ Less than a ye…
 **内容**:
 
 RT @SpaceX: Members of the Starship production team with Starship 42 before its launch https://t.co/1yPiV8h5Zu
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPpWsAAXRBobxHiPYRJXjzxkKlWr5x5wACYB9rG7FgAAFU0kwVOJYXOHQBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2123810270426624429)
 
 ---
 
@@ -63,8 +55,6 @@ RT @XFreeze: Starlink just secured another major spectrum expansion in Brazil, a
 
 Brazil's telecom r…
 
-[查看原文](https://x.com/elonmusk/status/2123810595933917215)
-
 ---
 
 ## 2026-11-21 00:19:36
@@ -74,8 +64,6 @@ Brazil's telecom r…
 **内容**:
 
 𝕏 is the global town square
-
-[查看原文](https://x.com/elonmusk/status/2123813520244605100)
 
 ---
 
@@ -89,7 +77,71 @@ RT @pequityresearch: Morgan Stanley: SpaceX
 
 Morgan Stanley's latest report indicates that a single fully loaded Starship launch could gene…
 
-[查看原文](https://x.com/elonmusk/status/2123814401346298037)
+---
+
+## 2026-11-21 00:25:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stuffyokodraws: I use @bot very extensively, but the most mind blowing thing just happened 🤯
+
+Our roof had a small leak because of the…
+
+[查看原文](https://x.com/elonmusk/status/2123814933163094138)
+
+---
+
+## 2026-11-21 00:26:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Starlink is transforming a remote mountain water gate in Japan that sits completely outside mobile network coverage
+
+For years…
+
+[查看原文](https://x.com/elonmusk/status/2123815227942895868)
+
+---
+
+## 2026-11-21 00:31:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink helps education
+
+[查看原文](https://x.com/elonmusk/status/2123816520002482305)
+
+---
+
+## 2026-11-21 00:34:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Neuralink’s Blindsight product is now just waiting for regulatory approval
+
+[查看原文](https://x.com/elonmusk/status/2123817232849567933)
+
+---
+
+## 2026-11-21 00:52:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @summer__heidi: Deception needs a motive, and a motive needs a soul https://t.co/ALegDU7oQ6
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPp2sAAXuFmyBDsS6W2ANCD5wuQI2FxwACah9rG7FgAAFUndy1QP7pcW0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2123821887746920471)
 
 ---
 
