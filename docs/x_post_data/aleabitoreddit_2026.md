@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 638 条推文
+> 📊 推文存档 - 共 639 条推文
 
 ---
 
@@ -67,11 +67,29 @@ True, I've looked at biotech, physical AI, cybersecurity, space, and others... B
 
 If you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Samsung Electronics photonics foundry https://t.co/YQzM1Y6yPB
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPl2r_qNFqpGAsMmkQVVELEgL6ulSFAALfFGsbCDMBVJtdwLXASyX_AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPmGr_qNSyfHT9kB4qHyi734Jx4J44AALgFGsbCDMBVCxsj98qixHoAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-20 10:03:56
 
-[查看原文](https://x.com/aleabitoreddit/status/2123588783753048553)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I'm actually very impressed with market-chan. If we look at ESMT numbers today: 
+
+&gt; $1.58B MC
+&gt; $747M net cash, $274.7M net inventory from Q3
+&gt; $349.5M in Q3 free cash flow
+Adjusted EV: $559.3M
+
+&gt; Q3 net income: $327M (1.2x annualized P/E)
+&gt; October net income (likely another https://t.co/I6NaBlImSg
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPmWr_sBXeTdIhBxMddTxpD03S7H8_AALqFGsbCDMBVM5hRKhTwKv2AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPmmr_sBgK8-s0Ji2w7_0wltixg6XOAALrFGsbCDMBVExH6QTUUJhhAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123598186065559858)
 
 ---
 
