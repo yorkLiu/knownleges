@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 641 条推文
+> 📊 推文存档 - 共 642 条推文
 
 ---
 
@@ -109,9 +109,25 @@ Phison CEO commentary today + more context behind $SNDK / Kioxia selloff regardi
 
 When the world needed him most, he vanished https://t.co/6igDsoOPBd
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPn2sAATokarOyXSXNtDIqx7KikkrzPQACBB9rG7FgAAFUORRQLPET-l0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123749426019868932)
+## 2026-11-20 20:56:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$P earnings were actually interesting, not really in terms actionable investments. 
+
+But more on AI capex broadening, where deployments are happening, and what Jensen at $NVDA might envisioned with open weight model + GPU demand. 
+
+- Everpure CEO stated that enterprises are https://t.co/RDDE4mKTMw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPoGsAAUipxjlPioAiz5PaDNuth6GOSQACIB9rG7FgAAFU8bSGs1vrfEYBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPoWsAAUitlVAd-OBoBNWOl-2tm2J7FgACIR9rG7FgAAFUfYDdNvyJMIUBAAMCAAN5AAM9BA.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123762482280055255)
 
 ---
 
