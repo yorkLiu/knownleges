@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 639 条推文
+> 📊 推文存档 - 共 640 条推文
 
 ---
 
@@ -85,11 +85,23 @@ Adjusted EV: $559.3M
 &gt; Q3 net income: $327M (1.2x annualized P/E)
 &gt; October net income (likely another https://t.co/I6NaBlImSg
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPmWr_sBXeTdIhBxMddTxpD03S7H8_AALqFGsbCDMBVM5hRKhTwKv2AQADAgADeAADPQQ.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPmmr_sBgK8-s0Ji2w7_0wltixg6XOAALrFGsbCDMBVExH6QTUUJhhAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-20 12:23:42
 
-[查看原文](https://x.com/aleabitoreddit/status/2123598186065559858)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Markets appear to be wrongly interpreting Chinese eSSD cuts as deteriorating demand and NAND oversupply.
+
+Phison CEO commentary today + more context behind $SNDK / Kioxia selloff regarding Trendforce revisions: 
+
+- "Pua attributed China's recent enterprise SSD demand slowdown to https://t.co/WSZor09KJ9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPnGr_zSx7ZVQ3LGij4158K87WWE20AAIeFWsbCDMBVBn5GLbmqKUOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123633356969775107)
 
 ---
 
