@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5109 条推文
+> 📊 推文存档 - 共 5112 条推文
 
 ---
 
@@ -111,8 +111,6 @@ You can create an entire company made of Grok Bots!
 
 RT @KanekoaTheGreat: Elon Musk explains why SpaceX catching Starship achieves the "holy grail of rocketry," and can cut the cost of access…
 
-[查看原文](https://x.com/elonmusk/status/2123565895318683695)
-
 ---
 
 ## 2026-11-20 08:00:51
@@ -123,7 +121,43 @@ RT @KanekoaTheGreat: Elon Musk explains why SpaceX catching Starship achieves th
 
 RT @debs_obrien: Today I invited my Grok @bot to some meetings. (I just asked it to join. Simple as that). This is more than just a note ta…
 
-[查看原文](https://x.com/elonmusk/status/2123567211768053852)
+---
+
+## 2026-11-20 11:00:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @boringcompany: The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop st…
+
+[查看原文](https://x.com/elonmusk/status/2123612427757732298)
+
+---
+
+## 2026-11-20 11:05:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and en…
+
+[查看原文](https://x.com/elonmusk/status/2123613563394867533)
+
+---
+
+## 2026-11-20 11:18:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: In retrospect, barely needing to drive came long before barely needing to code, a testament to Tesla engineering. 
+
+10/10 w…
+
+[查看原文](https://x.com/elonmusk/status/2123616915650404431)
 
 ---
 
