@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 640 条推文
+> 📊 推文存档 - 共 641 条推文
 
 ---
 
@@ -99,9 +99,19 @@ Phison CEO commentary today + more context behind $SNDK / Kioxia selloff regardi
 
 - "Pua attributed China's recent enterprise SSD demand slowdown to https://t.co/WSZor09KJ9
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPnGr_zSx7ZVQ3LGij4158K87WWE20AAIeFWsbCDMBVBn5GLbmqKUOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123633356969775107)
+## 2026-11-20 20:04:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+When the world needed him most, he vanished https://t.co/6igDsoOPBd
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPn2sAATokarOyXSXNtDIqx7KikkrzPQACBB9rG7FgAAFUORRQLPET-l0BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123749426019868932)
 
 ---
 
