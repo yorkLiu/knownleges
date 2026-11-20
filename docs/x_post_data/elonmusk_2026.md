@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5133 条推文
+> 📊 推文存档 - 共 5136 条推文
 
 ---
 
@@ -142,7 +142,52 @@ RT @summer__heidi: Deception needs a motive, and a motive needs a soul https://t
 Made with Grok @Bot
 https://t.co/b1rXfw9h4K
 
-[查看原文](https://x.com/elonmusk/status/2123827993382687217)
+---
+
+## 2026-11-21 01:47:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: Caring about the working class means more than handing out uninspiring jobs. 
+
+Make the factory cool and the work meaningfu…
+
+[查看原文](https://x.com/elonmusk/status/2123835565665820817)
+
+---
+
+## 2026-11-21 01:51:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @anabology: Try the Claudia Grok Bot!
+
+https://t.co/VcQYivvtOc
+
+https://t.co/jX4Rfk2mRr
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPqWsAAYoMHcuPa4cyL54_mCR76nBVTQACzB9rG7FgAAFU7AGSbU4k3J8BAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2123836622827663572)
+
+---
+
+## 2026-11-21 01:55:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @poteto: small updates in pstack v0.15.46
+
+• lots of pruning, skills are now much shorter
+• gemini 4 neon is added as a panel reviewer…
+
+[查看原文](https://x.com/elonmusk/status/2123837595704836144)
 
 ---
 
