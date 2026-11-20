@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 646 条推文
+> 📊 推文存档 - 共 647 条推文
 
 ---
 
@@ -45,9 +45,23 @@ But as an update, it like other industries outside of AI are really starting to 
 
 Global Electronics Association: "Is issuing this https://t.co/VXg999AfTb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPrGsAAZiYXw3GM_p4e_IyyGwa_gABXsQAAtIfaxuxYAABVNGbH2esCvEnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123851594811011470)
+## 2026-11-21 04:39:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$NVDA drops over -12%+, from a new report that the SEC is probing potential accounting issues at Nvidia.
+
+At this point, the collateral damage is starting to hit major indexes and retirement portfolios.
+
+It's just wild to witness a $5T+ company crash -46%+ in weeks. https://t.co/pb32leFCIB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPrWsAAbZgGCfV7EFVZK0b6DRjbTeuRgAC2R9rG7FgAAFUwuJ21CPaSKABAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2123878986686333308)
 
 ---
 
