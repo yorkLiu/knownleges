@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 802 条推文
+> 📊 推文存档 - 共 803 条推文
 
 ---
 
@@ -78,9 +78,18 @@ tags: ["2026"]
 
 AI的正確用法 https://t.co/63qYloVbsY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPnmsAASRWRgM52sV5kQvZaziD-kjHEgAC3x5rG7FgAAFUkLSmRu-ApFwBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2123721666715144670)
+## 2026-11-20 20:31:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+赤馬紅羊 | “一手好牌”被打爛！接下來的世界，究竟會走向哪裡？（下）
+https://t.co/HynYoERpqR
+
+[查看原文](https://x.com/dianzhuXS/status/2123756145143869610)
 
 ---
 
