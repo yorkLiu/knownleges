@@ -7,7 +7,89 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5120 条推文
+> 📊 推文存档 - 共 5127 条推文
+
+---
+
+## 2026-11-21 00:00:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @matteosalvinimi: Sono orgoglioso di annunciare un’altra importante novità per la mobilità in Italia.
+
+Il @mitgov_it, dopo puntuale veri…
+
+[查看原文](https://x.com/elonmusk/status/2123808830752706658)
+
+---
+
+## 2026-11-21 00:03:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Back in 2019, Elon Musk stood on an empty field in Shanghai and broke ground on Tesla’s first factory in China
+
+Less than a ye…
+
+[查看原文](https://x.com/elonmusk/status/2123809527158161619)
+
+---
+
+## 2026-11-21 00:06:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Members of the Starship production team with Starship 42 before its launch https://t.co/1yPiV8h5Zu
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPpWsAAXRBobxHiPYRJXjzxkKlWr5x5wACYB9rG7FgAAFU0kwVOJYXOHQBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2123810270426624429)
+
+---
+
+## 2026-11-21 00:07:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Starlink just secured another major spectrum expansion in Brazil, and the authorization is now OFFICIAL 🇧🇷
+
+Brazil's telecom r…
+
+[查看原文](https://x.com/elonmusk/status/2123810595933917215)
+
+---
+
+## 2026-11-21 00:19:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+𝕏 is the global town square
+
+[查看原文](https://x.com/elonmusk/status/2123813520244605100)
+
+---
+
+## 2026-11-21 00:23:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pequityresearch: Morgan Stanley: SpaceX
+
+Morgan Stanley's latest report indicates that a single fully loaded Starship launch could gene…
+
+[查看原文](https://x.com/elonmusk/status/2123814401346298037)
 
 ---
 
@@ -195,8 +277,6 @@ Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Di
 
 RT @cb_doge: Elon Musk’s Boring Company has signed a 40-year agreement with Nashville International Airport, advancing the Music City Loop…
 
-[查看原文](https://x.com/elonmusk/status/2123737556898709609)
-
 ---
 
 ## 2026-11-20 19:19:09
@@ -206,8 +286,6 @@ RT @cb_doge: Elon Musk’s Boring Company has signed a 40-year agreement with Na
 **内容**:
 
 RT @jamesdouma: The magnitude of the consumer surplus for AI tools is mind boggling. My Grok subscription has probably already saved (made?…
-
-[查看原文](https://x.com/elonmusk/status/2123737911078408345)
 
 ---
 
@@ -219,8 +297,6 @@ RT @jamesdouma: The magnitude of the consumer surplus for AI tools is mind boggl
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2123737976710848580)
-
 ---
 
 ## 2026-11-20 19:19:39
@@ -230,8 +306,6 @@ Yes
 **内容**:
 
 RT @cb_doge: BREAKING: SpaceX provided food, water and mobile Starlink units to emergency crews responding to flooding in Cocoa Beach, Flor…
-
-[查看原文](https://x.com/elonmusk/status/2123738034453819542)
 
 ---
 
@@ -243,7 +317,21 @@ RT @cb_doge: BREAKING: SpaceX provided food, water and mobile Starlink units to 
 
 RT @andst7: Approvata la guida autonoma di Tesla in Italia: è il primo dei grandi Paesi europei ad approvarla. Complimenti al sindaco di Ro…
 
-[查看原文](https://x.com/elonmusk/status/2123739064893600056)
+---
+
+## 2026-11-20 23:57:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KTmBoyle: This came home from Kindergarten today.
+
+My work is done here. 🦃 🇺🇸🚀💪 https://t.co/WVopeNowAw
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPpmsAAXRFWZZfwKZu0w6hThQH6zXBqQACYR9rG7FgAAFUzNq7fLeI6qwBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2123807866134163762)
 
 ---
 
