@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5112 条推文
+> 📊 推文存档 - 共 5113 条推文
 
 ---
 
@@ -131,8 +131,6 @@ RT @debs_obrien: Today I invited my Grok @bot to some meetings. (I just asked it
 
 RT @boringcompany: The Boring Company and Metropolitan Nashville Airport Authority have signed a 40-year agreement for a Music City Loop st…
 
-[查看原文](https://x.com/elonmusk/status/2123612427757732298)
-
 ---
 
 ## 2026-11-20 11:05:03
@@ -142,8 +140,6 @@ RT @boringcompany: The Boring Company and Metropolitan Nashville Airport Authori
 **内容**:
 
 RT @SpaceX: On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and en…
-
-[查看原文](https://x.com/elonmusk/status/2123613563394867533)
 
 ---
 
@@ -157,7 +153,17 @@ RT @yunta_tsai: In retrospect, barely needing to drive came long before barely n
 
 10/10 w…
 
-[查看原文](https://x.com/elonmusk/status/2123616915650404431)
+---
+
+## 2026-11-20 16:29:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is not AI 😂
+
+[查看原文](https://x.com/elonmusk/status/2123695317375992288)
 
 ---
 
