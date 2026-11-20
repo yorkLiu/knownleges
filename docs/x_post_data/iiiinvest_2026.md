@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 284 条推文
+> 📊 推文存档 - 共 285 条推文
 
 ---
 
@@ -19,9 +19,19 @@ tags: ["2026"]
 
 根据指导思想，ANT高开太多空了一把，赚了7万美金。 https://t.co/h0f64TkjWu
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPlGr_NJTiPXTj-bS2KwL2kj4jaLjVAAIqFWsbCDP5V5D_nwVdxCvNAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2123464994075689168)
+## 2026-11-20 08:08:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+天塌了，纳指、标普、道指三大指数全部破位了。周二52多卖掉半导体，又逃顶了，最近你鱼哥神了。。。
+
+既然市场已经选择向下，就要想清楚如何应对了，晚点梳理下发给吾弟。❤️
+
+[查看原文](https://x.com/iiiinvest/status/2123569105395466349)
 
 ---
 

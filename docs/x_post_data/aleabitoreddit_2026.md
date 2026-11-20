@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 636 条推文
+> 📊 推文存档 - 共 637 条推文
 
 ---
 
@@ -39,9 +39,23 @@ Given on-device inference isn't quite ready yet for complex workflows...
 
 This is pretty positive for https://t.co/O2Cx6IXe8q
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPlmr_fTxzx8KP1XCqFMaUqu8p76VmAAJDFWsbCDP5V_5I65AuJUkeAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2123543880780132572)
+## 2026-11-20 07:55:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I'm hearing multiple things from industry executives:
+
+1. Potential $NVDA employee exodus if Jensen doesn't come back soon.
+
+Many senior management and engineers can easily retire after Nvidia stock appreciation over the years.
+
+They don't need to continue working sitting on
+
+[查看原文](https://x.com/aleabitoreddit/status/2123565807653552458)
 
 ---
 

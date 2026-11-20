@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5107 条推文
+> 📊 推文存档 - 共 5109 条推文
 
 ---
 
@@ -101,7 +101,29 @@ SOR…
 
 You can create an entire company made of Grok Bots!
 
-[查看原文](https://x.com/elonmusk/status/2123475464043786417)
+---
+
+## 2026-11-20 07:55:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KanekoaTheGreat: Elon Musk explains why SpaceX catching Starship achieves the "holy grail of rocketry," and can cut the cost of access…
+
+[查看原文](https://x.com/elonmusk/status/2123565895318683695)
+
+---
+
+## 2026-11-20 08:00:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @debs_obrien: Today I invited my Grok @bot to some meetings. (I just asked it to join. Simple as that). This is more than just a note ta…
+
+[查看原文](https://x.com/elonmusk/status/2123567211768053852)
 
 ---
 
