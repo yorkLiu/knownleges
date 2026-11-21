@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5179 条推文
+> 📊 推文存档 - 共 5181 条推文
 
 ---
 
@@ -118,8 +118,6 @@ RT @SawyerMerritt: Here are the new FSD visualizations in FSD V15. It continuous
 
 This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …
 
-[查看原文](https://x.com/elonmusk/status/2124270426402836626)
-
 ---
 
 ## 2026-11-22 06:35:28
@@ -134,8 +132,6 @@ FSD V13 built on that and reduced interventions.
 
 FSD V14 brought…
 
-[查看原文](https://x.com/elonmusk/status/2124270500016799847)
-
 ---
 
 ## 2026-11-22 06:35:56
@@ -146,9 +142,31 @@ FSD V14 brought…
 
 RT @SawyerMerritt: FSD visualizations 6 years apart https://t.co/rhQY2hZ5sX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPuGsCIXcrxqXWfza3yF0THsKyD8JoAAL-EWsbJvERVFXA5pZmj4jAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2124270615293034997)
+## 2026-11-22 07:16:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Give Grok @Bot your hardest tasks
+
+[查看原文](https://x.com/elonmusk/status/2124280710747840889)
+
+---
+
+## 2026-11-22 07:16:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pduan: v15 is 25x safer than v14 across the fleet.
+
+That’s hard to notice on any individual drive because most drives are already very…
+
+[查看原文](https://x.com/elonmusk/status/2124280942034661544)
 
 ---
 
