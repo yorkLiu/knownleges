@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5154 条推文
+> 📊 推文存档 - 共 5165 条推文
 
 ---
 
@@ -338,10 +338,6 @@ Even if Riemann turns out not to be fully solved yet, it will be soon enough
 
 RT @cb_doge: Elon Musk with his brother Kimbal and sister Tosca in 1990. https://t.co/3Rfh71a6kF
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPsWsBVj2tyGwDY_Aqg4j00ArkMH4LAAJ_GWsbsWAIVCbNoU_BC7cIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124055052796998045)
-
 ---
 
 ## 2026-11-21 16:20:03
@@ -351,10 +347,6 @@ RT @cb_doge: Elon Musk with his brother Kimbal and sister Tosca in 1990. https:/
 **内容**:
 
 RT @robotaxi: Cybercab can be anything you want it to be 🎺  https://t.co/GqIMnqC8as
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPsGsBVjqBoAUErM__Awo0vbph25m4AAJ-GWsbsWAIVFlyX9QwCHD6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124055224314978496)
 
 ---
 
@@ -366,10 +358,6 @@ RT @robotaxi: Cybercab can be anything you want it to be 🎺  https://t.co/GqIM
 
 RT @ArthurMacwaters: Grok bot is still by far my most used personal agent https://t.co/FUMr1ienVY
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPr2sBVjcZMK5M4cr1uGSUXLOcjPIQAAJ9GWsbsWAIVPqd0KljmnbnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124055280577056946)
-
 ---
 
 ## 2026-11-21 16:22:45
@@ -380,7 +368,146 @@ RT @ArthurMacwaters: Grok bot is still by far my most used personal agent https:
 
 RT @djseo: 2 joysticks and 12 buttons of control with his brain
 
-[查看原文](https://x.com/elonmusk/status/2124055906237440073)
+---
+
+## 2026-11-21 17:12:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aelluswamy: ✨
+
+[查看原文](https://x.com/elonmusk/status/2124068322543374735)
+
+---
+
+## 2026-11-21 17:15:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX is turning Starship production into something that looks more like a car factory than a traditional rocket factory
+
+Ins…
+
+[查看原文](https://x.com/elonmusk/status/2124069102969131346)
+
+---
+
+## 2026-11-21 17:15:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattyp: Grok Bot can do cool stuff on your home network:
+
+- Use @bot to optimize your wi-fi
+- Use @Tailscale in Grok Bot to access your…
+
+[查看原文](https://x.com/elonmusk/status/2124069224855285835)
+
+---
+
+## 2026-11-21 17:15:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX just launched the USSF-317 national security mission for the U.S. Space Force, and the Falcon 9 booster landed successf…
+
+[查看原文](https://x.com/elonmusk/status/2124069277829570867)
+
+---
+
+## 2026-11-21 17:15:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: Liftoff! https://t.co/MliO0n8EfK
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPsmsBZMCbXCrpptKp6pCOPElxgQRFAALHGWsbsWAIVBe0hpzAm4aZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124069292396470550)
+
+---
+
+## 2026-11-21 17:17:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink helps education
+
+[查看原文](https://x.com/elonmusk/status/2124069585590813180)
+
+---
+
+## 2026-11-21 17:18:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2124069831989178660)
+
+---
+
+## 2026-11-21 17:18:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @fchollet: Flashback to June 14, 2024.
+
+At the time, frontier AI models have zero fluid intelligence. They score around 5% on ARC 1. The…
+
+[查看原文](https://x.com/elonmusk/status/2124070041276780761)
+
+---
+
+## 2026-11-21 17:20:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Banger
+
+[查看原文](https://x.com/elonmusk/status/2124070328158900294)
+
+---
+
+## 2026-11-21 17:24:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+XV is the beginning of the “super” part of Tesla SI
+
+[查看原文](https://x.com/elonmusk/status/2124071338394399028)
+
+---
+
+## 2026-11-21 17:24:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Telepathy is very real. What Elon is doing with Neuralink is basically magic
+
+[查看原文](https://x.com/elonmusk/status/2124071537930039551)
 
 ---
 
