@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5142 条推文
+> 📊 推文存档 - 共 5146 条推文
 
 ---
 
@@ -213,8 +213,6 @@ I was just thinking that (for myself) stupidity doesn’t count unless I’m als
 
 Haven’t read it, but probably mostly (80% or so) accurate
 
-[查看原文](https://x.com/elonmusk/status/2123846481488789866)
-
 ---
 
 ## 2026-11-21 02:34:02
@@ -224,8 +222,6 @@ Haven’t read it, but probably mostly (80% or so) accurate
 **内容**:
 
 This is where the smart people are
-
-[查看原文](https://x.com/elonmusk/status/2123847352582897719)
 
 ---
 
@@ -237,10 +233,6 @@ This is where the smart people are
 
 RT @finkd: Wait which version did I get? https://t.co/mGDZzAD3aw
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPq2sAAZiUJFgicg-sT3o4tu_6lKGw4wAC0R9rG7FgAAFUjyuXGovqsvEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2123848092684550631)
-
 ---
 
 ## 2026-11-21 02:55:08
@@ -251,7 +243,55 @@ RT @finkd: Wait which version did I get? https://t.co/mGDZzAD3aw
 
 Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …
 
-[查看原文](https://x.com/elonmusk/status/2123852660688494744)
+---
+
+## 2026-11-21 14:34:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Playing GTA VI with Telepathy
+
+[查看原文](https://x.com/elonmusk/status/2124028719190749681)
+
+---
+
+## 2026-11-21 14:36:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @reflex_division: @elonmusk https://t.co/oFx5livRnT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPrmsBQGxhOgLj4NModlZ7b0zQHCE2AAJtGWsbsWAIVJkAAeFmSiuXTgEAAwIAA3gAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124029266375356422)
+
+---
+
+## 2026-11-21 14:38:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Tesla has released more photos from Elon Musk’s visit to Giga Shanghai, including moments with the team and a specia…
+
+[查看原文](https://x.com/elonmusk/status/2124029554570272948)
+
+---
+
+## 2026-11-21 14:53:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kcoleman: @aakashgupta This is not accurate: "one report erases 468 likes." That's not what the code is doing. The weights are a multip…
+
+[查看原文](https://x.com/elonmusk/status/2124033377208865278)
 
 ---
 
