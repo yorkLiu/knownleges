@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5146 条推文
+> 📊 推文存档 - 共 5150 条推文
 
 ---
 
@@ -253,8 +253,6 @@ Hear me out: “Singularity dot Com”, a dating site for digital superintellige
 
 Playing GTA VI with Telepathy
 
-[查看原文](https://x.com/elonmusk/status/2124028719190749681)
-
 ---
 
 ## 2026-11-21 14:36:54
@@ -264,10 +262,6 @@ Playing GTA VI with Telepathy
 **内容**:
 
 RT @reflex_division: @elonmusk https://t.co/oFx5livRnT
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPrmsBQGxhOgLj4NModlZ7b0zQHCE2AAJtGWsbsWAIVJkAAeFmSiuXTgEAAwIAA3gAAz0E.png" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124029266375356422)
 
 ---
 
@@ -279,8 +273,6 @@ RT @reflex_division: @elonmusk https://t.co/oFx5livRnT
 
 RT @cb_doge: BREAKING: Tesla has released more photos from Elon Musk’s visit to Giga Shanghai, including moments with the team and a specia…
 
-[查看原文](https://x.com/elonmusk/status/2124029554570272948)
-
 ---
 
 ## 2026-11-21 14:53:14
@@ -291,7 +283,58 @@ RT @cb_doge: BREAKING: Tesla has released more photos from Elon Musk’s visit t
 
 RT @kcoleman: @aakashgupta This is not accurate: "one report erases 468 likes." That's not what the code is doing. The weights are a multip…
 
-[查看原文](https://x.com/elonmusk/status/2124033377208865278)
+---
+
+## 2026-11-21 15:30:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. 
+
+And having a “system prompt” is silly! Default behavior should be sensible.
+
+The above are already true for Tesla AI (not yet deserving of “super”). It is
+
+[查看原文](https://x.com/elonmusk/status/2124042864891982292)
+
+---
+
+## 2026-11-21 15:31:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2124043015941767630)
+
+---
+
+## 2026-11-21 15:38:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life.
+
+[查看原文](https://x.com/elonmusk/status/2124044780099285426)
+
+---
+
+## 2026-11-21 15:46:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Even if Riemann turns out not to be fully solved yet, it will be soon enough
+ https://t.co/wqYQ6FI05l
+
+[查看原文](https://x.com/elonmusk/status/2124046857659650295)
 
 ---
 
