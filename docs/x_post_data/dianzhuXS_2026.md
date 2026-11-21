@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 806 条推文
+> 📊 推文存档 - 共 808 条推文
 
 ---
 
@@ -29,9 +29,35 @@ tags: ["2026"]
 
 Threads真是個群魔亂舞的平台😮‍💨 https://t.co/VMorrWpexX
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPs2sBpiW86w5fgEEIfURatWdnPaf9AAJpGmsbsWAIVL-etdyvA-L2AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2124142578912399724)
+## 2026-11-21 22:11:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+誰用AI給改個滑梯🛝？ https://t.co/XQzkZMHyLD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPtGsBrWnDAl_F39FlBR55-DmV6HW1AAKAGmsbsWAIVFDiA3MkWjjbAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124143654386401590)
+
+---
+
+## 2026-11-21 22:14:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這就解釋得通了
+什麼叫「秦州稱王」？
+正解是～
+【把秦城擴建成秦州】
+🤭🤭🤭
+
+[查看原文](https://x.com/dianzhuXS/status/2124144431238684726)
 
 ---
 
