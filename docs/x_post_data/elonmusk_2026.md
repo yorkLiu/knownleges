@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5175 条推文
+> 📊 推文存档 - 共 5176 条推文
 
 ---
 
@@ -76,10 +76,6 @@ In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky fo
 
 You can tap any point on the reality revisualizer to make your car go there.  https://t.co/A5ZB2yFkd7
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPt2sCBGdu4DwayN92WAR4VtpZ9PlbAALsEWsbJvERVBZtmEaV-SQoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124238164512714925)
-
 ---
 
 ## 2026-11-22 04:27:19
@@ -89,8 +85,6 @@ You can tap any point on the reality revisualizer to make your car go there.  ht
 **内容**:
 
 It’s like GTA
-
-[查看原文](https://x.com/elonmusk/status/2124238249686159590)
 
 ---
 
@@ -104,7 +98,17 @@ It’s high time we probed Uranus again!
 
 Much better images are needed (actually).
 
-[查看原文](https://x.com/elonmusk/status/2124241570451054609)
+---
+
+## 2026-11-22 05:54:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated…
+
+[查看原文](https://x.com/elonmusk/status/2124260278518849854)
 
 ---
 
