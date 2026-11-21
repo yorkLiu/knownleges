@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5165 条推文
+> 📊 推文存档 - 共 5167 条推文
 
 ---
 
@@ -378,8 +378,6 @@ RT @djseo: 2 joysticks and 12 buttons of control with his brain
 
 RT @aelluswamy: ✨
 
-[查看原文](https://x.com/elonmusk/status/2124068322543374735)
-
 ---
 
 ## 2026-11-21 17:15:12
@@ -391,8 +389,6 @@ RT @aelluswamy: ✨
 RT @XFreeze: SpaceX is turning Starship production into something that looks more like a car factory than a traditional rocket factory
 
 Ins…
-
-[查看原文](https://x.com/elonmusk/status/2124069102969131346)
 
 ---
 
@@ -407,8 +403,6 @@ RT @mattyp: Grok Bot can do cool stuff on your home network:
 - Use @bot to optimize your wi-fi
 - Use @Tailscale in Grok Bot to access your…
 
-[查看原文](https://x.com/elonmusk/status/2124069224855285835)
-
 ---
 
 ## 2026-11-21 17:15:53
@@ -418,8 +412,6 @@ RT @mattyp: Grok Bot can do cool stuff on your home network:
 **内容**:
 
 RT @XFreeze: SpaceX just launched the USSF-317 national security mission for the U.S. Space Force, and the Falcon 9 booster landed successf…
-
-[查看原文](https://x.com/elonmusk/status/2124069277829570867)
 
 ---
 
@@ -431,10 +423,6 @@ RT @XFreeze: SpaceX just launched the USSF-317 national security mission for the
 
 RT @SpaceX: Liftoff! https://t.co/MliO0n8EfK
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPsmsBZMCbXCrpptKp6pCOPElxgQRFAALHGWsbsWAIVBe0hpzAm4aZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124069292396470550)
-
 ---
 
 ## 2026-11-21 17:17:07
@@ -445,8 +433,6 @@ RT @SpaceX: Liftoff! https://t.co/MliO0n8EfK
 
 Starlink helps education
 
-[查看原文](https://x.com/elonmusk/status/2124069585590813180)
-
 ---
 
 ## 2026-11-21 17:18:05
@@ -456,8 +442,6 @@ Starlink helps education
 **内容**:
 
 Starlink saves lives
-
-[查看原文](https://x.com/elonmusk/status/2124069831989178660)
 
 ---
 
@@ -471,8 +455,6 @@ RT @fchollet: Flashback to June 14, 2024.
 
 At the time, frontier AI models have zero fluid intelligence. They score around 5% on ARC 1. The…
 
-[查看原文](https://x.com/elonmusk/status/2124070041276780761)
-
 ---
 
 ## 2026-11-21 17:20:04
@@ -482,8 +464,6 @@ At the time, frontier AI models have zero fluid intelligence. They score around 
 **内容**:
 
 Banger
-
-[查看原文](https://x.com/elonmusk/status/2124070328158900294)
 
 ---
 
@@ -495,8 +475,6 @@ Banger
 
 XV is the beginning of the “super” part of Tesla SI
 
-[查看原文](https://x.com/elonmusk/status/2124071338394399028)
-
 ---
 
 ## 2026-11-21 17:24:52
@@ -507,7 +485,31 @@ XV is the beginning of the “super” part of Tesla SI
 
 RT @XFreeze: Telepathy is very real. What Elon is doing with Neuralink is basically magic
 
-[查看原文](https://x.com/elonmusk/status/2124071537930039551)
+---
+
+## 2026-11-21 17:41:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Texas_Twins_Dad: I always have my Grok Bot audit my other bots. That way, I know everything is optimized and running efficiently.
+
+Don'…
+
+[查看原文](https://x.com/elonmusk/status/2124075608938324344)
+
+---
+
+## 2026-11-21 17:43:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ecommerceshares: $AAPL at $5 trillion, +27% YTD and barely off all time high, watching the AI carnage, while Siri AI takes 12 seconds o…
+
+[查看原文](https://x.com/elonmusk/status/2124076294677626903)
 
 ---
 
