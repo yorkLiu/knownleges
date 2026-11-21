@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5172 条推文
+> 📊 推文存档 - 共 5175 条推文
 
 ---
 
@@ -34,8 +34,6 @@ And, of course, is yet another mind-blowing thing achieved by super intelligence
 
 https://t.co/F1sAyxwaSF
 
-[查看原文](https://x.com/elonmusk/status/2124213680422387741)
-
 ---
 
 ## 2026-11-22 03:09:08
@@ -45,10 +43,6 @@ https://t.co/F1sAyxwaSF
 **内容**:
 
 RT @leorinaldi1: @elonmusk This will help you visualize the Riemann theory. https://t.co/22C8HMnf2g
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPtmsB7stzGwXwtx9SEsGwqONEL-cTAAJ9F2sbsWAQVJYp9ttH75tXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124218571958206902)
 
 ---
 
@@ -60,8 +54,6 @@ RT @leorinaldi1: @elonmusk This will help you visualize the Riemann theory. http
 
 Grok understands
 
-[查看原文](https://x.com/elonmusk/status/2124219378489311656)
-
 ---
 
 ## 2026-11-22 03:13:24
@@ -72,7 +64,47 @@ Grok understands
 
 Shortest explanation is just: 🤯
 
-[查看原文](https://x.com/elonmusk/status/2124219646459220296)
+---
+
+## 2026-11-22 04:26:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. 
+
+You can tap any point on the reality revisualizer to make your car go there.  https://t.co/A5ZB2yFkd7
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPt2sCBGdu4DwayN92WAR4VtpZ9PlbAALsEWsbJvERVBZtmEaV-SQoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124238164512714925)
+
+---
+
+## 2026-11-22 04:27:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s like GTA
+
+[查看原文](https://x.com/elonmusk/status/2124238249686159590)
+
+---
+
+## 2026-11-22 04:40:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It’s high time we probed Uranus again!
+
+Much better images are needed (actually).
+
+[查看原文](https://x.com/elonmusk/status/2124241570451054609)
 
 ---
 
