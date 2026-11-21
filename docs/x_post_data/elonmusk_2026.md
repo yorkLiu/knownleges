@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5150 条推文
+> 📊 推文存档 - 共 5154 条推文
 
 ---
 
@@ -297,8 +297,6 @@ And having a “system prompt” is silly! Default behavior should be sensible.
 
 The above are already true for Tesla AI (not yet deserving of “super”). It is
 
-[查看原文](https://x.com/elonmusk/status/2124042864891982292)
-
 ---
 
 ## 2026-11-21 15:31:32
@@ -309,8 +307,6 @@ The above are already true for Tesla AI (not yet deserving of “super”). It i
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2124043015941767630)
-
 ---
 
 ## 2026-11-21 15:38:33
@@ -320,8 +316,6 @@ True
 **内容**:
 
 We’ve had monkeys playing video while drinking banana smoothies for 5 years. Not a bad life.
-
-[查看原文](https://x.com/elonmusk/status/2124044780099285426)
 
 ---
 
@@ -334,7 +328,59 @@ We’ve had monkeys playing video while drinking banana smoothies for 5 years. N
 Even if Riemann turns out not to be fully solved yet, it will be soon enough
  https://t.co/wqYQ6FI05l
 
-[查看原文](https://x.com/elonmusk/status/2124046857659650295)
+---
+
+## 2026-11-21 16:19:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon Musk with his brother Kimbal and sister Tosca in 1990. https://t.co/3Rfh71a6kF
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPsWsBVj2tyGwDY_Aqg4j00ArkMH4LAAJ_GWsbsWAIVCbNoU_BC7cIAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124055052796998045)
+
+---
+
+## 2026-11-21 16:20:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @robotaxi: Cybercab can be anything you want it to be 🎺  https://t.co/GqIMnqC8as
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPsGsBVjqBoAUErM__Awo0vbph25m4AAJ-GWsbsWAIVFlyX9QwCHD6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124055224314978496)
+
+---
+
+## 2026-11-21 16:20:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: Grok bot is still by far my most used personal agent https://t.co/FUMr1ienVY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPr2sBVjcZMK5M4cr1uGSUXLOcjPIQAAJ9GWsbsWAIVPqd0KljmnbnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124055280577056946)
+
+---
+
+## 2026-11-21 16:22:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @djseo: 2 joysticks and 12 buttons of control with his brain
+
+[查看原文](https://x.com/elonmusk/status/2124055906237440073)
 
 ---
 
