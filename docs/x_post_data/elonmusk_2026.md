@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5176 条推文
+> 📊 推文存档 - 共 5179 条推文
 
 ---
 
@@ -108,7 +108,47 @@ Much better images are needed (actually).
 
 RT @SawyerMerritt: Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated…
 
-[查看原文](https://x.com/elonmusk/status/2124260278518849854)
+---
+
+## 2026-11-22 06:35:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …
+
+[查看原文](https://x.com/elonmusk/status/2124270426402836626)
+
+---
+
+## 2026-11-22 06:35:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: FSD V12 Introduced end-to-end neural-network driving.
+
+FSD V13 built on that and reduced interventions.
+
+FSD V14 brought…
+
+[查看原文](https://x.com/elonmusk/status/2124270500016799847)
+
+---
+
+## 2026-11-22 06:35:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: FSD visualizations 6 years apart https://t.co/rhQY2hZ5sX
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPuGsCIXcrxqXWfza3yF0THsKyD8JoAAL-EWsbJvERVFXA5pZmj4jAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124270615293034997)
 
 ---
 
