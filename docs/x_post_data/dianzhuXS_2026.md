@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 811 条推文
+> 📊 推文存档 - 共 812 条推文
 
 ---
 
@@ -53,9 +53,17 @@ tags: ["2026"]
 
 另一個對等方案 https://t.co/T13k5ZHSat
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPv2sCTRcM6Vzxt_GhsQH1sQIzrwEdAAIbEmsbJvERVM43HOThblMDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2124318443650630050)
+## 2026-11-22 12:34:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+池淺王八多，遍地是大哥
+
+[查看原文](https://x.com/dianzhuXS/status/2124360796717363601)
 
 ---
 
