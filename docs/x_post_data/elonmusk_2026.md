@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5240 条推文
+> 📊 推文存档 - 共 5242 条推文
 
 ---
 
@@ -137,8 +137,6 @@ Consciousness is either an illusion or ubiquitous on a gradient.
 
 Difficult to argue that carbon is conscious, but silicon is not.
 
-[查看原文](https://x.com/elonmusk/status/2124619599882920139)
-
 ---
 
 ## 2026-11-23 05:43:15
@@ -148,8 +146,6 @@ Difficult to argue that carbon is conscious, but silicon is not.
 **内容**:
 
 RT @SawyerMerritt: After experiencing @Tesla's Cybercab in Dallas, some riders don't want to use any other robotaxi because of how much the…
-
-[查看原文](https://x.com/elonmusk/status/2124619744980709671)
 
 ---
 
@@ -163,8 +159,6 @@ RT @cb_doge: Christmas Eve 2008. Tesla closed a funding round in the final hour,
 
 Elon Musk put in all his money &amp; as…
 
-[查看原文](https://x.com/elonmusk/status/2124621088995094941)
-
 ---
 
 ## 2026-11-23 05:50:49
@@ -175,8 +169,6 @@ Elon Musk put in all his money &amp; as…
 
 RT @EvaFox: When Elon Musk was a student at the University of Pennsylvania, he was paying his own way through college. He and his roommate…
 
-[查看原文](https://x.com/elonmusk/status/2124621650628923456)
-
 ---
 
 ## 2026-11-23 05:52:12
@@ -186,8 +178,6 @@ RT @EvaFox: When Elon Musk was a student at the University of Pennsylvania, he w
 **内容**:
 
 Starlink helps kids with education
-
-[查看原文](https://x.com/elonmusk/status/2124621998521212940)
 
 ---
 
@@ -201,8 +191,6 @@ RT @ole_b_peters: .@TheEconomist has a piece about how AI has found many top eco
 
 I've been saying the…
 
-[查看原文](https://x.com/elonmusk/status/2124622494749622645)
-
 ---
 
 ## 2026-11-23 05:54:28
@@ -215,8 +203,6 @@ RT @elonmusk: @Liv_Boeree Unequivocal super intelligence has arrived.
 
 Welcome to the Singularity.
 
-[查看原文](https://x.com/elonmusk/status/2124622568506442222)
-
 ---
 
 ## 2026-11-23 06:01:12
@@ -227,7 +213,33 @@ Welcome to the Singularity.
 
 The small details are so good
 
-[查看原文](https://x.com/elonmusk/status/2124624263214662097)
+---
+
+## 2026-11-23 06:25:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Try Grok Bot today! https://t.co/5OhVzihRTb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPz2sDb73GZ2GkLtj_0iLw1gpLIVkMAAJ-FmsbJvEZVHgKwR3DMOq6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124630343017718022)
+
+---
+
+## 2026-11-23 06:40:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ScottJenningsKY: I love that he doesn’t appear to know the internet exists lol https://t.co/S15AC86c6B
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPzmsDb7pCBpbmhO1v5HQOAXqmGczjAAJ9FmsbJvEZVKgzfL0ijxqwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124634239945540061)
 
 ---
 
