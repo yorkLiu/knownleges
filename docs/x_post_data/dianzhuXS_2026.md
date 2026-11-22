@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 814 条推文
+> 📊 推文存档 - 共 816 条推文
 
 ---
 
@@ -94,9 +94,31 @@ tags: ["2026"]
 地大物博就更可怕了
 「天然鬥」屬性瞬間激活 https://t.co/y7ZIXUCO8R
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPwmsChzFNVam746NFKbI24sFd_60mAAJwEmsbJvERVOQj-DztdWsmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2124382172102701315)
+## 2026-11-22 14:45:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不誇張的說，就韓國現在的生活成本，在日本都混不下去，大部分也不會到韓國來，噢耶💪
+
+這跟有多少啟動資金無關，剛剛夠線的啟動資金，有時候真不如沒有啟動資金，也就認頭從零開始了。大部分是缺乏在陌生環境中的生存能力，高不成低不就，又想鑽空子。就第一道門檻～語言，直接篩下去一大批人。
+
+[查看原文](https://x.com/dianzhuXS/status/2124393753955987691)
+
+---
+
+## 2026-11-22 14:57:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+「窮生奸計」畫面感
+
+[查看原文](https://x.com/dianzhuXS/status/2124396933968269322)
 
 ---
 
