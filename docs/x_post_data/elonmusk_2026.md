@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5193 条推文
+> 📊 推文存档 - 共 5194 条推文
 
 ---
 
@@ -260,10 +260,6 @@ RT @pduan: Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Tes
 
 RT @SawyerMerritt: Taking Tesla FSD V15 on the highway. Love all the floating arrows lol https://t.co/KxwYktmr49
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPwWsCVFb_WlcvC1Z_vbyaKy0N556SAAIeEmsbJvERVHlcdUxVpbyiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124325092717126057)
-
 ---
 
 ## 2026-11-22 10:13:50
@@ -273,8 +269,6 @@ RT @SawyerMerritt: Taking Tesla FSD V15 on the highway. Love all the floating ar
 **内容**:
 
 Looks like an SI curve
-
-[查看原文](https://x.com/elonmusk/status/2124325451908948451)
 
 ---
 
@@ -288,10 +282,6 @@ RT @Chansoo: FSD XV is mind blowing
 
 @elonmusk https://t.co/5FLnqTbw0Y
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPwGsCVFOfk2nrhiplue9Kjr20nwvJAAIdEmsbJvERVB_IC1gHQ3EyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124328514388181457)
-
 ---
 
 ## 2026-11-22 10:28:12
@@ -304,7 +294,17 @@ RT @cstanley: I just had Grok @bot go through all of my Amazon orders and look f
 
 It found $590.62 in mis…
 
-[查看原文](https://x.com/elonmusk/status/2124329068716077191)
+---
+
+## 2026-11-22 10:33:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DillonLoomis: The chevrons also show you where FSD V15 intends to park and Elon said you can just tap the screen to adjust the precise…
+
+[查看原文](https://x.com/elonmusk/status/2124330470653465023)
 
 ---
 
