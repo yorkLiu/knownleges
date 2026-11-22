@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5187 条推文
+> 📊 推文存档 - 共 5189 条推文
 
 ---
 
@@ -176,8 +176,6 @@ RT @elonmusk: @Scobleizer Pretty accurate.
 
 Tesla vehicles will share traffic knowledge and combine that with Grok’s real-time 𝕏 feed to g…
 
-[查看原文](https://x.com/elonmusk/status/2124293060322599045)
-
 ---
 
 ## 2026-11-22 08:07:53
@@ -190,8 +188,6 @@ RT @elonmusk: @jamesdouma It is mesmerizing to watch.
 
 Where this is actually useful is when you want to tap the exact drop-off or parking…
 
-[查看原文](https://x.com/elonmusk/status/2124293755813638376)
-
 ---
 
 ## 2026-11-22 08:08:51
@@ -201,10 +197,6 @@ Where this is actually useful is when you want to tap the exact drop-off or park
 **内容**:
 
 RT @SawyerMerritt: Tesla FSD V15 is officially downloading on my Model Y! https://t.co/aC3hP42iib
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPumsCN0fSEBoHbq-U6p-w2tJCrDJQAAIMEmsbJvERVNUJwMZDmcjnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124293999704015018)
 
 ---
 
@@ -218,8 +210,6 @@ Tesla FSD V15 is a banger release!
 
 Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence.
 
-[查看原文](https://x.com/elonmusk/status/2124294755316310346)
-
 ---
 
 ## 2026-11-22 08:12:56
@@ -229,10 +219,6 @@ Completely new architecture that deserves being called “super” intelligence,
 **内容**:
 
 RT @RafelineK: @tobi Crazy work. https://t.co/YKmN5oHMYD
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPuWsCN0RVYsaWaG0NpQzjB5gjJebvAAILEmsbJvERVG8IZjiMEAdJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124295027988005264)
 
 ---
 
@@ -244,7 +230,31 @@ RT @RafelineK: @tobi Crazy work. https://t.co/YKmN5oHMYD
 
 This is so fun that it’s worth just having your car drive you around for the sake of driving around
 
-[查看原文](https://x.com/elonmusk/status/2124295793280450870)
+---
+
+## 2026-11-22 09:20:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @shivon: If you zoom out a little further, you can see our simulation playing on the screen of the creators.
+
+[查看原文](https://x.com/elonmusk/status/2124312067176005737)
+
+---
+
+## 2026-11-22 09:20:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @pduan: Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas. https://t.co/eeqXD9f6pz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPvGsCRc1VeEhlo8_I3bAKL9GlZuP8AAIVEmsbJvERVBG8a9au2P3ZAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124312077623767081)
 
 ---
 
