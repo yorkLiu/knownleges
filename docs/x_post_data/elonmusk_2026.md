@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5223 条推文
+> 📊 推文存档 - 共 5225 条推文
 
 ---
 
@@ -29,7 +29,29 @@ RT @BastropBill: The Tesla Cybercab Robotaxi stops while the human driver keeps 
 
 32 hour launch pad recycle. Great work by SpaceX team.
 
-[查看原文](https://x.com/elonmusk/status/2124589255565680900)
+---
+
+## 2026-11-23 04:28:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+[查看原文](https://x.com/elonmusk/status/2124600936609841396)
+
+---
+
+## 2026-11-23 04:31:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @trevin: I just did this with Grok @bot and with my Amazon order history export, it found $892 I’m owed since 2017 that falls into this…
+
+[查看原文](https://x.com/elonmusk/status/2124601620063498267)
 
 ---
 
