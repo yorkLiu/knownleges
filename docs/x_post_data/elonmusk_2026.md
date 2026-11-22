@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5181 条推文
+> 📊 推文存档 - 共 5187 条推文
 
 ---
 
@@ -152,8 +152,6 @@ RT @SawyerMerritt: FSD visualizations 6 years apart https://t.co/rhQY2hZ5sX
 
 Give Grok @Bot your hardest tasks
 
-[查看原文](https://x.com/elonmusk/status/2124280710747840889)
-
 ---
 
 ## 2026-11-22 07:16:58
@@ -166,7 +164,87 @@ RT @pduan: v15 is 25x safer than v14 across the fleet.
 
 That’s hard to notice on any individual drive because most drives are already very…
 
-[查看原文](https://x.com/elonmusk/status/2124280942034661544)
+---
+
+## 2026-11-22 08:05:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @Scobleizer Pretty accurate. 
+
+Tesla vehicles will share traffic knowledge and combine that with Grok’s real-time 𝕏 feed to g…
+
+[查看原文](https://x.com/elonmusk/status/2124293060322599045)
+
+---
+
+## 2026-11-22 08:07:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @jamesdouma It is mesmerizing to watch. 
+
+Where this is actually useful is when you want to tap the exact drop-off or parking…
+
+[查看原文](https://x.com/elonmusk/status/2124293755813638376)
+
+---
+
+## 2026-11-22 08:08:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Tesla FSD V15 is officially downloading on my Model Y! https://t.co/aC3hP42iib
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPumsCN0fSEBoHbq-U6p-w2tJCrDJQAAIMEmsbJvERVNUJwMZDmcjnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124293999704015018)
+
+---
+
+## 2026-11-22 08:11:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla FSD V15 is a banger release!
+
+Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence.
+
+[查看原文](https://x.com/elonmusk/status/2124294755316310346)
+
+---
+
+## 2026-11-22 08:12:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RafelineK: @tobi Crazy work. https://t.co/YKmN5oHMYD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPuWsCN0RVYsaWaG0NpQzjB5gjJebvAAILEmsbJvERVG8IZjiMEAdJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124295027988005264)
+
+---
+
+## 2026-11-22 08:15:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is so fun that it’s worth just having your car drive you around for the sake of driving around
+
+[查看原文](https://x.com/elonmusk/status/2124295793280450870)
 
 ---
 
