@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 813 条推文
+> 📊 推文存档 - 共 814 条推文
 
 ---
 
@@ -76,7 +76,27 @@ tags: ["2026"]
 命窮怎麼辦？
  https://t.co/o3N5lkNrWo
 
-[查看原文](https://x.com/dianzhuXS/status/2124361811025969636)
+---
+
+## 2026-11-22 13:59:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+台灣的經驗告訴我們
+「小國寡民」是黃種人
+最好的群居生活方式
+黃種人的特點
+雞多了不下蛋
+人多了瞎搗亂
+「三個和尚沒水吃」
+地大物博就更可怕了
+「天然鬥」屬性瞬間激活 https://t.co/y7ZIXUCO8R
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPwmsChzFNVam746NFKbI24sFd_60mAAJwEmsbJvERVOQj-DztdWsmAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124382172102701315)
 
 ---
 
