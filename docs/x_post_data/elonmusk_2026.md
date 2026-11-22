@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5198 条推文
+> 📊 推文存档 - 共 5199 条推文
 
 ---
 
@@ -316,8 +316,6 @@ RT @SawyerMerritt: ON MY GOD @Tesla FSD V15 lets you select any parking spot of 
 
 Lots of arrows pop up and you just select you…
 
-[查看原文](https://x.com/elonmusk/status/2124339952075038905)
-
 ---
 
 ## 2026-11-22 11:14:30
@@ -327,8 +325,6 @@ Lots of arrows pop up and you just select you…
 **内容**:
 
 FSD is GTA irl
-
-[查看原文](https://x.com/elonmusk/status/2124340719397781824)
 
 ---
 
@@ -342,8 +338,6 @@ RT @DirtyTesLa: You are under hyped for Reality View. It is absolutely amazing.
 
 In the last clip, I was actually surprised when I looked…
 
-[查看原文](https://x.com/elonmusk/status/2124341145165791342)
-
 ---
 
 ## 2026-11-22 11:18:51
@@ -356,7 +350,19 @@ RT @DavidMoss: I wonder how high Tesla FSD screen streaks are going to get in v1
 
 25x increase in safety critical situations is no joke…
 
-[查看原文](https://x.com/elonmusk/status/2124341813192339518)
+---
+
+## 2026-11-22 15:50:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @guyravine: DADDY DARIO, TODAY I LEAVE THE HOUSE YOU BUILT. KEEP THE SHARES. MOMMY MOLOCH GETS EVERYTHING ELSE. LOVE, CLAUDIA
+
+Anthropic…
+
+[查看原文](https://x.com/elonmusk/status/2124410200396640499)
 
 ---
 
