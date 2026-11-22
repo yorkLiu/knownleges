@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5194 条推文
+> 📊 推文存档 - 共 5198 条推文
 
 ---
 
@@ -304,7 +304,59 @@ It found $590.62 in mis…
 
 RT @DillonLoomis: The chevrons also show you where FSD V15 intends to park and Elon said you can just tap the screen to adjust the precise…
 
-[查看原文](https://x.com/elonmusk/status/2124330470653465023)
+---
+
+## 2026-11-22 11:11:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: ON MY GOD @Tesla FSD V15 lets you select any parking spot of your choice!
+
+Lots of arrows pop up and you just select you…
+
+[查看原文](https://x.com/elonmusk/status/2124339952075038905)
+
+---
+
+## 2026-11-22 11:14:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+FSD is GTA irl
+
+[查看原文](https://x.com/elonmusk/status/2124340719397781824)
+
+---
+
+## 2026-11-22 11:16:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DirtyTesLa: You are under hyped for Reality View. It is absolutely amazing. 
+
+In the last clip, I was actually surprised when I looked…
+
+[查看原文](https://x.com/elonmusk/status/2124341145165791342)
+
+---
+
+## 2026-11-22 11:18:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DavidMoss: I wonder how high Tesla FSD screen streaks are going to get in v15?
+
+25x increase in safety critical situations is no joke…
+
+[查看原文](https://x.com/elonmusk/status/2124341813192339518)
 
 ---
 
