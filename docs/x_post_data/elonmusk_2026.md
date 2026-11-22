@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5242 条推文
+> 📊 推文存档 - 共 5243 条推文
 
 ---
 
@@ -223,10 +223,6 @@ The small details are so good
 
 RT @iam_smx: Try Grok Bot today! https://t.co/5OhVzihRTb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPz2sDb73GZ2GkLtj_0iLw1gpLIVkMAAJ-FmsbJvEZVHgKwR3DMOq6AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124630343017718022)
-
 ---
 
 ## 2026-11-23 06:40:51
@@ -237,9 +233,17 @@ RT @iam_smx: Try Grok Bot today! https://t.co/5OhVzihRTb
 
 RT @ScottJenningsKY: I love that he doesn’t appear to know the internet exists lol https://t.co/S15AC86c6B
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPzmsDb7pCBpbmhO1v5HQOAXqmGczjAAJ9FmsbJvEZVKgzfL0ijxqwAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2124634239945540061)
+## 2026-11-23 06:58:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Google CEO Sundar Pichai on Elon's ability to bring future technologies into existence: "I think it's just unparalleled.…
+
+[查看原文](https://x.com/elonmusk/status/2124638778518303124)
 
 ---
 
