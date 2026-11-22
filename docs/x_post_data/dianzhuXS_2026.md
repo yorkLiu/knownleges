@@ -7,7 +7,34 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 808 条推文
+> 📊 推文存档 - 共 809 条推文
+
+---
+
+## 2026-11-22 08:55:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+推背圖第四十一象
+如今看
+九十九年成大錯
+就是2020年放出的武漢病毒
+1921+99=2020
+至於稱王只合在秦州
+我曾經做過一種推斷
+是五胡亂華後「天子守國門」
+此為共匪偏安陝甘寧一隅
+但關鍵還有個「合」字
+如今另一種推斷
+動搖國本的一仗之後
+秦城擴建至輻射京津冀
+晉察冀等革命老區通通變成監獄 https://t.co/uxnrW12n48
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPu2sCPokaCnDIFfoOEyAWPArfRfQMAAIQEmsbJvERVORNNwO0-qJ1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124305690722443270)
 
 ---
 
