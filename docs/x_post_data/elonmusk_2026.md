@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5189 条推文
+> 📊 推文存档 - 共 5193 条推文
 
 ---
 
@@ -240,8 +240,6 @@ This is so fun that it’s worth just having your car drive you around for the s
 
 RT @shivon: If you zoom out a little further, you can see our simulation playing on the screen of the creators.
 
-[查看原文](https://x.com/elonmusk/status/2124312067176005737)
-
 ---
 
 ## 2026-11-22 09:20:41
@@ -252,9 +250,61 @@ RT @shivon: If you zoom out a little further, you can see our simulation playing
 
 RT @pduan: Overheard in Palo Alto: GTA 6’s real-world mode just dropped on Teslas. https://t.co/eeqXD9f6pz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPvGsCRc1VeEhlo8_I3bAKL9GlZuP8AAIVEmsbJvERVBG8a9au2P3ZAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2124312077623767081)
+## 2026-11-22 10:12:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Taking Tesla FSD V15 on the highway. Love all the floating arrows lol https://t.co/KxwYktmr49
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPwWsCVFb_WlcvC1Z_vbyaKy0N556SAAIeEmsbJvERVHlcdUxVpbyiAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124325092717126057)
+
+---
+
+## 2026-11-22 10:13:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Looks like an SI curve
+
+[查看原文](https://x.com/elonmusk/status/2124325451908948451)
+
+---
+
+## 2026-11-22 10:26:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Chansoo: FSD XV is mind blowing 
+
+@elonmusk https://t.co/5FLnqTbw0Y
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPwGsCVFOfk2nrhiplue9Kjr20nwvJAAIdEmsbJvERVB_IC1gHQ3EyAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124328514388181457)
+
+---
+
+## 2026-11-22 10:28:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cstanley: I just had Grok @bot go through all of my Amazon orders and look for refunds that were never issued.
+
+It found $590.62 in mis…
+
+[查看原文](https://x.com/elonmusk/status/2124329068716077191)
 
 ---
 
