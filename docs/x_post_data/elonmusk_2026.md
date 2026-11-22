@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5202 条推文
+> 📊 推文存档 - 共 5203 条推文
 
 ---
 
@@ -372,10 +372,6 @@ Anthropic…
 
 Zoom in, you’ll find it https://t.co/0Elhmtpsh3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPxGsCyJSJecvjzZrU9co26HwsuRydAAIKE2sbJvERVHfBsvr_KXCfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124449744600871080)
-
 ---
 
 ## 2026-11-22 18:30:53
@@ -385,8 +381,6 @@ Zoom in, you’ll find it https://t.co/0Elhmtpsh3
 **内容**:
 
 My personal design esthetic is homeless Batman
-
-[查看原文](https://x.com/elonmusk/status/2124450538976629076)
 
 ---
 
@@ -398,7 +392,19 @@ My personal design esthetic is homeless Batman
 
 RT @SawyerMerritt: Here's my 25-minute drive on @Tesla FSD V15 tonight. I go over the new Tesla Reality View, new parking behavior/options,…
 
-[查看原文](https://x.com/elonmusk/status/2124453180226281581)
+---
+
+## 2026-11-22 18:55:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BLKMDL3: Here is my initial FSD v15 review after driving with it all afternoon and evening:
+
+First off, Elon was right. This update is…
+
+[查看原文](https://x.com/elonmusk/status/2124456657199550883)
 
 ---
 
