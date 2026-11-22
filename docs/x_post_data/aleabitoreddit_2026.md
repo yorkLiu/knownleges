@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 647 条推文
+> 📊 推文存档 - 共 648 条推文
+
+---
+
+## 2026-11-22 09:35:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It's very interesting $ORCL can put out statements about being fully funded for OpenAI.
+
+Or $SNDK / Micron can put out statements reassuring investors about signed LTAs + price floors. 
+
+Yet there's extraordinary levels of distrust toward disclosures and durability. 
+
+Either https://t.co/meAvm5DSRQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPvWsCTRD35FlZguKWBF-UvnOAjSxHAAIZEmsbJvERVKVirf7zLBb5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPvmsCTRMU3n-vyM0GUNOYsbc66eDoAAIaEmsbJvERVDfOOqIthjkJAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2124315829202493468)
 
 ---
 
