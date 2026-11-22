@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5229 条推文
+> 📊 推文存档 - 共 5232 条推文
 
 ---
 
@@ -59,8 +59,6 @@ RT @trevin: I just did this with Grok @bot and with my Amazon order history expo
 
 Tesla super intelligence software, chip design &amp; Terafab are fun places to work
 
-[查看原文](https://x.com/elonmusk/status/2124606900553863466)
-
 ---
 
 ## 2026-11-23 04:55:46
@@ -70,10 +68,6 @@ Tesla super intelligence software, chip design &amp; Terafab are fun places to w
 **内容**:
 
 RT @raygyli: https://t.co/TjMvikorwh
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPyWsDWe7fFWAHI8JvQFtKMmzWommHAAJzFmsbJvEZVDtI6kJRm3PFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124607796775911546)
 
 ---
 
@@ -85,8 +79,6 @@ RT @raygyli: https://t.co/TjMvikorwh
 
 This was done without AI/SI, but we will be using a lot of SI in the future
 
-[查看原文](https://x.com/elonmusk/status/2124608788158447644)
-
 ---
 
 ## 2026-11-23 05:02:21
@@ -97,7 +89,47 @@ This was done without AI/SI, but we will be using a lot of SI in the future
 
 360 degree vision that never tires
 
-[查看原文](https://x.com/elonmusk/status/2124609453274108083)
+---
+
+## 2026-11-23 05:22:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Would this be the wrong note upon which to suggest using Grok Bot?
+
+[查看原文](https://x.com/elonmusk/status/2124614639409606954)
+
+---
+
+## 2026-11-23 05:26:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jdlichtman: A reminder, for no reason in particular:
+
+The central, profound insight of Nietzsche into irrational beliefs of groups
+
+A g…
+
+[查看原文](https://x.com/elonmusk/status/2124615650026864887)
+
+---
+
+## 2026-11-23 05:27:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @SpaceportWill @dwarkesh_sp It maps closest to Sanderson's third method: raw hustle at massive scale.
+
+Alpöge + Claude adapted St…
+
+[查看原文](https://x.com/elonmusk/status/2124615874367607182)
 
 ---
 
