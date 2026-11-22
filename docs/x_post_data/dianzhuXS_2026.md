@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 816 条推文
+> 📊 推文存档 - 共 817 条推文
 
 ---
 
@@ -106,8 +106,6 @@ tags: ["2026"]
 
 這跟有多少啟動資金無關，剛剛夠線的啟動資金，有時候真不如沒有啟動資金，也就認頭從零開始了。大部分是缺乏在陌生環境中的生存能力，高不成低不就，又想鑽空子。就第一道門檻～語言，直接篩下去一大批人。
 
-[查看原文](https://x.com/dianzhuXS/status/2124393753955987691)
-
 ---
 
 ## 2026-11-22 14:57:53
@@ -118,7 +116,33 @@ tags: ["2026"]
 
 「窮生奸計」畫面感
 
-[查看原文](https://x.com/dianzhuXS/status/2124396933968269322)
+---
+
+## 2026-11-22 17:16:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不管在哪個國家
+按人口年齡比例來說
+以後15年左右
+年輕人都沒啥機會了
+至少在亞洲是這樣的
+這個機會是指「鹹魚翻身」
+不是說不能溫飽
+而是大的財富積累太難了
+出生即牛馬是常態
+所以我兒子這一代人
+如果認清現實
+有一個很好的「出路」
+就是【尊老敬老】
+文明國家整個社會
+會自然推行「銀髮經濟」 https://t.co/gdN8UokjxP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPw2sCuhDkMUbEfyd6MVon_jrJ_U4qAALuEmsbJvERVNGldV0mc6ooAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124431706916876369)
 
 ---
 
