@@ -7,7 +7,28 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 817 条推文
+> 📊 推文存档 - 共 818 条推文
+
+---
+
+## 2026-11-23 06:07:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+天冷了，用泡沫箱給加了層保暖。
+現在的韓國，大家在對待流浪貓狗小動物方面，基本步入文明國家行列。 https://t.co/42kx8OZvtL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPymsDaHj3iN7we6y85Y-4Bww_xJLTAAJ5FmsbJvEZVOTcGaWectW1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPy2sDaHv6nR8S4nMutB7I6LKTMhcSAAJ6FmsbJvEZVBHFYoIZmMxDAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPzGsDaH-TUiI7kS3Hcf8fsTPjo2N3AAJ7FmsbJvEZVNHRMkIzOazgAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPzWsDaIE1she_WZol6ThI3eYzA3w0AAJ8FmsbJvEZVASKtLzXmZpqAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124625858497511654)
 
 ---
 
