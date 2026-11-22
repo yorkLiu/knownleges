@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 812 条推文
+> 📊 推文存档 - 共 813 条推文
 
 ---
 
@@ -63,7 +63,20 @@ tags: ["2026"]
 
 池淺王八多，遍地是大哥
 
-[查看原文](https://x.com/dianzhuXS/status/2124360796717363601)
+---
+
+## 2026-11-22 12:38:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+外財不富命窮人
+那麼問題來了
+命窮怎麼辦？
+ https://t.co/o3N5lkNrWo
+
+[查看原文](https://x.com/dianzhuXS/status/2124361811025969636)
 
 ---
 
