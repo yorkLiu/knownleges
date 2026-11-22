@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5199 条推文
+> 📊 推文存档 - 共 5202 条推文
 
 ---
 
@@ -362,7 +362,43 @@ RT @guyravine: DADDY DARIO, TODAY I LEAVE THE HOUSE YOU BUILT. KEEP THE SHARES. 
 
 Anthropic…
 
-[查看原文](https://x.com/elonmusk/status/2124410200396640499)
+---
+
+## 2026-11-22 18:27:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Zoom in, you’ll find it https://t.co/0Elhmtpsh3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPxGsCyJSJecvjzZrU9co26HwsuRydAAIKE2sbJvERVHfBsvr_KXCfAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124449744600871080)
+
+---
+
+## 2026-11-22 18:30:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+My personal design esthetic is homeless Batman
+
+[查看原文](https://x.com/elonmusk/status/2124450538976629076)
+
+---
+
+## 2026-11-22 18:41:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: Here's my 25-minute drive on @Tesla FSD V15 tonight. I go over the new Tesla Reality View, new parking behavior/options,…
+
+[查看原文](https://x.com/elonmusk/status/2124453180226281581)
 
 ---
 
