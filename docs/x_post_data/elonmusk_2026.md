@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5203 条推文
+> 📊 推文存档 - 共 5208 条推文
 
 ---
 
@@ -404,7 +404,71 @@ RT @BLKMDL3: Here is my initial FSD v15 review after driving with it all afterno
 
 First off, Elon was right. This update is…
 
-[查看原文](https://x.com/elonmusk/status/2124456657199550883)
+---
+
+## 2026-11-22 19:21:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Some people thought we meant 25% improvement, no we mean 25 times!
+
+Welcome to the singularity. Hope you’re enjoying your stay.
+
+[查看原文](https://x.com/elonmusk/status/2124463264037769352)
+
+---
+
+## 2026-11-22 19:22:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+We’re going to make the annoying “Promote” button borderline invisible
+
+[查看原文](https://x.com/elonmusk/status/2124463501703876939)
+
+---
+
+## 2026-11-22 19:32:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Six years ago, Tesla FSD was just dots and lines on a black screen
+
+Today, Tesla FSD has literally brought GTA to life https:/…
+
+[查看原文](https://x.com/elonmusk/status/2124466071029613035)
+
+---
+
+## 2026-11-22 19:37:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2124467385298293001)
+
+---
+
+## 2026-11-22 19:43:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @DilreetR @gergman91 @aelluswamy And AI6 is https://t.co/sdV4eNqQtQ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPxWsC1xoyOJiTEkhbYPj8ISfko60SAAJPE2sbJvERVOuT4hy7I8hgAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124468732894347363)
 
 ---
 
