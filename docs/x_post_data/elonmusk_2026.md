@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5221 条推文
+> 📊 推文存档 - 共 5222 条推文
+
+---
+
+## 2026-11-23 03:24:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BastropBill: The Tesla Cybercab Robotaxi stops while the human driver keeps going. 360 awareness is amazing. -Downtown Austin, Texas. h…
+
+[查看原文](https://x.com/elonmusk/status/2124584856873046046)
 
 ---
 
