@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5208 条推文
+> 📊 推文存档 - 共 5220 条推文
 
 ---
 
@@ -416,8 +416,6 @@ Some people thought we meant 25% improvement, no we mean 25 times!
 
 Welcome to the singularity. Hope you’re enjoying your stay.
 
-[查看原文](https://x.com/elonmusk/status/2124463264037769352)
-
 ---
 
 ## 2026-11-22 19:22:24
@@ -427,8 +425,6 @@ Welcome to the singularity. Hope you’re enjoying your stay.
 **内容**:
 
 We’re going to make the annoying “Promote” button borderline invisible
-
-[查看原文](https://x.com/elonmusk/status/2124463501703876939)
 
 ---
 
@@ -442,8 +438,6 @@ RT @XFreeze: Six years ago, Tesla FSD was just dots and lines on a black screen
 
 Today, Tesla FSD has literally brought GTA to life https:/…
 
-[查看原文](https://x.com/elonmusk/status/2124466071029613035)
-
 ---
 
 ## 2026-11-22 19:37:50
@@ -453,8 +447,6 @@ Today, Tesla FSD has literally brought GTA to life https:/…
 **内容**:
 
 True
-
-[查看原文](https://x.com/elonmusk/status/2124467385298293001)
 
 ---
 
@@ -466,9 +458,165 @@ True
 
 RT @elonmusk: @DilreetR @gergman91 @aelluswamy And AI6 is https://t.co/sdV4eNqQtQ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPxWsC1xoyOJiTEkhbYPj8ISfko60SAAJPE2sbJvERVOuT4hy7I8hgAQADAgADbQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2124468732894347363)
+## 2026-11-22 19:57:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @signulll: i'm admittedly pretty harsh on the google guys, mostly cuz i know the co super well.
+
+but holy hell, i'm having an incredible…
+
+[查看原文](https://x.com/elonmusk/status/2124472423039037601)
+
+---
+
+## 2026-11-22 19:58:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Teslaconomics: Tesla FSD v15 is gta in real life https://t.co/x98PgD8OF1
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPx2sC3mM-hKTDB7h2uDjZQ_9zlr50AAJaE2sbJvERVKaP2FaOyPDsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124472650554658990)
+
+---
+
+## 2026-11-22 20:03:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: SpaceX is planning an absolutely massive 6-gigawatt supercomputing campus in Arizona, designed to operate with ZERO industrial…
+
+[查看原文](https://x.com/elonmusk/status/2124473914621403637)
+
+---
+
+## 2026-11-22 20:05:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @tslaming: Out of everything posted about FSD v15 so far, one line from @elonmusk deserves way more attention than it's getting: "This i…
+
+[查看原文](https://x.com/elonmusk/status/2124474435977482737)
+
+---
+
+## 2026-11-22 20:06:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Coinbase says Grok Bot is its most popular AI agent. 
+
+Grok Bot led Coinbase for Agents with 40.4% of notional tradi…
+
+[查看原文](https://x.com/elonmusk/status/2124474702173241540)
+
+---
+
+## 2026-11-22 20:10:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: “Ice cream is an amazing invention.”
+
+— Elon Musk https://t.co/XQJeSOE3sU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPxmsC3l9OljRy_hFUP5hwQWGdBsGnAAJZE2sbJvERVAUOWRIAAV9Q-AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124475574542540923)
+
+---
+
+## 2026-11-22 20:12:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: Grok Bot is getting very good…
+
+[查看原文](https://x.com/elonmusk/status/2124476217399140650)
+
+---
+
+## 2026-11-22 20:14:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @stevenmarkryan: Had lunch with two friends I told to use Grok Bot in their businesses a few weeks ago.
+
+The verdict?
+
+"Can't live witho…
+
+[查看原文](https://x.com/elonmusk/status/2124476595322675522)
+
+---
+
+## 2026-11-22 20:14:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @FreeAndBuilding: @stevenmarkryan I cannot believe how new Grok Bot is and how integrated it already is in not only my businesses but my…
+
+[查看原文](https://x.com/elonmusk/status/2124476655150530688)
+
+---
+
+## 2026-11-22 20:15:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GavinSBaker: Absolutely true
+
+[查看原文](https://x.com/elonmusk/status/2124476772582412368)
+
+---
+
+## 2026-11-22 20:16:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @battleangelviv: FSD went from bounding boxes to Reality View in less than half a GTA  https://t.co/C1fOsc0myz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPuGsCIXcrxqXWfza3yF0THsKyD8JoAAL-EWsbJvERVFXA5pZmj4jAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124477072865218879)
+
+---
+
+## 2026-11-22 20:18:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink saves lives
+
+[查看原文](https://x.com/elonmusk/status/2124477713142665551)
 
 ---
 
