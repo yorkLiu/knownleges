@@ -14,7 +14,7 @@ title: 推文数据
 |------|
 || [@JonathanDi3614](./JonathanDi3614_2026.md) | 89 |   | 91 | [查看](./JonathanDi3614_2026.md) |
 || [@xiaomustock](./xiaomustock_2026.md) | 501 |   | 456 | [查看](./xiaomustock_2026.md) |
-|| [@elonmusk](./elonmusk_2026.md) | 5220 | ✅ | 1376 | [查看](./elonmusk_2026.md) |
+|| [@elonmusk](./elonmusk_2026.md) | 5221 | ✅ | 1373 | [查看](./elonmusk_2026.md) |
 || [@karpathy](./karpathy_2026.md) | 50 |   | 18 | [查看](./karpathy_2026.md) |
 || [@aleabitoreddit](./aleabitoreddit_2026.md) | 648 | ✅ | 557 | [查看](./aleabitoreddit_2026.md) |
 || [@dianzhuXS](./dianzhuXS_2026.md) | 817 | ✅ | 276 | [查看](./dianzhuXS_2026.md) |

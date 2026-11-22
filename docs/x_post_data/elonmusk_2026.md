@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5220 条推文
+> 📊 推文存档 - 共 5221 条推文
 
 ---
 
@@ -470,8 +470,6 @@ RT @signulll: i'm admittedly pretty harsh on the google guys, mostly cuz i know 
 
 but holy hell, i'm having an incredible…
 
-[查看原文](https://x.com/elonmusk/status/2124472423039037601)
-
 ---
 
 ## 2026-11-22 19:58:45
@@ -481,10 +479,6 @@ but holy hell, i'm having an incredible…
 **内容**:
 
 RT @Teslaconomics: Tesla FSD v15 is gta in real life https://t.co/x98PgD8OF1
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPx2sC3mM-hKTDB7h2uDjZQ_9zlr50AAJaE2sbJvERVKaP2FaOyPDsAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124472650554658990)
 
 ---
 
@@ -496,8 +490,6 @@ RT @Teslaconomics: Tesla FSD v15 is gta in real life https://t.co/x98PgD8OF1
 
 RT @XFreeze: SpaceX is planning an absolutely massive 6-gigawatt supercomputing campus in Arizona, designed to operate with ZERO industrial…
 
-[查看原文](https://x.com/elonmusk/status/2124473914621403637)
-
 ---
 
 ## 2026-11-22 20:05:51
@@ -507,8 +499,6 @@ RT @XFreeze: SpaceX is planning an absolutely massive 6-gigawatt supercomputing 
 **内容**:
 
 RT @tslaming: Out of everything posted about FSD v15 so far, one line from @elonmusk deserves way more attention than it's getting: "This i…
-
-[查看原文](https://x.com/elonmusk/status/2124474435977482737)
 
 ---
 
@@ -522,8 +512,6 @@ RT @cb_doge: BREAKING: Coinbase says Grok Bot is its most popular AI agent.
 
 Grok Bot led Coinbase for Agents with 40.4% of notional tradi…
 
-[查看原文](https://x.com/elonmusk/status/2124474702173241540)
-
 ---
 
 ## 2026-11-22 20:10:22
@@ -536,10 +524,6 @@ RT @cb_doge: “Ice cream is an amazing invention.”
 
 — Elon Musk https://t.co/XQJeSOE3sU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPxmsC3l9OljRy_hFUP5hwQWGdBsGnAAJZE2sbJvERVAUOWRIAAV9Q-AEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124475574542540923)
-
 ---
 
 ## 2026-11-22 20:12:55
@@ -549,8 +533,6 @@ RT @cb_doge: “Ice cream is an amazing invention.”
 **内容**:
 
 RT @alx: Grok Bot is getting very good…
-
-[查看原文](https://x.com/elonmusk/status/2124476217399140650)
 
 ---
 
@@ -566,8 +548,6 @@ The verdict?
 
 "Can't live witho…
 
-[查看原文](https://x.com/elonmusk/status/2124476595322675522)
-
 ---
 
 ## 2026-11-22 20:14:40
@@ -577,8 +557,6 @@ The verdict?
 **内容**:
 
 RT @FreeAndBuilding: @stevenmarkryan I cannot believe how new Grok Bot is and how integrated it already is in not only my businesses but my…
-
-[查看原文](https://x.com/elonmusk/status/2124476655150530688)
 
 ---
 
@@ -590,8 +568,6 @@ RT @FreeAndBuilding: @stevenmarkryan I cannot believe how new Grok Bot is and ho
 
 RT @GavinSBaker: Absolutely true
 
-[查看原文](https://x.com/elonmusk/status/2124476772582412368)
-
 ---
 
 ## 2026-11-22 20:16:19
@@ -601,10 +577,6 @@ RT @GavinSBaker: Absolutely true
 **内容**:
 
 RT @battleangelviv: FSD went from bounding boxes to Reality View in less than half a GTA  https://t.co/C1fOsc0myz
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPuGsCIXcrxqXWfza3yF0THsKyD8JoAAL-EWsbJvERVFXA5pZmj4jAAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2124477072865218879)
 
 ---
 
@@ -616,7 +588,19 @@ RT @battleangelviv: FSD went from bounding boxes to Reality View in less than ha
 
 Starlink saves lives
 
-[查看原文](https://x.com/elonmusk/status/2124477713142665551)
+---
+
+## 2026-11-22 20:26:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Starlink helped save a young man’s life in remote Myanmar.
+
+After a landmine blast in Kayah State, his injuries were beyond wh…
+
+[查看原文](https://x.com/elonmusk/status/2124479745781837952)
 
 ---
 
