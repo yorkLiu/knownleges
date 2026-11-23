@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 822 条推文
+> 📊 推文存档 - 共 823 条推文
+
+---
+
+## 2026-11-24 06:46:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+黃仁勳回歸，有人問我怎麼看？我怎麼看不重要，關鍵是民主黨奧巴集團怎麼看，川普陣營怎麼看，習近平怎麼看⋯⋯
+
+以目前國際AI角逐的態勢，我支持黃仁勳回歸這件事。為什麼？ https://t.co/H3sDhL3ITL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP3WsExUMXz6MctDcdBrYHBrHKrJXtAAJqHGsbJ24gVNngTKP9FWALAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124998050049556761)
 
 ---
 
