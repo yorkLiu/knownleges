@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5268 条推文
+> 📊 推文存档 - 共 5274 条推文
 
 ---
 
@@ -71,7 +71,85 @@ RT @nvidianewsroom: NVIDIA Board reinstates Jensen Huang as President, CEO and B
 
 Read the release: https://t.co/x4bnjiSVil
 
-[查看原文](https://x.com/elonmusk/status/2124934922884313475)
+---
+
+## 2026-11-24 02:56:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Scobleizer: It's my X birthday, been here now 20 years.
+
+X is best for AI. 
+
+And AI's best here on X is here. Very awesome to watch on…
+
+[查看原文](https://x.com/elonmusk/status/2124940153416245721)
+
+---
+
+## 2026-11-24 03:07:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Everyone I know at Nvidia wanted Jensen back and it shows
+
+[查看原文](https://x.com/elonmusk/status/2124942828274925651)
+
+---
+
+## 2026-11-24 03:13:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Beautiful shot by Andrew McCarthy
+
+[查看原文](https://x.com/elonmusk/status/2124944467119747335)
+
+---
+
+## 2026-11-24 03:13:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AJamesMcCarthy: My composite image I created from this event was made into a limited number of gorgeous fine art prints. I still have s…
+
+[查看原文](https://x.com/elonmusk/status/2124944503719231822)
+
+---
+
+## 2026-11-24 03:16:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yunta_tsai: @stablequan We don’t dumb down our engineering meeting with Elon.
+
+[查看原文](https://x.com/elonmusk/status/2124945105761005973)
+
+---
+
+## 2026-11-24 03:16:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @minchoi: This is literally my new workflow now:
+
+Realtime Research → Grok Bot
+Planning &amp; Orchestration → Grok Bot
+Day-to-day Coding/Deb…
+
+[查看原文](https://x.com/elonmusk/status/2124945263215235461)
 
 ---
 
