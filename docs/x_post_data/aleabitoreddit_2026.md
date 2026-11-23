@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 649 条推文
+> 📊 推文存档 - 共 650 条推文
 
 ---
 
@@ -25,9 +25,23 @@ A: "Well, I said they should go to the outside, but he's on the outside now"
 Q: On AI market crash:
 A: "The Democratic position on the SI buildout has spooked a lot of https://t.co/S1j7urey00
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIPyGsDRBgHYxJzzadvLlCL8j47jV3wAAJkFmsbJvEZVJOpeHtZDlKWAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2124582975455318147)
+## 2026-11-23 12:05:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+President Trump: "I hope the Board of Nvidia rehires Jensen Huang"
+
+Jensen's return to $NVDA is looking a lot more likely. 
+
+Especially with the support from the US president. https://t.co/0J9GEmGSJD
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP0GsDv6cNgjY71JTUOAhFSKdmitMsAAIwF2sbJvEZVK1_OBqjtiWqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2124715837533859857)
 
 ---
 
