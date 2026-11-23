@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5265 条推文
+> 📊 推文存档 - 共 5267 条推文
 
 ---
 
@@ -19,8 +19,6 @@ tags: ["2026"]
 
 Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world.
 
-[查看原文](https://x.com/elonmusk/status/2124917923391443211)
-
 ---
 
 ## 2026-11-24 01:30:21
@@ -30,8 +28,6 @@ Those who violate the law on this platform WILL be prosecuted, WHEREVER they may
 **内容**:
 
 RT @cb_doge: BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to E…
-
-[查看原文](https://x.com/elonmusk/status/2124918489224011921)
 
 ---
 
@@ -43,7 +39,29 @@ RT @cb_doge: BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praise
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2124918561617694750)
+---
+
+## 2026-11-24 01:49:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: President Trump says he spoke with Elon Musk about Jensen Huang before his return as NVIDIA CEO, revealing Elon’s su…
+
+[查看原文](https://x.com/elonmusk/status/2124923405179007015)
+
+---
+
+## 2026-11-24 01:53:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Aer Lingus launches FREE Starlink Wi-Fi on European flights, with 29 short-haul aircraft to be connected in early 20…
+
+[查看原文](https://x.com/elonmusk/status/2124924416249466906)
 
 ---
 
