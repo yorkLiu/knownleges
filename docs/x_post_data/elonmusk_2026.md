@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5274 条推文
+> 📊 推文存档 - 共 5275 条推文
 
 ---
 
@@ -85,8 +85,6 @@ X is best for AI.
 
 And AI's best here on X is here. Very awesome to watch on…
 
-[查看原文](https://x.com/elonmusk/status/2124940153416245721)
-
 ---
 
 ## 2026-11-24 03:07:04
@@ -96,8 +94,6 @@ And AI's best here on X is here. Very awesome to watch on…
 **内容**:
 
 Everyone I know at Nvidia wanted Jensen back and it shows
-
-[查看原文](https://x.com/elonmusk/status/2124942828274925651)
 
 ---
 
@@ -109,8 +105,6 @@ Everyone I know at Nvidia wanted Jensen back and it shows
 
 Beautiful shot by Andrew McCarthy
 
-[查看原文](https://x.com/elonmusk/status/2124944467119747335)
-
 ---
 
 ## 2026-11-24 03:13:43
@@ -121,8 +115,6 @@ Beautiful shot by Andrew McCarthy
 
 RT @AJamesMcCarthy: My composite image I created from this event was made into a limited number of gorgeous fine art prints. I still have s…
 
-[查看原文](https://x.com/elonmusk/status/2124944503719231822)
-
 ---
 
 ## 2026-11-24 03:16:07
@@ -132,8 +124,6 @@ RT @AJamesMcCarthy: My composite image I created from this event was made into a
 **内容**:
 
 RT @yunta_tsai: @stablequan We don’t dumb down our engineering meeting with Elon.
-
-[查看原文](https://x.com/elonmusk/status/2124945105761005973)
 
 ---
 
@@ -149,7 +139,19 @@ Realtime Research → Grok Bot
 Planning &amp; Orchestration → Grok Bot
 Day-to-day Coding/Deb…
 
-[查看原文](https://x.com/elonmusk/status/2124945263215235461)
+---
+
+## 2026-11-24 03:43:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Welcome to the PvP of social media. https://t.co/YTPtgaZKA9
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP3GsEmZ-W_iZ16SBM8nULHg_j28tGAAJEHGsbJ24gVATWdW1myg1aAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124952094335758499)
 
 ---
 
