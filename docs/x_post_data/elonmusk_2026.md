@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5252 条推文
+> 📊 推文存档 - 共 5253 条推文
 
 ---
 
@@ -338,7 +338,19 @@ RT @mattyp: What's new in Grok Bot 1.0 🚀
 03:26 Bots take initiative
 04:10 Bots l…
 
-[查看原文](https://x.com/elonmusk/status/2124681722705100862)
+---
+
+## 2026-11-23 13:02:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @deedydas: The rate of change of technology is so quick these days that being on X very quickly compounds to a huge amount of alpha. 
+
+T…
+
+[查看原文](https://x.com/elonmusk/status/2124730377260724320)
 
 ---
 
