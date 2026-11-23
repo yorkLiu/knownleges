@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @iiiinvest
 
-> 📊 推文存档 - 共 294 条推文
+> 📊 推文存档 - 共 295 条推文
 
 ---
 
@@ -55,9 +55,19 @@ tags: ["2026"]
 
 先买2万股SOXL，越跌越买，熔断限制了上涨，小心轧空。 https://t.co/s1GamZOkob
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP2GsEUP93apJPPG-8fy8fFbuBs_MJAAKwG2sbJ24gVK06ZfdEvov5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/iiiinvest/status/2124872738762362980)
+## 2026-11-23 23:03:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+又加了2万股SOXL和2万股TQQQ。总占30%左右仓位，等尾盘再看下要不要加。 https://t.co/LhjlnlY6ji
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP2msEWEABujqVZchjw5r9Z_Lqf3KVAALJG2sbJ24gVOZSuPw4eHH5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/iiiinvest/status/2124881634105430037)
 
 ---
 

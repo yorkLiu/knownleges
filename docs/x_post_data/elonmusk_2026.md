@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5256 条推文
+> 📊 推文存档 - 共 5261 条推文
 
 ---
 
@@ -360,8 +360,6 @@ T…
 
 It is done
 
-[查看原文](https://x.com/elonmusk/status/2124872664938602736)
-
 ---
 
 ## 2026-11-23 22:41:16
@@ -371,8 +369,6 @@ It is done
 **内容**:
 
 The mistake has been corrected
-
-[查看原文](https://x.com/elonmusk/status/2124875939133751684)
 
 ---
 
@@ -384,7 +380,67 @@ The mistake has been corrected
 
 RT @dhh: Gemini 4 Neon is indeed crazy good. Cut Omarchy boot time in half!! Big optimizations on install as well. It's a quiet cat, though…
 
-[查看原文](https://x.com/elonmusk/status/2124876058227007726)
+---
+
+## 2026-11-23 22:46:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Bot can find you Black Friday deals
+
+[查看原文](https://x.com/elonmusk/status/2124877252412281142)
+
+---
+
+## 2026-11-23 22:56:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: Every person I’ve encountered at SpaceX, X, and xAI has cared deeply about products that are safe for users, protect child…
+
+[查看原文](https://x.com/elonmusk/status/2124879655953957212)
+
+---
+
+## 2026-11-23 22:59:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @KatieMiller: .@spacexai has always prohibited this conduct, have taken extensive measures to prevent it, and haven't had any users evad…
+
+[查看原文](https://x.com/elonmusk/status/2124880613236957467)
+
+---
+
+## 2026-11-23 23:00:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @willdepue: https://t.co/zYXX2d1el0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP2WsEWDu58o4xOUWkjEp6r-5JmTuRAALIG2sbJ24gVELy2fXJcBw8AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2124880671130996849)
+
+---
+
+## 2026-11-23 23:01:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WhiteHouse: “The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO… Cong…
+
+[查看原文](https://x.com/elonmusk/status/2124880919030899147)
 
 ---
 
