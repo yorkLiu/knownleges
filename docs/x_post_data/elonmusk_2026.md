@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5267 条推文
+> 📊 推文存档 - 共 5268 条推文
 
 ---
 
@@ -49,8 +49,6 @@ True
 
 RT @cb_doge: BREAKING: President Trump says he spoke with Elon Musk about Jensen Huang before his return as NVIDIA CEO, revealing Elon’s su…
 
-[查看原文](https://x.com/elonmusk/status/2124923405179007015)
-
 ---
 
 ## 2026-11-24 01:53:54
@@ -61,7 +59,19 @@ RT @cb_doge: BREAKING: President Trump says he spoke with Elon Musk about Jensen
 
 RT @cb_doge: BREAKING: Aer Lingus launches FREE Starlink Wi-Fi on European flights, with 29 short-haul aircraft to be connected in early 20…
 
-[查看原文](https://x.com/elonmusk/status/2124924416249466906)
+---
+
+## 2026-11-24 02:35:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @nvidianewsroom: NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.
+
+Read the release: https://t.co/x4bnjiSVil
+
+[查看原文](https://x.com/elonmusk/status/2124934922884313475)
 
 ---
 
