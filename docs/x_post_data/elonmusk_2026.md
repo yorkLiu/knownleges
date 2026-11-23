@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5244 条推文
+> 📊 推文存档 - 共 5247 条推文
 
 ---
 
@@ -253,7 +253,41 @@ RT @teslaownersSV: Google CEO Sundar Pichai on Elon's ability to bring future te
 
 RT @WesternLensman: Jessica Tarlov says when she finally decided to listen to the full audio of Trump's "Fine People" comments -- she found…
 
-[查看原文](https://x.com/elonmusk/status/2124657565950984345)
+---
+
+## 2026-11-23 09:15:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @yilun_chen_: It’s almost unbelievable to have a CEO that works on so many things but still has this level of understanding of technical…
+
+[查看原文](https://x.com/elonmusk/status/2124673261904548151)
+
+---
+
+## 2026-11-23 09:16:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @danny_graziosi: I've been using @bot to help my fiancée and me plan our wedding, and it honestly feels like we have a hired full-time w…
+
+[查看原文](https://x.com/elonmusk/status/2124673356989346144)
+
+---
+
+## 2026-11-23 09:16:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TeslaSI: XV
+
+[查看原文](https://x.com/elonmusk/status/2124673411242758419)
 
 ---
 
