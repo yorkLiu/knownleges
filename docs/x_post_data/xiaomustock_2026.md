@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 503 条推文
+> 📊 推文存档 - 共 504 条推文
 
 ---
 
@@ -30,9 +30,19 @@ tags: ["2026"]
 
 爽，卧槽，华尔街真是几把为了操盘拿到最便宜的英伟达 https://t.co/2iorJ1qShE
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP1GsESbP5C8Fu-NFTfSqPXWly4Wf-AAKIG2sbJ24gVJcys3zpeJaSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2124866927902499246)
+## 2026-11-23 22:20:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+黄仁勋开心死了，估计原地蹦三米高 https://t.co/NJkMW92BLS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP1msEUPfoYQcqVTOLTYFQBVwlG9lxAAKuG2sbJ24gVMIwVuHANB79AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2124870613538066764)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 821 条推文
+> 📊 推文存档 - 共 822 条推文
 
 ---
 
@@ -63,9 +63,19 @@ tags: ["2026"]
 最怕的就是
 又蠢又勤奋 https://t.co/r5KziGOxOq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP0WsEAQ629rKMV_KE8j7HAVvb_RxaAAJPGmsbJ24gVNhl5cG4tKgtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2124785295795314718)
+## 2026-11-23 22:22:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+黄金坑已没🤗🤗🤗 https://t.co/uDvXK8GHbe
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP12sEUPz2WUPUBRHCCRT3i3RhIgnHAAKvG2sbJ24gVOd0ZJxFX6zFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124871327865790890)
 
 ---
 

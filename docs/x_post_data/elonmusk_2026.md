@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5253 条推文
+> 📊 推文存档 - 共 5256 条推文
 
 ---
 
@@ -350,7 +350,41 @@ RT @deedydas: The rate of change of technology is so quick these days that being
 
 T…
 
-[查看原文](https://x.com/elonmusk/status/2124730377260724320)
+---
+
+## 2026-11-23 22:28:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It is done
+
+[查看原文](https://x.com/elonmusk/status/2124872664938602736)
+
+---
+
+## 2026-11-23 22:41:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The mistake has been corrected
+
+[查看原文](https://x.com/elonmusk/status/2124875939133751684)
+
+---
+
+## 2026-11-23 22:41:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @dhh: Gemini 4 Neon is indeed crazy good. Cut Omarchy boot time in half!! Big optimizations on install as well. It's a quiet cat, though…
+
+[查看原文](https://x.com/elonmusk/status/2124876058227007726)
 
 ---
 
