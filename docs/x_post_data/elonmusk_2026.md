@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5243 条推文
+> 📊 推文存档 - 共 5244 条推文
 
 ---
 
@@ -243,7 +243,17 @@ RT @ScottJenningsKY: I love that he doesn’t appear to know the internet exists
 
 RT @teslaownersSV: Google CEO Sundar Pichai on Elon's ability to bring future technologies into existence: "I think it's just unparalleled.…
 
-[查看原文](https://x.com/elonmusk/status/2124638778518303124)
+---
+
+## 2026-11-23 08:13:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WesternLensman: Jessica Tarlov says when she finally decided to listen to the full audio of Trump's "Fine People" comments -- she found…
+
+[查看原文](https://x.com/elonmusk/status/2124657565950984345)
 
 ---
 
