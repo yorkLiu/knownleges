@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5247 条推文
+> 📊 推文存档 - 共 5251 条推文
 
 ---
 
@@ -263,8 +263,6 @@ RT @WesternLensman: Jessica Tarlov says when she finally decided to listen to th
 
 RT @yilun_chen_: It’s almost unbelievable to have a CEO that works on so many things but still has this level of understanding of technical…
 
-[查看原文](https://x.com/elonmusk/status/2124673261904548151)
-
 ---
 
 ## 2026-11-23 09:16:17
@@ -274,8 +272,6 @@ RT @yilun_chen_: It’s almost unbelievable to have a CEO that works on so many 
 **内容**:
 
 RT @danny_graziosi: I've been using @bot to help my fiancée and me plan our wedding, and it honestly feels like we have a hired full-time w…
-
-[查看原文](https://x.com/elonmusk/status/2124673356989346144)
 
 ---
 
@@ -287,7 +283,53 @@ RT @danny_graziosi: I've been using @bot to help my fiancée and me plan our wed
 
 RT @TeslaSI: XV
 
-[查看原文](https://x.com/elonmusk/status/2124673411242758419)
+---
+
+## 2026-11-23 09:18:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @StockMKTNewz: I think we moved past this a little too quickly … SpaceX literally caught a rocket in mid air last week https://t.co/vldL…
+
+[查看原文](https://x.com/elonmusk/status/2124673809936461957)
+
+---
+
+## 2026-11-23 09:20:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+😂
+
+[查看原文](https://x.com/elonmusk/status/2124674295246811586)
+
+---
+
+## 2026-11-23 09:33:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @LisaBritton: Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have…
+
+[查看原文](https://x.com/elonmusk/status/2124677762686578933)
+
+---
+
+## 2026-11-23 09:33:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GadSaad: I warned Iceland in June 2025 but they chose to ignore me…
+
+[查看原文](https://x.com/elonmusk/status/2124677795666428315)
 
 ---
 
