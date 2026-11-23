@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 650 条推文
+> 📊 推文存档 - 共 651 条推文
 
 ---
 
@@ -39,9 +39,21 @@ Jensen's return to $NVDA is looking a lot more likely.
 
 Especially with the support from the US president. https://t.co/0J9GEmGSJD
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP0GsDv6cNgjY71JTUOAhFSKdmitMsAAIwF2sbJvEZVK1_OBqjtiWqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2124715837533859857)
+## 2026-11-23 22:00:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+THE AI TRADE IS BACK 
+
+$NVDA Board Reinstates Jensen Huang as CEO https://t.co/8s5s4AdkL2
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP1WsESbjF2FJXxaBTVq_-tAPfw8qqAAKJG2sbJ24gVBbuM_nyJnx-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2124865722342085117)
 
 ---
 

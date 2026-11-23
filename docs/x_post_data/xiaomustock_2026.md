@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 502 条推文
+> 📊 推文存档 - 共 503 条推文
 
 ---
 
@@ -20,11 +20,19 @@ tags: ["2026"]
 真是科幻片，2001年的论文写了agent，特点还包括人格化，可交谈。
 然后居然是我学校的老师😂 https://t.co/2AnKemTa95
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP0msEHhwXDFuRrjFV9LC0tzvyB1VoAAK0GmsbJ24gVAABaSEDdPWDEQEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP02sEHh-w8ZjMnOo94W74M2Ba-wPOAAK1GmsbJ24gVC9JVuArqKtPAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-23 22:05:28
 
-[查看原文](https://x.com/xiaomustock/status/2124821316041928992)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+爽，卧槽，华尔街真是几把为了操盘拿到最便宜的英伟达 https://t.co/2iorJ1qShE
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP1GsESbP5C8Fu-NFTfSqPXWly4Wf-AAKIG2sbJ24gVJcys3zpeJaSAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2124866927902499246)
 
 ---
 
