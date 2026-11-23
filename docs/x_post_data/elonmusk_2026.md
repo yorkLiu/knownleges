@@ -7,7 +7,43 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5262 条推文
+> 📊 推文存档 - 共 5265 条推文
+
+---
+
+## 2026-11-24 01:28:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world.
+
+[查看原文](https://x.com/elonmusk/status/2124917923391443211)
+
+---
+
+## 2026-11-24 01:30:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Aer Lingus Chief Customer Officer Susanne Carberry praises @Starlink as the airline expands free Starlink Wi-Fi to E…
+
+[查看原文](https://x.com/elonmusk/status/2124918489224011921)
+
+---
+
+## 2026-11-24 01:30:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2124918561617694750)
 
 ---
 
