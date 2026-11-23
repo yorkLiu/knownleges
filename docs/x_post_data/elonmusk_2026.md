@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5251 条推文
+> 📊 推文存档 - 共 5252 条推文
 
 ---
 
@@ -293,8 +293,6 @@ RT @TeslaSI: XV
 
 RT @StockMKTNewz: I think we moved past this a little too quickly … SpaceX literally caught a rocket in mid air last week https://t.co/vldL…
 
-[查看原文](https://x.com/elonmusk/status/2124673809936461957)
-
 ---
 
 ## 2026-11-23 09:20:01
@@ -304,8 +302,6 @@ RT @StockMKTNewz: I think we moved past this a little too quickly … SpaceX lit
 **内容**:
 
 😂
-
-[查看原文](https://x.com/elonmusk/status/2124674295246811586)
 
 ---
 
@@ -317,8 +313,6 @@ RT @StockMKTNewz: I think we moved past this a little too quickly … SpaceX lit
 
 RT @LisaBritton: Iceland is considered “the most gender-equal country in the world” but it doesn’t seem “equal” to me… Currently, they have…
 
-[查看原文](https://x.com/elonmusk/status/2124677762686578933)
-
 ---
 
 ## 2026-11-23 09:33:55
@@ -329,7 +323,22 @@ RT @LisaBritton: Iceland is considered “the most gender-equal country in the w
 
 RT @GadSaad: I warned Iceland in June 2025 but they chose to ignore me…
 
-[查看原文](https://x.com/elonmusk/status/2124677795666428315)
+---
+
+## 2026-11-23 09:49:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @mattyp: What's new in Grok Bot 1.0 🚀
+
+00:45 Team Bot improvements
+01:47 Bots join your meetings
+03:26 Bots take initiative
+04:10 Bots l…
+
+[查看原文](https://x.com/elonmusk/status/2124681722705100862)
 
 ---
 
