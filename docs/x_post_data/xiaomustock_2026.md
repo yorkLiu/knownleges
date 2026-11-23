@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 504 条推文
+> 📊 推文存档 - 共 505 条推文
 
 ---
 
@@ -40,9 +40,19 @@ tags: ["2026"]
 
 黄仁勋开心死了，估计原地蹦三米高 https://t.co/NJkMW92BLS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP1msEUPfoYQcqVTOLTYFQBVwlG9lxAAKuG2sbJ24gVMIwVuHANB79AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2124870613538066764)
+## 2026-11-23 23:48:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+刚才看懂为啥ant暴跌，一跌独秀，
+因为是anthropic把黄仁勋举报的，各种爆料搞黄仁勋。
+我还想着差点打算ant开了期权做多一小段ant，看来幸好没搞，黄仁勋搞不好以后不给ant供货或者卡anthropic的算力卡。
+
+[查看原文](https://x.com/xiaomustock/status/2124892968381526268)
 
 ---
 
