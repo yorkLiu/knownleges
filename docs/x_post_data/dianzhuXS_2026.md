@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 820 条推文
+> 📊 推文存档 - 共 821 条推文
 
 ---
 
@@ -51,7 +51,21 @@ tags: ["2026"]
 善良沒有卵用
 自此輪迴已成
 
-[查看原文](https://x.com/dianzhuXS/status/2124765341301805126)
+---
+
+## 2026-11-23 16:41:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+是的
+最怕的就是
+又蠢又勤奋 https://t.co/r5KziGOxOq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP0WsEAQ629rKMV_KE8j7HAVvb_RxaAAJPGmsbJ24gVNhl5cG4tKgtAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2124785295795314718)
 
 ---
 
