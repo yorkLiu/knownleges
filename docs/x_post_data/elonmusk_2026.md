@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5281 条推文
+> 📊 推文存档 - 共 5283 条推文
 
 ---
 
@@ -223,7 +223,29 @@ current fave agent
 1 claude projects (&gt; duet)
 3 muse…
 
-[查看原文](https://x.com/elonmusk/status/2125184082996867421)
+---
+
+## 2026-11-24 23:25:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jamsideAIbeast: This is f*cking insane. OpenAI co-founder Ilya Sutskever, who left to build his own superintelligence lab, described th…
+
+[查看原文](https://x.com/elonmusk/status/2125249356110647800)
+
+---
+
+## 2026-11-24 23:26:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of…
+
+[查看原文](https://x.com/elonmusk/status/2125249624168702459)
 
 ---
 
