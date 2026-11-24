@@ -7,7 +7,25 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 655 条推文
+> 📊 推文存档 - 共 656 条推文
+
+---
+
+## 2026-11-25 01:12:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I wonder if we'll see an AI quantum discovery theme emerge in the future, following biotech discovery. 
+
+$GOOGL Deepmind: "Finding faster quantum algorithms with agents":
+
+1. The timeline by which quantum computers can solve breakthrough problems in science depend as much on https://t.co/OcqXnHIUvU
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP5msFytIWIwABVvTpCH-EMzLnJvHYEgACfBtrGyduMFQnrP9zgyfegAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125276382909566982)
 
 ---
 
