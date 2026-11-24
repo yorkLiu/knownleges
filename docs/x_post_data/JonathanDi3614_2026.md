@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @JonathanDi3614
 
-> 📊 推文存档 - 共 90 条推文
+> 📊 推文存档 - 共 91 条推文
 
 ---
 
@@ -24,9 +24,23 @@ tags: ["2026"]
 
 今天有先手的，明天高开就是稳稳吃肉，无非是吃多少的问题。但今天没上车的，明天早盘一激动追进去，可能开盘就是巅峰，收盘就成买单侠。 https://t.co/2si5EY2wdp
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP22sEbgYCbdC5fT3nkBI5RUu9-_FRAAL-G2sbJ24gVAESa1lD3teVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/JonathanDi3614/status/2124904302129156254)
+## 2026-11-24 15:18:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨晚黄教主重磅回归，美科技股应声狂飙。看完隔夜盘面，所有人心里都有数：今天A股高开，是板上钉钉的明牌。
+
+今日布局，高地切换，避开高开压力。
+
+但高开之后怎么走？老手心里都清楚——A股“高开低走”的毛病，是刻在骨子里的铁律，反复讲过很多次，依然每天在上演。 https://t.co/ge2wRTyACq
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP4msFQMeOmTqwolw5FCtQJfb-F-nxAAJTF2sbJ24oVMPkcANl5NXZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/JonathanDi3614/status/2125126880164774294)
 
 ---
 
