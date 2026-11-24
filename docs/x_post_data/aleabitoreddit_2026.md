@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 656 条推文
+> 📊 推文存档 - 共 657 条推文
 
 ---
 
@@ -23,9 +23,23 @@ $GOOGL Deepmind: "Finding faster quantum algorithms with agents":
 
 1. The timeline by which quantum computers can solve breakthrough problems in science depend as much on https://t.co/OcqXnHIUvU
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP5msFytIWIwABVvTpCH-EMzLnJvHYEgACfBtrGyduMFQnrP9zgyfegAEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2125276382909566982)
+## 2026-11-25 02:06:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Always a fun time for markets: "Trump administration set to unveil new tariffs" 
+
+- Japan, South Korea, and the EU could face incremental increases of 2.5-5% percentage points, with potentially steeper increases for Vietnam to India
+
+- "The Trump administration has singled out https://t.co/daAKr2EFKd
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP52sF2VqCa7QlYKKS2rwhrBr6sieGAAKaG2sbJ24wVNbgmLuNU9B5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125289945367707945)
 
 ---
 
