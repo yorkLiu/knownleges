@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5279 条推文
+> 📊 推文存档 - 共 5280 条推文
 
 ---
 
@@ -195,7 +195,17 @@ Musk uses Nvidia's technology three ways at on…
 
 RT @TrungTPhan: no one man should have this much power
 
-[查看原文](https://x.com/elonmusk/status/2125161492039483806)
+---
+
+## 2026-11-24 18:44:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Bullseye
+
+[查看原文](https://x.com/elonmusk/status/2125178828943184363)
 
 ---
 
