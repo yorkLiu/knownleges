@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 653 条推文
+> 📊 推文存档 - 共 654 条推文
 
 ---
 
@@ -24,10 +24,6 @@ Ooo found $SMTC laser disclosures in earnings interesting after their HieFo acqu
 In terms of laser revenue: 
 -  3-4x capacity expansion EOY, another 3-4x end of https://t.co/7SSmxRZzxp
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP32sE_2VndJQrjmKHjS7knXD5Qqw4AAJYFmsbJ24oVED9oE4dh5kKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/aleabitoreddit/status/2125056333045219562)
-
 ---
 
 ## 2026-11-24 10:47:16
@@ -42,7 +38,23 @@ A lot of revised forecasts where made off him leaving, but his return, can be a 
 
 Jensen my ideal game
 
-[查看原文](https://x.com/aleabitoreddit/status/2125058643154632845)
+---
+
+## 2026-11-24 14:33:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Who said Neoclouds don't have a technical moat? High confidence this statement is about $NBIS. 
+
+Databricks co-founder: 
+
+"We are VERY CAREFUL about where compute runs and so far we've only found a *single* neocloud we think has robust enough isolation to ever have a chance at https://t.co/G2IY6Iqdt0
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP4WsFMkFZXN1H-DeHExrpBEg9nucQAAIUF2sbJ24oVEByMn7PWTF3AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125115492935549060)
 
 ---
 
