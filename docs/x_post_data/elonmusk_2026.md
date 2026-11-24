@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5278 条推文
+> 📊 推文存档 - 共 5279 条推文
 
 ---
 
@@ -161,8 +161,6 @@ RT @johnfederspiel: My favorite product we’ve ever made.
 
 The dream from V1 was a Starlink smaller and thinner than a tablet that works fo…
 
-[查看原文](https://x.com/elonmusk/status/2125018804656726389)
-
 ---
 
 ## 2026-11-24 08:09:00
@@ -172,8 +170,6 @@ The dream from V1 was a Starlink smaller and thinner than a tablet that works fo
 **内容**:
 
 RT @Starlink: Getting online with Mini 2 is simple. Press the button and you're connected in 60 seconds, with a rechargeable battery that l…
-
-[查看原文](https://x.com/elonmusk/status/2125018813426974965)
 
 ---
 
@@ -189,7 +185,17 @@ And he explains why.
 
 Musk uses Nvidia's technology three ways at on…
 
-[查看原文](https://x.com/elonmusk/status/2125024317327167853)
+---
+
+## 2026-11-24 17:35:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TrungTPhan: no one man should have this much power
+
+[查看原文](https://x.com/elonmusk/status/2125161492039483806)
 
 ---
 
