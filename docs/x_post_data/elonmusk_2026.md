@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5280 条推文
+> 📊 推文存档 - 共 5281 条推文
 
 ---
 
@@ -205,7 +205,25 @@ RT @TrungTPhan: no one man should have this much power
 
 Bullseye
 
-[查看原文](https://x.com/elonmusk/status/2125178828943184363)
+---
+
+## 2026-11-24 19:05:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @clairevo: current fave models
+0 jev
+1 gemini neon
+2 opus 5.5
+3 fable 5.2
+current fave agent
+0 grokbot
+1 claude projects (&gt; duet)
+3 muse…
+
+[查看原文](https://x.com/elonmusk/status/2125184082996867421)
 
 ---
 
