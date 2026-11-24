@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 823 条推文
+> 📊 推文存档 - 共 824 条推文
 
 ---
 
@@ -21,9 +21,19 @@ tags: ["2026"]
 
 以目前國際AI角逐的態勢，我支持黃仁勳回歸這件事。為什麼？ https://t.co/H3sDhL3ITL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP3WsExUMXz6MctDcdBrYHBrHKrJXtAAJqHGsbJ24gVNngTKP9FWALAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2124998050049556761)
+## 2026-11-24 08:21:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這事很多簡中思維看不懂的，不只是粉紅牆蛆，即使是反賊在簡中圈浸泡久了也看不懂的。
+
+所以還是那個建議，美國的事你看不懂就別費勁了，就支持盧比奧就行了，他比較簡單直接，適合簡中情緒價值。
+
+[查看原文](https://x.com/dianzhuXS/status/2125021852427038817)
 
 ---
 
