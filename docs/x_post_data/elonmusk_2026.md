@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5283 条推文
+> 📊 推文存档 - 共 5284 条推文
 
 ---
 
@@ -233,8 +233,6 @@ current fave agent
 
 RT @jamsideAIbeast: This is f*cking insane. OpenAI co-founder Ilya Sutskever, who left to build his own superintelligence lab, described th…
 
-[查看原文](https://x.com/elonmusk/status/2125249356110647800)
-
 ---
 
 ## 2026-11-24 23:26:10
@@ -245,7 +243,19 @@ RT @jamsideAIbeast: This is f*cking insane. OpenAI co-founder Ilya Sutskever, wh
 
 RT @SpaceX: All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of…
 
-[查看原文](https://x.com/elonmusk/status/2125249624168702459)
+---
+
+## 2026-11-24 23:40:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @liam_fallen: You can literally turn your X bookmarks into instructions for Grok Bot.
+
+It finds the guides, prompts and tools you've sav…
+
+[查看原文](https://x.com/elonmusk/status/2125253316917739534)
 
 ---
 
