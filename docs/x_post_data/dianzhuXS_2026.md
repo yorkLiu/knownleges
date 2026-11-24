@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 825 条推文
+> 📊 推文存档 - 共 826 条推文
 
 ---
 
@@ -43,9 +43,22 @@ tags: ["2026"]
 
 雖然我在黃仁勳辭職的時候發了「黃金坑已成」，但我並沒有買英偉達的股票，沒有其他原因，就是要支持所在國的本土企業，同時支持AI算力替代石油成為這個世界的「新錨」，所以我買了點海力士。嗯，現在也挺好。我個人的觀點，在亞洲來講，目前韓國和台灣是兩個最有活力的國家，不抬槓，你看看韓國和台灣 https://t.co/U1dYqWBxjq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP3msE4lNs8u0IvfwZM6TYKGlZ6G-BAAIwFmsbJ24oVHrDY0Ig1Z0cAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2125031230853021876)
+## 2026-11-24 10:01:16
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+咱也說個爆論
+如果真有境外勢力
+做空海力士
+韓國人真敢全民借錢
+再給拉回去
+你信不信？
+
+[查看原文](https://x.com/dianzhuXS/status/2125047066623930494)
 
 ---
 
