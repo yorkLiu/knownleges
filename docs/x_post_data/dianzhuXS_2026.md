@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 826 条推文
+> 📊 推文存档 - 共 827 条推文
 
 ---
 
@@ -58,7 +58,27 @@ tags: ["2026"]
 再給拉回去
 你信不信？
 
-[查看原文](https://x.com/dianzhuXS/status/2125047066623930494)
+---
+
+## 2026-11-24 13:50:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+從這次黃仁勳事件中的表現來看
+我改變了先前對數字幣的觀點
+
+現在的數字幣
+不僅沒有一丁點避險屬性
+也不是什麼賭場籌碼了
+
+就是洗黑錢的一坨屎
+不接受任何反駁 https://t.co/YO0le0xUJb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP4GsFKvuQQjtdRCT49aPf7-v-evv7AAIFF2sbJ24oVFW-aVNILeRUAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2125104869677907974)
 
 ---
 
