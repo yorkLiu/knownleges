@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 657 条推文
+> 📊 推文存档 - 共 658 条推文
 
 ---
 
@@ -37,9 +37,29 @@ Always a fun time for markets: "Trump administration set to unveil new tariffs"
 
 - "The Trump administration has singled out https://t.co/daAKr2EFKd
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP52sF2VqCa7QlYKKS2rwhrBr6sieGAAKaG2sbJ24wVNbgmLuNU9B5AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2125289945367707945)
+## 2026-11-25 03:30:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow, memory names like $SNDK just keep on dropping.
+
+At a $89B MC they have: 
+
+&gt; $89B minimum in LTAs with contractual price floors supporting at least 80% gross margins
+
+"The floor pricing for those contracts, we said in aggregate, will deliver at least 80% gross margin for https://t.co/sryCs0Ch18
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP6GsF5-JRfOHIisxsNXy6OrfvH0c5AAKyG2sbJ24wVDlrcdwAAWijJwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP6WsF5-UZexg99_lhe7zs21f2suXoAAKzG2sbJ24wVDHUh_AusIuZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP6msF5-iNGYhhnlnN3XTU7sv9W-RnAAK0G2sbJ24wVMOm0pwXzPOzAQADAgADeQADPQQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125311224242164185)
 
 ---
 
