@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5297 条推文
+> 📊 推文存档 - 共 5298 条推文
 
 ---
 
@@ -110,8 +110,6 @@ Starlink is now approved in 30 of 54 countries in Africa!
 
 RT @Starlink: Geordie and Jess Flanagan run two home businesses on Salt Spring Island, B.C. Starlink keeps them connected at home and on re…
 
-[查看原文](https://x.com/elonmusk/status/2125410949872115771)
-
 ---
 
 ## 2026-11-25 10:07:21
@@ -122,10 +120,6 @@ RT @Starlink: Geordie and Jess Flanagan run two home businesses on Salt Spring I
 
 RT @SpaceX: Falcon 9 launches USSF-266 to orbit from pad 4E in California https://t.co/Nhh8x9ndfO
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP62sGRmZO7lkIyapllyHSgNa-bL_BAAJGF2sbHyIxVB_Xk2MJZ0_PAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2125410983544017343)
-
 ---
 
 ## 2026-11-25 10:08:07
@@ -135,8 +129,6 @@ RT @SpaceX: Falcon 9 launches USSF-266 to orbit from pad 4E in California https:
 **内容**:
 
 Interesting
-
-[查看原文](https://x.com/elonmusk/status/2125411174993010839)
 
 ---
 
@@ -150,7 +142,19 @@ RT @larsencc: Visiting family in Slovenia, so naturally I onboarded my brother-i
 
 One hour in, it's watching compet…
 
-[查看原文](https://x.com/elonmusk/status/2125412528612311121)
+---
+
+## 2026-11-25 10:53:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: BREAKING: Argentina’s Salta government announces 226 Starlink antennas to connect remote communities. 🇦🇷
+
+The planned rollout,…
+
+[查看原文](https://x.com/elonmusk/status/2125422535932272988)
 
 ---
 
