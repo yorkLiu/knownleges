@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 511 条推文
+> 📊 推文存档 - 共 512 条推文
 
 ---
 
@@ -19,7 +19,21 @@ tags: ["2026"]
 
 v，再短抄一次底。
 
-[查看原文](https://x.com/xiaomustock/status/2125639141178376414)
+---
+
+## 2026-11-26 02:57:03
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+今天爽度应该是仅次于黄仁勋复出。 https://t.co/EhaT6ARASf
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP_GsHNileuWIXU3_OvJ11DFxxV5p5AAIRGmsbHyI5VM6Su-qAIBHKAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP_WsHNivMpvVPlEzeUgz_T-jTc-pVAAISGmsbHyI5VEChCEBUDvpHAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2125665085058388199)
 
 ---
 
