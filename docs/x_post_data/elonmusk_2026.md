@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5298 条推文
+> 📊 推文存档 - 共 5300 条推文
 
 ---
 
@@ -154,7 +154,33 @@ RT @cb_doge: BREAKING: Argentina’s Salta government announces 226 Starlink ant
 
 The planned rollout,…
 
-[查看原文](https://x.com/elonmusk/status/2125422535932272988)
+---
+
+## 2026-11-25 12:48:17
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kylenabecker: The USAID Files is one of the most disgusting reads I have ever come across.
+
+The deep state functions like an AWFL mafia…
+
+[查看原文](https://x.com/elonmusk/status/2125451484582264984)
+
+---
+
+## 2026-11-25 12:55:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @chrisalbon: sometimes it really does feel like this. https://t.co/8Gw9fW8Qhk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP7GsGarzYriv34zBGaFJLpATEC2seAAJ9F2sbHyIxVLcsZCGp7dZEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2125453275256557985)
 
 ---
 
