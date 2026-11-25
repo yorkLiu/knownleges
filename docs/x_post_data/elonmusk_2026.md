@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5291 条推文
+> 📊 推文存档 - 共 5293 条推文
 
 ---
 
@@ -80,7 +80,29 @@ Starlink
 
 The news is accurate
 
-[查看原文](https://x.com/elonmusk/status/2125381945672761599)
+---
+
+## 2026-11-25 08:18:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Don’t mess with 𝕏
+
+[查看原文](https://x.com/elonmusk/status/2125383610266157090)
+
+---
+
+## 2026-11-25 08:19:34
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink is now approved in 30 of 54 countries in Africa!
+
+[查看原文](https://x.com/elonmusk/status/2125383859592479201)
 
 ---
 
