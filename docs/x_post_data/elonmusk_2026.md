@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5312 条推文
+> 📊 推文存档 - 共 5313 条推文
 
 ---
 
@@ -280,10 +280,6 @@ Grok Bot can research the best Black Friday deals for you and confirm they’re 
 
 RT @teslaownersSV: BREAKING: Elon Musk with @JensenHuang at Nvidia https://t.co/DWRD3H83f1
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP8WsGh9vw0-C4fY1dvDDPxjb4RExgAALCGGsbHyI5VPHi4_eG-iGOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2125482368899469424)
-
 ---
 
 ## 2026-11-25 14:52:19
@@ -294,8 +290,6 @@ RT @teslaownersSV: BREAKING: Elon Musk with @JensenHuang at Nvidia https://t.co/
 
 RT @wintonARK: on orbital compute costs.
 on a levelized chip GWs cost basis, we think SpaceX can get to par with terrestrial benchmarks by…
-
-[查看原文](https://x.com/elonmusk/status/2125482697611169837)
 
 ---
 
@@ -309,7 +303,25 @@ RT @libsoftiktok: Iceland claims it still has "power imbalances" that negatively
 
 7/9 of Iceland's top positions are held by…
 
-[查看原文](https://x.com/elonmusk/status/2125484832344186969)
+---
+
+## 2026-11-25 15:02:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @C_3C_3: USAID sounded nice.
+
+US AID.
+
+As in the US is aiding the poor in need.
+
+That’s not what USAID was.
+
+It was the US Agency for In…
+
+[查看原文](https://x.com/elonmusk/status/2125485257558532388)
 
 ---
 
