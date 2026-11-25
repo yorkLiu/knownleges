@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5344 条推文
+> 📊 推文存档 - 共 5346 条推文
 
 ---
 
@@ -41,8 +41,6 @@ RT @spacexai: Innovacer is streamlining healthcare operations with Grok Voice, w
 
 SpaceX Colossus 3 will greatly benefit the Arizona community
 
-[查看原文](https://x.com/elonmusk/status/2125667762324541673)
-
 ---
 
 ## 2026-11-26 03:10:03
@@ -54,8 +52,6 @@ SpaceX Colossus 3 will greatly benefit the Arizona community
 RT @ladyxtel: Three days after the Riemann Hypothesis was proved in Lean, our agents had used it to prove 17 results.
 
 Six are named conjec…
-
-[查看原文](https://x.com/elonmusk/status/2125668352932896988)
 
 ---
 
@@ -69,8 +65,6 @@ RT @ggreenwald: This is genuinely horrifying and tyrannical.
 
 Almost every group and individual claiming to be a "disinformation expert" or…
 
-[查看原文](https://x.com/elonmusk/status/2125668435480940951)
-
 ---
 
 ## 2026-11-26 03:12:53
@@ -80,8 +74,6 @@ Almost every group and individual claiming to be a "disinformation expert" or…
 **内容**:
 
 Interesting
-
-[查看原文](https://x.com/elonmusk/status/2125669066388209784)
 
 ---
 
@@ -95,7 +87,31 @@ Thanks Ron ❤️
 
 My greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing.
 
-[查看原文](https://x.com/elonmusk/status/2125670205456257409)
+---
+
+## 2026-11-26 07:26:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @GavinSBaker: A share of SpaceX for every child in America. Another share coming next year directly from Elon.
+
+This is great for the co…
+
+[查看原文](https://x.com/elonmusk/status/2125732803690246533)
+
+---
+
+## 2026-11-26 07:26:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SpaceX: SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the compan…
+
+[查看原文](https://x.com/elonmusk/status/2125732841187315903)
 
 ---
 
