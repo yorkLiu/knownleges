@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5314 条推文
+> 📊 推文存档 - 共 5316 条推文
 
 ---
 
@@ -331,9 +331,29 @@ It was the US Agency for In…
 
 RT @bot: Grok Bot can now make phone calls. https://t.co/eFghrfwTtz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP8msGpNovS7gTIZ8JUddePebG3PLqAAL3GGsbHyI5VBnmkc8FnM_cAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2125511153145311665)
+## 2026-11-25 17:06:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok is so much fun on Tesla road trips!
+
+[查看原文](https://x.com/elonmusk/status/2125516475712844116)
+
+---
+
+## 2026-11-25 17:06:53
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Starlink
+
+[查看原文](https://x.com/elonmusk/status/2125516563277328690)
 
 ---
 
