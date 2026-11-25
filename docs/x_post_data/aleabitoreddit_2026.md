@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 662 条推文
+> 📊 推文存档 - 共 663 条推文
 
 ---
 
@@ -50,7 +50,25 @@ Hindsight gurus drawing lines wouldn't need to sell paywalls if they just loaded
 
 Over the long horizon, earnings and durability matter more than deleveraging periods
 
-[查看原文](https://x.com/aleabitoreddit/status/2125693156750717298)
+---
+
+## 2026-11-26 06:17:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+$CRWV bankers are preparing a $4.5B loan sale, secured by GPUs for its $META contract. 
+
+Initial pricing discussions are at 7%-7.5% with demand already matching offering size. 
+
+It looks like appetite for hyperscaler-linked financing remains strong, despite the "AI credit stress" https://t.co/sw6PLhgnEc
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQAAFrB2HI-zYGxcT2P9KLID1HM-xDdwACHRprGx8iOVR-vmJZ7RfA6gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQAWsHYctHipBFA_9b_c3_cQTN62oXAAIeGmsbHyI5VPEg45o_5OVgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125715518154019298)
 
 ---
 
