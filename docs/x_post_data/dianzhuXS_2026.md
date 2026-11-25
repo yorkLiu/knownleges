@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 835 条推文
+> 📊 推文存档 - 共 836 条推文
 
 ---
 
@@ -59,8 +59,6 @@ tags: ["2026"]
 
 來啦https://t.co/KmwY4SZkez
 
-[查看原文](https://x.com/dianzhuXS/status/2125584361080897817)
-
 ---
 
 ## 2026-11-25 21:37:03
@@ -71,7 +69,18 @@ tags: ["2026"]
 
 為了今天這碗『蛋炒飯』！先生竟然說走就走，直接飛台灣！ https://t.co/ufhYveQJbg 來自 @YouTube
 
-[查看原文](https://x.com/dianzhuXS/status/2125584554371219860)
+---
+
+## 2026-11-25 22:28:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【剛才出了點小BUG】重發
+為了今天這碗『蛋炒飯』！先生竟然說走就走，直接飛台灣！ https://t.co/m9acmW5lJl 來自 @YouTube
+
+[查看原文](https://x.com/dianzhuXS/status/2125597568222835099)
 
 ---
 

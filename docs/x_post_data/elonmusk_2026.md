@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5330 条推文
+> 📊 推文存档 - 共 5331 条推文
 
 ---
 
@@ -438,8 +438,6 @@ RT @Petermarocco: Global Marxists don’t label themselves “Global Marxists”
 Propaganda is called “Countering Disinformation”
 Sovereign polit…
 
-[查看原文](https://x.com/elonmusk/status/2125587621825126754)
-
 ---
 
 ## 2026-11-25 21:49:36
@@ -452,8 +450,6 @@ RT @Timcast: And these same people kept calling us conspiracy theorists and now 
 
 Government coordinated with big tech to sil…
 
-[查看原文](https://x.com/elonmusk/status/2125587710073319431)
-
 ---
 
 ## 2026-11-25 21:52:58
@@ -464,8 +460,6 @@ Government coordinated with big tech to sil…
 
 RT @brivael: concerning
 
-[查看原文](https://x.com/elonmusk/status/2125588560082571554)
-
 ---
 
 ## 2026-11-25 21:53:47
@@ -475,8 +469,6 @@ RT @brivael: concerning
 **内容**:
 
 RT @melvindvivas: Grok Bot is the best assistant I ever had
-
-[查看原文](https://x.com/elonmusk/status/2125588764890402848)
 
 ---
 
@@ -490,8 +482,6 @@ RT @garrytan: I think this clip of Nick Bostrom is quite under-appreciated
 
 He inverts “if anyone builds it everyone dies” to “if nobody b…
 
-[查看原文](https://x.com/elonmusk/status/2125589484314226721)
-
 ---
 
 ## 2026-11-25 22:00:06
@@ -504,8 +494,6 @@ RT @cb_doge: One of my friends asked Grok Bot to sort out his family’s Bali vi
 
 5 visas issued. Arrival cards submitted. QR code delive…
 
-[查看原文](https://x.com/elonmusk/status/2125590353457959041)
-
 ---
 
 ## 2026-11-25 22:14:25
@@ -516,7 +504,17 @@ RT @cb_doge: One of my friends asked Grok Bot to sort out his family’s Bali vi
 
 RT @EricLDaugh: 🚨 JUST IN: After the release of the USAID files, Elon Musk just amplified this BOMBSHELL confirming USAID built a global co…
 
-[查看原文](https://x.com/elonmusk/status/2125593954825699713)
+---
+
+## 2026-11-25 22:31:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TonyChanBuilds: By 2030 every company will have more bots than employees.
+
+[查看原文](https://x.com/elonmusk/status/2125598170164150377)
 
 ---
 
