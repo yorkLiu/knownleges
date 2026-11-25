@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 831 条推文
+> 📊 推文存档 - 共 832 条推文
 
 ---
 
@@ -29,7 +29,25 @@ tags: ["2026"]
 
 突然有個想法，要不去台灣吃？
 
-[查看原文](https://x.com/dianzhuXS/status/2125424702353285272)
+---
+
+## 2026-11-25 19:08:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+炒飯節吃口蛋炒飯 https://t.co/xc07qN1hkx
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP82sGwexaTFW_k9RJvmo2_NP0epZDAAJDGWsbHyI5VPZTL3ElwAqHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP9GsGwe-SStckVZei_k7HasJXSO9EAAJEGWsbHyI5VM2-cJKJ0eklAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP9WsGwfL_SIWFwuU0YvE50-yvHr7JAAJFGWsbHyI5VPa1wZcp4AMSAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP9msGwfTWutZeueo5kXabxwZqYJH0AAJGGWsbHyI5VIKWEw_28t_fAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2125547133302690245)
 
 ---
 
