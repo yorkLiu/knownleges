@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5309 条推文
+> 📊 推文存档 - 共 5312 条推文
 
 ---
 
@@ -230,8 +230,6 @@ $2M Guatemala…
 
 True
 
-[查看原文](https://x.com/elonmusk/status/2125462322483503370)
-
 ---
 
 ## 2026-11-25 13:34:38
@@ -241,8 +239,6 @@ True
 **内容**:
 
 RT @JJEnglert: Grok Bot is really good.
-
-[查看原文](https://x.com/elonmusk/status/2125463147645641058)
 
 ---
 
@@ -254,8 +250,6 @@ RT @JJEnglert: Grok Bot is really good.
 
 Impressive work by Google
 
-[查看原文](https://x.com/elonmusk/status/2125463852146114994)
-
 ---
 
 ## 2026-11-25 13:38:25
@@ -265,8 +259,6 @@ Impressive work by Google
 **内容**:
 
 RT @stark0xbt: Baker on a16z admitted something nobody his age says out loud. 23-year-olds are more fluent in AI than he will ever be. He h…
-
-[查看原文](https://x.com/elonmusk/status/2125464102785130606)
 
 ---
 
@@ -278,7 +270,46 @@ RT @stark0xbt: Baker on a16z admitted something nobody his age says out loud. 23
 
 Grok Bot can research the best Black Friday deals for you and confirm they’re authentic
 
-[查看原文](https://x.com/elonmusk/status/2125464682580623467)
+---
+
+## 2026-11-25 14:51:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: BREAKING: Elon Musk with @JensenHuang at Nvidia https://t.co/DWRD3H83f1
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP8WsGh9vw0-C4fY1dvDDPxjb4RExgAALCGGsbHyI5VPHi4_eG-iGOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2125482368899469424)
+
+---
+
+## 2026-11-25 14:52:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @wintonARK: on orbital compute costs.
+on a levelized chip GWs cost basis, we think SpaceX can get to par with terrestrial benchmarks by…
+
+[查看原文](https://x.com/elonmusk/status/2125482697611169837)
+
+---
+
+## 2026-11-25 15:00:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @libsoftiktok: Iceland claims it still has "power imbalances" that negatively affect women.
+
+7/9 of Iceland's top positions are held by…
+
+[查看原文](https://x.com/elonmusk/status/2125484832344186969)
 
 ---
 
