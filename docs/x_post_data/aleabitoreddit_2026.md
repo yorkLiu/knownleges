@@ -7,7 +7,19 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 659 条推文
+> 📊 推文存档 - 共 660 条推文
+
+---
+
+## 2026-11-26 00:06:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Can we end the Iran war now pls, my AI stocks are sad
+
+[查看原文](https://x.com/aleabitoreddit/status/2125622055202955550)
 
 ---
 
