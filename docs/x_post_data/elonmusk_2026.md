@@ -7,7 +7,33 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5337 条推文
+> 📊 推文存档 - 共 5339 条推文
+
+---
+
+## 2026-11-26 00:42:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Eric_Schmitt: If you ever questioned why Democrats lost their minds when DOGE looked under the hood of USAID — you know now.
+
+It’s the…
+
+[查看原文](https://x.com/elonmusk/status/2125631216741400964)
+
+---
+
+## 2026-11-26 00:44:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @spacexai: Innovacer is streamlining healthcare operations with Grok Voice, with over 5M patient interactions and 90% reduction in proce…
+
+[查看原文](https://x.com/elonmusk/status/2125631700587991465)
 
 ---
 
