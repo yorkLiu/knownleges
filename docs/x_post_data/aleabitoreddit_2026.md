@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 661 条推文
+> 📊 推文存档 - 共 662 条推文
 
 ---
 
@@ -36,11 +36,21 @@ Following &lt;25 territory, the S&amp;P 500’s average returns 12 months later 
 
 Outlook tends to lean more favorably on longer horizons. https://t.co/ZsxCP9DzZJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP-msHIF54sk6pFznpDcvU4UaIabqZAAL5GWsbHyI5VIHPQ0xbsbiDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP-2sHIGKhIe3j4-IQW0Uv9_h17GZgAAL6GWsbHyI5VHoMaGzEA9KjAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-26 04:48:36
 
-[查看原文](https://x.com/aleabitoreddit/status/2125644909424357585)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The astrology course sellers are out in full force lately
+
+Hindsight gurus drawing lines wouldn't need to sell paywalls if they just loaded up on $NVDA and AI puts themselves. 
+
+Over the long horizon, earnings and durability matter more than deleveraging periods
+
+[查看原文](https://x.com/aleabitoreddit/status/2125693156750717298)
 
 ---
 
