@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5313 条推文
+> 📊 推文存档 - 共 5314 条推文
 
 ---
 
@@ -321,7 +321,19 @@ That’s not what USAID was.
 
 It was the US Agency for In…
 
-[查看原文](https://x.com/elonmusk/status/2125485257558532388)
+---
+
+## 2026-11-25 16:45:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @bot: Grok Bot can now make phone calls. https://t.co/eFghrfwTtz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP8msGpNovS7gTIZ8JUddePebG3PLqAAL3GGsbHyI5VBnmkc8FnM_cAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2125511153145311665)
 
 ---
 
