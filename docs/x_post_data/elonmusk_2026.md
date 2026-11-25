@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5316 条推文
+> 📊 推文存档 - 共 5320 条推文
 
 ---
 
@@ -341,8 +341,6 @@ RT @bot: Grok Bot can now make phone calls. https://t.co/eFghrfwTtz
 
 Grok is so much fun on Tesla road trips!
 
-[查看原文](https://x.com/elonmusk/status/2125516475712844116)
-
 ---
 
 ## 2026-11-25 17:06:53
@@ -353,7 +351,58 @@ Grok is so much fun on Tesla road trips!
 
 Starlink
 
-[查看原文](https://x.com/elonmusk/status/2125516563277328690)
+---
+
+## 2026-11-25 17:48:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TimSweeneyEpic: @jacobeverly @richgel999 It’s garbage and blocked some set theory work I was doing, accusing me of distillation. This w…
+
+[查看原文](https://x.com/elonmusk/status/2125527093304008924)
+
+---
+
+## 2026-11-25 17:52:45
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @notch: @LorienEllen I am having some of the most fun with programming ever. I am creating things I haven't seen any one else make.
+I TH…
+
+[查看原文](https://x.com/elonmusk/status/2125528106383683958)
+
+---
+
+## 2026-11-25 17:53:56
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DeepLeaksHQ: The secrecy of the USAID grant database is by design.
+
+Look up the addresses of entities receiving millions of dollars on…
+
+[查看原文](https://x.com/elonmusk/status/2125528404196020266)
+
+---
+
+## 2026-11-25 17:54:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Pirat_Nation: A solo developer just vibe-coded his first game and made $1.33 million on Steam in just one week.
+
+His game, Slotbound, h…
+
+[查看原文](https://x.com/elonmusk/status/2125528528624246989)
 
 ---
 

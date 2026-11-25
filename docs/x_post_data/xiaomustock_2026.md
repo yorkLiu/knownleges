@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 509 条推文
+> 📊 推文存档 - 共 510 条推文
 
 ---
 
@@ -20,15 +20,18 @@ tags: ["2026"]
 每次看星空摄影，仰望来自宇宙大爆之后不同时期跨度百亿光年的光线同时印刻在一张照片里。
 内心思绪能脱离世俗，忘记一切，只剩下对自身渺小的感叹。 https://t.co/T58zb7mrWW
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP7WsGh87TBi-OqYpKoabXr-kBzovoAAK-GGsbHyI5VDpQ8CKSrbq4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP7msGh9GAkcNIQ0ESLNfhW2-N-vmjAAK_GGsbHyI5VNackzAqUE65AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-25 17:54:17
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP72sGh9T-zcPzg3gy9lQnCWWjtJp5AALAGGsbHyI5VNZgd9VodaANAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP8GsGh9hfKm_5_qXzU9UFxbp9xN3XAALBGGsbHyI5VH4CXi3ILOvRAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/xiaomustock/status/2125479582291853819)
+为什么很多散户熊市中会越亏越多从来不割肉，就因为股市有一大堆kol天天给你信心，
+如果啥也不看可能早跑了。
+
+[查看原文](https://x.com/xiaomustock/status/2125528490338652259)
 
 ---
 
