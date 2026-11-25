@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 658 条推文
+> 📊 推文存档 - 共 659 条推文
 
 ---
 
@@ -53,13 +53,25 @@ At a $89B MC they have:
 
 "The floor pricing for those contracts, we said in aggregate, will deliver at least 80% gross margin for https://t.co/sryCs0Ch18
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP6GsF5-JRfOHIisxsNXy6OrfvH0c5AAKyG2sbJ24wVDlrcdwAAWijJwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP6WsF5-UZexg99_lhe7zs21f2suXoAAKzG2sbJ24wVDHUh_AusIuZAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-25 22:05:06
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP6msF5-iNGYhhnlnN3XTU7sv9W-RnAAK0G2sbJ24wVMOm0pwXzPOzAQADAgADeQADPQQ.png" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://x.com/aleabitoreddit/status/2125311224242164185)
+**内容**:
+
+$HPE CEO: "We expect supply of memory, NAND, and many other critical components to remain constrained to at least H2 2028."
+
+$DELL Vice Chairman: "there’s nothing that suggests that we're going to see price declines in enterprise NAND and DRAM for servers."
+
+JP Morgan note: 
+
+- https://t.co/Dj3cYdmgYL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP-GsG7YM696yvFfFC0yr4IfbizN0EAAKsGWsbHyI5VGDDJbWxnkyQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125591613426848145)
 
 ---
 

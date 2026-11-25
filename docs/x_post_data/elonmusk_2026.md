@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5323 条推文
+> 📊 推文存档 - 共 5330 条推文
 
 ---
 
@@ -406,8 +406,6 @@ His game, Slotbound, h…
 
 RT @Daily_MailUS: Woke judge released thug with 38 prior arrests just one day before he broke into woman's apartment and murdered her https…
 
-[查看原文](https://x.com/elonmusk/status/2125575833578614975)
-
 ---
 
 ## 2026-11-25 21:03:43
@@ -417,8 +415,6 @@ RT @Daily_MailUS: Woke judge released thug with 38 prior arrests just one day be
 **内容**:
 
 Yes
-
-[查看原文](https://x.com/elonmusk/status/2125576163720642762)
 
 ---
 
@@ -430,7 +426,97 @@ Yes
 
 Hmm
 
-[查看原文](https://x.com/elonmusk/status/2125576951364731018)
+---
+
+## 2026-11-25 21:49:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Petermarocco: Global Marxists don’t label themselves “Global Marxists”
+Propaganda is called “Countering Disinformation”
+Sovereign polit…
+
+[查看原文](https://x.com/elonmusk/status/2125587621825126754)
+
+---
+
+## 2026-11-25 21:49:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Timcast: And these same people kept calling us conspiracy theorists and now its all proven
+
+Government coordinated with big tech to sil…
+
+[查看原文](https://x.com/elonmusk/status/2125587710073319431)
+
+---
+
+## 2026-11-25 21:52:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: concerning
+
+[查看原文](https://x.com/elonmusk/status/2125588560082571554)
+
+---
+
+## 2026-11-25 21:53:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @melvindvivas: Grok Bot is the best assistant I ever had
+
+[查看原文](https://x.com/elonmusk/status/2125588764890402848)
+
+---
+
+## 2026-11-25 21:56:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @garrytan: I think this clip of Nick Bostrom is quite under-appreciated 
+
+He inverts “if anyone builds it everyone dies” to “if nobody b…
+
+[查看原文](https://x.com/elonmusk/status/2125589484314226721)
+
+---
+
+## 2026-11-25 22:00:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: One of my friends asked Grok Bot to sort out his family’s Bali visas.
+
+5 visas issued. Arrival cards submitted. QR code delive…
+
+[查看原文](https://x.com/elonmusk/status/2125590353457959041)
+
+---
+
+## 2026-11-25 22:14:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EricLDaugh: 🚨 JUST IN: After the release of the USAID files, Elon Musk just amplified this BOMBSHELL confirming USAID built a global co…
+
+[查看原文](https://x.com/elonmusk/status/2125593954825699713)
 
 ---
 
