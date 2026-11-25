@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 832 条推文
+> 📊 推文存档 - 共 833 条推文
 
 ---
 
@@ -39,15 +39,19 @@ tags: ["2026"]
 
 炒飯節吃口蛋炒飯 https://t.co/xc07qN1hkx
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP82sGwexaTFW_k9RJvmo2_NP0epZDAAJDGWsbHyI5VPZTL3ElwAqHAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP9GsGwe-SStckVZei_k7HasJXSO9EAAJEGWsbHyI5VM2-cJKJ0eklAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-25 20:17:58
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP9WsGwfL_SIWFwuU0YvE50-yvHr7JAAJFGWsbHyI5VPa1wZcp4AMSAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP9msGwfTWutZeueo5kXabxwZqYJH0AAJGGWsbHyI5VIKWEw_28t_fAQADAgADeQADPQQ.jpg" alt="图片 4" style="max-width:100%;border-radius:8px;margin:8px 0;">
+**内容**:
 
-[查看原文](https://x.com/dianzhuXS/status/2125547133302690245)
+剛才吃蛋炒飯全程錄像了，給我老婆的頻道，提供了點素材，做期節目大家多多支持呦 https://t.co/2WaJiruhSa
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP92sG17gSsWVOeZj-AWT44GoNhtXdAAKFGWsbHyI5VLO_E9jWqoXQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2125564648816816502)
 
 ---
 
