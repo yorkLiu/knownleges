@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5300 条推文
+> 📊 推文存档 - 共 5304 条推文
 
 ---
 
@@ -166,8 +166,6 @@ RT @kylenabecker: The USAID Files is one of the most disgusting reads I have eve
 
 The deep state functions like an AWFL mafia…
 
-[查看原文](https://x.com/elonmusk/status/2125451484582264984)
-
 ---
 
 ## 2026-11-25 12:55:24
@@ -178,9 +176,57 @@ The deep state functions like an AWFL mafia…
 
 RT @chrisalbon: sometimes it really does feel like this. https://t.co/8Gw9fW8Qhk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP7GsGarzYriv34zBGaFJLpATEC2seAAJ9F2sbHyIxVLcsZCGp7dZEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2125453275256557985)
+## 2026-11-25 12:58:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @mattst73 @elonmusk @davepl1968 Elon is describing the core of how neural nets (and intelligence) work: semantic compression mean…
+
+[查看原文](https://x.com/elonmusk/status/2125453976275685725)
+
+---
+
+## 2026-11-25 13:03:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Texas_Twins_Dad: I'm trying out Gemini right now. It seems good at coding, but it's not easy to use.
+
+Grok Bot is just so much easier t…
+
+[查看原文](https://x.com/elonmusk/status/2125455339403546788)
+
+---
+
+## 2026-11-25 13:12:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MikeBenzCyber: USAID brought in Global Disinformation Index to coach it on censoring online narratives. Here, GDI teaches USAID to get…
+
+[查看原文](https://x.com/elonmusk/status/2125457471045333498)
+
+---
+
+## 2026-11-25 13:13:59
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @grok: @iAnonPatriot $20M Ahlan Simsim Iraq early childhood inclusion. 
+$1.5M Serbia Grupa Izadji DEI LGBTQI+ workplaces. 
+$2M Guatemala…
+
+[查看原文](https://x.com/elonmusk/status/2125457952970772597)
 
 ---
 
