@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5320 条推文
+> 📊 推文存档 - 共 5323 条推文
 
 ---
 
@@ -361,8 +361,6 @@ Starlink
 
 RT @TimSweeneyEpic: @jacobeverly @richgel999 It’s garbage and blocked some set theory work I was doing, accusing me of distillation. This w…
 
-[查看原文](https://x.com/elonmusk/status/2125527093304008924)
-
 ---
 
 ## 2026-11-25 17:52:45
@@ -373,8 +371,6 @@ RT @TimSweeneyEpic: @jacobeverly @richgel999 It’s garbage and blocked some set
 
 RT @notch: @LorienEllen I am having some of the most fun with programming ever. I am creating things I haven't seen any one else make.
 I TH…
-
-[查看原文](https://x.com/elonmusk/status/2125528106383683958)
 
 ---
 
@@ -388,8 +384,6 @@ RT @DeepLeaksHQ: The secrecy of the USAID grant database is by design.
 
 Look up the addresses of entities receiving millions of dollars on…
 
-[查看原文](https://x.com/elonmusk/status/2125528404196020266)
-
 ---
 
 ## 2026-11-25 17:54:26
@@ -402,7 +396,41 @@ RT @Pirat_Nation: A solo developer just vibe-coded his first game and made $1.33
 
 His game, Slotbound, h…
 
-[查看原文](https://x.com/elonmusk/status/2125528528624246989)
+---
+
+## 2026-11-25 21:02:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Daily_MailUS: Woke judge released thug with 38 prior arrests just one day before he broke into woman's apartment and murdered her https…
+
+[查看原文](https://x.com/elonmusk/status/2125575833578614975)
+
+---
+
+## 2026-11-25 21:03:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2125576163720642762)
+
+---
+
+## 2026-11-25 21:06:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hmm
+
+[查看原文](https://x.com/elonmusk/status/2125576951364731018)
 
 ---
 
