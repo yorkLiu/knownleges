@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5331 条推文
+> 📊 推文存档 - 共 5337 条推文
 
 ---
 
@@ -514,7 +514,85 @@ RT @EricLDaugh: 🚨 JUST IN: After the release of the USAID files, Elon Musk ju
 
 RT @TonyChanBuilds: By 2030 every company will have more bots than employees.
 
-[查看原文](https://x.com/elonmusk/status/2125598170164150377)
+---
+
+## 2026-11-25 22:48:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: Since we’re talking about USAID again, here’s a reminder that John Bolton was their head of Policy and Budget and they gave him a…
+
+[查看原文](https://x.com/elonmusk/status/2125602511927312696)
+
+---
+
+## 2026-11-25 22:50:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @DirtyTesLa: Nothing is safe besides my 6% interest in my X money account 😎 https://t.co/zh7rjqqIMo
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIP-WsG_ArBZ2nRhCj4JDBd2P1bzLNwAALBGWsbHyI5VKCgEBwVU4kVAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2125602910558212318)
+
+---
+
+## 2026-11-25 22:58:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @saranormous: The $NVDA board was right to bring back @JensenHuang. I argue in the Economist why:
+
+[查看原文](https://x.com/elonmusk/status/2125605024999129204)
+
+---
+
+## 2026-11-25 23:07:48
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RapidResponse47: Ramon Salcido took his three young daughters to a county dump, slit their throats, and left them for dead. He murdered…
+
+[查看原文](https://x.com/elonmusk/status/2125607392058757184)
+
+---
+
+## 2026-11-25 23:10:29
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @distortgeekin: F*ck YES... Grok Bot runs my Etsy shop now, 2,318 orders in 5 weeks and I've never packed a single box
+
+Elon Musk says G…
+
+[查看原文](https://x.com/elonmusk/status/2125608067895312618)
+
+---
+
+## 2026-11-25 23:12:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ZhouTalks: 别再说马斯克挺黄仁勋只是演戏了。
+
+看看去年黄仁勋亲自飞去 SpaceX 见马斯克的这段视频，这段交情，早就在十年前焊死了。
+
+2016 年，黄仁勋发布全世界第一台 AI 超算 DGX-1。那是当时最顶尖的机器，可发布完，台下一片安静，一张订单都没…
+
+[查看原文](https://x.com/elonmusk/status/2125608471567688055)
 
 ---
 
