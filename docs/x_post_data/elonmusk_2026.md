@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5290 条推文
+> 📊 推文存档 - 共 5291 条推文
 
 ---
 
@@ -60,8 +60,6 @@ i love my very professional job https://t.co/AEOHoIde4s
 
 RT @SawyerMerritt: SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware…
 
-[查看原文](https://x.com/elonmusk/status/2125363875189252425)
-
 ---
 
 ## 2026-11-25 07:00:26
@@ -72,7 +70,17 @@ RT @SawyerMerritt: SpaceX has agreed to forgo $738 million in U.S. federal broad
 
 Starlink
 
-[查看原文](https://x.com/elonmusk/status/2125363942977597554)
+---
+
+## 2026-11-25 08:11:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The news is accurate
+
+[查看原文](https://x.com/elonmusk/status/2125381945672761599)
 
 ---
 
