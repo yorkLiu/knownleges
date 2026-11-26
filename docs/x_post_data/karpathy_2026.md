@@ -7,7 +7,23 @@ tags: ["2026"]
 
 # @karpathy
 
-> 📊 推文存档 - 共 50 条推文
+> 📊 推文存档 - 共 51 条推文
+
+---
+
+## 2026-11-26 10:31:52
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later... it works :)
+
+- 31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA, https://t.co/HiXfcCLxeO
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQBWsHm-hMJoiGBiCL-cF3s46nRx7KAAKFFmsbHyJBVKklggmX0yMvAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/karpathy/status/2125779541952246039)
 
 ---
 
