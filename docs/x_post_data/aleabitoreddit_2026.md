@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 664 条推文
+> 📊 推文存档 - 共 665 条推文
 
 ---
 
@@ -80,7 +80,25 @@ Wow, $LITE's journey is incredible:
 &gt; June: Lumentum was sold out through 2028
 &gt; October: Fully sold out through early 2029, and customers
 
-[查看原文](https://x.com/aleabitoreddit/status/2125738646477455841)
+---
+
+## 2026-11-26 08:40:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Leopold’s Situational Awareness lost 65% in Q3, but was up 88.5% through September per WSJ
+
+I think there’s far more value in evaluating his original entry points in $SNDK to $BE than ridiculing drawdown from peak.
+
+He stated that investing opportunities today “are the highest https://t.co/FF8iySk5gz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQAmsHhhuEB_WHiBoBHj2_dnLM_s_WAAJcFmsbHyJBVJGKxbq9w0bnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQA2sHhh47RSmEWfLk-sBwXzOTxyh9AAJdFmsbHyJBVKscyJ_YeSwYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125751437833756715)
 
 ---
 
