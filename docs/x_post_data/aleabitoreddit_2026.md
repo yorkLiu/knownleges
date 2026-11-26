@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 665 条推文
+> 📊 推文存档 - 共 666 条推文
 
 ---
 
@@ -94,11 +94,23 @@ I think there’s far more value in evaluating his original entry points in $SND
 
 He stated that investing opportunities today “are the highest https://t.co/FF8iySk5gz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQAmsHhhuEB_WHiBoBHj2_dnLM_s_WAAJcFmsbHyJBVJGKxbq9w0bnAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQA2sHhh47RSmEWfLk-sBwXzOTxyh9AAJdFmsbHyJBVKscyJ_YeSwYAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-26 23:34:53
 
-[查看原文](https://x.com/aleabitoreddit/status/2125751437833756715)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Mustafa Suleyman, CEO of $MSFT AI: 
+
+“For all those people who keep predicting we're overbuilding chips / we aren't seeing jevon's paradox etc. 
+
+Things are just getting started.” https://t.co/ijwdXn8HhB
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQCmsIWJ_qyThCAVXP72Mh_IVId7CoAAIVFWsb4FhJVL427r90rwqhAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2125976593076252865)
 
 ---
 

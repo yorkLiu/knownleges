@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 848 条推文
+> 📊 推文存档 - 共 849 条推文
 
 ---
 
@@ -137,8 +137,6 @@ tags: ["2026"]
 純緯度先天壓制
 我愛台灣
 
-[查看原文](https://x.com/dianzhuXS/status/2125910040972603589)
-
 ---
 
 ## 2026-11-26 19:24:23
@@ -149,9 +147,26 @@ tags: ["2026"]
 
 見者增福 https://t.co/N0LiJEDbjk
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQCWsIFzuSw2fToZ6W5FUJ0tnPz32rAAJbE2sb4FhBVP2bcGmJv2XCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2125913553190420536)
+## 2026-11-26 23:51:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+不算預測啊
+就說感覺
+我感覺
+這次競選台北市長
+沈伯洋贏💪💪💪
+本來二者差距很小
+但這次「講晚安」
+玩的太髒了
+天譴
+🤬🤬🤬
+
+[查看原文](https://x.com/dianzhuXS/status/2125980821156929632)
 
 ---
 
