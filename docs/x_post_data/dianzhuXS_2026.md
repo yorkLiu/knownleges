@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 845 条推文
+> 📊 推文存档 - 共 846 条推文
 
 ---
 
@@ -110,9 +110,17 @@ tags: ["2026"]
 
 據說昨天蛋炒飯吃錯地方了？ https://t.co/xOmr8wonPI
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQCGsIAXWlQqDn_5Al0GZDfgy5hYeIAAIME2sb4FhBVPG7BGfAgk4mAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2125888004309004477)
+## 2026-11-26 18:54:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這更加重了「講晚安」的罪孽🤔
+
+[查看原文](https://x.com/dianzhuXS/status/2125906064914911238)
 
 ---
 
