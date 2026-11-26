@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5349 条推文
+> 📊 推文存档 - 共 5350 条推文
 
 ---
 
@@ -119,8 +119,6 @@ RT @SpaceX: SpaceX is building the infrastructure of the future and working to m
 
 RT @neuralink: We’ve received FDA approval to launch LINK, the first pivotal trial for an implantable brain-computer interface in the US. T…
 
-[查看原文](https://x.com/elonmusk/status/2125796602199900258)
-
 ---
 
 ## 2026-11-26 11:39:51
@@ -130,8 +128,6 @@ RT @neuralink: We’ve received FDA approval to launch LINK, the first pivotal t
 **内容**:
 
 RT @Starlink: Less than two months after Starlink Mobile launched in Kazakhstan, 3M+ @_Beeline_kz customers are staying connected on their…
-
-[查看原文](https://x.com/elonmusk/status/2125796651977839066)
 
 ---
 
@@ -143,7 +139,17 @@ RT @Starlink: Less than two months after Starlink Mobile launched in Kazakhstan,
 
 RT @altcap: Happy Thanksgiving!  Space X + @elonmusk = 2 shares of SpaceX stock for every child under 18 who has claimed their 530A account…
 
-[查看原文](https://x.com/elonmusk/status/2125796819129286792)
+---
+
+## 2026-11-26 11:43:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Every child in America will receive two SpaceX shares, one from the company and one from me personally
+
+[查看原文](https://x.com/elonmusk/status/2125797463047258119)
 
 ---
 
