@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5350 条推文
+> 📊 推文存档 - 共 5351 条推文
 
 ---
 
@@ -149,7 +149,19 @@ RT @altcap: Happy Thanksgiving!  Space X + @elonmusk = 2 shares of SpaceX stock 
 
 Every child in America will receive two SpaceX shares, one from the company and one from me personally
 
-[查看原文](https://x.com/elonmusk/status/2125797463047258119)
+---
+
+## 2026-11-26 14:01:08
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The share from SpaceX will be transferred next month. 
+
+The share directly from me will be transferred when my lockup expires in June next year.
+
+[查看原文](https://x.com/elonmusk/status/2125832205301878841)
 
 ---
 
