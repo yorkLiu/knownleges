@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5362 条推文
+> 📊 推文存档 - 共 5366 条推文
 
 ---
 
@@ -217,8 +217,6 @@ These are obviously absurdly difficult goals, but there is a path to achieving t
 
 I recommend holding on
 
-[查看原文](https://x.com/elonmusk/status/2125867208358105441)
-
 ---
 
 ## 2026-11-26 16:20:41
@@ -228,8 +226,6 @@ I recommend holding on
 **内容**:
 
 RT @cb_doge: Elon is a lovely dad. He plays with them. He loves seeing his kids and his older kids come visit him and they're so nice. They…
-
-[查看原文](https://x.com/elonmusk/status/2125867325572120668)
 
 ---
 
@@ -241,8 +237,6 @@ RT @cb_doge: Elon is a lovely dad. He plays with them. He loves seeing his kids 
 
 Teslas have superhuman vision
 
-[查看原文](https://x.com/elonmusk/status/2125867631546712066)
-
 ---
 
 ## 2026-11-26 16:26:11
@@ -253,8 +247,6 @@ Teslas have superhuman vision
 
 RT @Baconbrix: I work on Grok Bot and I’m curious what the biggest problem is
 
-[查看原文](https://x.com/elonmusk/status/2125868709835362312)
-
 ---
 
 ## 2026-11-26 16:31:46
@@ -264,8 +256,6 @@ RT @Baconbrix: I work on Grok Bot and I’m curious what the biggest problem is
 **内容**:
 
 RT @EvaFox: Elon Musk quickly impressed Franz von Holzhausen, persuading him to join Tesla and leave behind a successful career at Mazda. F…
-
-[查看原文](https://x.com/elonmusk/status/2125870112058294379)
 
 ---
 
@@ -278,8 +268,6 @@ RT @EvaFox: Elon Musk quickly impressed Franz von Holzhausen, persuading him to 
 RT @RapidResponse47: .@SpaceX, @elonmusk pledge to donate a share each to active Trump Accounts
 https://t.co/KmpDcTOXmP
 
-[查看原文](https://x.com/elonmusk/status/2125870221789368757)
-
 ---
 
 ## 2026-11-26 16:35:38
@@ -290,9 +278,59 @@ https://t.co/KmpDcTOXmP
 
 RT @alx: Never forget that this is the real reason they’re mad at Trump, Elon Musk and DOGE for shutting down USAID. https://t.co/39UzFgnO80
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQB2sH8uke1c-pDQzPPCNVDRdSBXzCAAKDF2sbHyJBVCdfXb7JVvjjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2125871084692005227)
+## 2026-11-26 16:58:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WayneVaughan: Here’s the Trump account sign-up page. 
+
+https://t.co/Ec6bnWU08a
+
+[查看原文](https://x.com/elonmusk/status/2125876818515497340)
+
+---
+
+## 2026-11-26 16:59:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Boring Co has built a lot of tunnels under Vegas
+
+[查看原文](https://x.com/elonmusk/status/2125877031816630636)
+
+---
+
+## 2026-11-26 17:00:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ericzakariasson: grok @bot 1.3.0 is rolling out!
+
+smarter slack bots, restock alerts and mobile buy now, automatic teams setup with org…
+
+[查看原文](https://x.com/elonmusk/status/2125877299849425282)
+
+---
+
+## 2026-11-26 17:01:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @iam_smx: Fraudsters always complain the loudest when they’re exposed. Just look at what happened with USAID
+
+“One lesson I remember fro…
+
+[查看原文](https://x.com/elonmusk/status/2125877472361140302)
 
 ---
 
