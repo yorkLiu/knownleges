@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 846 条推文
+> 📊 推文存档 - 共 848 条推文
 
 ---
 
@@ -120,7 +120,38 @@ tags: ["2026"]
 
 這更加重了「講晚安」的罪孽🤔
 
-[查看原文](https://x.com/dianzhuXS/status/2125906064914911238)
+---
+
+## 2026-11-26 19:10:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+台灣有一點
+是日韓比不了的
+冬天不乾不燥
+不用油養稍微補點水
+皮膚就很滋潤
+這跟下不下雨沒關係
+純緯度先天壓制
+我愛台灣
+
+[查看原文](https://x.com/dianzhuXS/status/2125910040972603589)
+
+---
+
+## 2026-11-26 19:24:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+見者增福 https://t.co/N0LiJEDbjk
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQCWsIFzuSw2fToZ6W5FUJ0tnPz32rAAJbE2sb4FhBVP2bcGmJv2XCAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2125913553190420536)
 
 ---
 
