@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5355 条推文
+> 📊 推文存档 - 共 5362 条推文
 
 ---
 
@@ -193,8 +193,6 @@ RT @lsanger: I made The USAID Files into a searchable database. You're welcome.
 
 Community Notes just saved a lot of guys from thinking their wiener is too small
 
-[查看原文](https://x.com/elonmusk/status/2125864501019070680)
-
 ---
 
 ## 2026-11-26 16:10:10
@@ -205,7 +203,96 @@ Community Notes just saved a lot of guys from thinking their wiener is too small
 
 RT @JasonBud: If you haven't tried Grok @Bot yet, ask it to find a Black Friday deal on something you were going to buy anyway. See how it…
 
-[查看原文](https://x.com/elonmusk/status/2125864677649657884)
+---
+
+## 2026-11-26 16:20:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+If SpaceX succeeds in making life multiplanetary and harnessing even a millionth of the Sun’s energy, it will be worth about a million times the current global economy.
+
+These are obviously absurdly difficult goals, but there is a path to achieving them.
+
+I recommend holding on
+
+[查看原文](https://x.com/elonmusk/status/2125867208358105441)
+
+---
+
+## 2026-11-26 16:20:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @cb_doge: Elon is a lovely dad. He plays with them. He loves seeing his kids and his older kids come visit him and they're so nice. They…
+
+[查看原文](https://x.com/elonmusk/status/2125867325572120668)
+
+---
+
+## 2026-11-26 16:21:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Teslas have superhuman vision
+
+[查看原文](https://x.com/elonmusk/status/2125867631546712066)
+
+---
+
+## 2026-11-26 16:26:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Baconbrix: I work on Grok Bot and I’m curious what the biggest problem is
+
+[查看原文](https://x.com/elonmusk/status/2125868709835362312)
+
+---
+
+## 2026-11-26 16:31:46
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EvaFox: Elon Musk quickly impressed Franz von Holzhausen, persuading him to join Tesla and leave behind a successful career at Mazda. F…
+
+[查看原文](https://x.com/elonmusk/status/2125870112058294379)
+
+---
+
+## 2026-11-26 16:32:12
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @RapidResponse47: .@SpaceX, @elonmusk pledge to donate a share each to active Trump Accounts
+https://t.co/KmpDcTOXmP
+
+[查看原文](https://x.com/elonmusk/status/2125870221789368757)
+
+---
+
+## 2026-11-26 16:35:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @alx: Never forget that this is the real reason they’re mad at Trump, Elon Musk and DOGE for shutting down USAID. https://t.co/39UzFgnO80
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQB2sH8uke1c-pDQzPPCNVDRdSBXzCAAKDF2sbHyJBVCdfXb7JVvjjAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2125871084692005227)
 
 ---
 
