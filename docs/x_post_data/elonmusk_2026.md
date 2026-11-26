@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5369 条推文
+> 📊 推文存档 - 共 5370 条推文
 
 ---
 
@@ -18,8 +18,6 @@ tags: ["2026"]
 **内容**:
 
 RT @SpaceX: Teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9’s launch of @northropgrumman's commercial resup…
-
-[查看原文](https://x.com/elonmusk/status/2126032496315777161)
 
 ---
 
@@ -33,8 +31,6 @@ RT @Geiger_Capital: Half of the English settlers who arrived on the Mayflower we
 
 The first harvest in 1621…
 
-[查看原文](https://x.com/elonmusk/status/2126032581397516487)
-
 ---
 
 ## 2026-11-27 03:27:35
@@ -45,7 +41,17 @@ The first harvest in 1621…
 
 RT @firesidealpha: JUST IN: ~70% of signers on the petition against SpaceX's data center in Arizona's Cochise County don't even live there,…
 
-[查看原文](https://x.com/elonmusk/status/2126035157308055882)
+---
+
+## 2026-11-27 04:07:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+❤️❤️ Happy Thanksgiving! ❤️❤️
+
+[查看原文](https://x.com/elonmusk/status/2126045116624216127)
 
 ---
 
