@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5351 条推文
+> 📊 推文存档 - 共 5353 条推文
 
 ---
 
@@ -161,7 +161,33 @@ The share from SpaceX will be transferred next month.
 
 The share directly from me will be transferred when my lockup expires in June next year.
 
-[查看原文](https://x.com/elonmusk/status/2125832205301878841)
+---
+
+## 2026-11-26 15:44:42
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Hard to believe this finally happened https://t.co/427CZqEEZY
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQBmsH5F6p80XVNGnR-hSQt12Cutp4AAJjF2sbHyJBVESBL-co_DXOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2125858270296285463)
+
+---
+
+## 2026-11-26 15:44:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @lsanger: I made The USAID Files into a searchable database. You're welcome.
+
+1. CENSORSHIP: A 2022 USAID guidance paper says USAID prog…
+
+[查看原文](https://x.com/elonmusk/status/2125858334947303749)
 
 ---
 
