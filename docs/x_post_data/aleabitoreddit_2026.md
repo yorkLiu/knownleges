@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 663 条推文
+> 📊 推文存档 - 共 664 条推文
 
 ---
 
@@ -64,11 +64,23 @@ Initial pricing discussions are at 7%-7.5% with demand already matching offering
 
 It looks like appetite for hyperscaler-linked financing remains strong, despite the "AI credit stress" https://t.co/sw6PLhgnEc
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQAAFrB2HI-zYGxcT2P9KLID1HM-xDdwACHRprGx8iOVR-vmJZ7RfA6gEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQAWsHYctHipBFA_9b_c3_cQTN62oXAAIeGmsbHyI5VPEg45o_5OVgAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-26 07:49:22
 
-[查看原文](https://x.com/aleabitoreddit/status/2125715518154019298)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Wow, $LITE's journey is incredible: 
+
+&gt; Feb:  EML sold out through 2027  
+&gt; March: $NVDA $2B+ agreement + capacity lockup
+&gt; April: Expected 2028 capacity to be sold out soon
+&gt; June: Lumentum was sold out through 2028
+&gt; October: Fully sold out through early 2029, and customers
+
+[查看原文](https://x.com/aleabitoreddit/status/2125738646477455841)
 
 ---
 
