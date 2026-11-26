@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5370 条推文
+> 📊 推文存档 - 共 5372 条推文
 
 ---
 
@@ -51,7 +51,29 @@ RT @firesidealpha: JUST IN: ~70% of signers on the petition against SpaceX's dat
 
 ❤️❤️ Happy Thanksgiving! ❤️❤️
 
-[查看原文](https://x.com/elonmusk/status/2126045116624216127)
+---
+
+## 2026-11-27 05:21:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SamSokolin: The team has been cooking over the last few weeks! You should now see an additional 11% more usage out of your plan, and up…
+
+[查看原文](https://x.com/elonmusk/status/2126063925938762222)
+
+---
+
+## 2026-11-27 05:23:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers.
+
+[查看原文](https://x.com/elonmusk/status/2126064330022265197)
 
 ---
 
