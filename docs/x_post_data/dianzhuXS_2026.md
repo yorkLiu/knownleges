@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 844 条推文
+> 📊 推文存档 - 共 845 条推文
 
 ---
 
@@ -85,8 +85,6 @@ tags: ["2026"]
 
 這種可以有，以目前習近平的精神病狀態，傳誰繼位誰必死，支持所有網友「信謠傳謠」，蔡奇就是下一個陳吉寧，這不太美了嗎，噢耶👏
 
-[查看原文](https://x.com/dianzhuXS/status/2125844202168938932)
-
 ---
 
 ## 2026-11-26 15:14:58
@@ -102,7 +100,19 @@ tags: ["2026"]
 爭取讓蔡搭上「傷官見官殺盡百官」的末班車
 🤗🤗🤗
 
-[查看原文](https://x.com/dianzhuXS/status/2125850784839639220)
+---
+
+## 2026-11-26 17:42:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+據說昨天蛋炒飯吃錯地方了？ https://t.co/xOmr8wonPI
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQCGsIAXWlQqDn_5Al0GZDfgy5hYeIAAIME2sb4FhBVPG7BGfAgk4mAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2125888004309004477)
 
 ---
 
