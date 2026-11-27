@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5374 条推文
+> 📊 推文存档 - 共 5377 条推文
 
 ---
 
@@ -91,7 +91,47 @@ Vital that children have a stake in the future
 
 RT @jack: @cybertruck greatest robot out there
 
-[查看原文](https://x.com/elonmusk/status/2126164955875692589)
+---
+
+## 2026-11-27 13:13:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @djseo: Working hard to make Blindsight happen.
+
+Happy Thanksgiving from the Neuralink team! https://t.co/C2somYLc6v
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQEmsJFbmNjZBwba1OdmtIvVkMqvgQAAKgFmsb4FhJVJO7abV9_2aZAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2126182572753572130)
+
+---
+
+## 2026-11-27 13:24:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @firesidealpha: Tom Mueller, SpaceX employee #1, says Elon Musk reversed his approach to engineering by demanding they find where rocket…
+
+[查看原文](https://x.com/elonmusk/status/2126185251802157302)
+
+---
+
+## 2026-11-27 13:26:55
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @JohnCleese: Please retweet this
+
+It shows which side the police are on
+
+[查看原文](https://x.com/elonmusk/status/2126185982605107366)
 
 ---
 

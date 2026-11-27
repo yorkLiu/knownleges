@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 514 条推文
+> 📊 推文存档 - 共 515 条推文
 
 ---
 
@@ -20,9 +20,20 @@ tags: ["2026"]
 最近顺麻了，这一周就亏了一单。
 今天睡前五点钟开了一发睡醒挂单居然被吃没了。 https://t.co/cohkKO1JB0
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQC2sI_85-piPJKqvnzzrWjDauFH1qAAJnFmsb4FhJVJPqJebqchv1AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2126161335692177753)
+## 2026-11-27 13:30:30
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+前几天看过一个国会问询tiktok的视频，麻瓜问询，啥事没有。英伟达更不可能有啥事情，这下看来真是牛回了。
+大a暴涨，美股也暴涨。 https://t.co/0GWvqBrRIz
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQEWsJFbVH5-dHFKtY1pj1socRdZ-eAAKfFmsb4FhJVIM64ea0pmP-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2126186882476421269)
 
 ---
 
