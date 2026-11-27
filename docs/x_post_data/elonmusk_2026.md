@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5401 条推文
+> 📊 推文存档 - 共 5407 条推文
 
 ---
 
@@ -199,8 +199,6 @@ When using Grok Bots, it is important to create Bots with specialized roles, jus
 
 Just like a human employee, if you overload a single bot with a massive array of work, it will start
 
-[查看原文](https://x.com/elonmusk/status/2126413886576590925)
-
 ---
 
 ## 2026-11-28 04:37:38
@@ -210,8 +208,6 @@ Just like a human employee, if you overload a single bot with a massive array of
 **内容**:
 
 RT @martianwyrdlord: By 2042 SpaceX will be operating the Starlink network, a million-satellite Starmind constellation comprising about 1/3…
-
-[查看原文](https://x.com/elonmusk/status/2126415173141610668)
 
 ---
 
@@ -223,8 +219,6 @@ RT @martianwyrdlord: By 2042 SpaceX will be operating the Starlink network, a mi
 
 Yeah
 
-[查看原文](https://x.com/elonmusk/status/2126415725548228614)
-
 ---
 
 ## 2026-11-28 04:40:36
@@ -235,7 +229,79 @@ Yeah
 
 RT @adeoressi: I am very impressed with the Grok Bot intelligence for any task. I am advising the team, and they have really exciting featu…
 
-[查看原文](https://x.com/elonmusk/status/2126415918553002154)
+---
+
+## 2026-11-28 05:13:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Upgrades
+
+[查看原文](https://x.com/elonmusk/status/2126424190475501877)
+
+---
+
+## 2026-11-28 05:14:33
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Tesla super vision
+
+[查看原文](https://x.com/elonmusk/status/2126424460639313922)
+
+---
+
+## 2026-11-28 05:19:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aswincode: Another day of using @bot to its peak potential. Had my Chief look for Duos in stock and alert me when one was available nea…
+
+[查看原文](https://x.com/elonmusk/status/2126425664177987885)
+
+---
+
+## 2026-11-28 05:24:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Major improvements land every week for Grok Bot
+
+[查看原文](https://x.com/elonmusk/status/2126426934431404067)
+
+---
+
+## 2026-11-28 05:28:15
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @choopyplug1: SpaceXAI engineers just dropped an 8-page PDF on making your Grok Bot limit last 3x longer
+
+8 tricks nobody uses, same bot…
+
+[查看原文](https://x.com/elonmusk/status/2126427910370185363)
+
+---
+
+## 2026-11-28 05:29:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+The goal with Grok Bots is to enable you to build a whole company!
+
+[查看原文](https://x.com/elonmusk/status/2126428324012446090)
 
 ---
 
