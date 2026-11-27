@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 517 条推文
+> 📊 推文存档 - 共 518 条推文
 
 ---
 
@@ -54,9 +54,20 @@ a股今天早盘全买了回来，昨天看到一个视频，拿了几年半导�
 希望周一再拉一天，
 这踏马的炒股炒到最后目的成了回本。 https://t.co/Mrldbuoab4
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQFWsJJEBaV4HV3T_S0KV21k2J0RwYAAJqF2sb4FhRVDdhD0opVUxQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2126199875817881840)
+## 2026-11-27 15:28:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+deepseek可能要对app普通用户端收费了
+对其他模型是利好 https://t.co/HfbwpCWgkL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQGGsJMsbEj29lTXxZ9JnZbvhzT7MNAAKLF2sb4FhRVLOuZ_KIXHyaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2126216498972950552)
 
 ---
 
