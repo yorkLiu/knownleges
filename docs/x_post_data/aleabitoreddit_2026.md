@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 668 条推文
+> 📊 推文存档 - 共 669 条推文
 
 ---
 
@@ -37,9 +37,21 @@ Industry channel check with Yuanjie Semiconductor:
 
 - On $AXTI and InP substrates: "Indium phosphide substrate prices https://t.co/qYwU0p15jE
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQFGsJHP5_ckTEjnKiFn-Dys1EnlUYAAJWF2sb4FhRVCzZp9SPFrX4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/aleabitoreddit/status/2126189347481538755)
+## 2026-11-27 14:28:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Who turned on the lights today? https://t.co/kF8k3OYuct
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQFmsJJESE3bng6eq9CyCC3GjVSwiEAAJrF2sb4FhRVAIqC_wAAVF7LwEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQF2sJJEf3Cy3S0Lev3EGyYINLxikmAAJsF2sb4FhRVASRKO0JqJO0AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2126201430864507333)
 
 ---
 

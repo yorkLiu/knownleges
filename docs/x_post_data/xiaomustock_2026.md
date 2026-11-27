@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 516 条推文
+> 📊 推文存档 - 共 517 条推文
 
 ---
 
@@ -42,9 +42,21 @@ tags: ["2026"]
 a股今天早盘全买了回来，昨天看到一个视频，拿了几年半导体的爱理财小羊都割肉了，说嘎了以家庭为主😂
 这特么几年的钱都亏钱，他这是赚过钱，比一直亏钱的人信号更好。 https://t.co/L6kElkLaZv
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQE2sJHPqw0oC0vMwQTKRHBFkL9w63AAJVF2sb4FhRVH_tsFH3OBvLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2126187802954231897)
+## 2026-11-27 14:22:07
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+东方财富的a股账户还差6%回本，
+希望周一再拉一天，
+这踏马的炒股炒到最后目的成了回本。 https://t.co/Mrldbuoab4
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQFWsJJEBaV4HV3T_S0KV21k2J0RwYAAJqF2sb4FhRVDdhD0opVUxQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2126199875817881840)
 
 ---
 
