@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5396 条推文
+> 📊 推文存档 - 共 5397 条推文
 
 ---
 
@@ -165,10 +165,6 @@ Neon is looking particularly promising, but Opus is also excellent in most cases
 
 Beautiful engineering  https://t.co/Y3Pfh3tMjb
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQKGsJ4SbhwP_EDEKQscT_C-VGTgggAALZGmsb4FhRVCbotE0mwPOqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2126398247552037042)
-
 ---
 
 ## 2026-11-28 03:56:04
@@ -179,7 +175,19 @@ Beautiful engineering  https://t.co/Y3Pfh3tMjb
 
 This will be fully automated and sped up to be &lt;5 mins
 
-[查看原文](https://x.com/elonmusk/status/2126404709628129388)
+---
+
+## 2026-11-28 04:29:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @nvandewetering We can’t scale a negative gross margin business. That’s just impossible. 
+
+Muse is a personal assistant, but…
+
+[查看原文](https://x.com/elonmusk/status/2126413182746968279)
 
 ---
 

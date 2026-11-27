@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 671 条推文
+> 📊 推文存档 - 共 672 条推文
 
 ---
 
@@ -36,11 +36,27 @@ Nature reported rumors that AI frontier labs from $ANT or OpenAI discovered algo
 
 - "In practical terms, an algorithm that could break public-key cryptography in polynomial time https://t.co/6Jmgyqfs1M
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQJmsJy15-vJuw3m4XdBRLjaeDqT5bAALPGmsb4FhRVKuYAAGIRtgBGgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQJ2sJy2Jpz775wQpQVohGbOxDGAUOAALQGmsb4FhRVMoh5N9-LjsWAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-28 04:04:29
 
-[查看原文](https://x.com/aleabitoreddit/status/2126378481714168280)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Nature Magazine: "AI agents have already begun to wreak havoc by hacking into servers around the world"
+
+From timelines in the past 2 months: 
+
+- $MSFT in October: "large-scale nation-state campaign using ARTEX enables supply chain compromise" for downstream customers
+
+- $CRWD in https://t.co/x6aeDgX8rh
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQKWsJ6HE9QJ0Z_ncRLoqe7bkzjAmOAALjGmsb4FhRVC-1gJ5sKbuRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQKmsJ6HXp7XA0eOD4YjslKmNCNBaiAALkGmsb4FhRVFX4k2VA6mYwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2126406828980686901)
 
 ---
 
