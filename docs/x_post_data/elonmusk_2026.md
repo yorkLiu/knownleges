@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5394 条推文
+> 📊 推文存档 - 共 5396 条推文
 
 ---
 
@@ -113,8 +113,6 @@ Accurate
 
 RT @aaronburnett: a recent run of our model forecasting Starship launches and its estimated cargo split over the next several years.  Hard…
 
-[查看原文](https://x.com/elonmusk/status/2126390259995095203)
-
 ---
 
 ## 2026-11-28 03:00:24
@@ -124,8 +122,6 @@ RT @aaronburnett: a recent run of our model forecasting Starship launches and it
 **内容**:
 
 Grok Build upgrades
-
-[查看原文](https://x.com/elonmusk/status/2126390700660920546)
 
 ---
 
@@ -137,8 +133,6 @@ Grok Build upgrades
 
 RT @libsoftiktok: 15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change t…
 
-[查看原文](https://x.com/elonmusk/status/2126394040971301037)
-
 ---
 
 ## 2026-11-28 03:22:58
@@ -148,8 +142,6 @@ RT @libsoftiktok: 15-year-olds in California are now forced to use a booster sea
 **内容**:
 
 RT @LuckyMcGee: While white liberals in Boston officially recognize Thanksgiving as a “Day of Mourning,” I‘d like to take a moment to remem…
-
-[查看原文](https://x.com/elonmusk/status/2126396380079854034)
 
 ---
 
@@ -163,7 +155,31 @@ Every model has its strengths and weaknesses. Grok @Bot aims to use whichever on
 
 Neon is looking particularly promising, but Opus is also excellent in most cases.
 
-[查看原文](https://x.com/elonmusk/status/2126397498071670827)
+---
+
+## 2026-11-28 03:30:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Beautiful engineering  https://t.co/Y3Pfh3tMjb
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQKGsJ4SbhwP_EDEKQscT_C-VGTgggAALZGmsb4FhRVCbotE0mwPOqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2126398247552037042)
+
+---
+
+## 2026-11-28 03:56:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This will be fully automated and sped up to be &lt;5 mins
+
+[查看原文](https://x.com/elonmusk/status/2126404709628129388)
 
 ---
 
