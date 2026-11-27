@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 670 条推文
+> 📊 推文存档 - 共 671 条推文
 
 ---
 
@@ -22,11 +22,25 @@ Memory name buybacks + pricing projections:
 - $SKHY doubled its daily buybacks from ~$290M -&gt; $581M, after Korea relaxed its buyback rules, explicitly citing "undervaluation"
 - $MU Dec 9, 2026 marks the end of the first 2 under initial CHIPS act agreements (where there was https://t.co/Crtvb9gpVe
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQI2sJvNPdeqBdUnWvDtwBf7HMgSWFAAJuGmsb4FhRVKny8JDTPCXrAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQJGsJvNYOfjwXFFz6wrAMoNZl3EDEAAJvGmsb4FhRVL9l1G67WnCVAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-28 02:11:50
 
-[查看原文](https://x.com/aleabitoreddit/status/2126362821621690751)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+uhh... are we cooked chat? 
+
+Nature reported rumors that AI frontier labs from $ANT or OpenAI discovered algorithms capable of breaking public-key cryptography in "polynomial time"
+
+- "In practical terms, an algorithm that could break public-key cryptography in polynomial time https://t.co/6Jmgyqfs1M
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQJmsJy15-vJuw3m4XdBRLjaeDqT5bAALPGmsb4FhRVKuYAAGIRtgBGgEAAwIAA3kAAz0E.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQJ2sJy2Jpz775wQpQVohGbOxDGAUOAALQGmsb4FhRVMoh5N9-LjsWAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2126378481714168280)
 
 ---
 

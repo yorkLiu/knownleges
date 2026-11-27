@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5381 条推文
+> 📊 推文存档 - 共 5385 条推文
 
 ---
 
@@ -19,7 +19,59 @@ tags: ["2026"]
 
 Grok @Bot keeps getting better
 
-[查看原文](https://x.com/elonmusk/status/2126365899410341931)
+---
+
+## 2026-11-28 02:04:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @elonmusk: @johnarnold @paulg My observation is that giving money to “non-profits” rarely benefits the people and often results in hurti…
+
+[查看原文](https://x.com/elonmusk/status/2126376590238171559)
+
+---
+
+## 2026-11-28 02:10:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @MichaelDell: Our gift is about so much more than money. 
+
+It’s about teaching an entire generation of young Americans the power of inve…
+
+[查看原文](https://x.com/elonmusk/status/2126378019312812099)
+
+---
+
+## 2026-11-28 02:10:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @brivael: "If printing money would end poverty, printing diplomas would end stupidity." Javier Milei.
+
+This is France's problem in one s…
+
+[查看原文](https://x.com/elonmusk/status/2126378132982911208)
+
+---
+
+## 2026-11-28 02:10:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @teslaownersSV: Tim Urban on @elonmusk: "He's truly trying to do these big things for the right reasons." https://t.co/RKUlCNQXVJ
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQJWsJy1rWbv3jcrat6lAUAVrISdU1AALOGmsb4FhRVEXBYZKYegfOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2126378174103929005)
 
 ---
 
