@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5385 条推文
+> 📊 推文存档 - 共 5389 条推文
 
 ---
 
@@ -29,8 +29,6 @@ Grok @Bot keeps getting better
 
 RT @elonmusk: @johnarnold @paulg My observation is that giving money to “non-profits” rarely benefits the people and often results in hurti…
 
-[查看原文](https://x.com/elonmusk/status/2126376590238171559)
-
 ---
 
 ## 2026-11-28 02:10:00
@@ -42,8 +40,6 @@ RT @elonmusk: @johnarnold @paulg My observation is that giving money to “non-p
 RT @MichaelDell: Our gift is about so much more than money. 
 
 It’s about teaching an entire generation of young Americans the power of inve…
-
-[查看原文](https://x.com/elonmusk/status/2126378019312812099)
 
 ---
 
@@ -57,8 +53,6 @@ RT @brivael: "If printing money would end poverty, printing diplomas would end s
 
 This is France's problem in one s…
 
-[查看原文](https://x.com/elonmusk/status/2126378132982911208)
-
 ---
 
 ## 2026-11-28 02:10:37
@@ -69,9 +63,53 @@ This is France's problem in one s…
 
 RT @teslaownersSV: Tim Urban on @elonmusk: "He's truly trying to do these big things for the right reasons." https://t.co/RKUlCNQXVJ
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQJWsJy1rWbv3jcrat6lAUAVrISdU1AALOGmsb4FhRVEXBYZKYegfOAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2126378174103929005)
+## 2026-11-28 02:48:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @altcap: Must Listen to the end! @GavinNewsom rises above politics &amp; nails it.  “I emphatically encourage people to claim their Trump Ac…
+
+[查看原文](https://x.com/elonmusk/status/2126387684952404350)
+
+---
+
+## 2026-11-28 02:51:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @paulg: 15 year olds in California may to have to ride in a booster seat starting in January? We're now well into the territory of self-…
+
+[查看原文](https://x.com/elonmusk/status/2126388416514601251)
+
+---
+
+## 2026-11-28 02:52:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Bot is great at finding you the best deals on the Internet
+
+[查看原文](https://x.com/elonmusk/status/2126388636325499201)
+
+---
+
+## 2026-11-28 02:52:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Accurate
+
+[查看原文](https://x.com/elonmusk/status/2126388828852105325)
 
 ---
 
