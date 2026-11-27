@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5410 条推文
+> 📊 推文存档 - 共 5417 条推文
 
 ---
 
@@ -301,8 +301,6 @@ The goal with Grok Bots is to enable you to build a whole company!
 
 Worth trying
 
-[查看原文](https://x.com/elonmusk/status/2126429365504229400)
-
 ---
 
 ## 2026-11-28 05:36:05
@@ -314,8 +312,6 @@ Worth trying
 RT @XBusiness: Transparency builds trust. 
 
 X Head of Safety @michaelo on open, verifiable safety decisions for brands from his recent Bran…
-
-[查看原文](https://x.com/elonmusk/status/2126429880799686978)
 
 ---
 
@@ -329,7 +325,92 @@ RT @XFreeze: Elon Musk on how to get the most out of Grok Bots: organize them li
 
 Create multiple Grok Bots with specializ…
 
-[查看原文](https://x.com/elonmusk/status/2126434039514927612)
+---
+
+## 2026-11-28 06:06:21
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @clavicular: Thank God Grokbot can reply to hundreds of happy thanksgiving texts.
+
+[查看原文](https://x.com/elonmusk/status/2126437499815723485)
+
+---
+
+## 2026-11-28 06:07:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @larsencc: My dad works at a steel fabrication company in Slovenia. 
+
+Every order starts as a PDF of technical drawings, and someone has…
+
+[查看原文](https://x.com/elonmusk/status/2126437886501245057)
+
+---
+
+## 2026-11-28 06:08:23
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Give Grok Bot your hardest problems
+
+[查看原文](https://x.com/elonmusk/status/2126438008748384711)
+
+---
+
+## 2026-11-28 06:08:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+This is the way
+
+[查看原文](https://x.com/elonmusk/status/2126438150314631286)
+
+---
+
+## 2026-11-28 06:10:11
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Give each Bot a specific job, just like people in a company
+
+[查看原文](https://x.com/elonmusk/status/2126438463520350588)
+
+---
+
+## 2026-11-28 06:15:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Rustavi: 🚨 FSD v15 Reality View in heavy rain.
+Windshield completely blurred, yet the visualization stays sharp. Cars, lanes, road mark…
+
+[查看原文](https://x.com/elonmusk/status/2126439678043976134)
+
+---
+
+## 2026-11-28 06:28:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @SawyerMerritt: I've had Grok @Bot find the best Black Friday deals for me all day, and it's actually working really well. Already saved…
+
+[查看原文](https://x.com/elonmusk/status/2126443050394435854)
 
 ---
 
