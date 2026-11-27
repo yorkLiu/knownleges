@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5397 条推文
+> 📊 推文存档 - 共 5401 条推文
 
 ---
 
@@ -187,7 +187,55 @@ RT @elonmusk: @nvandewetering We can’t scale a negative gross margin business.
 
 Muse is a personal assistant, but…
 
-[查看原文](https://x.com/elonmusk/status/2126413182746968279)
+---
+
+## 2026-11-28 04:32:32
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work.
+
+Just like a human employee, if you overload a single bot with a massive array of work, it will start
+
+[查看原文](https://x.com/elonmusk/status/2126413886576590925)
+
+---
+
+## 2026-11-28 04:37:38
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @martianwyrdlord: By 2042 SpaceX will be operating the Starlink network, a million-satellite Starmind constellation comprising about 1/3…
+
+[查看原文](https://x.com/elonmusk/status/2126415173141610668)
+
+---
+
+## 2026-11-28 04:39:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yeah
+
+[查看原文](https://x.com/elonmusk/status/2126415725548228614)
+
+---
+
+## 2026-11-28 04:40:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @adeoressi: I am very impressed with the Grok Bot intelligence for any task. I am advising the team, and they have really exciting featu…
+
+[查看原文](https://x.com/elonmusk/status/2126415918553002154)
 
 ---
 
