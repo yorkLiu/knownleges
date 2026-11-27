@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5379 条推文
+> 📊 推文存档 - 共 5380 条推文
 
 ---
 
@@ -135,8 +135,6 @@ It shows which side the police are on
 
 RT @CorpseKings: Lying about Gary Gygax won't ever change the fact he co-created Dungeons &amp; Dragons. Intentionally trying to harm his legac…
 
-[查看原文](https://x.com/elonmusk/status/2126206171056857386)
-
 ---
 
 ## 2026-11-27 14:48:01
@@ -147,7 +145,17 @@ RT @CorpseKings: Lying about Gary Gygax won't ever change the fact he co-created
 
 RT @jamesenglish0: Dawn Ward was charged with racially aggravated assault after a man at Euston station accused her of a racist slur. Dawn…
 
-[查看原文](https://x.com/elonmusk/status/2126206393082319114)
+---
+
+## 2026-11-27 15:52:41
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+True
+
+[查看原文](https://x.com/elonmusk/status/2126222666994737622)
 
 ---
 
