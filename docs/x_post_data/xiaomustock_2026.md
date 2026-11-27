@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 515 条推文
+> 📊 推文存档 - 共 516 条推文
 
 ---
 
@@ -31,9 +31,20 @@ tags: ["2026"]
 前几天看过一个国会问询tiktok的视频，麻瓜问询，啥事没有。英伟达更不可能有啥事情，这下看来真是牛回了。
 大a暴涨，美股也暴涨。 https://t.co/0GWvqBrRIz
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQEWsJFbVH5-dHFKtY1pj1socRdZ-eAAKfFmsb4FhJVIM64ea0pmP-AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2126186882476421269)
+## 2026-11-27 13:34:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+a股今天早盘全买了回来，昨天看到一个视频，拿了几年半导体的爱理财小羊都割肉了，说嘎了以家庭为主😂
+这特么几年的钱都亏钱，他这是赚过钱，比一直亏钱的人信号更好。 https://t.co/L6kElkLaZv
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQE2sJHPqw0oC0vMwQTKRHBFkL9w63AAJVF2sb4FhRVH_tsFH3OBvLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2126187802954231897)
 
 ---
 

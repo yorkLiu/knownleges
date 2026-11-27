@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 667 条推文
+> 📊 推文存档 - 共 668 条推文
 
 ---
 
@@ -23,13 +23,23 @@ Three negative catalysts from:
 
 $NVDA CEO change, US congressional measures, and restrictions Nvidia chips access internationally, triggered a https://t.co/WmFkbLoYXR
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQDWsJBzBF0ib8Y5otLN-Q2_pJPlLGAAKGFmsb4FhJVGJ2MfT35F08AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQDmsJBzMzOAehsSrLC-eC4sy4oOrqAAKHFmsb4FhJVNQRjm9zZdN_AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-27 13:40:17
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQD2sJBzZBF3tYIRwSflNzkYRuddoZAAKIFmsb4FhJVHLyolPTI3ugAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
 
-[查看原文](https://x.com/aleabitoreddit/status/2126164719522426935)
+**内容**:
+
+Industry channel check with Yuanjie Semiconductor: 
+
+- The company is currently not supplying Eoptolink because its own CW laser capacity is insufficient to meet its demand. (positive for merchant laser players)
+
+- On $AXTI and InP substrates: "Indium phosphide substrate prices https://t.co/qYwU0p15jE
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQFGsJHP5_ckTEjnKiFn-Dys1EnlUYAAJWF2sb4FhRVCzZp9SPFrX4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2126189347481538755)
 
 ---
 
