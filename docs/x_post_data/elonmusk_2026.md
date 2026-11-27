@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5407 条推文
+> 📊 推文存档 - 共 5410 条推文
 
 ---
 
@@ -239,8 +239,6 @@ RT @adeoressi: I am very impressed with the Grok Bot intelligence for any task. 
 
 Upgrades
 
-[查看原文](https://x.com/elonmusk/status/2126424190475501877)
-
 ---
 
 ## 2026-11-28 05:14:33
@@ -250,8 +248,6 @@ Upgrades
 **内容**:
 
 Tesla super vision
-
-[查看原文](https://x.com/elonmusk/status/2126424460639313922)
 
 ---
 
@@ -263,8 +259,6 @@ Tesla super vision
 
 RT @aswincode: Another day of using @bot to its peak potential. Had my Chief look for Duos in stock and alert me when one was available nea…
 
-[查看原文](https://x.com/elonmusk/status/2126425664177987885)
-
 ---
 
 ## 2026-11-28 05:24:22
@@ -274,8 +268,6 @@ RT @aswincode: Another day of using @bot to its peak potential. Had my Chief loo
 **内容**:
 
 Major improvements land every week for Grok Bot
-
-[查看原文](https://x.com/elonmusk/status/2126426934431404067)
 
 ---
 
@@ -289,8 +281,6 @@ RT @choopyplug1: SpaceXAI engineers just dropped an 8-page PDF on making your Gr
 
 8 tricks nobody uses, same bot…
 
-[查看原文](https://x.com/elonmusk/status/2126427910370185363)
-
 ---
 
 ## 2026-11-28 05:29:54
@@ -301,7 +291,45 @@ RT @choopyplug1: SpaceXAI engineers just dropped an 8-page PDF on making your Gr
 
 The goal with Grok Bots is to enable you to build a whole company!
 
-[查看原文](https://x.com/elonmusk/status/2126428324012446090)
+---
+
+## 2026-11-28 05:34:02
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Worth trying
+
+[查看原文](https://x.com/elonmusk/status/2126429365504229400)
+
+---
+
+## 2026-11-28 05:36:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XBusiness: Transparency builds trust. 
+
+X Head of Safety @michaelo on open, verifiable safety decisions for brands from his recent Bran…
+
+[查看原文](https://x.com/elonmusk/status/2126429880799686978)
+
+---
+
+## 2026-11-28 05:52:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @XFreeze: Elon Musk on how to get the most out of Grok Bots: organize them like a real company
+
+Create multiple Grok Bots with specializ…
+
+[查看原文](https://x.com/elonmusk/status/2126434039514927612)
 
 ---
 

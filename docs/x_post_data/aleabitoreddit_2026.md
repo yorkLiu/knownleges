@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 672 条推文
+> 📊 推文存档 - 共 674 条推文
 
 ---
 
@@ -52,11 +52,35 @@ From timelines in the past 2 months:
 
 - $CRWD in https://t.co/x6aeDgX8rh
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQKWsJ6HE9QJ0Z_ncRLoqe7bkzjAmOAALjGmsb4FhRVC-1gJ5sKbuRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQKmsJ6HXp7XA0eOD4YjslKmNCNBaiAALkGmsb4FhRVFX4k2VA6mYwAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-28 05:36:09
 
-[查看原文](https://x.com/aleabitoreddit/status/2126406828980686901)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+In terms of laser industry dynamics: 
+
+- $LITE: "Take or pay. There's a very strong commitment from the customer side, and in some cases, there's a prepay element as well". Hyperscalers were explicitly funding their capacity expansion as well
+
+- $COHR: Upfront payments in almost
+
+[查看原文](https://x.com/aleabitoreddit/status/2126429899141636315)
+
+---
+
+## 2026-11-28 06:02:51
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aleabitoreddit: Industry channel check with Yuanjie Semiconductor: 
+
+- The company is currently not supplying Eoptolink because its own…
+
+[查看原文](https://x.com/aleabitoreddit/status/2126436615463805255)
 
 ---
 
