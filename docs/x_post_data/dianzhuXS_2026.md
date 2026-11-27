@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 852 条推文
+> 📊 推文存档 - 共 853 条推文
 
 ---
 
@@ -39,7 +39,20 @@ RT @dianzhuXS: 川普任期內，朝鮮大概率會開啟「改開2.0」，大�
 
 國民黨就是共產黨
 
-[查看原文](https://x.com/dianzhuXS/status/2126130020389450165)
+---
+
+## 2026-11-27 11:28:04
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+終於知道國民黨為什麼舔共了
+因為牠們行事作風完全一致 https://t.co/tzn98G5BSE
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQDGsI_9VVIrKwE8LJNjD-Hd4OPz7KAAJoFmsb4FhJVNTH51wSF1yFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2126156074541854827)
 
 ---
 
