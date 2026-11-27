@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5389 条推文
+> 📊 推文存档 - 共 5394 条推文
 
 ---
 
@@ -73,8 +73,6 @@ RT @teslaownersSV: Tim Urban on @elonmusk: "He's truly trying to do these big th
 
 RT @altcap: Must Listen to the end! @GavinNewsom rises above politics &amp; nails it.  “I emphatically encourage people to claim their Trump Ac…
 
-[查看原文](https://x.com/elonmusk/status/2126387684952404350)
-
 ---
 
 ## 2026-11-28 02:51:19
@@ -84,8 +82,6 @@ RT @altcap: Must Listen to the end! @GavinNewsom rises above politics &amp; nail
 **内容**:
 
 RT @paulg: 15 year olds in California may to have to ride in a booster seat starting in January? We're now well into the territory of self-…
-
-[查看原文](https://x.com/elonmusk/status/2126388416514601251)
 
 ---
 
@@ -97,8 +93,6 @@ RT @paulg: 15 year olds in California may to have to ride in a booster seat star
 
 Grok Bot is great at finding you the best deals on the Internet
 
-[查看原文](https://x.com/elonmusk/status/2126388636325499201)
-
 ---
 
 ## 2026-11-28 02:52:57
@@ -109,7 +103,67 @@ Grok Bot is great at finding you the best deals on the Internet
 
 Accurate
 
-[查看原文](https://x.com/elonmusk/status/2126388828852105325)
+---
+
+## 2026-11-28 02:58:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @aaronburnett: a recent run of our model forecasting Starship launches and its estimated cargo split over the next several years.  Hard…
+
+[查看原文](https://x.com/elonmusk/status/2126390259995095203)
+
+---
+
+## 2026-11-28 03:00:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Grok Build upgrades
+
+[查看原文](https://x.com/elonmusk/status/2126390700660920546)
+
+---
+
+## 2026-11-28 03:13:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @libsoftiktok: 15-year-olds in California are now forced to use a booster seat in a car unless they pass a test... but they can change t…
+
+[查看原文](https://x.com/elonmusk/status/2126394040971301037)
+
+---
+
+## 2026-11-28 03:22:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @LuckyMcGee: While white liberals in Boston officially recognize Thanksgiving as a “Day of Mourning,” I‘d like to take a moment to remem…
+
+[查看原文](https://x.com/elonmusk/status/2126396380079854034)
+
+---
+
+## 2026-11-28 03:27:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it!
+
+Neon is looking particularly promising, but Opus is also excellent in most cases.
+
+[查看原文](https://x.com/elonmusk/status/2126397498071670827)
 
 ---
 
