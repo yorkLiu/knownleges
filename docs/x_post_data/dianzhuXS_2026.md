@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 853 条推文
+> 📊 推文存档 - 共 854 条推文
 
 ---
 
@@ -50,9 +50,22 @@ RT @dianzhuXS: 川普任期內，朝鮮大概率會開啟「改開2.0」，大�
 終於知道國民黨為什麼舔共了
 因為牠們行事作風完全一致 https://t.co/tzn98G5BSE
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQDGsI_9VVIrKwE8LJNjD-Hd4OPz7KAAJoFmsb4FhJVNTH51wSF1yFAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2126156074541854827)
+## 2026-11-27 12:09:31
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+【精緻利己是把雙刃劍】
+
+用魔法打敗魔法
+用劣根性打敗共產黨 https://t.co/TuXINs73DS
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQEGsJBziKhx1LLsv2rpErUySH3xQSAAKJFmsb4FhJVGB5PsM_83PQAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2126166504265969678)
 
 ---
 

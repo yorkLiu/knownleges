@@ -7,7 +7,29 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 666 条推文
+> 📊 推文存档 - 共 667 条推文
+
+---
+
+## 2026-11-27 12:02:26
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Allianz: "The sell-off has so far looked more like an unwind of crowded positions than a fundamental break in the AI investment case."
+
+Three negative catalysts from: 
+
+$NVDA CEO change, US congressional measures, and restrictions Nvidia chips access internationally, triggered a https://t.co/WmFkbLoYXR
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQDWsJBzBF0ib8Y5otLN-Q2_pJPlLGAAKGFmsb4FhJVGJ2MfT35F08AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQDmsJBzMzOAehsSrLC-eC4sy4oOrqAAKHFmsb4FhJVNQRjm9zZdN_AQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQD2sJBzZBF3tYIRwSflNzkYRuddoZAAKIFmsb4FhJVHLyolPTI3ugAQADAgADeQADPQQ.jpg" alt="图片 3" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2126164719522426935)
 
 ---
 

@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5373 条推文
+> 📊 推文存档 - 共 5374 条推文
 
 ---
 
@@ -81,7 +81,17 @@ Super appreciate your support. Tesla wouldn’t be where it is without our aweso
 
 Vital that children have a stake in the future
 
-[查看原文](https://x.com/elonmusk/status/2126110344120762593)
+---
+
+## 2026-11-27 12:03:22
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @jack: @cybertruck greatest robot out there
+
+[查看原文](https://x.com/elonmusk/status/2126164955875692589)
 
 ---
 
