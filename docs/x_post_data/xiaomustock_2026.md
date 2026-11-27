@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @xiaomustock
 
-> 📊 推文存档 - 共 518 条推文
+> 📊 推文存档 - 共 519 条推文
 
 ---
 
@@ -65,9 +65,20 @@ a股今天早盘全买了回来，昨天看到一个视频，拿了几年半导�
 deepseek可能要对app普通用户端收费了
 对其他模型是利好 https://t.co/HfbwpCWgkL
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQGGsJMsbEj29lTXxZ9JnZbvhzT7MNAAKLF2sb4FhRVLOuZ_KIXHyaAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/xiaomustock/status/2126216498972950552)
+## 2026-11-27 21:20:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+昨天是海力士第一次外资净买入，
+今天是整个韩股外资净买入。 https://t.co/jgAZMrHjgj
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQHWsJifZueKfvHw3eGxuqwOr1_8ExAAL-GGsb4FhRVNRDUVToeR_eAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/xiaomustock/status/2126305038968738148)
 
 ---
 
