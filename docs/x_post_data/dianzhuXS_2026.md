@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 854 条推文
+> 📊 推文存档 - 共 855 条推文
 
 ---
 
@@ -63,9 +63,21 @@ RT @dianzhuXS: 川普任期內，朝鮮大概率會開啟「改開2.0」，大�
 用魔法打敗魔法
 用劣根性打敗共產黨 https://t.co/TuXINs73DS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQEGsJBziKhx1LLsv2rpErUySH3xQSAAKJFmsb4FhJVGB5PsM_83PQAQADAgADeAADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2126166504265969678)
+## 2026-11-27 18:06:50
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+應援成功💪💪💪 https://t.co/uAQHrncOoL
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQGWsJVx5qdGnmwNzVE7VQ_yi7njXzAAK0F2sb4FhRVH54NNpcwImEAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQGmsJVyGYRKn4To0qXgM3wkNBTUMWAAK1F2sb4FhRVOEle1iPBdvjAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2126256424028397736)
 
 ---
 
