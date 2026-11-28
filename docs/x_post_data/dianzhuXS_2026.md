@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 862 条推文
+> 📊 推文存档 - 共 863 条推文
 
 ---
 
@@ -29,9 +29,19 @@ tags: ["2026"]
 
 街坊炸雞，據說開了幾十年了，子承父業味道沒變 https://t.co/P86cJCAKxq
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQLGsKMQ6UUgUkI1f8mhH1ynK-hHvzAALOFGsbLOVRVEoeKaUb12RRAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2126485342937321954)
+## 2026-11-28 10:52:37
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+排好久 https://t.co/d8AllYYYJn
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQLmsKRtqkWSYdHJR2e8pl9uhICZoeAAL5FGsbLOVRVDfAzH9PS89YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2126509537608036492)
 
 ---
 
