@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5421 条推文
+> 📊 推文存档 - 共 5426 条推文
 
 ---
 
@@ -408,8 +408,6 @@ RT @SawyerMerritt: I've had Grok @Bot find the best Black Friday deals for me al
 
 RT @TimSweeneyEpic: Grok fairs quite well in "high level understanding" like Gemini Neon. Here's Grok's explaination of Lean's Prop/Type se…
 
-[查看原文](https://x.com/elonmusk/status/2126477913898078443)
-
 ---
 
 ## 2026-11-28 08:52:58
@@ -419,8 +417,6 @@ RT @TimSweeneyEpic: Grok fairs quite well in "high level understanding" like Gem
 **内容**:
 
 RT @piersmorgan: Disgusting.
-
-[查看原文](https://x.com/elonmusk/status/2126479427966267820)
 
 ---
 
@@ -432,8 +428,6 @@ RT @piersmorgan: Disgusting.
 
 Extremely troubling
 
-[查看原文](https://x.com/elonmusk/status/2126479727066272164)
-
 ---
 
 ## 2026-11-28 08:54:25
@@ -444,9 +438,77 @@ Extremely troubling
 
 RT @AJamesMcCarthy: My photo of Starship in @TIME 😍 https://t.co/JFQUKSqMPh
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQK2sKKckW5DOeKJii8uchsorykl9vAALAFGsbLOVRVHkAAXj-awPDAAEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/elonmusk/status/2126479794263277891)
+## 2026-11-28 09:10:54
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @boringcompany: Wanna Race?  
+
+Vegas Loop versus Surface Drive along Paradise Road in Las Vegas
+
+Third part of the “Wanna Race Trilogy”…
+
+[查看原文](https://x.com/elonmusk/status/2126483940340822420)
+
+---
+
+## 2026-11-28 09:12:35
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @EYakoby: Women in Afghanistan no longer have the right to have a name.
+
+The UN? Silent.
+
+The media? Silent.
+
+Amnesty International? Sil…
+
+[查看原文](https://x.com/elonmusk/status/2126484365500924314)
+
+---
+
+## 2026-11-28 09:17:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Birth rate collapse in civilizations throughout history occurs whenever there is a long period of prosperity and no serious external threats. 
+
+Rome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats
+
+[查看原文](https://x.com/elonmusk/status/2126485536177045967)
+
+---
+
+## 2026-11-28 09:34:19
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yup
+
+[查看原文](https://x.com/elonmusk/status/2126489832977473981)
+
+---
+
+## 2026-11-28 09:38:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Yes
+
+[查看原文](https://x.com/elonmusk/status/2126490784296034466)
 
 ---
 
