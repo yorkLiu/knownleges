@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5429 条推文
+> 📊 推文存档 - 共 5431 条推文
 
 ---
 
@@ -510,8 +510,6 @@ Yes
 
 Super intelligent AI eliminates any company’s software advantage
 
-[查看原文](https://x.com/elonmusk/status/2126491449722302494)
-
 ---
 
 ## 2026-11-28 09:44:13
@@ -521,8 +519,6 @@ Super intelligent AI eliminates any company’s software advantage
 **内容**:
 
 RT @krispykriskring: At the 1976 Summer Olympics in Montreal, reporters asked East German swimming coaches why their teenage female athlete…
-
-[查看原文](https://x.com/elonmusk/status/2126492326394544143)
 
 ---
 
@@ -536,7 +532,32 @@ RT @ArthurMacwaters: Even in modern times, prosperity generally is correlated wi
 
 This is a very bad thing for civi…
 
-[查看原文](https://x.com/elonmusk/status/2126495122414031100)
+---
+
+## 2026-11-28 10:19:43
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @kidpakerot: can confirm. our yc startup's marketing literally runs on grok bot.
+
+3 ultra accounts, rotated all week. it helped us:
+- hi…
+
+[查看原文](https://x.com/elonmusk/status/2126501260845326406)
+
+---
+
+## 2026-11-28 10:37:39
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+❤️
+
+[查看原文](https://x.com/elonmusk/status/2126505770988548516)
 
 ---
 
