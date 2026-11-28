@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 676 条推文
+> 📊 推文存档 - 共 677 条推文
 
 ---
 
@@ -110,11 +110,23 @@ I'm playing Pokemon and reading Leopold's 167 page Situational Awareness letter.
 
 - On $SKHY, estimates, it to be roughly 2x 2027 earnings, https://t.co/cTp7cA7Pg3
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQNWsKngqxIz49duC-qPekGBPtyuphAAIoGGsbLOVZVBDt4DuiB3JQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQNmsKng5EKetyHBrW739_qeeAtvXdAAIpGGsbLOVZVEDPkGAgClEeAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+## 2026-11-28 18:01:00
 
-[查看原文](https://x.com/aleabitoreddit/status/2126600942560919834)
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Elon Musk 谈 $SPCX 算力租赁价格走势（对 $NBIS、Neocloud 等算力租赁公司具有参考意义):
+
+"大规模、高度互联、专为高带宽训练配置的算力集群，其租赁价格正在上涨，部分涨幅甚至非常显著。但小规模算力集群（约 5,000 张 GPU 以下）的租赁价格正在下降. 
+
+整体而言，SpaceX 算力业务的单 GPU https://t.co/2Z6pMv0h3W
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQOWsKrKT20GGlnUNf70LAU2RX6dVcAAJJGGsbLOVZVJJbiECZX_qqAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2126617345569567144)
 
 ---
 
