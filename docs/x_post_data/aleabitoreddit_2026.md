@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 675 条推文
+> 📊 推文存档 - 共 676 条推文
 
 ---
 
@@ -96,7 +96,25 @@ That said:
 
 - Seeing
 
-[查看原文](https://x.com/aleabitoreddit/status/2126470123901088164)
+---
+
+## 2026-11-28 16:55:49
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+I'm playing Pokemon and reading Leopold's 167 page Situational Awareness letter. I found these interesting:
+
+- Identifies Kioxia (285A) as currently of his fund's largest holdings, estimates it trades below 1x 2027 P/E. 
+
+- On $SKHY, estimates, it to be roughly 2x 2027 earnings, https://t.co/cTp7cA7Pg3
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQNWsKngqxIz49duC-qPekGBPtyuphAAIoGGsbLOVZVBDt4DuiB3JQAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQNmsKng5EKetyHBrW739_qeeAtvXdAAIpGGsbLOVZVEDPkGAgClEeAQADAgADeQADPQQ.jpg" alt="图片 2" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/aleabitoreddit/status/2126600942560919834)
 
 ---
 
