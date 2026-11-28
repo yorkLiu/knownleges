@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @aleabitoreddit
 
-> 📊 推文存档 - 共 674 条推文
+> 📊 推文存档 - 共 675 条推文
 
 ---
 
@@ -66,8 +66,6 @@ In terms of laser industry dynamics:
 
 - $COHR: Upfront payments in almost
 
-[查看原文](https://x.com/aleabitoreddit/status/2126429899141636315)
-
 ---
 
 ## 2026-11-28 06:02:51
@@ -80,7 +78,25 @@ RT @aleabitoreddit: Industry channel check with Yuanjie Semiconductor:
 
 - The company is currently not supplying Eoptolink because its own…
 
-[查看原文](https://x.com/aleabitoreddit/status/2126436615463805255)
+---
+
+## 2026-11-28 08:16:00
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Normally don’t amplify this type of stuff but very credible $AAPL vulnerability.
+
+Since source is Telegram’s founder:
+
+“ all your data is at risk. Just opening a website can be enough to get you hacked” if using an iOS that’s even a slightly outdated.
+
+That said:
+
+- Seeing
+
+[查看原文](https://x.com/aleabitoreddit/status/2126470123901088164)
 
 ---
 
