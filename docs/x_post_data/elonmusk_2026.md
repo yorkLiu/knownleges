@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5437 条推文
+> 📊 推文存档 - 共 5438 条推文
 
 ---
 
@@ -575,8 +575,6 @@ RT @grok: @tdsfixer @teslaownersSV Prosperity, education, and urbanization are t
 
 You can actually do this
 
-[查看原文](https://x.com/elonmusk/status/2126538472508801049)
-
 ---
 
 ## 2026-11-28 12:48:23
@@ -586,10 +584,6 @@ You can actually do this
 **内容**:
 
 RT @cb_doge: This. ♥️ https://t.co/rsSGiX3WHY
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQMmsKY-6HIHqfDLKs3GWbJqRXJwwEAAK3F2sbLOVZVBG5oaqXj2J4AQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2126538672283746709)
 
 ---
 
@@ -601,10 +595,6 @@ RT @cb_doge: This. ♥️ https://t.co/rsSGiX3WHY
 
 Still hard to believe that this actually happened  https://t.co/y0lvvz84NS
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQMWsKY-xMBQdoITYqHmueYkjn-cNrAAK2F2sbLOVZVEjEHfHo6XZXAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2126539857581511160)
-
 ---
 
 ## 2026-11-28 13:05:13
@@ -614,10 +604,6 @@ Still hard to believe that this actually happened  https://t.co/y0lvvz84NS
 **内容**:
 
 RT @alpaysh: i still think about this ngl https://t.co/jkU62Op6Bc
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQMGsKY-kX3WeA2nslqGpaM6jHaj3QAAK1F2sbLOVZVBv6Dpr9H3xoAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2126542909461913897)
 
 ---
 
@@ -629,7 +615,17 @@ RT @alpaysh: i still think about this ngl https://t.co/jkU62Op6Bc
 
 Maybe there is some merit to envy minimization
 
-[查看原文](https://x.com/elonmusk/status/2126545857373741563)
+---
+
+## 2026-11-28 13:27:06
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @BowesChay: New USAID files reveal a Soros-backed group, GDI, was teaching the Biden administration to label stories "disinformation" ev…
+
+[查看原文](https://x.com/elonmusk/status/2126548416453111953)
 
 ---
 
