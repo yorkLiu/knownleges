@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5417 条推文
+> 📊 推文存档 - 共 5421 条推文
 
 ---
 
@@ -335,8 +335,6 @@ Create multiple Grok Bots with specializ…
 
 RT @clavicular: Thank God Grokbot can reply to hundreds of happy thanksgiving texts.
 
-[查看原文](https://x.com/elonmusk/status/2126437499815723485)
-
 ---
 
 ## 2026-11-28 06:07:54
@@ -349,8 +347,6 @@ RT @larsencc: My dad works at a steel fabrication company in Slovenia.
 
 Every order starts as a PDF of technical drawings, and someone has…
 
-[查看原文](https://x.com/elonmusk/status/2126437886501245057)
-
 ---
 
 ## 2026-11-28 06:08:23
@@ -360,8 +356,6 @@ Every order starts as a PDF of technical drawings, and someone has…
 **内容**:
 
 Give Grok Bot your hardest problems
-
-[查看原文](https://x.com/elonmusk/status/2126438008748384711)
 
 ---
 
@@ -373,8 +367,6 @@ Give Grok Bot your hardest problems
 
 This is the way
 
-[查看原文](https://x.com/elonmusk/status/2126438150314631286)
-
 ---
 
 ## 2026-11-28 06:10:11
@@ -384,8 +376,6 @@ This is the way
 **内容**:
 
 Give each Bot a specific job, just like people in a company
-
-[查看原文](https://x.com/elonmusk/status/2126438463520350588)
 
 ---
 
@@ -398,8 +388,6 @@ Give each Bot a specific job, just like people in a company
 RT @Rustavi: 🚨 FSD v15 Reality View in heavy rain.
 Windshield completely blurred, yet the visualization stays sharp. Cars, lanes, road mark…
 
-[查看原文](https://x.com/elonmusk/status/2126439678043976134)
-
 ---
 
 ## 2026-11-28 06:28:25
@@ -410,7 +398,55 @@ Windshield completely blurred, yet the visualization stays sharp. Cars, lanes, r
 
 RT @SawyerMerritt: I've had Grok @Bot find the best Black Friday deals for me all day, and it's actually working really well. Already saved…
 
-[查看原文](https://x.com/elonmusk/status/2126443050394435854)
+---
+
+## 2026-11-28 08:46:57
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @TimSweeneyEpic: Grok fairs quite well in "high level understanding" like Gemini Neon. Here's Grok's explaination of Lean's Prop/Type se…
+
+[查看原文](https://x.com/elonmusk/status/2126477913898078443)
+
+---
+
+## 2026-11-28 08:52:58
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @piersmorgan: Disgusting.
+
+[查看原文](https://x.com/elonmusk/status/2126479427966267820)
+
+---
+
+## 2026-11-28 08:54:09
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Extremely troubling
+
+[查看原文](https://x.com/elonmusk/status/2126479727066272164)
+
+---
+
+## 2026-11-28 08:54:25
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AJamesMcCarthy: My photo of Starship in @TIME 😍 https://t.co/JFQUKSqMPh
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQK2sKKckW5DOeKJii8uchsorykl9vAALAFGsbLOVRVHkAAXj-awPDAAEBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2126479794263277891)
 
 ---
 
