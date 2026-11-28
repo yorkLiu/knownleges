@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5438 条推文
+> 📊 推文存档 - 共 5444 条推文
 
 ---
 
@@ -625,7 +625,81 @@ Maybe there is some merit to envy minimization
 
 RT @BowesChay: New USAID files reveal a Soros-backed group, GDI, was teaching the Biden administration to label stories "disinformation" ev…
 
-[查看原文](https://x.com/elonmusk/status/2126548416453111953)
+---
+
+## 2026-11-28 14:25:40
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+It is very useful
+
+[查看原文](https://x.com/elonmusk/status/2126563155157344530)
+
+---
+
+## 2026-11-28 14:35:14
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @WallStreetMav: Therapy is such a funny concept.
+
+It’s basically: “wow, I have so many problems in my life. I should talk to some idiot…
+
+[查看原文](https://x.com/elonmusk/status/2126565564558537075)
+
+---
+
+## 2026-11-28 14:35:24
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+🎯
+
+[查看原文](https://x.com/elonmusk/status/2126565603016425859)
+
+---
+
+## 2026-11-28 14:38:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ivan_bezdomny: Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving.…
+
+[查看原文](https://x.com/elonmusk/status/2126566261543076022)
+
+---
+
+## 2026-11-28 14:41:05
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @god_of_ai7: Geminiの昔と今... https://t.co/T5i1TF4mYT
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQM2sKebZbucbYOmE7Cx_40_5nGQQRAALvF2sbLOVZVJvmsBa1AhZDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/elonmusk/status/2126567035308233215)
+
+---
+
+## 2026-11-28 14:44:36
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ducksays: ELON IS TELLING YOU HOW TO USE GROK BOT.
+
+[查看原文](https://x.com/elonmusk/status/2126567918884331840)
 
 ---
 
