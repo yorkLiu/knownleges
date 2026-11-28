@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 867 条推文
+> 📊 推文存档 - 共 868 条推文
 
 ---
 
@@ -79,9 +79,31 @@ https://t.co/EXkurTbzop
 
 💪💪💪 https://t.co/O5QzxPLNjP
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQOGsKpWBU32e9Pfk0PIbCTkIcLfSQAAI3GGsbLOVZVJq44jGnyMZLAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2126609710824734926)
+## 2026-11-28 20:09:27
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+這次在台灣沈浸式觀選
+從投票前夜
+與當地居民的零距離接觸
+到選舉當天早上
+到投票所參觀排隊人群
+再到剛剛開票之夜
+幾萬人的同頻轟鳴
+感觸太深了
+千言萬語匯成一句話
+中國大陸100年也趕不上台灣！
+豬肝色護照
+別抱任何幻想
+改國籍 https://t.co/qMFNLbSg2O
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQOmsKybTpbMEAAV9BYfsEK3WY9qQzxgACzRhrGyzlWVSGwaP2WkAAAeYBAAMCAAN5AAM9BA.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2126649673201176843)
 
 ---
 
