@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5444 条推文
+> 📊 推文存档 - 共 5448 条推文
 
 ---
 
@@ -635,8 +635,6 @@ RT @BowesChay: New USAID files reveal a Soros-backed group, GDI, was teaching th
 
 It is very useful
 
-[查看原文](https://x.com/elonmusk/status/2126563155157344530)
-
 ---
 
 ## 2026-11-28 14:35:14
@@ -649,8 +647,6 @@ RT @WallStreetMav: Therapy is such a funny concept.
 
 It’s basically: “wow, I have so many problems in my life. I should talk to some idiot…
 
-[查看原文](https://x.com/elonmusk/status/2126565564558537075)
-
 ---
 
 ## 2026-11-28 14:35:24
@@ -660,8 +656,6 @@ It’s basically: “wow, I have so many problems in my life. I should talk to s
 **内容**:
 
 🎯
-
-[查看原文](https://x.com/elonmusk/status/2126565603016425859)
 
 ---
 
@@ -673,8 +667,6 @@ It’s basically: “wow, I have so many problems in my life. I should talk to s
 
 RT @ivan_bezdomny: Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving.…
 
-[查看原文](https://x.com/elonmusk/status/2126566261543076022)
-
 ---
 
 ## 2026-11-28 14:41:05
@@ -684,10 +676,6 @@ RT @ivan_bezdomny: Anthropic releases a statement and clarification on Claude sa
 **内容**:
 
 RT @god_of_ai7: Geminiの昔と今... https://t.co/T5i1TF4mYT
-
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQM2sKebZbucbYOmE7Cx_40_5nGQQRAALvF2sbLOVZVJvmsBa1AhZDAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
-
-[查看原文](https://x.com/elonmusk/status/2126567035308233215)
 
 ---
 
@@ -699,7 +687,59 @@ RT @god_of_ai7: Geminiの昔と今... https://t.co/T5i1TF4mYT
 
 RT @ducksays: ELON IS TELLING YOU HOW TO USE GROK BOT.
 
-[查看原文](https://x.com/elonmusk/status/2126567918884331840)
+---
+
+## 2026-11-28 19:42:01
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @AngryBDG: Soo..... I downloaded the https://t.co/s9bi0lDcSg files and fed them through a few grinders and built an Obsidian vault...…
+
+[查看原文](https://x.com/elonmusk/status/2126642766809550889)
+
+---
+
+## 2026-11-28 19:43:28
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Milajoy: It's been determined that George Soros received $260M from USAID. 
+
+He didn't spend his own money to destroy the American just…
+
+[查看原文](https://x.com/elonmusk/status/2126643130690646050)
+
+---
+
+## 2026-11-28 19:45:47
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @Milajoy: 6,000 journalists and 700 newsrooms received USAID money. 
+
+Think about that. 
+
+It's a wonder all of them parrot the same news…
+
+[查看原文](https://x.com/elonmusk/status/2126643715842158849)
+
+---
+
+## 2026-11-28 19:47:10
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Exactly. They caused a lot of death.
+
+[查看原文](https://x.com/elonmusk/status/2126644063525089628)
 
 ---
 
