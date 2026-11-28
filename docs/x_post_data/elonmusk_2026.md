@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @elonmusk
 
-> 📊 推文存档 - 共 5426 条推文
+> 📊 推文存档 - 共 5429 条推文
 
 ---
 
@@ -452,8 +452,6 @@ Vegas Loop versus Surface Drive along Paradise Road in Las Vegas
 
 Third part of the “Wanna Race Trilogy”…
 
-[查看原文](https://x.com/elonmusk/status/2126483940340822420)
-
 ---
 
 ## 2026-11-28 09:12:35
@@ -470,8 +468,6 @@ The media? Silent.
 
 Amnesty International? Sil…
 
-[查看原文](https://x.com/elonmusk/status/2126484365500924314)
-
 ---
 
 ## 2026-11-28 09:17:14
@@ -484,8 +480,6 @@ Birth rate collapse in civilizations throughout history occurs whenever there is
 
 Rome had a very high birth rate during existential wars with Carthage and then very low after they had destroyed all external threats
 
-[查看原文](https://x.com/elonmusk/status/2126485536177045967)
-
 ---
 
 ## 2026-11-28 09:34:19
@@ -495,8 +489,6 @@ Rome had a very high birth rate during existential wars with Carthage and then v
 **内容**:
 
 Yup
-
-[查看原文](https://x.com/elonmusk/status/2126489832977473981)
 
 ---
 
@@ -508,7 +500,43 @@ Yup
 
 Yes
 
-[查看原文](https://x.com/elonmusk/status/2126490784296034466)
+---
+
+## 2026-11-28 09:40:44
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+Super intelligent AI eliminates any company’s software advantage
+
+[查看原文](https://x.com/elonmusk/status/2126491449722302494)
+
+---
+
+## 2026-11-28 09:44:13
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @krispykriskring: At the 1976 Summer Olympics in Montreal, reporters asked East German swimming coaches why their teenage female athlete…
+
+[查看原文](https://x.com/elonmusk/status/2126492326394544143)
+
+---
+
+## 2026-11-28 09:55:20
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+RT @ArthurMacwaters: Even in modern times, prosperity generally is correlated with lower fertility rate 
+
+This is a very bad thing for civi…
+
+[查看原文](https://x.com/elonmusk/status/2126495122414031100)
 
 ---
 
