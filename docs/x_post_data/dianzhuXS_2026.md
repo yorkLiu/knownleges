@@ -7,7 +7,7 @@ tags: ["2026"]
 
 # @dianzhuXS
 
-> 📊 推文存档 - 共 863 条推文
+> 📊 推文存档 - 共 864 条推文
 
 ---
 
@@ -39,9 +39,19 @@ tags: ["2026"]
 
 排好久 https://t.co/d8AllYYYJn
 
-<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQLmsKRtqkWSYdHJR2e8pl9uhICZoeAAL5FGsbLOVRVDfAzH9PS89YAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+---
 
-[查看原文](https://x.com/dianzhuXS/status/2126509537608036492)
+## 2026-11-28 11:53:18
+
+<a href="/tags.html?tag=今日关注" class="tag-badge tag-今日关注">🏷️ 今日关注</a>
+
+**内容**:
+
+全世界都討厭的三個字 https://t.co/3TeUBZfdUP
+
+<img src="https://telegraph-image-fork.pages.dev/file/AgACAgUAAxkDAAIQL2sKVWK1wc_euQguViY35HQj_1wqAAIPFWsbLOVRVLhRz1eFAmmJAQADAgADeQADPQQ.jpg" alt="图片 1" style="max-width:100%;border-radius:8px;margin:8px 0;">
+
+[查看原文](https://x.com/dianzhuXS/status/2126524811010883790)
 
 ---
 
